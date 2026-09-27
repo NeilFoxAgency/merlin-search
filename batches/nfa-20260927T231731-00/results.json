@@ -1,0 +1,1560 @@
+[
+  {
+    "company_domain": "allarahealth.com",
+    "company_name": "Allara Shop",
+    "website": "https://shop.allarahealth.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://shop.allarahealth.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.allarahealth.com/collections/hormone-support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.allarahealth.com/collections/pcos-hormone-support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.allarahealth.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.allarahealth.com/products/metabolism-support?variant=51902074454332",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.allarahealth.com/products/anti-inflammatory-support?variant=51892380434748",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.allarahealth.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.allarahealth.com/products/anti-inflammatory-support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Targeted hormonal and metabolic health with supplements that work. Allara\u2019s science-backed formulas support your PCOS symptoms, cycle, mood, energy, and more.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 16
+  },
+  {
+    "company_domain": "allaroundebikes.com",
+    "company_name": "All Around E-Bikes",
+    "website": "https://allaroundebikes.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@allaroundebikes.com",
+        "confidence": "high",
+        "source_url": "https://allaroundebikes.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Hours: Mon.-Fri. 9AM-6PM EST Phone: 1-888-725-4887 Email: Support@allaroundebikes.com All Around E-Bikes, LLC 691 John Wesley Dobbs Ave NE Suite"
+      }
+    ],
+    "role_emails": [
+      "support@allaroundebikes.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://allaroundebikes.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allaroundebikes.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allaroundebikes.com/collections/tipke-manufacturing-company-inc",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allaroundebikes.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allaroundebikes.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://allaroundebikes.com/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://allaroundebikes.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Riding an electric bike is pure fun. See our 500w electric beach cruiser bikes. Want more power? Check out the Young Electric 750w E-Scout Pro with a 48v battery. See our selection of folding and trail e-bikes too. Free shipping in 48 states. Finance bikes with Klarna or PayTomorrow or lease to own ",
+    "source_urls": [
+      "https://allaroundebikes.com",
+      "https://allaroundebikes.com/contact",
+      "https://allaroundebikes.com/collections/tipke-manufacturing-company-inc",
+      "https://allaroundebikes.com/pages/contact-us",
+      "https://allaroundebikes.com/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "allavino.com",
+    "company_name": "Allavino.com",
+    "website": "https://www.allavino.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "sales@allavino.com",
+        "confidence": "highest",
+        "source_url": "https://www.allavino.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "lani Dr San Diego, CA 92126 Email sales@allavino.com Contact Us Na"
+      }
+    ],
+    "role_emails": [
+      "sales@allavino.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.allavino.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.allavino.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2019-12-13"
+      },
+      {
+        "url": "https://www.allavino.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.allavino.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.allavino.com/pages/contact-us",
+        "action": "/contact#contact-template--17193696002206__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Allavino offers luxury wine refrigerators at a great price. Stylish design, quality construction, and precision temperature control keep your fine wines under the ideal conditions for aging.",
+    "source_urls": [
+      "https://www.allavino.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "allaylamp.com",
+    "company_name": "Allay Lamp",
+    "website": "https://allaylamp.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "feedback@allaylamp.com",
+        "confidence": "highest",
+        "source_url": "https://allaylamp.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "lay discovery was made, so he welcomes hearing from you at feedback@allaylamp.com . Ready to Reclaim Your Life?"
+      },
+      {
+        "address": "help@allaylamp.com",
+        "confidence": "highest",
+        "source_url": "https://allaylamp.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "our answer or just want to say hello, send us an email at help@allaylamp.com . Our expert support team will be happy to help you!"
+      },
+      {
+        "address": "founders@allaylamp.com",
+        "confidence": "high",
+        "source_url": "https://allaylamp.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "feedback@allaylamp.com",
+      "founders@allaylamp.com",
+      "help@allaylamp.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://allaylamp.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Allay's patented narrow band of green light is uniquely soothing to your eyes and brain, even when you're most sensitive to light. Discovered by a Harvard Medical School neuroscientist, Allay's precise light is calming during a migraine - or any time - helping you get back to reading, working, and b",
+    "source_urls": [
+      "https://allaylamp.com"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "allbackyardfun.com",
+    "company_name": "All Backyard Fun",
+    "website": "https://www.allbackyardfun.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customercare@allbackyardfun.com",
+        "confidence": "highest",
+        "source_url": "https://www.allbackyardfun.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "1-800-451-2550 customercare@allbackyardfun.com 325 Interlocken Pkwy Suite 110-ABroomfield, C"
+      }
+    ],
+    "role_emails": [
+      "customercare@allbackyardfun.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.allbackyardfun.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.allbackyardfun.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2023-12-04"
+      },
+      {
+        "url": "https://www.allbackyardfun.com/collections/shop-by-brand-northcape-patio-furniture-nci-wicker-grand-stafford",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.allbackyardfun.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.allbackyardfun.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Explore All Backyard Fun, the exclusive online distributor of the Original Oriflamme Gas Fire Table. Shop top brands like Northcape, Sunset West, Prism Hardscapes, and Elaine Smith for premium outdoor furniture and accessories. Create your perfect backyard oasis with customizable fire tables and lux",
+    "source_urls": [
+      "https://www.allbackyardfun.com",
+      "https://www.allbackyardfun.com/collections/shop-by-brand-northcape-patio-furniture-nci-wicker-grand-stafford",
+      "https://www.allbackyardfun.com/pages/contact",
+      "https://www.allbackyardfun.com/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "allbirdproducts.com",
+    "company_name": "allbirdproducts.com",
+    "website": "https://allbirdproducts.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": "Shop bird medications, antibiotics, and supplements for parrots, budgies, and pet birds. Reliable U.S. shipping from a trusted avian supply source.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "allbirds.com",
+    "company_name": "Allbirds",
+    "website": "https://www.allbirds.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "help@allbirds.com",
+        "confidence": "highest",
+        "source_url": "https://www.allbirds.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Help + - Help help@allbirds.com FAQ/Contact Us Returns/Exchanges Sh"
+      }
+    ],
+    "role_emails": [
+      "help@allbirds.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.allbirds.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.allbirds.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.allbirds.com/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Allbirds: The world\u2019s most comfortable shoes, flats, and clothing made with natural materials like merino wool and eucalyptus. FREE shipping & returns.",
+    "source_urls": [
+      "https://www.allbirds.com",
+      "https://www.allbirds.com/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "allblackfootwear.com",
+    "company_name": "ALL BLACK Footwear",
+    "website": "https://allblackfootwear.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@allblackfootwear.com",
+        "confidence": "high",
+        "source_url": "https://allblackfootwear.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Phone\uff1a 203 344 9220 Fax\uff1a 203 344 9219 Service Email\uff1a info@allblackfootwear.com Service Time\uff1a Mon to Fri 10:00 - 17:00 Contact"
+      }
+    ],
+    "role_emails": [
+      "info@allblackfootwear.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://allblackfootwear.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allblackfootwear.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2023-06-01"
+      },
+      {
+        "url": "https://allblackfootwear.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allblackfootwear.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://allblackfootwear.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Explore ALL BLACK's designer women's shoes. Discover chic loafers and casual leather flats\u2014timeless styles crafted for quality and comfort.",
+    "source_urls": [
+      "https://allblackfootwear.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "allbororentals.com",
+    "company_name": "All Borough Party Rentals",
+    "website": "https://allbororentals.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@allbororentals.com",
+        "confidence": "highest",
+        "source_url": "https://allbororentals.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "49-7990 info@allbororentals.com Working"
+      }
+    ],
+    "role_emails": [
+      "info@allbororentals.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://allbororentals.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allbororentals.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2023-12-05"
+      },
+      {
+        "url": "https://allbororentals.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allbororentals.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://allbororentals.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Rent chairs, tables, tents and linens for weddings, birthdays and corporate events in NYC, Long Island, Westchester, NJ and CT. Order by 5 PM the day before.",
+    "source_urls": [
+      "https://allbororentals.com",
+      "https://allbororentals.com/pages/about-us",
+      "https://allbororentals.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "allborrow.com",
+    "company_name": "All Borrow",
+    "website": "https://www.allborrow.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@allborrow.com",
+        "confidence": "high",
+        "source_url": "https://www.allborrow.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "hello@allborrow.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.allborrow.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.allborrow.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.allborrow.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Rent Indian & South Asian formalwear for weddings and events. Browse lehengas, sarees, anarkalis, kurtas, sherwanis & more for women and men, with free 2-day shipping to the U.S. & Canada.",
+    "source_urls": [
+      "https://www.allborrow.com",
+      "https://www.allborrow.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "allcapstudio.com",
+    "company_name": "All Caps Studio",
+    "website": "https://www.allcapstudio.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@allcapstudio.com",
+        "confidence": "high",
+        "source_url": "https://www.allcapstudio.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "hello@allcapstudio.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.allcapstudio.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.allcapstudio.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.allcapstudio.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.allcapstudio.com/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "A video production company making explainer videos, product demos, brand films and social ads. One producer, and a vetted bench of directors and animators.",
+    "source_urls": [
+      "https://www.allcapstudio.com",
+      "https://www.allcapstudio.com/about",
+      "https://www.allcapstudio.com/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "allcitizens.com",
+    "company_name": "All Citizens",
+    "website": "https://allcitizens.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Wholesale Inquiries",
+        "title": null,
+        "email": "wholesale@allcitizens.com",
+        "source_url": "https://allcitizens.com"
+      }
+    ],
+    "people": [
+      {
+        "name": "Wholesale Inquiries",
+        "title": null,
+        "email": "wholesale@allcitizens.com",
+        "source_url": "https://allcitizens.com"
+      }
+    ],
+    "emails": [
+      {
+        "address": "hello@allcitizens.com",
+        "confidence": "highest",
+        "source_url": "https://allcitizens.com/products/tactical-ii-compression-shorts",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "detailed fit guide Contact hello@allcitizens.com for further assistance Product v"
+      },
+      {
+        "address": "wholesale@allcitizens.com",
+        "confidence": "highest",
+        "source_url": "https://allcitizens.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "hello@allcitizens.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://allcitizens.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allcitizens.com/products/tactical-ii-compression-shorts",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Our Paradise Pocket\u2122 ball pouch underwear provides unparalleled comfort by separating your \u201cboys\u201d from your thighs. At All Citizens, we build category-leading products, from Performance Dress Shirts to Aerospace-Grade Sunglasses and beyond, at affordable prices. Grab high-performance underwear for m",
+    "source_urls": [
+      "https://allcitizens.com",
+      "https://allcitizens.com/products/tactical-ii-compression-shorts"
+    ],
+    "reason": null,
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "allcitycandy.com",
+    "company_name": "All City Candy",
+    "website": "https://allcitycandy.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@allcitycandy.com",
+        "confidence": "highest",
+        "source_url": "https://allcitycandy.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Store Locations info@AllCityCandy.com 216-487-7070"
+      }
+    ],
+    "role_emails": [
+      "info@allcitycandy.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://allcitycandy.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allcitycandy.com/pages/contact-us-find-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allcitycandy.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "All City Candy offers a huge selection of fresh candy and great service in Cleveland, Ohio. Find all your favorites like Hershey's, Brach's, Waggoner, Tootsie Pops, Jelly Belly, Andes Mints, Gustaf, Pez, nostalgic candy, bulk candy for candy buffets, novelty candy, retro candy, gift baskets & more!",
+    "source_urls": [
+      "https://allcitycandy.com",
+      "https://allcitycandy.com/pages/contact-us-find-us",
+      "https://allcitycandy.com/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "allcornhole.com",
+    "company_name": "AllCornhole",
+    "website": "https://allcornhole.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "cs@allcornhole.com",
+        "confidence": "high",
+        "source_url": "https://allcornhole.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "info@allcornhole.com",
+        "confidence": "high",
+        "source_url": "https://allcornhole.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "tact us. Hours : Weekdays, 8 am - 5 pm CST 1 (888) 577-4460 info@allcornhole.com ACL Approved Official Partner of th"
+      }
+    ],
+    "role_emails": [
+      "cs@allcornhole.com",
+      "info@allcornhole.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://allcornhole.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allcornhole.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allcornhole.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allcornhole.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allcornhole.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "All of our Professional Quality Cornhole Bags and Cornhole Boards are Made in our State-Of-The-Art factories in the USA.",
+    "source_urls": [
+      "https://allcornhole.com/contact",
+      "https://allcornhole.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "allcottonandlinen.com",
+    "company_name": "All Cotton and Linen",
+    "website": "https://www.allcottonandlinen.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customerservice@allcottonandlinen.com",
+        "confidence": "high",
+        "source_url": "https://www.allcottonandlinen.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "customerservice@allcottonandlinen.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.allcottonandlinen.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.allcottonandlinen.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.allcottonandlinen.com/pages/about-our-fabrics",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.allcottonandlinen.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.allcottonandlinen.com/pages/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.allcottonandlinen.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.allcottonandlinen.com/pages/acl-media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.allcottonandlinen.com/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.allcottonandlinen.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Experience luxury organic cotton essentials from All Cotton and Linen napkins, tablecloths, towels, curtains, beddings, placemats, and women\u2019s clothing. Fast Shipping.",
+    "source_urls": [
+      "https://www.allcottonandlinen.com",
+      "https://www.allcottonandlinen.com/contact",
+      "https://www.allcottonandlinen.com/pages/about-our-fabrics",
+      "https://www.allcottonandlinen.com/pages/about-us",
+      "https://www.allcottonandlinen.com/pages/press",
+      "https://www.allcottonandlinen.com/pages/contact-us",
+      "https://www.allcottonandlinen.com/pages/acl-media"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 14
+  },
+  {
+    "company_domain": "allcustomgifts.com",
+    "company_name": "All Custom Gifts",
+    "website": "https://www.allcustomgifts.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@allcustomgifts.com",
+        "confidence": "highest",
+        "source_url": "https://www.allcustomgifts.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "WE'RE HERE TO HELP hello@allcustomgifts.com hello@allcustomgifts.com"
+      },
+      {
+        "address": "orders@allcustomgifts.com",
+        "confidence": "high",
+        "source_url": "https://www.allcustomgifts.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "hello@allcustomgifts.com",
+      "orders@allcustomgifts.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.allcustomgifts.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.allcustomgifts.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.allcustomgifts.com/collections/baseball-team-gifts",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.allcustomgifts.com/collections/team-gifts",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.allcustomgifts.com/collections/personalized-team-items",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.allcustomgifts.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Elevate moments with custom coasters, photo golf balls, mugs, ornaments, and more. Ideal for weddings, birthdays, holidays, or any special occasion.",
+    "source_urls": [
+      "https://www.allcustomgifts.com",
+      "https://www.allcustomgifts.com/pages/contact-us",
+      "https://www.allcustomgifts.com/collections/baseball-team-gifts",
+      "https://www.allcustomgifts.com/collections/team-gifts",
+      "https://www.allcustomgifts.com/collections/personalized-team-items"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "alldayrunningco.com",
+    "company_name": "AllDayRunningCo",
+    "website": "https://www.alldayrunningco.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.alldayrunningco.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Vintage vibey athletic apparel and lifestyle gear created for all.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "alldaysneakers.com",
+    "company_name": "All Day Sneakers",
+    "website": "https://www.alldaysneakers.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@alldaysneakers.com",
+        "confidence": "high",
+        "source_url": "https://www.alldaysneakers.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@alldaysneakers.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.alldaysneakers.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.alldaysneakers.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.alldaysneakers.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "All Day Sneakers is your go to shop for all your sneaker needs. We provide the latest and most popular releases with 100% authenticity guaranteed. Brands carried in store include but not limited to Nike, Jordan, Yeezy, Adidas, New Balance, Supreme, V-Lone, Anti Social Social Club, etc.",
+    "source_urls": [
+      "https://www.alldaysneakers.com",
+      "https://www.alldaysneakers.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "allegiantgoods.co",
+    "company_name": "Allegiant Goods Co.",
+    "website": "https://www.allegiantgoods.co",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.allegiantgoods.co",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.allegiantgoods.co/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.allegiantgoods.co/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Allegiant Goods is a sports apparel brand that creates products that are a reflection of the amazing people and culture that have always made our country great.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "allegoryclo.com",
+    "company_name": "Allegory House",
+    "website": "https://allegoryclo.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hi@allegoryclo.com",
+        "confidence": "highest",
+        "source_url": "https://allegoryclo.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Questions about your order? Reach us anytime at hi@allegoryclo.com . \u00a9 2026 Allegory House"
+      }
+    ],
+    "role_emails": [
+      "hi@allegoryclo.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://allegoryclo.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allegoryclo.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allegoryclo.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allegoryclo.com/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allegoryclo.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allegoryclo.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allegoryclo.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allegoryclo.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allegoryclo.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "The shop is taking a short pause while we get every open order out the door.\n        If you have placed an order, it is being prepared and will ship as planned.\n        Tracking arrives by email the moment it is on the way.",
+    "source_urls": [
+      "https://allegoryclo.com",
+      "https://allegoryclo.com/team",
+      "https://allegoryclo.com/our-team",
+      "https://allegoryclo.com/meet-the-team",
+      "https://allegoryclo.com/about",
+      "https://allegoryclo.com/about-us",
+      "https://allegoryclo.com/press",
+      "https://allegoryclo.com/media",
+      "https://allegoryclo.com/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "allegorygoods.com",
+    "company_name": "Allegory Handcrafted Goods",
+    "website": "https://allegorygoods.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "service@allegorygoods.com",
+        "confidence": "highest",
+        "source_url": "https://allegorygoods.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Search Contact 773.328.8390 service@allegorygoods.com Facebook Twitter Pinter"
+      }
+    ],
+    "role_emails": [
+      "service@allegorygoods.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://allegorygoods.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allegorygoods.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allegorygoods.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allegorygoods.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Allegory Handcrafted Goods is conscious luxury. Handmade writing instruments, leather journals, leather portfolios, padfolios, messenger bags, custom wallets and more.",
+    "source_urls": [
+      "https://allegorygoods.com",
+      "https://allegorygoods.com/about-us",
+      "https://allegorygoods.com/press",
+      "https://allegorygoods.com/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "allegrodanceboutique.com",
+    "company_name": "Allegro Dance Boutique",
+    "website": "https://allegrodanceboutique.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "orders@allegrodanceboutique.com",
+        "confidence": "high",
+        "source_url": "https://allegrodanceboutique.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Call our Evanston location at: (847) 733-8460 Email us at: orders@allegrodanceboutique.com Privacy & Access Privacy & Access"
+      }
+    ],
+    "role_emails": [
+      "orders@allegrodanceboutique.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://allegrodanceboutique.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allegrodanceboutique.com/pages/about-new",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allegrodanceboutique.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://allegrodanceboutique.com/pages/contact-us",
+        "action": "/contact#contact-template--17521737302154__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Allegro is a \"by dancers, for dancers\" boutique with the best dancewear from around the globe. Specializing in pointe shoe fittings, and offering fashionable styles for class or stage, we are here to help!",
+    "source_urls": [
+      "https://allegrodanceboutique.com",
+      "https://allegrodanceboutique.com/pages/about-new",
+      "https://allegrodanceboutique.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "allen-heath.com",
+    "company_name": "Allen & Heath",
+    "website": "https://www.allen-heath.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "challenge_page",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "allen.bike",
+    "company_name": "Allen.Bike",
+    "website": "https://allen.bike",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customerservice@allen.bike",
+        "confidence": "highest",
+        "source_url": "https://allen.bike",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "of vehicle. For additional fit questions, please email customerservice@allen.bike . Accept new to allen? Create Account"
+      }
+    ],
+    "role_emails": [
+      "customerservice@allen.bike"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://allen.bike",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allen.bike/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2019-11-15"
+      },
+      {
+        "url": "https://allen.bike/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allen.bike/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allen.bike/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allen.bike/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://allen.bike/contact",
+        "action": "/contact#contact-template--24099483451415__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://allen.bike/pages/contact-us",
+        "action": "/contact#contact-template--24099483451415__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Leader of the hitch bike racks for over 50 years. Allen has been trusted by outdoor enthusiasts around the world for more than half a century.",
+    "source_urls": [
+      "https://allen.bike",
+      "https://allen.bike/about-us",
+      "https://allen.bike/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "allendesignsstudio.com",
+    "company_name": "Allen Designs Studio",
+    "website": "https://www.allendesignsstudio.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.allendesignsstudio.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.allendesignsstudio.com/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.allendesignsstudio.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.allendesignsstudio.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.allendesignsstudio.com/pages/contact-us/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.allendesignsstudio.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.allendesignsstudio.com/pages/about-michelle-allen",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.allendesignsstudio.com/contact",
+        "action": "/contact#contact-template--23122090623194__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.allendesignsstudio.com/pages/contact-us/",
+        "action": "/contact#contact-template--23122090623194__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.allendesignsstudio.com/pages/contact-us",
+        "action": "/contact#contact-template--23122090623194__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Michelle Allen is a sculptor who creates collectible inspirational gifts and home d\u00e9cor with child-like faces, chubby cheeks and big happy smiles.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  }
+]
