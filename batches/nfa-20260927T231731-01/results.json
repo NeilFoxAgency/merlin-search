@@ -1,0 +1,1608 @@
+[
+  {
+    "company_domain": "allenmusicshop.com",
+    "company_name": "Allen Music Shop",
+    "website": "https://allenmusicshop.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "brandon@allenmusicshop.com",
+        "confidence": "high",
+        "source_url": "https://allenmusicshop.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Contact Us Call us at (270)442-8900 Email at brandon@allenmusicshop.com 215 Kentucky Ave, Paducah, Ky 42003 Hours: Mon-Thurs"
+      },
+      {
+        "address": "guitars@allenmusicshop.com",
+        "confidence": "high",
+        "source_url": "https://allenmusicshop.com/policies/contact-information",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "name: Allen Music Shop Phone number: 2704428900 Email: guitars@allenmusicshop.com Physical address: 215 Kentucky Ave, Paducah KY 42003, Uni"
+      }
+    ],
+    "role_emails": [
+      "brandon@allenmusicshop.com",
+      "guitars@allenmusicshop.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://allenmusicshop.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allenmusicshop.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allenmusicshop.com/collections/compressors",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allenmusicshop.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://allenmusicshop.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "We are a family-owned and operated shop that has been serving our community's music needs for over 45 years. We would love to have the opportunity to serve you today.",
+    "source_urls": [
+      "https://allenmusicshop.com/pages/contact-us",
+      "https://allenmusicshop.com/policies/contact-information"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "allensboots.com",
+    "company_name": "Allens Boots",
+    "website": "https://www.allensboots.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@allensboots.com",
+        "confidence": "highest",
+        "source_url": "https://www.allensboots.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2018-10-01",
+        "context_snippet": "urs: Monday-Friday 9 am - 6 pm CST 1.877.401.9095 info@allensboots.com Interested in hosting an event at Allens? Click h"
+      },
+      {
+        "address": "susie@allensboots.com",
+        "confidence": "high",
+        "source_url": "https://www.allensboots.com/pages/contacts",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Message Submit Customer Service Manager Susie Brewer susie@allensboots.com MONDAY- FRIDAY 9 AM - 5 PM CONTACT US 1"
+      },
+      {
+        "address": "weborders@allensboots.com",
+        "confidence": "high",
+        "source_url": "https://www.allensboots.com/pages/contacts",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "free to either call our store (512) 447-1413 or email us at weborders@allensboots.com Or fill out this contact form below Name E-mail"
+      }
+    ],
+    "role_emails": [
+      "info@allensboots.com",
+      "susie@allensboots.com",
+      "weborders@allensboots.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.allensboots.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.allensboots.com/press",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2018-10-01"
+      },
+      {
+        "url": "https://www.allensboots.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.allensboots.com/pages/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.allensboots.com/pages/about-our-privacy-policy",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.allensboots.com/pages/contacts",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.allensboots.com/press",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.allensboots.com/pages/contacts",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Welcome To Allens Boots! Shop online or in-store for our wide selection of cowboy boots, apparel & more! Got questions? Give us a call at (512) 447-1413.",
+    "source_urls": [
+      "https://www.allensboots.com",
+      "https://www.allensboots.com/press",
+      "https://www.allensboots.com/pages/about-us",
+      "https://www.allensboots.com/pages/press",
+      "https://www.allensboots.com/pages/about-our-privacy-policy",
+      "https://www.allensboots.com/pages/contacts"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "allenschwartz.com",
+    "company_name": "Allen Schwartz",
+    "website": "https://allenschwartz.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://allenschwartz.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "allenstone.com",
+    "company_name": "Allen Stone",
+    "website": "https://www.allenstone.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.allenstone.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.allenstone.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2016-03-11"
+      },
+      {
+        "url": "https://www.allenstone.com/products/allen-stone-mystery-vinyl-3rd-pressing-poster",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Soul and R&B artist Allen Stone is a Washington native with a voice that's reminiscent of the likes of Stevie Wonder and Marvin Gaye.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "allergiecheck.de",
+    "company_name": "allergiecheck.de",
+    "website": "https://allergiecheck.de",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://allergiecheck.de",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allergiecheck.de/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allergiecheck.de/pages/presse",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allergiecheck.de/pages/impressum",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Sie m\u00fcssen nicht mit Ihren Allergiesymptomen leben! Wissenswertes rund um das Thema Allergie - Jetzt \u00fcber Behandlungsoptionen informieren!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "allergybuyersclub.com",
+    "company_name": "Allergy Buyers Club",
+    "website": "https://www.allergybuyersclub.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.allergybuyersclub.com/press",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2017-06-29"
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Plesk is a hosting panel with simple and secure web server, website and web apps management tools. It is specially designed to help web professionals manage web, DNS, mail and other services through a comprehensive and user-friendly GUI. Plesk is about intelligently managing servers, apps, websites ",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "allermi.com",
+    "company_name": "Allermi",
+    "website": "https://www.allermi.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "%20info@allermi.com",
+        "confidence": "highest",
+        "source_url": "https://www.allermi.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "info@allermi.com",
+        "confidence": "highest",
+        "source_url": "https://www.allermi.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ck to top Allergy care made for me. contact us: info@allermi.com Allermi, Inc. is the administrative support entity and all"
+      }
+    ],
+    "role_emails": [
+      "%20info@allermi.com",
+      "info@allermi.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.allermi.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Patent-pending custom allergy treatment designed by board-certified allergists, backed by science, and delivered right to your door",
+    "source_urls": [
+      "https://www.allermi.com"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "allesoverallergie.nl",
+    "company_name": "Alles over allergie",
+    "website": "https://allesoverallergie.nl",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://allesoverallergie.nl",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allesoverallergie.nl/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allesoverallergie.nl/pages/contactallergie-symptomen",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allesoverallergie.nl/pages/contactallergie",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allesoverallergie.nl/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://allesoverallergie.nl/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://allesoverallergie.nl/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Op zoek naar juiste informatie over allergie\u00ebn? Alles over allergie legt je alles uit over verschillende allergie\u00ebn, oorzaken en behandelingen. Lees verder!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "allett-usa.com",
+    "company_name": "ALLETT\u00ae USA",
+    "website": "https://www.allett-usa.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@allett-usa.com",
+        "confidence": "highest",
+        "source_url": "https://www.allett-usa.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Ascauga Lake Road Graniteville South Carolina 29829 Email: info@allett-usa.com About Our Stor"
+      }
+    ],
+    "role_emails": [
+      "info@allett-usa.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.allett-usa.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.allett-usa.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.allett-usa.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "High quality, luxury grade lawns and sports surfaces are mown with Cylinder Reel Mowers, producing superior cuts and stripes. ALLETT Reel Mowers are the top choice for Homeowners & Professionals.",
+    "source_urls": [
+      "https://www.allett-usa.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "alleviatetherapy.com",
+    "company_name": "Alleviate",
+    "website": "https://alleviatetherapy.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@alleviatetherapy.com",
+        "confidence": "highest",
+        "source_url": "https://alleviatetherapy.com/pages/contact-us-2",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "in wholesale? Take a look at our FAQs , or email us at info@alleviatetherapy.com . We strive respond to everyone within 2 business days. T"
+      }
+    ],
+    "role_emails": [
+      "info@alleviatetherapy.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://alleviatetherapy.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alleviatetherapy.com/products/medical-compression-socks-20-mmhg",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alleviatetherapy.com/blogs/alleviate-blog/best-shoes-for-plantar-fasciitis-heres-how-a-former-pro-team-pt-chooses-plantar-fasciitis-shoes-for-his-patients",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alleviatetherapy.com/blogs/alleviate-blog/tennis-elbow-compression-sleeves-vs-tennis-elbow-braces",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alleviatetherapy.com/blogs/alleviate-blog/all-about-posterior-tibial-tendonitis-braces-how-do-pttd-braces-work-and-how-to-choose-one",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alleviatetherapy.com/blogs/alleviate-blog/best-flat-foot-exercises-to-reduce-pain-and-support-your-arch",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alleviatetherapy.com/blogs/alleviate-blog/what-are-compression-socks-used-for-can-you-sleep-in-compression-socks-and-other-compression-sock-questions-answered",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alleviatetherapy.com/blogs/alleviate-blog/what-is-runners-knee-all-about-patellofemoral-pain-syndrome",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alleviatetherapy.com/pages/contact-us-2",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alleviatetherapy.com/blogs/alleviate-blog/foot-pain-chart-find-your-foot-pain-causes-by-location",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Alleviate makes leading-edge musculoskeletal pain relief accessible to every body. We make self-treatment systems for chronic musculoskeletal issues, using digital and physical technologies. Our flagship: An at-home treatment system for plantar fasciitis that combines a massager, a brace, and an exe",
+    "source_urls": [
+      "https://alleviatetherapy.com",
+      "https://alleviatetherapy.com/pages/contact-us-2"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 18
+  },
+  {
+    "company_domain": "alleyesdbcamp.com",
+    "company_name": "All Eyes DB Camp",
+    "website": "https://alleyesdbcamp.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Chad Wilson",
+        "title": "Owner",
+        "email": "cwilson@alleyesdbcamp.com",
+        "source_url": "https://alleyesdbcamp.com/press"
+      }
+    ],
+    "people": [
+      {
+        "name": "Chad Wilson",
+        "title": "Owner",
+        "email": "cwilson@alleyesdbcamp.com",
+        "source_url": "https://alleyesdbcamp.com/press"
+      }
+    ],
+    "emails": [
+      {
+        "address": "cwilson@alleyesdbcamp.com",
+        "confidence": "highest",
+        "source_url": "https://alleyesdbcamp.com/press",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "back on this article or press man coverage, send email to cwilson@alleyesdbcamp.com Author Recent Posts alleyesdbcamp Owner at Al"
+      }
+    ],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://alleyesdbcamp.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alleyesdbcamp.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alleyesdbcamp.com/about-all-eyes/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alleyesdbcamp.com/tag/press-man/",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alleyesdbcamp.com/its-called-press-for-a-reason/",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alleyesdbcamp.com/when-pressing-your-man-dont-forget-the-hand/",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alleyesdbcamp.com/category/press-coverage/",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alleyesdbcamp.com/the-biggest-mistake-defensive-backs-make-in-press-coverage-isnt-their-technique/",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "The kick slide is a press-coverage footwork technique that helps a defensive back stay square,",
+    "source_urls": [
+      "https://alleyesdbcamp.com/press"
+    ],
+    "reason": null,
+    "pages_fetched": 15
+  },
+  {
+    "company_domain": "allfightsticks.com",
+    "company_name": "AllFightSticks",
+    "website": "https://allfightsticks.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://allfightsticks.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allfightsticks.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://allfightsticks.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "High quality metal fight stick enclosures, custom designs, parts & accessories.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "allfiredupart.com",
+    "company_name": "All Fired Up",
+    "website": "https://allfiredupart.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://allfiredupart.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allfiredupart.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allfiredupart.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allfiredupart.com/pages/locations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allfiredupart.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allfiredupart.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://allfiredupart.com/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://allfiredupart.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "With pottery painting and creative art classes, finding something to make at All Fired Up is easy. To help create this relaxed and stress free zone we charge only for the pieces created. There are no additional studio time or sitting fees. We carry over 700 items of pottery, including cups, plates, ",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "allfireduponline.com",
+    "company_name": "allfireduponline.com",
+    "website": "https://allfireduponline.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": "Looking for ceramic painting or pottery painting near Winter Park in Orlando, Florida? All Fired Up provides pottery painting parties & birthday party venues in Florida. Call @ (407) 644-9363.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "allform.com",
+    "company_name": "Allform",
+    "website": "https://allform.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "help@allform.com",
+        "confidence": "highest",
+        "source_url": "https://allform.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ons or other customer experience issues please email us at help@allform.com Thank you again for being part of our journe"
+      },
+      {
+        "address": "partnerships@allform.com",
+        "confidence": "high",
+        "source_url": "https://allform.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "artnerships Get in contact with our marketing team at partnerships@allform.com. Careers If you\u2019re interested in pu"
+      }
+    ],
+    "role_emails": [
+      "help@allform.com",
+      "partnerships@allform.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://allform.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allform.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allform.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allform.com/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allform.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allform.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allform.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allform.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allform.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allform.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [
+      "https://allform.com",
+      "https://allform.com/team",
+      "https://allform.com/our-team",
+      "https://allform.com/meet-the-team",
+      "https://allform.com/about",
+      "https://allform.com/about-us",
+      "https://allform.com/press",
+      "https://allform.com/media",
+      "https://allform.com/contact",
+      "https://allform.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "allfreshseafood.com",
+    "company_name": "allfreshseafood.com",
+    "website": "https://allfreshseafood.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@allfreshseafood.com",
+        "confidence": "highest",
+        "source_url": "https://allfreshseafood.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Us We love to hear from our customers. Send us an email at info@allfreshseafood.com Chat with Us Chat with us for anything you"
+      }
+    ],
+    "role_emails": [
+      "info@allfreshseafood.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://allfreshseafood.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Fresh fish, lobster, crab and shrimp delivered nationwide. Trusted by 6M+ customers, 11,000+ five-star reviews. Featured in NYT and WSJ. Shop today.",
+    "source_urls": [
+      "https://allfreshseafood.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "allfuelhst.com",
+    "company_name": "AllFuel HST",
+    "website": "https://allfuelhst.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "returns@allfuelhst.com",
+        "confidence": "high",
+        "source_url": "https://allfuelhst.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ington, NC 28401 Phone: (833) 326-8368 Sales@allfuelhst.com Returns@allfuelhst.com Newsletter Subscribe"
+      },
+      {
+        "address": "sales@allfuelhst.com",
+        "confidence": "high",
+        "source_url": "https://allfuelhst.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "1220 S. 13th St. Wilmington, NC 28401 Phone: (833) 326-8368 Sales@allfuelhst.com Returns@allfuelhst.com Newsletter Subscri"
+      }
+    ],
+    "role_emails": [
+      "returns@allfuelhst.com",
+      "sales@allfuelhst.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://allfuelhst.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allfuelhst.com/collections/roof-support-kits",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allfuelhst.com/collections/wall-supports",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allfuelhst.com/collections/ceiling-support-box",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allfuelhst.com/collections/roof-support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allfuelhst.com/collections/chimney-pipe-kits/products/roof-support-kit-for-6-inner-diameter-chimney-pipe",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allfuelhst.com/pages/about-us-zp",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allfuelhst.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://allfuelhst.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "AllFuel HST offers premium quality chimney pipe and stove pipe sold factory direct. We cut out the middleman so you get the highest quality and lowest price chimney pipe available. Our chimney pipe experts provide professional customer support and can answer all your questions. Call or email for a f",
+    "source_urls": [
+      "https://allfuelhst.com",
+      "https://allfuelhst.com/collections/roof-support-kits",
+      "https://allfuelhst.com/collections/wall-supports",
+      "https://allfuelhst.com/collections/ceiling-support-box",
+      "https://allfuelhst.com/collections/roof-support",
+      "https://allfuelhst.com/collections/chimney-pipe-kits/products/roof-support-kit-for-6-inner-diameter-chimney-pipe",
+      "https://allfuelhst.com/pages/about-us-zp",
+      "https://allfuelhst.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 16
+  },
+  {
+    "company_domain": "allgoodbodycare.com",
+    "company_name": "All Good Body Care",
+    "website": "https://allgoodbodycare.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://allgoodbodycare.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allgoodbodycare.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allgoodbodycare.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://allgoodbodycare.com/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://allgoodbodycare.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "We\u2019re on a mission to prove that humans and nature can live in harmony by make environmentally-friendly body care products. All Good is a proud triple bottom line business \u2013 meaning social and environmental responsibility is equally as important as profits.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "allgoodstuf.com",
+    "company_name": "www.allgoodstuf.com",
+    "website": "https://www.allgoodstuf.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": "We have all the good stuff",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "allgoodthingspaper.com",
+    "company_name": "All Good Things",
+    "website": "https://allgoodthingspaper.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@allgoodthingspaper.com",
+        "confidence": "high",
+        "source_url": "https://allgoodthingspaper.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2022-05-28",
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "hello@allgoodthingspaper.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://allgoodthingspaper.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allgoodthingspaper.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2022-05-28"
+      },
+      {
+        "url": "https://allgoodthingspaper.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "A carefully curated collection of gifts and papers, available for you to shop 24/7.",
+    "source_urls": [
+      "https://allgoodthingspaper.com/about-us",
+      "https://allgoodthingspaper.com/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "allgrassfarms.com",
+    "company_name": "All Grass Farms",
+    "website": "https://allgrassfarms.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://allgrassfarms.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allgrassfarms.com/our-team",
+        "page_type": "team",
+        "source_type": "archived",
+        "snapshot_date": "2023-12-02"
+      },
+      {
+        "url": "https://allgrassfarms.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2024-03-01"
+      },
+      {
+        "url": "https://allgrassfarms.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://allgrassfarms.com/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://allgrassfarms.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Regenerative farm in Chicago suburbs and southern Wisconsin producing grass fed beef, raw Guernsey milk, pasture raised chickens, turkeys, pork and no corn / no soy pasture raised eggs.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "alliancechemical.com",
+    "company_name": "Alliance Chemical",
+    "website": "https://alliancechemical.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Email andre@alliancechemical.com",
+        "title": null,
+        "email": "andre@alliancechemical.com",
+        "source_url": "https://alliancechemical.com/pages/press"
+      },
+      {
+        "name": "Email sales",
+        "title": null,
+        "email": "sales@alliancechemical.com",
+        "source_url": "https://alliancechemical.com"
+      }
+    ],
+    "people": [
+      {
+        "name": "Email andre@alliancechemical.com",
+        "title": null,
+        "email": "andre@alliancechemical.com",
+        "source_url": "https://alliancechemical.com/pages/press"
+      },
+      {
+        "name": "Email sales",
+        "title": null,
+        "email": "sales@alliancechemical.com",
+        "source_url": "https://alliancechemical.com"
+      }
+    ],
+    "emails": [
+      {
+        "address": "andre@alliancechemical.com",
+        "confidence": "highest",
+        "source_url": "https://alliancechemical.com/pages/press",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ", what is realistic and what is not? We answer. Email andre@alliancechemical.com Company background Last updated June 26, 2026"
+      },
+      {
+        "address": "sales@alliancechemical.com",
+        "confidence": "highest",
+        "source_url": "https://alliancechemical.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "tent Call (512) 365-6838 or email sales@alliancechemical.com \u00b7 Most stocked orders ship in 1\u20132 business days"
+      }
+    ],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://alliancechemical.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alliancechemical.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alliancechemical.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alliancechemical.com/pages/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alliancechemical.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alliancechemical.com/pages/contact-compliance",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alliancechemical.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://alliancechemical.com",
+        "action": "/contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://alliancechemical.com/about-us",
+        "action": "/contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://alliancechemical.com/pages/about-us",
+        "action": "/contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://alliancechemical.com/pages/press",
+        "action": "/contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://alliancechemical.com/pages/contact",
+        "action": "/contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://alliancechemical.com/pages/contact-compliance",
+        "action": "/contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://alliancechemical.com/policies/contact-information",
+        "action": "/contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Bulk chemical distributor & wholesale supplier you can actually call. 4,000+ SKUs, ACS reagent through tech grade. SDS+COA per drum. Quart to tote.",
+    "source_urls": [
+      "https://alliancechemical.com",
+      "https://alliancechemical.com/about-us",
+      "https://alliancechemical.com/pages/about-us",
+      "https://alliancechemical.com/pages/press",
+      "https://alliancechemical.com/pages/contact",
+      "https://alliancechemical.com/pages/contact-compliance",
+      "https://alliancechemical.com/policies/contact-information"
+    ],
+    "reason": null,
+    "pages_fetched": 14
+  },
+  {
+    "company_domain": "allianceofnativeseedkeepers.com",
+    "company_name": "Alliance of Native Seedkeepers",
+    "website": "https://www.allianceofnativeseedkeepers.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "challenge_page",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "alliedbingo.com",
+    "company_name": "Allied Bingo",
+    "website": "https://alliedbingo.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://alliedbingo.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alliedbingo.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2023-02-03"
+      },
+      {
+        "url": "https://alliedbingo.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alliedbingo.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alliedbingo.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://alliedbingo.com/contact",
+        "action": "/contact#contact-template--19323487420593__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://alliedbingo.com/pages/contact-us",
+        "action": "/contact#contact-template--19323487420593__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Shop the best wholesale bingo supplies online at Bingo Innovation! Find paper bingo cards, daubers, pull tabs, raffle gear & equipment. Top quality. Order now!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "alliedbrass.com",
+    "company_name": "Allied Brass",
+    "website": "https://alliedbrass.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "sales@alliedbrass.com",
+        "confidence": "highest",
+        "source_url": "https://alliedbrass.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "nter. Customer Service Phone: 1-800-720-2297 Email: sales@alliedbrass.com Hours: Monday \u2013 Friday: 9:00 AM \u2013 5:00 PM Eastern Saturda"
+      },
+      {
+        "address": "service@alliedbrass.com",
+        "confidence": "highest",
+        "source_url": "https://alliedbrass.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "sales@alliedbrass.com",
+      "service@alliedbrass.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://alliedbrass.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alliedbrass.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alliedbrass.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alliedbrass.com/pages/team-spirit-collection",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alliedbrass.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alliedbrass.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://alliedbrass.com/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://alliedbrass.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Shop 42 designer collections in 28 premium finishes. Handcrafted bathroom hardware with free shipping on all orders, lifetime warranty, and made in Virginia since 1965. Browse towel bars, hooks, shelves, mirrors, and bath accessories for every room in your home.",
+    "source_urls": [
+      "https://alliedbrass.com",
+      "https://alliedbrass.com/about",
+      "https://alliedbrass.com/contact",
+      "https://alliedbrass.com/pages/team-spirit-collection",
+      "https://alliedbrass.com/pages/about-us",
+      "https://alliedbrass.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  }
+]
