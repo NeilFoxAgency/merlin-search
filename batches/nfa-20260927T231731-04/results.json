@@ -1,0 +1,1599 @@
+[
+  {
+    "company_domain": "allsmall.co",
+    "company_name": "All Small Co.",
+    "website": "https://allsmall.co",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://allsmall.co",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allsmall.co/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allsmall.co/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://allsmall.co/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "A curated assortment of hard to find, but easy to afford clothing for small humans. The collection consists of both new and pre-owned items to create the perfect wardrobe for the modern child. All Small co strives to find pieces that are comfortable, soft, and most importantly- super adorable.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "allsop.com",
+    "company_name": "AllsopTech",
+    "website": "https://allsop.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "allsopgarden.com",
+    "company_name": "Allsop Home & Garden",
+    "website": "https://allsopgarden.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@allsopgarden.com",
+        "confidence": "highest",
+        "source_url": "https://allsopgarden.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Get in touch Please email us support@allsopgarden.com or complete the form below and our customer service team w"
+      }
+    ],
+    "role_emails": [
+      "support@allsopgarden.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://allsopgarden.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allsopgarden.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allsopgarden.com/pages/product-support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allsopgarden.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allsopgarden.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://allsopgarden.com/contact",
+        "action": "/contact#contact-template--14622888165421__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://allsopgarden.com/pages/about",
+        "action": "/contact#contact-template--14622888132653__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://allsopgarden.com/pages/contact",
+        "action": "/contact#contact-template--14622888165421__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Allsop Home & Garden's solar product line is filled with decorative handmade lanterns and lamps that combine outdoor durability with elegant style.",
+    "source_urls": [
+      "https://allsopgarden.com",
+      "https://allsopgarden.com/contact",
+      "https://allsopgarden.com/pages/product-support",
+      "https://allsopgarden.com/pages/about",
+      "https://allsopgarden.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "allspiceonline.com",
+    "company_name": "AllSpice Culinarium",
+    "website": "https://allspiceonline.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@allspiceonline.com",
+        "confidence": "highest",
+        "source_url": "https://allspiceonline.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ver Landing 901 E. 2nd Ave., Suite 105 Coralville, IA 52241 info@allspiceonline.com 515.868.0808 Payment methods American Expre"
+      }
+    ],
+    "role_emails": [
+      "info@allspiceonline.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://allspiceonline.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allspiceonline.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2021-04-16"
+      },
+      {
+        "url": "https://allspiceonline.com/blogs/news/staff-spotlight-andy",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allspiceonline.com/blogs/news/tagged/staff-profiles",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allspiceonline.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allspiceonline.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://allspiceonline.com/blogs/news/staff-spotlight-andy",
+        "action": "/blogs/news/staff-spotlight-andy/comments#comment_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://allspiceonline.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Shop culinary spices, herbs, oils, vinegars, rubs, and gifts online, or visit our stores in Des Moines' East Village and Coralville's Iowa River Landing.",
+    "source_urls": [
+      "https://allspiceonline.com",
+      "https://allspiceonline.com/about",
+      "https://allspiceonline.com/blogs/news/staff-spotlight-andy",
+      "https://allspiceonline.com/blogs/news/tagged/staff-profiles",
+      "https://allspiceonline.com/pages/about",
+      "https://allspiceonline.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "allspicery.com",
+    "company_name": "Allspicery",
+    "website": "https://allspicery.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@allspicery.com",
+        "confidence": "highest",
+        "source_url": "https://allspicery.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2023-10-11",
+        "context_snippet": "llspicery 1125 11th Street, Sacramento 916-389-7828 info@allspicery.com Hours Mon 10am - 5pm Tue 10am - 5pm Wed 10am -"
+      },
+      {
+        "address": "orders@allspicery.com",
+        "confidence": "high",
+        "source_url": "https://allspicery.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2023-10-11",
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@allspicery.com",
+      "orders@allspicery.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://allspicery.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allspicery.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2019-10-19"
+      },
+      {
+        "url": "https://allspicery.com/press",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2023-10-11"
+      },
+      {
+        "url": "https://allspicery.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2023-10-11"
+      },
+      {
+        "url": "https://allspicery.com/pages/location-parking",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allspicery.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allspicery.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allspicery.com/pages/join-our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allspicery.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://allspicery.com/contact",
+        "action": "https://the-allspicery.squarespace.com",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://allspicery.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Allspicery",
+    "source_urls": [
+      "https://allspicery.com/about",
+      "https://allspicery.com/press",
+      "https://allspicery.com/contact",
+      "https://allspicery.com/policies/contact-information"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 14
+  },
+  {
+    "company_domain": "allsportsystems.shop",
+    "company_name": "AllSportSystems",
+    "website": "https://allsportsystems.shop",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://allsportsystems.shop",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allsportsystems.shop/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://allsportsystems.shop",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://allsportsystems.shop/pages/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Affordable indoor golf simulators, golf bays and enclosures, and golf impact screens. Low cost home golf simulators kits, screens, bundles, and packages, and cheap indoor golf simulators. Shop here for the cheapest indoor golf simulators!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "allstar-nutrition.com",
+    "company_name": "All Star Nutrition/Total Nutrition",
+    "website": "https://allstar-nutrition.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://allstar-nutrition.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allstar-nutrition.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2021-10-21"
+      },
+      {
+        "url": "https://allstar-nutrition.com/pages/store-locations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allstar-nutrition.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allstar-nutrition.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://allstar-nutrition.com/contact",
+        "action": "/contact/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://allstar-nutrition.com/pages/contact",
+        "action": "/contact#form-contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "All Star Nutrition/Total Nutrition has vitamins, weight loss, muscle gain, diet and exercise support in store and online.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "allstarelite.com",
+    "company_name": "Allstarelite.com",
+    "website": "https://www.allstarelite.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@allstarelite.com",
+        "confidence": "high",
+        "source_url": "https://www.allstarelite.com/policies/contact-information",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Contact information Email - Info@allstarelite.com Trade name: All Star Elite Physical address: All Star E"
+      }
+    ],
+    "role_emails": [
+      "info@allstarelite.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.allstarelite.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Shop All Star Elite - premium streetwear, sneakers, jerseys (basketball, football, hockey, soccer), jackets and accessories. Free shipping on orders over $110. New drops monthly. Shop the latest collections now.",
+    "source_urls": [
+      "https://www.allstarelite.com/policies/contact-information"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "allstarpresschicago.com",
+    "company_name": "ALL STAR PRESS",
+    "website": "https://www.allstarpresschicago.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@allstarpresschicago.com",
+        "confidence": "high",
+        "source_url": "https://www.allstarpresschicago.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "pm Friday - 9:30am-4:30pm Saturday - Closed Sunday - Closed hello@allstarpresschicago.com 773-766-4060 WORK WITH US Portfolio Pro"
+      }
+    ],
+    "role_emails": [
+      "hello@allstarpresschicago.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.allstarpresschicago.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.allstarpresschicago.com/collections/art-of-the-game-threepeat",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.allstarpresschicago.com/collections/send-it-ii-return-to-sender",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.allstarpresschicago.com/collections/little-things-solo-show-by-liz-flores-nov-24",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.allstarpresschicago.com/collections/semillas-sentrock-group-art-show",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.allstarpresschicago.com/collections/head-in-the-clouds-duo-show-by-steve-seeley-danny-martinez-july-24",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.allstarpresschicago.com/collections/regulars-a-solo-show-by-pizza-in-the-rain-may-24",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.allstarpresschicago.com/collections/send-it",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.allstarpresschicago.com/collections/cut-copy-paste-the-other-art-fair-april-27-30-23",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.allstarpresschicago.com/collections/museum-of-yab",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "ALL STAR PRESS",
+    "source_urls": [
+      "https://www.allstarpresschicago.com",
+      "https://www.allstarpresschicago.com/collections/art-of-the-game-threepeat",
+      "https://www.allstarpresschicago.com/collections/send-it-ii-return-to-sender",
+      "https://www.allstarpresschicago.com/collections/little-things-solo-show-by-liz-flores-nov-24",
+      "https://www.allstarpresschicago.com/collections/semillas-sentrock-group-art-show",
+      "https://www.allstarpresschicago.com/collections/head-in-the-clouds-duo-show-by-steve-seeley-danny-martinez-july-24",
+      "https://www.allstarpresschicago.com/collections/regulars-a-solo-show-by-pizza-in-the-rain-may-24",
+      "https://www.allstarpresschicago.com/collections/send-it",
+      "https://www.allstarpresschicago.com/collections/cut-copy-paste-the-other-art-fair-april-27-30-23",
+      "https://www.allstarpresschicago.com/collections/museum-of-yab"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 18
+  },
+  {
+    "company_domain": "allstatesmed.com",
+    "company_name": "All States M.E.D.",
+    "website": "https://www.allstatesmed.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "atlanta@allstatesmed.com",
+        "confidence": "high",
+        "source_url": "https://www.allstatesmed.com/pages/our-locations",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ".E.D Atlanta Cumming, GA 30041 Phone: (470) 820-5611 Email: atlanta@allstatesmed.com Subscribe to our newsletter Receive Highl"
+      },
+      {
+        "address": "houston@allstatesmed.com",
+        "confidence": "high",
+        "source_url": "https://www.allstatesmed.com/pages/our-locations",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "1600 Katy, TX 77449-5905, USA Phone: (281) 917-8004 Email: houston@allstatesmed.com Boston Branch All States M.E.D Boston 23 Cu"
+      },
+      {
+        "address": "sales@allstatesmed.com",
+        "confidence": "high",
+        "source_url": "https://www.allstatesmed.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "1633) \u2709 6157 NW 167th St, Suite F15 Miami Lakes, FL 33015 \u2328 sales@allstatesmed.com COMPANY POLICIES & INFORMATION Sea"
+      }
+    ],
+    "role_emails": [
+      "atlanta@allstatesmed.com",
+      "houston@allstatesmed.com",
+      "sales@allstatesmed.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.allstatesmed.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.allstatesmed.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.allstatesmed.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.allstatesmed.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.allstatesmed.com/pages/our-locations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.allstatesmed.com/collections/blood-pressure",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.allstatesmed.com/products/large-adult-blood-pressure-cuff",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.allstatesmed.com/products/extra-large-adult-blood-pressure-cuff",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.allstatesmed.com/products/small-adult-blood-pressure-cuff",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.allstatesmed.com/blogs/medical-equipment-reviews-sales-repair-service/what-affects-blood-pressure-device-lifespan",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.allstatesmed.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Order medical supplies online from All States M.E.D. We offer an expansive line of new and used medical equipment from our main Miami facility.",
+    "source_urls": [
+      "https://www.allstatesmed.com",
+      "https://www.allstatesmed.com/contact",
+      "https://www.allstatesmed.com/pages/about-us",
+      "https://www.allstatesmed.com/pages/contact-us",
+      "https://www.allstatesmed.com/pages/our-locations",
+      "https://www.allstatesmed.com/collections/blood-pressure",
+      "https://www.allstatesmed.com/products/large-adult-blood-pressure-cuff",
+      "https://www.allstatesmed.com/products/extra-large-adult-blood-pressure-cuff",
+      "https://www.allstatesmed.com/products/small-adult-blood-pressure-cuff",
+      "https://www.allstatesmed.com/blogs/medical-equipment-reviews-sales-repair-service/what-affects-blood-pressure-device-lifespan"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 17
+  },
+  {
+    "company_domain": "allstitch.com",
+    "company_name": "AllStitch Embroidery Supplies",
+    "website": "https://allstitch.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customerservice@allstitch.com",
+        "confidence": "highest",
+        "source_url": "https://allstitch.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "have a retail store that is open to the public. Email: customerservice@allstitch.com Telephone: 603-366-1152 Business Hours: Monday-Frida"
+      }
+    ],
+    "role_emails": [
+      "customerservice@allstitch.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://allstitch.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allstitch.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allstitch.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allstitch.com/pages/about-allstitch-discount-embroidery-supplies",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "AllStitch has the internet's largest & best selection of discount embroidery, sewing, and quilting supplies at low prices with free shipping options. We have a huge selection of thread, bobbins, stabilizers, backing, machine needles, scissors and more.",
+    "source_urls": [
+      "https://allstitch.com",
+      "https://allstitch.com/contact",
+      "https://allstitch.com/pages/contact-us",
+      "https://allstitch.com/pages/about-allstitch-discount-embroidery-supplies"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "allstora.com",
+    "company_name": "Allstora",
+    "website": "https://allstora.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://allstora.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allstora.com/products/my-child-is-trans-now-what-a-joy-centered-approach-to-support?variant=44447463604460",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allstora.com/products/what-my-mother-and-i-dont-talk-about-fifteen-writers-break-the-silence?variant=44440713789676",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allstora.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://allstora.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "The bookstore for all stories.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "allsumhome.com",
+    "company_name": "ExBriteUSA",
+    "website": "https://www.allsumhome.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "alltech.com",
+    "company_name": "Alltech Store",
+    "website": "https://store.alltech.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://store.alltech.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://store.alltech.com/pages/about-the-alltech-store",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://store.alltech.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Delivering animal nutrition supplements from manufacturing to your doorstep. We provide fresh, high value and unique speciality supplements to help increase the health and performance of animals.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "allthatremainsonline.com",
+    "company_name": "All That Remains Official",
+    "website": "https://allthatremainsonline.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://allthatremainsonline.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allthatremainsonline.com/media",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2010-03-12"
+      },
+      {
+        "url": "https://allthatremainsonline.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2014-10-15"
+      },
+      {
+        "url": "https://allthatremainsonline.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://allthatremainsonline.com/contact",
+        "action": "http://www.allthatremainsonline.com/contact/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://allthatremainsonline.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Get All That Remains tour dates, merchandise, news and more.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "alltheanime.com",
+    "company_name": "All the Anime",
+    "website": "https://www.alltheanime.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.alltheanime.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.alltheanime.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.alltheanime.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Your Name, Cowboy Bebop, Perfect Blue, Durarara!!, Gurren Lagann and more for sale here!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "allthebitter.com",
+    "company_name": "All The Bitter",
+    "website": "https://allthebitter.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "ian@allthebitter.com",
+        "confidence": "highest",
+        "source_url": "https://allthebitter.com/pages/media",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "info@allthebitter.com",
+        "confidence": "highest",
+        "source_url": "https://allthebitter.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "elow to get in touch with us, or drop us a line direct at info@allthebitter.com . We try to respond to all inquiries within 24-48 hours."
+      }
+    ],
+    "role_emails": [
+      "ian@allthebitter.com",
+      "info@allthebitter.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://allthebitter.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allthebitter.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allthebitter.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allthebitter.com/pages/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://allthebitter.com/contact",
+        "action": "/contact#ContactForm-AbDQyMUFOU2JuTFhxV__contact_form_UwiCkQ",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://allthebitter.com/pages/contact-us",
+        "action": "/contact#ContactForm-AbDQyMUFOU2JuTFhxV__contact_form_UwiCkQ",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Award-winning cocktail bitters handmade with organic herbs in Northern California. 0.0% ABV for drinks with or without alcohol.",
+    "source_urls": [
+      "https://allthebitter.com",
+      "https://allthebitter.com/contact",
+      "https://allthebitter.com/pages/contact-us",
+      "https://allthebitter.com/pages/media"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "allthefeelsshop.com",
+    "company_name": "All The Feels",
+    "website": "https://allthefeelsshop.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@allthefeelsshop.com",
+        "confidence": "high",
+        "source_url": "https://allthefeelsshop.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@allthefeelsshop.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://allthefeelsshop.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allthefeelsshop.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allthefeelsshop.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://allthefeelsshop.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "All The Feels is a small shop for the senses located in Houston, TX specializing in high quality, handmade, and small batch goods for the home and human.",
+    "source_urls": [
+      "https://allthefeelsshop.com",
+      "https://allthefeelsshop.com/pages/contact",
+      "https://allthefeelsshop.com/pages/about"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "allthelittlebows.com",
+    "company_name": "All The Little Bows",
+    "website": "https://allthelittlebows.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@allthelittlebows.com",
+        "confidence": "high",
+        "source_url": "https://allthelittlebows.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ess to exclusive deals, and more. Subscribe Contact hello@allthelittlebows.com Currenc"
+      }
+    ],
+    "role_emails": [
+      "hello@allthelittlebows.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://allthelittlebows.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allthelittlebows.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allthelittlebows.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allthelittlebows.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allthelittlebows.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allthelittlebows.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://allthelittlebows.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Discover timeless children\u2019s clothing, handmade bows, and curated toys at All The Little Bows \u2014 a boutique celebrating simple, beautiful childhood moments.",
+    "source_urls": [
+      "https://allthelittlebows.com",
+      "https://allthelittlebows.com/about",
+      "https://allthelittlebows.com/about-us",
+      "https://allthelittlebows.com/contact",
+      "https://allthelittlebows.com/pages/about",
+      "https://allthelittlebows.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "alltherestaurants.com",
+    "company_name": "All The Restaurants",
+    "website": "https://alltherestaurants.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://alltherestaurants.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alltherestaurants.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alltherestaurants.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alltherestaurants.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alltherestaurants.com/pages/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alltherestaurants.com/pages/press-inquiries",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "The artist John Donohue sells signed, limited-edition prints of his drawings of restaurants in New York, London, Paris and other cities.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "alltheright.com",
+    "company_name": "All The Right",
+    "website": "https://alltheright.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@alltheright.com",
+        "confidence": "highest",
+        "source_url": "https://alltheright.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@alltheright.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://alltheright.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alltheright.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2015-05-15"
+      },
+      {
+        "url": "https://alltheright.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alltheright.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://alltheright.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "All The Right",
+    "source_urls": [
+      "https://alltheright.com",
+      "https://alltheright.com/about-us",
+      "https://alltheright.com/pages/about-us",
+      "https://alltheright.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "alltimers.com",
+    "company_name": "Alltimers",
+    "website": "https://alltimers.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "http_404",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "alltiresupply.com",
+    "company_name": "All Tire Supply",
+    "website": "https://www.alltiresupply.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "ats@alltiresupply.com",
+        "confidence": "highest",
+        "source_url": "https://www.alltiresupply.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "ats@alltiresupply.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.alltiresupply.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.alltiresupply.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.alltiresupply.com/pages/tire-shop-supplier-for-multi-location-chains-fleets-all-tire-supply-usa",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.alltiresupply.com/collections/hot-products/products/champion-r-series-13-hp-horz-air-compressor-30-gal",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.alltiresupply.com/collections/featured-items/products/champion-r-series-13-hp-horz-air-compressor-30-gal",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.alltiresupply.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.alltiresupply.com/collections/hot-products/products/champion-r-series-13-hp-horz-air-compressor-30-gal",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.alltiresupply.com/collections/featured-items/products/champion-r-series-13-hp-horz-air-compressor-30-gal",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "All Tire Supply is your trusted wholesale distributor of high-quality tire repair products and automotive supplies. Find everything you need for your business.",
+    "source_urls": [
+      "https://www.alltiresupply.com/contact",
+      "https://www.alltiresupply.com/pages/about"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "alltrails.com",
+    "company_name": "AllTrails Gear Shop",
+    "website": "https://shop.alltrails.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://shop.alltrails.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Discover equipment, apparel, and accessories that are made for and inspired by the trail. Whether you\u2019re snuggling up on the couch or heading out for an adventure, the AllTrails Gear Shop has everything you need to show your love for the outdoors.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "alltravelsizes.com",
+    "company_name": "All Travel Sizes",
+    "website": "https://alltravelsizes.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customerservice@alltravelsizes.com",
+        "confidence": "highest",
+        "source_url": "https://alltravelsizes.com/media",
+        "source_type": "archived",
+        "snapshot_date": "2015-08-10",
+        "context_snippet": "Looking for bulk quantities? E-mail us, customerservice@alltravelsizes.com Travel Size Item Categories ** NEW ITEMS **"
+      }
+    ],
+    "role_emails": [
+      "customerservice@alltravelsizes.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://alltravelsizes.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alltravelsizes.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alltravelsizes.com/media",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2015-08-10"
+      },
+      {
+        "url": "https://alltravelsizes.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alltravelsizes.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alltravelsizes.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://alltravelsizes.com/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://alltravelsizes.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "AllTravelSizes.com offers thousands of travel size products including travel size medications, travel size toiletries, single serving snacks & travel essentials! AllTravelSizes.com is the premier destination for travel size products. We have been serving customers since 2006!",
+    "source_urls": [
+      "https://alltravelsizes.com/media"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  }
+]
