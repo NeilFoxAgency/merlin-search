@@ -1,0 +1,1558 @@
+[
+  {
+    "company_domain": "allurausa.com",
+    "company_name": "Allura USA",
+    "website": "https://shop.allurausa.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://shop.allurausa.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.allurausa.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.allurausa.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.allurausa.com/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.allurausa.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.allurausa.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.allurausa.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.allurausa.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.allurausa.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Allura USA",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "allurebeautybox.com",
+    "company_name": "Allure Beauty Box",
+    "website": "https://allurebeautybox.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Allure Beauty Box",
+        "title": "Brand Partnerships",
+        "email": "partners@allurebeautybox.com",
+        "source_url": "https://allurebeautybox.com/pages/contact",
+        "association": "proximity"
+      }
+    ],
+    "people": [
+      {
+        "name": "Allure Beauty Box",
+        "title": "Brand Partnerships",
+        "email": "partners@allurebeautybox.com",
+        "source_url": "https://allurebeautybox.com/pages/contact",
+        "association": "proximity"
+      }
+    ],
+    "emails": [
+      {
+        "address": "help@allurebeautybox.com",
+        "confidence": "highest",
+        "source_url": "https://allurebeautybox.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "\u2022 Email the email. help@allurebeautybox.com Our team replies within 48 business hours."
+      },
+      {
+        "address": "partners@allurebeautybox.com",
+        "confidence": "highest",
+        "source_url": "https://allurebeautybox.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "help@allurebeautybox.com",
+      "partners@allurebeautybox.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://allurebeautybox.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allurebeautybox.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allurebeautybox.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Allure Beauty Box gives premium beauty products curated by Allure editors delivered to your door for as little as $30 per box. Find out how it works now.",
+    "source_urls": [
+      "https://allurebeautybox.com",
+      "https://allurebeautybox.com/pages/about-us",
+      "https://allurebeautybox.com/pages/contact"
+    ],
+    "reason": null,
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "allurebeverlyhills.co",
+    "company_name": "Allure Beverly Hills",
+    "website": "https://allurebeverlyhills.co",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "help@allurebeverlyhills.co",
+        "confidence": "high",
+        "source_url": "https://allurebeverlyhills.co",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "help@allurebeverlyhills.co"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://allurebeverlyhills.co",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allurebeverlyhills.co/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Allure Beverly Hills is a luxury women's clothing brand based in Los Angeles, CA. Designed to empower women through feminine, versatile, and timeless fashion. Discover elevated style at accessible prices \u2014 where trend meets sophistication. Shop the latest collections and experience everyday elegance",
+    "source_urls": [
+      "https://allurebeverlyhills.co",
+      "https://allurebeverlyhills.co/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "allurepack.com",
+    "company_name": "Allurepack",
+    "website": "https://allurepack.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@allurepack.com",
+        "confidence": "high",
+        "source_url": "https://allurepack.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "in Office 141 Lanza Ave. Bldg. 29N Garfield NJ, 07026 info@allurepack.com TEL 1800.859.1788 TEL 212.807.7070 FAX 212.807"
+      }
+    ],
+    "role_emails": [
+      "info@allurepack.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://allurepack.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allurepack.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allurepack.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://allurepack.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Allure Box & Display is a USA supplier in the jewelry display and packaging industry. We manufacture luxury and economical packaging products + custom.",
+    "source_urls": [
+      "https://allurepack.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "allurethebrand.com",
+    "company_name": "Allure The Brand",
+    "website": "https://allurethebrand.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@allurethebrand.com",
+        "confidence": "high",
+        "source_url": "https://allurethebrand.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "support@allurethebrand.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://allurethebrand.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allurethebrand.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allurethebrand.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allurethebrand.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allurethebrand.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allurethebrand.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://allurethebrand.com/pages/contact-us",
+        "action": "/contact#contact-us-page",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Shop stylish activewear, contour shorts, bras & sets at Allure The Brand. Enjoy free USA shipping on orders over $100. Elevate your workout wardrobe today!",
+    "source_urls": [
+      "https://allurethebrand.com",
+      "https://allurethebrand.com/team",
+      "https://allurethebrand.com/our-team",
+      "https://allurethebrand.com/about",
+      "https://allurethebrand.com/about-us",
+      "https://allurethebrand.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "alluringartprints.com",
+    "company_name": "www.alluringartprints.com",
+    "website": "https://www.alluringartprints.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@alluringartprints.com",
+        "confidence": "high",
+        "source_url": "https://www.alluringartprints.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Box 8011, Santa Rosa CA 95407, United States 707-660-5452 support@alluringartprints.com Subscribe For Exclusive Offers!"
+      }
+    ],
+    "role_emails": [
+      "support@alluringartprints.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.alluringartprints.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.alluringartprints.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.alluringartprints.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Custom Adult Prints. NSFW Custom Prints. Risque, sexy, nude or non-nude photo prints. High quality photo prints. Sharp image resolution. Safe, secure, discreet packaging. Available in 4x6, 5x7, 8x10, 13x19 poster size. Combined shipping discount.",
+    "source_urls": [
+      "https://www.alluringartprints.com",
+      "https://www.alluringartprints.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "alluringbody.com",
+    "company_name": "Alluring Body",
+    "website": "https://www.alluringbody.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "service@alluringbody.com",
+        "confidence": "highest",
+        "source_url": "https://www.alluringbody.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "help. Text Text 941-909-2626 Email service@alluringbody.com Call Call 941-217-2100 Contact us via te"
+      }
+    ],
+    "role_emails": [
+      "service@alluringbody.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.alluringbody.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.alluringbody.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.alluringbody.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Alluring Body is a woman owned business that makes VVS Diamond Nose Rings and earrings in nickel-free gold or platinum.",
+    "source_urls": [
+      "https://www.alluringbody.com",
+      "https://www.alluringbody.com/pages/about",
+      "https://www.alluringbody.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "allvirginhair.com",
+    "company_name": "AVH Extentions & Wigs",
+    "website": "https://allvirginhair.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "allvolleyball.com",
+    "company_name": "All Volleyball",
+    "website": "https://www.allvolleyball.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "team@allvolleyball.com",
+        "confidence": "high",
+        "source_url": "https://www.allvolleyball.com/pages/forms-team-resources",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "team@allvolleyball.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.allvolleyball.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.allvolleyball.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.allvolleyball.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.allvolleyball.com/pages/forms-team-resources",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.allvolleyball.com/pages/team-order-form",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.allvolleyball.com/collections/braces-support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.allvolleyball.com/pages/why-choose-sublimation#shopify-section-template--22916248731934__media_with_text_AN4tVp",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.allvolleyball.com/pages/team-club-ordering",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.allvolleyball.com/pages/team-solutions",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.allvolleyball.com/pages/team-spirit-stores",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.allvolleyball.com/contact",
+        "action": "/contact#template--24651093541150__form-contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.allvolleyball.com/pages/forms-team-resources",
+        "action": "/contact#template--27204041736478__contact_form_3eyMgx-contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Volleyball gear, uniforms & equipment | On time. Under budget. Done correctly. Guaranteed.",
+    "source_urls": [
+      "https://www.allvolleyball.com/pages/forms-team-resources"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 16
+  },
+  {
+    "company_domain": "allwatchbands.com",
+    "company_name": "allwatchbands.com",
+    "website": "https://allwatchbands.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "sales@allwatchbands.com",
+        "confidence": "highest",
+        "source_url": "https://allwatchbands.com/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "should carry, feel free to reach out to our team! Contact: sales@allwatchbands.com Support Contact"
+      }
+    ],
+    "role_emails": [
+      "sales@allwatchbands.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://allwatchbands.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allwatchbands.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allwatchbands.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allwatchbands.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://allwatchbands.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Shop replacement watch bands for men's and women's watches. Leather, alligator, crocodile, NATO nylon, silicone, rubber watch straps and metal bands. Extra Long watchbands, short watch straps. Quick release watch straps and Apple Watch bands.",
+    "source_urls": [
+      "https://allwatchbands.com/about",
+      "https://allwatchbands.com/pages/contact-us",
+      "https://allwatchbands.com/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "allways99pr.com",
+    "company_name": "AllWays99",
+    "website": "https://www.allways99pr.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": "Puerto Rican Souvenirs, Candy, Coffee, and more from All Ways 99. We also sell Health, Gardening, and Seasonal Decor for the best prices. / Souvenirs puertorrique\u00f1os, dulces, caf\u00e9 y m\u00e1s de All Ways 99. Tambi\u00e9n vendemos salud, jardiner\u00eda y decoraci\u00f3n de temporada a los mejores precios.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "ally.nyc",
+    "company_name": "Ally Shoes",
+    "website": "https://www.ally.nyc",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.ally.nyc",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ally.nyc/pages/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ally.nyc/blogs/news/did-you-know-five-things-about-ally",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.ally.nyc/blogs/news/did-you-know-five-things-about-ally",
+        "action": "/blogs/news/did-you-know-five-things-about-ally/comments#comment_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Discover comfortable heels, flats & loafers designed for all-day wear. Handcrafted with arch support, 4 widths & half sizes. Free US shipping & easy returns.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "allysonsplace.com",
+    "company_name": "Allysons Place",
+    "website": "https://allysonsplace.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "allyson@allysonsplace.com",
+        "confidence": "highest",
+        "source_url": "https://allysonsplace.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "allyson@allysonsplace.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://allysonsplace.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allysonsplace.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://allysonsplace.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://allysonsplace.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Shop primitive country quilts, braided & hooked rugs, curtains, and lighting. Discover farmhouse, Americana, and rustic d\u00e9cor to bring cozy charm to every room. Allyson\u2019s Place offers timeless primitive style with home furnishings that create warmth, comfort, and country character.",
+    "source_urls": [
+      "https://allysonsplace.com",
+      "https://allysonsplace.com/pages/about-us",
+      "https://allysonsplace.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "almaaudio.com",
+    "company_name": "almaaudio.com",
+    "website": "https://almaaudio.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "alex@almaaudio.com",
+        "confidence": "highest",
+        "source_url": "https://almaaudio.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Ridgetop Cir., Suite 130 Sterling, VA 20166 (619) 243-4924 alex@almaaudio.com 10am\u20137pm, Monday\u2013Saturday Subscribe"
+      },
+      {
+        "address": "fabio@almaaudio.com",
+        "confidence": "highest",
+        "source_url": "https://almaaudio.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "250 Vickers St., Suite C San Diego, CA 92111 (619) 243-6615 fabio@almaaudio.com 10am\u20137pm, Monday\u2013Saturday Alma East"
+      }
+    ],
+    "role_emails": [
+      "alex@almaaudio.com",
+      "fabio@almaaudio.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://almaaudio.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://almaaudio.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://almaaudio.com",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://almaaudio.com/pages/about-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Alma Music and Audio is a high-end hi-fi dealer with showrooms in San Diego, CA and Sterling, VA. Shop turntables, amplifiers, DACs and speakers from Nagra, MSB, Vinnie Rossi, Von Schweikert, Stenheim, D'Agostino, YG Acoustics, Technics and more.",
+    "source_urls": [
+      "https://almaaudio.com",
+      "https://almaaudio.com/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "almagourmet.com",
+    "company_name": "Alma Gourmet",
+    "website": "https://almagourmet.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://almagourmet.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://almagourmet.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://almagourmet.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://almagourmet.com/pages/contact",
+        "action": "/contact#contact-template--21791403016505__contact-form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Shop authentic Italian gourmet food: fresh truffles, buffalo mozzarella, pasta, sauces & more. Fast shipping in the USA. Discover Alma Gourmet.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "almanacbeer.com",
+    "company_name": "Almanac Beer Co.",
+    "website": "https://almanacbeer.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "EMAIL US",
+        "title": null,
+        "email": "info@almanacbeer.com",
+        "source_url": "https://almanacbeer.com/about"
+      }
+    ],
+    "people": [
+      {
+        "name": "EMAIL US",
+        "title": null,
+        "email": "info@almanacbeer.com",
+        "source_url": "https://almanacbeer.com/about"
+      }
+    ],
+    "emails": [
+      {
+        "address": "alamedataproom@almanacbeer.com",
+        "confidence": "highest",
+        "source_url": "https://almanacbeer.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "alamedataproom@almanacbeer.com \u2022 415.992.3438 \u2022 651B W Tower Ave \u2022 Alameda, CA 94501 Priv"
+      },
+      {
+        "address": "info@almanacbeer.com",
+        "confidence": "highest",
+        "source_url": "https://almanacbeer.com/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "jon@almanacbeer.com",
+        "confidence": "highest",
+        "source_url": "https://almanacbeer.com/oakland#hours-and-location",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "out your group for indoor space, just shoot us an email at jon@almanacbeer.com and we\u2019ll get you sorted! Reservations"
+      },
+      {
+        "address": "privateevents@almanacbeer.com",
+        "confidence": "high",
+        "source_url": "https://almanacbeer.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2021-08-19",
+        "context_snippet": "tions: alamedataproom@almanacbeer.com For private events: privateevents@almanacbeer.com To request a beer donation: click here to fill out a req"
+      }
+    ],
+    "role_emails": [
+      "alamedataproom@almanacbeer.com",
+      "info@almanacbeer.com",
+      "jon@almanacbeer.com",
+      "privateevents@almanacbeer.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://almanacbeer.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://almanacbeer.com/team",
+        "page_type": "team",
+        "source_type": "archived",
+        "snapshot_date": "2020-10-31"
+      },
+      {
+        "url": "https://almanacbeer.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://almanacbeer.com/press",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2012-06-20"
+      },
+      {
+        "url": "https://almanacbeer.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2021-08-19"
+      },
+      {
+        "url": "https://almanacbeer.com/alameda#hours-and-location",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://almanacbeer.com/oakland#hours-and-location",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://almanacbeer.com/about#our-story",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://almanacbeer.com/about#impact",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://almanacbeer.com/about#contact",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Discover Almanac with locations in Alameda and West Oakland. We\u2019re Northern California\u2019s premier family-forward entertainment destination, offering world-class craft beer, great food, unforgettable events, and magical private event spaces. Open seven days a week.",
+    "source_urls": [
+      "https://almanacbeer.com",
+      "https://almanacbeer.com/about",
+      "https://almanacbeer.com/contact",
+      "https://almanacbeer.com/alameda#hours-and-location",
+      "https://almanacbeer.com/oakland#hours-and-location",
+      "https://almanacbeer.com/about#our-story",
+      "https://almanacbeer.com/about#impact",
+      "https://almanacbeer.com/about#contact"
+    ],
+    "reason": null,
+    "pages_fetched": 14
+  },
+  {
+    "company_domain": "almanacplanting.com",
+    "company_name": "Almanac Planting Co",
+    "website": "https://almanacplanting.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@almanacplanting.com",
+        "confidence": "highest",
+        "source_url": "https://almanacplanting.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "your order, plant care, or anything else. Email support@almanacplanting.com Fastest response Phone (484) 245-3004 Cell re"
+      }
+    ],
+    "role_emails": [
+      "support@almanacplanting.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://almanacplanting.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://almanacplanting.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://almanacplanting.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://almanacplanting.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://almanacplanting.com/products/haywire-false-cypress",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://almanacplanting.com/pages/join-our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://almanacplanting.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Hardy live plants, grower-direct and shipped nationwide. Shop annuals, perennials, shrubs, trees and more from Almanac Planting Co.",
+    "source_urls": [
+      "https://almanacplanting.com",
+      "https://almanacplanting.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "almanacsupplyco.com",
+    "company_name": "Almanac Supply Co.",
+    "website": "https://almanacsupplyco.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "email us",
+        "title": null,
+        "email": "hello@almanacsupplyco.com",
+        "source_url": "https://almanacsupplyco.com/pages/contact"
+      }
+    ],
+    "people": [
+      {
+        "name": "email us",
+        "title": null,
+        "email": "hello@almanacsupplyco.com",
+        "source_url": "https://almanacsupplyco.com/pages/contact"
+      }
+    ],
+    "emails": [
+      {
+        "address": "hello@almanacsupplyco.com",
+        "confidence": "highest",
+        "source_url": "https://almanacsupplyco.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "our FAQ page for answers to common questions. EMAIL: hello@almanacsupplyco.com PHONE NUMBER: (423) 654-4025 STORE: 24 Frazier Ave., Ch"
+      }
+    ],
+    "role_emails": [
+      "hello@almanacsupplyco.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://almanacsupplyco.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://almanacsupplyco.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://almanacsupplyco.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://almanacsupplyco.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Live with the seasons and surround yourself with meaning. Shop crystals, candles, and thoughtful gifts to support your spiritual and seasonal journey. Visit us online or at our brick-and-mortar shop in Chattanooga, TN to explore nature-inspired goods that align with your path.",
+    "source_urls": [
+      "https://almanacsupplyco.com",
+      "https://almanacsupplyco.com/pages/about",
+      "https://almanacsupplyco.com/pages/contact"
+    ],
+    "reason": null,
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "almave.com",
+    "company_name": "Almave",
+    "website": "https://www.almave.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "help@almave.com",
+        "confidence": "high",
+        "source_url": "https://www.almave.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "press@almave.com",
+        "confidence": "high",
+        "source_url": "https://www.almave.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "sales@almave.com",
+        "confidence": "high",
+        "source_url": "https://www.almave.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "help@almave.com",
+      "press@almave.com",
+      "sales@almave.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.almave.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.almave.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "The first non-alcoholic blue agave spirit, distilled in Mexico. From Founder Lewis Hamilton and Master Distiller Iva\u0301n Saldan\u0303a. Go beyond proof.",
+    "source_urls": [
+      "https://www.almave.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "almondcow.co",
+    "company_name": "Almond Cow",
+    "website": "https://almondcow.co",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@almondcow.co",
+        "confidence": "high",
+        "source_url": "https://almondcow.co",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "partners@almondcow.co",
+        "confidence": "high",
+        "source_url": "https://almondcow.co/press",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "member of our team will be in touch, or reach out to us at partners@almondcow.co. First Name Last Name Email"
+      }
+    ],
+    "role_emails": [
+      "info@almondcow.co",
+      "partners@almondcow.co"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://almondcow.co",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://almondcow.co/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://almondcow.co/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://almondcow.co/pages/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://almondcow.co/press",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://almondcow.co/pages/press",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "The Plant-Based Milk Maker. Make fresh, delicious plant-based milk at home in under 60 seconds with Almond Cow. No additives, no mess\u2014just pure, customizable milk from any nut, grain, or seed. Reduce waste, save money, and enjoy endless recipes. Join 300,000+ happy customers embracing a modern way t",
+    "source_urls": [
+      "https://almondcow.co",
+      "https://almondcow.co/about",
+      "https://almondcow.co/press",
+      "https://almondcow.co/pages/press"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "almondsurfboards.com",
+    "company_name": "Almond Surfboards & Designs",
+    "website": "https://almondsurfboards.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@almondsurfboards.com",
+        "confidence": "high",
+        "source_url": "https://almondsurfboards.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@almondsurfboards.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://almondsurfboards.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://almondsurfboards.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://almondsurfboards.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://almondsurfboards.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Made in California. Almond Surfboards, Menswear, and Essentials for Craftsmen of all varieties. Costa Mesa, CA.",
+    "source_urls": [
+      "https://almondsurfboards.com",
+      "https://almondsurfboards.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "almostheaven.com",
+    "company_name": "Almost Heaven Saunas",
+    "website": "https://almostheaven.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "sales@almostheaven.com",
+        "confidence": "highest",
+        "source_url": "https://almostheaven.com/pages/customer-support",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "in and of itself. Email Us sales@almostheaven.com Call Us M-F 9am-5pm EST Michigan, USA 888"
+      }
+    ],
+    "role_emails": [
+      "sales@almostheaven.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://almostheaven.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://almostheaven.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2011-10-07"
+      },
+      {
+        "url": "https://almostheaven.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://almostheaven.com/pages/customer-support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://almostheaven.com/pages/contact-our-sales-team",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Almost Heaven Saunas has manufactured quality saunas in the USA since 1977. Our full product line includes our signature barrel saunas and DIY sauna kits for any home.",
+    "source_urls": [
+      "https://almostheaven.com/pages/customer-support"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "almosthomegeneral.com",
+    "company_name": "Almost Home General",
+    "website": "https://almosthomegeneral.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "julia@almosthomegeneral.com",
+        "confidence": "high",
+        "source_url": "https://almosthomegeneral.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Feel free to drop us a message here or email julia@almosthomegeneral.com for any questions, comments, concerns :) Name Ema"
+      }
+    ],
+    "role_emails": [
+      "julia@almosthomegeneral.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://almosthomegeneral.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://almosthomegeneral.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://almosthomegeneral.com/pages/contact",
+        "action": "/contact#contact-form--template--23599080309015__contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Almost Home General",
+    "source_urls": [
+      "https://almosthomegeneral.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "almostskateboards.com",
+    "company_name": "Almost Skateboards",
+    "website": "https://almostskateboards.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "robots_disallowed",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "almsthre.com",
+    "company_name": "ALMSTHRE",
+    "website": "https://almsthre.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "wholesale@almsthre.com",
+        "confidence": "high",
+        "source_url": "https://almsthre.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "wholesale@almsthre.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://almsthre.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://almsthre.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Premium cycling bar and saddle bags",
+    "source_urls": [
+      "https://almsthre.com",
+      "https://almsthre.com/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  }
+]
