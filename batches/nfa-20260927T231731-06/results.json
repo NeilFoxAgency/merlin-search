@@ -1,0 +1,1765 @@
+[
+  {
+    "company_domain": "alnew.com",
+    "company_name": "AL-NEW",
+    "website": "https://www.alnew.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "aloderma.com",
+    "company_name": "ALODERMA",
+    "website": "https://aloderma.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customerservice@aloderma.com",
+        "confidence": "high",
+        "source_url": "https://aloderma.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "e, Perris, CA 92570 1-(855) 400-3879 9AM - 3PM ET M-F customerservice@aloderma.com Office Address: 30 N Gould St #57151 Sheridan, WY, 8280"
+      },
+      {
+        "address": "sales@aloderma.com",
+        "confidence": "high",
+        "source_url": "https://aloderma.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "olesale Inquiries For wholesale inquiries, please email sales@aloderma.com with a detailed description of your retail business. We do"
+      }
+    ],
+    "role_emails": [
+      "customerservice@aloderma.com",
+      "sales@aloderma.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://aloderma.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aloderma.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aloderma.com/pages/team-members-1",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aloderma.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aloderma.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://aloderma.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "ALODERMA Natural is the home for Fresh Aloe Skin Care made within 12 hours of Harvest to deliver the most bio-active, fresh aloe skin care products.",
+    "source_urls": [
+      "https://aloderma.com",
+      "https://aloderma.com/about-us",
+      "https://aloderma.com/pages/team-members-1",
+      "https://aloderma.com/pages/about-us",
+      "https://aloderma.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "alodiahaircare.com",
+    "company_name": "Alodia Hair Care",
+    "website": "https://alodiahaircare.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://alodiahaircare.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alodiahaircare.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alodiahaircare.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alodiahaircare.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alodiahaircare.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alodiahaircare.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alodiahaircare.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://alodiahaircare.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Alodia Hair Care is a carefully crafted line of quality, scientifically proven, hair care products made with natural ingredients that cater to the essential needs of your hair and more importantly, your scalp, to encourage and induce the growth of healthier, more beautiful tresses.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "aloecure.com",
+    "company_name": "AloeCure",
+    "website": "https://aloecure.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customerservice@aloecure.com",
+        "confidence": "high",
+        "source_url": "https://aloecure.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Subscribe & Save Our Blog Email: customerservice@aloecure.com Login Subscribe & Save 20% on All Products!"
+      }
+    ],
+    "role_emails": [
+      "customerservice@aloecure.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://aloecure.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aloecure.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aloecure.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aloecure.com/pages/team-members",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aloecure.com/blogs/aloecure/sleep-support-supplement",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://aloecure.com/pages/about-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://aloecure.com/blogs/aloecure/sleep-support-supplement",
+        "action": "/blogs/aloecure/sleep-support-supplement/comments#comment_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "AloeCure runs organically certified aloe farms and processes within 12 hours of harvest to deliver customers the highest quality aloe vera supplements.",
+    "source_urls": [
+      "https://aloecure.com",
+      "https://aloecure.com/contact",
+      "https://aloecure.com/pages/about-us",
+      "https://aloecure.com/pages/team-members",
+      "https://aloecure.com/blogs/aloecure/sleep-support-supplement"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "alofthobbies.com",
+    "company_name": "Aloft Hobbies",
+    "website": "https://alofthobbies.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "contact@alofthobbies.com",
+        "confidence": "high",
+        "source_url": "https://alofthobbies.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2015-09-24",
+        "context_snippet": "for most conversations.) 949-288-3331 Customer Care contact@alofthobbies.com Have questions, concerns or comments? We wo"
+      }
+    ],
+    "role_emails": [
+      "contact@alofthobbies.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://alofthobbies.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alofthobbies.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2016-11-03"
+      },
+      {
+        "url": "https://alofthobbies.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2022-01-17"
+      },
+      {
+        "url": "https://alofthobbies.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2015-09-24"
+      },
+      {
+        "url": "https://alofthobbies.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alofthobbies.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://alofthobbies.com/contact",
+        "action": "/contacts/index/post",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Aloft Hobbies offers top quality RC aircraft and radio gear with very reasonable pricing, fast shipping, and full service to backup our products. We are very loyal to our customers!",
+    "source_urls": [
+      "https://alofthobbies.com/contact",
+      "https://alofthobbies.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "aloha-collection.com",
+    "company_name": "ALOHA Collection",
+    "website": "https://aloha-collection.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "dreamteam@aloha-collection.com",
+        "confidence": "high",
+        "source_url": "https://aloha-collection.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "dreamteam@aloha-collection.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://aloha-collection.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aloha-collection.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aloha-collection.com/pages/join-our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Shop the stylish collection of lightweight & water-resistant travel bags from ALOHA Collection. Meet the lineup of \u2714\ufe0f tote bags \u2714\ufe0f backpacks \u2714\ufe0fduffles, \u2714\ufe0fweekender bags \u2714\ufe0fpouches & more to pack like a pro. Buy online or from a store near you! #Travellightwithus",
+    "source_urls": [
+      "https://aloha-collection.com",
+      "https://aloha-collection.com/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "aloha.com",
+    "company_name": "ALOHA",
+    "website": "https://aloha.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "care@aloha.com",
+        "confidence": "highest",
+        "source_url": "https://aloha.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2014-07-02",
+        "context_snippet": "Get in Touch +1 888.444.3898 M-F, 10 AM to 6 PM EST care@aloha.com Anytime! Follow Us Facebook Pinterest Twitter"
+      },
+      {
+        "address": "wholesale@aloha.com",
+        "confidence": "highest",
+        "source_url": "https://aloha.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "er and fill out the wholesale application, or contact us at Wholesale@aloha.com for more info. Applications are typically reviewed within 3"
+      },
+      {
+        "address": "press@aloha.com",
+        "confidence": "high",
+        "source_url": "https://aloha.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2014-07-02",
+        "context_snippet": "We'd love to hear from you, too! press@aloha.com facebook pinterest twitter google+"
+      }
+    ],
+    "role_emails": [
+      "care@aloha.com",
+      "press@aloha.com",
+      "wholesale@aloha.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://aloha.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aloha.com/press",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2014-07-02"
+      },
+      {
+        "url": "https://aloha.com/pages/about-us-our-mission",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aloha.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aloha.com/pages/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://aloha.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Meet ALOHA's mouthwateringly delicious Plant-Based Protein Bars, Shakes, and Powders. USDA Organic, Non-GMO Project Verified, Made with real ingredients by a Certified B Corp. Click to get our best deals and make the switch to ALOHA today!",
+    "source_urls": [
+      "https://aloha.com/press",
+      "https://aloha.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "alohabeer.com",
+    "company_name": "Aloha Beer",
+    "website": "https://alohabeer.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "aloha@alohabeer.com",
+        "confidence": "highest",
+        "source_url": "https://alohabeer.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2023-01-31",
+        "context_snippet": "tact Us Please use the inquiry form below or email us at aloha@alohabeer.com . We regularly update our FAQ Page for questions frequent"
+      }
+    ],
+    "role_emails": [
+      "aloha@alohabeer.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://alohabeer.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alohabeer.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2023-01-31"
+      },
+      {
+        "url": "https://alohabeer.com/pages/locations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alohabeer.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://alohabeer.com/contact",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://alohabeer.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "A locally owned and independent Hawaii Brewery serving local craft beer in the heart of Kaka'ako in Honolulu, Hawaii. Local Brewery with lots of Aloha!",
+    "source_urls": [
+      "https://alohabeer.com/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "alohacityukes.com",
+    "company_name": "Aloha City Ukes",
+    "website": "https://alohacityukes.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@alohacityukes.com",
+        "confidence": "high",
+        "source_url": "https://alohacityukes.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "every day. __________________________________ 847-926-7339 info@alohacityukes.com Directions"
+      },
+      {
+        "address": "matt@alohacityukes.com",
+        "confidence": "high",
+        "source_url": "https://alohacityukes.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@alohacityukes.com",
+      "matt@alohacityukes.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://alohacityukes.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alohacityukes.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alohacityukes.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alohacityukes.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alohacityukes.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alohacityukes.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://alohacityukes.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Shop for quality ukuleles at Aloha City Ukes, Chicagoland's premier dealer. We carry top brands like KoAloha, Kanile'a, Kala,Ohana, Amahi, Kiwaya, Romero Creations and more. Browse our selection now!",
+    "source_urls": [
+      "https://alohacityukes.com",
+      "https://alohacityukes.com/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "alohafunwear.com",
+    "company_name": "AlohaFunWear.com",
+    "website": "https://alohafunwear.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://alohafunwear.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alohafunwear.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alohafunwear.com/pages/customer-support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://alohafunwear.com/pages/customer-support",
+        "action": "/contact#contact-template--23232271450148__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Aloha shirts & dresses by Paradise Found, Pacific Legend, Robert J Clancey, Waimea Casuals, Two Palms, Aloha Republic, and more. B2B discounts and embroidery available.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "alohashirtshop.com",
+    "company_name": "Aloha Shirt Shop",
+    "website": "https://www.alohashirtshop.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@alohashirtshop.com",
+        "confidence": "highest",
+        "source_url": "https://www.alohashirtshop.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ntact Contact Phone - 888-959-2721 Email - info@alohashirtshop.com Aloha Shirt Shop internet phone staff contact hours are 1"
+      }
+    ],
+    "role_emails": [
+      "info@alohashirtshop.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.alohashirtshop.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.alohashirtshop.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.alohashirtshop.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.alohashirtshop.com/pages/contact",
+        "action": "/contact#contact-template--26308378984764__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Hawaiian Aloha shirts for men and women by Reyn Spooner, Paradise Found, Waimea Casuals, Two Palms, Pacific Legend, and more.",
+    "source_urls": [
+      "https://www.alohashirtshop.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "alohashoes.com",
+    "company_name": "Jesus Sandals AlohaShoes.com",
+    "website": "https://alohashoes.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "mahalo@alohashoes.com",
+        "confidence": "highest",
+        "source_url": "https://alohashoes.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2016-10-15",
+        "context_snippet": "619-246-6781 mahalo@alohashoes.com Facebook Facebook 0"
+      }
+    ],
+    "role_emails": [
+      "mahalo@alohashoes.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://alohashoes.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alohashoes.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2016-10-15"
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://alohashoes.com/contact",
+        "action": "https://alohashoes.com/contact/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Scott Sandals, Pali Hawaii Jandals & Jesus Sandals all from Hawaii. Safe, Secure ordering and lighting fast shipping across the Country. Texas Jandel to Locals Rubber Aloha Shoes carries a wide rage of colors.",
+    "source_urls": [
+      "https://alohashoes.com",
+      "https://alohashoes.com/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "alohasunvapor.com",
+    "company_name": "Aloha Sun",
+    "website": "https://alohasunvapor.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "hi@alohasunvapor.com ->",
+        "title": null,
+        "email": "hi@alohasunvapor.com",
+        "source_url": "https://alohasunvapor.com/pages/about"
+      }
+    ],
+    "people": [
+      {
+        "name": "hi@alohasunvapor.com ->",
+        "title": null,
+        "email": "hi@alohasunvapor.com",
+        "source_url": "https://alohasunvapor.com/pages/about"
+      }
+    ],
+    "emails": [
+      {
+        "address": "hi@alohasunvapor.com",
+        "confidence": "highest",
+        "source_url": "https://alohasunvapor.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Sun . Hawaii-inspired flavor, made with care. Aloha. hi@alohasunvapor.com @alohasun.disposables Shop All products Kalos A"
+      }
+    ],
+    "role_emails": [
+      "hi@alohasunvapor.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://alohasunvapor.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alohasunvapor.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alohasunvapor.com/pages/about#contact",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alohasunvapor.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://alohasunvapor.com/pages/about",
+        "action": "/contact#aboutContact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://alohasunvapor.com/pages/about#contact",
+        "action": "/contact#aboutContact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Try Aloha Sun \u2122 Vapes Today - The Best Fruit Flavored Disposable Vapes On The Planet",
+    "source_urls": [
+      "https://alohasunvapor.com",
+      "https://alohasunvapor.com/pages/about",
+      "https://alohasunvapor.com/pages/about#contact",
+      "https://alohasunvapor.com/policies/contact-information"
+    ],
+    "reason": null,
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "alohasupoh.com",
+    "company_name": "Aloha SUP",
+    "website": "https://alohasupoh.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://alohasupoh.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alohasupoh.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alohasupoh.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://alohasupoh.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Standup SUP Paddle Board Sales, SUP Paddle Sales, SUP Clothing and Accessories in Cleveland, Columbus, Lorain, Bay Village, Huron, Cincinnati Ohio.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "alohaxchng.com",
+    "company_name": "Aloha Exchange",
+    "website": "https://alohaxchng.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://alohaxchng.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alohaxchng.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alohaxchng.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://alohaxchng.com/pages/contact-us",
+        "action": "/contact#contact-us-page",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Surf, skate, camp & lifestyle goods from Kauai's locally owned shop since 2013. Shop online or visit our Kalaheo, Kilauea, & Lawai Locations. Free shipping over $100.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "alohaz.com",
+    "company_name": "Alohaz",
+    "website": "https://www.alohaz.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.alohaz.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.alohaz.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.alohaz.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.alohaz.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Shop made-in-Hawaii aloha shirts, floral dresses & Pali Hawaii sandals for men, women & families. Locally designed & trusted since 1999.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "aloraambiance.com",
+    "company_name": "Alora Ambiance",
+    "website": "https://aloraambiance.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@aloraambiance.com",
+        "confidence": "highest",
+        "source_url": "https://aloraambiance.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Contact US Alora Ambiance (612) 310-8198 hello@aloraambiance.com JOIN THE ALORA FAMIGLIA Enter your email Subscribe"
+      }
+    ],
+    "role_emails": [
+      "hello@aloraambiance.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://aloraambiance.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aloraambiance.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aloraambiance.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://aloraambiance.com/pages/contact-us",
+        "action": "/contact#contact-template--19402184851709__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Discover luxury reed diffusers, room sprays, and hand wash handcrafted in Minnesota, inspired by Italy. 18 signature scents, each with a story of its own.",
+    "source_urls": [
+      "https://aloraambiance.com",
+      "https://aloraambiance.com/pages/about-us",
+      "https://aloraambiance.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "aloriam.com",
+    "company_name": "Aloriam",
+    "website": "https://www.aloriam.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "orders@aloriam.com",
+        "confidence": "high",
+        "source_url": "https://www.aloriam.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ns. If you have attachments such as photos, please email to orders@aloriam.com Need fabric samples? Please order them here . Need t"
+      }
+    ],
+    "role_emails": [
+      "orders@aloriam.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.aloriam.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.aloriam.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.aloriam.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.aloriam.com/products/clearance-nola-espresso-dark-brown-cream-animal-dots-pillow-cover",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.aloriam.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Aloriam Pillows offers custom made designer decorative pillow covers in fabrics from Robert Allen, Duralee, Kravet, Lee Jofa & more. Choose from 1000+ pillow designs in 15 sizes, styles and colors!",
+    "source_urls": [
+      "https://www.aloriam.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "alounfarms.com",
+    "company_name": "Aloun Farms Hawaii",
+    "website": "https://alounfarms.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@alounfarms.com",
+        "confidence": "highest",
+        "source_url": "https://alounfarms.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "officehr@alounfarms.com",
+        "confidence": "highest",
+        "source_url": "https://alounfarms.com/pages/join-our-team-today",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "n: 91-1440 Farrington Hwy., Kapolei, HI 96707 Email: officehr@alounfarms.com For more information please call (808) 252-0183. Mahalo"
+      }
+    ],
+    "role_emails": [
+      "info@alounfarms.com",
+      "officehr@alounfarms.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://alounfarms.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alounfarms.com/pages/about-aloun-farms",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alounfarms.com/pages/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alounfarms.com/pages/join-our-team-today",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alounfarms.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://alounfarms.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Aloun Farms grows the highest quality of fresh island produce for the people of Hawaii. Specializing in local, seasonal produce. Aloun Farms is one of largest commercial agriculture farms in the Hawaiian Islands.",
+    "source_urls": [
+      "https://alounfarms.com/pages/join-our-team-today",
+      "https://alounfarms.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "aloyoga.com",
+    "company_name": "Alo Yoga",
+    "website": "https://www.aloyoga.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Norman Hullinger",
+        "title": "President",
+        "email": "compliance@aloyoga.com",
+        "source_url": "https://www.aloyoga.com/about",
+        "association": "proximity"
+      }
+    ],
+    "people": [
+      {
+        "name": "Norman Hullinger",
+        "title": "President",
+        "email": "compliance@aloyoga.com",
+        "source_url": "https://www.aloyoga.com/about",
+        "association": "proximity"
+      }
+    ],
+    "emails": [
+      {
+        "address": "compliance@aloyoga.com",
+        "confidence": "highest",
+        "source_url": "https://www.aloyoga.com/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "initiatives. Our Social Compliance team can be reached at: compliance@aloyoga.com . Norman Hullinger | Co-President"
+      },
+      {
+        "address": "customerservice@aloyoga.com",
+        "confidence": "high",
+        "source_url": "https://www.aloyoga.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "support@aloyoga.com",
+        "confidence": "high",
+        "source_url": "https://www.aloyoga.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "customerservice@aloyoga.com",
+      "support@aloyoga.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.aloyoga.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.aloyoga.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.aloyoga.com/collections/espresso-1",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Shop the best yoga wear & accessories for yoga and working out. Wear-tested by yogis for the best fit. Shop celeb-approved yoga pants, workout tights, leggings, capris & lounge for women & men at aloyoga.com.",
+    "source_urls": [
+      "https://www.aloyoga.com",
+      "https://www.aloyoga.com/about",
+      "https://www.aloyoga.com/collections/espresso-1"
+    ],
+    "reason": null,
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "alpacacollections.com",
+    "company_name": "Alpaca Collections",
+    "website": "https://www.alpacacollections.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "service@alpacacollections.com",
+        "confidence": "highest",
+        "source_url": "https://www.alpacacollections.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "888-308-2636 Monday - Friday: 8 AM - 4 PM EST Email us: service@alpacacollections.com Or leave us a note Name"
+      },
+      {
+        "address": "nservice@alpacacollections.com",
+        "confidence": "high",
+        "source_url": "https://www.alpacacollections.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "nservice@alpacacollections.com",
+      "service@alpacacollections.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.alpacacollections.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.alpacacollections.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2024-07-05"
+      },
+      {
+        "url": "https://www.alpacacollections.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.alpacacollections.com/blogs/clothing/hope-baby-alpaca-hat-handmade-knitwear-project-supporting-mothers-in-peru",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.alpacacollections.com/contact",
+        "action": "https://www.alpacacollections.com/contact/index/post/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.alpacacollections.com/pages/contact",
+        "action": "/contact#contact-template--22658427093296__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Alpaca Collections luxury clothing has alpaca clothes and accessories from the finest baby alpaca wool of Peru. Shop now!",
+    "source_urls": [
+      "https://www.alpacacollections.com",
+      "https://www.alpacacollections.com/pages/contact",
+      "https://www.alpacacollections.com/blogs/clothing/hope-baby-alpaca-hat-handmade-knitwear-project-supporting-mothers-in-peru"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "alpacadirect.com",
+    "company_name": "Alpaca Direct",
+    "website": "https://www.alpacadirect.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Kelley Hobart",
+        "title": "Owner",
+        "email": "info@alpacadirect.com",
+        "source_url": "https://www.alpacadirect.com/a/press-kit",
+        "association": "proximity"
+      }
+    ],
+    "people": [
+      {
+        "name": "Kelley Hobart",
+        "title": "Owner",
+        "email": "info@alpacadirect.com",
+        "source_url": "https://www.alpacadirect.com/a/press-kit",
+        "association": "proximity"
+      }
+    ],
+    "emails": [
+      {
+        "address": "customerservice@alpacadirect.com",
+        "confidence": "highest",
+        "source_url": "https://www.alpacadirect.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "info@alpacadirect.com",
+        "confidence": "highest",
+        "source_url": "https://www.alpacadirect.com/pages/about-us-alpaca-direct",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "208-209-7079 Fax: 208-762-2600 www.alpacadirect.com Email: info@alpacadirect.com Hours: Our online store is open and shipping! Our sh"
+      }
+    ],
+    "role_emails": [
+      "customerservice@alpacadirect.com",
+      "info@alpacadirect.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.alpacadirect.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.alpacadirect.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.alpacadirect.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.alpacadirect.com/pages/about-us-alpaca-direct",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.alpacadirect.com/a/press-kit",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.alpacadirect.com/pages/contact",
+        "action": "/contact#form-contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Alpaca Direct offers premium quality alpaca socks, knitting and crochet yarns, knitting supplies and alpaca gifts and apparel. Free USA Shipping on orders $75 or more.",
+    "source_urls": [
+      "https://www.alpacadirect.com",
+      "https://www.alpacadirect.com/contact",
+      "https://www.alpacadirect.com/pages/contact",
+      "https://www.alpacadirect.com/pages/about-us-alpaca-direct",
+      "https://www.alpacadirect.com/a/press-kit"
+    ],
+    "reason": null,
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "alpacasofmontana.com",
+    "company_name": "Alpacas of Montana",
+    "website": "https://alpacasofmontana.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@alpacasofmontana.com",
+        "confidence": "high",
+        "source_url": "https://alpacasofmontana.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "u003einfo@alpacasofmontana.com",
+        "confidence": "high",
+        "source_url": "https://alpacasofmontana.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@alpacasofmontana.com",
+      "u003einfo@alpacasofmontana.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://alpacasofmontana.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alpacasofmontana.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alpacasofmontana.com/products/alpaca-compression-socks",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://alpacasofmontana.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Shop premium alpaca socks, clothing, and outdoor gear made for every season. Crafted with AlpacaTek\u00ae fiber for natural breathability, temperature regulation, durability, and hypoallergenic softness \u2014 all from our Bozeman-based ranch.",
+    "source_urls": [
+      "https://alpacasofmontana.com",
+      "https://alpacasofmontana.com/pages/contact-us",
+      "https://alpacasofmontana.com/products/alpaca-compression-socks"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "alpacawarehouse.us",
+    "company_name": "Alpaca Warehouse",
+    "website": "https://alpacawarehouse.us",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@alpacawarehouse.us",
+        "confidence": "high",
+        "source_url": "https://alpacawarehouse.us/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ", collaborations, or wholesale opportunities. info@alpacawarehouse.us info@alpacawarehouse.us info@alpacawarehouse.us"
+      }
+    ],
+    "role_emails": [
+      "info@alpacawarehouse.us"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://alpacawarehouse.us",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alpacawarehouse.us/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alpacawarehouse.us/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://alpacawarehouse.us/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Authentic 100% alpaca wool clothing, blankets, and yarn made in Peru. Soft, warm, ethically sourced. Free US shipping on orders over $99.",
+    "source_urls": [
+      "https://alpacawarehouse.us/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "alpackaraft.com",
+    "company_name": "Alpacka Raft",
+    "website": "https://alpackaraft.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "workshop@alpackaraft.com",
+        "confidence": "highest",
+        "source_url": "https://alpackaraft.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "f cookie usage. Click here to opt back in. 970-533-7119 workshop@alpackaraft.com 192 S. Main Street Mancos, CO 81328"
+      }
+    ],
+    "role_emails": [
+      "workshop@alpackaraft.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://alpackaraft.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alpackaraft.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alpackaraft.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alpackaraft.com/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alpackaraft.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alpackaraft.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alpackaraft.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alpackaraft.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alpackaraft.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://alpackaraft.com/join-our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://alpackaraft.com/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Passionate about Packrafting in all its Forms",
+    "source_urls": [
+      "https://alpackaraft.com",
+      "https://alpackaraft.com/team",
+      "https://alpackaraft.com/our-team",
+      "https://alpackaraft.com/meet-the-team",
+      "https://alpackaraft.com/about",
+      "https://alpackaraft.com/about-us",
+      "https://alpackaraft.com/press",
+      "https://alpackaraft.com/media",
+      "https://alpackaraft.com/contact",
+      "https://alpackaraft.com/join-our-team"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  }
+]
