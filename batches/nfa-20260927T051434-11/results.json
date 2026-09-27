@@ -1,0 +1,1443 @@
+[
+  {
+    "company_domain": "africanhut.com",
+    "company_name": "African Hut",
+    "website": "https://www.africanhut.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "\u2709\ufe0f sales@africanhut.com",
+        "title": null,
+        "email": "sales@africanhut.com",
+        "source_url": "https://www.africanhut.com"
+      }
+    ],
+    "people": [
+      {
+        "name": "\u2709\ufe0f sales@africanhut.com",
+        "title": null,
+        "email": "sales@africanhut.com",
+        "source_url": "https://www.africanhut.com"
+      }
+    ],
+    "emails": [
+      {
+        "address": "sales@africanhut.com",
+        "confidence": "highest",
+        "source_url": "https://www.africanhut.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "$ \ud83d\udcde Call: 1-949-582-9546 \u2709\ufe0f sales@africanhut.com Facebook Instagram"
+      }
+    ],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.africanhut.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.africanhut.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.africanhut.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.africanhut.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "In-store and on-line retail sales of imported food from South Africa, United Kingdom, Ireland, Germany etc. for expats and locals.",
+    "source_urls": [
+      "https://www.africanhut.com",
+      "https://www.africanhut.com/pages/contact-us",
+      "https://www.africanhut.com/pages/about-us"
+    ],
+    "reason": null,
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "africanjoyflix.com",
+    "company_name": "Africanjoyflix",
+    "website": "https://africanjoyflix.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@africanjoyflix.com",
+        "confidence": "high",
+        "source_url": "https://africanjoyflix.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ce Monday - Sunday\uff1a 8.00 PM (previous day) - 4.00 PM EST \ud83d\udce7 info@africanjoyflix.com instagram Instagram Facebook"
+      },
+      {
+        "address": "orders@africanjoyflix.com",
+        "confidence": "high",
+        "source_url": "https://africanjoyflix.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@africanjoyflix.com",
+      "orders@africanjoyflix.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://africanjoyflix.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://africanjoyflix.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://africanjoyflix.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://africanjoyflix.com/pages/contact",
+        "action": "/contact#contact-template--24555699765523__contact_form_Vap3ai",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://africanjoyflix.com/pages/about-us",
+        "action": "/contact#contact-template--24555699765523__contact_form_Vap3ai",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Choose photos, text and music to make your own video,1 day to complete. Personalized videos that deliver genuine care, making your special moments truly joyful,Bring joy to your family and friends!",
+    "source_urls": [
+      "https://africanjoyflix.com",
+      "https://africanjoyflix.com/pages/contact",
+      "https://africanjoyflix.com/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "afrikanattire.com",
+    "company_name": "AFRIKAN ATTIRE",
+    "website": "https://afrikanattire.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@afrikanattire.com",
+        "confidence": "highest",
+        "source_url": "https://afrikanattire.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "eed help? Call Us +1-302-737-0500 support@afrikanattire.com Follow Us Facebook Twitter"
+      }
+    ],
+    "role_emails": [
+      "support@afrikanattire.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://afrikanattire.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://afrikanattire.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2018-10-04"
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Modern and Traditional African Men and African Womens Clothing, African Jewelry, Shoes, African Beauty and Health Products. all from the latest and popular African brands. Also Unisex, Custom Order, and Plus Size Clothing, Ethnically elegant, and ultramodern, authentic African clothing designed or m",
+    "source_urls": [
+      "https://afrikanattire.com",
+      "https://afrikanattire.com/about"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "afrojoes.com",
+    "company_name": "Afro Joe's Coffee & Tea",
+    "website": "https://www.afrojoes.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "awake@afrojoes.com",
+        "confidence": "high",
+        "source_url": "https://www.afrojoes.com/pages/locations-and-numbers",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "PM For all inquires or concerns please send an email to: awake@afrojoes.com Event Inquiry Contact Us M-"
+      }
+    ],
+    "role_emails": [
+      "awake@afrojoes.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.afrojoes.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.afrojoes.com/pages/locations-and-numbers",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Afro Joe's Coffee & Tea",
+    "source_urls": [
+      "https://www.afrojoes.com/pages/locations-and-numbers"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "afrotouch.com",
+    "company_name": "AfroTouchBraiding",
+    "website": "https://afrotouch.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "afrounicorns.com",
+    "company_name": "afrounicorns",
+    "website": "https://afrounicorns.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@afrounicorns.com",
+        "confidence": "high",
+        "source_url": "https://afrounicorns.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@afrounicorns.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://afrounicorns.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://afrounicorns.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://afrounicorns.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://afrounicorns.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://afrounicorns.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Afro Unicorn is a brand of unicorns for women of color. A variety of Afro Unicorn shirts, Afro Unicorn tee's, and Afro Unicorn accessories. We wanted to create a line of apparel to remind women of color how unique, divine and magical we truly are.",
+    "source_urls": [
+      "https://afrounicorns.com",
+      "https://afrounicorns.com/contact",
+      "https://afrounicorns.com/pages/about-us",
+      "https://afrounicorns.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "afsc.org",
+    "company_name": "afsc.org",
+    "website": "https://afsc.org",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "afscinfo@afsc.org",
+        "confidence": "high",
+        "source_url": "https://afsc.org/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "donorservices@afsc.org",
+        "confidence": "high",
+        "source_url": "https://afsc.org/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "dwatson@afsc.org",
+        "confidence": "high",
+        "source_url": "https://afsc.org/our-team",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "friends@afsc.org",
+        "confidence": "high",
+        "source_url": "https://afsc.org/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "news@afsc.org",
+        "confidence": "high",
+        "source_url": "https://afsc.org/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "afscinfo@afsc.org",
+      "donorservices@afsc.org",
+      "dwatson@afsc.org",
+      "friends@afsc.org",
+      "news@afsc.org"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://afsc.org",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://afsc.org/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://afsc.org/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://afsc.org/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://afsc.org/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://afsc.org/news/how-afsc-supporting-immigrants-moment",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://afsc.org/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://afsc.org/contact",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://afsc.org/contact-us",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "AFSC works for a just, peaceful, and sustainable world free of violence, inequality, and oppression.",
+    "source_urls": [
+      "https://afsc.org/our-team",
+      "https://afsc.org/contact",
+      "https://afsc.org/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "afsusa.org",
+    "company_name": "AFS-USA",
+    "website": "https://shop.afsusa.org",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "aftco.com",
+    "company_name": "AFTCO",
+    "website": "https://www.aftco.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customercare@aftco.com",
+        "confidence": "highest",
+        "source_url": "https://www.aftco.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ays. Email Us customercare@aftco.com Call Us (877) 489-4278"
+      }
+    ],
+    "role_emails": [
+      "customercare@aftco.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.aftco.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.aftco.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.aftco.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.aftco.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.aftco.com/pages/freshwater-pro-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.aftco.com/blogs/conservation/recreational-fishing-organizations-unite-in-support-of-pacific-bluefin-tuna",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Family Owned & Operated, AFTCO represents a tradition of high performance precision-built fishing gear. Since 1958, AFTCO has been the leader in Men's, Women's and Kid's fishing clothing, tackle & performance apparel worn across the globe for fresh and salt water Angler's ready to catch any fish, an",
+    "source_urls": [
+      "https://www.aftco.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "afterbite.com",
+    "company_name": "After Bite",
+    "website": "https://afterbite.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://afterbite.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://afterbite.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://afterbite.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://afterbite.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Get relief from itchy bug bites from After Bite insect bite relief. After Bite bug bite itch relief pens come in liquid or cream formulas to stop the itch from mosquitoes, black flies, and more.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "afterinked.com",
+    "company_name": "After Inked",
+    "website": "https://afterinked.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@afterinked.com",
+        "confidence": "highest",
+        "source_url": "https://afterinked.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "USA Tel: 1-888-881-7477 Email: hello@afterinked.com SOCIAL MEDIA: Facebook Instagram T"
+      },
+      {
+        "address": "info@afterinked.com",
+        "confidence": "highest",
+        "source_url": "https://afterinked.com/team",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ers: Jupiter, FL, USA PO Box 342458 Tampa, FL 33694, USA info@afterinked.com +1-888-881-7477"
+      },
+      {
+        "address": "sales@afterinked.com",
+        "confidence": "high",
+        "source_url": "https://afterinked.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "hello@afterinked.com",
+      "info@afterinked.com",
+      "sales@afterinked.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://afterinked.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://afterinked.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://afterinked.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://afterinked.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://afterinked.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://afterinked.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://afterinked.com/pages/contact-us",
+        "action": "/contact#ContactForm-template--24086631350431__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Shop trusted tattoo aftercare since 2007 - vegan, fragrance-free, artist approved, as seen on Ink Master - piercing spray, PMU care, best tattoo lotion",
+    "source_urls": [
+      "https://afterinked.com",
+      "https://afterinked.com/team",
+      "https://afterinked.com/our-team",
+      "https://afterinked.com/about",
+      "https://afterinked.com/pages/about-us",
+      "https://afterinked.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "aftershockcomics.com",
+    "company_name": "AfterShockComics",
+    "website": "https://aftershockcomics.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://aftershockcomics.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aftershockcomics.com/pages/the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aftershockcomics.com/blogs/news/fawkes-fritella-team-for-all-night-every-day",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aftershockcomics.com/community/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "AfterShock Comics is a creatively driven comic book publisher led by a team of highly accomplished, life-long comics professionals and entertainment specialists. AfterShock is dedicated to working with the brightest stars to reach out to new and established audiences and tell original, unique storie",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "aftersicecream.com",
+    "company_name": "afters ice cream",
+    "website": "https://aftersicecream.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@aftersicecream.com",
+        "confidence": "highest",
+        "source_url": "https://aftersicecream.com/media",
+        "source_type": "archived",
+        "snapshot_date": "2017-02-28",
+        "context_snippet": ""
+      },
+      {
+        "address": "hi@aftersicecream.com",
+        "confidence": "highest",
+        "source_url": "https://aftersicecream.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2015-12-12",
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "hello@aftersicecream.com",
+      "hi@aftersicecream.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://aftersicecream.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aftersicecream.com/press",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2021-02-05"
+      },
+      {
+        "url": "https://aftersicecream.com/media",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2017-02-28"
+      },
+      {
+        "url": "https://aftersicecream.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2015-12-12"
+      },
+      {
+        "url": "https://aftersicecream.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aftersicecream.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://aftersicecream.com/press",
+        "action": "https://scott-nghiem-exn5.squarespace.com",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://aftersicecream.com/contact",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Afters Ice Cream was made as an outlet for creativity through flavors and design. Unique flavors like Milk and Cereal, Cookie Monster and Jasmine Milk Tea fuel the creative kitchen to keep pushing the limits of ice cream flavors. Afters is more than just ice cream. It's a lifestyle.",
+    "source_urls": [
+      "https://aftersicecream.com",
+      "https://aftersicecream.com/media",
+      "https://aftersicecream.com/contact",
+      "https://aftersicecream.com/pages/about",
+      "https://aftersicecream.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "aftertheburial.co",
+    "company_name": "After The Burial",
+    "website": "https://aftertheburial.co",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://aftertheburial.co",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aftertheburial.co/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aftertheburial.co/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://aftertheburial.co/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "The official website and merch store for Minnesota metal band After The Burial.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "ag1.com",
+    "company_name": "AG1",
+    "website": "https://ag1.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "aga-ranges.com",
+    "company_name": "AGA",
+    "website": "https://www.aga-ranges.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "agadirint.com",
+    "company_name": "Agadir International \u2013 AgadirInt",
+    "website": "https://agadirint.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@agadirint.com",
+        "confidence": "high",
+        "source_url": "https://agadirint.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Plaza Paramus, NJ 07652 Phone: (201) 261-3757 E-mail: info@agadirint.com Quicklinks About Agadir Become an Agadir Salon CBD Lab"
+      }
+    ],
+    "role_emails": [
+      "info@agadirint.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://agadirint.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://agadirint.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Agadir is built on quality ingredients that provide the nutrients your hair needs. We believe good hair comes from more than chemicals, but rather ingredients around the world. Whether it is Argan or hemp oil, we have been turning the industry on its head, one hair style at a time.",
+    "source_urls": [
+      "https://agadirint.com",
+      "https://agadirint.com/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "againfaster.com",
+    "company_name": "Again Faster",
+    "website": "https://www.againfaster.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "sales@againfaster.com",
+        "confidence": "highest",
+        "source_url": "https://www.againfaster.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "CONTACT US Email service@againfaster.com Sales sales@againfaster.com Address 6635 Highway Avenue Jacksonville, FL 32254"
+      },
+      {
+        "address": "service@againfaster.com",
+        "confidence": "highest",
+        "source_url": "https://www.againfaster.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "sales@againfaster.com",
+      "service@againfaster.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.againfaster.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.againfaster.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.againfaster.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.againfaster.com/collections/compression-socks",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.againfaster.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.againfaster.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.againfaster.com/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.againfaster.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Top-quality fitness equipment for commercial gyms, CrossFit boxes, weekend warriors, and everyday athletes. Join us as we stoke the fire for movement and personal evolution",
+    "source_urls": [
+      "https://www.againfaster.com",
+      "https://www.againfaster.com/about",
+      "https://www.againfaster.com/contact",
+      "https://www.againfaster.com/collections/compression-socks",
+      "https://www.againfaster.com/pages/about",
+      "https://www.againfaster.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "againstthegraingourmet.com",
+    "company_name": "Against the Grain Gourmet",
+    "website": "https://againstthegraingourmet.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://againstthegraingourmet.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://againstthegraingourmet.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://againstthegraingourmet.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Frozen pizza made with real ingredients \u2014 real mozzarella, no seed oils, nothing imitation. Airrack's choice, now taking over the freezer aisle.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "agalima.com",
+    "company_name": "agalima",
+    "website": "https://agalima.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://agalima.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://agalima.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://agalima.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "At Agalima, we craft authentic organic cocktail mixers using only the freshest organic ingredients. Taste authenticity in every sip.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "agarangeusa.com",
+    "company_name": "AGA Range USA",
+    "website": "https://cookshop.agarangeusa.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://cookshop.agarangeusa.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cookshop.agarangeusa.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://cookshop.agarangeusa.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "AGA Cookshop: Quality cookware products to perfectly compliment your AGA & cooking style. The cookware for any need - available for immediate purchase.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "agatools.com",
+    "company_name": "AGA Tools",
+    "website": "https://agatools.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Email AGA Tools",
+        "title": null,
+        "email": "info@agatools.com",
+        "source_url": "https://agatools.com"
+      }
+    ],
+    "people": [
+      {
+        "name": "Email AGA Tools",
+        "title": null,
+        "email": "info@agatools.com",
+        "source_url": "https://agatools.com"
+      }
+    ],
+    "emails": [
+      {
+        "address": "info@agatools.com",
+        "confidence": "highest",
+        "source_url": "https://agatools.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "jenna@agatools.com",
+        "confidence": "high",
+        "source_url": "https://agatools.com/pages/meet-the-team",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "@agatools.com Jenna Wysocki Sales and Media Jenna@agatools.com Fox S. Jason L Purchasing & I"
+      },
+      {
+        "address": "jerimy@agatools.com",
+        "confidence": "high",
+        "source_url": "https://agatools.com/pages/meet-the-team",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "s Jerimy Deines Sales Manager Jerimy@agatools.com Jenna Wysocki Sales and Media Jenna@agatool"
+      },
+      {
+        "address": "sales@agatools.com",
+        "confidence": "high",
+        "source_url": "https://agatools.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ate Dr Escondido, CA 92029 Main Office: 760-738-4084 Email: sales@agatools.com Follow us Email AGA Too"
+      }
+    ],
+    "role_emails": [
+      "jenna@agatools.com",
+      "jerimy@agatools.com",
+      "sales@agatools.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://agatools.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://agatools.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://agatools.com/collections/media-components",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://agatools.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://agatools.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://agatools.com/pages/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://agatools.com/products/brake-pressure-bleeder",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://agatools.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "AGA Tools",
+    "source_urls": [
+      "https://agatools.com",
+      "https://agatools.com/about",
+      "https://agatools.com/collections/media-components",
+      "https://agatools.com/pages/about-us",
+      "https://agatools.com/pages/contact-us",
+      "https://agatools.com/pages/meet-the-team",
+      "https://agatools.com/products/brake-pressure-bleeder"
+    ],
+    "reason": null,
+    "pages_fetched": 14
+  },
+  {
+    "company_domain": "agaveboots.com",
+    "company_name": "Agave Boots",
+    "website": "https://agaveboots.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@agaveboots.com",
+        "confidence": "high",
+        "source_url": "https://agaveboots.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@agaveboots.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://agaveboots.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://agaveboots.com/pages/storelocations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Agave Boots offers beautiful, handcrafted western boots & accessories sold directly to you. Our boors are fully designed in Dallas, TX, and handcrafted in the traditional and artisan way in Leon Mexico.",
+    "source_urls": [
+      "https://agaveboots.com",
+      "https://agaveboots.com/pages/storelocations"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "agavedenim.com",
+    "company_name": "Agave Denim",
+    "website": "https://www.agavedenim.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "jeff.shafer@agavedenim.com",
+        "confidence": "highest",
+        "source_url": "https://www.agavedenim.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2010-04-26",
+        "context_snippet": ":30 pm Pacific Standard Time Jeff Shafer 877.884.1222 Jeff.Shafer@AgaveDenim.com AGAVE DENIM SHOP USA Monday through Friday 8:00"
+      },
+      {
+        "address": "sales@agavedenim.com",
+        "confidence": "highest",
+        "source_url": "https://www.agavedenim.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2010-04-26",
+        "context_snippet": "Pacific Standard Time Concierge, Toll Free 877.884.1222 Sales@AgaveDenim.com WHOLESALE INQUIRIES USA Monday through Friday 9:"
+      },
+      {
+        "address": "zoe.campbell@agavedenim.com",
+        "confidence": "highest",
+        "source_url": "https://www.agavedenim.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2010-04-26",
+        "context_snippet": "00 pm Pacific Standard Time Zoe Campbell 310.783.0283 Zoe.Campbell@AgaveDenim.com AGAVE CANADA Monday through Friday 9:00 am t"
+      }
+    ],
+    "role_emails": [
+      "jeff.shafer@agavedenim.com",
+      "sales@agavedenim.com",
+      "zoe.campbell@agavedenim.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.agavedenim.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.agavedenim.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2010-04-26"
+      },
+      {
+        "url": "https://www.agavedenim.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.agavedenim.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.agavedenim.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Designed & Handcrafted in California, Agave Denim is west coast luxury, denim jeans and knitwear - since 2002. Free shipping + free returns.",
+    "source_urls": [
+      "https://www.agavedenim.com/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "agaveinbloom.com",
+    "company_name": "Agave in Bloom",
+    "website": "https://agaveinbloom.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://agaveinbloom.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Agave in Bloom Piercing & Fine Jewelry is a woman-owned small business in Southern Oregon. We are an online retailer for BVLA, Pupil Hall, Anatometal, LeRoi, Suzanne Kalan, SO Fine Jewelry, & more. We strive for 5 star service & ship worldwide, with free shipping over $500. The best piercing studio ",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  }
+]
