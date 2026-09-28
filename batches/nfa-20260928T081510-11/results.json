@@ -1,0 +1,1310 @@
+[
+  {
+    "company_domain": "armitron.com",
+    "company_name": "Armitron",
+    "website": "https://www.armitron.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@armitron.com",
+        "confidence": "high",
+        "source_url": "https://www.armitron.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@armitron.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.armitron.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.armitron.com/press",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2016-08-17"
+      },
+      {
+        "url": "https://www.armitron.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Armitron has been creating fashionable, quality watches for over fifty years. Shop our selection of Men's and Women's digital and analog watches",
+    "source_urls": [
+      "https://www.armitron.com",
+      "https://www.armitron.com/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "armmotorsports.com",
+    "company_name": "ARM Motorsports",
+    "website": "https://armmotorsports.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "getarmed@armmotorsports.com",
+        "confidence": "highest",
+        "source_url": "https://armmotorsports.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "CONTACT SALES : 213-434-7361 EMAIL : getarmed@armmotorsports.com MONDAY - FRIDAY : 10am-5pm CST SATURDAY & SUNDAY : CLOSED"
+      }
+    ],
+    "role_emails": [
+      "getarmed@armmotorsports.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://armmotorsports.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "ARM Motorsports specializes in downpipes, intercoolers, intake systems, and charge piping upgrades for your German turbocharged vehicle.",
+    "source_urls": [
+      "https://armmotorsports.com"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "armnhmr.com",
+    "company_name": "ARMNHMR Touring LLC",
+    "website": "https://www.armnhmr.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.armnhmr.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.armnhmr.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2020-09-20"
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.armnhmr.com/contact",
+        "action": "/contact/#wpcf7-f55-p82-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "The official home of ARMNHMR merchandise and music.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "armorbeer.com",
+    "company_name": "Armor Brewing Co",
+    "website": "https://armorbeer.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://armorbeer.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://armorbeer.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Welcome to Armor Brewing in Allen, TX! Discover our 24-tap selection, unforgettable Wagyu burgers, and dog-friendly beer garden. Crafted for connection.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "armorcoffee.com",
+    "company_name": "Armor Coffee Co",
+    "website": "https://www.armorcoffee.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.armorcoffee.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.armorcoffee.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Welcome to Armor Coffee, your neighborhood gathering place in Allen and Wylie, Texas. Come enjoy our organic, thoughtfully sourced coffee and real connections.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "armorconcepts.com",
+    "company_name": "Armor Concepts",
+    "website": "https://armorconcepts.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "challenge_page",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "armordillousa.com",
+    "company_name": "Armordillo USA by I3 Enterprise Inc.",
+    "website": "https://www.armordillousa.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.armordillousa.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Armordillo USA designs premium truck and SUV accessories inspired by nature\u2019s armor. Shop heavy-duty drop steps, bull bars, running boards, roof racks, tonneau covers, and more. Engineered for precision fitment, corrosion resistance, and long-term durability built to endure every road ahead.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "armorsuit.com",
+    "company_name": "ArmorSuit",
+    "website": "https://www.armorsuit.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "help@armorsuit.com",
+        "confidence": "highest",
+        "source_url": "https://www.armorsuit.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ty Registration Warranty Claim Need help? help@armorsuit.com Back Cell Phones Alcatel Amazon Asus A"
+      }
+    ],
+    "role_emails": [
+      "help@armorsuit.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.armorsuit.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.armorsuit.com/pages/media-players",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Screen Protectors and Vinyl Skins for all your amazing devices!",
+    "source_urls": [
+      "https://www.armorsuit.com",
+      "https://www.armorsuit.com/pages/media-players"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "armory.net",
+    "company_name": "Armory.net",
+    "website": "https://armory.net",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@armory.net",
+        "confidence": "highest",
+        "source_url": "https://armory.net",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Info@armory.net \u00a9 2026,"
+      }
+    ],
+    "role_emails": [
+      "info@armory.net"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://armory.net",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://armory.net/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2017-01-19"
+      },
+      {
+        "url": "https://armory.net/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2015-10-19"
+      },
+      {
+        "url": "https://armory.net/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2019-11-14"
+      },
+      {
+        "url": "https://armory.net/pages/contact-page",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://armory.net/contact",
+        "action": "https://armory.net/contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://armory.net/pages/contact-page",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Armory provides a vast assortment of high quality replica guns, swords, daggers, and knives. Quality PCP air rifles and BB guns can also be found here.",
+    "source_urls": [
+      "https://armory.net",
+      "https://armory.net/about",
+      "https://armory.net/contact",
+      "https://armory.net/pages/contact-page"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "armorydiscgolf.com",
+    "company_name": "Armory Disc Golf Shop",
+    "website": "https://armorydiscgolf.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@armorydiscgolf.com",
+        "confidence": "highest",
+        "source_url": "https://armorydiscgolf.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "777 Graham Rd St 203 College Station, Texas, 77845, Email: info@armorydiscgolf.com, Phone: (936) 337-9068, Hours: Monday, Friday & Saturday 12"
+      }
+    ],
+    "role_emails": [
+      "info@armorydiscgolf.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://armorydiscgolf.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://armorydiscgolf.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://armorydiscgolf.com/pages/jmilly-armory-disc-golf-elite-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://armorydiscgolf.com/pages/silas-schultz-armory-disc-golf-elite-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://armorydiscgolf.com/pages/jaden-rye-armory-disc-golf-elite-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://armorydiscgolf.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://armorydiscgolf.com/pages/armory-disc-golf-elite-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://armorydiscgolf.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://armorydiscgolf.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Armory Disc Golf is your go-to disc golf store for all the best the game has to offer! Pictures (including profiles) of every disc, all the latest releases, and a constant supply of your favorites help equip you to conquer the course.",
+    "source_urls": [
+      "https://armorydiscgolf.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 15
+  },
+  {
+    "company_domain": "armorzone.com",
+    "company_name": "Armorzone.com",
+    "website": "https://armorzone.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@armorzone.com",
+        "confidence": "highest",
+        "source_url": "https://armorzone.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Instagram 541-914-7572 info@armorzone.com Facebook Twitter Instagram"
+      },
+      {
+        "address": "mark@armorzone.com",
+        "confidence": "highest",
+        "source_url": "https://armorzone.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@armorzone.com",
+      "mark@armorzone.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://armorzone.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://armorzone.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2016-12-04"
+      },
+      {
+        "url": "https://armorzone.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2016-12-04"
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://armorzone.com/contact",
+        "action": "http://www.armorzone.com/contact/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Armorzone.com",
+    "source_urls": [
+      "https://armorzone.com"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "armourdalefurniture.com",
+    "company_name": "Armourdale Furniture KS",
+    "website": "https://armourdalefurniture.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "sales@armourdalefurniture.com",
+        "confidence": "highest",
+        "source_url": "https://armourdalefurniture.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Need help? (913) 342-1124 sales@armourdalefurniture.com Follow Us Facebook Back Fu"
+      }
+    ],
+    "role_emails": [
+      "sales@armourdalefurniture.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://armourdalefurniture.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://armourdalefurniture.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2019-12-11"
+      },
+      {
+        "url": "https://armourdalefurniture.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://armourdalefurniture.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://armourdalefurniture.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Sign up to receive our latest offers, sales and Web Only specials.",
+    "source_urls": [
+      "https://armourdalefurniture.com",
+      "https://armourdalefurniture.com/pages/contact",
+      "https://armourdalefurniture.com/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "armourdetailsupply.com",
+    "company_name": "Armour Detail Supply",
+    "website": "https://armourdetailsupply.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@armourdetailsupply.com",
+        "confidence": "high",
+        "source_url": "https://armourdetailsupply.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@armourdetailsupply.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://armourdetailsupply.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://armourdetailsupply.com/collections/microfibers-media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://armourdetailsupply.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://armourdetailsupply.com/products/armour-pressol-solution",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://armourdetailsupply.com/pages/contact",
+        "action": "/contact#contact-template--26561014268216__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Armour Detail Supply is your source for auto detailing supplies and car care. We have the best car detailing supplies and products at the best prices. Shop Now!",
+    "source_urls": [
+      "https://armourdetailsupply.com",
+      "https://armourdetailsupply.com/collections/microfibers-media",
+      "https://armourdetailsupply.com/pages/contact",
+      "https://armourdetailsupply.com/products/armour-pressol-solution"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "arms-n-armor.com",
+    "company_name": "Arms & Armor",
+    "website": "https://www.arms-n-armor.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "aa@arms-n-armor.com",
+        "confidence": "highest",
+        "source_url": "https://www.arms-n-armor.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Search Contact (612) 331-6473 aa@arms-n-armor.com Facebook Instagram Tumb"
+      }
+    ],
+    "role_emails": [
+      "aa@arms-n-armor.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.arms-n-armor.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.arms-n-armor.com/pages/about-arms-armor",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.arms-n-armor.com/pages/about-arms-armor",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Medieval and Renaissance historical swords, spears, axes, and armor replicas of the highest quality.",
+    "source_urls": [
+      "https://www.arms-n-armor.com",
+      "https://www.arms-n-armor.com/pages/about-arms-armor"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "armsfamilyhomestead.com",
+    "company_name": "Arms Family Homestead",
+    "website": "https://armsfamilyhomestead.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://armsfamilyhomestead.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Arms Family Homestead",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "armsofandes.com",
+    "company_name": "Arms of Andes",
+    "website": "https://armsofandes.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "embracelife@armsofandes.com",
+        "confidence": "high",
+        "source_url": "https://armsofandes.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "embracenature@armsofandes.com",
+        "confidence": "high",
+        "source_url": "https://armsofandes.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Contact Us Got a question? Send a message below or at embracenature@armsofandes.com. We ask that you please note the main reason for reaching"
+      }
+    ],
+    "role_emails": [
+      "embracelife@armsofandes.com",
+      "embracenature@armsofandes.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://armsofandes.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://armsofandes.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://armsofandes.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://armsofandes.com",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://armsofandes.com/pages/about-us",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://armsofandes.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://armsofandes.com/pages/contact-us",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Sustainable 100% Alpaca Wool clothing & accessories for your outdoor adventures. Experience the ultimate high-performance apparel. International shipping.",
+    "source_urls": [
+      "https://armsofandes.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "armsracenutrition.com",
+    "company_name": "Arms Race Nutrition",
+    "website": "https://www.armsracenutrition.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customerservice@armsracenutrition.com",
+        "confidence": "high",
+        "source_url": "https://www.armsracenutrition.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "reach us by phone and we'll get back to you shortly! Email: customerservice@armsracenutrition.com Phone: 865-401-3752 Contact form Name"
+      }
+    ],
+    "role_emails": [
+      "customerservice@armsracenutrition.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.armsracenutrition.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.armsracenutrition.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.armsracenutrition.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.armsracenutrition.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Buy top-quality supplements at Arms Race Nutrition, your trusted nutrition shop in the USA. Lift your fitness journey from an American supplement store.",
+    "source_urls": [
+      "https://www.armsracenutrition.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "armsreach.com",
+    "company_name": "Arm's Reach\u00ae Co",
+    "website": "https://www.armsreach.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "shopifysupport@armsreach.com",
+        "confidence": "high",
+        "source_url": "https://www.armsreach.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "shopifysupport@armsreach.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.armsreach.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.armsreach.com/pages/about-co-sleeper%C2%AE-bassinets",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.armsreach.com/products/mattress-support-nest-ideal-ezee-9ooid",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.armsreach.com/products/copy-of-mattress-support-nest-replacement-ideal-ezee-9ooid",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "The Arm's Reach\u00ae Co-Sleeper\u00ae brand bassinet is the only patented co-sleeping product on the market that attaches securely to a parent\u2019s bed. Whether you choose to breastfeed or bottle feed, our Co-Sleeper\u00ae brand bassinet promotes bonding and enables parents and infant to sleep better, sleep closer &",
+    "source_urls": [
+      "https://www.armsreach.com",
+      "https://www.armsreach.com/pages/about-co-sleeper%C2%AE-bassinets",
+      "https://www.armsreach.com/products/mattress-support-nest-ideal-ezee-9ooid",
+      "https://www.armsreach.com/products/copy-of-mattress-support-nest-replacement-ideal-ezee-9ooid"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "armstrongceilings.com",
+    "company_name": "Armstrong World Industries",
+    "website": "https://accounts.armstrongceilings.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://accounts.armstrongceilings.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://accounts.armstrongceilings.com/pages/customer-support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Armstrong World Industries",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "armstrongflooring.com",
+    "company_name": "Armstrong Flooring\u2122 Lutea\u2122",
+    "website": "https://lutea.armstrongflooring.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "robots_disallowed",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "armstronggarden.com",
+    "company_name": "Armstrong Garden Centers",
+    "website": "https://www.armstronggarden.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.armstronggarden.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.armstronggarden.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.armstronggarden.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.armstronggarden.com/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.armstronggarden.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.armstronggarden.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.armstronggarden.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.armstronggarden.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.armstronggarden.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.armstronggarden.com/locations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Armstrong Garden Centers in California specializes in a quality selection of unique & popular plants, outdoor living & patio furniture, and landscape design & install.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "armtheanimals.com",
+    "company_name": "Arm the Animals",
+    "website": "https://www.armtheanimals.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.armtheanimals.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.armtheanimals.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2014-03-01"
+      },
+      {
+        "url": "https://www.armtheanimals.com/media",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2013-05-19"
+      },
+      {
+        "url": "https://www.armtheanimals.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2013-09-17"
+      },
+      {
+        "url": "https://www.armtheanimals.com/pages/our-mission-about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "ATA Tees",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "armycrew.com",
+    "company_name": "Armycrew",
+    "website": "https://www.armycrew.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@armycrew.com",
+        "confidence": "highest",
+        "source_url": "https://www.armycrew.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "w 750 Columbia St Brea, CA 92821 Tel: 714-869-3406 E-Mail: info@armycrew.com Name E-mail Message S"
+      },
+      {
+        "address": "support@armycrew.com",
+        "confidence": "high",
+        "source_url": "https://www.armycrew.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "th the newest and coolest apparel. Armycrew.com Email: support@armycrew.com LINKS About Us Contact Us H"
+      }
+    ],
+    "role_emails": [
+      "info@armycrew.com",
+      "support@armycrew.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.armycrew.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.armycrew.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.armycrew.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.armycrew.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "We specialize in military inspired fashions, work wear, and accessories. You can find officially licensed Army, Navy, Air Force, Marines & Coast Guard gears.",
+    "source_urls": [
+      "https://www.armycrew.com/pages/about-us",
+      "https://www.armycrew.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "armygearus.com",
+    "company_name": "Army Gear",
+    "website": "https://www.armygearus.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@armygearus.com",
+        "confidence": "highest",
+        "source_url": "https://www.armygearus.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ntent (410) 766-2600 info@armygearus.com Extra 20% off clearance | Code CLRSE"
+      }
+    ],
+    "role_emails": [
+      "info@armygearus.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.armygearus.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.armygearus.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.armygearus.com/pages/ng-about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.armygearus.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Army Gear",
+    "source_urls": [
+      "https://www.armygearus.com",
+      "https://www.armygearus.com/pages/contact-us",
+      "https://www.armygearus.com/pages/ng-about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "armymerchgiftshop.com",
+    "company_name": "Shop BTS Army Merchandise",
+    "website": "https://armymerchgiftshop.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@armymerchgiftshop.com",
+        "confidence": "high",
+        "source_url": "https://armymerchgiftshop.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "support@armymerchgiftshop.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://armymerchgiftshop.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://armymerchgiftshop.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://armymerchgiftshop.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://armymerchgiftshop.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "BTS Army Gift Shop - the most trusted BTS Merch Online Shop. Shop exclusive official BTS albums, clothing and Merch online. Quality BTS Army merchandise and gifts. Worldwide express shipping.",
+    "source_urls": [
+      "https://armymerchgiftshop.com",
+      "https://armymerchgiftshop.com/pages/about-us",
+      "https://armymerchgiftshop.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  }
+]
