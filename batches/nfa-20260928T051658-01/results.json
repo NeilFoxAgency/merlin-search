@@ -1,0 +1,1525 @@
+[
+  {
+    "company_domain": "andersonord.com",
+    "company_name": "AndersonOrd Performance Apparel",
+    "website": "https://andersonord.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customerservice@andersonord.com",
+        "confidence": "highest",
+        "source_url": "https://andersonord.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Web Order Questions Phone (904) 495-6533 Email customerservice@andersonord.com Wholesale Inquiries Phone (904) 495-6533 Email info"
+      },
+      {
+        "address": "info@andersonord.com",
+        "confidence": "highest",
+        "source_url": "https://andersonord.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ".com Wholesale Inquiries Phone (904) 495-6533 Email info@andersonord.com 260 Thomas Industry Way St. Augustine, FL 32095"
+      }
+    ],
+    "role_emails": [
+      "customerservice@andersonord.com",
+      "info@andersonord.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://andersonord.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://andersonord.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://andersonord.com/pages/meet-our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://andersonord.com/pages/team-ao",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://andersonord.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://andersonord.com/pages/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://andersonord.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://andersonord.com/pages/team-ao",
+        "action": "/contact#ContactForm-template--22516233044193__contact_form_834mQM",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://andersonord.com/pages/contact-us",
+        "action": "/contact#ContactForm-template--22516233109729__contact-form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://andersonord.com/pages/press",
+        "action": "/contact#ContactForm-template--22516233666785__contact_form_BFBhEV",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Shop premium golf apparel designed for Lifeleisure\u2122. AndersonOrd combines elevated fabrics, modern fit, and everyday performance for life beyond the course.",
+    "source_urls": [
+      "https://andersonord.com/pages/contact-us",
+      "https://andersonord.com/policies/contact-information"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 15
+  },
+  {
+    "company_domain": "andersonpaak.com",
+    "company_name": "Anderson .Paak Shop",
+    "website": "https://shop.andersonpaak.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://shop.andersonpaak.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "The official music and merchandise store of Anderson .Paak.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "andersonreserve.com",
+    "company_name": "Anderson Reserve Store",
+    "website": "https://andersonreserve.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "information@andersonreserve.com",
+        "confidence": "highest",
+        "source_url": "https://andersonreserve.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Search Contact 208-352-6166 information@andersonreserve.com Facebook Twitter Instag"
+      }
+    ],
+    "role_emails": [
+      "information@andersonreserve.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://andersonreserve.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://andersonreserve.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2020-03-25"
+      },
+      {
+        "url": "https://andersonreserve.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2019-11-21"
+      },
+      {
+        "url": "https://andersonreserve.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://andersonreserve.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://andersonreserve.com/contact",
+        "action": "/contact/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://andersonreserve.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "The Barn at Anderson Reserve is a combined custom butchery, market, and dining experience. Whether you are searching for that hard-to-find specialty sizing or stopping in to choose from our perfectly portioned pre-cut selections, our hand-crafted meats are sure to be the talk of the table.",
+    "source_urls": [
+      "https://andersonreserve.com",
+      "https://andersonreserve.com/pages/about-us",
+      "https://andersonreserve.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "andersonseedandgarden.com",
+    "company_name": "Anderson's Seed & Garden",
+    "website": "https://andersonseedandgarden.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://andersonseedandgarden.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://andersonseedandgarden.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2023-03-22"
+      },
+      {
+        "url": "https://andersonseedandgarden.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2023-02-08"
+      },
+      {
+        "url": "https://andersonseedandgarden.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://andersonseedandgarden.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://andersonseedandgarden.com/contact",
+        "action": "https://www.andersonseedandgarden.com/contact/index/post/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Find organic seeds, bulk garden supplies, and expert tools at Anderson\u2019s Seed & Garden. Elevate your garden with quality you can trust. Shop now!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "andiasicecream.com",
+    "company_name": "Andia's Ice Cream",
+    "website": "https://andiasicecream.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@andiasicecream.com",
+        "confidence": "highest",
+        "source_url": "https://andiasicecream.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "(919) 822-1866 hello@andiasicecream.com Facebook Instagram Lin"
+      },
+      {
+        "address": "alyssa@andiasicecream.com",
+        "confidence": "high",
+        "source_url": "https://andiasicecream.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "customcakes@andiasicecream.com",
+        "confidence": "high",
+        "source_url": "https://andiasicecream.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "tracey@andiasicecream.com",
+        "confidence": "high",
+        "source_url": "https://andiasicecream.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "alyssa@andiasicecream.com",
+      "customcakes@andiasicecream.com",
+      "hello@andiasicecream.com",
+      "tracey@andiasicecream.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://andiasicecream.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://andiasicecream.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2024-07-10"
+      },
+      {
+        "url": "https://andiasicecream.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://andiasicecream.com/pages/our-locations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://andiasicecream.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Local, super-premium, small-batch, award-winning ice cream Scooped With Love.",
+    "source_urls": [
+      "https://andiasicecream.com",
+      "https://andiasicecream.com/pages/about",
+      "https://andiasicecream.com/pages/our-locations",
+      "https://andiasicecream.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "andieswim.com",
+    "company_name": "Andie Swim",
+    "website": "https://andieswim.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://andieswim.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://andieswim.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://andieswim.com/collections/maximum-bust-support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Shop Andie and Richer Poorer for premium women's swimwear, everyday essentials and loungewear. Thoughtful fits, sustainable fabrics, and effortless everyday comfort for men and women. Free exchanges.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "andorwillow.com",
+    "company_name": "andor willow",
+    "website": "https://andorwillow.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@andorwillow.com",
+        "confidence": "highest",
+        "source_url": "https://andorwillow.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "h us? Send us an email or a DM on Instagram! Instagram hello@andorwillow.com +1 (888) 989-4556 Name Email"
+      }
+    ],
+    "role_emails": [
+      "hello@andorwillow.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://andorwillow.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://andorwillow.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://andorwillow.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://andorwillow.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://andorwillow.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://andorwillow.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://andorwillow.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://andorwillow.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://andorwillow.com/pages/contact-us",
+        "action": "/contact#contact-template--20842614718627__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Enhance your interiors with our acoustic slat wood wall panels \u2014 where stylish design meets effective soundproofing Trusted by over 20,000 customers",
+    "source_urls": [
+      "https://andorwillow.com",
+      "https://andorwillow.com/team",
+      "https://andorwillow.com/our-team",
+      "https://andorwillow.com/about",
+      "https://andorwillow.com/about-us",
+      "https://andorwillow.com/contact",
+      "https://andorwillow.com/pages/contact-us",
+      "https://andorwillow.com/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "andotheradventuresco.com",
+    "company_name": "And Other Adventures Embroidery Co",
+    "website": "https://andotheradventuresco.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@andotheradventuresco.com",
+        "confidence": "highest",
+        "source_url": "https://andotheradventuresco.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ": 10-2 on Tuesdays and Wednesdays or by appointment Contact info@andotheradventuresco.com to set up an appointment."
+      }
+    ],
+    "role_emails": [
+      "info@andotheradventuresco.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://andotheradventuresco.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://andotheradventuresco.com/collections/intermediate",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://andotheradventuresco.com/pages/team-favorites",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://andotheradventuresco.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://andotheradventuresco.com/blogs/news/frequently-asked-questions-about-french-knots",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://andotheradventuresco.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://andotheradventuresco.com/blogs/news/frequently-asked-questions-about-french-knots",
+        "action": "/blogs/news/frequently-asked-questions-about-french-knots/comments#comment_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://andotheradventuresco.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Modern-meets-romantic embroidery kits with original designs and premium materials \u2014 beginner-friendly DIY hand embroidery kits, digital PDF patterns, and finished embroidered bouquets from a Fort Worth, Texas studio.",
+    "source_urls": [
+      "https://andotheradventuresco.com",
+      "https://andotheradventuresco.com/collections/intermediate",
+      "https://andotheradventuresco.com/pages/team-favorites",
+      "https://andotheradventuresco.com/pages/about",
+      "https://andotheradventuresco.com/blogs/news/frequently-asked-questions-about-french-knots",
+      "https://andotheradventuresco.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 14
+  },
+  {
+    "company_domain": "andoveraudio.com",
+    "company_name": "Andover Audio",
+    "website": "https://www.andoveraudio.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@andoveraudio.com",
+        "confidence": "highest",
+        "source_url": "https://www.andoveraudio.com/team",
+        "source_type": "archived",
+        "snapshot_date": "2019-08-21",
+        "context_snippet": "io, 15 High Street, North Andover, MA, 01845 (978) 296-3070 info@andoveraudio.com \u00a92017 Andover Audio"
+      },
+      {
+        "address": "support@andoveraudio.com",
+        "confidence": "highest",
+        "source_url": "https://www.andoveraudio.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@andoveraudio.com",
+      "support@andoveraudio.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.andoveraudio.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.andoveraudio.com/team",
+        "page_type": "team",
+        "source_type": "archived",
+        "snapshot_date": "2019-08-21"
+      },
+      {
+        "url": "https://www.andoveraudio.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2019-07-24"
+      },
+      {
+        "url": "https://www.andoveraudio.com/pages/learn-about-andover-audio",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.andoveraudio.com/pages/press-images",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.andoveraudio.com/contact",
+        "action": "https://james-dipaolo-py3l.squarespace.com",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Explore Andover Audio, known for our award-winning SpinBase speakers and all-in-one record players with speakers. Featuring patented technology, Bluetooth connectivity, and premium sound, our products are perfect for vinyl enthusiasts & streaming lovers. We have something for all styles, budgets and",
+    "source_urls": [
+      "https://www.andoveraudio.com",
+      "https://www.andoveraudio.com/team",
+      "https://www.andoveraudio.com/contact",
+      "https://www.andoveraudio.com/pages/learn-about-andover-audio",
+      "https://www.andoveraudio.com/pages/press-images"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "andre3000.com",
+    "company_name": "A Myriad of Pyramids | Store",
+    "website": "https://shop.andre3000.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "andreabonelli.com",
+    "company_name": "Andrea Bonelli",
+    "website": "https://www.andreabonelli.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.andreabonelli.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.andreabonelli.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.andreabonelli.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.andreabonelli.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.andreabonelli.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.andreabonelli.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.andreabonelli.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.andreabonelli.com/pages/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.andreabonelli.com/contact",
+        "action": "/contact#contact-us-page",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.andreabonelli.com/pages/contact",
+        "action": "/contact#contact-us-page",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Handmade fine jewelry by Andrea Bonelli in Las\u202fVegas: recycled gold, ethically sourced gemstones, custom and sustainable engagement rings.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "andrealeocouture.com",
+    "company_name": "andrealeocouture.com",
+    "website": "https://andrealeocouture.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": "Prom Dresses | Party Dresses | Evening Dress | Designer Gowns | Andrea & Leo Couture",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "andreassous.com",
+    "company_name": "Andr\u00e9 Assous",
+    "website": "https://andreassous.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customerservice@andreassous.com",
+        "confidence": "highest",
+        "source_url": "https://andreassous.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "nd. Call 800.866.1058 Email Customer Service: customerservice@andreassous.com Earn points, get specia"
+      }
+    ],
+    "role_emails": [
+      "customerservice@andreassous.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://andreassous.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://andreassous.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://andreassous.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://andreassous.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://andreassous.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Andre Assous is known for creating innovative and comfortable footwear with modern styling and a classic touch.",
+    "source_urls": [
+      "https://andreassous.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "andreschocolates.com",
+    "company_name": "Andr\u00e9\u2019s Confiserie Suisse",
+    "website": "https://andreschocolates.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@andreschocolates.com",
+        "confidence": "highest",
+        "source_url": "https://andreschocolates.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ar stop Phone: (816) 561-3440 | Fax: (816) 561-2922 Email: Info@AndresChocolates.com Facebook: AndresChocolates Instagram: @AndresSwiss"
+      },
+      {
+        "address": "press@andreschocolates.com",
+        "confidence": "highest",
+        "source_url": "https://andreschocolates.com/pages/press",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Extraordinaire Ren\u00e9 Bollier _ Contact press@andreschocolates.com for inquiries . From our family to you, we hope y"
+      }
+    ],
+    "role_emails": [
+      "info@andreschocolates.com",
+      "press@andreschocolates.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://andreschocolates.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://andreschocolates.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://andreschocolates.com/pages/about-andres",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://andreschocolates.com/pages/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://andreschocolates.com/pages/retailer-locations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Andre's is a family owned and run Kansas City business that has been making exquisite Swiss chocolates candies and confections since 1955.",
+    "source_urls": [
+      "https://andreschocolates.com",
+      "https://andreschocolates.com/pages/contact-us",
+      "https://andreschocolates.com/pages/about-andres",
+      "https://andreschocolates.com/pages/press",
+      "https://andreschocolates.com/pages/retailer-locations"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "andrewchristian.com",
+    "company_name": "Andrew Christian Retail",
+    "website": "https://www.andrewchristian.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "cs@andrewchristian.com",
+        "confidence": "highest",
+        "source_url": "https://www.andrewchristian.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2024-01-20",
+        "context_snippet": "d captcha Send Message CS@AndrewChristian.Com Want To Get $25 OFF? Sign Up"
+      },
+      {
+        "address": "customerservice@andrewchristian.com",
+        "confidence": "high",
+        "source_url": "https://www.andrewchristian.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2024-01-20",
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "cs@andrewchristian.com",
+      "customerservice@andrewchristian.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.andrewchristian.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.andrewchristian.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2024-01-20"
+      },
+      {
+        "url": "https://www.andrewchristian.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2024-01-20"
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.andrewchristian.com/contact",
+        "action": "https://www.andrewchristian.com/contact/index/post/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Discover the stylish Andrew Christian collection, where trendy menswear meets modern fashion. Embrace the latest from Andrew Christian today!",
+    "source_urls": [
+      "https://www.andrewchristian.com/about-us",
+      "https://www.andrewchristian.com/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "andrewdiceclay.com",
+    "company_name": "Andrew Dice Clay",
+    "website": "https://andrewdiceclay.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://andrewdiceclay.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://andrewdiceclay.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2024-06-24"
+      },
+      {
+        "url": "https://andrewdiceclay.com/media",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2020-09-23"
+      },
+      {
+        "url": "https://andrewdiceclay.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2019-12-07"
+      },
+      {
+        "url": "https://andrewdiceclay.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Enter your email, and we\u2019ll keep you in the loop with exclusive offers and updates on when Dice is bringing Da Famous Face to your city!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "andrewmarc.com",
+    "company_name": "Andrew Marc",
+    "website": "https://www.andrewmarc.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "challenge_page",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "andrewmcmahon.com",
+    "company_name": "Andrew McMahon",
+    "website": "https://andrewmcmahon.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://andrewmcmahon.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://andrewmcmahon.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2019-11-13"
+      },
+      {
+        "url": "https://andrewmcmahon.com/collections/andrew-mcmahon-media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://andrewmcmahon.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://andrewmcmahon.com/contact",
+        "action": "/contact/#wpcf7-f9047-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Official Online Store for Andrew McMahon in the Wilderness, Something Corporate, & Jack's Mannequin",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "andrewpearcebowls.com",
+    "company_name": "Andrew Pearce Bowls",
+    "website": "https://andrewpearcebowls.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@andrewpearcebowls.com",
+        "confidence": "highest",
+        "source_url": "https://andrewpearcebowls.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Contact us (802) 735-1884 info@andrewpearcebowls.com 59 US Route 4 East Taftsville, VT 05073 United States Store"
+      },
+      {
+        "address": "sales@andrewpearcebowls.com",
+        "confidence": "highest",
+        "source_url": "https://andrewpearcebowls.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Call (802) 735-1884 sales@andrewpearcebowls.com"
+      }
+    ],
+    "role_emails": [
+      "info@andrewpearcebowls.com",
+      "sales@andrewpearcebowls.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://andrewpearcebowls.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://andrewpearcebowls.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://andrewpearcebowls.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://andrewpearcebowls.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Our handmade wooden bowls, wood cutting boards, and best selling wood products for your home incorporate unique craftsmanship and timeless design. Explore our exquisite wooden bowls, wood cutting boards and furniture.",
+    "source_urls": [
+      "https://andrewpearcebowls.com",
+      "https://andrewpearcebowls.com/pages/about-us",
+      "https://andrewpearcebowls.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "andrewstuningandperformance.com",
+    "company_name": "ATP designs",
+    "website": "https://andrewstuningandperformance.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "andrewweissgallery.com",
+    "company_name": "Andrew Weiss Gallery",
+    "website": "https://www.andrewweissgallery.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.andrewweissgallery.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.andrewweissgallery.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.andrewweissgallery.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.andrewweissgallery.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Specializing in 20th Century Masters Fine Art and Hollywood Photography for 40+ Years | Andrew Weiss Gallery",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "andriabarbone.com",
+    "company_name": "Andria Barbon\u00e9 Jewelry",
+    "website": "https://andriabarbone.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@andriabarbone.com",
+        "confidence": "high",
+        "source_url": "https://andriabarbone.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "GET IN TOUCH 646.867.8772 43 Arch St, Greenwich CT 06830 info@andriabarbone.com Instagram American Express Appl"
+      }
+    ],
+    "role_emails": [
+      "info@andriabarbone.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://andriabarbone.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://andriabarbone.com/pages/new-about-us-page",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://andriabarbone.com/pages/press-1",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://andriabarbone.com/pages/contact-us-andria-barbone",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://andriabarbone.com/pages/contact-us-andria-barbone",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Andria Barbon\u00e9 Jewelry is known for their beautiful curation of antique diamond rings and collection of beautiful antique jewelry from vintage & antique engagement rings. Specializing in Old Mine Cut diamonds and Old European Cut diamonds as well as other antique diamond shapes. Shop one-of-a-kind v",
+    "source_urls": [
+      "https://andriabarbone.com",
+      "https://andriabarbone.com/pages/new-about-us-page",
+      "https://andriabarbone.com/pages/press-1",
+      "https://andriabarbone.com/pages/contact-us-andria-barbone"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "androgynousfox.com",
+    "company_name": "Androgynous Fox",
+    "website": "https://androgynousfox.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@androgynousfox.com",
+        "confidence": "highest",
+        "source_url": "https://androgynousfox.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "stions? Fill out the contact form, or email us directly at info@androgynousfox.com \u2014 whichever you prefer. A real human reads every message,"
+      }
+    ],
+    "role_emails": [
+      "info@androgynousfox.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://androgynousfox.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://androgynousfox.com/pages/about-af",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://androgynousfox.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://androgynousfox.com/pages/contact",
+        "action": "/contact#contact-form-template--25192366440722__contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Queer-owned gender neutral and androgynous clothing cut for AFAB bodies, sizes XS\u20135XL. Button ups, joggers, swim, and basics. You can sit with us.",
+    "source_urls": [
+      "https://androgynousfox.com",
+      "https://androgynousfox.com/pages/about-af",
+      "https://androgynousfox.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "androidjones.com",
+    "company_name": "androidjones.com",
+    "website": "https://androidjones.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "carly@androidjones.com",
+        "confidence": "highest",
+        "source_url": "https://androidjones.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2024-06-16",
+        "context_snippet": "s, or tattoos. t.retinskaya@fulldome.pro for SAMSKARA carly@androidjones.com for questions regarding orders through our obtain site,"
+      },
+      {
+        "address": "chelsea@androidjones.com",
+        "confidence": "highest",
+        "source_url": "https://androidjones.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2024-06-16",
+        "context_snippet": "rest in Android Jones. For the following, please contact: chelsea@androidjones.com for inquiries regarding art commissions, NFTs and using ar"
+      },
+      {
+        "address": "sara@androidjones.com",
+        "confidence": "highest",
+        "source_url": "https://androidjones.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "upport with any order from the online store please contact sara@androidjones.com PROFESSIONAL INQUIRIES - For all inquiries regarding art co"
+      }
+    ],
+    "role_emails": [
+      "carly@androidjones.com",
+      "chelsea@androidjones.com",
+      "sara@androidjones.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://androidjones.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2024-06-16"
+      },
+      {
+        "url": "https://androidjones.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Explore the digital art of Android Jones, where technology, consciousness, and transcendental imagery converge. Discover immersive artwork, live performances, limited editions, and unique merchandise inspired by transformation.",
+    "source_urls": [
+      "https://androidjones.com/contact",
+      "https://androidjones.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "androosart.com",
+    "company_name": "Androo's Art",
+    "website": "https://androosart.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@androosart.com",
+        "confidence": "highest",
+        "source_url": "https://androosart.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "udio. Studio Support Use the form below or email support@androosart.com . For order help, include the order number. For custom art,"
+      }
+    ],
+    "role_emails": [
+      "support@androosart.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://androosart.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://androosart.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://androosart.com/pages/about-us-1",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://androosart.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://androosart.com/contact",
+        "action": "/contact#contact-us-page",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://androosart.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "We believe in the power of art to inspire change, spark conversations, and bring people together. Our custom art business specializes in transforming sneakers, wall art, and apparel into unique, eye-catching pieces that celebrate creativity, individuality, and social awareness.",
+    "source_urls": [
+      "https://androosart.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  }
+]
