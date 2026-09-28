@@ -1,0 +1,1540 @@
+[
+  {
+    "company_domain": "baredfootwear.com",
+    "company_name": "Bared Footwear",
+    "website": "https://baredfootwear.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://baredfootwear.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://baredfootwear.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://baredfootwear.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://baredfootwear.com/us/store-locations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://baredfootwear.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://baredfootwear.com/us/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Iconic style, unrivalled comfort. Shop our Women\u2019s & Men\u2019s shoe range. With secret support, 60 day free returns & unbeatable customer service.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "barefaced.com",
+    "company_name": "Barefaced\u00c2\u00ae",
+    "website": "https://www.barefaced.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@barefaced.com",
+        "confidence": "high",
+        "source_url": "https://www.barefaced.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Chat Us Up Email Email hello@barefaced.com For customer service, product recommendations, press & col"
+      }
+    ],
+    "role_emails": [
+      "hello@barefaced.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.barefaced.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.barefaced.com/pages/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.barefaced.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Feeling overwhelmed by skincare? Barefaced\u00ae, founded by a Nurse Practitioner, simplifies your routine with expert guidance and results-driven products\u2014helping you feel confident in your skin every day.",
+    "source_urls": [
+      "https://www.barefaced.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "barefootbooks.com",
+    "company_name": "Barefoot Books",
+    "website": "https://www.barefootbooks.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.barefootbooks.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.barefootbooks.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.barefootbooks.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.barefootbooks.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.barefootbooks.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.barefootbooks.com/about-us/our-story",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.barefootbooks.com/about-us/30th-anniversary-events",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.barefootbooks.com/about-us/press-awards",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.barefootbooks.com/about-us/events-shows",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.barefootbooks.com/about-us/careers",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.barefootbooks.com",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.barefootbooks.com/team",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.barefootbooks.com/about",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.barefootbooks.com/about-us",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.barefootbooks.com/contact",
+        "action": "https://www.barefootbooks.com/contact/index/post/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.barefootbooks.com/contact",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.barefootbooks.com/about-us/our-story",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.barefootbooks.com/about-us/30th-anniversary-events",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.barefootbooks.com/about-us/press-awards",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.barefootbooks.com/about-us/events-shows",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.barefootbooks.com/about-us/careers",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Barefoot Books creates carefully crafted children's books & gifts that spark imagination, exploration and creativity. Our mission is to share stories, connect families and inspire children. Step inside!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 14
+  },
+  {
+    "company_domain": "barefootcoffee.com",
+    "company_name": "Barefoot Coffee Roasters",
+    "website": "https://www.barefootcoffee.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "events@barefootcoffee.com",
+        "confidence": "highest",
+        "source_url": "https://www.barefootcoffee.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "d coffee events or corporate offsite team building events: Events@barefootcoffee.com Barefoot Coffee Solana Beach cafe 439 S. Cedros Ave. #"
+      },
+      {
+        "address": "orders@barefootcoffee.com",
+        "confidence": "highest",
+        "source_url": "https://www.barefootcoffee.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "fornia 95050 (408) 293-7200 For order questions/concerns: Orders@barefootcoffee.com Grocery markets, cafes, restaurants, offices: Wholesale@ba"
+      },
+      {
+        "address": "wholesale@barefootcoffee.com",
+        "confidence": "highest",
+        "source_url": "https://www.barefootcoffee.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "otcoffee.com Grocery markets, cafes, restaurants, offices: Wholesale@barefootcoffee.com For catered coffee events or corporate offsite team buildin"
+      }
+    ],
+    "role_emails": [
+      "events@barefootcoffee.com",
+      "orders@barefootcoffee.com",
+      "wholesale@barefootcoffee.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.barefootcoffee.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.barefootcoffee.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.barefootcoffee.com/collections/espresso",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.barefootcoffee.com/products/subscription-espresso",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.barefootcoffee.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.barefootcoffee.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.barefootcoffee.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Wildly delicious and sustainable award-winning coffees, cold brew and cafes in the Bay Area and San Diego",
+    "source_urls": [
+      "https://www.barefootcoffee.com/contact",
+      "https://www.barefootcoffee.com/pages/contact-us",
+      "http://www.barefootcoffee.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 14
+  },
+  {
+    "company_domain": "barefootdreams.com",
+    "company_name": "Barefoot Dreams\u00ae Official Site",
+    "website": "https://www.barefootdreams.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "help@barefootdreams.com",
+        "confidence": "highest",
+        "source_url": "https://www.barefootdreams.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "gh Friday 8AM - 5PM PST Email Us help@barefootdreams.com We strive to reply to your email within 3-5 business da"
+      },
+      {
+        "address": "info@barefootdreams.com",
+        "confidence": "high",
+        "source_url": "https://www.barefootdreams.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "help@barefootdreams.com",
+      "info@barefootdreams.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.barefootdreams.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.barefootdreams.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.barefootdreams.com/collections/team-usa",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.barefootdreams.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.barefootdreams.com/blogs/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.barefootdreams.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Worlds softest coziest hand knitted baby blankets, children's apparel, chic lounge wear for adults and accessories for the home.",
+    "source_urls": [
+      "https://www.barefootdreams.com",
+      "https://www.barefootdreams.com/press",
+      "https://www.barefootdreams.com/collections/team-usa",
+      "https://www.barefootdreams.com/pages/about-us",
+      "https://www.barefootdreams.com/blogs/press",
+      "https://www.barefootdreams.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "barefootman.com",
+    "company_name": "barefootman.com",
+    "website": "https://www.barefootman.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.barefootman.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.barefootman.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.barefootman.com/pages/contact",
+        "action": "/contact#contact-template--16382721425662__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "barefootman.com",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "barefootscientist.com",
+    "company_name": "Barefoot Scientist",
+    "website": "https://barefootscientist.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "%20support@barefootscientist.com",
+        "confidence": "highest",
+        "source_url": "https://barefootscientist.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "sales@barefootscientist.com",
+        "confidence": "high",
+        "source_url": "https://barefootscientist.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "support@barefootscientist.com",
+        "confidence": "high",
+        "source_url": "https://barefootscientist.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Have a question? We're here to help! Please email support@barefootscientist.com with any questions. Interested in carrying Barefoot Scient"
+      }
+    ],
+    "role_emails": [
+      "%20support@barefootscientist.com",
+      "sales@barefootscientist.com",
+      "support@barefootscientist.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://barefootscientist.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://barefootscientist.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://barefootscientist.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "We develop smart, effective products to help nourish your skin, ease your pain, revive your nails & save your soles. Shop Barefoot Scientist premium foot care.",
+    "source_urls": [
+      "https://barefootscientist.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "barefootsound.com",
+    "company_name": "Barefoot Sound",
+    "website": "https://www.barefootsound.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "barefootspas.com",
+    "company_name": "Barefoot Spas",
+    "website": "https://barefootspas.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://barefootspas.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2014-04-15"
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://barefootspas.com/contact",
+        "action": "/contact/#wpcf7-f7-p26-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Most sweepstakes casinos look similar until you try to redeem, then the gaps show up fast. The best sweepstakes casinos and social casino sites in 2026 make the model simple: clear SC terms, easy mobile play, and redemptions that don\u2019t drag. Show More Show Less Best Sweepstakes Casinos & Social Casi",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "barehands.us",
+    "company_name": "Bare Hands",
+    "website": "https://barehands.us",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://barehands.us",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://barehands.us/blogs/natural-nail-school/does-buffing-really-thin-your-nails-rethinking-what-we-know-about-keratin-growth",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "An at-home nail care kit that nourishes and shines for a healthy, polished natural nail.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "barehome.com",
+    "company_name": "Bare Home",
+    "website": "https://barehome.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "email us",
+        "title": null,
+        "email": "care@barehome.com",
+        "source_url": "https://barehome.com"
+      }
+    ],
+    "people": [
+      {
+        "name": "email us",
+        "title": null,
+        "email": "care@barehome.com",
+        "source_url": "https://barehome.com"
+      }
+    ],
+    "emails": [
+      {
+        "address": "care@barehome.com",
+        "confidence": "highest",
+        "source_url": "https://barehome.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "cs@barehome.com",
+        "confidence": "high",
+        "source_url": "https://barehome.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "wholesale@barehome.com",
+        "confidence": "high",
+        "source_url": "https://barehome.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "barehome.com Wholesale & Dealer Inquiries wholesale@barehome.com Chat With Us Click the chat icon below"
+      }
+    ],
+    "role_emails": [
+      "cs@barehome.com",
+      "wholesale@barehome.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://barehome.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://barehome.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://barehome.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://barehome.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://barehome.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://barehome.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://barehome.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://barehome.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Sheets, blankets, and the rest of the bed \u2014 tested against 1,000+ substances. 400,000 five-star ratings. 30 nights to try it. Family-owned in Minnesota since 2008.",
+    "source_urls": [
+      "https://barehome.com",
+      "https://barehome.com/team",
+      "https://barehome.com/our-team",
+      "https://barehome.com/about",
+      "https://barehome.com/about-us",
+      "https://barehome.com/press",
+      "https://barehome.com/pages/about-us",
+      "https://barehome.com/pages/contact-us"
+    ],
+    "reason": null,
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bareknuckles.co",
+    "company_name": "BARE KNUCKLES",
+    "website": "https://bareknuckles.co",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@bareknuckles.co",
+        "confidence": "highest",
+        "source_url": "https://bareknuckles.co/pages/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "to small details. For questions or inquiries, please email info@bareknuckles.co. Newsletter Copyright BARE KNUC"
+      }
+    ],
+    "role_emails": [
+      "info@bareknuckles.co"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bareknuckles.co",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bareknuckles.co/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bareknuckles.co/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bareknuckles.co/pages/contact",
+        "action": "/contact#contact-template--21261935607971__main",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "BARE KNUCKLES offers premium, timeless clothing crafted with care. Founded in 2017 by Jacob Keller and Cole McBride, our monthly-made collections focus on thoughtful silhouettes, quality fabrics, and lasting style.",
+    "source_urls": [
+      "https://bareknuckles.co/pages/about"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bareminerals.com",
+    "company_name": "Bare Minerals",
+    "website": "https://www.bareminerals.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customerservice@bareminerals.com",
+        "confidence": "highest",
+        "source_url": "https://www.bareminerals.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Live Chat customerservice@bareminerals.com CALL US:"
+      }
+    ],
+    "role_emails": [
+      "customerservice@bareminerals.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.bareminerals.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bareminerals.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bareminerals.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bareminerals.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Shop bareMinerals clean beauty collection. Award winning mineral makeup and skincare products you trust. Free samples with purchase.",
+    "source_urls": [
+      "https://www.bareminerals.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "baremotion.com",
+    "company_name": "Baremotion",
+    "website": "https://www.baremotion.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "sales@baremotion.com",
+        "confidence": "high",
+        "source_url": "https://www.baremotion.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Contact Us Tel: (914) 792-8360 E-mail: Sales@Baremotion.com -------------------------- Photography & Product Photos \u00a9"
+      }
+    ],
+    "role_emails": [
+      "sales@baremotion.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.baremotion.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.baremotion.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.baremotion.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.baremotion.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Lifting, Trucking, and Towing Equipment. Wide range of Rigging Supplies, Towing & Recovery equipment, Lifting Chains, Binder Chains, Lifting Slings, Tow Lights - Top Quality.",
+    "source_urls": [
+      "https://www.baremotion.com",
+      "https://www.baremotion.com/pages/contact-us",
+      "https://www.baremotion.com/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "barenakedladies.com",
+    "company_name": "Barenaked Ladies USD",
+    "website": "https://shop.barenakedladies.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://shop.barenakedladies.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://shop.barenakedladies.com",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Privacy Policy | Terms & Conditions | Help | Warranty | Changes to EU imports \u00a92026 Barenaked\u00a0Ladies\u00a0USD . Powered\u00a0by SANDBAG .",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "barenakedwools.com",
+    "company_name": "Bare Naked Wools",
+    "website": "https://www.barenakedwools.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.barenakedwools.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.barenakedwools.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.barenakedwools.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Discover premium, 100% natural yarn at our shop\u2014undyed, chemical-free, and available in rich earthy tones. Choose from single-wool fibers, wool blends, plant-based blends, Merino blends, silk, and over 50 yarn types in various weights. Explore our collection of 700+ designer knitting patterns.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "barenecessities.com",
+    "company_name": "Bare Necessities",
+    "website": "https://www.barenecessities.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.barenecessities.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.barenecessities.com/collections/side-support-bras",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.barenecessities.com/collections/compression-bras",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.barenecessities.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.barenecessities.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.barenecessities.com/pages/in-the-press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Bare Necessities is your one-stop shop for Online Shopping of Bras, Lingerie, Swimwear, Panties, Lounge, Sleepwear and much more! Fast + FREE Shipping!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 14
+  },
+  {
+    "company_domain": "bareorganics.com",
+    "company_name": "BareOrganics.com",
+    "website": "https://bareorganics.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customerservice@bareorganics.com",
+        "confidence": "high",
+        "source_url": "https://bareorganics.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "customerservice@bareorganics.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bareorganics.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bareorganics.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2017-04-21"
+      },
+      {
+        "url": "https://bareorganics.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bareorganics.com/press",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2021-06-15"
+      },
+      {
+        "url": "https://bareorganics.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bareorganics.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bareorganics.com/blogs/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bareorganics.com/blogs/press/bareorganics-superfoods-sweeping-2024-awards",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bareorganics.com/blogs/press/taste-for-life-2",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bareorganics.com/blogs/press/mindful-awards-presents-bareorganics-with-2024-organic-product-of-the-year",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bareorganics.com/blogs/press/bareorganics-superfoods-sweeping-2024-awards",
+        "action": "/blogs/press/bareorganics-superfoods-sweeping-2024-awards/comments#comment_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://bareorganics.com/blogs/press/taste-for-life-2",
+        "action": "/blogs/press/taste-for-life-2/comments#comment_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Our mission is simple, just like our foods. We\u2019re all about real nutrition for real people. We want to help you meet your daily nutrition goals and feel energized! BareOrganics\u00ae Superfoods offers Premium Super Fruits, Herbs, Roots, Super Greens, Snacks, Seeds, Coffees, Teas, Mushrooms & More.",
+    "source_urls": [
+      "https://bareorganics.com",
+      "https://bareorganics.com/about-us",
+      "https://bareorganics.com/contact",
+      "https://bareorganics.com/pages/about",
+      "https://bareorganics.com/blogs/press",
+      "https://bareorganics.com/blogs/press/bareorganics-superfoods-sweeping-2024-awards",
+      "https://bareorganics.com/blogs/press/taste-for-life-2",
+      "https://bareorganics.com/blogs/press/mindful-awards-presents-bareorganics-with-2024-organic-product-of-the-year"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 14
+  },
+  {
+    "company_domain": "bareperformancenutrition.com",
+    "company_name": "Bare Performance Nutrition",
+    "website": "https://www.bareperformancenutrition.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@bareperformancenutrition.com",
+        "confidence": "high",
+        "source_url": "https://www.bareperformancenutrition.com/products/peak-sleep-sleep-support-recovery",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "support@bareperformancenutrition.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.bareperformancenutrition.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bareperformancenutrition.com/products/peak-sleep-sleep-support-recovery",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bareperformancenutrition.com/products/strong-joints-joint-support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bareperformancenutrition.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "BPN makes third-party tested performance and health supplements for athletes committed to their goals. Our products are third party tested for banned substances and quality control.",
+    "source_urls": [
+      "https://www.bareperformancenutrition.com/products/peak-sleep-sleep-support-recovery"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "baresteelequipment.com",
+    "company_name": "Bare Steel Equipment",
+    "website": "https://baresteelequipment.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://baresteelequipment.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://baresteelequipment.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://baresteelequipment.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://baresteelequipment.com/pages/contact",
+        "action": "/contact#ContactForm-template--16998369034401__contact-form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Bare Steel Equipment is vintage and authentic. It offers a sense of raw, old school gym appeal. We wanted to push our training within our own space, but with the right equipment. Tired of the DIY projects and workarounds to push our training to new levels, Bare Steel Equipment was created with the e",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "barestep.com",
+    "company_name": "Barestep US",
+    "website": "https://barestep.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@barestep.com",
+        "confidence": "highest",
+        "source_url": "https://barestep.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ions If you ever have any other questions, pop us a mail at hello@barestep.com - we're always here and happy to help! What are baref"
+      }
+    ],
+    "role_emails": [
+      "hello@barestep.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://barestep.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Discover Barestep, your destination for premium barefoot shoes in the United States. Shop comfortable, lightweight barefoot footwear with fast US shipping.",
+    "source_urls": [
+      "https://barestep.com"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "baretraps.com",
+    "company_name": "Baretraps Shoes",
+    "website": "https://baretraps.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@baretraps.com",
+        "confidence": "highest",
+        "source_url": "https://baretraps.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2023-12-25",
+        "context_snippet": "ose \u00d7 OK Drop us a Note info@baretraps.com Mon-Fri 9:00AM-5:00PM EST Join Our Community Join"
+      }
+    ],
+    "role_emails": [
+      "info@baretraps.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://baretraps.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://baretraps.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2010-12-12"
+      },
+      {
+        "url": "https://baretraps.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2023-12-25"
+      },
+      {
+        "url": "https://baretraps.com/media",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2015-09-10"
+      },
+      {
+        "url": "https://baretraps.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2010-12-12"
+      },
+      {
+        "url": "https://baretraps.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Baretraps has a wide selection of the most comfortable Women's footwear available year round. No matter the season, find the style your looking for, from memory foam flats & comfort sandals to waterproof boots & booties you'll find what you're looking for with Baretraps!",
+    "source_urls": [
+      "https://baretraps.com/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "barflyfishingbar.com",
+    "company_name": "Bar Fly Safety Harbor",
+    "website": "https://www.barflyfishingbar.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "barfworld.com",
+    "company_name": "BARF World Inc.",
+    "website": "https://barfworld.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@barfworld.com",
+        "confidence": "highest",
+        "source_url": "https://barfworld.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Inc. 4881 Biscayne Ave Eagan, MN 55123 USA 1-866-282-2273 info@BARFworld.com \u00a9 2026 BARF World Inc. . All Rights Reserved. P"
+      }
+    ],
+    "role_emails": [
+      "info@barfworld.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://barfworld.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://barfworld.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://barfworld.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://barfworld.com/collections/pancreatitis-support-bundle",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://barfworld.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://barfworld.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "At BARF World, we make our signature BARF pet food from simple, quality ingredients. The raw meat pet food we provide is formulated for fast improvements.",
+    "source_urls": [
+      "https://barfworld.com",
+      "https://barfworld.com/about",
+      "https://barfworld.com/contact",
+      "https://barfworld.com/collections/pancreatitis-support-bundle",
+      "https://barfworld.com/pages/about-us",
+      "https://barfworld.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "bargainboxed.com",
+    "company_name": "BargainBoxed.com",
+    "website": "https://www.bargainboxed.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "contact@bargainboxed.com",
+        "confidence": "high",
+        "source_url": "https://www.bargainboxed.com/pages/customer-support",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Need help fast? Quick Contact Email contact@bargainboxed.com Text (SMS) +1 (330) 642-6615 St"
+      }
+    ],
+    "role_emails": [
+      "contact@bargainboxed.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.bargainboxed.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bargainboxed.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bargainboxed.com/pages/customer-support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bargainboxed.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Discover Unbeatable Deals and Discounts on Name Brand Products, Lowest Price Guaranteed! Save Up To 75% OFF Retail Prices on Electronics, Discount Grocery, Housewares & More! Get Huge Savings On Grocery Outlet, Clearance, Closeout, Liquidation, Salvage & Overstock Products!",
+    "source_urls": [
+      "https://www.bargainboxed.com/pages/customer-support"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  }
+]
