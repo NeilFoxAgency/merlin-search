@@ -1,0 +1,1533 @@
+[
+  {
+    "company_domain": "beachcandyswimwear.com",
+    "company_name": "BeachCandy Swimwear",
+    "website": "https://beachcandyswimwear.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "EMAIL: info@beachcandyswimwear.com",
+        "title": null,
+        "email": "info@beachcandyswimwear.com",
+        "source_url": "https://beachcandyswimwear.com/about"
+      }
+    ],
+    "people": [
+      {
+        "name": "EMAIL: info@beachcandyswimwear.com",
+        "title": null,
+        "email": "info@beachcandyswimwear.com",
+        "source_url": "https://beachcandyswimwear.com/about"
+      }
+    ],
+    "emails": [
+      {
+        "address": "info@beachcandyswimwear.com",
+        "confidence": "highest",
+        "source_url": "https://beachcandyswimwear.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2016-04-02",
+        "context_snippet": "hway Corona del Mar, CA | PHONE: (949)-640-0988 EMAIL: info@beachcandyswimwear.com | Wholesale Inquiries"
+      }
+    ],
+    "role_emails": [
+      "info@beachcandyswimwear.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://beachcandyswimwear.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beachcandyswimwear.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2016-04-02"
+      },
+      {
+        "url": "https://beachcandyswimwear.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2016-04-02"
+      },
+      {
+        "url": "https://beachcandyswimwear.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beachcandyswimwear.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beachcandyswimwear.com/blogs/news-and-press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://beachcandyswimwear.com/about",
+        "action": "http://beachcandyswimwear.com/wp-admin/admin-ajax.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://beachcandyswimwear.com/about-us",
+        "action": "http://beachcandyswimwear.com/wp-admin/admin-ajax.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://beachcandyswimwear.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "BeachCandy Organics natural fiber bathing suits, undyed bikinis, & more. Celebrating over a decade of iconic ethical fashion for women. Shop Now.",
+    "source_urls": [
+      "https://beachcandyswimwear.com",
+      "https://beachcandyswimwear.com/about",
+      "https://beachcandyswimwear.com/about-us",
+      "https://beachcandyswimwear.com/contact",
+      "https://beachcandyswimwear.com/pages/contact-us",
+      "https://beachcandyswimwear.com/blogs/news-and-press"
+    ],
+    "reason": null,
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "beachcitiescuba.com",
+    "company_name": "Beach Cities Scuba",
+    "website": "https://beachcitiescuba.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://beachcitiescuba.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beachcitiescuba.com/collections/staff-picks",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beachcitiescuba.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Beach Cities Scuba is a PADI Five-Star IDC Center serving Southern California. Visit us for the best dive gear, scuba diving lessons, travel around the world, or become a dive professional. If you are in the Orange County, Los Angeles County or San Diego County areas, Beach Cities Scuba is here to h",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "beachcomberstore.com",
+    "company_name": "The Wellfleet Beachcomber Store",
+    "website": "https://www.beachcomberstore.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.beachcomberstore.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beachcomberstore.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beachcomberstore.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Shop classic Cape Code styles at the official Beachcomber Store. Check out new summer styles featuring Beachcomber Hoodies, tees, hats, gear and much more.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "beachcombingmagazine.com",
+    "company_name": "Beachcombing Magazine",
+    "website": "https://www.beachcombingmagazine.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "email us",
+        "title": null,
+        "email": "info@beachcombingmagazine.com",
+        "source_url": "https://www.beachcombingmagazine.com/pages/contact"
+      }
+    ],
+    "people": [
+      {
+        "name": "email us",
+        "title": null,
+        "email": "info@beachcombingmagazine.com",
+        "source_url": "https://www.beachcombingmagazine.com/pages/contact"
+      }
+    ],
+    "emails": [
+      {
+        "address": "info@beachcombingmagazine.com",
+        "confidence": "highest",
+        "source_url": "https://www.beachcombingmagazine.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.beachcombingmagazine.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beachcombingmagazine.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beachcombingmagazine.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beachcombingmagazine.com/blogs/news/learning-about-sea-life-on-the-carefree-learner",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.beachcombingmagazine.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.beachcombingmagazine.com/blogs/news/learning-about-sea-life-on-the-carefree-learner",
+        "action": "/blogs/news/learning-about-sea-life-on-the-carefree-learner/comments#",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Beachcombing Magazine is your ultimate guide to the treasures of the coast, featuring stunning photography, captivating stories, and expert advice for beachcombers of all levels.",
+    "source_urls": [
+      "https://www.beachcombingmagazine.com/pages/contact"
+    ],
+    "reason": null,
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "beached.shop",
+    "company_name": "Beached",
+    "website": "https://beached.shop",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "dns_failure",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "beachfossils.com",
+    "company_name": "beach fossils",
+    "website": "https://www.beachfossils.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.beachfossils.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beachfossils.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Beach Fossils official website",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "beachframes.com",
+    "company_name": "Beach Frames",
+    "website": "https://beachframes.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customerservice@beachframes.com",
+        "confidence": "highest",
+        "source_url": "https://beachframes.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "| FREE SHIPPING OVER $75 Contact 800-469-1304 customerservice@beachframes.com Facebook Instagram Pi"
+      }
+    ],
+    "role_emails": [
+      "customerservice@beachframes.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://beachframes.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beachframes.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Handcrafted traditional rustic naturally weathered reclaimed wood handcrafted USA made picture frames & modern farmhouse wall decor signs. Interior decorators choice for collage wall frames & custom wood signs.",
+    "source_urls": [
+      "https://beachframes.com",
+      "https://beachframes.com/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "beachgoer.com",
+    "company_name": "Beachgoer",
+    "website": "https://beachgoer.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@beachgoer.com",
+        "confidence": "highest",
+        "source_url": "https://beachgoer.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "service@beachgoer.com",
+        "confidence": "highest",
+        "source_url": "https://beachgoer.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ". VIA PHONE +1 (855)-71-BEACH VIA EMAIL service@beachgoer.com I'M TOO LAZY We get it! Just fill out this form and"
+      },
+      {
+        "address": "support@beachgoer.com",
+        "confidence": "high",
+        "source_url": "https://beachgoer.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Live Chat Available (855) 71-BEACH (23224) support@beachgoer.com Help Center Links"
+      }
+    ],
+    "role_emails": [
+      "info@beachgoer.com",
+      "service@beachgoer.com",
+      "support@beachgoer.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://beachgoer.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beachgoer.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beachgoer.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://beachgoer.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Beachgoer is your #1 destination for all things beach. We're a one-stop shop offering surfing, bodyboarding, and kiteboarding gear, as well as beach toys, beach gear, outdoor products, clothing and more. Get everything you need for your next beach session at Beachgoer.",
+    "source_urls": [
+      "https://beachgoer.com",
+      "https://beachgoer.com/pages/contact-us",
+      "https://beachgoer.com/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "beachguide.com",
+    "company_name": "shop.beachguide.com",
+    "website": "https://shop.beachguide.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://shop.beachguide.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.beachguide.com/product/aisparky-sand-proof-beach-blanket-for-4-7-people/",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Specialising in everything you need for your beach trip, including swimwear, games, pet travel supplies and more.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "beachhouse604.com",
+    "company_name": "www.beachhouse604.com",
+    "website": "https://www.beachhouse604.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "aloha@beachhouse604.com",
+        "confidence": "highest",
+        "source_url": "https://www.beachhouse604.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "call. 85-010 Army Street Waianae, HI. 96792 (808) 725-2589 aloha@beachhouse604.com Site Map Home Food Menu Shop Events Contact Quick Links Gal"
+      }
+    ],
+    "role_emails": [
+      "aloha@beachhouse604.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.beachhouse604.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beachhouse604.com/contact/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Beachside dining at Pokai Bay\u2014fresh local flavors, sunset cocktails, and live music. Experience island vibes at The Beach House by 604.",
+    "source_urls": [
+      "https://www.beachhouse604.com/contact",
+      "https://beachhouse604.com/contact/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "beachhousebaltimore.com",
+    "company_name": "BEACH HOUSE",
+    "website": "https://shop.beachhousebaltimore.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://shop.beachhousebaltimore.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.beachhousebaltimore.com/collections/all/products/depression-cherry-foil-vinyl",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.beachhousebaltimore.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Beach House Baltimore Merchandise",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "beachlunchlounge.com",
+    "company_name": "beachlunchlounge",
+    "website": "https://www.beachlunchlounge.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "cs@beachlunchlounge.com",
+        "confidence": "highest",
+        "source_url": "https://www.beachlunchlounge.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ".414.8383 (Monday-Friday 9:30am-5:30pm EST) EMAIL US: cs@beachlunchlounge.com PRESS INQUIRIES: pr@beachlunchlounge.com"
+      },
+      {
+        "address": "pr@beachlunchlounge.com",
+        "confidence": "highest",
+        "source_url": "https://www.beachlunchlounge.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "cs@beachlunchlounge.com PRESS INQUIRIES: pr@beachlunchlounge.com WHOLESALE INQUIRIES: wholesale@beachlunchlou"
+      },
+      {
+        "address": "wholesale@beachlunchlounge.com",
+        "confidence": "highest",
+        "source_url": "https://www.beachlunchlounge.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "pr@beachlunchlounge.com WHOLESALE INQUIRIES: wholesale@beachlunchlounge.com SMS Notice: TN's are not collected fo"
+      }
+    ],
+    "role_emails": [
+      "cs@beachlunchlounge.com",
+      "pr@beachlunchlounge.com",
+      "wholesale@beachlunchlounge.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.beachlunchlounge.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beachlunchlounge.com/pages/press-1",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beachlunchlounge.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.beachlunchlounge.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Live Lightly. Dress Beautifully.",
+    "source_urls": [
+      "https://www.beachlunchlounge.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "beachly.com",
+    "company_name": "Beachly",
+    "website": "https://beachly.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://beachly.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Beachly offers premium surf subscription boxes that will keep you in style for every season at the beach. Sign up and join the tribe today!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "beachriot.com",
+    "company_name": "Beach Riot",
+    "website": "https://beachriot.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Nicole Hanriot",
+        "title": "Owner",
+        "email": "nicole@beachriot.com",
+        "source_url": "https://beachriot.com/press"
+      }
+    ],
+    "people": [
+      {
+        "name": "Nicole Hanriot",
+        "title": "Owner",
+        "email": "nicole@beachriot.com",
+        "source_url": "https://beachriot.com/press"
+      }
+    ],
+    "emails": [
+      {
+        "address": "ambassadors@beachriot.com",
+        "confidence": "highest",
+        "source_url": "https://beachriot.com/pages/contact-page",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ries press@beachriot.com Ambassador Program ambassadors@beachriot.com Search"
+      },
+      {
+        "address": "info@beachriot.com",
+        "confidence": "highest",
+        "source_url": "https://beachriot.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2015-09-20",
+        "context_snippet": "Anaheim St. Costa Mesa, CA 92627 General Inquiries: info@beachriot.com Shop Questions: shop@beachriot.com PR: nicole@be"
+      },
+      {
+        "address": "kyla@beachriot.com",
+        "confidence": "highest",
+        "source_url": "https://beachriot.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2015-09-20",
+        "context_snippet": "shop@beachriot.com PR: nicole@beachriot.com Sales: kyla@beachriot.com Phone: 714.975.5511"
+      },
+      {
+        "address": "nicole@beachriot.com",
+        "confidence": "highest",
+        "source_url": "https://beachriot.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2015-09-20",
+        "context_snippet": "hriot.com Shop Questions: shop@beachriot.com PR: nicole@beachriot.com Sales: kyla@beachriot.com Phone: 714.975.5511"
+      },
+      {
+        "address": "press@beachriot.com",
+        "confidence": "highest",
+        "source_url": "https://beachriot.com/pages/contact-page",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "quiries sales@beachriot.com Media Inquiries press@beachriot.com Ambassador Program ambassadors@beachriot.com"
+      },
+      {
+        "address": "sales@beachriot.com",
+        "confidence": "highest",
+        "source_url": "https://beachriot.com/pages/contact-page",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "port info@beachriot.com Wholesale Inquiries sales@beachriot.com Media Inquiries press@beachriot.com Amb"
+      },
+      {
+        "address": "shop@beachriot.com",
+        "confidence": "highest",
+        "source_url": "https://beachriot.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2015-09-20",
+        "context_snippet": "neral Inquiries: info@beachriot.com Shop Questions: shop@beachriot.com PR: nicole@beachriot.com Sales: kyla@beachriot.com"
+      }
+    ],
+    "role_emails": [
+      "ambassadors@beachriot.com",
+      "info@beachriot.com",
+      "kyla@beachriot.com",
+      "press@beachriot.com",
+      "sales@beachriot.com",
+      "shop@beachriot.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://beachriot.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beachriot.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beachriot.com/press",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2015-09-20"
+      },
+      {
+        "url": "https://beachriot.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beachriot.com/pages/contact-page",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://beachriot.com/press",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://beachriot.com/press",
+        "action": "http://beachriot.com/press/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Beach Riot - Stylish Beachwear Fashion Brand. Shop Women's Bikinis, Swimwear Apparel and Activewear on the Beach Riot Official Website.",
+    "source_urls": [
+      "https://beachriot.com/press",
+      "https://beachriot.com/pages/contact-page"
+    ],
+    "reason": null,
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "beachwaver.com",
+    "company_name": "The Beachwaver Co.",
+    "website": "https://beachwaver.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customerservice@beachwaver.com",
+        "confidence": "high",
+        "source_url": "https://beachwaver.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "We\u2019ve got you! Send us an email customerservice@beachwaver.com including your order number and a quick note on what you n"
+      }
+    ],
+    "role_emails": [
+      "customerservice@beachwaver.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://beachwaver.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beachwaver.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beachwaver.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beachwaver.com/pages/femalefounders",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beachwaver.com/pages/femalefounders",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beachwaver.com/products/team-texture-dry-finishing-spray",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beachwaver.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Beachwaver Patented Dual Voltage Rotating Curling Irons Vegan Hair Care Subscription Kits. Vegan Hair Care. Paraben Free. Formaldehyde free. Cruelty Free. HiX, Bond Multiplier. Wrap Up Bun Maker. Dry Shampoo. Braid Balm. Good Vibes Shampoo and Conditioner. Braid Balm. Reparative Pre Shampoo Foam.",
+    "source_urls": [
+      "https://beachwaver.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "beachwoodbaby.com",
+    "company_name": "Beachwood Baby",
+    "website": "https://beachwoodbaby.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hola@beachwoodbaby.com",
+        "confidence": "highest",
+        "source_url": "https://beachwoodbaby.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2021-01-18",
+        "context_snippet": "Home Shop Giving Back Learn Blog More 0 NEED ASSISTANCE? hola@BeachwoodBaby.com Contact Our Story Q&A"
+      }
+    ],
+    "role_emails": [
+      "hola@beachwoodbaby.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://beachwoodbaby.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beachwoodbaby.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2021-01-18"
+      },
+      {
+        "url": "https://beachwoodbaby.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2021-01-21"
+      },
+      {
+        "url": "https://beachwoodbaby.com/pages/contact-us-1",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beachwoodbaby.com/pages/about-beachwood-baby",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://beachwoodbaby.com/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://beachwoodbaby.com/pages/contact-us-1",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Beachwood products are inspired by women and designed to adapt to their bodies. Buy ethically made boho women's clothing from a business that gives back.",
+    "source_urls": [
+      "https://beachwoodbaby.com/about",
+      "https://beachwoodbaby.com/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "beaconhillbooks.com",
+    "company_name": "Beacon Hill Books",
+    "website": "https://www.beaconhillbooks.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.beaconhillbooks.com",
+        "page_type": "home",
+        "source_type": "archived",
+        "snapshot_date": "2008-08-20"
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Christian Books--from Bible study and Christian ministry to quizzing & fiction, Beacon Hill Press of KC publishes resources for the diverse Christian community. We have books on Christian Living and Spiritual Growth and Ministry Resources and Theology and Youth and Nazarene beliefs, etc.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 15
+  },
+  {
+    "company_domain": "beaconscloset.com",
+    "company_name": "beacon's closet",
+    "website": "https://beaconscloset.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@beaconscloset.com",
+        "confidence": "highest",
+        "source_url": "https://beaconscloset.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "bushwick@beaconscloset.com",
+        "confidence": "high",
+        "source_url": "https://beaconscloset.com/pages/locations",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "bushwick 23 Bogart St Brooklyn, NY 11206 (718) 417-5683 bushwick@beaconscloset.com open 7 days 11 - 8 all locations close"
+      },
+      {
+        "address": "greenpoint@beaconscloset.com",
+        "confidence": "high",
+        "source_url": "https://beaconscloset.com/pages/locations",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "eenpoint 74 Guernsey St Brooklyn, NY 11222 (718) 486-0816 greenpoint@beaconscloset.com open 7 days 11 - 8"
+      },
+      {
+        "address": "manhattan@beaconscloset.com",
+        "confidence": "high",
+        "source_url": "https://beaconscloset.com/pages/locations",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "manhattan 10 W 13th St New York, NY 10011 (917) 261-4863 manhattan@beaconscloset.com open 7 days 11 - 8"
+      },
+      {
+        "address": "parkslope@beaconscloset.com",
+        "confidence": "high",
+        "source_url": "https://beaconscloset.com/pages/locations",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "t park slope 92 5th Ave Brooklyn, NY 11217 (718) 230-1630 parkslope@beaconscloset.com open 7 days m-f noon - 8 s+s 11 - 8"
+      }
+    ],
+    "role_emails": [
+      "bushwick@beaconscloset.com",
+      "greenpoint@beaconscloset.com",
+      "info@beaconscloset.com",
+      "manhattan@beaconscloset.com",
+      "parkslope@beaconscloset.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://beaconscloset.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beaconscloset.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beaconscloset.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beaconscloset.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beaconscloset.com/pages/locations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beaconscloset.com/pages/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beaconscloset.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beaconscloset.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "we buy, sell, + trade, vintage + modern clothing, 7 days, on a walk in basis. offering the highest percentages in nyc, greenpoint, park slope, + bushwick. sell used clothes by mail or in store.",
+    "source_urls": [
+      "https://beaconscloset.com",
+      "https://beaconscloset.com/about",
+      "https://beaconscloset.com/press",
+      "https://beaconscloset.com/contact",
+      "https://beaconscloset.com/pages/locations",
+      "https://beaconscloset.com/pages/press",
+      "https://beaconscloset.com/pages/contact",
+      "https://beaconscloset.com/pages/about"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "beaconthreads.com",
+    "company_name": "Beacon Threads",
+    "website": "https://www.beaconthreads.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "robots_disallowed",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "beadaholique.com",
+    "company_name": "Beadaholique",
+    "website": "https://beadaholique.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "service@beadaholique.com",
+        "confidence": "highest",
+        "source_url": "https://beadaholique.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "admin@beadaholique.com",
+        "confidence": "high",
+        "source_url": "https://beadaholique.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "er Service: service@beadaholique.com General Inquiries: admin@beadaholique.com Get early sale alerts, new product announcements, exclusi"
+      }
+    ],
+    "role_emails": [
+      "admin@beadaholique.com",
+      "service@beadaholique.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://beadaholique.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beadaholique.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beadaholique.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beadaholique.com/collections/mixed-media-supplies",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beadaholique.com/collections/mixed-media-jewelry-spotlight-on-resin",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beadaholique.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://beadaholique.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Shop beads, jewelry-making supplies, tools, findings, kits, and more at Beadaholique. Discover new arrivals, returning favorites, great prices, and creative inspiration.",
+    "source_urls": [
+      "https://beadaholique.com",
+      "https://beadaholique.com/about-us",
+      "https://beadaholique.com/pages/contact-us",
+      "https://beadaholique.com/collections/mixed-media-supplies",
+      "https://beadaholique.com/collections/mixed-media-jewelry-spotlight-on-resin",
+      "https://beadaholique.com/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "beadedblondes.com",
+    "company_name": "Beaded Blondes",
+    "website": "https://beadedblondes.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@beadedblondes.com",
+        "confidence": "highest",
+        "source_url": "https://beadedblondes.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "n to Redo within 30 days Customer service hello@beadedblondes.com Free shipping on orders $200+"
+      }
+    ],
+    "role_emails": [
+      "hello@beadedblondes.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://beadedblondes.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beadedblondes.com/collections/shopy-by-team-a-z-copy",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beadedblondes.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beadedblondes.com/collections/shop-by-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://beadedblondes.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Elevate your style with 14k gold-filled beaded jewelry collection. Explore beaded blondes and gold-filled designs online. Shop now for timeless elegance.",
+    "source_urls": [
+      "https://beadedblondes.com",
+      "https://beadedblondes.com/collections/shopy-by-team-a-z-copy",
+      "https://beadedblondes.com/pages/contact",
+      "https://beadedblondes.com/collections/shop-by-team"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "beadleandgrimms.com",
+    "company_name": "Beadle & Grimm's Pandemonium Warehouse",
+    "website": "https://beadleandgrimms.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support.goblin@beadleandgrimms.com",
+        "confidence": "highest",
+        "source_url": "https://beadleandgrimms.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2020-10-03",
+        "context_snippet": "e Blvd Suite 999 Santa Monica CA 90403 United States email: support.goblin@beadleandgrimms.com"
+      }
+    ],
+    "role_emails": [
+      "support.goblin@beadleandgrimms.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://beadleandgrimms.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beadleandgrimms.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beadleandgrimms.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2020-10-03"
+      },
+      {
+        "url": "https://beadleandgrimms.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beadleandgrimms.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beadleandgrimms.com/pages/press-reviews",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Magical Artifacts for Epic Gameplay Beadle & Grimm's gives you the materials you need\u2014maps, handouts, artifacts, jewelry, bonus encounters, cases and much much more\u2014 to immerse yourself and your players in whatever magical world you choose to play in.",
+    "source_urls": [
+      "https://beadleandgrimms.com",
+      "https://beadleandgrimms.com/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "beadnikschicago.com",
+    "company_name": "Beadniks Chicago",
+    "website": "https://www.beadnikschicago.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@beadnikschicago.com",
+        "confidence": "high",
+        "source_url": "https://www.beadnikschicago.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "1937 W Division St Chicago, IL 60622 Contact Us: info@beadnikschicago.com (773) 276-2323 Store Hours: Monday-Sunday: 11am - 7pm"
+      }
+    ],
+    "role_emails": [
+      "info@beadnikschicago.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.beadnikschicago.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beadnikschicago.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beadnikschicago.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.beadnikschicago.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Chicago's destination for beads, bead and jewelry supplies, finished jewelry, workshops, parties and more.",
+    "source_urls": [
+      "https://www.beadnikschicago.com/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "beadsafterbeads.com",
+    "company_name": "Beads After Beads",
+    "website": "https://beadsafterbeads.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@beadsafterbeads.com",
+        "confidence": "highest",
+        "source_url": "https://beadsafterbeads.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "uluth, GA 30096-1623 GET DIRECTIONS +1 (770) 814-7272 info@beadsafterbeads.com Store Hours: (Eastern time) Closed on Mondays Tuesday to Su"
+      }
+    ],
+    "role_emails": [
+      "info@beadsafterbeads.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://beadsafterbeads.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beadsafterbeads.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2017-07-10"
+      },
+      {
+        "url": "https://beadsafterbeads.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://beadsafterbeads.com/contact",
+        "action": "https://beadsafterbeads.com/contact/form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Sign up to our newsletter for the latest news and special offers...",
+    "source_urls": [
+      "https://beadsafterbeads.com",
+      "https://beadsafterbeads.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "beadshop.com",
+    "company_name": "Beadshop.com",
+    "website": "https://www.beadshop.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@beadshop.com",
+        "confidence": "high",
+        "source_url": "https://www.beadshop.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@beadshop.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.beadshop.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beadshop.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beadshop.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.beadshop.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Hooked since 1982... We love to bead! More than 900 videos, inspiring projects, and endless learning. Shop all the goodies from Miyuki seed beads, leather from around the world, Czech glass, the best of threads, freshwater pearls and beads from everywhere! Come join our worldwide community of beader",
+    "source_urls": [
+      "https://www.beadshop.com",
+      "https://www.beadshop.com/pages/contact-us",
+      "https://www.beadshop.com/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  }
+]
