@@ -1,0 +1,1434 @@
+[
+  {
+    "company_domain": "ateliersavas.com",
+    "company_name": "Savas",
+    "website": "https://www.ateliersavas.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "rendez-vous@ateliersavas.com",
+        "confidence": "highest",
+        "source_url": "https://www.ateliersavas.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2019-04-11",
+        "context_snippet": "TH AVENUE SOUTH NASHVILLE, TN 37203, USA 6155844656 RENDEZ-VOUS@ATELIERSAVAS.COM Hours F.A.Q. Jobs Testimonials Contact Pres"
+      },
+      {
+        "address": "walter@ateliersavas.com",
+        "confidence": "high",
+        "source_url": "https://www.ateliersavas.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "rendez-vous@ateliersavas.com",
+      "walter@ateliersavas.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.ateliersavas.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ateliersavas.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2019-04-11"
+      },
+      {
+        "url": "https://www.ateliersavas.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2019-04-11"
+      },
+      {
+        "url": "https://www.ateliersavas.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ateliersavas.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ateliersavas.com/pages/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.ateliersavas.com/contact",
+        "action": "https://madeline-westfall-8e7h.squarespace.com",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.ateliersavas.com/pages/contact-us",
+        "action": "/contact#8d087bbd-f66a-4c2a-a6c0-691c0a96cbc1-template--18433335427155__contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Luxury leather jackets, boots and accessories for people with a point of view. Designed in Nashville. Handcrafted in the USA and Italy since 2015.",
+    "source_urls": [
+      "https://www.ateliersavas.com",
+      "https://www.ateliersavas.com/about",
+      "https://www.ateliersavas.com/contact",
+      "https://www.ateliersavas.com/pages/contact-us",
+      "https://www.ateliersavas.com/pages/about",
+      "https://www.ateliersavas.com/pages/press"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "atelieryarns.com",
+    "company_name": "ATELIER YARNS",
+    "website": "https://atelieryarns.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://atelieryarns.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atelieryarns.com/pages/locations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atelieryarns.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atelieryarns.com/products/seal-point-tee-knitting-kit-the-fibre-company-acadia",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "San Francisco & Marin's best and biggest yarn stores for unbeatable selections of yarns, needles, books, and classes for knitting and crochet.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "atgames.us",
+    "company_name": "AtGames Official Online Store",
+    "website": "https://www.atgames.us",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.atgames.us",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.atgames.us/pages/about-1",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Home of the AtGames Legends Arcade Family. Buy all of the popular AtGames Legends Arcade products.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "atgequipment.com",
+    "company_name": "atgbuddies",
+    "website": "https://atgequipment.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "athenaclub.com",
+    "company_name": "Athena Club",
+    "website": "https://athenaclub.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hey@athenaclub.com",
+        "confidence": "highest",
+        "source_url": "https://athenaclub.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Us: hey@athenaclub.com Opens in a new window"
+      }
+    ],
+    "role_emails": [
+      "hey@athenaclub.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://athenaclub.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://athenaclub.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2023-11-30"
+      },
+      {
+        "url": "https://athenaclub.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://athenaclub.com/pages/about-us#store_locator",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "All your self-care essentials, all in one spot. From an expertly designed women's razor, to supplements made with the highest-quality ingredients",
+    "source_urls": [
+      "https://athenaclub.com",
+      "https://athenaclub.com/pages/about-us",
+      "https://athenaclub.com/pages/about-us#store_locator"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "athenagaia.com",
+    "company_name": "Athena Gaia",
+    "website": "https://athenagaia.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "athena@athenagaia.com",
+        "confidence": "high",
+        "source_url": "https://athenagaia.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "athena@athenagaia.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://athenagaia.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://athenagaia.com/pages/about-our-greek-jewelry-store",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://athenagaia.com/pages/contact-athenas-treasures-greek-jewelry-store",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Discover the magic of Greece in each piece: sterling silver, solid gold\u2014artisan-crafted rings, crosses, necklaces, bracelets, and more. Each treasure is stamped with artist and metal quality for guaranteed authenticity, delivering the legacy of Greek tradition to your doorstep. Top brands from Athen",
+    "source_urls": [
+      "https://athenagaia.com",
+      "https://athenagaia.com/pages/about-our-greek-jewelry-store",
+      "https://athenagaia.com/pages/contact-athenas-treasures-greek-jewelry-store"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "athenscooks.com",
+    "company_name": "Athens Cooks",
+    "website": "https://athenscooks.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "challenge_page",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "athensseed.com",
+    "company_name": "Athens Seed Co",
+    "website": "https://athensseed.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "ecommerce@athensseed.com",
+        "confidence": "high",
+        "source_url": "https://athensseed.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "ecommerce@athensseed.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://athensseed.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://athensseed.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://athensseed.com/pages/all-about-pine-straw",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Athens Seed Lawn & Garden",
+    "source_urls": [
+      "https://athensseed.com",
+      "https://athensseed.com/pages/about-us",
+      "https://athensseed.com/pages/all-about-pine-straw"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "athletesthread.com",
+    "company_name": "Athlete's Thread",
+    "website": "https://athletesthread.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "wholesale@athletesthread.com",
+        "confidence": "highest",
+        "source_url": "https://athletesthread.com/products/michigan-ncaa-mens-basketball-2026-ncaa\u00ae-champions-full-team-set",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "unts applied at checkout. For bulk or team orders, contact wholesale@athletesthread.com . OFFICIALLY LICENSED MERCHANDISE Athletes Thread is"
+      },
+      {
+        "address": "u003ewholesale@athletesthread.com",
+        "confidence": "high",
+        "source_url": "https://athletesthread.com/products/michigan-ncaa-mens-basketball-2026-ncaa\u00ae-champions-full-team-set",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "u003ewholesale@athletesthread.com",
+      "wholesale@athletesthread.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://athletesthread.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://athletesthread.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://athletesthread.com/products/michigan-ncaa-mens-basketball-2026-ncaa\u00ae-champions-full-team-set",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Shop officially-licensed NIL merch from 55,000+ college athletes across 400+ universities. Jerseys, apparel, and trading cards. Support your school.",
+    "source_urls": [
+      "https://athletesthread.com/products/michigan-ncaa-mens-basketball-2026-ncaa\u00ae-champions-full-team-set"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "athleticannex.com",
+    "company_name": "Athletic Annex",
+    "website": "https://athleticannex.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@athleticannex.com",
+        "confidence": "highest",
+        "source_url": "https://athleticannex.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "telephone: 317.872.0000 support@athleticannex.com Event Photo Albums Copyright \u00a9 2026 Ath"
+      }
+    ],
+    "role_emails": [
+      "support@athleticannex.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://athleticannex.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://athleticannex.com/collections/cep-compression/main-color",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://athleticannex.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://athleticannex.com/pages/locations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://athleticannex.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Shop top-quality athletic gear in central Indiana at Athletic Annex. From running shoes to performance apparel, find everything you need to excel. Expert advice and a wide selection await you.",
+    "source_urls": [
+      "https://athleticannex.com",
+      "https://athleticannex.com/collections/cep-compression/main-color",
+      "https://athleticannex.com/pages/contact-us",
+      "https://athleticannex.com/pages/locations",
+      "https://athleticannex.com/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "athleticbrewing.com",
+    "company_name": "Athletic Brewing Company",
+    "website": "https://athleticbrewing.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://athleticbrewing.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://athleticbrewing.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://athleticbrewing.com/products/cold-off-the-press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://athleticbrewing.com/blogs/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://athleticbrewing.com/pages/join-our-athletic-team-careers",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Athletic Brewing Company is revolutionizing beer for the modern adult by proudly brewing great-tasting, craft non-alcoholic beer.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "athleticogear.com",
+    "company_name": "Athletico",
+    "website": "https://www.athleticogear.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "%20info@athleticogear.com",
+        "confidence": "highest",
+        "source_url": "https://www.athleticogear.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "info@athleticogear.com",
+        "confidence": "highest",
+        "source_url": "https://www.athleticogear.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "%20info@athleticogear.com",
+      "info@athleticogear.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.athleticogear.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.athleticogear.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.athleticogear.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.athleticogear.com/collections/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.athleticogear.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.athleticogear.com/pages/team-sales",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.athleticogear.com/contact",
+        "action": "/contact#form-contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.athleticogear.com/pages/contact-us",
+        "action": "/contact#form-contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.athleticogear.com/pages/team-sales",
+        "action": "/contact#form-contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Selling sports backpacks, totes, and travel bags for baseball, soccer, ski, snowboard, and more. Get only the right gear, and prepare for a good time!",
+    "source_urls": [
+      "https://www.athleticogear.com",
+      "https://www.athleticogear.com/about",
+      "https://www.athleticogear.com/contact",
+      "https://www.athleticogear.com/collections/team",
+      "https://www.athleticogear.com/pages/contact-us",
+      "https://www.athleticogear.com/pages/team-sales"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "athleticpropulsionlabs.com",
+    "company_name": "APL",
+    "website": "https://www.athleticpropulsionlabs.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "athlonsports.com",
+    "company_name": "Shop Athlon Athletics",
+    "website": "https://shop.athlonsports.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "contact@support.shop.athlonsports.com",
+        "confidence": "high",
+        "source_url": "https://shop.athlonsports.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "contact@support.shop.athlonsports.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://shop.athlonsports.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.athlonsports.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "The official store for Athlon Sports. Find the latest merch, like shirts, sweatshirts and magazines.",
+    "source_urls": [
+      "https://shop.athlonsports.com/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "athomemedical.com",
+    "company_name": "At Home Medical Products, Inc.",
+    "website": "https://www.athomemedical.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@athomemedical.com",
+        "confidence": "highest",
+        "source_url": "https://www.athomemedical.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "roducts 1690 Redi Road Suite 300, Cumming, GA 30040 support@athomemedical.com 1-800-526-5895 AtHome Medical Products, I"
+      }
+    ],
+    "role_emails": [
+      "support@athomemedical.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.athomemedical.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.athomemedical.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.athomemedical.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.athomemedical.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.athomemedical.com/collections/bowel-management",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.athomemedical.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.athomemedical.com/contact",
+        "action": "/contact#AthContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.athomemedical.com/pages/contact-us",
+        "action": "/contact#AthContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "At Home Medical specializes in providing catheters and supporting urological supplies and products for continence care of individuals, especially those with spinal cord injuries. We carry supplies for adult incontinence, ostomy, wound and skin care, bowel management, and many medical products for da",
+    "source_urls": [
+      "https://www.athomemedical.com",
+      "https://www.athomemedical.com/about-us",
+      "https://www.athomemedical.com/contact",
+      "https://www.athomemedical.com/pages/contact-us",
+      "https://www.athomemedical.com/collections/bowel-management",
+      "https://www.athomemedical.com/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "athomestorefairfield.com",
+    "company_name": "At  Store Fairfield",
+    "website": "https://athomestorefairfield.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@athomestorefairfield.com",
+        "confidence": "high",
+        "source_url": "https://athomestorefairfield.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ". The store phone number is (641) 472-1016. Our email is info@athomestorefairfield.com At Home Store Fairfield 52 North Main Street Fairfield, I"
+      }
+    ],
+    "role_emails": [
+      "info@athomestorefairfield.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://athomestorefairfield.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://athomestorefairfield.com/collections/staff-favorites",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://athomestorefairfield.com/blogs/news/meet-our-new-staff",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://athomestorefairfield.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://athomestorefairfield.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://athomestorefairfield.com/blogs/news/meet-our-new-staff",
+        "action": "/blogs/news/meet-our-new-staff/comments#comment_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://athomestorefairfield.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "The At Home Store is a family-owned store located in Fairfield, Iowa featuring a collection of goods for the kitchen, gardening, children's clothes and toys, knitting, and housekeeping. We also have a wide selection of food and pantry items including made-in-Iowa food products as well as imported sp",
+    "source_urls": [
+      "https://athomestorefairfield.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "athoniteusa.com",
+    "company_name": "Athonite",
+    "website": "https://www.athoniteusa.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@athoniteusa.com",
+        "confidence": "high",
+        "source_url": "https://www.athoniteusa.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "phone or send us a message through the form below. Email: info@athoniteUSA.com Phone: (650) 544-0788 Loading\u2026"
+      }
+    ],
+    "role_emails": [
+      "info@athoniteusa.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.athoniteusa.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.athoniteusa.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.athoniteusa.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Athonite brings you Byzantine Orthodox Christian Holy Icons from Greece, custom gilding & restoration services and church supplies for all your needs. Shipped from Houston, Texas!",
+    "source_urls": [
+      "https://www.athoniteusa.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "athosliving.com",
+    "company_name": "\u00c1THOS",
+    "website": "https://athosliving.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "collabs@athosliving.com",
+        "confidence": "high",
+        "source_url": "https://athosliving.com/pages/press-and-collaborations",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "images, and other relevant information, please contact us collabs@athosliving.com Partnerships and Collaborations At \u00c1THOS,"
+      }
+    ],
+    "role_emails": [
+      "collabs@athosliving.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://athosliving.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://athosliving.com/pages/press-and-collaborations",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://athosliving.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://athosliving.com/pages/contact-us",
+        "action": "/contact#contact-us-page",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "\u00c1THOS offers powerful, plant-based cleaners for eco-conscious homes. Discover our range of sustainable, effective cleaning solutions \u2013 the perfect blend of natural efficiency and environmental responsibility.",
+    "source_urls": [
+      "https://athosliving.com/pages/press-and-collaborations"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "athreyaherbs.com",
+    "company_name": "Athreya Herbs",
+    "website": "https://www.athreyaherbs.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@athreyaherbs.com",
+        "confidence": "highest",
+        "source_url": "https://www.athreyaherbs.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "other questions concerning your orders, please email us at Info@athreyaherbs.com or call: +1 323-909-2981 For orders larger than 24 units"
+      },
+      {
+        "address": "professionals@athreyaherbs.com",
+        "confidence": "high",
+        "source_url": "https://www.athreyaherbs.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "arger than 24 units and custom label design, please contact professionals@athreyaherbs.com Our Address: 12731 Ramona Blvd, #208 Baldwin Park, C"
+      }
+    ],
+    "role_emails": [
+      "info@athreyaherbs.com",
+      "professionals@athreyaherbs.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.athreyaherbs.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.athreyaherbs.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.athreyaherbs.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.athreyaherbs.com/collections/hair-nail-skin-support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.athreyaherbs.com/collections/healthy-weight-management",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.athreyaherbs.com/collections/stress-management",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.athreyaherbs.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Shop the highest quality of Ayurveda formulas, organic herbs, Indian spices, natural supplements, holistic oils, extracts and more online. Athreya Herbs is here to help support your well-being and health with natural Ayurvedic medicine.",
+    "source_urls": [
+      "https://www.athreyaherbs.com",
+      "https://www.athreyaherbs.com/pages/about-us",
+      "https://www.athreyaherbs.com/pages/contact-us",
+      "https://www.athreyaherbs.com/collections/hair-nail-skin-support",
+      "https://www.athreyaherbs.com/collections/healthy-weight-management",
+      "https://www.athreyaherbs.com/collections/stress-management"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 14
+  },
+  {
+    "company_domain": "athriftynotion.com",
+    "company_name": "A Thrifty Notion",
+    "website": "https://athriftynotion.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@athriftynotion.com",
+        "confidence": "highest",
+        "source_url": "https://athriftynotion.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Need help? Call us 785-560-2333 info@athriftynotion.com Follow Us Facebook Instagram"
+      }
+    ],
+    "role_emails": [
+      "info@athriftynotion.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://athriftynotion.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://athriftynotion.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://athriftynotion.com/pages/join-our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Secondhand fabric store. Vintage, Deadstock and De-stash fabric. Fabric recycling in the Midwest. Sustainable fabrics for thoughtful makers. Drop off unwanted fabric or email us and we can pick it up. Serving the northeast Kansas area. Textile and material recycling in Manhattan, Kansas. Fabric cons",
+    "source_urls": [
+      "https://athriftynotion.com",
+      "https://athriftynotion.com/pages/contact-us",
+      "https://athriftynotion.com/pages/join-our-team"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "athsport.co",
+    "company_name": "ATH",
+    "website": "https://www.athsport.co",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "atibal-optics.com",
+    "company_name": "Atibal Optics",
+    "website": "https://atibal-optics.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://atibal-optics.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atibal-optics.com/pages/pro-staff-application-page",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atibal-optics.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Atibal Sights produces high quality scopes and red dot sights. All of our optics come with a full lifetime warranty, so you can buy with peace of mind.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "atielectrical.com",
+    "company_name": "ATI Electrical Supply",
+    "website": "https://atielectrical.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "mailto:ppg@atielectrical.com",
+        "confidence": "highest",
+        "source_url": "https://atielectrical.com/pages/find-a-location",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "ppg@atielectrical.com",
+        "confidence": "highest",
+        "source_url": "https://atielectrical.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "n, Nevada 915 E. Dale Avenue, Suite 100 Henderson, NV 89044 ppg@atielectrical.com 800-597-9311 Fort Lauderdale / Miami Area 1650 NW 18th St,"
+      },
+      {
+        "address": "support@atielectrical.com",
+        "confidence": "highest",
+        "source_url": "https://atielectrical.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "tance CALL: 800-597-9311 CHAT: Email: support@atielectrical.com Contact Us Have questions? We're happy to help!"
+      },
+      {
+        "address": "info@atielectrical.com",
+        "confidence": "high",
+        "source_url": "https://atielectrical.com/collections/leviton-manufacturing-company",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "u003einfo@atielectrical.com",
+        "confidence": "high",
+        "source_url": "https://atielectrical.com/collections/leviton-manufacturing-company",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "u003eppg@atielectrical.com",
+        "confidence": "high",
+        "source_url": "https://atielectrical.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@atielectrical.com",
+      "mailto:ppg@atielectrical.com",
+      "ppg@atielectrical.com",
+      "support@atielectrical.com",
+      "u003einfo@atielectrical.com",
+      "u003eppg@atielectrical.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://atielectrical.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atielectrical.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atielectrical.com/pages/find-a-location",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atielectrical.com/collections/cable-management",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atielectrical.com/collections/company-switches",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atielectrical.com/collections/compression-lugs",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atielectrical.com/collections/compression-tools",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atielectrical.com/collections/contactors",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atielectrical.com/collections/leviton-manufacturing-company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atielectrical.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Distributor of Electrical Equipment, Wire & Cable And Electrical Components.",
+    "source_urls": [
+      "https://atielectrical.com",
+      "https://atielectrical.com/contact",
+      "https://atielectrical.com/pages/find-a-location",
+      "https://atielectrical.com/collections/cable-management",
+      "https://atielectrical.com/collections/company-switches",
+      "https://atielectrical.com/collections/compression-lugs",
+      "https://atielectrical.com/collections/compression-tools",
+      "https://atielectrical.com/collections/contactors",
+      "https://atielectrical.com/collections/leviton-manufacturing-company",
+      "https://atielectrical.com/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 17
+  },
+  {
+    "company_domain": "atitlanleather.com",
+    "company_name": "Atitlan Leather",
+    "website": "https://atitlanleather.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "adriana@atitlanleather.com",
+        "confidence": "high",
+        "source_url": "https://atitlanleather.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "adriana@atitlanleather.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://atitlanleather.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atitlanleather.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2016-10-27"
+      },
+      {
+        "url": "https://atitlanleather.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://atitlanleather.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Atitlan Leather creates handmade leather goods in a remote area of Lake Atitlan, Guatemala. We create an assortment of leather bag, leather wallets, and leather travel accessories with sustainability and fairness in mind to provide you with an ethical online shopping experience.",
+    "source_urls": [
+      "https://atitlanleather.com",
+      "https://atitlanleather.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "atiziano.com",
+    "company_name": "A.Tiziano",
+    "website": "https://atiziano.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@atiziano.com",
+        "confidence": "highest",
+        "source_url": "https://atiziano.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Call Us: 1\u2013253\u2013480-2800 Mon-Fri: 9:00am - 5:00pm info@atiziano.com If you need to return or exchange an item please visit at"
+      }
+    ],
+    "role_emails": [
+      "info@atiziano.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://atiziano.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atiziano.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atiziano.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "A. Tiziano is the leader in men's urban clothing. Search our store for premium menswear, designed for men of exceptional style, character, and creativity.",
+    "source_urls": [
+      "https://atiziano.com",
+      "https://atiziano.com/contact",
+      "https://atiziano.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  }
+]
