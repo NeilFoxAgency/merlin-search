@@ -1,0 +1,1506 @@
+[
+  {
+    "company_domain": "bakersauthority.com",
+    "company_name": "Bakers Authority",
+    "website": "https://www.bakersauthority.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@bakersauthority.com",
+        "confidence": "highest",
+        "source_url": "https://www.bakersauthority.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Contact Us Information Email: support@bakersauthority.com Address: 59-21 Queens Midtown Expy Maspeth, NY 11378"
+      }
+    ],
+    "role_emails": [
+      "support@bakersauthority.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.bakersauthority.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bakersauthority.com/collections/impression-tools",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bakersauthority.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bakersauthority.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.bakersauthority.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Over 6,000 bulk ingredients, baking tools, & packaging from your trusted supplier, Baker's Authority. Shop wholesale with same-day shipping available.",
+    "source_urls": [
+      "https://www.bakersauthority.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "bakersbodega.com",
+    "company_name": "BakersBodega \u2013\u00a0Baking & Cake Decorating Supplies SuperStore",
+    "website": "https://www.bakersbodega.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "\u2709\ufe0f contact@bakersbodega.com",
+        "title": null,
+        "email": "contact@bakersbodega.com",
+        "source_url": "https://www.bakersbodega.com"
+      }
+    ],
+    "people": [
+      {
+        "name": "\u2709\ufe0f contact@bakersbodega.com",
+        "title": null,
+        "email": "contact@bakersbodega.com",
+        "source_url": "https://www.bakersbodega.com"
+      }
+    ],
+    "emails": [
+      {
+        "address": "contact@bakersbodega.com",
+        "confidence": "highest",
+        "source_url": "https://www.bakersbodega.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Need help? (714) 422-3434 contact@bakersbodega.com Back Ingredients Baking Mixes Fats & O"
+      },
+      {
+        "address": "pictures@bakersbodega.com",
+        "confidence": "highest",
+        "source_url": "https://www.bakersbodega.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "closes 1 hour before store closing. \u2709\ufe0f Email your image pictures@bakersbodega.com \ud83e\uddc1 \ud83c\udf53 \ud83e\udd5a \ud83c\udf6b \ud83e\udd5b \ud83c\udf6a \ud83c\udf82 \ud83c\udf3e \ud83c\udf70 \ud83c\udf6c \ud83e\uddc8 \ud83e\uded0 \ud83c\udf69 \ud83e\udd44 \ud83c\udf53 \ud83c\udf6f \ud83e\udd5a \ud83e\uddc1 \ud83c\udf6b \ud83c\udf82"
+      }
+    ],
+    "role_emails": [
+      "pictures@bakersbodega.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.bakersbodega.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bakersbodega.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bakersbodega.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bakersbodega.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bakersbodega.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bakersbodega.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bakersbodega.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "BakersBodega is one of the best places in Anaheim & Pico Rivera, California, to buy cake decorating supplies, baking materials, fondant, frosting supplies, accessories, food coloring, melting chocolate, and more. Shop online for top brands and fas...",
+    "source_urls": [
+      "https://www.bakersbodega.com",
+      "https://www.bakersbodega.com/team",
+      "https://www.bakersbodega.com/our-team",
+      "https://www.bakersbodega.com/about",
+      "https://www.bakersbodega.com/about-us",
+      "https://www.bakersbodega.com/press",
+      "https://www.bakersbodega.com/contact"
+    ],
+    "reason": null,
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "bakerscandies.com",
+    "company_name": "Bakers Candies",
+    "website": "https://bakerscandies.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://bakerscandies.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bakerscandies.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bakerscandies.com",
+        "action": "/contact#contact_form_modal",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://bakerscandies.com/pages/about-us",
+        "action": "/contact#contact_form_modal",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "The Official Home of Bakers Candies: A True Nebraska Tradition. World-class chocolate meltaways at factory direct prices. Buy them here and share our tradition with the world.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "bakersedge.com",
+    "company_name": "Baker's Edge",
+    "website": "https://bakersedge.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://bakersedge.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bakersedge.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bakersedge.com/About/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bakersedge.com/Contact-Us/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bakersedge.com/Contact-Us/",
+        "action": "https://bakersedge.com/Contact-Us/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Home",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bakersexpress.com",
+    "company_name": "Bakers Express",
+    "website": "https://bakersexpress.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "baldwinpark@bakersexpress.com",
+        "confidence": "highest",
+        "source_url": "https://bakersexpress.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Need help? Call us (562) 777-2251 baldwinpark@bakersexpress.com Follow Us Facebook Instagram"
+      }
+    ],
+    "role_emails": [
+      "baldwinpark@bakersexpress.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bakersexpress.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bakersexpress.com/collections/just-added",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bakersexpress.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bakersexpress.com/pages/about-bakers-express",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bakersexpress.com/pages/shipping-policy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bakersexpress.com/pages/halloween-shop",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bakersexpress.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bakersexpress.com/collections/candy",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bakersexpress.com/collections/candy-color-1",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bakersexpress.com/collections/chocolate-coating",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Shop premium cake decorating supplies, baking tools, candy melts, sprinkles, packaging, and custom edible printing at Bakers Express. Visit our Baldwin Park store or shop online today!",
+    "source_urls": [
+      "https://bakersexpress.com",
+      "https://bakersexpress.com/collections/just-added",
+      "https://bakersexpress.com/",
+      "https://bakersexpress.com/pages/about-bakers-express",
+      "https://bakersexpress.com/pages/shipping-policy",
+      "https://bakersexpress.com/pages/halloween-shop",
+      "https://bakersexpress.com/pages/contact-us",
+      "https://bakersexpress.com/collections/candy",
+      "https://bakersexpress.com/collections/candy-color-1",
+      "https://bakersexpress.com/collections/chocolate-coating"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 18
+  },
+  {
+    "company_domain": "bakersgas.com",
+    "company_name": "Baker's Gas & Welding Supplies, Inc.",
+    "website": "https://bakersgas.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@bakersgas.com",
+        "confidence": "highest",
+        "source_url": "https://bakersgas.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "lp Center Contact Us support@bakersgas.com +1 (877) 930-5690 Follow Us X (Twit"
+      }
+    ],
+    "role_emails": [
+      "support@bakersgas.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bakersgas.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bakersgas.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bakersgas.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bakersgas.com/pages/about-bakers",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bakersgas.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Baker's Gas & Welding is THE one stop shop for the best deals on all welding, cutting and protective gear. Get the top brands, fast shipping, financing options and much much more!",
+    "source_urls": [
+      "https://bakersgas.com",
+      "https://bakersgas.com/contact",
+      "https://bakersgas.com/pages/contact-us",
+      "https://bakersgas.com/pages/about-bakers"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bakershoe.com",
+    "company_name": "Baker's Boots and Clothing",
+    "website": "https://bakershoe.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "orders@bakershoe.com",
+        "confidence": "highest",
+        "source_url": "https://bakershoe.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2014-07-17",
+        "context_snippet": "r your next pair of boots: 1-800-879-0514 or email us at orders@bakershoe.com Who We Are At Baker's we enjoy fishing and camping."
+      }
+    ],
+    "role_emails": [
+      "orders@bakershoe.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bakershoe.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bakershoe.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2014-07-17"
+      },
+      {
+        "url": "https://bakershoe.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bakershoe.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bakershoe.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bakershoe.com",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "The #1 source for Custom White's, Wesco's, and our large selection of boots and shoes including Danner, Red Wing, Lowa, Zamberlan, Crispi, and more.",
+    "source_urls": [
+      "https://bakershoe.com/about-us",
+      "https://bakershoe.com/contact",
+      "https://bakershoe.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bakerskateboards.com",
+    "company_name": "bakerskateboards.com",
+    "website": "https://bakerskateboards.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": "BAKER SKATEBOARDS",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "bakersplus.com",
+    "company_name": "Bakers",
+    "website": "https://flowers.bakersplus.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://flowers.bakersplus.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://flowers.bakersplus.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Order fresh flower arrangements and get same-day flower delivery from the premier florist,  Bakers. Call us at 800-900-6575 or order online.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "bakerspropanegas.com",
+    "company_name": "Baker's Propane",
+    "website": "https://bakerspropanegas.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://bakerspropanegas.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bakerspropanegas.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2022-09-24"
+      },
+      {
+        "url": "https://bakerspropanegas.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bakerspropanegas.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bakerspropanegas.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bakerspropanegas.com/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://bakerspropanegas.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "At Baker's Propane we believe in good ole' fashioned customer service. Call us today to experience how customer service should be!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bakerssecret.com",
+    "company_name": "Baker's Secret",
+    "website": "https://www.bakerssecret.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customercare@bakerssecret.com",
+        "confidence": "high",
+        "source_url": "https://www.bakerssecret.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "customercare@bakerssecret.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.bakerssecret.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bakerssecret.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2021-10-20"
+      },
+      {
+        "url": "https://www.bakerssecret.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.bakerssecret.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Shop the best bakeware pans with Baker's Secret, America's favorite bakeware brand since 1972. Muffin pans, Cookie sheets, Cake pans, Bakeware sets, and more. Free US shipping for all US orders.",
+    "source_urls": [
+      "https://www.bakerssecret.com",
+      "https://www.bakerssecret.com/about-us",
+      "https://www.bakerssecret.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "bakerstonebox.com",
+    "company_name": "BakerStone",
+    "website": "https://bakerstonebox.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Email: support@bakerstonebox.com",
+        "title": null,
+        "email": "support@bakerstonebox.com",
+        "source_url": "https://bakerstonebox.com/pages/contact"
+      }
+    ],
+    "people": [
+      {
+        "name": "Email: support@bakerstonebox.com",
+        "title": null,
+        "email": "support@bakerstonebox.com",
+        "source_url": "https://bakerstonebox.com/pages/contact"
+      }
+    ],
+    "emails": [
+      {
+        "address": "support@bakerstonebox.com",
+        "confidence": "highest",
+        "source_url": "https://bakerstonebox.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "info For customer service Call: 855-657-6836 Email: support@bakerstonebox.com For sales inquiries Email: mark.rau@bakerstonebox.com"
+      },
+      {
+        "address": "mark.rau@bakerstonebox.com",
+        "confidence": "high",
+        "source_url": "https://bakerstonebox.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "l: support@bakerstonebox.com For sales inquiries Email: mark.rau@bakerstonebox.com Physical Address: 10501 Valley Blvd, #1824 El Monte,"
+      }
+    ],
+    "role_emails": [
+      "mark.rau@bakerstonebox.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bakerstonebox.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bakerstonebox.com/pages/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bakerstonebox.com/pages/partner-support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bakerstonebox.com/pages/about-bakerstone",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bakerstonebox.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bakerstonebox.com/pages/contact",
+        "action": "/contact#contact-template--16773218959616__c0d0459d-32a2-40ba-9f1d-16a9be386f30",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Transform your outdoor grilling experience with the BakerStone pizza oven for the grill! Portable & outdoor pizza ovens are cooking anywhere, anytime.",
+    "source_urls": [
+      "https://bakerstonebox.com/pages/contact"
+    ],
+    "reason": null,
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "bakerybling.com",
+    "company_name": "Bakery Bling",
+    "website": "https://bakerybling.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Empowering She",
+        "title": "Founder",
+        "email": "empoweringshe@bakerybling.com",
+        "source_url": "https://bakerybling.com/about"
+      }
+    ],
+    "people": [
+      {
+        "name": "Empowering She",
+        "title": "Founder",
+        "email": "empoweringshe@bakerybling.com",
+        "source_url": "https://bakerybling.com/about"
+      }
+    ],
+    "emails": [
+      {
+        "address": "customerservice@bakerybling.com",
+        "confidence": "high",
+        "source_url": "https://bakerybling.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Email customerservice@bakerybling.com"
+      },
+      {
+        "address": "empoweringshe@bakerybling.com",
+        "confidence": "medium",
+        "source_url": "https://bakerybling.com/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "customerservice@bakerybling.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bakerybling.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bakerybling.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bakerybling.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bakerybling.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bakerybling.com/blogs/news/women-owned-company-bakery-bling-is-shaking-up-the-baking-industry",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bakerybling.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bakerybling.com/pages/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bakerybling.com/pages/about-bakery-bling",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bakerybling.com/pages/about-lauren-brooks",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bakerybling.com/blogs/news/women-owned-company-bakery-bling-is-shaking-up-the-baking-industry",
+        "action": "/blogs/news/women-owned-company-bakery-bling-is-shaking-up-the-baking-industry/comments#comment_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Bakery Bling\u2122 - the home of the original Glittery Sugar\u2122, Designer Cookie Kits, and Insta-House Gingerbread Houses. All made in a nut-free facility. Ready to decorate your next cookie, cupcake, cake, or gingerbread house!",
+    "source_urls": [
+      "https://bakerybling.com/about",
+      "https://bakerybling.com/contact",
+      "https://bakerybling.com/pages/contact-us",
+      "https://bakerybling.com/pages/about-bakery-bling"
+    ],
+    "reason": null,
+    "pages_fetched": 15
+  },
+  {
+    "company_domain": "bakerylorraine.com",
+    "company_name": "Bakery Lorraine",
+    "website": "https://bakerylorraine.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@bakerylorraine.com",
+        "confidence": "high",
+        "source_url": "https://bakerylorraine.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "back! Feel free to email us with questions or comments at hello@bakerylorraine.com. We will get back to you as soon as we can. For c"
+      }
+    ],
+    "role_emails": [
+      "hello@bakerylorraine.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bakerylorraine.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bakerylorraine.com/pages/hours-and-locations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bakerylorraine.com/pages/hours-and-locations-boerne",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bakerylorraine.com/pages/hours-and-locations-austin",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bakerylorraine.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bakerylorraine.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "We are a small, artisanal bakery based in San Antonio, Boerne and Austin, TX specializing in French pastries, macaron, cakes, viennoisseries, and breakfast pastries. We also offer a full espresso bar, coffee drinks, breakfast and lunch.",
+    "source_urls": [
+      "https://bakerylorraine.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "bakerywholesalers.com",
+    "company_name": "Bakery Wholesalers",
+    "website": "https://bakerywholesalers.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://bakerywholesalers.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bakerywholesalers.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bakerywholesalers.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bakerywholesalers.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bakerywholesalers.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bakerywholesalers.com/pages/how-to-find-the-right-location-for-a-donut-shop",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Bakery Wholesalers: Your ultimate donut shop supplier! From professional donut makers to mini machines, we've got everything to create perfect glazed donuts, trendy mochi donuts, and more. We offer top-quality US made fryers, proofers, and doughnut cutters ensure bakery-quality results every time.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "bakeshophawaii.com",
+    "company_name": "www.bakeshophawaii.com",
+    "website": "https://www.bakeshophawaii.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "bebanez@bakeshophawaii.com",
+        "confidence": "high",
+        "source_url": "https://www.bakeshophawaii.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "free 1-866-366-3501 Mail orders : Online Store Email: bebanez@bakeshophawaii.com Please call us to speak with a bake shop staff member or"
+      },
+      {
+        "address": "zkennedy@bakeshophawaii.com",
+        "confidence": "high",
+        "source_url": "https://www.bakeshophawaii.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "edback - I nquiries Phone: 808 - 480 - 3707 Email: zkennedy@bakeshophawaii.com Phone: 808-929-7343 or toll-free 1-866-366-3501 Mail"
+      }
+    ],
+    "role_emails": [
+      "bebanez@bakeshophawaii.com",
+      "zkennedy@bakeshophawaii.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.bakeshophawaii.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Visit Punaluu Bake Shop and try our famous Hawaiian sweet bread and malasadas on the way to Volcanoes National Park",
+    "source_urls": [
+      "https://www.bakeshophawaii.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "bakesonline.com",
+    "company_name": "Bakes Marine",
+    "website": "https://www.bakesonline.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.bakesonline.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bakesonline.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bakesonline.com/collections/canvas-cover-support-systems",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bakesonline.com/products/boat-bling-pro-staff-bundle-1",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bakesonline.com/pages/bakes-about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bakesonline.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.bakesonline.com/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.bakesonline.com/products/boat-bling-pro-staff-bundle-1",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.bakesonline.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Here at Bakes Marine, we are more than just another watersports and boat products retailer. We are enthusiasts. We have sold, worked on and played behind boats for more than 30 years. Our combined experience of more than a century has helped us find the best boating and watersports products for our ",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "bakesupplyplus.com",
+    "company_name": "bakesupplyplus.com",
+    "website": "https://bakesupplyplus.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": "Bake Supply Plus by D&G Occasions offers the best selection of baking supplies in Florida. We have everything to help you create your favorite desserts. We supply you every step of the way with all the latest and greatest baking tools, ingredients, flavors, candy molds, caterware, party decorations,",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "bakinghive.com",
+    "company_name": "The Baking Hive",
+    "website": "https://bakinghive.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://bakinghive.com",
+        "page_type": "home",
+        "source_type": "archived",
+        "snapshot_date": "2026-02-12"
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Bakery in Salt Lake City Utah serving delectable desserts by a local chef.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "bakingsteel.com",
+    "company_name": "Baking Steel \u00ae",
+    "website": "https://bakingsteel.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Andris Lagsdin Founder",
+        "title": null,
+        "email": "info@bakingsteel.com",
+        "source_url": "https://bakingsteel.com/pages/press",
+        "association": "proximity"
+      }
+    ],
+    "people": [
+      {
+        "name": "Andris Lagsdin Founder",
+        "title": null,
+        "email": "info@bakingsteel.com",
+        "source_url": "https://bakingsteel.com/pages/press",
+        "association": "proximity"
+      }
+    ],
+    "emails": [
+      {
+        "address": "info@bakingsteel.com",
+        "confidence": "highest",
+        "source_url": "https://bakingsteel.com/pages/press",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ", steel, or American manufacturing and want to talk, email info@bakingsteel.com . I answer my own email. Andris Lagsdin Founder, Baking S"
+      }
+    ],
+    "role_emails": [
+      "info@bakingsteel.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bakingsteel.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bakingsteel.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bakingsteel.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bakingsteel.com/pages/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bakingsteel.com/contact",
+        "action": "/contact#contact-template--23230218109017__contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://bakingsteel.com/pages/contact-us",
+        "action": "/contact#contact-template--23230218109017__contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Discover Baking Steel\u00ae the original pizza steel that transforms your home oven into a high-heat pizza oven. Make crispy, restaurant-quality pizza at home.",
+    "source_urls": [
+      "https://bakingsteel.com",
+      "https://bakingsteel.com/contact",
+      "https://bakingsteel.com/pages/contact-us",
+      "https://bakingsteel.com/pages/press"
+    ],
+    "reason": null,
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bakitbox.com",
+    "company_name": "B\u0101KIT Box",
+    "website": "https://www.bakitbox.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "bakkenbooks.com",
+    "company_name": "Bakken Books",
+    "website": "https://bakkenbooks.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@bakkenbooks.com",
+        "confidence": "highest",
+        "source_url": "https://bakkenbooks.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "chool Resources About Need help? info@bakkenbooks.com Follow Us Facebook Instagram"
+      }
+    ],
+    "role_emails": [
+      "info@bakkenbooks.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bakkenbooks.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bakkenbooks.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bakkenbooks.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bakkenbooks.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bakkenbooks.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bakkenbooks.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bakkenbooks.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bakkenbooks.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Chapter books full of adventure! Bakken Books offers wholesome kids books you can trust. Discover children's chapter books that inspire and entertain.",
+    "source_urls": [
+      "https://bakkenbooks.com",
+      "https://bakkenbooks.com/team",
+      "https://bakkenbooks.com/our-team",
+      "https://bakkenbooks.com/about",
+      "https://bakkenbooks.com/about-us",
+      "https://bakkenbooks.com/pages/about-us",
+      "https://bakkenbooks.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "baklavafleamarket.com",
+    "company_name": "BAKLAVA FLEA MARKET - Official Action Bronson Store",
+    "website": "https://baklavafleamarket.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://baklavafleamarket.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://baklavafleamarket.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://baklavafleamarket.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://baklavafleamarket.com/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://baklavafleamarket.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://baklavafleamarket.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://baklavafleamarket.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://baklavafleamarket.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://baklavafleamarket.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "The official online store of Action Bronson.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "bakscape.com",
+    "company_name": "bakscape.com",
+    "website": "https://bakscape.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "balance7.com",
+    "company_name": "Balance7",
+    "website": "https://balance7.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "robots_disallowed",
+    "pages_fetched": 1
+  }
+]
