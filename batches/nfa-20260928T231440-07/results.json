@@ -1,0 +1,1241 @@
+[
+  {
+    "company_domain": "baybridgeaquarium.com",
+    "company_name": "Bay Bridge Aquarium",
+    "website": "https://www.baybridgeaquarium.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.baybridgeaquarium.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.baybridgeaquarium.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.baybridgeaquarium.com/pages/location",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "San Francisco/Oakland's premier aquatic store experience, specializing in saltwater, freshwater, reef, food, tanks, and other premium fish supplies.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "baycoproducts.com",
+    "company_name": "www.baycoproducts.com",
+    "website": "https://www.baycoproducts.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": "Since 1984, Bayco Products\u2019 vast array of portable & corded lighting products, have been the preferred choice of professionals and discriminating co...",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "baydog.com",
+    "company_name": "BAYDOG",
+    "website": "https://baydog.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@baydog.com",
+        "confidence": "highest",
+        "source_url": "https://baydog.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2019-12-14",
+        "context_snippet": "roducts, please fill out the email form below, write us at info@baydog.com or call us at (443) 808-8664. For media inquiries, pleas"
+      },
+      {
+        "address": "mikey@baydog.com",
+        "confidence": "highest",
+        "source_url": "https://baydog.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2019-12-14",
+        "context_snippet": "at (443) 808-8664. For media inquiries, please contact: mikey@baydog.com . Name * First Last Phone"
+      }
+    ],
+    "role_emails": [
+      "info@baydog.com",
+      "mikey@baydog.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://baydog.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://baydog.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2019-12-14"
+      },
+      {
+        "url": "https://baydog.com/collections/about-baydog",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://baydog.com/pages/company-story",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://baydog.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://baydog.com/contact",
+        "action": "/contact/#gf_1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://baydog.com/pages/contact",
+        "action": "/contact#contact-template--27436687229223__contact_form_thr3Vm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Canine Adventure Gear",
+    "source_urls": [
+      "https://baydog.com/contact",
+      "https://baydog.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "bayfc.com",
+    "company_name": "Bay FC |",
+    "website": "https://shop.bayfc.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "baygardens.com",
+    "company_name": "Bay Gardens",
+    "website": "https://baygardens.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@baygardens.com",
+        "confidence": "high",
+        "source_url": "https://baygardens.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "ninfo@baygardens.com",
+        "confidence": "high",
+        "source_url": "https://baygardens.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@baygardens.com",
+      "ninfo@baygardens.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://baygardens.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://baygardens.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://baygardens.com/pages/contact-new-site",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://baygardens.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://baygardens.com/products/leylandcypress",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://baygardens.com/collections/evergreen-privacy-plants/products/leylandcypress",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://baygardens.com/pages/contact-new-site",
+        "action": "/contact#contact-template--18370383806515__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://baygardens.com/pages/contact-us",
+        "action": "/contact#contact-template--18370383806515__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Offering Privacy Trees, Evergreens, Leyland Cypress, Emerald Green Arborvitae, Green Giant Arborvitae, Privet Hedge, Proven Winner Shrubs & more online. Order trees & shrubs online today and have them delivered to your door. Retail store located in East Moriches, NY. Family owned business since 1957",
+    "source_urls": [
+      "https://baygardens.com",
+      "https://baygardens.com/pages/about-us",
+      "https://baygardens.com/pages/contact-new-site",
+      "https://baygardens.com/pages/contact-us",
+      "https://baygardens.com/products/leylandcypress",
+      "https://baygardens.com/collections/evergreen-privacy-plants/products/leylandcypress"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 14
+  },
+  {
+    "company_domain": "baylenlevine.com",
+    "company_name": "BAYLEN LEVINE",
+    "website": "https://baylenlevine.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://baylenlevine.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "BAYLEN LEVINE'S only OFFICIAL Merch site. Shop: Frick Vape, Mature People are Weenies, Never Grow Up, Benitez, King of the Youth, Ben Dover, It's Just a PS4, Juul Isn't Cuul, and more.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "baylorschool.org",
+    "company_name": "Baylor School Spirit Store",
+    "website": "https://shop.baylorschool.org",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://shop.baylorschool.org",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.baylorschool.org/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.baylorschool.org/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://shop.baylorschool.org/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "The Baylor School Online Spirit Store offers a curated selection of Baylor branded apparel and accessories to outfit your every day. Our assortment is always growing and changing, so check back often for new brands and products to show your Red Raider spirit year round.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bayonetrecords.com",
+    "company_name": "Bayonet Records",
+    "website": "https://www.bayonetrecords.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@bayonetrecords.com",
+        "confidence": "highest",
+        "source_url": "https://www.bayonetrecords.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Info Discography Refund Policy Contact info@bayonetrecords.com orders@bayonetrecords.com \u00a9 2026 Bayonet Rec"
+      },
+      {
+        "address": "orders@bayonetrecords.com",
+        "confidence": "highest",
+        "source_url": "https://www.bayonetrecords.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "fund Policy Contact info@bayonetrecords.com orders@bayonetrecords.com \u00a9 2026 Bayonet Records Choosing a"
+      }
+    ],
+    "role_emails": [
+      "info@bayonetrecords.com",
+      "orders@bayonetrecords.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.bayonetrecords.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Bayonet Records Official Website and Webstore",
+    "source_urls": [
+      "https://www.bayonetrecords.com"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "bayoptiks.com",
+    "company_name": "Bayoptiks",
+    "website": "https://bayoptiks.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "sales@bayoptiks.com",
+        "confidence": "highest",
+        "source_url": "https://bayoptiks.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "sponse. 6743 Dublin Blvd, Suite 31 Dublin, CA 94568 sales@bayoptiks.com Monday \u2013 Friday 10 AM to 5 PM"
+      }
+    ],
+    "role_emails": [
+      "sales@bayoptiks.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bayoptiks.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bayoptiks.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bayoptiks.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Discover premier custom BMW headlights, taillights, and performance products at BayOptiks. Transform your vehicle with top-quality products. Purchase Now!",
+    "source_urls": [
+      "https://bayoptiks.com",
+      "https://bayoptiks.com/pages/about-us",
+      "https://bayoptiks.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "bayoublanks.com",
+    "company_name": "Bayou Blanks",
+    "website": "https://www.bayoublanks.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customerservice@bayoublanks.com",
+        "confidence": "high",
+        "source_url": "https://www.bayoublanks.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "customerservice@bayoublanks.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.bayoublanks.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bayoublanks.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2015-09-04"
+      },
+      {
+        "url": "https://www.bayoublanks.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2015-09-04"
+      },
+      {
+        "url": "https://www.bayoublanks.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bayoublanks.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.bayoublanks.com/contact",
+        "action": "/contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Monogram retail and wholesale available. Bayou Blanks",
+    "source_urls": [
+      "https://www.bayoublanks.com",
+      "https://www.bayoublanks.com/pages/contact-us",
+      "https://www.bayoublanks.com/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bayouclassic.com",
+    "company_name": "bayouclassic.com",
+    "website": "https://www.bayouclassic.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customerservice@bayouclassic.com",
+        "confidence": "highest",
+        "source_url": "https://www.bayouclassic.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ct us online, over the phone, or visit us in store. Email: customerservice@bayouclassic.com Phone: 601-591-1350 Address 101 Cypress Way Brandon, MS 39"
+      }
+    ],
+    "role_emails": [
+      "customerservice@bayouclassic.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.bayouclassic.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bayouclassic.com/collections/steamers",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bayouclassic.com/collections/cookware?filter.p.m.custom.cooking_method=Steam",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bayouclassic.com/collections/cookers?filter.p.m.custom.burner_type=High+Pressure",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bayouclassic.com/collections/tools-accessories?filter.p.m.custom.cooking_method=Steam",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bayouclassic.com/pages/about-us#our-mission",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bayouclassic.com/pages/about-us#our-people",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bayouclassic.com/pages/about-us#our-history",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bayouclassic.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bayouclassic.com/products/82-qt-steam-boil-kit",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.bayouclassic.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Exploring the bayous and marshlands of southern Louisiana, crabbing from the shore, camping on the beach, duck hunting, bass fishing \u2013 these are the outdoor experiences upon which Bayou Classic was founded \u2013 and at the end of the day, it was always about cooking.",
+    "source_urls": [
+      "https://www.bayouclassic.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 18
+  },
+  {
+    "company_domain": "bayouwithlove.com",
+    "company_name": "Bayou with Love",
+    "website": "https://bayouwithlove.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://bayouwithlove.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bayouwithlove.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bayouwithlove.com/blogs/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bayouwithlove.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bayouwithlove.com/contact",
+        "action": "/contact#contact-template--18403698704581__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://bayouwithlove.com/pages/contact",
+        "action": "/contact#contact-template--18403698704581__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Socially conscious fine jewelry, engagement, beauty and accessories. Designed by Nikki Reed, an actress, conservationist, musician and designer. We support local craftsmen, artisans, and ethical factories.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "baysidebrushco.com",
+    "company_name": "Bayside Brush Co.",
+    "website": "https://baysidebrushco.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@baysidebrushco.com",
+        "confidence": "high",
+        "source_url": "https://baysidebrushco.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@baysidebrushco.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://baysidebrushco.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://baysidebrushco.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://baysidebrushco.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://baysidebrushco.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Bayside Brush Co.: Kent brushes (Royal Warrant, est. 1777), Giorgio Italian combs & Camila Paris accessories. Handmade in England, Italy & France. Free shipping $50+.",
+    "source_urls": [
+      "https://baysidebrushco.com",
+      "https://baysidebrushco.com/pages/about-us",
+      "https://baysidebrushco.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "baysmokes.com",
+    "company_name": "BaySmokes",
+    "website": "https://baysmokes.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hey@baysmokes.com",
+        "confidence": "highest",
+        "source_url": "https://baysmokes.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Customer Support Questions about an existing order? Contact hey@baysmokes.com for assistance. Real People"
+      }
+    ],
+    "role_emails": [
+      "hey@baysmokes.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://baysmokes.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://baysmokes.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "We offer premium organically grown THCa flower and other THCa products that are thoroughly inspected and third party lab tested for pesticides, heavy metals and many others. We strive to offer the best quality THCa flower at the best prices in the USA!",
+    "source_urls": [
+      "https://baysmokes.com",
+      "https://baysmokes.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "baysonr.com",
+    "company_name": "baysonr.com",
+    "website": "https://baysonr.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": "Bayson-R Motorsports specialized in automotive styling products aftermarket Aero Kits. Front Lip, Front Bumper, Rear Bumper, Splitter, Side Skirts, Rear Aprons, Diffusers, Spoiler, Window visors & more. For over 20 years, Bayson R produces unique high-quality care re-styling products for all major c",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "bazaarvoice.com",
+    "company_name": "B:eauty",
+    "website": "https://demostore.bazaarvoice.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "bazaralhaya.com",
+    "company_name": "Bazar Al Haya",
+    "website": "https://www.bazaralhaya.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "salam@bazaralhaya.com",
+        "confidence": "high",
+        "source_url": "https://www.bazaralhaya.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Bazar Al Haya . 1838 Bath Avenue Brooklyn NY 11214 Email : salam@bazaralhaya.com Currency USD $"
+      }
+    ],
+    "role_emails": [
+      "salam@bazaralhaya.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.bazaralhaya.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bazaralhaya.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bazaralhaya.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.bazaralhaya.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "For modest fashion, go no farther than Bazar Al Haya, a woman's apparel brand specializing in modest attire. We are a family-owned business known for our high-quality products and superior customer service. We've worked hard to keep our prices affordable while maintaining a high level of quality in ",
+    "source_urls": [
+      "https://www.bazaralhaya.com",
+      "https://www.bazaralhaya.com/pages/about-us",
+      "https://www.bazaralhaya.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bazicstore.com",
+    "company_name": "Bazicstore",
+    "website": "https://www.bazicstore.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": "BAZIC Products\u00ae is specialized in school, office, and art supplies. Our company is dedicated to providing the best value to all of our customers.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "bazooka.com",
+    "company_name": "Bazooka",
+    "website": "https://bazooka.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@bazooka.com",
+        "confidence": "highest",
+        "source_url": "https://bazooka.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Contact Us Tech Support: 1-800-THE-TUBE Tech Support: info@bazooka.com Order Support: info@bazooka.com Hours: Monday to Friday 8:"
+      }
+    ],
+    "role_emails": [
+      "info@bazooka.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bazooka.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bazooka.com",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Bazooka Bass Tubes enclosures amplify the bass and give the most efficient output of sound available. Compact and high-quality speakers, soundbars and off-roading audio gear for the ultimate music experience.",
+    "source_urls": [
+      "https://bazooka.com"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "bazzaalbox.com",
+    "company_name": "BAZZAAL BOX",
+    "website": "https://www.bazzaalbox.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.bazzaalbox.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bazzaalbox.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bazzaalbox.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bazzaalbox.com/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bazzaalbox.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bazzaalbox.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bazzaalbox.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bazzaalbox.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bazzaalbox.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Get a box full of K-beauty products worth up to $200, plus exclusive access to discounts up to 80% off, starting at just $59. Free Worldwide Shipping. Every box sale is a limited-time deal. No Subscription Needed.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "bbandfco.com",
+    "company_name": "Bbandfco",
+    "website": "https://bbandfco.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "paige@bbandfco.com",
+        "confidence": "highest",
+        "source_url": "https://bbandfco.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "r Contact paige@bbandfco.com Welcome"
+      },
+      {
+        "address": "patrick@bbandfco.com",
+        "confidence": "high",
+        "source_url": "https://bbandfco.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "paige@bbandfco.com",
+      "patrick@bbandfco.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bbandfco.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bbandfco.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bbandfco.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Since the development of plastics, ferrules have been the final custom touch on a set of clubs. Some of our designs are based on classic patterns with twists and many others are new creations. When you install BB&F Co. ferrules on your clubs, you're dressing them with the finest ferrules available o",
+    "source_urls": [
+      "https://bbandfco.com",
+      "https://bbandfco.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "bbb.org",
+    "company_name": "BBB Member Store",
+    "website": "https://boston.shop.member-ab.bbb.org",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://boston.shop.member-ab.bbb.org",
+        "page_type": "home",
+        "source_type": "archived",
+        "snapshot_date": "2024-12-25"
+      },
+      {
+        "url": "https://boston.shop.member-ab.bbb.org/collections/customer-engagement-and-management",
+        "page_type": "team",
+        "source_type": "archived",
+        "snapshot_date": "2024-11-12"
+      },
+      {
+        "url": "https://boston.shop.member-ab.bbb.org/collections/social-media",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2024-11-12"
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "BBB Member Store",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bbboutdoors.com",
+    "company_name": "Bass Bucks and Birds",
+    "website": "https://bbboutdoors.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "bbc.com",
+    "company_name": "BBC Shop US",
+    "website": "https://shop.bbc.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://shop.bbc.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Shop official BBC merch including Doctor Who shirts, figures, mugs & gifts. Explore BBC Earth, Bluey & more at the BBC Shop - your source for exclusive BBC merchandise!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "bbcexchange.com",
+    "company_name": "Baseball Card Exchange",
+    "website": "https://bbcexchange.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Memorabilia Store General",
+        "title": null,
+        "email": "phil@bbcexchange.com",
+        "source_url": "https://bbcexchange.com/contact",
+        "association": "proximity"
+      }
+    ],
+    "people": [
+      {
+        "name": "Memorabilia Store General",
+        "title": null,
+        "email": "phil@bbcexchange.com",
+        "source_url": "https://bbcexchange.com/contact",
+        "association": "proximity"
+      }
+    ],
+    "emails": [
+      {
+        "address": "phil@bbcexchange.com",
+        "confidence": "highest",
+        "source_url": "https://bbcexchange.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "collection please call Phil @ 219-741-5099 or email him at Phil@bbcexchange.com Always know what we ar"
+      },
+      {
+        "address": "webstore@bbcexchange.com",
+        "confidence": "highest",
+        "source_url": "https://bbcexchange.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "6 (219) 515-6908 (fax) webstore@bbcexchange.com Sunday 12 PM to 4 PM CST Mon - Fri 10 A"
+      }
+    ],
+    "role_emails": [
+      "phil@bbcexchange.com",
+      "webstore@bbcexchange.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bbcexchange.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bbcexchange.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2019-05-28"
+      },
+      {
+        "url": "https://bbcexchange.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bbcexchange.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2019-05-27"
+      },
+      {
+        "url": "https://bbcexchange.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bbcexchange.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Baseball Card Exchange",
+    "source_urls": [
+      "https://bbcexchange.com/about-us",
+      "https://bbcexchange.com/contact",
+      "https://bbcexchange.com/pages/contact"
+    ],
+    "reason": null,
+    "pages_fetched": 10
+  }
+]
