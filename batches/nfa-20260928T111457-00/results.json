@@ -1,0 +1,1751 @@
+[
+  {
+    "company_domain": "armynavygear.com",
+    "company_name": "Army Navy Gear",
+    "website": "https://armynavygear.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://armynavygear.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://armynavygear.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://armynavygear.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://armynavygear.com/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://armynavygear.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://armynavygear.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://armynavygear.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://armynavygear.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://armynavygear.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "armynavymarinestore.com",
+    "company_name": "Army Navy Marine Store",
+    "website": "https://armynavymarinestore.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "webmaster@armynavymarinestore.com",
+        "confidence": "highest",
+        "source_url": "https://armynavymarinestore.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2023-06-07",
+        "context_snippet": ", Central Point, US, 97502 541-830-6425 webmaster@armynavymarinestore.com Information Home Site Map Testimonials"
+      }
+    ],
+    "role_emails": [
+      "webmaster@armynavymarinestore.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://armynavymarinestore.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://armynavymarinestore.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2023-06-07"
+      },
+      {
+        "url": "https://armynavymarinestore.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://armynavymarinestore.com/pages/contact",
+        "action": "/contact#ContactForm-AY1NHVkV5TExERVRkN__contact_form_jWxXkm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Veteran owned and operated since 1997. Shop the best military surplus, tactical, and outdoor survival gear you can trust in any situation.",
+    "source_urls": [
+      "https://armynavymarinestore.com/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "armynavynow.com",
+    "company_name": "Army Navy Now",
+    "website": "https://www.armynavynow.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.armynavynow.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.armynavynow.com/collections/rainbow-sandals/products/rainbow-kids-premier-leather-single-layer-wide-strap-expresso",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.armynavynow.com/collections/rainbow-sandals/products/rainbow-flirty-braidy-girls-leather-sandals-expresso",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.armynavynow.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.armynavynow.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Hartsville Army Navy Store! The Ultimate Source from the Top Brands for all things Military, Tactical, Camo! Plus Western Boots and Work Boots. Sunglasses too!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "arnallgrocery.com",
+    "company_name": "Arnall Grocery",
+    "website": "https://arnallgrocery.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "sprophett@arnallgrocery.com",
+        "confidence": "high",
+        "source_url": "https://arnallgrocery.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "sprophett@arnallgrocery.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://arnallgrocery.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://arnallgrocery.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2020-07-28"
+      },
+      {
+        "url": "https://arnallgrocery.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "ARNALL GROCERY COMPANY IS A LOCALLY OWNED AND OPERATED BUSINESS THAT CARRIES FEED, SEED, FERTILIZER, EROSION CONTROL, HAY, WHEATSTRAW, PINE STRAW, LIVE BAIT, GIFT CARDS, CLEANING SUPPLIES, TOILET PAPER, CANNED GOODS, AND MUCH MORE. DELIVERY IS AVAILABLE. EXCELLENT PRODUCT SELECTION AND UNMATCHED CUS",
+    "source_urls": [
+      "https://arnallgrocery.com",
+      "https://arnallgrocery.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "arnoldspumpclub.com",
+    "company_name": "Arnold's Pump Club",
+    "website": "https://arnoldspumpclub.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://arnoldspumpclub.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Arnold's Pump Club is the official email, podcast, and merchandise store of Arnold Schwarzenegger.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "arnottcycles.com",
+    "company_name": "Arnott\u00ae Motorcycle Air Suspension",
+    "website": "https://www.arnottcycles.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.arnottcycles.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.arnottcycles.com/collections/suspensions-accessories/Compressor-Mounting-Kit",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.arnottcycles.com/collections/suspensions-accessories/Pressure-Gauge",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.arnottcycles.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.arnottcycles.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.arnottcycles.com/pages/about",
+        "action": "/contact#contact-template--19203262611706__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.arnottcycles.com/pages/contact",
+        "action": "/contact#contact-template--19203262447866__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Offering Motorcycle Air Suspension Kits that are designed and tuned specifically for motorcycles. Arnott's affordable, high-quality, aftermarket motorcycle air suspension products provide less painful bottoming, and a smoother more comfortable motorcycle ride.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "aroeve.com",
+    "company_name": "AROEVE",
+    "website": "https://aroeve.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "mkt@aroeve.com",
+        "confidence": "high",
+        "source_url": "https://aroeve.com/pages/about-aroeve",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "atforms are not authorized. How to contact us mkt@aroeve.com We believe that success comes from cooperation and sharing."
+      }
+    ],
+    "role_emails": [
+      "mkt@aroeve.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://aroeve.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aroeve.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aroeve.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aroeve.com/pages/about-aroeve",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "AROEVE is a brand that offers high-quality air purifiers that are both innovative and stylish. With a commitment to allowing release breathing instinct and improving air quality, as well as a focus on creating products that help individuals breathe in fresh air and improve their overall well-being.",
+    "source_urls": [
+      "https://aroeve.com/pages/about-aroeve"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "aroidmarket.com",
+    "company_name": "Aroid Market",
+    "website": "https://aroidmarket.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://aroidmarket.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aroidmarket.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aroidmarket.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://aroidmarket.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "indoor plants-house plants-scindapsus treubii dark form-nursery-philodendron-monstera-anthurium-aroid plant-philodendron dark lord-tropical plants",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "aroma360.com",
+    "company_name": "Aroma360",
+    "website": "https://aroma360.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://aroma360.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aroma360.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aroma360.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aroma360.com/pages/media-mentions",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "As the leading scent company in marketing and branding, Aroma360 prides itself on providing the perfect scenting solutions for businesses and homes.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "aromaconcepts.com",
+    "company_name": "Aroma Concepts LLC",
+    "website": "https://www.aromaconcepts.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support.usa@aromaconcepts.com",
+        "confidence": "highest",
+        "source_url": "https://www.aromaconcepts.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "L 32811 support.usa@aromaconcepts.com Instagram"
+      }
+    ],
+    "role_emails": [
+      "support.usa@aromaconcepts.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.aromaconcepts.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.aromaconcepts.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.aromaconcepts.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.aromaconcepts.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Welcome to Aroma Concepts, your passport to a world of captivating fragrances! Explore our exquisite collection of long-lasting perfumes, each crafted to evoke unique sensations and memories. From the earthy notes of woody scents to the alluring allure of spicy and floral blends, and the luxurious d",
+    "source_urls": [
+      "https://www.aromaconcepts.com",
+      "https://www.aromaconcepts.com/pages/about-us",
+      "https://www.aromaconcepts.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "aromaleighcosmetics.com",
+    "company_name": "Aromaleigh Cosmetics",
+    "website": "https://www.aromaleighcosmetics.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.aromaleighcosmetics.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.aromaleighcosmetics.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2016-07-09"
+      },
+      {
+        "url": "https://www.aromaleighcosmetics.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2016-07-11"
+      },
+      {
+        "url": "https://www.aromaleighcosmetics.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.aromaleighcosmetics.com/pages/aromaleigh-history-and-company-timeline-from-1998-to-present?pb=0",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.aromaleighcosmetics.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.aromaleighcosmetics.com/contact",
+        "action": "http://aromaleighcosmetics.com/pages.php?action=sendContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.aromaleighcosmetics.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Artisan crafted mineral cosmetics, loose powder pigments, nourishing lip balms and more. Handcrafting indie cosmetics since 1998. Affordable sample sizes are available of all loose powder cosmetics. Choose from a vast foundation shade range and over 500 eyeshadows, highlighters, rouge and blush.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "aromapassions.com",
+    "company_name": "aromapassions",
+    "website": "https://aromapassions.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@aromapassions.com",
+        "confidence": "highest",
+        "source_url": "https://aromapassions.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "FAQ aromapassions info@aromapassions.com Aroma Passions Elk Grove CA 95759 Office Hours: Mon-Fri 9AM"
+      }
+    ],
+    "role_emails": [
+      "info@aromapassions.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://aromapassions.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aromapassions.com/pages/about-best-perfume-dupe-company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aromapassions.com/pages/contact-best-perfume-dupe-company",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://aromapassions.com/pages/contact-best-perfume-dupe-company",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Aroma Passions is the leading perfume dupe company offering a wide range of perfume dupes. Buy fragrances inspired by Creed Aventus, SVGE ELXR & more. See more.",
+    "source_urls": [
+      "https://aromapassions.com",
+      "https://aromapassions.com/pages/about-best-perfume-dupe-company",
+      "https://aromapassions.com/pages/contact-best-perfume-dupe-company"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "aromaplan.com",
+    "company_name": "AromaPlan",
+    "website": "https://www.aromaplan.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@aromaplan.com",
+        "confidence": "high",
+        "source_url": "https://www.aromaplan.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "support@aromaplan.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.aromaplan.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.aromaplan.com/pages/contact-us-v2",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.aromaplan.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Discover our range of Fragrance And Scent For Life. Shop now and Ignite your sensory experience with our array of fragrance oils and diffusers",
+    "source_urls": [
+      "https://www.aromaplan.com",
+      "https://www.aromaplan.com/pages/contact-us-v2",
+      "https://www.aromaplan.com/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "aromaretail.com",
+    "company_name": "Aroma Retail",
+    "website": "https://aromaretail.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "care@aromaretail.com",
+        "confidence": "highest",
+        "source_url": "https://aromaretail.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Policy Contact us \ud83d\udcde or \ud83d\udcac (702) 780-7370 \u2709\ufe0f Care@aromaretail.com Mon - Sat | 10 AM - 4 PM | \ud83d\udccd 5525 S. Valley View Blvd, St"
+      }
+    ],
+    "role_emails": [
+      "care@aromaretail.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://aromaretail.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aromaretail.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aromaretail.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2020-09-26"
+      },
+      {
+        "url": "https://aromaretail.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aromaretail.com/pages/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aromaretail.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://aromaretail.com/contact",
+        "action": "https://aromaretail.com/contact/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://aromaretail.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Elevate your brand with Aroma Retail\u2019s premium scenting experience. Discover our commercial scent solutions that enhance spaces and customer mood.",
+    "source_urls": [
+      "https://aromaretail.com",
+      "https://aromaretail.com/about-us",
+      "https://aromaretail.com/pages/about",
+      "https://aromaretail.com/pages/press",
+      "https://aromaretail.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "aromasenseusa.com",
+    "company_name": "Aroma Sense USA",
+    "website": "https://aromasenseusa.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@aromasenseusa.com",
+        "confidence": "highest",
+        "source_url": "https://aromasenseusa.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Contact Info Customer Service Email: info@aromasenseusa.com Corporate Website: www.opus-int.com"
+      }
+    ],
+    "role_emails": [
+      "info@aromasenseusa.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://aromasenseusa.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aromasenseusa.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2014-11-18"
+      },
+      {
+        "url": "https://aromasenseusa.com/media",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2014-03-23"
+      },
+      {
+        "url": "https://aromasenseusa.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2013-11-22"
+      },
+      {
+        "url": "https://aromasenseusa.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aromasenseusa.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://aromasenseusa.com/pages/contact-us",
+        "action": "/contact#contact-us-page",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Aroma Sense USA produces luxury shower heads powered by aromatherapy, vitamin C and generation of negative ions to promote overall health and well-being.",
+    "source_urls": [
+      "https://aromasenseusa.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "aromatechscent.com",
+    "company_name": "AromaTech",
+    "website": "https://aromatechscent.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@aromatechscent.com",
+        "confidence": "highest",
+        "source_url": "https://aromatechscent.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "d Time, excluding holidays. Customer Experience and Sales: hello@aromatechscent.com Name E-mail Message Send message"
+      }
+    ],
+    "role_emails": [
+      "hello@aromatechscent.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://aromatechscent.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aromatechscent.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://aromatechscent.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "AromaTech manufactures 100% pure essential and aroma oils, home fragrance diffusers, scent machines. Scent marketing USA and Canada.",
+    "source_urls": [
+      "https://aromatechscent.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "aromatics.com",
+    "company_name": "Aromatics International",
+    "website": "https://www.aromatics.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "team@aromatics.com",
+        "confidence": "highest",
+        "source_url": "https://www.aromatics.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Phone 406-273-9833 Mon \u2013 Fri, 10am \u2013 4pm Email team@aromatics.com Chat Chat with an expert aromatherapist"
+      }
+    ],
+    "role_emails": [
+      "team@aromatics.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.aromatics.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.aromatics.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.aromatics.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.aromatics.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.aromatics.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.aromatics.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "The highest-quality essential oils start with healthy plants, grown in their native climate without the use of chemical pesticides. Shop the largest collection of certified organic essential oils, hydrosols, carrier oils, essential oil blends, diffusers, and more. Always sustainably sourced.",
+    "source_urls": [
+      "https://www.aromatics.com/contact",
+      "https://www.aromatics.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "aromatique.com",
+    "company_name": "Aromatique",
+    "website": "https://www.aromatique.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Aromatique Outlet Store",
+        "title": null,
+        "email": "panache@aromatique.com",
+        "source_url": "https://www.aromatique.com/about",
+        "association": "proximity"
+      },
+      {
+        "name": "Peggy Harris",
+        "title": null,
+        "email": "pharris@aromatique.com",
+        "source_url": "https://www.aromatique.com/about"
+      }
+    ],
+    "people": [
+      {
+        "name": "Aromatique Outlet Store",
+        "title": null,
+        "email": "panache@aromatique.com",
+        "source_url": "https://www.aromatique.com/about",
+        "association": "proximity"
+      },
+      {
+        "name": "Peggy Harris",
+        "title": null,
+        "email": "pharris@aromatique.com",
+        "source_url": "https://www.aromatique.com/about"
+      }
+    ],
+    "emails": [
+      {
+        "address": "info@aromatique.com",
+        "confidence": "highest",
+        "source_url": "https://www.aromatique.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2015-02-03",
+        "context_snippet": "Phone: (501) 362-7511 Fax: (501) 362-5361 E-mail: info@aromatique.com Panache, The Aromatique Gallery P.O. Box 203 3421"
+      },
+      {
+        "address": "panache@aromatique.com",
+        "confidence": "highest",
+        "source_url": "https://www.aromatique.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2015-02-03",
+        "context_snippet": "919 (800) 875-3111 Fax: (501) 362-1412 E-mail: panache@aromatique.com Aromatique Outlet Store 112 S Commercial St Bra"
+      },
+      {
+        "address": "pharris@aromatique.com",
+        "confidence": "highest",
+        "source_url": "https://www.aromatique.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2015-02-03",
+        "context_snippet": ""
+      },
+      {
+        "address": "pr@aromatique.com",
+        "confidence": "high",
+        "source_url": "https://www.aromatique.com/pages/aroma-press",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ng Aromatique in your magazine or publication? Reach out to pr@aromatique.com with details about your request! Jo"
+      }
+    ],
+    "role_emails": [
+      "info@aromatique.com",
+      "panache@aromatique.com",
+      "pr@aromatique.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.aromatique.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.aromatique.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2015-02-03"
+      },
+      {
+        "url": "https://www.aromatique.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2019-11-14"
+      },
+      {
+        "url": "https://www.aromatique.com/collections/the-smell-of-espresso",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.aromatique.com/pages/aroma-press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.aromatique.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.aromatique.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Aromatique - Based in Heber Springs, Arkansas, we are the world's leading manufacturer of Potpourri. Enjoy our full line of best-selling decorative fragrance, candles, and wax melts. Unique year-round and seasonal candles, beautiful potpourri made with dried botanicals.",
+    "source_urls": [
+      "https://www.aromatique.com/about",
+      "https://www.aromatique.com/pages/aroma-press",
+      "https://www.aromatique.com/pages/contact-us"
+    ],
+    "reason": null,
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "aromatools.com",
+    "company_name": "AromaTools",
+    "website": "https://aromatools.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "service@aromatools.com",
+        "confidence": "high",
+        "source_url": "https://aromatools.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "146 West 1900 North Spanish Fork, UT 84660 1-801-798-7921 service@aromatools.com Sign up now to receive special offers,"
+      }
+    ],
+    "role_emails": [
+      "service@aromatools.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://aromatools.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aromatools.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aromatools.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aromatools.com/collections/immune-support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aromatools.com/collections/frontpage/products/essential-support-for-immunity-booklet",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aromatools.com/collections/frontpage/products/essential-support-booklets-bundle-set-of-8",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aromatools.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aromatools.com/pages/contact-aromatools",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://aromatools.com/pages/contact-aromatools",
+        "action": "/contact#form-contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "With the right tools it's simple to properly share and use essential oils. AromaTools offers essential oil education resources, accessories and supplies.",
+    "source_urls": [
+      "https://aromatools.com",
+      "https://aromatools.com/about",
+      "https://aromatools.com/about-us",
+      "https://aromatools.com/collections/immune-support",
+      "https://aromatools.com/collections/frontpage/products/essential-support-for-immunity-booklet",
+      "https://aromatools.com/collections/frontpage/products/essential-support-booklets-bundle-set-of-8",
+      "https://aromatools.com/pages/about-us",
+      "https://aromatools.com/pages/contact-aromatools"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 14
+  },
+  {
+    "company_domain": "aroogas.com",
+    "company_name": "Arooga's",
+    "website": "https://www.aroogas.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "keithswade@aroogas.com",
+        "confidence": "high",
+        "source_url": "https://www.aroogas.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "wingmaster11@aroogas.com",
+        "confidence": "high",
+        "source_url": "https://www.aroogas.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "wingmaster124@aroogas.com",
+        "confidence": "high",
+        "source_url": "https://www.aroogas.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "wingmaster18eastbrunswick@aroogas.com",
+        "confidence": "high",
+        "source_url": "https://www.aroogas.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "wingmaster1@aroogas.com",
+        "confidence": "high",
+        "source_url": "https://www.aroogas.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "wingmaster1westmain@aroogas.com",
+        "confidence": "high",
+        "source_url": "https://www.aroogas.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "wingmaster22@aroogas.com",
+        "confidence": "high",
+        "source_url": "https://www.aroogas.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "wingmaster39@aroogas.com",
+        "confidence": "high",
+        "source_url": "https://www.aroogas.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "wingmaster422@aroogas.com",
+        "confidence": "high",
+        "source_url": "https://www.aroogas.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "wingmaster436winterpark@aroogas.com",
+        "confidence": "high",
+        "source_url": "https://www.aroogas.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "wingmaster462@aroogas.com",
+        "confidence": "high",
+        "source_url": "https://www.aroogas.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "wingmaster696@aroogas.com",
+        "confidence": "high",
+        "source_url": "https://www.aroogas.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "wingmaster9howell@aroogas.com",
+        "confidence": "high",
+        "source_url": "https://www.aroogas.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "wingmaster@aroogas.com",
+        "confidence": "high",
+        "source_url": "https://www.aroogas.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "keithswade@aroogas.com",
+      "wingmaster11@aroogas.com",
+      "wingmaster124@aroogas.com",
+      "wingmaster18eastbrunswick@aroogas.com",
+      "wingmaster1@aroogas.com",
+      "wingmaster1westmain@aroogas.com",
+      "wingmaster22@aroogas.com",
+      "wingmaster39@aroogas.com",
+      "wingmaster422@aroogas.com",
+      "wingmaster436winterpark@aroogas.com",
+      "wingmaster462@aroogas.com",
+      "wingmaster696@aroogas.com",
+      "wingmaster9howell@aroogas.com",
+      "wingmaster@aroogas.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.aroogas.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.aroogas.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.aroogas.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2011-12-28"
+      },
+      {
+        "url": "https://www.aroogas.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.aroogas.com/media",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2012-02-09"
+      },
+      {
+        "url": "https://www.aroogas.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.aroogas.com/locations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.aroogas.com/join-our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.aroogas.com/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Arooga's in Howell, NJ. Experience the ultimate sports bar with award-winning wings, a vast beer selection, and a lively atmosphere. Find your nearest Arooga's location today!",
+    "source_urls": [
+      "https://www.aroogas.com",
+      "https://www.aroogas.com/about",
+      "https://www.aroogas.com/press",
+      "https://www.aroogas.com/contact",
+      "https://www.aroogas.com/locations",
+      "https://www.aroogas.com/join-our-team"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "aroundthecycle.com",
+    "company_name": "Around the Cycle",
+    "website": "https://aroundthecycle.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://aroundthecycle.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aroundthecycle.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aroundthecycle.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aroundthecycle.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aroundthecycle.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Los Angeles County's go-to bike shop for NEW and USED bicycles, parts and gear! BUY-SELL-TRADE through our unique consignment program. Get your bike repaired from VETERAN MECHANICS with decades of experience. We RENT and sell ELECTRIC BIKES too. At ATC, we're here for you whether online or in our Pa",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "arpeggiobyob.com",
+    "company_name": "Arpeggio Restaurant",
+    "website": "https://arpeggiobyob.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "mary@arpeggiobyob.com",
+        "confidence": "highest",
+        "source_url": "https://arpeggiobyob.com",
+        "source_type": "archived",
+        "snapshot_date": "2026-06-14",
+        "context_snippet": ""
+      },
+      {
+        "address": "info@arpeggiobyob.com",
+        "confidence": "high",
+        "source_url": "https://arpeggiobyob.com",
+        "source_type": "archived",
+        "snapshot_date": "2026-06-14",
+        "context_snippet": "em Pike Spring House, PA 19477 Phone: 215.646.5055 Email: info@arpeggiobyob.com Quick links LOYALTY PR"
+      }
+    ],
+    "role_emails": [
+      "info@arpeggiobyob.com",
+      "mary@arpeggiobyob.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://arpeggiobyob.com",
+        "page_type": "home",
+        "source_type": "archived",
+        "snapshot_date": "2026-06-14"
+      },
+      {
+        "url": "https://arpeggiobyob.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2019-12-08"
+      },
+      {
+        "url": "https://arpeggiobyob.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2019-10-14"
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Arpeggio BYOB, awarded for the best Artisan pizza and delicious Mediterranean cuisine, serves Blue Bell, Ambler, Springhouse, Gwynedd and surrounding Montgomery County, PA residents. Dine-in, Curbside, or Delivery. Catering for large parties.",
+    "source_urls": [
+      "https://arpeggiobyob.com",
+      "https://arpeggiobyob.com/about",
+      "https://arpeggiobyob.com/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "arquiste.com",
+    "company_name": "ARQUISTE Parfumeur",
+    "website": "https://arquiste.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@arquiste.com",
+        "confidence": "highest",
+        "source_url": "https://arquiste.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2019-06-24",
+        "context_snippet": ""
+      },
+      {
+        "address": "press@arquiste.com",
+        "confidence": "high",
+        "source_url": "https://arquiste.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@arquiste.com",
+      "press@arquiste.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://arquiste.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://arquiste.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2019-06-24"
+      },
+      {
+        "url": "https://arquiste.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://arquiste.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Evocative scents transporting you through space and time. Fragrances created through historic research. Genderless perfumes and home scents of rare beauty.",
+    "source_urls": [
+      "https://arquiste.com/about",
+      "https://arquiste.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "arrae.com",
+    "company_name": "Arrae",
+    "website": "https://www.arrae.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@arrae.com",
+        "confidence": "highest",
+        "source_url": "https://www.arrae.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Mail Send us an Email: hello@arrae.com Box Orders and Subscript"
+      }
+    ],
+    "role_emails": [
+      "hello@arrae.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.arrae.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.arrae.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.arrae.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.arrae.com/blogs/arrae-journal/what-your-bloating-says-about-you",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.arrae.com/pages/contact-us-1",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "We want women to feel empowered as their most authentic selves, all while choosing natural alternatives to wellness. We make 100% natural supplements that are scientifically proven to help your skin, gut and mind.",
+    "source_urls": [
+      "https://www.arrae.com/pages/contact-us",
+      "https://www.arrae.com/pages/contact-us-1"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "arrakusa.com",
+    "company_name": "Arrak Outdoor USA",
+    "website": "https://arrakusa.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "sales@arrakusa.com",
+        "confidence": "high",
+        "source_url": "https://arrakusa.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "s only prior to the shipment of your order. Please email us sales@arrakusa.com. Do you ship internationally?"
+      }
+    ],
+    "role_emails": [
+      "sales@arrakusa.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://arrakusa.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://arrakusa.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://arrakusa.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://arrakusa.com/pages/contact-us",
+        "action": "/contact#ContactForm-template--16355928571962__contact-form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Premium outdoor apparel designed for adventure and dog owners. Explore breathable, weatherproof gear with functional pockets and performance design. Shop high-end vests, jackets, pants, base layers, and activewear built for all conditions and everyday outdoor life.",
+    "source_urls": [
+      "https://arrakusa.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  }
+]
