@@ -1,0 +1,1742 @@
+[
+  {
+    "company_domain": "ancientartifacts.com",
+    "company_name": "Ancient Artifacts Shop",
+    "website": "https://ancientartifacts.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://ancientartifacts.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ancientartifacts.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://ancientartifacts.com/pages/contact-us",
+        "action": "/contact#contact_form_page",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Ancient Artifacts Shop",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "ancientchoice.com",
+    "company_name": "Ancient Choice",
+    "website": "https://ancientchoice.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@ancientchoice.com",
+        "confidence": "high",
+        "source_url": "https://ancientchoice.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "50 New York New York 10128 United States Contact us support@ancientchoice.com Get connected Facebook icon Insta"
+      }
+    ],
+    "role_emails": [
+      "support@ancientchoice.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://ancientchoice.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ancientchoice.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Food shouldn't be fake. Food should be itself. Check out the power of superfoods direct from Mother Nature.",
+    "source_urls": [
+      "https://ancientchoice.com",
+      "https://ancientchoice.com/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "ancientcosmeticz.com",
+    "company_name": "Ancient Cosmetics",
+    "website": "https://ancientcosmeticz.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "contact@ancientcosmeticz.com",
+        "confidence": "high",
+        "source_url": "https://ancientcosmeticz.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ", and feedback can be emailed to our customer service team: contact@ancientcosmeticz.com. You may also contact us via phone at 910-248-3132. We can"
+      }
+    ],
+    "role_emails": [
+      "contact@ancientcosmeticz.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://ancientcosmeticz.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ancientcosmeticz.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://ancientcosmeticz.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Ancient Methods for Modern Skin",
+    "source_urls": [
+      "https://ancientcosmeticz.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "ancientlorevillage.com",
+    "company_name": "Ancient Lore Village",
+    "website": "https://shop.ancientlorevillage.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://shop.ancientlorevillage.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.ancientlorevillage.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://shop.ancientlorevillage.com/pages/contact",
+        "action": "/contact#contact-us-page",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Ancient Lore Village",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "ancientnutrition.com",
+    "company_name": "Ancient Nutrition",
+    "website": "https://ancientnutrition.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@ancientnutrition.com",
+        "confidence": "high",
+        "source_url": "https://ancientnutrition.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ":00 AM to 4:00 PM CST Email Us You can email us anytime at support@ancientnutrition.com \ud83d\udce9 We aim to respond within 2 business days . Call Us Fast"
+      }
+    ],
+    "role_emails": [
+      "support@ancientnutrition.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://ancientnutrition.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ancientnutrition.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ancientnutrition.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ancientnutrition.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ancientnutrition.com/pages/about-sns",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ancientnutrition.com/collections/weight-management",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ancientnutrition.com/collections/stress-sleep-support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ancientnutrition.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ancientnutrition.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "With health products that include Certified USDA Organic, raw, sprouted, or fermented options, Ancient Nutrition is a leading source of nutritional supplements.",
+    "source_urls": [
+      "https://ancientnutrition.com/contact",
+      "https://ancientnutrition.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 14
+  },
+  {
+    "company_domain": "ancientsmithy.com",
+    "company_name": "AncientSmithy",
+    "website": "https://ancientsmithy.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@ancientsmithy.com",
+        "confidence": "high",
+        "source_url": "https://ancientsmithy.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@ancientsmithy.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://ancientsmithy.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ancientsmithy.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ancientsmithy.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ancientsmithy.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ancientsmithy.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://ancientsmithy.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Legendary artifacts handcrafted for true fans \u2014 Mjolnir hammers, Viking axes, and Norse mythology pieces with custom engravings. Bring home a part of the worlds that shaped you. Worldwide shipping from our workshop.",
+    "source_urls": [
+      "https://ancientsmithy.com",
+      "https://ancientsmithy.com/about",
+      "https://ancientsmithy.com/about-us",
+      "https://ancientsmithy.com/contact",
+      "https://ancientsmithy.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "ancoraswimwear.com",
+    "company_name": "ANCORA",
+    "website": "https://ancoraswimwear.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@ancoraswimwear.com",
+        "confidence": "high",
+        "source_url": "https://ancoraswimwear.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "support@ancoraswimwear.com",
+        "confidence": "high",
+        "source_url": "https://ancoraswimwear.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "CONTACT US Email support@ancoraswimwear.com Service Hours Monday - Friday 9:00 am 5:00 pm EST"
+      }
+    ],
+    "role_emails": [
+      "info@ancoraswimwear.com",
+      "support@ancoraswimwear.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://ancoraswimwear.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ancoraswimwear.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ancoraswimwear.com/pages/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ancoraswimwear.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Consciously Dressed To Swim: sustainable and eco-friendly bikinis, swimsuits and beachwear, designed and handmade in Colombia.",
+    "source_urls": [
+      "https://ancoraswimwear.com",
+      "https://ancoraswimwear.com/pages/about-us",
+      "https://ancoraswimwear.com/pages/press",
+      "https://ancoraswimwear.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "ancoretraining.com",
+    "company_name": "ANCORE",
+    "website": "https://ancoretraining.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@ancoretraining.com",
+        "confidence": "highest",
+        "source_url": "https://ancoretraining.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "of Service Privacy Policy Instructions + Installation Hello@ANCOREtraining.com Company About ANCORE Our Vision Speak to a Rep"
+      }
+    ],
+    "role_emails": [
+      "hello@ancoretraining.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://ancoretraining.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ancoretraining.com/pages/contact-us-1",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://ancoretraining.com/pages/contact-us-1",
+        "action": "/contact#contact-template--16785299374320__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Professional-Grade, Portable Cable Training for All. The ANCORE Pro is crafted to endure the most high performance settings while taking up no space.",
+    "source_urls": [
+      "https://ancoretraining.com",
+      "https://ancoretraining.com/pages/contact-us-1"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "and-hereweare.com",
+    "company_name": "And Here We Are",
+    "website": "https://and-hereweare.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "say hi",
+        "title": null,
+        "email": "info@and-hereweare.com",
+        "source_url": "https://and-hereweare.com/contact"
+      }
+    ],
+    "people": [
+      {
+        "name": "say hi",
+        "title": null,
+        "email": "info@and-hereweare.com",
+        "source_url": "https://and-hereweare.com/contact"
+      }
+    ],
+    "emails": [
+      {
+        "address": "info@and-hereweare.com",
+        "confidence": "highest",
+        "source_url": "https://and-hereweare.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2014-08-02",
+        "context_snippet": "y accepting custom projects for 2014. General inquiries: info@and-hereweare.com CONTACT US Your name:"
+      }
+    ],
+    "role_emails": [
+      "info@and-hereweare.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://and-hereweare.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://and-hereweare.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://and-hereweare.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2014-08-02"
+      },
+      {
+        "url": "https://and-hereweare.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2017-12-26"
+      },
+      {
+        "url": "https://and-hereweare.com/collections/a5-letterpress-lined-spiral-notebook",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://and-hereweare.com/collections/pocket-size-lined-letterpress-spiral-notebook",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://and-hereweare.com/collections/doodlebook-unlined-letterpress-spiral-notebooks",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://and-hereweare.com/collections/teenybook-mini-letterpress-spiral-notebook-bag-charms",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://and-hereweare.com/collections/letterpress-notecard-sets",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://and-hereweare.com/collections/letterpress-printed-products-by-and-here-we-are",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://and-hereweare.com/about",
+        "action": "/contact#contact-us-page",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://and-hereweare.com/about-us",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://and-hereweare.com/contact",
+        "action": "/contact/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "And Here We Are\u00ae is a woman-owned stationery and gift brand creating colorful greeting cards, notebooks, paper goods, and small gifts from our letterpress studio in Columbus, Ohio. Every design is hand-drawn by artist Meghan Sokorai, then hand-printed and assembled by our small team. No AI is used i",
+    "source_urls": [
+      "https://and-hereweare.com",
+      "https://and-hereweare.com/about",
+      "https://and-hereweare.com/about-us",
+      "https://and-hereweare.com/contact",
+      "https://and-hereweare.com/collections/a5-letterpress-lined-spiral-notebook",
+      "https://and-hereweare.com/collections/pocket-size-lined-letterpress-spiral-notebook",
+      "https://and-hereweare.com/collections/doodlebook-unlined-letterpress-spiral-notebooks",
+      "https://and-hereweare.com/collections/teenybook-mini-letterpress-spiral-notebook-bag-charms",
+      "https://and-hereweare.com/collections/letterpress-notecard-sets",
+      "https://and-hereweare.com/collections/letterpress-printed-products-by-and-here-we-are"
+    ],
+    "reason": null,
+    "pages_fetched": 15
+  },
+  {
+    "company_domain": "and-sons.com",
+    "company_name": "andSons Chocolates",
+    "website": "https://and-sons.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@and-sons.com",
+        "confidence": "highest",
+        "source_url": "https://and-sons.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Need Support? Text: 310-276-2776 Email: hello@and-sons.com Refunds & Shipping Policies"
+      },
+      {
+        "address": "careers@and-sons.com",
+        "confidence": "high",
+        "source_url": "https://and-sons.com/pages/join-our-team",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "shopify-store@and-sons.com",
+        "confidence": "high",
+        "source_url": "https://and-sons.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "u003eshopify-store@and-sons.com",
+        "confidence": "high",
+        "source_url": "https://and-sons.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "careers@and-sons.com",
+      "hello@and-sons.com",
+      "shopify-store@and-sons.com",
+      "u003eshopify-store@and-sons.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://and-sons.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://and-sons.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://and-sons.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://and-sons.com/pages/join-our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://and-sons.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "andSons is a second-generation Beverly Hills chocolatier crafting fine bonbons, truffles, and chocolate gift boxes, shipped nationwide.",
+    "source_urls": [
+      "https://and-sons.com",
+      "https://and-sons.com/pages/about-us",
+      "https://and-sons.com/pages/contact-us",
+      "https://and-sons.com/pages/join-our-team"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "and1.com",
+    "company_name": "AND1.com",
+    "website": "https://and1.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://and1.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://and1.com/team",
+        "page_type": "team",
+        "source_type": "archived",
+        "snapshot_date": "2014-10-16"
+      },
+      {
+        "url": "https://and1.com/press",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2014-06-25"
+      },
+      {
+        "url": "https://and1.com/media",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2014-09-21"
+      },
+      {
+        "url": "https://and1.com/pages/about-and1",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://and1.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://and1.com/team",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://and1.com/press",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://and1.com/media",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://and1.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Shop AND1 for basketball shoes and street-ready apparel. Discover performance footwear and iconic styles built for on and off the court.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "andaazjewels.com",
+    "company_name": "Andaaz Jewelers",
+    "website": "https://andaazjewels.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@andaazjewels.com",
+        "confidence": "highest",
+        "source_url": "https://andaazjewels.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "day: CLOSED E-mail info@andaazjewels.com Send Us A Message Name Email"
+      }
+    ],
+    "role_emails": [
+      "info@andaazjewels.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://andaazjewels.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://andaazjewels.com/collections/staff-picks-diamond-collection",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://andaazjewels.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://andaazjewels.com/blogs/news/a-heartfelt-message-from-our-founders",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://andaazjewels.com/collections/staff-picks-pendants-pendant-sets",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://andaazjewels.com/collections/staff-picks-pendants-pendant-sets/products/iconic-fashionable-22k-cz-pendant-set",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://andaazjewels.com/collections/staff-picks-pendants-pendant-sets/products/exclusive-flower-22k-cz-pendant-set",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://andaazjewels.com/collections/staff-picks-pendants-pendant-sets/products/vibrant-upscale-22k-cz-pendant-set",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://andaazjewels.com/collections/staff-picks-pendants-pendant-sets/products/radiant-palatial-22k-gold-cz-pendant-set",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://andaazjewels.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://andaazjewels.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://andaazjewels.com/blogs/news/a-heartfelt-message-from-our-founders",
+        "action": "/blogs/news/a-heartfelt-message-from-our-founders/comments#comment_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Shop online at Andaaz Jewelers for the highest quality in 22k Gold & Diamond Jewelry. We provide a wide range of jewelry including Bangles, Necklace Sets, Rings, Earrings, Chains, Bracelets, Mangal Sutras, Pendants, and more.",
+    "source_urls": [
+      "https://andaazjewels.com",
+      "https://andaazjewels.com/collections/staff-picks-diamond-collection",
+      "https://andaazjewels.com/pages/contact-us",
+      "https://andaazjewels.com/blogs/news/a-heartfelt-message-from-our-founders",
+      "https://andaazjewels.com/collections/staff-picks-pendants-pendant-sets",
+      "https://andaazjewels.com/collections/staff-picks-pendants-pendant-sets/products/iconic-fashionable-22k-cz-pendant-set",
+      "https://andaazjewels.com/collections/staff-picks-pendants-pendant-sets/products/exclusive-flower-22k-cz-pendant-set",
+      "https://andaazjewels.com/collections/staff-picks-pendants-pendant-sets/products/vibrant-upscale-22k-cz-pendant-set",
+      "https://andaazjewels.com/collections/staff-picks-pendants-pendant-sets/products/radiant-palatial-22k-gold-cz-pendant-set",
+      "https://andaazjewels.com/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 18
+  },
+  {
+    "company_domain": "andalou.com",
+    "company_name": "Andalou Naturals US",
+    "website": "https://andalou.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "usa@andalou.com",
+        "confidence": "highest",
+        "source_url": "https://andalou.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Down Send message Customer Service usa@andalou.com 1-415-941-5607 PR & Media Inquiries usa@andalou.com"
+      }
+    ],
+    "role_emails": [
+      "usa@andalou.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://andalou.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://andalou.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://andalou.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://andalou.com/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://andalou.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://andalou.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://andalou.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://andalou.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://andalou.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://andalou.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://andalou.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Looking for Certified Organic skincare that delivers noticeable, lasting results? Discover Non-GMO skincare from Andalou Naturals & shop now!",
+    "source_urls": [
+      "https://andalou.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "andalucahome.com",
+    "company_name": "Andaluca Home",
+    "website": "https://andalucahome.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://andalucahome.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://andalucahome.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://andalucahome.com/pages/about-andaluca",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Andaluca artfully creates home fragrance decor for your home's finishing touch. Ranging from hand poured candles to potpourri and botanical D\u00e9cor everything is made in the USA.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "andar.com",
+    "company_name": "Andar",
+    "website": "https://www.andar.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.andar.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.andar.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.andar.com/pages/join-our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "At Andar, we create exceptional handcrafted leather goods to help you minimize and organize what you carry. From leather wallets to phone and tech cases to full grain leather bags. Shop Andar today",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "andareluggage.com",
+    "company_name": "Andare Luggage",
+    "website": "https://andareluggage.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://andareluggage.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://andareluggage.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Andare, which is Italian for \u201cto go,\u201d is dedicated to just one thing. To make your travel experience the best it can possibly be.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "andarlen.com",
+    "company_name": "And Arlen",
+    "website": "https://andarlen.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@andarlen.com",
+        "confidence": "high",
+        "source_url": "https://andarlen.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "hello@andarlen.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://andarlen.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://andarlen.com/pages/about-us-1",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://andarlen.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://andarlen.com/pages/contact",
+        "action": "/contact#contact-us-page",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "From minimalist gemstone jewelry to unique engagement rings, custom jewelry, and fine solid gold jewelry, our designs are made for everyday wear. We\u2019re a small, woman-run business in Seattle, Washington and can\u2019t wait for our jewelry to become a part of your life.",
+    "source_urls": [
+      "https://andarlen.com",
+      "https://andarlen.com/pages/about-us-1",
+      "https://andarlen.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "andaseat.com",
+    "company_name": "AndaSeat Official",
+    "website": "https://www.andaseat.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "amazon_eu@andaseat.com",
+        "confidence": "high",
+        "source_url": "https://www.andaseat.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2022-05-27",
+        "context_snippet": "sales-support@andaseat.com Amazon EU Official Store: amazon_eu@andaseat.com Distributor&Wholesale Inquiry: b2b@andaseat.com Feed"
+      },
+      {
+        "address": "b2b@andaseat.com",
+        "confidence": "high",
+        "source_url": "https://www.andaseat.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2022-05-27",
+        "context_snippet": "amazon_eu@andaseat.com Distributor&Wholesale Inquiry: b2b@andaseat.com Feedback&Suggestions: sales-support@andaseat.com"
+      },
+      {
+        "address": "marketing@andaseat.com",
+        "confidence": "high",
+        "source_url": "https://www.andaseat.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2022-05-27",
+        "context_snippet": "sales-support@andaseat.com Sponsorship&Media Inquiry: marketing@andaseat.com Merchant Warranty Inquiry: sales-support@andaseat.com"
+      },
+      {
+        "address": "sales-support@andaseat.com",
+        "confidence": "high",
+        "source_url": "https://www.andaseat.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "For Business Contact us sales-support@andaseat.com AndaSeat Headquarters SPOKANE, WA, United Sta"
+      }
+    ],
+    "role_emails": [
+      "amazon_eu@andaseat.com",
+      "b2b@andaseat.com",
+      "marketing@andaseat.com",
+      "sales-support@andaseat.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.andaseat.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.andaseat.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2022-01-21"
+      },
+      {
+        "url": "https://www.andaseat.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2022-05-27"
+      },
+      {
+        "url": "https://www.andaseat.com/pages/new-about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.andaseat.com/blogs/news/meet-the-phantom-4-series-the-next-level-of-ergonomic-comfort-and-support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.andaseat.com/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Discover AndaSeat gaming chairs, gaming desks, and accessories for the best comfort during long hours of gaming or work. Upgrade your setup right away!",
+    "source_urls": [
+      "https://www.andaseat.com",
+      "https://www.andaseat.com/about",
+      "https://www.andaseat.com/contact",
+      "https://www.andaseat.com/pages/new-about-us",
+      "https://www.andaseat.com/blogs/news/meet-the-phantom-4-series-the-next-level-of-ergonomic-comfort-and-support"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "andcollar.com",
+    "company_name": "&Collar",
+    "website": "https://andcollar.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@andcollar.com",
+        "confidence": "high",
+        "source_url": "https://andcollar.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Don't be shy and drop us a line. If you email us at info@andcollar.com, our amazing Dream Team [customer service] will do their be"
+      }
+    ],
+    "role_emails": [
+      "info@andcollar.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://andcollar.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://andcollar.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "&Collar menswear is sustainable style, made affordable. Our products are made from recycled plastic, stain-resistant, wrinkle-resistant and machine washable.",
+    "source_urls": [
+      "https://andcollar.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "andeanahats.com",
+    "company_name": "Andeana Hats",
+    "website": "https://andeanahats.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@andeanahats.com",
+        "confidence": "high",
+        "source_url": "https://andeanahats.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ia inquiries by filling out the form below or by emailing: hello@andeanahats.com Visit us in Marina del Rey, CA by appointment only in our"
+      }
+    ],
+    "role_emails": [
+      "hello@andeanahats.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://andeanahats.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://andeanahats.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2023-03-25"
+      },
+      {
+        "url": "https://andeanahats.com/press",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2019-09-22"
+      },
+      {
+        "url": "https://andeanahats.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2019-09-22"
+      },
+      {
+        "url": "https://andeanahats.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://andeanahats.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://andeanahats.com/pages/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://andeanahats.com/collections/intention-hats-bands/products/leadership-legacy-support-intention-hat-band",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://andeanahats.com/contact",
+        "action": "https://ray-crane-ytr7.squarespace.com",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://andeanahats.com/pages/contact",
+        "action": "/contact#contact-template--16065119289543__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Men's and Women's alpaca wool hats and hat bands sustainably handmade by Quechua Artisans in Peru and handwoven Palm Leaf Hats made by K\u2019iche Artisans in Guatemala. Each hat comes with a woven textile band with an ancient intention that you select. Unisex summer sun hats and fall felt hats available",
+    "source_urls": [
+      "https://andeanahats.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "andemonofilament.com",
+    "company_name": "Ande Monofilament",
+    "website": "https://andemonofilament.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://andemonofilament.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://andemonofilament.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://andemonofilament.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Ande Monofilament",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "anderic.com",
+    "company_name": "Anderic",
+    "website": "https://www.anderic.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "help@anderic.com",
+        "confidence": "highest",
+        "source_url": "https://www.anderic.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Need help? Call us 1-855-263-3742 help@anderic.com Follow Us Facebook Instagram"
+      },
+      {
+        "address": "andy@anderic.com",
+        "confidence": "high",
+        "source_url": "https://www.anderic.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "eric@anderic.com",
+        "confidence": "high",
+        "source_url": "https://www.anderic.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "service@anderic.com",
+        "confidence": "high",
+        "source_url": "https://www.anderic.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2023-09-22",
+        "context_snippet": "Reynolda Road, Winston Salem, NC | Phone: 1-855-ANDERIC | service@Anderic.com bottom of page"
+      }
+    ],
+    "role_emails": [
+      "andy@anderic.com",
+      "eric@anderic.com",
+      "help@anderic.com",
+      "service@anderic.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.anderic.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.anderic.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2023-09-22"
+      },
+      {
+        "url": "https://www.anderic.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.anderic.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.anderic.com/pages/company-reviews",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.anderic.com/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.anderic.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Anderic provides replacement and substitute parts such as incandescent light bulbs, ceiling fan remote controls, ceiling fan receivers, universal TV remotes, AC remotes, streaming player remotes, wall mounts, and other accessories for home audio/video equipment. We provide customer support and produ",
+    "source_urls": [
+      "https://www.anderic.com",
+      "https://www.anderic.com/about",
+      "https://www.anderic.com/contact",
+      "https://www.anderic.com/pages/contact",
+      "https://www.anderic.com/pages/company-reviews"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "andersenbakeryusa.com",
+    "company_name": "Andersen Bakery USA",
+    "website": "https://andersenbakeryusa.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://andersenbakeryusa.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://andersenbakeryusa.com/locations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://andersenbakeryusa.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://andersenbakeryusa.com/contact-us",
+        "action": "/app/cms/api/v1/schemas/19106d30-ca40-11f0-8827-2ba0b0c6b4fe/entries",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Andersen Bakery is rooted in a simple belief: good bread brings people together. Inspired by our Japanese\u2013European heritage, we bake each loaf, pastry, and dessert with time-honored techniques and ingredients we\u2019re proud of. Our talented baking team prepares fresh items every morning, supplying our ",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "andersonbat.com",
+    "company_name": "ANDERSON BAT COMPANY",
+    "website": "https://andersonbat.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://andersonbat.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://andersonbat.com/team",
+        "page_type": "team",
+        "source_type": "archived",
+        "snapshot_date": "2008-05-09"
+      },
+      {
+        "url": "https://andersonbat.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2014-09-27"
+      },
+      {
+        "url": "https://andersonbat.com/collections/softball-gear-anderson-bat-company-shop-performance-gear",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://andersonbat.com/pages/team-sales",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://andersonbat.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://andersonbat.com/pages/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://andersonbat.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Shop for the best high-performance softball and baseball bats on the market produced by Anderson Bat Company. If you need a bat for slowpitch, fastpitch, youth baseball, or adult baseball we have you covered. We also provide the best customer service possible. Go ahead and test us!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 14
+  },
+  {
+    "company_domain": "andersondesigngroupstore.com",
+    "company_name": "Anderson Design Group",
+    "website": "https://www.andersondesigngroupstore.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.andersondesigngroupstore.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.andersondesigngroupstore.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.andersondesigngroupstore.com/pages/contact",
+        "action": "/contact#ContactForm-ANjBKS1Z0cStpRVJZa__contact_form_UwiCkQ",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Anderson Design Group is a Nashville-based poster art design firm founded by Joel Anderson. Most popular travel posters include the National Parks posters, Spirit of Nashville, American Travel, and the World Travel collections. We also offer a wide variety of unique gifts, books, postcards, metal si",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  }
+]
