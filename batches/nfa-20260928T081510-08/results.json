@@ -1,0 +1,1461 @@
+[
+  {
+    "company_domain": "arda-wigs.com",
+    "company_name": "Arda Wigs USA",
+    "website": "https://arda-wigs.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "orders@arda-wigs.com",
+        "confidence": "highest",
+        "source_url": "https://arda-wigs.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ill be responded to on business days only. orders@arda-wigs.com Follow Arda on SOCIAL MEDIA"
+      }
+    ],
+    "role_emails": [
+      "orders@arda-wigs.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://arda-wigs.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://arda-wigs.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2016-08-05"
+      },
+      {
+        "url": "https://arda-wigs.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://arda-wigs.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Arda Wigs is a US based supplier of wigs for cosplay, fashion, and drag. We supply over 100+ styles, 100+ blended colors, your favorite character wigs, realistic heat-resistant wigs, and more. Our wigs are great for any costume or just for fun!",
+    "source_urls": [
+      "https://arda-wigs.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "ardenandgold.com",
+    "company_name": "Arden and Gold",
+    "website": "https://ardenandgold.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "thegirls@ardenandgold.com",
+        "confidence": "highest",
+        "source_url": "https://ardenandgold.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "sked Questions Check out our FAQ page or email us at thegirls@ardenandgold.com with any questions about our custom embroidered clothing a"
+      }
+    ],
+    "role_emails": [
+      "thegirls@ardenandgold.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://ardenandgold.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ardenandgold.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ardenandgold.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://ardenandgold.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "We provide embroidered gifts, clothing, and custom embroidery services for you and everyone you celebrate. Shop personalized clothing at Arden & Gold today!",
+    "source_urls": [
+      "https://ardenandgold.com",
+      "https://ardenandgold.com/pages/contact-us",
+      "https://ardenandgold.com/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "ardencove.com",
+    "company_name": "Arden Cove",
+    "website": "https://ardencove.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@ardencove.com",
+        "confidence": "high",
+        "source_url": "https://ardencove.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@ardencove.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://ardencove.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ardencove.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ardencove.com/pages/about-us-our-story",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ardencove.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ardencove.com/pages/connect-with-us-on-social-media-arden-cove",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://ardencove.com/contact",
+        "action": "/contact#contact-template--16881343824116__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://ardencove.com/pages/about-us-our-story",
+        "action": "/contact#contact-template--16881343725812__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://ardencove.com/pages/contact-us",
+        "action": "/contact#contact-template--16881343824116__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "At Arden Cove, we have anti-theft and water-resistant, bags, backpacks, and more for travel and everyday use! Protect your belongings in style today.",
+    "source_urls": [
+      "https://ardencove.com",
+      "https://ardencove.com/contact",
+      "https://ardencove.com/pages/about-us-our-story",
+      "https://ardencove.com/pages/contact-us",
+      "https://ardencove.com/pages/connect-with-us-on-social-media-arden-cove"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "ardensgarden.com",
+    "company_name": "Arden's Garden",
+    "website": "https://www.ardensgarden.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "aimee@ardensgarden.com",
+        "confidence": "highest",
+        "source_url": "https://www.ardensgarden.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2019-10-23",
+        "context_snippet": ") 209-1200 x 1006 Media/PR Inquiries Aimee Heckelmann aimee@ardensgarden.com (404) 209-1200 x 1013 Locations Where to Buy Retail"
+      },
+      {
+        "address": "info@ardensgarden.com",
+        "confidence": "highest",
+        "source_url": "https://www.ardensgarden.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2019-10-12",
+        "context_snippet": "nline FAQ Contact Questions? (404) 209-1200 info@ardensgarden.com Stay Juicy!"
+      },
+      {
+        "address": "orders@ardensgarden.com",
+        "confidence": "highest",
+        "source_url": "https://www.ardensgarden.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2019-10-23",
+        "context_snippet": "04) 209-1200 info@ardensgarden.com Wholesale Accounts orders@ardensgarden.com (404) 209-1200 x 1006 Media/PR Inquiries Aimee Heckelm"
+      },
+      {
+        "address": "wholesale@ardensgarden.com",
+        "confidence": "highest",
+        "source_url": "https://www.ardensgarden.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "l business. We deliver direct to your door 5 days a week! wholesale@ardensgarden.com Donations At Arden's Garden, we are dedicated"
+      },
+      {
+        "address": "magda@ardensgarden.com",
+        "confidence": "high",
+        "source_url": "https://www.ardensgarden.com/pages/media",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ia coverage about our company. For media inquiries contact: magda@ardensgarden.com She inherited the family business. And her mother\u2019s j"
+      }
+    ],
+    "role_emails": [
+      "aimee@ardensgarden.com",
+      "info@ardensgarden.com",
+      "magda@ardensgarden.com",
+      "orders@ardensgarden.com",
+      "wholesale@ardensgarden.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.ardensgarden.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ardensgarden.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2019-10-12"
+      },
+      {
+        "url": "https://www.ardensgarden.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2019-10-23"
+      },
+      {
+        "url": "https://www.ardensgarden.com/collections/cold-pressed-juices",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ardensgarden.com/pages/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ardensgarden.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.ardensgarden.com/contact",
+        "action": "http://www.ardensgarden.com/contact/#contact-form-12",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.ardensgarden.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Arden's Garden is a cold pressed juicery with the best in fresh cold-pressed juices, smoothies, cleanses, and more. Check out all of our fresh and delicious offerings today!",
+    "source_urls": [
+      "https://www.ardensgarden.com/about",
+      "https://www.ardensgarden.com/contact",
+      "https://www.ardensgarden.com/pages/media",
+      "https://www.ardensgarden.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "ardentcannabis.com",
+    "company_name": "Ardent Cannabis",
+    "website": "https://ardentcannabis.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "http_403",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "ardentoutdoors.com",
+    "company_name": "Ardent Tackle",
+    "website": "https://ardentoutdoors.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "company@ardentoutdoors.com",
+        "confidence": "highest",
+        "source_url": "https://ardentoutdoors.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Contact US 420 Lake Street Macon, MO 63552, USA company@ardentoutdoors.com Customer Support 660-395-9200 company@ardentoutdoors.com 7a"
+      }
+    ],
+    "role_emails": [
+      "company@ardentoutdoors.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://ardentoutdoors.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ardentoutdoors.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2023-06-09"
+      },
+      {
+        "url": "https://ardentoutdoors.com/pages/join-team-ardent",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ardentoutdoors.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ardentoutdoors.com/pages/apply-for-team-ardent",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Rule the water with Ardent's exclusive fishing gear and apparel. Elevate your angling adventures with premium tackle, reels, rods, and more. Shop now and make every fishing trip a success!",
+    "source_urls": [
+      "https://ardentoutdoors.com",
+      "https://ardentoutdoors.com/about-us",
+      "https://ardentoutdoors.com/pages/join-team-ardent",
+      "https://ardentoutdoors.com/pages/about-us",
+      "https://ardentoutdoors.com/pages/apply-for-team-ardent"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "arduanyc.com",
+    "company_name": "Ardua NYC",
+    "website": "https://arduanyc.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@arduanyc.com",
+        "confidence": "high",
+        "source_url": "https://arduanyc.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "CONTACT CONTACT info@arduanyc.com FYI FYI Care Pr"
+      }
+    ],
+    "role_emails": [
+      "info@arduanyc.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://arduanyc.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Ardua offers an eclectic line of worthy investments created to embody the individual style of the contemporary woman.",
+    "source_urls": [
+      "https://arduanyc.com"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "area.nyc",
+    "company_name": "AREA",
+    "website": "https://area.nyc",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "careers@area.nyc",
+        "confidence": "highest",
+        "source_url": "https://area.nyc/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "YC WHOLESALE: SALES@AREA.NYC CAREERS (NYC): CAREERS@AREA.NYC CAREERS (MILAN): MILANCAREERS@AREA.NYC"
+      },
+      {
+        "address": "customerservice@area.nyc",
+        "confidence": "highest",
+        "source_url": "https://area.nyc/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "CUSTOMER SERVICE & GENERAL INQUIRY: CUSTOMERSERVICE@AREA.NYC BUSINESS INQUIRIES: INQUIRIES@AREA.NYC"
+      },
+      {
+        "address": "milancareers@area.nyc",
+        "confidence": "highest",
+        "source_url": "https://area.nyc/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "EERS (NYC): CAREERS@AREA.NYC CAREERS (MILAN): MILANCAREERS@AREA.NYC About Us Stockists Size Gui"
+      },
+      {
+        "address": "requests@area.nyc",
+        "confidence": "highest",
+        "source_url": "https://area.nyc/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "INQUIRIES: INQUIRIES@AREA.NYC PR & PRESS PULLS: REQUESTS@AREA.NYC WHOLESALE: SALES@AREA.NYC CAREERS (NYC): CA"
+      },
+      {
+        "address": "sales@area.nyc",
+        "confidence": "highest",
+        "source_url": "https://area.nyc/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "PR & PRESS PULLS: REQUESTS@AREA.NYC WHOLESALE: SALES@AREA.NYC CAREERS (NYC): CAREERS@AREA.NYC CAREERS (MI"
+      },
+      {
+        "address": "inquiries@area.nyc",
+        "confidence": "high",
+        "source_url": "https://area.nyc/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "CUSTOMERSERVICE@AREA.NYC BUSINESS INQUIRIES: INQUIRIES@AREA.NYC PR & PRESS PULLS: REQUESTS@AREA.NYC WHOLESA"
+      }
+    ],
+    "role_emails": [
+      "careers@area.nyc",
+      "customerservice@area.nyc",
+      "inquiries@area.nyc",
+      "milancareers@area.nyc",
+      "requests@area.nyc",
+      "sales@area.nyc"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://area.nyc",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://area.nyc/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://area.nyc/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://area.nyc/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://area.nyc/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "AREA is the world where possibility meets occasion. Founded in New York in 2014, AREA develops and produces its collections in its Milan atelier. Complimentary ground shipping for orders over $1000.",
+    "source_urls": [
+      "https://area.nyc",
+      "https://area.nyc/press",
+      "https://area.nyc/contact",
+      "https://area.nyc/pages/about-us",
+      "https://area.nyc/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "areahome.com",
+    "company_name": "AREA home",
+    "website": "https://areahome.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "orders@areahome.com",
+        "confidence": "highest",
+        "source_url": "https://areahome.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ONE 5th AVE, NEW YORK, NY 10003 212.924.7084 orders@areahome.com press@areahome.com RETURNS & EXCHANGES"
+      },
+      {
+        "address": "press@areahome.com",
+        "confidence": "highest",
+        "source_url": "https://areahome.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "RK, NY 10003 212.924.7084 orders@areahome.com press@areahome.com RETURNS & EXCHANGES CONTACT us WH"
+      }
+    ],
+    "role_emails": [
+      "orders@areahome.com",
+      "press@areahome.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://areahome.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://areahome.com/pages/about-area",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://areahome.com/pages/press-universe",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://areahome.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://areahome.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "AREA makes really nice bedding and home accessories. Swedish founder Anki Spets believes in Scandinavian tradition of good design for everyday. ORIGINALITY. QUALITY. FUNCTIONALITY.",
+    "source_urls": [
+      "https://areahome.com",
+      "https://areahome.com/pages/about-area",
+      "https://areahome.com/pages/press-universe",
+      "https://areahome.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "areaware.com",
+    "company_name": "Areaware",
+    "website": "https://www.areaware.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "sales@areaware.com",
+        "confidence": "highest",
+        "source_url": "https://www.areaware.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "sales@areaware.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.areaware.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.areaware.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.areaware.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.areaware.com/blogs/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Areaware is a gift & home accessories brand. We work with independent designers to create pieces that bring a touch of charm into your home.",
+    "source_urls": [
+      "https://www.areaware.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "arena.fit",
+    "company_name": "ARENA",
+    "website": "https://arena.fit",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://arena.fit",
+        "page_type": "home",
+        "source_type": "archived",
+        "snapshot_date": "2025-10-16"
+      },
+      {
+        "url": "https://arena.fit/pages/support",
+        "page_type": "support",
+        "source_type": "archived",
+        "snapshot_date": "2025-10-13"
+      },
+      {
+        "url": "https://arena.fit/blogs/arena-support/workout-builder",
+        "page_type": "support",
+        "source_type": "archived",
+        "snapshot_date": "2025-10-13"
+      },
+      {
+        "url": "https://arena.fit/pages/about-arena-innovation-corp",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2025-10-13"
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://arena.fit",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://arena.fit/pages/support",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://arena.fit/blogs/arena-support/workout-builder",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://arena.fit/pages/about-arena-innovation-corp",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "The ultimate smart home gym! Designed by athletes & coaches to enable fitness at home. Get stronger and faster on your time\u2013in as little as 10 mins/day.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "areohome.com",
+    "company_name": "AREO",
+    "website": "https://www.areohome.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "service@areohome.com",
+        "confidence": "high",
+        "source_url": "https://www.areohome.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2015-01-01",
+        "context_snippet": "207 OCEAN AVE LAGUNA BEACH CA 92651 OPEN DAILY : 10AM - 7PM SERVICE@AREOHOME.COM 1-888-814-7988 Copyright \u00a9 2014 AREO Inc"
+      },
+      {
+        "address": "support@areohome.com",
+        "confidence": "high",
+        "source_url": "https://www.areohome.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Us Have a question? You can email us directly at support@areohome.com or call us at 949-376-0536. i f it is regarding your order,"
+      }
+    ],
+    "role_emails": [
+      "service@areohome.com",
+      "support@areohome.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.areohome.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2015-01-01"
+      },
+      {
+        "url": "https://www.areohome.com/press",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2015-05-10"
+      },
+      {
+        "url": "https://www.areohome.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.areohome.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.areohome.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "AREOhome: Shop California Inspired Home Accents + Gifts",
+    "source_urls": [
+      "https://www.areohome.com/about",
+      "https://www.areohome.com/press",
+      "https://www.areohome.com/contact",
+      "https://www.areohome.com/pages/about-us",
+      "https://www.areohome.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "aresnutritionnj.com",
+    "company_name": "Ares Nutrition",
+    "website": "https://aresnutritionnj.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://aresnutritionnj.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aresnutritionnj.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aresnutritionnj.com/collections/must-health-support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://aresnutritionnj.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Ares Nutrition NJ",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "arestool.com",
+    "company_name": "ARES Tool, MJD Industries, LLC",
+    "website": "https://www.arestool.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "ares@arestool.com",
+        "confidence": "highest",
+        "source_url": "https://www.arestool.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "line? Send us an email and we'll get back to you ASAP: ares@arestool.com QUALITY CO"
+      }
+    ],
+    "role_emails": [
+      "ares@arestool.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.arestool.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.arestool.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2017-05-04"
+      },
+      {
+        "url": "https://www.arestool.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.arestool.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "From hand tools to specialty tools, ARES Tool provides quality tools for the DIYer, automotive enthusiast, or professional - free of gimmicks and always backed by our Performance Assurance Warranty. Find your next favorite set of ratchets, socket organizers, impact accessories, or garage gadget!",
+    "source_urls": [
+      "https://www.arestool.com",
+      "https://www.arestool.com/pages/contact-us",
+      "https://www.arestool.com/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "areygrey.com",
+    "company_name": "Arey",
+    "website": "https://areygrey.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://areygrey.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://areygrey.com/blogs/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://areygrey.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://areygrey.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Arey is anti-aging haircare, clinically proven. Our science-backed hair and scalp treatment slows greys and delivers thicker, fuller, healthier hair.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "areyouami.com",
+    "company_name": "Are You Am I",
+    "website": "https://www.areyouami.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "areyougame.com",
+    "company_name": "AreYouGame.com",
+    "website": "https://areyougame.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "orders@areyougame.com",
+        "confidence": "high",
+        "source_url": "https://areyougame.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "orders@areyougame.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://areyougame.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://areyougame.com/collections/intermediate-puzzles",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://areyougame.com/products/cr91201-wikipedia-the-game-about-everything",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://areyougame.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://areyougame.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "AreYouGame offers the largest selection of games, puzzles, and activities to create meaningful memories with the whole family.",
+    "source_urls": [
+      "https://areyougame.com"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "areyougarbage.com",
+    "company_name": "Are You Garbage | Official Online Store",
+    "website": "https://areyougarbage.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://areyougarbage.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Are You Garbage? is a comedy podcast with comedians H. Foley and Kevin Ryan. Each week a guest gets interviewed and put to the test to determine if they are in fact \"GARBAGE.\" New Are You Garbage? tour dates! Features the Official Are You Garbage? Online Store including t-shirts, apparel, accessorie",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "arezzo-store.com",
+    "company_name": "Arezzo",
+    "website": "https://www.arezzo-store.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.arezzo-store.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.arezzo-store.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.arezzo-store.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.arezzo-store.com/tools/locations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.arezzo-store.com/pages/contact-us",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Discover Arezzo's diverse collections from shoes to sandals, boots, heels and more. Visit our website for offers and enjoy free shipping on orders over $99.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "arfhamptons.org",
+    "company_name": "arfhamptons.org",
+    "website": "https://arfhamptons.org",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Kimberly Nichols Executive",
+        "title": null,
+        "email": "info@arfhamptons.org",
+        "source_url": "https://arfhamptons.org/about/our-team",
+        "association": "proximity"
+      }
+    ],
+    "people": [
+      {
+        "name": "Kimberly Nichols Executive",
+        "title": null,
+        "email": "info@arfhamptons.org",
+        "source_url": "https://arfhamptons.org/about/our-team",
+        "association": "proximity"
+      }
+    ],
+    "emails": [
+      {
+        "address": "info@arfhamptons.org",
+        "confidence": "highest",
+        "source_url": "https://arfhamptons.org",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "s Get Involved Programs Contact Phone: 631-537-0400 Email: info@arfhamptons.org Mailing Address: P.O. Box 2616, East Hampton, New York 11"
+      }
+    ],
+    "role_emails": [
+      "info@arfhamptons.org"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://arfhamptons.org",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://arfhamptons.org/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://arfhamptons.org/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://arfhamptons.org/about/our-team",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://arfhamptons.org/about/our-board",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://arfhamptons.org/about/financial-reports",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "ARF Hamptons is dedicated to rescuing, rehabilitating, and rehoming cats and dogs on Long Island. Adopt a pet, volunteer, or donate to support our life-saving mission.",
+    "source_urls": [
+      "https://arfhamptons.org",
+      "https://arfhamptons.org/about",
+      "https://arfhamptons.org/contact",
+      "https://arfhamptons.org/about/our-team",
+      "https://arfhamptons.org/about/our-board",
+      "https://arfhamptons.org/about/financial-reports"
+    ],
+    "reason": null,
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "argentovivo.us",
+    "company_name": "ARGENTO VIVO",
+    "website": "https://www.argentovivo.us",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@argentovivo.us",
+        "confidence": "high",
+        "source_url": "https://www.argentovivo.us/contact",
+        "source_type": "archived",
+        "snapshot_date": "2016-10-29",
+        "context_snippet": "New York , NY 10018 Email: info@argentovivo.us Wells Blog Duis molli"
+      }
+    ],
+    "role_emails": [
+      "info@argentovivo.us"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.argentovivo.us",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.argentovivo.us/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2017-06-06"
+      },
+      {
+        "url": "https://www.argentovivo.us/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2016-10-29"
+      },
+      {
+        "url": "https://www.argentovivo.us/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.argentovivo.us/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Your everyday lineup, but better. From easy layers to bold accents, our best-loved pieces are built to move with you\u2014coffee runs, late nights, and everything in between.",
+    "source_urls": [
+      "https://www.argentovivo.us/contact",
+      "https://www.argentovivo.us/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "argentwork.com",
+    "company_name": "Argent",
+    "website": "https://argentwork.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "press@argentwork.com",
+        "confidence": "highest",
+        "source_url": "https://argentwork.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Please direct press inquiries to press@argentwork.com . Or Help Yourself An answer might b"
+      }
+    ],
+    "role_emails": [
+      "press@argentwork.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://argentwork.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://argentwork.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://argentwork.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://argentwork.com/pages/contact",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://argentwork.com/pages/about",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "What we wear matters\u2014not for them, for us. Argent designs clothes that embolden modern, multi-dimensional women to be their best, most confident selves through functional, fashion-forward apparel with useful details to optimize your work-joy balance.",
+    "source_urls": [
+      "https://argentwork.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "argomtech.com",
+    "company_name": "ArgomTech",
+    "website": "https://www.argomtech.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.argomtech.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.argomtech.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.argomtech.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "\u00a9 2026 www.argomtech.com .\n            ArgomTech. All Rights Reserved. Powered By Argomtech",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "argosycruises.com",
+    "company_name": "Argosy Cruises",
+    "website": "https://shop.argosycruises.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://shop.argosycruises.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Argosy Cruises Store",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "arhaus.com",
+    "company_name": "Arhaus",
+    "website": "https://www.arhaus.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "challenge_page",
+    "pages_fetched": 2
+  }
+]
