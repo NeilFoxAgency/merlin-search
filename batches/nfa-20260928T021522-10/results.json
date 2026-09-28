@@ -1,0 +1,1310 @@
+[
+  {
+    "company_domain": "amyscoffeemugs.com",
+    "company_name": "Amy's Coffee Mugs",
+    "website": "https://amyscoffeemugs.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "amy@amyscoffeemugs.com",
+        "confidence": "highest",
+        "source_url": "https://amyscoffeemugs.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "amy@amyscoffeemugs.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://amyscoffeemugs.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://amyscoffeemugs.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://amyscoffeemugs.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Discover cute, fun, and stylish coffee mugs at Amy's Coffee Mugs! Perfect for gifts or everyday use, shop ceramic mugs, travel mugs, and insulated tumblers in various sizes. Unique designs for every coffee lover.",
+    "source_urls": [
+      "https://amyscoffeemugs.com",
+      "https://amyscoffeemugs.com/pages/about",
+      "https://amyscoffeemugs.com/policies/contact-information"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "amysicecreams.com",
+    "company_name": "Amy's Ice Creams",
+    "website": "https://shop.amysicecreams.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://shop.amysicecreams.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.amysicecreams.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Amy's Ice Creams Holiday Gifts, Gift Cards, Gift Certificates, make an impact year round! Our Online Store also has T-shirts & Edibles!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "amywaltz.com",
+    "company_name": "Amy Waltz Designs",
+    "website": "https://amywaltz.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@amywaltz.com",
+        "confidence": "highest",
+        "source_url": "https://amywaltz.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2023-09-21",
+        "context_snippet": "rd CONTACT US Email: hello@amywaltz.com Instagram: @amywaltzdesigns Twitter: @amywaltzdesigns"
+      }
+    ],
+    "role_emails": [
+      "hello@amywaltz.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://amywaltz.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://amywaltz.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2023-09-21"
+      },
+      {
+        "url": "https://amywaltz.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://amywaltz.com/pages/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://amywaltz.com/pages/join-our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://amywaltz.com",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://amywaltz.com/pages/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://amywaltz.com/pages/meet-the-team",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://amywaltz.com/pages/join-our-team",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Amy Waltz Designs",
+    "source_urls": [
+      "https://amywaltz.com",
+      "https://amywaltz.com/about-us",
+      "https://amywaltz.com/pages/contact",
+      "https://amywaltz.com/pages/meet-the-team",
+      "https://amywaltz.com/pages/join-our-team"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "amywinehouse.com",
+    "company_name": "Amy Winehouse",
+    "website": "https://us-store.amywinehouse.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://us-store.amywinehouse.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Shop the Official Amy Winehouse Online store for exclusive products including merch, music, accessories, & more.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "amyywoahh.com",
+    "company_name": "AmyyWoahh",
+    "website": "https://amyywoahh.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://amyywoahh.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://amyywoahh.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2025-08-28"
+      },
+      {
+        "url": "https://amyywoahh.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://amyywoahh.com/pages/contact",
+        "action": "/contact#contact_form_page",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "AmyyWoah merch LLAMABEAN LLAMADEAN FLUFFBEAN Imma Burrito I DONT LIKE TODAY I DO LIKE TODAY NO SWEETIE",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "ana-white.com",
+    "company_name": "shop.ana-white.com",
+    "website": "https://shop.ana-white.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://shop.ana-white.com",
+        "page_type": "home",
+        "source_type": "archived",
+        "snapshot_date": "2025-04-19"
+      },
+      {
+        "url": "https://shop.ana-white.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.ana-white.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2025-02-14"
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://shop.ana-white.com/contact",
+        "action": "/editorv2_shop_aux/contact_us_section_send",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Woodworking apparel by Ana White",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "anabei.com",
+    "company_name": "Anabei",
+    "website": "https://anabei.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://anabei.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Buy Machine washable modular sofas made with eco-friendly materials. Stain & liquid-resistant fabric, lifetime steel frame, pet & kid-friendly.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "anabolicaliens.com",
+    "company_name": "Anabolic Aliens",
+    "website": "https://anabolicaliens.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "business@anabolicaliens.com",
+        "confidence": "highest",
+        "source_url": "https://anabolicaliens.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "m \u200d For any business related inquires, email the following: business@anabolicaliens.com Have no limits! - go to homepage"
+      },
+      {
+        "address": "support@anabolicaliens.com",
+        "confidence": "highest",
+        "source_url": "https://anabolicaliens.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "k a Free Fitness Consultation! Need help? support@anabolicaliens.com Follow Us Facebook , opens in a new tab"
+      }
+    ],
+    "role_emails": [
+      "business@anabolicaliens.com",
+      "support@anabolicaliens.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://anabolicaliens.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://anabolicaliens.com/press",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2019-08-25"
+      },
+      {
+        "url": "https://anabolicaliens.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://anabolicaliens.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://anabolicaliens.com/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://anabolicaliens.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Represent your inner alien with Anabolic Aliens merch! Step up your game in the gym with our new out-of-this-world home gym wear line Invasion Wear!",
+    "source_urls": [
+      "https://anabolicaliens.com",
+      "https://anabolicaliens.com/contact",
+      "https://anabolicaliens.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "anacaprimiami.com",
+    "company_name": "Anacapri Italian Restaurant, Market and Wine Bar",
+    "website": "https://www.anacaprimiami.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.anacaprimiami.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.anacaprimiami.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.anacaprimiami.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.anacaprimiami.com/pages/contact",
+        "action": "/contact#contact-us-page",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Experience the taste of Italy at Anacapri Italian Kitchen, Market, and Wine Bar. Indulge in authentic cuisine and curated wines in Miami, FL. Welcome to a taste of la dolce vita!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "anacondafightwear.co",
+    "company_name": "anacondafightwear",
+    "website": "https://anacondafightwear.co",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": "Shop elite knee & shoulder braces trusted by 300,000+ athletes. Built for MMA, CrossFit, running, and every sport in between.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "anacrylics.com",
+    "company_name": "Anacrylics",
+    "website": "https://anacrylics.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://anacrylics.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Anacrylics",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "anaheimfeed.com",
+    "company_name": "Anaheim Feed & Pet Supply",
+    "website": "https://anaheimfeed.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "challenge_page",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "anaheimteamstore.com",
+    "company_name": "anaheimteamstore.com",
+    "website": "https://anaheimteamstore.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": "Official Team Store of the Anaheim Ducks and Honda Center. Shop the largest selection of official Anaheim Ducks merchandise, including exclusive clothing lines not found elsewhere, authentic and replica jerseys, Mighty Ducks apparel and hats, and more. We offer convenient local pick-up options and s",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 17
+  },
+  {
+    "company_domain": "anaiscandle.com",
+    "company_name": "Ana\u00efs Candle",
+    "website": "https://anaiscandle.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customercare@anaiscandle.com",
+        "confidence": "highest",
+        "source_url": "https://anaiscandle.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Contact Us By Email: customercare@anaiscandle.com Please feel free to email us with any inquires! Someone f"
+      }
+    ],
+    "role_emails": [
+      "customercare@anaiscandle.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://anaiscandle.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://anaiscandle.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://anaiscandle.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://anaiscandle.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://anaiscandle.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "ANA\u00cfS CANDLE Official Website \u2013 Discover exquisite, modern handcrafted sculpture candles, home decor, and stemware. Luxurious, Romantic, Aesthetic.",
+    "source_urls": [
+      "https://anaiscandle.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "analogcc.com",
+    "company_name": "Analog Camera Company",
+    "website": "https://analogcc.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "shop@analogcc.com",
+        "confidence": "highest",
+        "source_url": "https://analogcc.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "support@analogcc.com",
+        "confidence": "high",
+        "source_url": "https://analogcc.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "love, and want to get it printed, just reach out to us at support@analogcc.com and we\u2019ll let you know our favorite places for printing di"
+      }
+    ],
+    "role_emails": [
+      "shop@analogcc.com",
+      "support@analogcc.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://analogcc.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://analogcc.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "wondering how to get disposable camera pictures digital? You just take the pictures and we handle the rest. Analog cameras use authentic Fuji film.",
+    "source_urls": [
+      "https://analogcc.com",
+      "https://analogcc.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "analogcycles.com",
+    "company_name": "Analog Cycles",
+    "website": "https://analogcycles.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://analogcycles.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://analogcycles.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://analogcycles.com/pages/contact-us",
+        "action": "https://forms.getshogun.com/api/forms/contact/submit",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Subvert the paradigm. Analog Cycles is an off-the grid bike shop in the woods of Vermont. Located in East Poultney, Vermont Analog Cycles specializes in creating custom built (from the frame up) bicycles with a focus on fit an serviceability. Practical bikes can be beautiful too!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "analogshift.com",
+    "company_name": "Analog:Shift",
+    "website": "https://www.analogshift.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@analogshift.com",
+        "confidence": "highest",
+        "source_url": "https://www.analogshift.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "sales@analogshift.com",
+        "confidence": "high",
+        "source_url": "https://www.analogshift.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "al business hour by phone at 646-397-3916 or by email at sales@analogshift.com . NEWS LETTER SIGN UP Sign"
+      }
+    ],
+    "role_emails": [
+      "info@analogshift.com",
+      "sales@analogshift.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.analogshift.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.analogshift.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.analogshift.com/press",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2018-10-09"
+      },
+      {
+        "url": "https://www.analogshift.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.analogshift.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.analogshift.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Discover Analog Shift, your trusted source for authentic vintage watches and modern classics. Explore a curated selection of rare timepieces from top brands, expert insights, and unparalleled service. Perfect for collectors and enthusiasts seeking timeless craftsmanship and style.",
+    "source_urls": [
+      "https://www.analogshift.com/contact",
+      "https://www.analogshift.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "analogwatchco.com",
+    "company_name": "Analog Watch Co.",
+    "website": "https://analogwatchco.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "info@ analogwatchco .com",
+        "title": null,
+        "email": "info@analogwatchco.com",
+        "source_url": "https://analogwatchco.com/press"
+      }
+    ],
+    "people": [
+      {
+        "name": "info@ analogwatchco .com",
+        "title": null,
+        "email": "info@analogwatchco.com",
+        "source_url": "https://analogwatchco.com/press"
+      }
+    ],
+    "emails": [
+      {
+        "address": "info@analogwatchco.com",
+        "confidence": "highest",
+        "source_url": "https://analogwatchco.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2016-03-30",
+        "context_snippet": ""
+      },
+      {
+        "address": "support@analogwatchco.com",
+        "confidence": "highest",
+        "source_url": "https://analogwatchco.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2016-03-30",
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@analogwatchco.com",
+      "support@analogwatchco.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://analogwatchco.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://analogwatchco.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://analogwatchco.com/press",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2016-03-30"
+      },
+      {
+        "url": "https://analogwatchco.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://analogwatchco.com/pages/faq-contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://analogwatchco.com/pages/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://analogwatchco.com/pages/media-press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "You have to see these unique design watches or accessories using wood, marble, flowers, wine, and other natural materials. Remind them of nature with the coolest gift. High quality MVMT. Sunglasses, too. Perfect for mother's day, graduation, father's day, and watch collectors. Lifestyle timepieces +",
+    "source_urls": [
+      "https://analogwatchco.com/press",
+      "https://analogwatchco.com/pages/faq-contact"
+    ],
+    "reason": null,
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "analuisa.com",
+    "company_name": "Ana Luisa Jewelry",
+    "website": "https://www.analuisa.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "love@analuisa.com",
+        "confidence": "highest",
+        "source_url": "https://www.analuisa.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "contact@analuisa.com",
+        "confidence": "high",
+        "source_url": "https://www.analuisa.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "contact@analuisa.com",
+      "love@analuisa.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.analuisa.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "High-quality, affordable jewelry staples starting at $50. Tarnishproof, water-resistant, hypoallergenic, our pieces are designed to be the foundation of your daily stack\u2014like your favorite pair of denim or trusty white tee\u2014Ana Luisa is your jewelry uniform.",
+    "source_urls": [
+      "https://www.analuisa.com"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "anamarialajusticiausa.com",
+    "company_name": "anamarialajusticiausa.com",
+    "website": "https://anamarialajusticiausa.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@anamarialajusticiausa.com",
+        "confidence": "high",
+        "source_url": "https://anamarialajusticiausa.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "e For wholesale requests please contact us by email at info@anamarialajusticiausa.com , using our contact form in Contact Us section News"
+      }
+    ],
+    "role_emails": [
+      "info@anamarialajusticiausa.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://anamarialajusticiausa.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://anamarialajusticiausa.com/pages/about-ana-maria-lajusticia",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://anamarialajusticiausa.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://anamarialajusticiausa.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Official store in the USA. Relieve muscle pain & joint discomfort with Ana Mar\u00eda Lajusticia supplements. Shop magnesium, collagen & more. USA shipping. 100% authentic.",
+    "source_urls": [
+      "https://anamarialajusticiausa.com",
+      "https://anamarialajusticiausa.com/pages/about-ana-maria-lajusticia",
+      "https://anamarialajusticiausa.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "anamericancraftsman.com",
+    "company_name": "An American Craftsman",
+    "website": "https://www.anamericancraftsman.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.anamericancraftsman.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.anamericancraftsman.com/collections/mixed-media-figure",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.anamericancraftsman.com/collections/mixed-media-glass-wall-art",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.anamericancraftsman.com/collections/people",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.anamericancraftsman.com/pages/about-us-1",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.anamericancraftsman.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.anamericancraftsman.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.anamericancraftsman.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Discover the beauty of handmade fine crafts. Browse our collections of handcrafted jewelry boxes, contemporary art glass, ceramics, Boxology & more.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 15
+  },
+  {
+    "company_domain": "anamese.com",
+    "company_name": "Anamese",
+    "website": "https://www.anamese.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@anamese.com",
+        "confidence": "highest",
+        "source_url": "https://www.anamese.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ntact Us Let's Chat PH: 1.800.385.4948 info@anamese.com 8:00 am - 4:00 pm (M-Th) 8:00 am - 12:00 pm (Fri)"
+      }
+    ],
+    "role_emails": [
+      "info@anamese.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.anamese.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.anamese.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.anamese.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Anamese Garden & Home is your trusted wholesale distributor of pottery and garden d\u00e9cor. Discover our curated selection of premium planters and decorative pieces.",
+    "source_urls": [
+      "https://www.anamese.com",
+      "https://www.anamese.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "anandaprofessional.com",
+    "company_name": "Ananda Professional",
+    "website": "https://anandaprofessional.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@anandaprofessional.com",
+        "confidence": "highest",
+        "source_url": "https://anandaprofessional.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "(888) 388-1119 hello@anandaprofessional.com Privacy"
+      }
+    ],
+    "role_emails": [
+      "hello@anandaprofessional.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://anandaprofessional.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://anandaprofessional.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://anandaprofessional.com/pages/about-ananda",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://anandaprofessional.com/products/glp-1-support-gummies?variant=48102654345406",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://anandaprofessional.com/pages/about-cbd",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Ananda Professional provides premium, enjoyable supplements that work fast. Shop practitioner trusted, botanical wellness today.",
+    "source_urls": [
+      "https://anandaprofessional.com",
+      "https://anandaprofessional.com/contact",
+      "https://anandaprofessional.com/pages/about-ananda",
+      "https://anandaprofessional.com/products/glp-1-support-gummies?variant=48102654345406",
+      "https://anandaprofessional.com/pages/about-cbd"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "anaono.com",
+    "company_name": "AnaOno",
+    "website": "https://www.anaono.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "care@anaono.com",
+        "confidence": "high",
+        "source_url": "https://www.anaono.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ms Contact Us California Privacy Policy care@anaono.com 866-879-1744 Opportunities"
+      }
+    ],
+    "role_emails": [
+      "care@anaono.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.anaono.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.anaono.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.anaono.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.anaono.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.anaono.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.anaono.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.anaono.com/pages/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.anaono.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.anaono.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Find the perfect post-surgery bra for wherever you are in your recovery. Shop online at AnaOno for the best post-op surgical bra for you.",
+    "source_urls": [
+      "https://www.anaono.com",
+      "https://www.anaono.com/team",
+      "https://www.anaono.com/our-team",
+      "https://www.anaono.com/about",
+      "https://www.anaono.com/about-us",
+      "https://www.anaono.com/pages/about-us",
+      "https://www.anaono.com/pages/press",
+      "https://www.anaono.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "anarchybats.com",
+    "company_name": "Anarchy Bat Company",
+    "website": "https://anarchybats.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@anarchybats.com",
+        "confidence": "highest",
+        "source_url": "https://anarchybats.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Friday *For urgent order changes, please call! Email: info@anarchybats.com Phone: (888) 608-5201 Contact form Nam"
+      }
+    ],
+    "role_emails": [
+      "info@anarchybats.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://anarchybats.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://anarchybats.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2022-10-02"
+      },
+      {
+        "url": "https://anarchybats.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://anarchybats.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Anarchy Bat Company",
+    "source_urls": [
+      "https://anarchybats.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  }
+]
