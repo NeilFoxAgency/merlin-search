@@ -1,0 +1,1520 @@
+[
+  {
+    "company_domain": "amaradayspa.com",
+    "company_name": "Amara Day Spa | Salon | Boutique",
+    "website": "https://www.amaradayspa.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Traverse Pkwy Suite",
+        "title": null,
+        "email": "info@amaradayspa.com",
+        "source_url": "https://www.amaradayspa.com/about",
+        "association": "proximity"
+      }
+    ],
+    "people": [
+      {
+        "name": "Traverse Pkwy Suite",
+        "title": null,
+        "email": "info@amaradayspa.com",
+        "source_url": "https://www.amaradayspa.com/about",
+        "association": "proximity"
+      }
+    ],
+    "emails": [
+      {
+        "address": "info@amaradayspa.com",
+        "confidence": "highest",
+        "source_url": "https://www.amaradayspa.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Lehi, UT 1825 W Traverse Pkwy Suite C, Lehi, UT 84043 info@amaradayspa.com 801-226-2300 Orem, UT 1627 N State Street Orem, Utah 8405"
+      },
+      {
+        "address": "morgan.laycock@amaradayspa.com",
+        "confidence": "high",
+        "source_url": "https://www.amaradayspa.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "u003emorgan.laycock@amaradayspa.com",
+        "confidence": "high",
+        "source_url": "https://www.amaradayspa.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@amaradayspa.com",
+      "morgan.laycock@amaradayspa.com",
+      "u003emorgan.laycock@amaradayspa.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.amaradayspa.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.amaradayspa.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.amaradayspa.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.amaradayspa.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2014-01-17"
+      },
+      {
+        "url": "https://www.amaradayspa.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.amaradayspa.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.amaradayspa.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.amaradayspa.com/pages/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.amaradayspa.com/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.amaradayspa.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Experience refined & the best beauty & wellness at Amara Day Spa Salon & Boutique\u2014Utah County\u2019s premier destination for luxury treatments, expert care, and curated boutique finds tailored to elevate your everyday.",
+    "source_urls": [
+      "https://www.amaradayspa.com",
+      "https://www.amaradayspa.com/team",
+      "https://www.amaradayspa.com/about",
+      "https://www.amaradayspa.com/contact",
+      "https://www.amaradayspa.com/pages/about",
+      "https://www.amaradayspa.com/pages/contact-us",
+      "https://www.amaradayspa.com/pages/meet-the-team"
+    ],
+    "reason": null,
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "amarancreators.com",
+    "company_name": "amaran",
+    "website": "https://amarancreators.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://amarancreators.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://amarancreators.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2026-01-16"
+      },
+      {
+        "url": "https://amarancreators.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://amarancreators.com/pages/contact-support",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://amarancreators.com/pages/about-payment",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "amaran is lighting the way for the next generation of creators. Whether you're filming in your home studio, vlogging on the move, or turning any space (the world) into your canvas, amaran empowers creators take their content to the next level.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "amaraorganicfoods.com",
+    "company_name": "Amara Organic Foods",
+    "website": "https://amaraorganicfoods.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Contact Us If",
+        "title": null,
+        "email": "hello@amaraorganicfoods.com",
+        "source_url": "https://amaraorganicfoods.com/pages/contact-us",
+        "association": "proximity"
+      }
+    ],
+    "people": [
+      {
+        "name": "Contact Us If",
+        "title": null,
+        "email": "hello@amaraorganicfoods.com",
+        "source_url": "https://amaraorganicfoods.com/pages/contact-us",
+        "association": "proximity"
+      }
+    ],
+    "emails": [
+      {
+        "address": "hello@amaraorganicfoods.com",
+        "confidence": "highest",
+        "source_url": "https://amaraorganicfoods.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "erience with Amara, fill out the form below or email us at: hello@amaraorganicfoods.com . Our customers (babies and parents) are what fuels us and"
+      }
+    ],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://amaraorganicfoods.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://amaraorganicfoods.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://amaraorganicfoods.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Amara Organic Foods is an award-winning kid snack brand featuring options made from 100% whole fruits and veggies, no added sugar, and nothing artificial. Our baby food line is a powder which can be mixed with water or breastmilk to make a puree, and our yogurt smoothie melts are tasty and nutritiou",
+    "source_urls": [
+      "https://amaraorganicfoods.com/pages/contact-us"
+    ],
+    "reason": null,
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "amarcordvintagefashion.com",
+    "company_name": "Amarcord Vintage Fashion",
+    "website": "https://www.amarcordvintagefashion.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "jobs@amarcordvintagefashion.com",
+        "confidence": "highest",
+        "source_url": "https://www.amarcordvintagefashion.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "a brief self introduction & specific qualifications to: jobs@amarcordvintagefashion.com Helpful Links Ordering & Shippi"
+      },
+      {
+        "address": "shop@amarcordvintagefashion.com",
+        "confidence": "highest",
+        "source_url": "https://www.amarcordvintagefashion.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Us For all inquires pertaining to online retail: shop@amarcordvintagefashion.com Designer & Media Inquiries: showroom@amarcordvint"
+      },
+      {
+        "address": "showroom@amarcordvintagefashion.com",
+        "confidence": "highest",
+        "source_url": "https://www.amarcordvintagefashion.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ordvintagefashion.com Designer & Media Inquiries: showroom@amarcordvintagefashion.com If you are interested in selling to us, click here"
+      },
+      {
+        "address": "us@amarcordvintagefashion.com",
+        "confidence": "highest",
+        "source_url": "https://www.amarcordvintagefashion.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "to us, click here. Management & Administrative: us@amarcordvintagefashion.com CAREERS If you are interested in working for us, p"
+      }
+    ],
+    "role_emails": [
+      "jobs@amarcordvintagefashion.com",
+      "shop@amarcordvintagefashion.com",
+      "showroom@amarcordvintagefashion.com",
+      "us@amarcordvintagefashion.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.amarcordvintagefashion.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.amarcordvintagefashion.com/pages/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.amarcordvintagefashion.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.amarcordvintagefashion.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "New York's best access to Vintage. Designer, Couture, Avant Garde, High End and Cutting Edge Pieces sourced from all over the world for Design & Quality.",
+    "source_urls": [
+      "https://www.amarcordvintagefashion.com",
+      "https://www.amarcordvintagefashion.com/pages/press",
+      "https://www.amarcordvintagefashion.com/pages/about-us",
+      "https://www.amarcordvintagefashion.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "amarees.com",
+    "company_name": "A'MAREE'S",
+    "website": "https://www.amarees.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "concierge@amarees.com",
+        "confidence": "highest",
+        "source_url": "https://www.amarees.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "t Highway, Newport Beach, CA 92663 949.642.4423 concierge@amarees.com Powered by Shopify"
+      },
+      {
+        "address": "h.bryant@amarees.com",
+        "confidence": "highest",
+        "source_url": "https://www.amarees.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "info@amarees.com",
+        "confidence": "highest",
+        "source_url": "https://www.amarees.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2020-07-18",
+        "context_snippet": ""
+      },
+      {
+        "address": "email@amarees.com",
+        "confidence": "high",
+        "source_url": "https://www.amarees.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2020-07-18",
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "concierge@amarees.com",
+      "email@amarees.com",
+      "h.bryant@amarees.com",
+      "info@amarees.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.amarees.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.amarees.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2020-07-18"
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "A\u2019maree\u2019s is Newport Beach\u2019s destination for curated luxury fashion, designer shoes, fine jewelry, and elevated home collections.",
+    "source_urls": [
+      "https://www.amarees.com",
+      "https://www.amarees.com/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "amarewear.com",
+    "company_name": "AMARE WEAR",
+    "website": "https://www.amarewear.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hi@amarewear.com",
+        "confidence": "highest",
+        "source_url": "https://www.amarewear.com/pages/press-media-inquiries",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "laborations, or image requests, please contact us directly. hi@amarewear.com About Us Visit"
+      }
+    ],
+    "role_emails": [
+      "hi@amarewear.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.amarewear.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.amarewear.com/blogs/amare-wear-jewelry-blog/the-secret-language-of-fine-jewelry-what-most-people-never-learn",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.amarewear.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.amarewear.com/pages/press-media-inquiries",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.amarewear.com/blogs/amare-wear-jewelry-blog/the-secret-language-of-fine-jewelry-what-most-people-never-learn",
+        "action": "/blogs/amare-wear-jewelry-blog/the-secret-language-of-fine-jewelry-what-most-people-never-learn/comments#comment_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Luxury permanent jewelry welded on-site in NYC & San Francisco. Shop fine gold, diamond & gemstone pieces loved by A-list celebrities and brands like Sephora, Est\u00e9e Lauder, Meta, Google and more",
+    "source_urls": [
+      "https://www.amarewear.com",
+      "https://www.amarewear.com/blogs/amare-wear-jewelry-blog/the-secret-language-of-fine-jewelry-what-most-people-never-learn",
+      "https://www.amarewear.com/pages/about-us",
+      "https://www.amarewear.com/pages/press-media-inquiries"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "amaroohills.com",
+    "company_name": "Amaroo Hills Emu Farm",
+    "website": "https://amaroohills.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@amaroohills.com",
+        "confidence": "highest",
+        "source_url": "https://amaroohills.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "DUCK BREAST CONTACT (615) 510-7542 info@amaroohills.com SEE OUR LOCATIONS"
+      }
+    ],
+    "role_emails": [
+      "info@amaroohills.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://amaroohills.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://amaroohills.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2020-01-25"
+      },
+      {
+        "url": "https://amaroohills.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2019-09-22"
+      },
+      {
+        "url": "https://amaroohills.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://amaroohills.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://amaroohills.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Amaroo Hills produces all-natural USDA-inspected Alpha-Gal free meat products that are sold direct to consumers, restaurants, and wholesalers.",
+    "source_urls": [
+      "https://amaroohills.com",
+      "https://amaroohills.com/about-us",
+      "https://amaroohills.com/contact",
+      "https://amaroohills.com/pages/about-us",
+      "https://amaroohills.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "amarose.com",
+    "company_name": "amaroseofficial",
+    "website": "https://amarose.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "amarra.com",
+    "company_name": "AMARRA",
+    "website": "https://www.amarra.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@amarra.com",
+        "confidence": "highest",
+        "source_url": "https://www.amarra.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "appy to help! If you have any questions, send us a message! info@amarra.com Name * Email * Phone Subject"
+      }
+    ],
+    "role_emails": [
+      "info@amarra.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.amarra.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.amarra.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2021-04-19"
+      },
+      {
+        "url": "https://www.amarra.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.amarra.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.amarra.com/contact",
+        "action": "/contact#ContactForm__template--26311069598011__contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.amarra.com/pages/contact",
+        "action": "/contact#ContactForm__template--26311069598011__contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "AMARRA - a fashion design house brings you a range of dresses for special occasions like quincea\u00f1era, homecoming, wedding, and more. Browse Amarra's iconic dresses now!",
+    "source_urls": [
+      "https://www.amarra.com/contact",
+      "https://www.amarra.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "amaryllis.com",
+    "company_name": "Amaryllis & Caladium Bulb Company",
+    "website": "https://www.amaryllis.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.amaryllis.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.amaryllis.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.amaryllis.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.amaryllis.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.amaryllis.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Amaryllis & Caladium Bulb Company is the top source for amaryllis bulbs and gift-boxed potted Amaryllis. Visit our site or call 888-966-9866 to place an order.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "amass.com",
+    "company_name": "AMASS",
+    "website": "https://amass.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://amass.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://amass.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://amass.com/pages/contact",
+        "action": "/contact#amass-contact-form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Salty, not sweet hydration support made to enjoy day to night. Delicious electrolyte powders and sparkling electrolyte beverages with Pacific Sea Salt and essential electrolytes. Drink on their own or mix with your drink of choice.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "amazfit.com",
+    "company_name": "Amazfit Global",
+    "website": "https://www.amazfit.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@amazfit.com",
+        "confidence": "high",
+        "source_url": "https://www.amazfit.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2016-11-01",
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "support@amazfit.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.amazfit.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.amazfit.com/press",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2016-11-01"
+      },
+      {
+        "url": "https://www.amazfit.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.amazfit.com/pages/supported-bluetooth-peripherals",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.amazfit.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Amazfit: health management expert on your wrist. Visit our official online store and explore amazing smartwatches like Amazfit T-Rex 3, Active 2, Bip 6 and more!",
+    "source_urls": [
+      "https://www.amazfit.com/press"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "amazifoods.com",
+    "company_name": "Amazi Foods",
+    "website": "https://amazifoods.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@amazifoods.com",
+        "confidence": "highest",
+        "source_url": "https://amazifoods.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ocator wholesale & ingredient contact hello@amazifoods.com 240.630.0375 Washington, DC"
+      }
+    ],
+    "role_emails": [
+      "hello@amazifoods.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://amazifoods.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://amazifoods.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://amazifoods.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://amazifoods.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://amazifoods.com/contact",
+        "action": "/contact#ContactForm-template--16167373570240__main",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://amazifoods.com/pages/contact-us",
+        "action": "/contact#ContactForm-template--16167373570240__main",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "On a mission you help you Snack on Purpose with our 100% made-in-Uganda tropical fruit snacks! A bold twist on boring dried fruit.",
+    "source_urls": [
+      "https://amazifoods.com",
+      "https://amazifoods.com/about",
+      "https://amazifoods.com/contact",
+      "https://amazifoods.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "amazinaces.com",
+    "company_name": "Amazin' Aces",
+    "website": "https://www.amazinaces.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "http_404",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "amazingcosmetics.com",
+    "company_name": "AmazingCosmetics",
+    "website": "https://www.amazingcosmetics.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "makeupartist@amazingcosmetics.com",
+        "confidence": "high",
+        "source_url": "https://www.amazingcosmetics.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Privacy Policy and Terms of Service apply. Email makeupartist@amazingcosmetics.com Manage Subscription Click Here Follow us Fa"
+      }
+    ],
+    "role_emails": [
+      "makeupartist@amazingcosmetics.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.amazingcosmetics.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.amazingcosmetics.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.amazingcosmetics.com/pages/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.amazingcosmetics.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.amazingcosmetics.com/contact",
+        "action": "/contact#ContactForm-template--23007761367155__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.amazingcosmetics.com/pages/contact-us",
+        "action": "/contact#ContactForm-template--23007761367155__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "We created our concealer, primer and foundation formulas with skin-loving ingredients so your makeup not only looks but feels amazing.",
+    "source_urls": [
+      "https://www.amazingcosmetics.com/contact",
+      "https://www.amazingcosmetics.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "amazinggates.com",
+    "company_name": "Amazing Gates",
+    "website": "https://www.amazinggates.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.amazinggates.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.amazinggates.com/pages/tech-support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.amazinggates.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.amazinggates.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "The Metal Driveway Gates from Amazing Gates have 14-Gauge steel & a powder coat finish for durability, plus seamless DIY installation. FREE quote now!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "amazinggrass.com",
+    "company_name": "Amazing Grass",
+    "website": "https://amazinggrass.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@amazinggrass.com",
+        "confidence": "highest",
+        "source_url": "https://amazinggrass.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "For inquiries regarding orders placed on AmazingGrass.com: info@amazinggrass.com Hours: 9:00 am-4:30pm CST PHONE 1-872-219-0280 CORPORAT"
+      },
+      {
+        "address": "orders@amazinggrass.com",
+        "confidence": "highest",
+        "source_url": "https://amazinggrass.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@amazinggrass.com",
+      "orders@amazinggrass.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://amazinggrass.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://amazinggrass.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://amazinggrass.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://amazinggrass.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://amazinggrass.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "From nutritious greens to antioxidant-rich superfoods and plant-based proteins, we have products for all your family's tasty nutritional needs. Shop Now!",
+    "source_urls": [
+      "https://amazinggrass.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "amazinglace.com",
+    "company_name": "Amazing Lace",
+    "website": "https://www.amazinglace.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.amazinglace.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.amazinglace.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "AMAZING LACE - Working towards slow and sustainable fashion. Amazing Lace is a female owned USA small business headquartered in TN. An online eclectic fashion boutique for moody babes who demand style & statements. Amazing Lace stocks US brands along & the most sought after international brands from",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "amazingpinatas.com",
+    "company_name": "Amazing Pinatas",
+    "website": "https://amazingpinatas.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "contact@amazingpinatas.com",
+        "confidence": "high",
+        "source_url": "https://amazingpinatas.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "hello@amazingpinatas.com",
+        "confidence": "high",
+        "source_url": "https://amazingpinatas.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "CT US Call or Text Our Store: +1 (213) - 489-3076 EMAIL: hello@amazingpinatas.com LEGAL Shipping & Returns Refund policy"
+      }
+    ],
+    "role_emails": [
+      "contact@amazingpinatas.com",
+      "hello@amazingpinatas.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://amazingpinatas.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://amazingpinatas.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://amazingpinatas.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://amazingpinatas.com/pages/about-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://amazingpinatas.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Celebrate in style with Pi\u00f1atas, Party Supplies, Balloons, Candy, Party Favors, Home Decor, Custom Pi\u00f1atas, Events & Wedding Decor, Corporate Events, Art Installations, Cinema & TV Props, Paper Costumes, Backdrops, and Paper Crafts.",
+    "source_urls": [
+      "https://amazingpinatas.com",
+      "https://amazingpinatas.com/pages/about-us",
+      "https://amazingpinatas.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "amazingtape.com",
+    "company_name": "Hugo's Amazing Tape self",
+    "website": "https://www.amazingtape.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.amazingtape.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.amazingtape.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.amazingtape.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "It's not just ordinary tape it's Hugo's Amazing Tape! Hugo's is self-clinging, glueless, reusable, tape for just about any job. Perfect for embroidery crafting and needle work to wrap thread, or organizing cables, quick fixes and more! Shop online now for speedy delivery and best prices! Not sold as",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "amazingtaste.com",
+    "company_name": "Amazing Taste Foods, Inc",
+    "website": "https://amazingtaste.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@amazingtaste.com",
+        "confidence": "highest",
+        "source_url": "https://amazingtaste.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "inks or provide payment information, contact us directly at info@amazingtaste.com or (310) 456-2657 to verify. HOME SHOP RE"
+      }
+    ],
+    "role_emails": [
+      "info@amazingtaste.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://amazingtaste.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://amazingtaste.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://amazingtaste.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Amazing Taste offers an all natural, easy and quick way to create delicious meals for all. Our premium seasonings allow you to prepare gourmet dishes and enhance",
+    "source_urls": [
+      "https://amazingtaste.com",
+      "https://amazingtaste.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "ambarinutrition.com",
+    "company_name": "AmBari Nutrition",
+    "website": "https://www.ambarinutrition.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@ambarinutrition.com",
+        "confidence": "highest",
+        "source_url": "https://www.ambarinutrition.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "44-7120 AmBari Nutrition 8701 Leavitt Rd. Elyria, OH. 44035 Support@AmBariNutrition.com Facebook"
+      }
+    ],
+    "role_emails": [
+      "support@ambarinutrition.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.ambarinutrition.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ambarinutrition.com/collections/numetra-weight-management-systems",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ambarinutrition.com/blogs/health-and-weight-loss-journal/why-people-on-glp-1s-are-using-bariatric-protein-shakes",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ambarinutrition.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ambarinutrition.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "AmBari Nutrition has spent three decades providing doctor-designed foods specifically for weight loss surgery, diabetes management, and GLP-1 users. Our goal is to make your health journey easier with a huge selection of affordable, high-protein meals and snacks.",
+    "source_urls": [
+      "https://www.ambarinutrition.com",
+      "https://www.ambarinutrition.com/collections/numetra-weight-management-systems",
+      "https://www.ambarinutrition.com/blogs/health-and-weight-loss-journal/why-people-on-glp-1s-are-using-bariatric-protein-shakes",
+      "https://www.ambarinutrition.com/pages/about-us",
+      "https://www.ambarinutrition.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "amberen.com",
+    "company_name": "Amberen.com",
+    "website": "https://amberen.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://amberen.com",
+        "page_type": "home",
+        "source_type": "archived",
+        "snapshot_date": "2026-01-07"
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Thank you for visiting Amberen.com! We\u2019re currently working on some exciting updates to our website and hope you\u2019ll check back soon. In the meantime, feel free to explore our Brand Store on Amazon.com Your browser does not support the video tag.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "amberide.com",
+    "company_name": "Amberide",
+    "website": "https://amberide.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@amberide.com",
+        "confidence": "high",
+        "source_url": "https://amberide.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@amberide.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://amberide.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://amberide.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://amberide.com/pages/contact",
+        "action": "/contact#contact-template--20859462910261__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Safe, Comfortable & Confident Carry IWB Holsters | Strong & Lightweight Kydex. Waterproof and Washable Gun Holster | Adjustable Cant | Adjustable Retention Pressure | 30-Day Money Back. Lifetime Warranty. Free & Fast Shipping.",
+    "source_urls": [
+      "https://amberide.com",
+      "https://amberide.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "amberinteriordesign.com",
+    "company_name": "Shoppe Amber Interiors",
+    "website": "https://shoppe.amberinteriordesign.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://shoppe.amberinteriordesign.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shoppe.amberinteriordesign.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shoppe.amberinteriordesign.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shoppe.amberinteriordesign.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shoppe.amberinteriordesign.com/products/faux-burgundy-green-cypress-branch-31-stem",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shoppe.amberinteriordesign.com/pages/support-shipping",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shoppe.amberinteriordesign.com/pages/support-returns",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shoppe.amberinteriordesign.com/pages/support-faqs",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shoppe.amberinteriordesign.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shoppe.amberinteriordesign.com/pages/support-terms-conditions",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Shoppe Amber Lewis is a home and lifestyle store created by Amber Lewis of Amber Interior Design. Shoppe carries a unique selection of quality-driven, handmade product for every element of the home including its own made to order furniture line, vintage pillows, rugs, lighting, home decor and more.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 16
+  }
+]
