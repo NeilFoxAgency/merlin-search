@@ -1,0 +1,1407 @@
+[
+  {
+    "company_domain": "baronhats.com",
+    "company_name": "BaronHats",
+    "website": "https://www.baronhats.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Baron Hats Studio",
+        "title": null,
+        "email": "mail@baronhats.com",
+        "source_url": "https://www.baronhats.com/about",
+        "association": "proximity"
+      }
+    ],
+    "people": [
+      {
+        "name": "Baron Hats Studio",
+        "title": null,
+        "email": "mail@baronhats.com",
+        "source_url": "https://www.baronhats.com/about",
+        "association": "proximity"
+      }
+    ],
+    "emails": [
+      {
+        "address": "mail@baronhats.com",
+        "confidence": "highest",
+        "source_url": "https://www.baronhats.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2021-01-24",
+        "context_snippet": "ONTACT US Email or Call Email: mail@baronhats.com Phone: (818) 563-3025 Or Simply fill out the form below"
+      },
+      {
+        "address": "sonia@baronhats.com",
+        "confidence": "high",
+        "source_url": "https://www.baronhats.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "mail@baronhats.com",
+      "sonia@baronhats.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.baronhats.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.baronhats.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2021-01-24"
+      },
+      {
+        "url": "https://www.baronhats.com/media",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2016-02-01"
+      },
+      {
+        "url": "https://www.baronhats.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2021-01-24"
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.baronhats.com/contact",
+        "action": "/contact/#wpcf7-f5683-p10931-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Hollywood\u2019s most preeminent Hat Maker. It\u2019s not hard to understand how Baron has received this legendary status, having created over 35,000 hats for Film, Television, Broadway, Commercials, Music Videos, Vegas Extravaganzas, Disneyland Shows and events worldwide.",
+    "source_urls": [
+      "https://www.baronhats.com",
+      "https://www.baronhats.com/about",
+      "https://www.baronhats.com/contact"
+    ],
+    "reason": null,
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "baronofdice.com",
+    "company_name": "BaronOfDice",
+    "website": "https://baronofdice.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@baronofdice.com",
+        "confidence": "high",
+        "source_url": "https://baronofdice.com/pages/new-contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "are dissatisfied with any product please send an email to: support@baronofdice.com and we will work to make to make everyone satisfied. Tha"
+      }
+    ],
+    "role_emails": [
+      "support@baronofdice.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://baronofdice.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://baronofdice.com/pages/new-contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://baronofdice.com/pages/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-02"
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Welcome to the best wargaming dice in the world. Hand-swirled and precision crafted, our dice are beautiful, reliable, and consistently random.",
+    "source_urls": [
+      "https://baronofdice.com/pages/new-contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "barparttime.com",
+    "company_name": "Bar Part Time",
+    "website": "https://barparttime.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@barparttime.com",
+        "confidence": "highest",
+        "source_url": "https://barparttime.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Text 1-669-333-WINE \u27a9 Email hello@barparttime.com \u27a9 496 14th Street San Fr"
+      }
+    ],
+    "role_emails": [
+      "hello@barparttime.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://barparttime.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://barparttime.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "\"Probably the best wine bar in the world\"",
+    "source_urls": [
+      "https://barparttime.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "barproducts.com",
+    "company_name": "Bar Products",
+    "website": "https://barproducts.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "danny.robinson@barproducts.com",
+        "confidence": "high",
+        "source_url": "https://barproducts.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "info@barproducts.com",
+        "confidence": "high",
+        "source_url": "https://barproducts.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "danny.robinson@barproducts.com",
+      "info@barproducts.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://barproducts.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://barproducts.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://barproducts.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://barproducts.com/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://barproducts.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://barproducts.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://barproducts.com/collections/citrus-presses",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://barproducts.com/collections/steam-table-pans",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://barproducts.com/pages/press-coverage",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Supplying bars and restaurants since 1995 with bar tools, bar supplies, and bar decor at factory prices. Manufacturer of the Barconic\u00a9 glassware & barware line, as well as the brands Olea, Lighter Leash & Shotz. Shop online for customizable products for every bartender, bar-owners, home-bar enthusia",
+    "source_urls": [
+      "https://barproducts.com",
+      "https://barproducts.com/team",
+      "https://barproducts.com/our-team",
+      "https://barproducts.com/meet-the-team",
+      "https://barproducts.com/about",
+      "https://barproducts.com/about-us",
+      "https://barproducts.com/collections/citrus-presses",
+      "https://barproducts.com/collections/steam-table-pans",
+      "https://barproducts.com/pages/press-coverage"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "barraairguns.com",
+    "company_name": "Barra Airguns",
+    "website": "https://barraairguns.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://barraairguns.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://barraairguns.com/pages/company-info",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Explore Barra Airguns' selection of high-quality airguns and accessories, perfect for plinking, target shooting, crossing over from traditional firearms, and hunting small game. Find powerful and accurate airguns with powerplant options including CO2, electric, single pump, multi-pump, break barrel,",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "barre3.com",
+    "company_name": "barre3",
+    "website": "https://shop.barre3.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "retail@shop.barre3.com",
+        "confidence": "high",
+        "source_url": "https://shop.barre3.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "retail@shop.barre3.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://shop.barre3.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Discover consciously crafted and sourced womens workout clothing and athleisure; including yoga pants, workout tights, leggings, tops and more. Proudly offering inclusive sizing.",
+    "source_urls": [
+      "https://shop.barre3.com"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "barredwoodsmaple.com",
+    "company_name": "Barred Woods Maple",
+    "website": "https://barredwoodsmaple.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@barredwoodsmaple.com",
+        "confidence": "high",
+        "source_url": "https://barredwoodsmaple.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "253 Poker Hill Road Underhill, Vermont 05489 802-598-6027 info@barredwoodsmaple.com Quick links Contact Us Search Shop"
+      }
+    ],
+    "role_emails": [
+      "info@barredwoodsmaple.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://barredwoodsmaple.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://barredwoodsmaple.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://barredwoodsmaple.com/blogs/news-about-maple-syrup",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://barredwoodsmaple.com/blogs/news-about-maple-syrup/maple-syrup-in-coffee-recent-research-shows-health-benefits-over-refined-sugar",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://barredwoodsmaple.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://barredwoodsmaple.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Discover environmentally friendly, sustainably produced organic Vermont maple syrup for sale. Enjoy free shipping on pure maple syrup, organic maple candy, maple sugar, maple cream and gifts. Bulk options. Grade B maple syrup available. Buy Maple Syrup online. Learn about maple syrup grades and its ",
+    "source_urls": [
+      "https://barredwoodsmaple.com",
+      "https://barredwoodsmaple.com/pages/about-us",
+      "https://barredwoodsmaple.com/blogs/news-about-maple-syrup",
+      "https://barredwoodsmaple.com/blogs/news-about-maple-syrup/maple-syrup-in-coffee-recent-research-shows-health-benefits-over-refined-sugar",
+      "https://barredwoodsmaple.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "barrelbroker.com",
+    "company_name": "The Barrel Broker",
+    "website": "https://barrelbroker.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@barrelbroker.com",
+        "confidence": "high",
+        "source_url": "https://barrelbroker.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "New Location by Apt 6330 W Don ges Bay Rd Mequon WI 53092 info@barrelbroker.com 262.236.9189"
+      }
+    ],
+    "role_emails": [
+      "info@barrelbroker.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://barrelbroker.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://barrelbroker.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://barrelbroker.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "The Barrel Broker",
+    "source_urls": [
+      "https://barrelbroker.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "barreletics.com",
+    "company_name": "Barreletics",
+    "website": "https://barreletics.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://barreletics.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://barreletics.com/pages/free-people",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://barreletics.com/pages/contact-us-form",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://barreletics.com/pages/contact-us-form",
+        "action": "/contact#contact-template--26590735204643__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Grip shoes for Barre, Pilates & Yoga\u2014secure every hold. No sliding. No resets. More grip, stability & control than grip socks. 360\u00b0 traction. Barefoot feel. Built for Reformer, Lagree & studio workouts.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "barrelofbeads.com",
+    "company_name": "Barrel of Beads",
+    "website": "https://www.barrelofbeads.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@barrelofbeads.com",
+        "confidence": "highest",
+        "source_url": "https://www.barrelofbeads.com",
+        "source_type": "archived",
+        "snapshot_date": "2026-06-09",
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@barrelofbeads.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.barrelofbeads.com",
+        "page_type": "home",
+        "source_type": "archived",
+        "snapshot_date": "2026-06-09"
+      },
+      {
+        "url": "https://www.barrelofbeads.com/pages/store-location-hours",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2026-06-09"
+      },
+      {
+        "url": "https://www.barrelofbeads.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2026-03-03"
+      },
+      {
+        "url": "https://www.barrelofbeads.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2026-03-01"
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.barrelofbeads.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Barrel of Beads offers Japanese and Czech seed bead supplies to craft your own jewelry. Visit our website or shop located in Woonsocket, Rhode Island.",
+    "source_urls": [
+      "https://www.barrelofbeads.com",
+      "https://www.barrelofbeads.com/pages/store-location-hours",
+      "https://www.barrelofbeads.com/pages/about-us",
+      "https://www.barrelofbeads.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "barrelofbooksandgames.com",
+    "company_name": "barrelofbooksandgames.com",
+    "website": "https://barrelofbooksandgames.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": "Independent Bookstore in Downtown Mount Dora \u2022 Used and New Books \u2022 Classic and Unique Games \u2022 Puzzles \u2022 Toys \u2022 Shop Online or In Store \u2022 Curbside Pickup and Free Local Delivery",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "barrelracers.com",
+    "company_name": "Josey Western Store",
+    "website": "https://barrelracers.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "barrettfragrances.com",
+    "company_name": "Barrett Fragrances",
+    "website": "https://barrettfragrances.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@barrettfragrances.com",
+        "confidence": "highest",
+        "source_url": "https://barrettfragrances.com/policies/contact-information",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ett Fragrances LLC Trade Name: Barrett Fragrances Email: support@barrettfragrances.com Customer Support Chat: Available on our website for optima"
+      }
+    ],
+    "role_emails": [
+      "support@barrettfragrances.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://barrettfragrances.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://barrettfragrances.com/pages/about-barrett-fragrances",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://barrettfragrances.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://barrettfragrances.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2026-01-07"
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://barrettfragrances.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "At our core, we pride ourselves on crafting fragrances that embody the essence of authenticity, exude remarkable strength, and linger on your senses for an extended period of time. Our unwavering mission is to provide our esteemed customers with an exquisite collection of high-quality, long-lasting ",
+    "source_urls": [
+      "https://barrettfragrances.com",
+      "https://barrettfragrances.com/pages/about-barrett-fragrances",
+      "https://barrettfragrances.com/policies/contact-information"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "barrettscoffee.com",
+    "company_name": "Barretts Coffee",
+    "website": "https://www.barrettscoffee.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@barrettscoffee.com",
+        "confidence": "highest",
+        "source_url": "https://www.barrettscoffee.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2021-01-22",
+        "context_snippet": "ook twitter instagram Call Us Today! 1-512-677-7667 | info@barrettscoffee.com OUR COFFE"
+      },
+      {
+        "address": "orders@barrettscoffee.com",
+        "confidence": "highest",
+        "source_url": "https://www.barrettscoffee.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "n's Ave. Austin, TX 78752 Phone: (512) 677-7667 Email: Orders@barrettscoffee.com Contact form Name Email"
+      }
+    ],
+    "role_emails": [
+      "info@barrettscoffee.com",
+      "orders@barrettscoffee.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.barrettscoffee.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.barrettscoffee.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2021-01-22"
+      },
+      {
+        "url": "https://www.barrettscoffee.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.barrettscoffee.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Roasting & Serving Fine Coffees \u00b7 Order online Take-out, Curbside & Delivery \u00b7 Cafe OPEN for walk-up service \u00b7 Coffee shipped to your doorstep",
+    "source_urls": [
+      "https://www.barrettscoffee.com/contact",
+      "https://www.barrettscoffee.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "barrettwoolco.com",
+    "company_name": "Barrett Wool Co.",
+    "website": "https://www.barrettwoolco.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.barrettwoolco.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.barrettwoolco.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.barrettwoolco.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.barrettwoolco.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Barrett Wool Co. is proudly offering 100% American sourced, spun and dyed wool yarns that bring a lovely vitality to any of your projects.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "barrhill.com",
+    "company_name": "Barr Hill",
+    "website": "https://www.barrhill.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.barrhill.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.barrhill.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.barrhill.com/blogs/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.barrhill.com",
+        "action": "/cart",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.barrhill.com/pages/contact",
+        "action": "/cart",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.barrhill.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.barrhill.com/blogs/press",
+        "action": "/cart",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Barr Hill Gin is an ode to the hardworking bees of the Northeast. Each batch is distilled in our custom-built botanical extraction still. The juniper-forward botanicals are brought to a perfect balance by the floral depth of the raw honey. The results are distinctive and unparalleled.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "barrierreefaquariums.com",
+    "company_name": "Barrier Reef Aquariums",
+    "website": "https://www.barrierreefaquariums.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@barrierreefaquariums.com",
+        "confidence": "high",
+        "source_url": "https://www.barrierreefaquariums.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "treet Behind Ste A ~ Renton, WA 98056 Phone: (425) 277-7670 info@barrierreefaquariums.com Showroom Hours: 12-7 W-F & 10-7 Sa-Su Closed: Mon - Tue"
+      }
+    ],
+    "role_emails": [
+      "info@barrierreefaquariums.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.barrierreefaquariums.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Western Washington\u2019s premier saltwater aquarium specialists since 1998. Custom aquarium design, installation & maintenance for homes and businesses across Seattle, Bellevue, Tacoma & beyond. Rare corals, expert care, nationwide shipping.",
+    "source_urls": [
+      "https://www.barrierreefaquariums.com"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "barrina-led.com",
+    "company_name": "barrina-led.com",
+    "website": "https://barrina-led.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "cst@barrina-led.com",
+        "confidence": "highest",
+        "source_url": "https://barrina-led.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Business Hours: Monday - Friday Customer Service Email: CST@barrina-led.com COMPANY About Barrina Barrina"
+      }
+    ],
+    "role_emails": [
+      "cst@barrina-led.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://barrina-led.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://barrina-led.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://barrina-led.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://barrina-led.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Since 2011, Barrina has dominated the market with their signature T5 and T8 products. Ideal for work and plant cultivation, they are the top-selling tube-shaped fixtures. Today, Barrina consistently ranks first on major platforms, making us a leading brand for LED shop lights and plant growth lights",
+    "source_urls": [
+      "https://barrina-led.com/contact",
+      "https://barrina-led.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "barringtonhardwoods.com",
+    "company_name": "BARRINGTON HARDWOODS",
+    "website": "https://barringtonhardwoods.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@barringtonhardwoods.com",
+        "confidence": "high",
+        "source_url": "https://barringtonhardwoods.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@barringtonhardwoods.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://barringtonhardwoods.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "We here at Barrington Hardwoods are a leading seller of domestic and exotic hardwood lumber, wood turning blanks, and 3/4\" lumber boards. Call or email us today!",
+    "source_urls": [
+      "https://barringtonhardwoods.com"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "barriquesmarket.com",
+    "company_name": "Barriques",
+    "website": "https://barriquesmarket.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@barriquesmarket.com",
+        "confidence": "highest",
+        "source_url": "https://barriquesmarket.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "matt@barriquesmarket.com",
+        "confidence": "high",
+        "source_url": "https://barriquesmarket.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@barriquesmarket.com",
+      "matt@barriquesmarket.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://barriquesmarket.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://barriquesmarket.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://barriquesmarket.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://barriquesmarket.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://barriquesmarket.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://barriquesmarket.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://barriquesmarket.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://barriquesmarket.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://barriquesmarket.com/pages/contact-us",
+        "action": "/contact#contact-template--21893874057472__contact-form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Locally owned and operated coffee roaster offering online and subscription coffee, wholesale, tea & bakery with cafes in Madison, Middleton and Fitchburg, WI. Fresh Roasted, Light Roast, Dark Roast, Fair Trade, Sustainable, Organic, Single Origin and Blended coffees available.",
+    "source_urls": [
+      "https://barriquesmarket.com",
+      "https://barriquesmarket.com/team",
+      "https://barriquesmarket.com/our-team",
+      "https://barriquesmarket.com/about",
+      "https://barriquesmarket.com/about-us",
+      "https://barriquesmarket.com/press",
+      "https://barriquesmarket.com/pages/about-us",
+      "https://barriquesmarket.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "barristerandmann.com",
+    "company_name": "Barrister and Mann LLC",
+    "website": "https://www.barristerandmann.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.barristerandmann.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.barristerandmann.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "We make grooming supplies of uncompromising quality for people of uncompromising taste.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "barrittsmixers.com",
+    "company_name": "Barritt's Mixers",
+    "website": "https://barrittsmixers.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://barrittsmixers.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://barrittsmixers.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "LIFE IS BETTER MIXED WITH BARRITT'S Barritt\u2019s makes delightfully distinctive mixers for any occasion \u2014 simply mix Barritt\u2019s with the spirit of your choice and enjoy. With a variety of flavor profiles, each gluten and caffeine-free with sugar-free options as well, there is a Barritt\u2019s mixer for every",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "barronettblinds.com",
+    "company_name": "Barronett Blinds\u00ae",
+    "website": "https://www.barronettblinds.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@barronettblinds.com",
+        "confidence": "highest",
+        "source_url": "https://www.barronettblinds.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2019-07-16",
+        "context_snippet": "AVENUE, PO BOX 666 | CUMBERLAND, WI 54829 | 800-345-6007 | INFO@BARRONETTBLINDS.COM Newsletter Wait..."
+      }
+    ],
+    "role_emails": [
+      "info@barronettblinds.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.barronettblinds.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.barronettblinds.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2019-07-16"
+      },
+      {
+        "url": "https://www.barronettblinds.com/pages/support-hub",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.barronettblinds.com/pages/support-hub",
+        "action": "/contact#contact-form-template--22235263369428__contact_8GVfT3",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "At Barronett Blinds\u00ae we believe the thrill of the hunt starts with big thinking and big ideas. From the very start, we began offering ground blinds that you can shoot from while standing, and customers noticed. Over the years we\u2019ve continued to create the best hunting blinds available with a strong ",
+    "source_urls": [
+      "https://www.barronettblinds.com/contact",
+      "https://www.barronettblinds.com/pages/support-hub"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "barrowfinefurniture.com",
+    "company_name": "Barrow Fine Furniture",
+    "website": "https://barrowfinefurniture.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "barrowandy@barrowfinefurniture.com",
+        "confidence": "high",
+        "source_url": "https://barrowfinefurniture.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "dothan@barrowfinefurniture.com",
+        "confidence": "high",
+        "source_url": "https://barrowfinefurniture.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "flomaton@barrowfinefurniture.com",
+        "confidence": "high",
+        "source_url": "https://barrowfinefurniture.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "mobile@barrowfinefurniture.com",
+        "confidence": "high",
+        "source_url": "https://barrowfinefurniture.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "pensacola@barrowfinefurniture.com",
+        "confidence": "high",
+        "source_url": "https://barrowfinefurniture.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "barrowandy@barrowfinefurniture.com",
+      "dothan@barrowfinefurniture.com",
+      "flomaton@barrowfinefurniture.com",
+      "mobile@barrowfinefurniture.com",
+      "pensacola@barrowfinefurniture.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://barrowfinefurniture.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://barrowfinefurniture.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://barrowfinefurniture.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Barrow Fine Furniture offers stylish, quality furniture at the best price possible, and in-home delivery. Visit one of our Alabama or Florida locations today!",
+    "source_urls": [
+      "https://barrowfinefurniture.com",
+      "https://barrowfinefurniture.com/pages/about-us",
+      "https://barrowfinefurniture.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "barrybonds.com",
+    "company_name": "Barry Bonds",
+    "website": "https://barrybonds.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "contact@barrybonds.com",
+        "confidence": "highest",
+        "source_url": "https://barrybonds.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "CONTACT For all other inquiries, email us at contact@barrybonds.com LATEST TWEETS Tweets by @"
+      }
+    ],
+    "role_emails": [
+      "contact@barrybonds.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://barrybonds.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.barrybonds.com/pages/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://barrybonds.com/pages/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://barrybonds.com",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.barrybonds.com/pages/media",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://barrybonds.com/pages/media",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "The Year of the Homer ended with the World Series of the Homer. Here's everything you need to know about Houston's win over L.A.The world champion Houston Astros and the Los Angeles Dodgers set sev...",
+    "source_urls": [
+      "https://barrybonds.com",
+      "https://www.barrybonds.com/pages/media",
+      "https://barrybonds.com/pages/media"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  }
+]
