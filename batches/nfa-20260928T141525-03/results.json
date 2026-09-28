@@ -1,0 +1,1525 @@
+[
+  {
+    "company_domain": "atomicdefense.com",
+    "company_name": "Atomic Defense",
+    "website": "https://www.atomicdefense.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.atomicdefense.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.atomicdefense.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.atomicdefense.com/collections/team-wendy",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.atomicdefense.com/pages/contact-atomic-defense",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.atomicdefense.com/pages/press-contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.atomicdefense.com/pages/press-contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Buy body armor and gear for military, police and civilians. The best tactical equipment, armor plates, ballistic helmets, bulletproof shields, plate carriers, and other equipment. Shop for tactical and military gear from brands you know and trust - with a wide selection. A tactical store near me and",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "atomicdisc.com",
+    "company_name": "Atomic Disc",
+    "website": "https://www.atomicdisc.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "%20production@atomicdisc.com",
+        "confidence": "highest",
+        "source_url": "https://www.atomicdisc.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "production@atomicdisc.com",
+        "confidence": "highest",
+        "source_url": "https://www.atomicdisc.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "mic Disc 1288 Liberty St. NE Salem, OR 97301 (503) 610-2929 production@atomicdisc.com Facebook Instag"
+      }
+    ],
+    "role_emails": [
+      "%20production@atomicdisc.com",
+      "production@atomicdisc.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.atomicdisc.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.atomicdisc.com/blogs/news/how-much-does-it-cost-to-press-vinyl",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atomicdisc.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.atomicdisc.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.atomicdisc.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.atomicdisc.com/blogs/news/how-much-does-it-cost-to-press-vinyl",
+        "action": "/blogs/news/how-much-does-it-cost-to-press-vinyl/comments#comment_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.atomicdisc.com/pages/contact",
+        "action": "/contact#ContactForm-AdW0zaVNjQkNia21LS__contact_form_UwiCkQ",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Atomic Disc makes short run CD duplication easy, fast and affordable. Fastest turn times on vinyl manufacturing. Located in Oregon. Run by musicians since 1993. Specializing in eco-friendly CD packaging and short-run vinyl.",
+    "source_urls": [
+      "https://www.atomicdisc.com",
+      "https://www.atomicdisc.com/blogs/news/how-much-does-it-cost-to-press-vinyl",
+      "https://atomicdisc.com/pages/about-us",
+      "https://www.atomicdisc.com/pages/contact",
+      "https://www.atomicdisc.com/policies/contact-information"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "atomicfilament.com",
+    "company_name": "Atomic Filament",
+    "website": "https://atomicfilament.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Email us",
+        "title": null,
+        "email": "sales@atomicfilament.com",
+        "source_url": "https://atomicfilament.com/pages/contact-us"
+      }
+    ],
+    "people": [
+      {
+        "name": "Email us",
+        "title": null,
+        "email": "sales@atomicfilament.com",
+        "source_url": "https://atomicfilament.com/pages/contact-us"
+      }
+    ],
+    "emails": [
+      {
+        "address": "sales@atomicfilament.com",
+        "confidence": "highest",
+        "source_url": "https://atomicfilament.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "400 East, Kendallville, Indiana 46755, United States \u2709\ufe0f sales@atomicfilament.com \ud83d\udcde 818-583-0004 QUICK LINKS"
+      },
+      {
+        "address": "support@atomicfilament.com",
+        "confidence": "highest",
+        "source_url": "https://atomicfilament.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "sales@atomicfilament.com",
+      "support@atomicfilament.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://atomicfilament.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atomicfilament.com/pages/some-detail-about-our-exceptional-quality",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atomicfilament.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atomicfilament.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Top Tier Made in USA 3D Printer Filament for Professionals and hobbyists. PLA ABS ASA PETG Nylon Tight tolerance , laser checked , Carbon fiber PLA PETG ABS ASA CF PLA CF PETG Nylon FREE SHIPPING High Quality",
+    "source_urls": [
+      "https://atomicfilament.com",
+      "https://atomicfilament.com/pages/some-detail-about-our-exceptional-quality",
+      "https://atomicfilament.com/pages/contact-us",
+      "https://atomicfilament.com/pages/about-us"
+    ],
+    "reason": null,
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "atomicfilters.com",
+    "company_name": "Atomic Filters",
+    "website": "https://atomicfilters.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@atomicfilters.com",
+        "confidence": "high",
+        "source_url": "https://atomicfilters.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@atomicfilters.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://atomicfilters.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atomicfilters.com/blogs/news/atomic-filters-was-privileged-to-support-fold-of-honor-june-21st-in-brentwood-tennessee",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atomicfilters.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atomicfilters.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://atomicfilters.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Air, furnace, pool & spa filter replacements for Carrier, Lennox, Trane, Pentair, Hayward. Save up to 40% vs. OEM. 4,200+ reviews. Fast shipping!",
+    "source_urls": [
+      "https://atomicfilters.com",
+      "https://atomicfilters.com/blogs/news/atomic-filters-was-privileged-to-support-fold-of-honor-june-21st-in-brentwood-tennessee",
+      "https://atomicfilters.com/pages/about-us",
+      "https://atomicfilters.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "atomicfurnishings.com",
+    "company_name": "Atomic Furnishing & Design",
+    "website": "https://atomicfurnishings.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://atomicfurnishings.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atomicfurnishings.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "We sell mid century modern furnishings and decor as well as handmade items out of our showroom in Asheville, NC.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "atomicmobiles.com",
+    "company_name": "Atomic Mobiles",
+    "website": "https://atomicmobiles.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Debra Ann",
+        "title": "Founder",
+        "email": "debbie@atomicmobiles.com",
+        "source_url": "https://atomicmobiles.com/pages/about",
+        "association": "proximity"
+      }
+    ],
+    "people": [
+      {
+        "name": "Debra Ann",
+        "title": "Founder",
+        "email": "debbie@atomicmobiles.com",
+        "source_url": "https://atomicmobiles.com/pages/about",
+        "association": "proximity"
+      }
+    ],
+    "emails": [
+      {
+        "address": "debbie@atomicmobiles.com",
+        "confidence": "high",
+        "source_url": "https://atomicmobiles.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "CONTACT (323) 640-0003 text/phone debbie@atomicmobiles.com . . . . . All items are designed and made to order by Deb"
+      }
+    ],
+    "role_emails": [
+      "debbie@atomicmobiles.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://atomicmobiles.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atomicmobiles.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atomicmobiles.com/pages/contact-debra-of-atomic-mobiles",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://atomicmobiles.com/pages/contact-debra-of-atomic-mobiles",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Atomic Mobiles offers unique handmade mid century modern style kinetic hanging art mobiles and stabiles inspired by Alexander Calder. We also offer retro room dividers and Space Age table top and pendant lamps. Fun mid century decorations for your home and office, available in custom colors and size",
+    "source_urls": [
+      "https://atomicmobiles.com",
+      "https://atomicmobiles.com/pages/about",
+      "https://atomicmobiles.com/pages/contact-debra-of-atomic-mobiles"
+    ],
+    "reason": null,
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "atomicmoviestore.com",
+    "company_name": "The Atomic Movie Store",
+    "website": "https://www.atomicmoviestore.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Street Pkwy Lenexa",
+        "title": null,
+        "email": "owner@atomicmoviestore.com",
+        "source_url": "https://www.atomicmoviestore.com/pages/contact",
+        "association": "proximity"
+      }
+    ],
+    "people": [
+      {
+        "name": "Street Pkwy Lenexa",
+        "title": null,
+        "email": "owner@atomicmoviestore.com",
+        "source_url": "https://www.atomicmoviestore.com/pages/contact",
+        "association": "proximity"
+      }
+    ],
+    "emails": [
+      {
+        "address": "owner@atomicmoviestore.com",
+        "confidence": "high",
+        "source_url": "https://www.atomicmoviestore.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "tore 12106 West 87th Street Pkwy Lenexa, KS 66215 EMAIL owner@atomicmoviestore.com Got any questions Name Email *"
+      }
+    ],
+    "role_emails": [
+      "owner@atomicmoviestore.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.atomicmoviestore.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.atomicmoviestore.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.atomicmoviestore.com/products/the-cinema-of-powell-pressburger-collection-two-1942-1956-4k-uhd-blu-ray-limited-edition-hardbox-hardcover-booklet-imprint-collection-615-621-imprint-region-free",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.atomicmoviestore.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Atomic Movie Store offers Import and Domestic 4K Ultra HD and Blu-ray home video releases.",
+    "source_urls": [
+      "https://www.atomicmoviestore.com/pages/contact",
+      "https://www.atomicmoviestore.com/products/the-cinema-of-powell-pressburger-collection-two-1942-1956-4k-uhd-blu-ray-limited-edition-hardbox-hardcover-booklet-imprint-collection-615-621-imprint-region-free"
+    ],
+    "reason": null,
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "atomicpolish.com",
+    "company_name": "Atomic Polish",
+    "website": "https://www.atomicpolish.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@atomicpolish.com",
+        "confidence": "high",
+        "source_url": "https://www.atomicpolish.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "emistry (hence the polish names). Contact Info Email: hello@atomicpolish.com Physical Address 475 Old Hwy 8 NW, New Brighton, Minnes"
+      }
+    ],
+    "role_emails": [
+      "hello@atomicpolish.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.atomicpolish.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.atomicpolish.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.atomicpolish.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.atomicpolish.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Handmade nail polish and cosmetics.",
+    "source_urls": [
+      "https://www.atomicpolish.com/pages/about-us",
+      "https://www.atomicpolish.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "atomicroastery.com",
+    "company_name": "Atomic Coffee Roasters",
+    "website": "https://atomicroastery.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@atomicroastery.com",
+        "confidence": "highest",
+        "source_url": "https://atomicroastery.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Contact Us hello@atomicroastery.com (978) 910-0489"
+      }
+    ],
+    "role_emails": [
+      "hello@atomicroastery.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://atomicroastery.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atomicroastery.com/products/witch-city-espresso-bundle?variant=42551181967478",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atomicroastery.com/products/espresso-explorer?variant=42446372405366",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atomicroastery.com/pages/about-atomic-coffee-roasters",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atomicroastery.com/pages/aeropress-championship",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atomicroastery.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atomicroastery.com/products/aeropress?variant=43402759929974",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atomicroastery.com/products/aeropress-standard-micro-filters?variant=43402596712566",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://atomicroastery.com/pages/contact-us",
+        "action": "/contact#ContactForm-Aako4bVJwb0owVFBFZ__contact_form_jWxXkm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Atomic Coffee Roasters offers premium, ethically sourced specialty coffee, roasted to order and hand-packaged just north of Boston, MA. Available for wholesale partnerships and home coffee subscriptions, we provide a range of blends, seasonal single origins, cold brew, and more!",
+    "source_urls": [
+      "https://atomicroastery.com",
+      "https://atomicroastery.com/products/witch-city-espresso-bundle?variant=42551181967478",
+      "https://atomicroastery.com/products/espresso-explorer?variant=42446372405366",
+      "https://atomicroastery.com/pages/about-atomic-coffee-roasters",
+      "https://atomicroastery.com/pages/aeropress-championship",
+      "https://atomicroastery.com/pages/contact-us",
+      "https://atomicroastery.com/products/aeropress?variant=43402759929974",
+      "https://atomicroastery.com/products/aeropress-standard-micro-filters?variant=43402596712566"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 16
+  },
+  {
+    "company_domain": "atomocoffee.com",
+    "company_name": "Atomo Coffee",
+    "website": "https://www.atomocoffee.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.atomocoffee.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.atomocoffee.com/our-team",
+        "page_type": "team",
+        "source_type": "archived",
+        "snapshot_date": "2020-08-11"
+      },
+      {
+        "url": "https://www.atomocoffee.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.atomocoffee.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.atomocoffee.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.atomocoffee.com/pages/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.atomocoffee.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.atomocoffee.com/products/remix-grounds-bluestone-lane-flagstaff-drip",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "At Atomo\u2122\u200a, we\u2019re brewing coffee that's good for your gut, best-tasting, and the most sustainable coffee on the planet. Made from upcycled ingredients and boasting all the flavor and caffeine of traditional coffee, our arabica brew dramatically reduces carbon emissions and water use while incurring ",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "atoms.com",
+    "company_name": "Atoms",
+    "website": "https://atoms.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@atoms.com",
+        "confidence": "highest",
+        "source_url": "https://atoms.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "support@atoms.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://atoms.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atoms.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atoms.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atoms.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Atoms are the most comfortable shoes for everyday wear. Elastic laces, copper lining, breathable materials, and simple design make them the best shoes for every day.",
+    "source_urls": [
+      "https://atoms.com",
+      "https://atoms.com/about",
+      "https://atoms.com/about-us",
+      "https://atoms.com/press"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "atomstack.com",
+    "company_name": "AtomStack",
+    "website": "https://atomstack.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "marketing@atomstack.com",
+        "confidence": "highest",
+        "source_url": "https://atomstack.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "promoting@atomstack.com Media and KOL Cooperation: marketing@atomstack.com Company Name: JINGZE (HONG KONG) TECHNOLOGY LIMITED"
+      },
+      {
+        "address": "official@atomstack.com",
+        "confidence": "highest",
+        "source_url": "https://atomstack.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Customer Support Pre-sales related inquires: official@atomstack.com After-sales related inquires: support@atomstack.co"
+      },
+      {
+        "address": "promoting@atomstack.com",
+        "confidence": "highest",
+        "source_url": "https://atomstack.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Influencer and Media Business Partnership: promoting@atomstack.com Media and KOL Cooperation: marketing@atomstack.com"
+      },
+      {
+        "address": "support@atomstack.com",
+        "confidence": "highest",
+        "source_url": "https://atomstack.com/pages/product-support",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "marketing@atomstack.com",
+      "official@atomstack.com",
+      "promoting@atomstack.com",
+      "support@atomstack.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://atomstack.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atomstack.com/pages/product-support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atomstack.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atomstack.com/pages/about-atomstack",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atomstack.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://atomstack.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "AtomStack technology empowers us to make better use of laser for our creative work. Learn about our laser engravers and laser cutters series including A5 Pro, A10 Pro, A20 Pro, A30 Pro, A40 Pro, A6 Pro, A12 Pro and A24 Pro, also series of useful accessories.",
+    "source_urls": [
+      "https://atomstack.com",
+      "https://atomstack.com/pages/product-support",
+      "https://atomstack.com/pages/contact",
+      "https://atomstack.com/pages/about-atomstack",
+      "https://atomstack.com/policies/contact-information"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "atopalm.com",
+    "company_name": "ATOPALM",
+    "website": "https://atopalm.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "service@atopalm.com",
+        "confidence": "high",
+        "source_url": "https://atopalm.com/policies/contact-information",
+        "source_type": "archived",
+        "snapshot_date": "2024-11-21",
+        "context_snippet": "Contact information Trade name: ATOPALM Email: service@atopalm.com Physical address: Dr. Raymond Laboratories, Inc, 28 Park"
+      }
+    ],
+    "role_emails": [
+      "service@atopalm.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://atopalm.com",
+        "page_type": "home",
+        "source_type": "archived",
+        "snapshot_date": "2024-12-22"
+      },
+      {
+        "url": "https://atopalm.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2024-11-21"
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://atopalm.com",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "If you want the best treatment for your dry or sensitive skin, shop Atopalm. We offer the highest quality serums, creams, moisturizers & more!",
+    "source_urls": [
+      "https://atopalm.com/policies/contact-information"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "atoriasfamilybakery.com",
+    "company_name": "Atoria's Family Bakery",
+    "website": "https://atoriasfamilybakery.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://atoriasfamilybakery.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atoriasfamilybakery.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atoriasfamilybakery.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atoriasfamilybakery.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://atoriasfamilybakery.com/pages/contact",
+        "action": "/contact#contact-us-page",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "From traditionally baked Lavash, Pita, and Naan to wholesome meal ideas \u2014 flatbreads crafted with care, simple Non-GMO ingredients, and decades of heritage.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "atoverland.com",
+    "company_name": "AT Overland Equipment",
+    "website": "https://atoverland.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://atoverland.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atoverland.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atoverland.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "AT Overland is the manufacturer, designer, and retailer of durable equipment for vehicle based expeditions and remote camping based in Prescott, AZ. We also manufacture the AT Habitat, AT Summit, AT Atlas Truck Toppers and the AT Aterra XL Flatbed Truck Camper.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "atozbev.com",
+    "company_name": "AtoZBev",
+    "website": "https://atozbev.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@atozbev.com",
+        "confidence": "high",
+        "source_url": "https://atozbev.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "eming Island , FL 32003 Phone : +1 (904) 375-9034 Email : info@atozbev.com Search"
+      }
+    ],
+    "role_emails": [
+      "info@atozbev.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://atozbev.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atozbev.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atozbev.com/products/chattanooga-founders-100-p",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atozbev.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://atozbev.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Shop AtoZBev for the widest selection of beer, wine and spirits online. Find the perfect drink for any occasion! Get delivered to your home or office.",
+    "source_urls": [
+      "https://atozbev.com",
+      "https://atozbev.com/pages/contact-us",
+      "https://atozbev.com/products/chattanooga-founders-100-p",
+      "https://atozbev.com/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "atpresent.com",
+    "company_name": "At Present",
+    "website": "https://atpresent.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "today@atpresent.com",
+        "confidence": "high",
+        "source_url": "https://atpresent.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "-Day Returns Always offered, rarely needed 24/7 SUPPORT today@atpresent.com CONCIERGE Get creative with it Sh"
+      }
+    ],
+    "role_emails": [
+      "today@atpresent.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://atpresent.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atpresent.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atpresent.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atpresent.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atpresent.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atpresent.com/a/blog/category/in-the-present-tense-people-we-admire",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "At Present is your marketplace for classic and one-of-a-kind jewelry \u2014 discover, shop, and share from emerging and established designers worldwide.",
+    "source_urls": [
+      "https://atpresent.com",
+      "https://atpresent.com/about",
+      "https://atpresent.com/contact",
+      "https://atpresent.com/pages/contact-us",
+      "https://atpresent.com/pages/about-us",
+      "https://atpresent.com/a/blog/category/in-the-present-tense-people-we-admire"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "atrendusa.com",
+    "company_name": "Atrend USA",
+    "website": "https://atrendusa.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://atrendusa.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atrendusa.com/pages/aboutus",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Shop USA-built subwoofer boxes or start a custom enclosure for your vehicle, subs and sound goals. MDF and birch options with nationwide delivery.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "atreyu.com",
+    "company_name": "Atreyu Running Shoes",
+    "website": "https://atreyu.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://atreyu.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atreyu.com/pages/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "High performance running shoes for training and racing. Based in Austin, TX. Shop online and we'll deliver you.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "atribecalledquest.com",
+    "company_name": "A Tribe Called Quest",
+    "website": "https://atribecalledquest.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://atribecalledquest.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atribecalledquest.com/blogs/discography/1990-people-s-instinctive-travels-and-the-paths-of-rhythm",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atribecalledquest.com/blogs/news/a-tribe-called-quest-we-the-people-video",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atribecalledquest.com/blogs/news/atcq-25-peoples-instinctive-travels-and-the-paths-of-rhythm",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atribecalledquest.com/products/atcq-peoples-instinctive-travels-black-tee",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atribecalledquest.com/products/atcq-peoples-instinctive-coach-jacket",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atribecalledquest.com/products/a-tribe-called-quest-reaction-figures-wave-01-peoples-instinctive-travels-and-the-paths-of-rhythm-4-pack",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atribecalledquest.com/products/peoples-instinctive-travels-and-the-paths-of-rhythm-vinyl",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Site and store of the legendary hip hop group A Tribe Called Quest. Get exclusive news and updates as well as purchase merchandise including t-shirts, sweatshirts, hats, sweat pants and more.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 16
+  },
+  {
+    "company_domain": "atsdiesel.com",
+    "company_name": "ATS Diesel",
+    "website": "https://atsdiesel.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@atsdiesel.com",
+        "confidence": "highest",
+        "source_url": "https://atsdiesel.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "11 Arvada, CO 80002 Phone: 303-431-7973 Email: info@atsdiesel.com Working Days/Hours: Mon - Fri / 7:30 AM - 5:30 PM"
+      }
+    ],
+    "role_emails": [
+      "info@atsdiesel.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://atsdiesel.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atsdiesel.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atsdiesel.com/collections/ford?product_type=Auto+Trans+Case+Shield,Auto+Trans+Clutch+Drum,Automatic+Transmission+Dipstick,Transmission+Flexplate,Transmission+Input+Shaft,Transmission+Intermediate+Shaft,Transmission+Output+Shaft",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atsdiesel.com/collections/dodge-ram?product_type=Transmission+Control+Module,Fuel+Pressure+Regulator,Solenoid+Harness+Jumper",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atsdiesel.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atsdiesel.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://atsdiesel.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "ATS Diesel offers industry-leading diesel performance products, specializing in transmissions, turbochargers, and fuel systems. Elevate your truck\u2019s power, reliability, and efficiency with our cutting-edge Transmissions, Turbos and expert engineering. Shop now for superior diesel solutions!",
+    "source_urls": [
+      "https://atsdiesel.com",
+      "https://atsdiesel.com/about-us",
+      "https://atsdiesel.com/collections/ford?product_type=Auto+Trans+Case+Shield,Auto+Trans+Clutch+Drum,Automatic+Transmission+Dipstick,Transmission+Flexplate,Transmission+Input+Shaft,Transmission+Intermediate+Shaft,Transmission+Output+Shaft",
+      "https://atsdiesel.com/collections/dodge-ram?product_type=Transmission+Control+Module,Fuel+Pressure+Regulator,Solenoid+Harness+Jumper",
+      "https://atsdiesel.com/pages/contact",
+      "https://atsdiesel.com/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "atsuko.com",
+    "company_name": "Atsuko",
+    "website": "https://atsuko.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://atsuko.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://atsuko.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Atsuko is a retail experience created for fans of anime. We carry officially licensed Anime Apparel & Accessories from the biggest names in anime like Dragon Ball Z, Hunter x Hunter, Berserk, Evangelion...(should we keep going?).",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "attaboy.us",
+    "company_name": "Attaboy",
+    "website": "https://attaboy.us",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://attaboy.us",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://attaboy.us/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://attaboy.us/press-1",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://attaboy.us/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "attachmentsking.com",
+    "company_name": "Attachments King",
+    "website": "https://attachmentsking.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "robots_disallowed",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "attackshark.com",
+    "company_name": "Attack Shark",
+    "website": "https://attackshark.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "partnerships@attackshark.com",
+        "confidence": "highest",
+        "source_url": "https://attackshark.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Creator Partnerships: Want a quicker response? Apply here! partnerships@attackshark.com COMPANY"
+      },
+      {
+        "address": "support@attackshark.com",
+        "confidence": "highest",
+        "source_url": "https://attackshark.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "details ORDER NOW (support@attackshark.com)"
+      }
+    ],
+    "role_emails": [
+      "partnerships@attackshark.com",
+      "support@attackshark.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://attackshark.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://attackshark.com/products/attackshark-cloud-comfortable-keyboard-wrist-rest-ergonomic-wrist-support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://attackshark.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://attackshark.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://attackshark.com/pages/contact",
+        "action": "/contact#contact-form-template--27893064171818__contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Attack Shark offers top-quality gaming keyboards, mice, headsets and accessories. Enjoy free shipping, 15-day returns, and a 12-month warranty. Level up your setup today!",
+    "source_urls": [
+      "https://attackshark.com",
+      "https://attackshark.com/products/attackshark-cloud-comfortable-keyboard-wrist-rest-ergonomic-wrist-support",
+      "https://attackshark.com/pages/about-us",
+      "https://attackshark.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  }
+]
