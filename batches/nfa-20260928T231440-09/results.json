@@ -1,0 +1,1521 @@
+[
+  {
+    "company_domain": "bcracing-na.com",
+    "company_name": "BC Racing",
+    "website": "https://bcracing-na.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://bcracing-na.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bcracing-na.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2021-04-18"
+      },
+      {
+        "url": "https://bcracing-na.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bcracing-na.com/contact/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bcracing-na.com/about",
+        "action": "/about",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://bcracing-na.com/contact",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://bcracing-na.com/contact",
+        "action": "/contact/#wpcf7-f402-p432-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://bcracing-na.com/contact/",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://bcracing-na.com/contact/",
+        "action": "/contact/#wpcf7-f402-p432-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "BC Racing Coilovers are highly customizable to allow all end-users to purchase the perfect setup for their specific needs.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "bcstrength.com",
+    "company_name": "BC Strength",
+    "website": "https://www.bcstrength.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Email info@bcstrength.com",
+        "title": null,
+        "email": "info@bcstrength.com",
+        "source_url": "https://www.bcstrength.com"
+      }
+    ],
+    "people": [
+      {
+        "name": "Email info@bcstrength.com",
+        "title": null,
+        "email": "info@bcstrength.com",
+        "source_url": "https://www.bcstrength.com"
+      }
+    ],
+    "emails": [
+      {
+        "address": "info@bcstrength.com",
+        "confidence": "highest",
+        "source_url": "https://www.bcstrength.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Email info@bcstrength.com Thruster Pro Glu"
+      }
+    ],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.bcstrength.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bcstrength.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bcstrength.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.bcstrength.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "The BC Strength range of equipment has been developed through the tireless pursuit of perfection at the Glute Lab training facility in San Diego - founded and run by Bret 'The Glute Guy' Contreras. Our range includes The Thruster 3.0, Glute Loops and the BC T-Bell.",
+    "source_urls": [
+      "https://www.bcstrength.com",
+      "https://www.bcstrength.com/pages/about",
+      "https://www.bcstrength.com/pages/contact-us"
+    ],
+    "reason": null,
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bddiesel.com",
+    "company_name": "BD Diesel USA",
+    "website": "https://us.bddiesel.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://us.bddiesel.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://us.bddiesel.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://us.bddiesel.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://us.bddiesel.com/pages/contact-us",
+        "action": "/contact#template--27761929912684__contact_form_QkxQTX-contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "BD Diesel builds proven diesel performance parts for more power, better reliability and towing confidence, including turbos and transmissions.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bddw.com",
+    "company_name": "BDDW",
+    "website": "https://bddw.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@bddw.com",
+        "confidence": "high",
+        "source_url": "https://bddw.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "MON-FRI 10-6 SAT 12-6 SUN CLOSED 310 943 7501 212 625 1230 INFO@BDDW.COM - GENERAL INQUIRIES PRESS@BDDW.COM - PRESS INQUIRIES SHOWRO"
+      },
+      {
+        "address": "press@bddw.com",
+        "confidence": "high",
+        "source_url": "https://bddw.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "310 943 7501 212 625 1230 INFO@BDDW.COM - GENERAL INQUIRIES PRESS@BDDW.COM - PRESS INQUIRIES SHOWROOM 1032 N HIGHLAND AVE LOS ANGELES,"
+      }
+    ],
+    "role_emails": [
+      "info@bddw.com",
+      "press@bddw.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bddw.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bddw.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bddw.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bddw.com/about#theauctions",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bddw.com/about#thecompany",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "BDDW is known for highly-crafted, American-made, heirloom quality furniture and objects designed exclusively by artist Tyler Hays.",
+    "source_urls": [
+      "https://bddw.com/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bdelliumtools.com",
+    "company_name": "Bdellium Tools",
+    "website": "https://www.bdelliumtools.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@bdelliumtools.com",
+        "confidence": "highest",
+        "source_url": "https://www.bdelliumtools.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2017-02-19",
+        "context_snippet": "cial Connect with us Blog support@bdelliumtools.com 13246 Alondra Blvd. Cerritos, CA 90703 Informatio"
+      }
+    ],
+    "role_emails": [
+      "support@bdelliumtools.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.bdelliumtools.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bdelliumtools.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2017-02-19"
+      },
+      {
+        "url": "https://www.bdelliumtools.com/press",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2017-02-19"
+      },
+      {
+        "url": "https://www.bdelliumtools.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bdelliumtools.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.bdelliumtools.com/pages/contact-us",
+        "action": "/contact#contact-template--25576023785789__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "For that Professional Touch | Explore professional makeup brushes from Bdellium Tools. Shop now.",
+    "source_urls": [
+      "https://www.bdelliumtools.com",
+      "https://www.bdelliumtools.com/about-us",
+      "https://www.bdelliumtools.com/press",
+      "https://www.bdelliumtools.com/pages/about-us",
+      "https://www.bdelliumtools.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bdgastore.com",
+    "company_name": "Bodega",
+    "website": "https://bdgastore.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "bdiusa.com",
+    "company_name": "BDI USA",
+    "website": "https://www.bdiusa.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "challenge_page",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "bdoutdoors.com",
+    "company_name": "Bloodydecks Fishing Clothes",
+    "website": "https://store.bdoutdoors.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "bdraddy.com",
+    "company_name": "B.Draddy",
+    "website": "https://www.bdraddy.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customercare@bdraddy.com",
+        "confidence": "high",
+        "source_url": "https://www.bdraddy.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "customercare@bdraddy.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.bdraddy.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bdraddy.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bdraddy.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bdraddy.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bdraddy.com/collections/us-team-uniform",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bdraddy.com/collections/international-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bdraddy.com/products/andy-hoodie-u-s-team-alternate?variant=50583740186874",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bdraddy.com/products/captain-cool-polo-u-s-team?variant=49978388513018",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bdraddy.com/products/andy-hoodie-u-s-team-grey-alternate?variant=67577567871226",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bdraddy.com/products/007-cashmere-crewneck-u-s-team?variant=49971892224250",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.bdraddy.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Capturing an aristocratic bohemian aesthetic with colors and fabrics naturally aged by the salt of the ocean. Timeless, comfortable, innovative, well made.",
+    "source_urls": [
+      "https://www.bdraddy.com",
+      "https://www.bdraddy.com/about",
+      "https://www.bdraddy.com/pages/contact-us",
+      "https://www.bdraddy.com/pages/about-us",
+      "https://www.bdraddy.com/collections/us-team-uniform",
+      "https://www.bdraddy.com/collections/international-team",
+      "https://www.bdraddy.com/products/andy-hoodie-u-s-team-alternate?variant=50583740186874",
+      "https://www.bdraddy.com/products/captain-cool-polo-u-s-team?variant=49978388513018",
+      "https://www.bdraddy.com/products/andy-hoodie-u-s-team-grey-alternate?variant=67577567871226",
+      "https://www.bdraddy.com/products/007-cashmere-crewneck-u-s-team?variant=49971892224250"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 17
+  },
+  {
+    "company_domain": "bdrivensports.com",
+    "company_name": "B-Driven Sports",
+    "website": "https://bdrivensports.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://bdrivensports.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bdrivensports.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bdrivensports.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bdrivensports.com/collections/enhanced-graduated-compression-leg-sleeves",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bdrivensports.com/collections/compression-socks-1",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bdrivensports.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bdrivensports.com/products/solid-compression-arm-sleeve-black",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bdrivensports.com/products/solid-compression-arm-sleeve-white",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bdrivensports.com/products/patriot-compression-arm-sleeve-pride",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bdrivensports.com/products/tactical-compression-arm-sleeve-sniper",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bdrivensports.com/pages/about-us",
+        "action": "/contact#contact-template--16887248355569__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://bdrivensports.com/products/solid-compression-arm-sleeve-black",
+        "action": "/contact#contact-contact526999158829",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://bdrivensports.com/products/solid-compression-arm-sleeve-white",
+        "action": "/contact#contact-contact527011119149",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://bdrivensports.com/products/patriot-compression-arm-sleeve-pride",
+        "action": "/contact#contact-contact527010824237",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://bdrivensports.com/products/tactical-compression-arm-sleeve-sniper",
+        "action": "/contact#contact-contact526998994989",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Discover B-Driven Sports' range of high-quality arm and leg compression sleeves ideal for both athletic and medical use. Our products offer style, comfort, UV protection, and graduated compression support. Shop now and experience the support you deserve!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 16
+  },
+  {
+    "company_domain": "bdrocks.com",
+    "company_name": "Beautiful Disaster Clothing",
+    "website": "https://www.bdrocks.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "bdrr.org",
+    "company_name": "BigDogRanch",
+    "website": "https://shop.bdrr.org",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "bds-suspension.com",
+    "company_name": "BDS Suspension",
+    "website": "https://bds-suspension.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://bds-suspension.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bds-suspension.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bds-suspension.com/pages/bds-support-resources",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bds-suspension.com/pages/contact-bds-suspension",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Build a Better Truck! Shop Lift Kits and Components for Truck & Jeep. Your first choice for Jeep, Chevy, GMC, Dodge, RAM, Ford, & Toyota Lift Kits.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bdstacticalgear.com",
+    "company_name": "BDS Tactical Gear",
+    "website": "https://www.bdstacticalgear.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.bdstacticalgear.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bdstacticalgear.com/collections/thuls-and-more/products/fire-support-leaders-guide",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bdstacticalgear.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bdstacticalgear.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.bdstacticalgear.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "BDS Tactical Gear items have been manufactured in Oceanside Ca since 2005. Owned and operated by a former Recon Marine and Baltimore City PD officer. Our products can be found all around the world at your local Marine Corps exchange and Army and Airforce Exchanges.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "bdxperformance.com",
+    "company_name": "BDX Performance",
+    "website": "https://bdxperformance.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "sales@bdxperformance.com",
+        "confidence": "highest",
+        "source_url": "https://bdxperformance.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "products Search 434-313-3535 sales@bdxperformance.com Log in Open mini cart"
+      }
+    ],
+    "role_emails": [
+      "sales@bdxperformance.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bdxperformance.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bdxperformance.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bdxperformance.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bdxperformance.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "BDX Performance assembles and sells off road vehicles and parts for golf carts, UTVs, buggies, go-karts, ATVs and other off road vehicles. Also a manufacturer of heavy duty and performance parts for off road vehicles and major seller of replacement engines for these vehicles.",
+    "source_urls": [
+      "https://bdxperformance.com",
+      "https://bdxperformance.com/pages/contact-us",
+      "https://bdxperformance.com/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "be-still-farms.com",
+    "company_name": "Be Still Farms- Real, Fine Organics",
+    "website": "https://be-still-farms.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://be-still-farms.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://be-still-farms.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://be-still-farms.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://be-still-farms.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Find, buy and learn about fresh, tasty, organic foods from Be Still Farms- USDA certified. High quality food, healthy recipes and healthy living is our passion!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "beachandbarn.com",
+    "company_name": "Beach & Barn",
+    "website": "https://www.beachandbarn.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "service@beachandbarn.com",
+        "confidence": "high",
+        "source_url": "https://www.beachandbarn.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "service@beachandbarn.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.beachandbarn.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beachandbarn.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2014-07-15"
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.beachandbarn.com/contact",
+        "action": "http://www.beachandbarn.com/contact/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Clothes for small towns & big water. Shop our selection of tees, pullovers, shorts, pants, pet accessories, coozies and more today at beachandbarn.com.",
+    "source_urls": [
+      "https://www.beachandbarn.com"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "beachanddog.com",
+    "company_name": "Beach and Dog Co",
+    "website": "https://beachanddog.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://beachanddog.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beachanddog.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://beachanddog.com",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://beachanddog.com/pages/about-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Healthy life, healthy dog. Hand crafted willow bicycle baskets for dogs, dog sunscreen, nautical themed dog collars and leashes",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "beachbikes.net",
+    "company_name": "Beachbikes",
+    "website": "https://www.beachbikes.net",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.beachbikes.net",
+        "page_type": "home",
+        "source_type": "archived",
+        "snapshot_date": "2026-06-11"
+      },
+      {
+        "url": "https://www.beachbikes.net/pages/in-the-media",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2026-03-09"
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Use of the site constitutes acceptance of our Terms of Use Copyright 2026. Beachbikes.net. All rights reserved. Privacy Policy",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "beachbub.com",
+    "company_name": "beachBUB\u00ae USA",
+    "website": "https://beachbub.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "contact@beachbub.com",
+        "confidence": "high",
+        "source_url": "https://beachbub.com/policies/contact-information",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ame: beachBUB\u00ae USA Phone number: (866) 432-1976 Email: contact@beachbub.com Physical address: beachBUB\u00ae USA, 561 Pegg Road, Greensbor"
+      }
+    ],
+    "role_emails": [
+      "contact@beachbub.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://beachbub.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beachbub.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beachbub.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beachbub.com/pages/about-beachbub",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beachbub.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://beachbub.com",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://beachbub.com/about-us",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://beachbub.com/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://beachbub.com/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://beachbub.com/pages/about-beachbub",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://beachbub.com/policies/contact-information",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Experience beach bliss with beachBUB\u00ae's lightweight and wind-resistant beach umbrella systems! Includes a ASTM F3681-24 compliant base and made in the USA!",
+    "source_urls": [
+      "https://beachbub.com/policies/contact-information"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "beachbum.com",
+    "company_name": "Beach Bum Tanning",
+    "website": "https://shop.beachbum.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://shop.beachbum.com",
+        "page_type": "home",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-11"
+      },
+      {
+        "url": "https://shop.beachbum.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2025-10-10"
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://shop.beachbum.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Explore the latest in apparel, beauty, and sweat accessories at Beach Bum Tanning's shop.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "beachbumoutdoors.com",
+    "company_name": "Beach Bum Outdoors",
+    "website": "https://beachbumoutdoors.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@beachbumoutdoors.com",
+        "confidence": "highest",
+        "source_url": "https://beachbumoutdoors.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "bout Us Contact Us 251.699.1822 info@beachbumoutdoors.com 3041 W 1st St. Gulf Shores, AL 36542"
+      }
+    ],
+    "role_emails": [
+      "info@beachbumoutdoors.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://beachbumoutdoors.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beachbumoutdoors.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beachbumoutdoors.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beachbumoutdoors.com/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beachbumoutdoors.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beachbumoutdoors.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beachbumoutdoors.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beachbumoutdoors.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beachbumoutdoors.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beachbumoutdoors.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://beachbumoutdoors.com/contact",
+        "action": "/contact#ContactForm-template--23102319427840__contact-form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://beachbumoutdoors.com/pages/contact-us",
+        "action": "/contact#ContactForm-template--23102319427840__contact-form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Discover top-quality fishing tackle, apparel, and beach accessories at Beach Bum Outdoors in Gulf Shores, Alabama. Whether you're a seasoned angler or a beginner, we provide expert-selected gear and essentials to enhance your fishing experience. Visit us today to \"Catch the Experience.\"\u200b",
+    "source_urls": [
+      "https://beachbumoutdoors.com",
+      "https://beachbumoutdoors.com/team",
+      "https://beachbumoutdoors.com/our-team",
+      "https://beachbumoutdoors.com/meet-the-team",
+      "https://beachbumoutdoors.com/about",
+      "https://beachbumoutdoors.com/about-us",
+      "https://beachbumoutdoors.com/press",
+      "https://beachbumoutdoors.com/contact",
+      "https://beachbumoutdoors.com/pages/about-us",
+      "https://beachbumoutdoors.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "beachbunnymusic.com",
+    "company_name": "Beach Bunny",
+    "website": "https://shop.beachbunnymusic.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://shop.beachbunnymusic.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.beachbunnymusic.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://shop.beachbunnymusic.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "\u200bExplore the official Beach Bunny merchandise store for exclusive apparel, accessories, and music from the indie pop band. Shop unique items like the Cereal T-Shirt, Bunny Cropped Tank, and pre-order the upcoming 'Tunnel Vision' album in CD and cassette formats. Show your support and stay connected ",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "beachbunnyswimwear.com",
+    "company_name": "Beach Bunny Swimwear",
+    "website": "https://www.beachbunnyswimwear.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@beachbunnyswimwear.com",
+        "confidence": "highest",
+        "source_url": "https://www.beachbunnyswimwear.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Email Us info@beachbunnyswimwear.com *This is our preferred method of contact* Our team will res"
+      },
+      {
+        "address": "shopfashion@beachbunnyswimwear.com",
+        "confidence": "high",
+        "source_url": "https://www.beachbunnyswimwear.com/pages/store-locations",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "0 Monday - Saturday: 10AM-8PM Sunday: 11PM-6PM 949-520-7460 shopfashion@beachbunnyswimwear.com International"
+      },
+      {
+        "address": "shopsquare@beachbunnyswimwear.com",
+        "confidence": "high",
+        "source_url": "https://www.beachbunnyswimwear.com/pages/store-locations",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "iday-Saturday: 10AM -9 PM Sunday: 10AM-6PM 480-248-8998 shopsquare@beachbunnyswimwear.com California"
+      }
+    ],
+    "role_emails": [
+      "info@beachbunnyswimwear.com",
+      "shopfashion@beachbunnyswimwear.com",
+      "shopsquare@beachbunnyswimwear.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.beachbunnyswimwear.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beachbunnyswimwear.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2018-10-05"
+      },
+      {
+        "url": "https://www.beachbunnyswimwear.com/pages/about-us-new",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beachbunnyswimwear.com/pages/store-locations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beachbunnyswimwear.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.beachbunnyswimwear.com/pages/contact-us",
+        "action": "/contact#ContactForm-template--21961124085891__contact-form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Discover the essence of sun-kissed confidence with Beach Bunny Swimwear, a celebrated brand crafted for women who embrace the allure of the beach. Founded by Angela Chittenden in the coastal haven of Newport Beach, California, Beach Bunny embodies a blend of luxury, femininity, and a deep love for s",
+    "source_urls": [
+      "https://www.beachbunnyswimwear.com/pages/store-locations",
+      "https://www.beachbunnyswimwear.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "beachcamera.com",
+    "company_name": "Beach Camera",
+    "website": "https://www.beachcamera.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "billing@beachcamera.com",
+        "confidence": "highest",
+        "source_url": "https://www.beachcamera.com/pages/customer-support",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Email us sales@beachcamera.com Email Billing : Email us billing@beachcamera.com Give us a call"
+      },
+      {
+        "address": "customerservice@beachcamera.com",
+        "confidence": "highest",
+        "source_url": "https://www.beachcamera.com/pages/customer-support",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "g non-business hours. Email Customer Service : Email us customerservice@beachcamera.com Email Sales : Email us sales@beachcamera.com"
+      },
+      {
+        "address": "sales@beachcamera.com",
+        "confidence": "highest",
+        "source_url": "https://www.beachcamera.com/pages/customer-support",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "rservice@beachcamera.com Email Sales : Email us sales@beachcamera.com Email Billing : Email us billing@beachcamera.com"
+      }
+    ],
+    "role_emails": [
+      "billing@beachcamera.com",
+      "customerservice@beachcamera.com",
+      "sales@beachcamera.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.beachcamera.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beachcamera.com/pages/customer-support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beachcamera.com/search?q=klipsch+promedia",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beachcamera.com/products/cuisinart-em-25-defined-cappuccino-latte-espresso-machine",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beachcamera.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Shop our collection of premium brands at the most competitive prices. Founded in 1983, we are an authorized dealer for most major brand names.",
+    "source_urls": [
+      "https://www.beachcamera.com/pages/customer-support",
+      "https://www.beachcamera.com/products/cuisinart-em-25-defined-cappuccino-latte-espresso-machine"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  }
+]
