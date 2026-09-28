@@ -1,0 +1,1496 @@
+[
+  {
+    "company_domain": "anvilbrand.com",
+    "company_name": "Anvil Brand",
+    "website": "https://www.anvilbrand.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "sales@anvilbrand.com",
+        "confidence": "highest",
+        "source_url": "https://www.anvilbrand.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Tel: 800-365-8202 Fax: 309-365-3341 Email Email: sales@anvilbrand.com Website: www.anvilbrand.com Do Not Sell My Personal Inform"
+      }
+    ],
+    "role_emails": [
+      "sales@anvilbrand.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.anvilbrand.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.anvilbrand.com/collections/impression-materials",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.anvilbrand.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.anvilbrand.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Anvil Brand manufactures and sells Horseshoes, Anvils, Blacksmiths tools and supplies. We make our products in the USA. Our complete line of farrier supplies includes hoof knives, hammers, horseshoe nails, Blacksmith and Farrier Aprons. Hoof care products includes: Supplements, Thrush treatments and",
+    "source_urls": [
+      "https://www.anvilbrand.com",
+      "https://www.anvilbrand.com/collections/impression-materials",
+      "https://www.anvilbrand.com/pages/about",
+      "https://www.anvilbrand.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "anvilcard.com",
+    "company_name": "Anvil Card Co.",
+    "website": "https://anvilcard.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@anvilcard.com",
+        "confidence": "high",
+        "source_url": "https://anvilcard.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "hello@anvilcard.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://anvilcard.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://anvilcard.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://anvilcard.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Discover nostalgia and craftsmanship at its finest with our meticulously crafted replica cigarette packs from the early 1900s, offering enthusiasts a charming journey into the past. 1909 Honus Wagner T206 Piedmont, Sweet Caporal Tobacco Most Expensive Baseball Cards. Ty Cobb, Christy Mathewson, Shoe",
+    "source_urls": [
+      "https://anvilcard.com",
+      "https://anvilcard.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "anvilcustoms.com",
+    "company_name": "Anvil Customs",
+    "website": "https://anvilcustoms.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "anvil@anvilcustoms.com",
+        "confidence": "highest",
+        "source_url": "https://anvilcustoms.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "anvil@anvilcustoms.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://anvilcustoms.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://anvilcustoms.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://anvilcustoms.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://anvilcustoms.com/pages/contact-us",
+        "action": "/contact#form-contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Anvil Customs creates custom leather wallets, belts, motorcycle seats, bags and wallet chains. All of our leather goods are made in the USA. We offer a lifetime warranty on all our leather goods because we build premium, heirloom products that are meant to last generations.",
+    "source_urls": [
+      "https://anvilcustoms.com",
+      "https://anvilcustoms.com/pages/about-us",
+      "https://anvilcustoms.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "anwarcarrots.com",
+    "company_name": "Carrots By Anwar Carrots",
+    "website": "https://anwarcarrots.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://anwarcarrots.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://anwarcarrots.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://anwarcarrots.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://anwarcarrots.com/pages/contact",
+        "action": "/contact#ContactForm-ANEtEWDRRSjlsTjJkU__contact_form_UwiCkQ",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Carrots By Anwar Carrots",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "any-di.us",
+    "company_name": "ANY DI USA",
+    "website": "https://any-di.us",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "anyalust.com",
+    "company_name": "Anya Lust",
+    "website": "https://anyalust.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "assistance@anyalust.com",
+        "confidence": "high",
+        "source_url": "https://anyalust.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "m. Let us know if you need complimentary personal shopping: assistance@anyalust.com."
+      }
+    ],
+    "role_emails": [
+      "assistance@anyalust.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://anyalust.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://anyalust.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://anyalust.com/pages/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Discover our unique collection of high end lingerie, designer bras, sexy underwear, silk loungewear, date night outfits, and bedroom accessories from the world's best luxury lingerie designers. Free shipping on US orders over $100. Fast worldwide shipping. Easy checkout. Beautiful gift wrapping avai",
+    "source_urls": [
+      "https://anyalust.com",
+      "https://anyalust.com/press",
+      "https://anyalust.com/pages/press"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "anyas-shop.com",
+    "company_name": "Anya's Shop",
+    "website": "https://anyas-shop.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://anyas-shop.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://anyas-shop.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2022-01-22"
+      },
+      {
+        "url": "https://anyas-shop.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://anyas-shop.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://anyas-shop.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://anyas-shop.com/about",
+        "action": "/about/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://anyas-shop.com/contact",
+        "action": "/contact#contact-template--16009957736606__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://anyas-shop.com/pages/contact-us",
+        "action": "/contact#contact-template--16009957736606__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Curated selection of barefoot shoes and foot health products.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "anycubic.com",
+    "company_name": "Anycubic",
+    "website": "https://www.anycubic.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.anycubic.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.anycubic.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.anycubic.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.anycubic.com/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.anycubic.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.anycubic.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.anycubic.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.anycubic.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.anycubic.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.anycubic.com/en/SupportCenter",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Discover the best Resin and FDM 3D printers, filaments, accessories and software on Anycubic. Elevate your printing projects with top-quality materials.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "anykindoffilter.com",
+    "company_name": "Any Kind Of Filter",
+    "website": "https://www.anykindoffilter.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "contactus@anykindoffilter.com",
+        "confidence": "highest",
+        "source_url": "https://www.anykindoffilter.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "(251) 243-0975 Toll Free (800) 253-2645 Email contactus@anykindoffilter.com Address 27 Harris Avenue Saraland, Alabama 36571"
+      }
+    ],
+    "role_emails": [
+      "contactus@anykindoffilter.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.anykindoffilter.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.anykindoffilter.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.anykindoffilter.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Find standard and custom air filters for residential, commercial, and specialty applications. Any Kind of Filter helps you get the right fit, size, and filtration level.",
+    "source_urls": [
+      "https://www.anykindoffilter.com",
+      "https://www.anykindoffilter.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "anylevellift.com",
+    "company_name": "Any Level Lift",
+    "website": "https://anylevellift.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://anylevellift.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://anylevellift.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2019-09-20"
+      },
+      {
+        "url": "https://anylevellift.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://anylevellift.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Any Level Lift",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "anymaka.com",
+    "company_name": "anymaka Official Site",
+    "website": "https://www.anymaka.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hi@anymaka.com",
+        "confidence": "high",
+        "source_url": "https://www.anymaka.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "pload relevant images/videos for faster assistance). Email: hi@anymaka.com Addresses: US: 6547 N Academy Blvd, Colorado Springs HK: Of"
+      }
+    ],
+    "role_emails": [
+      "hi@anymaka.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.anymaka.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.anymaka.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.anymaka.com/pages/about-anymaka",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Discover the convenience of anymaka portable hammock stand. Enjoy outdoor relaxation with our lightweight and SnapFold design.",
+    "source_urls": [
+      "https://www.anymaka.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "anymeansnecessary.com",
+    "company_name": "Any Means Necessary Clothing",
+    "website": "https://anymeansnecessary.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://anymeansnecessary.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://anymeansnecessary.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://anymeansnecessary.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://anymeansnecessary.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Any Means Necessary features the art of Shawn Coss with the fashion sense of Mikey Nemitz. A brand that does whatever it takes.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "anyondesign.com",
+    "company_name": "Anyon Design and Atelier",
+    "website": "https://www.anyondesign.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "atelier@anyondesign.com",
+        "confidence": "highest",
+        "source_url": "https://www.anyondesign.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "i | 10 a.m. - 5:00 p.m. Sat + Sun | Closed atelier@anyondesign.com Locations 5238 Milam Street, Dallas, TX"
+      },
+      {
+        "address": "info@anyondesign.com",
+        "confidence": "highest",
+        "source_url": "https://www.anyondesign.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "sitions. If you are interested, please send your resume to info@anyondesign.com SIGN UP"
+      }
+    ],
+    "role_emails": [
+      "atelier@anyondesign.com",
+      "info@anyondesign.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.anyondesign.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.anyondesign.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.anyondesign.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.anyondesign.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.anyondesign.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.anyondesign.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.anyondesign.com/pages/press-page",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Looking for a contemporary furniture and interior design store in San Francisco? Check out our collection of high-end furniture, luxury home furnishings and d\u00e9cor.",
+    "source_urls": [
+      "https://www.anyondesign.com/about-us",
+      "https://www.anyondesign.com/contact",
+      "https://www.anyondesign.com/pages/about-us",
+      "https://www.anyondesign.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "anyroofhatch.com",
+    "company_name": "AnyLadder",
+    "website": "https://anyroofhatch.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "anythingdiscovered.com",
+    "company_name": "Anything Discovered",
+    "website": "https://anythingdiscovered.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@anythingdiscovered.com",
+        "confidence": "highest",
+        "source_url": "https://anythingdiscovered.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Customer Service info@anythingdiscovered.com Shipping & Returns \u00a9 2026 Anything Discovered, Power"
+      }
+    ],
+    "role_emails": [
+      "info@anythingdiscovered.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://anythingdiscovered.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Antiques, Vintage Home Decor and One of a Kind Objects with Character - antique shop, vintage store, collectibles, porcelain, tea pots, cake stands, milk glass, crystal wine glasses, tea cups, pewter, brass, copper, metalware, interior decor items, seasonal decor, hosting essentials.",
+    "source_urls": [
+      "https://anythingdiscovered.com"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "anythingscout.com",
+    "company_name": "Anything Scout",
+    "website": "https://anythingscout.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "helpme@anythingscout.com",
+        "confidence": "highest",
+        "source_url": "https://anythingscout.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2015-05-11",
+        "context_snippet": "or call us at 515-233-3020 Need help? Send us an email HelpMe@anythingscout.com Login | Signup! Adding to"
+      }
+    ],
+    "role_emails": [
+      "helpme@anythingscout.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://anythingscout.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://anythingscout.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2015-05-11"
+      },
+      {
+        "url": "https://anythingscout.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://anythingscout.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://anythingscout.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Anything Scout - Honoring the Past, Building the Future. Parts (NOS, Fabricated, and Custom), LS Engine Swap Conversions and Full Restorations on International Scout II, Scout 800, and more.",
+    "source_urls": [
+      "https://anythingscout.com/about"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "anythingspeaker.com",
+    "company_name": "Anything Speaker",
+    "website": "https://anythingspeaker.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "contact@anythingspeaker.com",
+        "confidence": "highest",
+        "source_url": "https://anythingspeaker.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "help@anythingspeaker.com",
+        "confidence": "high",
+        "source_url": "https://anythingspeaker.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Cart Contact Us Email: help@anythingspeaker.com Contact form Name Email"
+      }
+    ],
+    "role_emails": [
+      "contact@anythingspeaker.com",
+      "help@anythingspeaker.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://anythingspeaker.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://anythingspeaker.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://anythingspeaker.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://anythingspeaker.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://anythingspeaker.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Turn Anything Into A Speaker with portable Bluetooth bone conduction vibration technology. Small size, powerful bass, long battery life, ideal for travel.",
+    "source_urls": [
+      "https://anythingspeaker.com/pages/contact",
+      "https://anythingspeaker.com/policies/contact-information"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "anytimebaseballsupply.com",
+    "company_name": "Anytime Baseball Supply",
+    "website": "https://www.anytimebaseballsupply.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@anytimebaseballsupply.com",
+        "confidence": "high",
+        "source_url": "https://www.anytimebaseballsupply.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ve Us a Call! Support: (888) 466-0009 Sales: (213) 221-3049 support@anytimebaseballsupply.com Follow us! Anytime Ba"
+      }
+    ],
+    "role_emails": [
+      "support@anytimebaseballsupply.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.anytimebaseballsupply.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.anytimebaseballsupply.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.anytimebaseballsupply.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.anytimebaseballsupply.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Prepare for every pitch with the best gear in baseball. Click here to take your game to the next level. Free shipping on all orders over $49+.",
+    "source_urls": [
+      "https://www.anytimebaseballsupply.com",
+      "https://www.anytimebaseballsupply.com/pages/about-us",
+      "https://www.anytimebaseballsupply.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "anytimesportssupply.com",
+    "company_name": "Anytime Sports Supply",
+    "website": "https://www.anytimesportssupply.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@anytimesportssupply.com",
+        "confidence": "high",
+        "source_url": "https://www.anytimesportssupply.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "888) 406-2544 Monday - Friday 8:00 a.m. - 4:00 p.m. Email: support@anytimesportssupply.com Anytime Sports Supply We accept American Express"
+      }
+    ],
+    "role_emails": [
+      "support@anytimesportssupply.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.anytimesportssupply.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.anytimesportssupply.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.anytimesportssupply.com/collections/leg-press-and-leg-extensions",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.anytimesportssupply.com/collections/first-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.anytimesportssupply.com/collections/the-abs-company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.anytimesportssupply.com/products/first-team-wallmonster%E2%84%A2-wall-mount-basketball-goal",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.anytimesportssupply.com/products/first-team-ft196-breakaway-basketball-rim",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.anytimesportssupply.com/products/first-team-omnichamp%E2%84%A2-portable-basketball-goal",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.anytimesportssupply.com/products/first-team-roofmaster%E2%84%A2-roof-mount-wall-mounted-basketball-goal",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.anytimesportssupply.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.anytimesportssupply.com/products/first-team-wallmonster%E2%84%A2-wall-mount-basketball-goal",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.anytimesportssupply.com/products/first-team-ft196-breakaway-basketball-rim",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.anytimesportssupply.com/products/first-team-omnichamp%E2%84%A2-portable-basketball-goal",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.anytimesportssupply.com/products/first-team-roofmaster%E2%84%A2-roof-mount-wall-mounted-basketball-goal",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Leading Retailer of sports training equipment. Train Anytime.",
+    "source_urls": [
+      "https://www.anytimesportssupply.com",
+      "https://www.anytimesportssupply.com/pages/contact-us",
+      "https://www.anytimesportssupply.com/collections/leg-press-and-leg-extensions",
+      "https://www.anytimesportssupply.com/collections/first-team",
+      "https://www.anytimesportssupply.com/collections/the-abs-company",
+      "https://www.anytimesportssupply.com/products/first-team-wallmonster%E2%84%A2-wall-mount-basketball-goal",
+      "https://www.anytimesportssupply.com/products/first-team-ft196-breakaway-basketball-rim",
+      "https://www.anytimesportssupply.com/products/first-team-omnichamp%E2%84%A2-portable-basketball-goal",
+      "https://www.anytimesportssupply.com/products/first-team-roofmaster%E2%84%A2-roof-mount-wall-mounted-basketball-goal"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 17
+  },
+  {
+    "company_domain": "anyutacouture.com",
+    "company_name": "ANYUTA  COUTURE",
+    "website": "https://anyutacouture.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customerservice@anyutacouture.com",
+        "confidence": "high",
+        "source_url": "https://anyutacouture.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Glendale CA 91204 Preferred By Appointment 818.943.0725 customerservice@anyutacouture.com Mon - Fri 9:30am - 5:00pm Get directions"
+      }
+    ],
+    "role_emails": [
+      "customerservice@anyutacouture.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://anyutacouture.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://anyutacouture.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://anyutacouture.com/pages/location",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://anyutacouture.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Free Shipping on all order. xxs-6x. Explore luxury maternity dresses designed for baby showers, photoshoots and special moments- in Los Angeles California . Our inclusive sizes celebrates every body, from petit to plus, with styles that offer elegance and comfortable fit.",
+    "source_urls": [
+      "https://anyutacouture.com",
+      "https://anyutacouture.com/about",
+      "https://anyutacouture.com/pages/location",
+      "https://anyutacouture.com/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "anzzi.com",
+    "company_name": "ANZZI",
+    "website": "https://anzzi.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@anzzi.com",
+        "confidence": "highest",
+        "source_url": "https://anzzi.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2022-11-28",
+        "context_snippet": "vice 1-844-442-6994 Tech Support 1-305-330-1146 info@anzzi.com Shower Bases Doors Head"
+      },
+      {
+        "address": "sales@anzzi.com",
+        "confidence": "high",
+        "source_url": "https://anzzi.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Email: sales@anzzi.com Quick Li"
+      }
+    ],
+    "role_emails": [
+      "info@anzzi.com",
+      "sales@anzzi.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://anzzi.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://anzzi.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://anzzi.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://anzzi.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2022-11-28"
+      },
+      {
+        "url": "https://anzzi.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://anzzi.com/contact",
+        "action": "/contact/#wpcf7-f489-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://anzzi.com/pages/contact-us",
+        "action": "/contact#ContactForm-template--19335738294442__contact_form_custom_nBY9Jt",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Shop ANZZI bathroom &amp; kitchen fixtures direct from the manufacturer\u2014freestanding tubs, faucets, showers, sinks &amp; more. Premium quality. Shop, save &amp; ship.",
+    "source_urls": [
+      "https://anzzi.com",
+      "https://anzzi.com/about",
+      "https://anzzi.com/about-us",
+      "https://anzzi.com/contact",
+      "https://anzzi.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "ao5gallery.com",
+    "company_name": "Ao5 Gallery",
+    "website": "https://ao5gallery.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "framing@ao5gallery.com",
+        "confidence": "highest",
+        "source_url": "https://ao5gallery.com/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "d price point. For all framing questions , please email framing@ao5gallery.com . or call 512.481.1111 . For all other questions , plea"
+      },
+      {
+        "address": "inquiries@ao5gallery.com",
+        "confidence": "highest",
+        "source_url": "https://ao5gallery.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Contact EMAIL: inquiries@ao5gallery.com PHONE: 512-481-1111 LOCATION: Arboretum, Austin TX"
+      }
+    ],
+    "role_emails": [
+      "framing@ao5gallery.com",
+      "inquiries@ao5gallery.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://ao5gallery.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ao5gallery.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ao5gallery.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ao5gallery.com/pages/contact-ao5-gallery",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://ao5gallery.com/about",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://ao5gallery.com/pages/about",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://ao5gallery.com/pages/contact-ao5-gallery",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Ao5 Gallery is Austin\u2019s largest contemporary art gallery, committed to bringing a wide selection of accessible fine art to Austin for over 20 years. We also offer professional Custom Framing by one of Austin's only Certified Picture Framers. Our frame quality and creative design is second to none.",
+    "source_urls": [
+      "https://ao5gallery.com",
+      "https://ao5gallery.com/about",
+      "https://ao5gallery.com/pages/about",
+      "https://ao5gallery.com/pages/contact-ao5-gallery"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "aoc.com",
+    "company_name": "AOC",
+    "website": "https://www.aoc.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "aocoolers.com",
+    "company_name": "AO Coolers",
+    "website": "https://aocoolers.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@aocoolers.com",
+        "confidence": "highest",
+        "source_url": "https://aocoolers.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "California Prop 65 Disclosure \u260e\ufe0f (951) 582-9798 \ud83d\udce5 info@aocoolers.com Youtube Instagram"
+      }
+    ],
+    "role_emails": [
+      "info@aocoolers.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://aocoolers.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aocoolers.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2021-10-26"
+      },
+      {
+        "url": "https://aocoolers.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2020-10-28"
+      },
+      {
+        "url": "https://aocoolers.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aocoolers.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://aocoolers.com/contact",
+        "action": "https://aocoolers.com/contact/index/post/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://aocoolers.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "AO Coolers is the original soft-sided cooler! With a complete line of coolers, drinkware, accessories and marine products American Outdoors is a leading manufacturer of quality outdoor gear. Whether its a day on the boat, weekend camping trip, an off-road adventure or the journey of a lifetime, be r",
+    "source_urls": [
+      "https://aocoolers.com",
+      "https://aocoolers.com/about-us",
+      "https://aocoolers.com/pages/about-us",
+      "https://aocoolers.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "aocpet.com",
+    "company_name": "Animal Ortho Care",
+    "website": "https://www.aocpet.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  }
+]
