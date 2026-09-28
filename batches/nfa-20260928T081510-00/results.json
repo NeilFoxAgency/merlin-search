@@ -1,0 +1,1399 @@
+[
+  {
+    "company_domain": "apexride.com",
+    "company_name": "Apex",
+    "website": "https://apexride.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "apexsimracing.com",
+    "company_name": "Apex Sim Racing",
+    "website": "https://www.apexsimracing.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.apexsimracing.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.apexsimracing.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.apexsimracing.com/pages/apex-sim-racing-about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Apex Sim Racing is a leading U.S. retailer for sim racing gear, flight simulation, and accessories. 25,000+ orders shipped and rated best in customer service. Shop premium button boxes, steering wheels, pedals, displays, racing PCs, and turnkey rigs. Authorized dealer to top brands.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "apexskiboots.com",
+    "company_name": "APEX SKI BOOTS",
+    "website": "https://www.apexskiboots.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.apexskiboots.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.apexskiboots.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2016-06-25"
+      },
+      {
+        "url": "https://www.apexskiboots.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.apexskiboots.com/pages/about-apex",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.apexskiboots.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.apexskiboots.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Apex Ski Boot System the leading ski boot that provides extreme comfort with out compromising performance.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "aphmeow.com",
+    "company_name": "Aphmeow",
+    "website": "https://www.aphmeow.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customerservice@aphmeow.com",
+        "confidence": "highest",
+        "source_url": "https://www.aphmeow.com/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "r you! Still Have Questions? Customer Service Email us at customerservice@aphmeow.com and our team will get back to you as soon as possible Cus"
+      }
+    ],
+    "role_emails": [
+      "customerservice@aphmeow.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.aphmeow.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.aphmeow.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.aphmeow.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "HOME OF APHMAU X MEEMEOWS OFFICIAL MERCH \ud83d\udc9c",
+    "source_urls": [
+      "https://www.aphmeow.com/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "aphoticrestaurant.com",
+    "company_name": "Aphotic",
+    "website": "https://aphoticrestaurant.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@aphoticrestaurant.com",
+        "confidence": "high",
+        "source_url": "https://aphoticrestaurant.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "816 Folsom St. San Francisco, CA. 94107 415.865.0529 | info@aphoticrestaurant.com 37\u00b046\u201955.3\u201d N 122\u00b024\u201906.0\u201d W"
+      }
+    ],
+    "role_emails": [
+      "info@aphoticrestaurant.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://aphoticrestaurant.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Aphotic offers a vibrant dinner menu attuned with the seasons, using a variety of high quality ingredients. Experience the inviting atmosphere of Aphotic with an extensive selection of wine sourced from sustainable and quality-driven producers from around the globe.",
+    "source_urls": [
+      "https://aphoticrestaurant.com"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "apieceapart.com",
+    "company_name": "Apiece Apart",
+    "website": "https://www.apieceapart.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "%20press@apieceapart.com",
+        "confidence": "highest",
+        "source_url": "https://www.apieceapart.com/contact-information",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "//info@apieceapart.com",
+        "confidence": "highest",
+        "source_url": "https://www.apieceapart.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2021-05-11",
+        "context_snippet": ""
+      },
+      {
+        "address": "customerservice@apieceapart.com",
+        "confidence": "highest",
+        "source_url": "https://www.apieceapart.com/contact-information",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "our order status? Email our customer service team at customerservice@apieceapart.com We're also available to chat here Monday-Friday 10 AM -"
+      },
+      {
+        "address": "info@apieceapart.com",
+        "confidence": "highest",
+        "source_url": "https://www.apieceapart.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "partnerships@apieceapart.com",
+        "confidence": "highest",
+        "source_url": "https://www.apieceapart.com/contact-information",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "com For Press and Content inquires Contact partnerships@apieceapart.com For Career inquires Contact info @ apiecea"
+      },
+      {
+        "address": "u003ecustomerservice@apieceapart.com",
+        "confidence": "high",
+        "source_url": "https://www.apieceapart.com/contact-information",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "u003epartnerships@apieceapart.com",
+        "confidence": "high",
+        "source_url": "https://www.apieceapart.com/contact-information",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "%20press@apieceapart.com",
+      "//info@apieceapart.com",
+      "customerservice@apieceapart.com",
+      "info@apieceapart.com",
+      "partnerships@apieceapart.com",
+      "u003ecustomerservice@apieceapart.com",
+      "u003epartnerships@apieceapart.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.apieceapart.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.apieceapart.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.apieceapart.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2021-05-11"
+      },
+      {
+        "url": "https://www.apieceapart.com/press",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2024-01-13"
+      },
+      {
+        "url": "https://www.apieceapart.com/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Apiece Apart offers pieces as versatile as the women wearing them. The label balances the simple with the sophisticated; the classic with the modern.",
+    "source_urls": [
+      "https://www.apieceapart.com",
+      "https://www.apieceapart.com/about-us",
+      "https://www.apieceapart.com/press",
+      "https://www.apieceapart.com/contact-information"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "apifishcare.com",
+    "company_name": "shop.apifishcare.com",
+    "website": "https://shop.apifishcare.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://shop.apifishcare.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "API\u00ae brand is passionate about fish keeping and has been in the aquatics industry for over 60 years developing and perfecting indoor aquarium and outdoor pond products.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "apimaye-usa.com",
+    "company_name": "Apimaye Insulated Bee Hives",
+    "website": "https://apimaye-usa.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@apimaye-usa.com",
+        "confidence": "high",
+        "source_url": "https://apimaye-usa.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Kaftan LLC 317 S. 9th Avenue Phoenix, AZ 85007 Email: support@apimaye-usa.com Phone: 480-648-8385 Newsletter Subscribe"
+      }
+    ],
+    "role_emails": [
+      "support@apimaye-usa.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://apimaye-usa.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://apimaye-usa.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2019-04-07"
+      },
+      {
+        "url": "https://apimaye-usa.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://apimaye-usa.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://apimaye-usa.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://apimaye-usa.com/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://apimaye-usa.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Keep your bees warm in the winter to reduce winter losses. Apimaye hives are 6 times more insulated than wooden hives, helping them survive longer and harsher winters. Our bee hives feature all the accessories needed for your operation and makes beekeeping easy for beginners and professionals.",
+    "source_urls": [
+      "https://apimaye-usa.com",
+      "https://apimaye-usa.com/contact",
+      "https://apimaye-usa.com/pages/about-us",
+      "https://apimaye-usa.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "aplos.world",
+    "company_name": "Apl\u00f3s",
+    "website": "https://www.aplos.world",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "aplugpro.com",
+    "company_name": "APlugPro",
+    "website": "https://aplugpro.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "service@aplugpro.com",
+        "confidence": "high",
+        "source_url": "https://aplugpro.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "service@aplugpro.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://aplugpro.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aplugpro.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "APlugPro LLC manufactures products that block rain and other weather from tripping your GFCI on outdoor plugs. Used for Christmas lights, hydroponics, and all sorts of outdoor events. Keep the lights on so you can enjoy yourself!",
+    "source_urls": [
+      "https://aplugpro.com",
+      "https://aplugpro.com/pages/about"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "apluslift.com",
+    "company_name": "APlusLift",
+    "website": "https://www.apluslift.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "help@apluslift.com",
+        "confidence": "highest",
+        "source_url": "https://www.apluslift.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "800-616-9618 Text: 425-300-2628 help@apluslift.com Free shipping to most areas in the lower 48"
+      }
+    ],
+    "role_emails": [
+      "help@apluslift.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.apluslift.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.apluslift.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.apluslift.com/pages/warehouse-locations-1",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "APlusLift sells 2-post car lifts, 4-post car lifts, scissor lifts, motorcycle lift tables, and their parts. All car lifts/auto hoists are third-party certified. Warehouses in AL, CA, FL, IL, MO, NC, OH, PA, TX, and WA.",
+    "source_urls": [
+      "https://www.apluslift.com",
+      "https://www.apluslift.com/pages/about",
+      "https://www.apluslift.com/pages/warehouse-locations-1"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "aplusproducts.net",
+    "company_name": "A+ Products, Inc.",
+    "website": "https://www.aplusproducts.net",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@aplusproducts.net",
+        "confidence": "highest",
+        "source_url": "https://www.aplusproducts.net",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "inquiry@aplusproducts.net",
+        "confidence": "highest",
+        "source_url": "https://www.aplusproducts.net/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "lease contact us directly by phone. +1 [732] 866-9111 inquiry@aplusproducts.net 8:30 AM - 5:30 PM ET {formbuilder:120618}"
+      }
+    ],
+    "role_emails": [
+      "info@aplusproducts.net",
+      "inquiry@aplusproducts.net"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.aplusproducts.net",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.aplusproducts.net/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.aplusproducts.net/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.aplusproducts.net/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.aplusproducts.net/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.aplusproducts.net/pages/company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.aplusproducts.net/products/fidlock-intermediate-sample-kit",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Shop for the buckle hardware that you need to create your products. We source high-quality, weather tested plastic and metal fasteners for retail brands.",
+    "source_urls": [
+      "https://www.aplusproducts.net",
+      "https://www.aplusproducts.net/team",
+      "https://www.aplusproducts.net/about",
+      "https://www.aplusproducts.net/contact",
+      "https://www.aplusproducts.net/pages/contact",
+      "https://www.aplusproducts.net/pages/company",
+      "https://www.aplusproducts.net/products/fidlock-intermediate-sample-kit"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "aplusrstore.com",
+    "company_name": "A+R",
+    "website": "https://aplusrstore.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "apm.mc",
+    "company_name": "APM Monaco",
+    "website": "https://us.apm.mc",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "apoc.com",
+    "company_name": "APOC",
+    "website": "https://apoc.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://apoc.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://apoc.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://apoc.com/pages/about-apoc",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "APOC is the destination for professional grade roofing and waterproofing products that maximize productivity, profitability, and energy efficiency.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "apocalypsecoffee.com",
+    "company_name": "Apocalypse Coffee Roasters",
+    "website": "https://apocalypsecoffee.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Send an Email",
+        "title": null,
+        "email": "hello@apocalypsecoffee.com",
+        "source_url": "https://apocalypsecoffee.com"
+      }
+    ],
+    "people": [
+      {
+        "name": "Send an Email",
+        "title": null,
+        "email": "hello@apocalypsecoffee.com",
+        "source_url": "https://apocalypsecoffee.com"
+      }
+    ],
+    "emails": [
+      {
+        "address": "hello@apocalypsecoffee.com",
+        "confidence": "highest",
+        "source_url": "https://apocalypsecoffee.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://apocalypsecoffee.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://apocalypsecoffee.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://apocalypsecoffee.com/pages/our-locations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://apocalypsecoffee.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://apocalypsecoffee.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Apocalypse Coffee Roasters is a family-owned and operated business that utilizes eco-friendly roasting technology to roast the finest organic coffee beans.",
+    "source_urls": [
+      "https://apocalypsecoffee.com",
+      "https://apocalypsecoffee.com/pages/about",
+      "https://apocalypsecoffee.com/pages/our-locations",
+      "https://apocalypsecoffee.com/pages/contact"
+    ],
+    "reason": null,
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "apoftattoo.com",
+    "company_name": "A Pound of Flesh",
+    "website": "https://apoftattoo.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "apogeejournal.org",
+    "company_name": "apogeejournal.org",
+    "website": "https://apogeejournal.org",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "editors@apogeejournal.org",
+        "confidence": "medium",
+        "source_url": "https://apogeejournal.org/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "webmaster@apogeejournal.org",
+        "confidence": "medium",
+        "source_url": "https://apogeejournal.org/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "editors@apogeejournal.org",
+      "webmaster@apogeejournal.org"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://apogeejournal.org/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://apogeejournal.org/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Apogee is a journal of literature and art that engages with identity politics, including but not limited to: race, gender, sexuality, class, ability, and intersectional identities.",
+    "source_urls": [
+      "https://apogeejournal.org/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "apolisglobal.com",
+    "company_name": "Apolis",
+    "website": "https://apolisglobal.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@apolisglobal.com",
+        "confidence": "highest",
+        "source_url": "https://apolisglobal.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Need help? Text Us: 20919 support@apolisglobal.com Search"
+      },
+      {
+        "address": "hello@apolisglobal.com",
+        "confidence": "high",
+        "source_url": "https://apolisglobal.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "hello@apolisglobal.com",
+      "support@apolisglobal.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://apolisglobal.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://apolisglobal.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://apolisglobal.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://apolisglobal.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "We believe you want long\u2013lasting, everyday items which improve the lives of the people who make them \u2014 because your purchase helps shape the kind of world we live in. As a Certified B Corporation, we\u2019re committed to investing in people around the globe in order to benefit their communities, their fa",
+    "source_urls": [
+      "https://apolisglobal.com",
+      "https://apolisglobal.com/about",
+      "https://apolisglobal.com/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "apollaperformance.com",
+    "company_name": "Apolla Performance Wear",
+    "website": "https://www.apollaperformance.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@apollaperformance.com",
+        "confidence": "highest",
+        "source_url": "https://www.apollaperformance.com/products/no-show-compression-socks",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "our Apollas and don't hesitate to reach out to our team at hello@apollaperformance.com if you need anything at all. We appreciate your support!"
+      },
+      {
+        "address": "info@apollaperformance.com",
+        "confidence": "highest",
+        "source_url": "https://www.apollaperformance.com/products/compression-crew-socks",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "dressed further! Please email our customer service team at info@apollaperformance.com so we can troubleshoot with you and make sure you get what"
+      }
+    ],
+    "role_emails": [
+      "hello@apollaperformance.com",
+      "info@apollaperformance.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.apollaperformance.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.apollaperformance.com/products/no-show-compression-socks",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.apollaperformance.com/products/compression-crew-socks",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.apollaperformance.com/products/ankle-compression-socks",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.apollaperformance.com/products/recovery-compression-socks",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.apollaperformance.com/collections/compression-socks-for-women",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.apollaperformance.com/collections/compression-socks-for-men",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.apollaperformance.com/collections/compression-socks-for-cheer",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.apollaperformance.com/collections/compression-socks-for-marching-arts",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.apollaperformance.com/collections/compression-socks-for-athletics-exercise",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "APMA-accepted compression socks with patented 20-30mmHg compression technology. Designed for dancers, cheerleaders, nurses, athletes, and anyone on their feet all day. Made in USA with REPREVE recycled materials. 7,000+ five-star reviews. Free exchanges, HSA/FSA eligible.",
+    "source_urls": [
+      "https://www.apollaperformance.com",
+      "https://www.apollaperformance.com/products/no-show-compression-socks",
+      "https://www.apollaperformance.com/products/compression-crew-socks",
+      "https://www.apollaperformance.com/products/ankle-compression-socks",
+      "https://www.apollaperformance.com/products/recovery-compression-socks",
+      "https://www.apollaperformance.com/collections/compression-socks-for-women",
+      "https://www.apollaperformance.com/collections/compression-socks-for-men",
+      "https://www.apollaperformance.com/collections/compression-socks-for-cheer",
+      "https://www.apollaperformance.com/collections/compression-socks-for-marching-arts",
+      "https://www.apollaperformance.com/collections/compression-socks-for-athletics-exercise"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 18
+  },
+  {
+    "company_domain": "apollohou.com",
+    "company_name": "ApolloHOU",
+    "website": "https://apollohou.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://apollohou.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://apollohou.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://apollohou.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://apollohou.com/about/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "All Houston. All Original.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "apolloliftus.com",
+    "company_name": "APOLLO FORKLIFT LLC",
+    "website": "https://www.apolloliftus.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@apolloliftus.com",
+        "confidence": "highest",
+        "source_url": "https://www.apolloliftus.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "8-801-3049 Mon-Fri 9:00 to 17:00 (CST) Pre-sales service : info@apolloliftus.com After-sales service : service@apolloliftus.com Wholesale o"
+      },
+      {
+        "address": "marketing@apolloliftus.com",
+        "confidence": "highest",
+        "source_url": "https://www.apolloliftus.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "vice : service@apolloliftus.com Wholesale or bulk orders: marketing@apolloliftus.com 18600 Northstar Ct Tinley Park, IL 60487 Facebook"
+      },
+      {
+        "address": "service@apolloliftus.com",
+        "confidence": "highest",
+        "source_url": "https://www.apolloliftus.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "EST) Email: service@apolloliftus.com Fast Flexi"
+      }
+    ],
+    "role_emails": [
+      "info@apolloliftus.com",
+      "marketing@apolloliftus.com",
+      "service@apolloliftus.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.apolloliftus.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.apolloliftus.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Rooted in America, Apollo Forklift incorporates an integration of manufacturing, marketing, parts and maintenance of material handling equipment.Apollo Forklift manufactures 8 line-up, more than 100 categories of products, covering a full range of scope, to satisfy your one-stop warehousing procurem",
+    "source_urls": [
+      "https://www.apolloliftus.com",
+      "https://www.apolloliftus.com/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "apolloneuro.com",
+    "company_name": "Apollo Neuro",
+    "website": "https://apolloneuro.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Connect with us",
+        "title": null,
+        "email": "drdave@apolloneuro.com",
+        "source_url": "https://apolloneuro.com/press"
+      }
+    ],
+    "people": [
+      {
+        "name": "Connect with us",
+        "title": null,
+        "email": "drdave@apolloneuro.com",
+        "source_url": "https://apolloneuro.com/press"
+      }
+    ],
+    "emails": [
+      {
+        "address": "drdave@apolloneuro.com",
+        "confidence": "highest",
+        "source_url": "https://apolloneuro.com/press",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "hello@apolloneuro.com",
+        "confidence": "highest",
+        "source_url": "https://apolloneuro.com/team",
+        "source_type": "archived",
+        "snapshot_date": "2018-10-25",
+        "context_snippet": "bilities! Partners@apolloneuro.com Research@apolloneuro.com Hello@apolloneuro.com \u00a9 2017 Design by"
+      },
+      {
+        "address": "partners@apolloneuro.com",
+        "confidence": "highest",
+        "source_url": "https://apolloneuro.com/team",
+        "source_type": "archived",
+        "snapshot_date": "2018-10-25",
+        "context_snippet": "e about Apollo Neuro, our product, and other possibilities! Partners@apolloneuro.com Research@apolloneuro.com Hello@apolloneuro.com \u00a9 2017 Desig"
+      },
+      {
+        "address": "research@apolloneuro.com",
+        "confidence": "highest",
+        "source_url": "https://apolloneuro.com/team",
+        "source_type": "archived",
+        "snapshot_date": "2018-10-25",
+        "context_snippet": "product, and other possibilities! Partners@apolloneuro.com Research@apolloneuro.com Hello@apolloneuro.com \u00a9 2017 Design by"
+      },
+      {
+        "address": "support@apolloneuro.com",
+        "confidence": "highest",
+        "source_url": "https://apolloneuro.com/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "hello@apolloneuro.com",
+      "partners@apolloneuro.com",
+      "research@apolloneuro.com",
+      "support@apolloneuro.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://apolloneuro.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://apolloneuro.com/team",
+        "page_type": "team",
+        "source_type": "archived",
+        "snapshot_date": "2018-10-25"
+      },
+      {
+        "url": "https://apolloneuro.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://apolloneuro.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://apolloneuro.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://apolloneuro.com/pages/about-apollo-neuro",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://apolloneuro.com/blogs/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "The Apollo stress relief touch therapy wearable helps you relax, sleep better, and feel better. Uncover your best self today.",
+    "source_urls": [
+      "https://apolloneuro.com",
+      "https://apolloneuro.com/team",
+      "https://apolloneuro.com/about",
+      "https://apolloneuro.com/press",
+      "https://apolloneuro.com/pages/about-apollo-neuro",
+      "https://apolloneuro.com/blogs/press"
+    ],
+    "reason": null,
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "apolloscooters.co",
+    "company_name": "Apollo Scooters",
+    "website": "https://apolloscooters.co",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@apolloscooters.co",
+        "confidence": "high",
+        "source_url": "https://apolloscooters.co",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "support@apolloscooters.co"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://apolloscooters.co",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://apolloscooters.co/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://apolloscooters.co/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://apolloscooters.co/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://apolloscooters.co/pages/locations-near-you",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://apolloscooters.co/pages/store-locations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://apolloscooters.co/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Shop premium electric scooters built for adults. Explore Apollo\u2019s award-winning models designed for speed, safety, and smart commuting.",
+    "source_urls": [
+      "https://apolloscooters.co",
+      "https://apolloscooters.co/press",
+      "https://apolloscooters.co/contact",
+      "https://apolloscooters.co/pages/about-us",
+      "https://apolloscooters.co/pages/locations-near-you",
+      "https://apolloscooters.co/pages/store-locations",
+      "https://apolloscooters.co/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "apollotile.com",
+    "company_name": "Apollo Tile",
+    "website": "https://apollotile.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@apollotile.com",
+        "confidence": "highest",
+        "source_url": "https://apollotile.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ipping Within the Contiguous United States* info@apollotile.com"
+      }
+    ],
+    "role_emails": [
+      "info@apollotile.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://apollotile.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://apollotile.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://apollotile.com/collections/steam-room-tile",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://apollotile.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://apollotile.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://apollotile.com/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://apollotile.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Shop our huge selection of wall and floor tiles at Apollo Tile, your trusted online tile store. Join our trade program for free samples & exclusive deals.",
+    "source_urls": [
+      "https://apollotile.com",
+      "https://apollotile.com/contact",
+      "https://apollotile.com/collections/steam-room-tile",
+      "https://apollotile.com/pages/contact-us",
+      "https://apollotile.com/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  }
+]
