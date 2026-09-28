@@ -1,0 +1,1643 @@
+[
+  {
+    "company_domain": "azpalletliquidators.com",
+    "company_name": "Pallet Liquidators",
+    "website": "https://azpalletliquidators.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://azpalletliquidators.com",
+        "page_type": "home",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-13"
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Scratch and Dent Appliances, Discount Home Goods, Home Improvement, Clothing, Tools, Toys, And Much More",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "azproperformance.com",
+    "company_name": "Pro Performance",
+    "website": "https://azproperformance.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Travis Dulgerian",
+        "title": "Owner",
+        "email": "travis@azproperformance.com",
+        "source_url": "https://azproperformance.com/pages/about"
+      }
+    ],
+    "people": [
+      {
+        "name": "Travis Dulgerian",
+        "title": "Owner",
+        "email": "travis@azproperformance.com",
+        "source_url": "https://azproperformance.com/pages/about"
+      }
+    ],
+    "emails": [
+      {
+        "address": "sales@azproperformance.com",
+        "confidence": "highest",
+        "source_url": "https://azproperformance.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "travis@azproperformance.com",
+        "confidence": "highest",
+        "source_url": "https://azproperformance.com/pages/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "e a splash in the C10 scene as an aftermarket parts dealer. travis@azproperformance.com @pro_travis Menu Street Off"
+      }
+    ],
+    "role_emails": [
+      "sales@azproperformance.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://azproperformance.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://azproperformance.com/pages/compressor-info",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://azproperformance.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://azproperformance.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://azproperformance.com/collections/efi-management",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://azproperformance.com/collections/air-management-kits",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://azproperformance.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Pro Performance is your #1 source for custom billet wheels, big brakes &amp; air suspension components for your c10 truck or pro-touring muscle car.",
+    "source_urls": [
+      "https://azproperformance.com",
+      "https://azproperformance.com/pages/compressor-info",
+      "https://azproperformance.com/pages/about",
+      "https://azproperformance.com/pages/contact",
+      "https://azproperformance.com/collections/efi-management",
+      "https://azproperformance.com/collections/air-management-kits"
+    ],
+    "reason": null,
+    "pages_fetched": 14
+  },
+  {
+    "company_domain": "azquilts.com",
+    "company_name": "Arizona Quilts",
+    "website": "https://azquilts.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@azquilts.com",
+        "confidence": "highest",
+        "source_url": "https://azquilts.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "9am-4pm Closed Sundays Telephone: (623) 566-8878 Email: info@azquilts.com Get Directions"
+      }
+    ],
+    "role_emails": [
+      "info@azquilts.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://azquilts.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://azquilts.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://azquilts.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://azquilts.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://azquilts.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://azquilts.com/contact",
+        "action": "/contact#contact-page-contact-template-0",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://azquilts.com/pages/contact-us",
+        "action": "/contact#contact-page-contact-template-0",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Arizona Quilts",
+    "source_urls": [
+      "https://azquilts.com",
+      "https://azquilts.com/about",
+      "https://azquilts.com/contact",
+      "https://azquilts.com/pages/about-us",
+      "https://azquilts.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "azstudioworkstations.com",
+    "company_name": "AZ Studio Workstations",
+    "website": "https://azstudioworkstations.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://azstudioworkstations.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://azstudioworkstations.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://azstudioworkstations.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://azstudioworkstations.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://azstudioworkstations.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "We offer a large selection of high quality recording studio furniture, keyboard desks, console desks, and rack cabinets. At AZ Studio Workstations we also build custom desks for any type of studio! Outstanding craftsmanship and great customer service since 1974!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "aztecasoccer.com",
+    "company_name": "Azteca Soccer",
+    "website": "https://aztecasoccer.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@aztecasoccer.com",
+        "confidence": "high",
+        "source_url": "https://aztecasoccer.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "support@aztecasoccer.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://aztecasoccer.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aztecasoccer.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aztecasoccer.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aztecasoccer.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aztecasoccer.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aztecasoccer.com/collections/authentic-national-team-soccer-jerseys",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aztecasoccer.com/collections/compression-gear",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aztecasoccer.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://aztecasoccer.com/pages/contact-us",
+        "action": "/contact#template--26378934092092__form-contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Azteca Soccer is your go-to soccer store for top cleats, jerseys, and gear. Shop the latest soccer essentials online\u2014fast shipping and great prices.",
+    "source_urls": [
+      "https://aztecasoccer.com",
+      "https://aztecasoccer.com/team",
+      "https://aztecasoccer.com/about",
+      "https://aztecasoccer.com/about-us",
+      "https://aztecasoccer.com/press",
+      "https://aztecasoccer.com/collections/authentic-national-team-soccer-jerseys",
+      "https://aztecasoccer.com/collections/compression-gear",
+      "https://aztecasoccer.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "aztechmountain.com",
+    "company_name": "Aztech Mountain",
+    "website": "https://aztechmountain.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Reach out",
+        "title": null,
+        "email": "info@aztechmountain.com",
+        "source_url": "https://aztechmountain.com/pages/locations"
+      }
+    ],
+    "people": [
+      {
+        "name": "Reach out",
+        "title": null,
+        "email": "info@aztechmountain.com",
+        "source_url": "https://aztechmountain.com/pages/locations"
+      }
+    ],
+    "emails": [
+      {
+        "address": "info@aztechmountain.com",
+        "confidence": "highest",
+        "source_url": "https://aztechmountain.com/pages/locations",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "he perfect urban outerwear or just figure out your size. info@aztechmountain.com Phone (+1.212.966.0929) FAQ Contact Us"
+      },
+      {
+        "address": "service@aztechmountain.com",
+        "confidence": "highest",
+        "source_url": "https://aztechmountain.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "tain.com Product & Repair Inquiries service@aztechmountain.com Sales & Employment Inquiries sales@aztechmo"
+      },
+      {
+        "address": "sales@aztechmountain.com",
+        "confidence": "high",
+        "source_url": "https://aztechmountain.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "chmountain.com Sales & Employment Inquiries sales@aztechmountain.com Customer service +1.212.966.0929 10am"
+      }
+    ],
+    "role_emails": [
+      "sales@aztechmountain.com",
+      "service@aztechmountain.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://aztechmountain.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aztechmountain.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aztechmountain.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aztechmountain.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aztechmountain.com/pages/locations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aztechmountain.com/blogs/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aztechmountain.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://aztechmountain.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Men's and women's technically appointed performance sportswear rooted in skiing. Aztech is distinguished by the unexpected, to keep you feeling exceptional in every environment.",
+    "source_urls": [
+      "https://aztechmountain.com/pages/locations",
+      "https://aztechmountain.com/pages/contact-us"
+    ],
+    "reason": null,
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "aztexhats.com",
+    "company_name": "aztex-hats",
+    "website": "https://aztexhats.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@aztexhats.com",
+        "confidence": "highest",
+        "source_url": "https://aztexhats.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "sdaleAZ 85251 1-800-972-2116 (Phone) 1-800-972-2116 (Fax) info@aztexhats.com Customer Service Contact"
+      }
+    ],
+    "role_emails": [
+      "info@aztexhats.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://aztexhats.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aztexhats.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2006-05-05"
+      },
+      {
+        "url": "https://aztexhats.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://aztexhats.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Discover men's hats, women's hats, custom-made hats, costume hats and kid hats at Az Tex Hats. Premium quality designs, unique styles and perfect fits for all.",
+    "source_urls": [
+      "https://aztexhats.com",
+      "https://aztexhats.com/contact",
+      "https://aztexhats.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "aztlanherbalremedies.com",
+    "company_name": "Aztlan Herbal Remedies",
+    "website": "https://www.aztlanherbalremedies.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@aztlanherbalremedies.com",
+        "confidence": "high",
+        "source_url": "https://www.aztlanherbalremedies.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "): 10:00am \u2013 5:00pm Mon-Fri (Office): 09:00am - 04:30pm info@aztlanherbalremedies.com (424) 228-8646 Office (888) 678-0981 Office C"
+      }
+    ],
+    "role_emails": [
+      "info@aztlanherbalremedies.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.aztlanherbalremedies.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.aztlanherbalremedies.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.aztlanherbalremedies.com/collections/kidney-support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.aztlanherbalremedies.com/collections/joint-support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.aztlanherbalremedies.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "The Aztlan Herbal Remedies are a traditional herbal store providing traditional Herbal Medicine and Herbal Remedies that may promote natural healing at fair prices with excellent service.",
+    "source_urls": [
+      "https://www.aztlanherbalremedies.com",
+      "https://www.aztlanherbalremedies.com/contact",
+      "https://www.aztlanherbalremedies.com/collections/kidney-support",
+      "https://www.aztlanherbalremedies.com/collections/joint-support",
+      "https://www.aztlanherbalremedies.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "azunafresh.com",
+    "company_name": "Azuna Air Purifier",
+    "website": "https://azunafresh.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "contact@azunafresh.com",
+        "confidence": "highest",
+        "source_url": "https://azunafresh.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "up. If it\u2019s still giving you trouble, send us an email at contact@azunafresh.com , and we\u2019ll sort it out for you right away! Is Az"
+      }
+    ],
+    "role_emails": [
+      "contact@azunafresh.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://azunafresh.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://azunafresh.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://azunafresh.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://azunafresh.com/blogs/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Meet Azuna, the world\u2019s most effective natural odor eliminator - from our family to yours. Discover all of our air freshener products and learn how it works!",
+    "source_urls": [
+      "https://azunafresh.com/pages/contact",
+      "https://azunafresh.com/blogs/press"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "azurajewelry.com",
+    "company_name": "Azura New York",
+    "website": "https://azurajewelry.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@azurajewelry.com",
+        "confidence": "high",
+        "source_url": "https://azurajewelry.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "from you! Fill out the contact form or email us at info@azurajewelry.com. We usually respond within 24 hours. full-nam"
+      }
+    ],
+    "role_emails": [
+      "info@azurajewelry.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://azurajewelry.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://azurajewelry.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://azurajewelry.com/pages/contact-us",
+        "action": "/contact#contact-us-page",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Azura New York",
+    "source_urls": [
+      "https://azurajewelry.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "azzurroliving.com",
+    "company_name": "Azzurro Living",
+    "website": "https://www.azzurroliving.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "challenge_page",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "b-lowthebelt.com",
+    "company_name": "B-low The Belt",
+    "website": "https://b-lowthebelt.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customerservice@b-lowthebelt.com",
+        "confidence": "highest",
+        "source_url": "https://b-lowthebelt.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Contact CUSTOMER INQUIRIES - customerservice@b-lowthebelt.com PRESS & COLLABORATIONS - sophie@b-lowthebelt.com"
+      },
+      {
+        "address": "info@b-lowthebelt.com",
+        "confidence": "highest",
+        "source_url": "https://b-lowthebelt.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "COLLABORATIONS - sophie@b-lowthebelt.com WHOLESALE - info@b-lowthebelt.com or JOOR INTERNATIONAL INQUIRIES - info@b-lowthebelt."
+      },
+      {
+        "address": "sophie@b-lowthebelt.com",
+        "confidence": "highest",
+        "source_url": "https://b-lowthebelt.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "merservice@b-lowthebelt.com PRESS & COLLABORATIONS - sophie@b-lowthebelt.com WHOLESALE - info@b-lowthebelt.com or JOOR INTERN"
+      }
+    ],
+    "role_emails": [
+      "customerservice@b-lowthebelt.com",
+      "info@b-lowthebelt.com",
+      "sophie@b-lowthebelt.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://b-lowthebelt.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://b-lowthebelt.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://b-lowthebelt.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://b-lowthebelt.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://b-lowthebelt.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Designer leather belts and accessories inspired by contemporary high fashion trends. Based in Los Angeles.",
+    "source_urls": [
+      "https://b-lowthebelt.com/pages/contact",
+      "https://b-lowthebelt.com/policies/contact-information"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "b-six.com",
+    "company_name": "B-Six",
+    "website": "https://b-six.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "b-unlimited.com",
+    "company_name": "B-Unlimited Custom Apparel Shop",
+    "website": "https://www.b-unlimited.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.b-unlimited.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.b-unlimited.com/pages/join-our-team-general-application-form",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.b-unlimited.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.b-unlimited.com/pages/join-the-b-team-1",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.b-unlimited.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Need sorority shirts? Design and Order Custom T-shirts, Apparel, and Accessories! B-Unlimited specializes in custom apparel for Greek Life, campus organizations, and businesses, and collegiate wholesale. We offer custom artwork, water-based screen printing, embroidery, and exceptional customer servi",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "b.tc",
+    "company_name": "The Bitcoin Store",
+    "website": "https://us.b.tc",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "b2bfab.com",
+    "company_name": "B2BFAB",
+    "website": "https://www.b2bfab.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "sales@b2bfab.com",
+        "confidence": "highest",
+        "source_url": "https://www.b2bfab.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "t Us IG/FB: @B2BFAB Phone: (302)203-9664 Email: sales@B2BFAB.com Website: www.B2BFAB.com Name Email"
+      }
+    ],
+    "role_emails": [
+      "sales@b2bfab.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.b2bfab.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.b2bfab.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.b2bfab.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Shop B2BFAB\u2019S selection of high-quality overland parts and upgrades for VW & Audi SUVs and automobiles \u2013 explore our catalog to maximize your performance today!",
+    "source_urls": [
+      "https://www.b2bfab.com",
+      "https://www.b2bfab.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "b4adventure.com",
+    "company_name": "B4Adventure",
+    "website": "https://b4adventure.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://b4adventure.com",
+        "page_type": "home",
+        "source_type": "archived",
+        "snapshot_date": "2026-08-27"
+      },
+      {
+        "url": "https://b4adventure.com/press",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2017-10-03"
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "b4Adventure is committed to making a variety of outdoor toys that encourage kids of all ages to get outdoors, stay active and have fun while doing it!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 16
+  },
+  {
+    "company_domain": "baacal.com",
+    "company_name": "Baacal",
+    "website": "https://www.baacal.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.baacal.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.baacal.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.baacal.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.baacal.com/blogs/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.baacal.com/pages/contact-us",
+        "action": "/contact#Form-template--22671183642877__contact-form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Plus size designer led fashion for women. Sustainably made high-end apparel and accessories created for the true majority of women sizes 10 -28. Carefully designed and fitted by Cynthia Vincent. Curvy and Size-Inclusive designer collection of dresses, blazers, coats, kaftans, tops, skirts, jackets, ",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "babeandbutcher.com",
+    "company_name": "Babe & Butcher",
+    "website": "https://www.babeandbutcher.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "catering@babeandbutcher.com",
+        "confidence": "high",
+        "source_url": "https://www.babeandbutcher.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "orders@babeandbutcher.com",
+        "confidence": "high",
+        "source_url": "https://www.babeandbutcher.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "catering@babeandbutcher.com",
+      "orders@babeandbutcher.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.babeandbutcher.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.babeandbutcher.com/pages/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.babeandbutcher.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.babeandbutcher.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.babeandbutcher.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Order charcuterie catering in Charlotte from Babe & Butcher. Grazing tables, boards, boxes, and delivery for events, corporate gatherings, and hosting.",
+    "source_urls": [
+      "https://www.babeandbutcher.com",
+      "https://www.babeandbutcher.com/pages/press",
+      "https://www.babeandbutcher.com/pages/contact",
+      "https://www.babeandbutcher.com/pages/about"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "babehairextensions.com",
+    "company_name": "Babe Hair Extensions",
+    "website": "https://babehairextensions.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://babehairextensions.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://babehairextensions.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://babehairextensions.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://babehairextensions.com",
+        "action": "/share-wishlist",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://babehairextensions.com/pages/about",
+        "action": "/share-wishlist",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://babehairextensions.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://babehairextensions.com/pages/contact-us",
+        "action": "/share-wishlist",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Shop Babe Hair Extensions for premium 100% Remy human hair. Tape ins, fusions, wefts, and more. Free US Shipping over $200.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "babeoriginal.com",
+    "company_name": "Babe Original",
+    "website": "https://www.babeoriginal.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@babeoriginal.com",
+        "confidence": "high",
+        "source_url": "https://www.babeoriginal.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@babeoriginal.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.babeoriginal.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.babeoriginal.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.babeoriginal.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.babeoriginal.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.babeoriginal.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.babeoriginal.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.babeoriginal.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.babeoriginal.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Our unique cosmetic line will deliver dramatic results and dramatic reactions. All Babe Original cosmetics are formulated with ingredients complementary to those in the serum. They are intended to function as a cosmetic team to deliver visible results in just four weeks. Shop today!",
+    "source_urls": [
+      "https://www.babeoriginal.com",
+      "https://www.babeoriginal.com/team",
+      "https://www.babeoriginal.com/our-team",
+      "https://www.babeoriginal.com/about",
+      "https://www.babeoriginal.com/press"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "babesicecreamdonuts.com",
+    "company_name": "Babes Ice Cream & Donuts",
+    "website": "https://babesicecreamdonuts.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://babesicecreamdonuts.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "We were founded by Pushkin's, who also owns Sibling, so ya, of course we're going to be 100 % gluten free :)",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "babesrideout.com",
+    "company_name": "Babes Ride Out",
+    "website": "https://www.babesrideout.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "press@babesrideout.com",
+        "confidence": "highest",
+        "source_url": "https://www.babesrideout.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "uiries: sponsorship@babesrideout.com Event Coverage: press@babesrideout.com Volunteer: volunteer@babesrideout.com"
+      },
+      {
+        "address": "shop@babesrideout.com",
+        "confidence": "highest",
+        "source_url": "https://www.babesrideout.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "We'd Love to Hear From You Customer Service: shop@babesrideout.com Sponsorship Inquiries: sponsorship@babesrideout.com"
+      },
+      {
+        "address": "sponsorship@babesrideout.com",
+        "confidence": "highest",
+        "source_url": "https://www.babesrideout.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ervice: shop@babesrideout.com Sponsorship Inquiries: sponsorship@babesrideout.com Event Coverage: press@babesrideout.com Volunteer:"
+      },
+      {
+        "address": "volunteer@babesrideout.com",
+        "confidence": "highest",
+        "source_url": "https://www.babesrideout.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Event Coverage: press@babesrideout.com Volunteer: volunteer@babesrideout.com Name Email Message"
+      }
+    ],
+    "role_emails": [
+      "press@babesrideout.com",
+      "shop@babesrideout.com",
+      "sponsorship@babesrideout.com",
+      "volunteer@babesrideout.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.babesrideout.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.babesrideout.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.babesrideout.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.babesrideout.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.babesrideout.com/contact",
+        "action": "/contact#contact-template--15873202061541__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.babesrideout.com/pages/contact",
+        "action": "/contact#contact-template--15873202061541__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "As the % of lady riders has risen, women are finding their space within the motorcycling community and with each other. Babes Ride Out serves as a way for digital pals to become lifelong friends by giving attendees a chance to make real world connections at our women's focused motorcycle events.",
+    "source_urls": [
+      "https://www.babesrideout.com/contact",
+      "https://www.babesrideout.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "babesta.com",
+    "company_name": "Babesta",
+    "website": "https://babesta.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "orders@babesta.com",
+        "confidence": "high",
+        "source_url": "https://babesta.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "sales@babesta.com",
+        "confidence": "high",
+        "source_url": "https://babesta.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "orders@babesta.com",
+      "sales@babesta.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://babesta.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://babesta.com/press",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2019-03-13"
+      },
+      {
+        "url": "https://babesta.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://babesta.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://babesta.com/pages/about-us",
+        "action": "/contact#contact-template--27293849878844__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://babesta.com/pages/contact",
+        "action": "/contact#contact-template--27293850042684__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Hip children's store in Tribeca offering the best selection of trendy clothing, gear, furniture, toys and strollers.",
+    "source_urls": [
+      "https://babesta.com",
+      "https://babesta.com/pages/about-us",
+      "https://babesta.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "babiators.com",
+    "company_name": "Babiators Sunglasses",
+    "website": "https://babiators.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customerservice@babiators.com",
+        "confidence": "highest",
+        "source_url": "https://babiators.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2016-04-02",
+        "context_snippet": "e look forward to hearing from you! Customer Service: customerservice@babiators.com Lost & Found Guarantee: guarantee@babiators.com Whole"
+      },
+      {
+        "address": "guarantee@babiators.com",
+        "confidence": "highest",
+        "source_url": "https://babiators.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2016-04-02",
+        "context_snippet": "customerservice@babiators.com Lost & Found Guarantee: guarantee@babiators.com Wholesale: wholesale@babiators.com International Whol"
+      },
+      {
+        "address": "international@babiators.com",
+        "confidence": "highest",
+        "source_url": "https://babiators.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2016-04-02",
+        "context_snippet": "ale: wholesale@babiators.com International Wholesale: international@babiators.com Press: pr@babiators.com Job Opportunities: jointhec"
+      },
+      {
+        "address": "intlcustomerservice@babiators.com",
+        "confidence": "highest",
+        "source_url": "https://babiators.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "r wholesale orders, or IntlCustomerService@Babiators.com for international orders. We are here to"
+      },
+      {
+        "address": "jointhecrew@babiators.com",
+        "confidence": "highest",
+        "source_url": "https://babiators.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2016-04-02",
+        "context_snippet": "rested in joining the awesome Babiators Crew? Contact us at jointhecrew@babiators.com About Our Company As parents, we kn"
+      },
+      {
+        "address": "pr@babiators.com",
+        "confidence": "highest",
+        "source_url": "https://babiators.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2016-04-02",
+        "context_snippet": "ational Wholesale: international@babiators.com Press: pr@babiators.com Job Opportunities: jointhecrew@babiators.com"
+      },
+      {
+        "address": "wholesale@babiators.com",
+        "confidence": "highest",
+        "source_url": "https://babiators.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2016-04-02",
+        "context_snippet": "& Found Guarantee: guarantee@babiators.com Wholesale: wholesale@babiators.com International Wholesale: international@babiators.com"
+      }
+    ],
+    "role_emails": [
+      "customerservice@babiators.com",
+      "guarantee@babiators.com",
+      "international@babiators.com",
+      "intlcustomerservice@babiators.com",
+      "jointhecrew@babiators.com",
+      "pr@babiators.com",
+      "wholesale@babiators.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://babiators.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://babiators.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2016-04-02"
+      },
+      {
+        "url": "https://babiators.com/press",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2017-01-31"
+      },
+      {
+        "url": "https://babiators.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2016-12-04"
+      },
+      {
+        "url": "https://babiators.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://babiators.com/pages/page-about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2024-12-26"
+      },
+      {
+        "url": "https://babiators.com/pages/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://babiators.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://babiators.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Our awesome baby sunglasses and kids sunglasses come with 100% UV Protection. Soft, durable & virtually indestructible. Replaced for free if you lose or break them.",
+    "source_urls": [
+      "https://babiators.com/about-us",
+      "https://babiators.com/contact",
+      "https://babiators.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  }
+]
