@@ -1,0 +1,1673 @@
+[
+  {
+    "company_domain": "asphaltindustrial.com",
+    "company_name": "Asphalt Industrial",
+    "website": "https://asphaltindustrial.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://asphaltindustrial.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://asphaltindustrial.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://asphaltindustrial.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://asphaltindustrial.com/pages/contact-us",
+        "action": "/contact#template--17336065556727__form-contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Asphalt Industrial",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "asphaltmaterials.net",
+    "company_name": "Asphalt Materials",
+    "website": "https://asphaltmaterials.net",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://asphaltmaterials.net",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://asphaltmaterials.net/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://asphaltmaterials.net/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://asphaltmaterials.net/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://asphaltmaterials.net/pages/our-locations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://asphaltmaterials.net/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Based in West Jordan, Utah, Asphalt Materials provides quality topsoil, asphalt, sand, gravel, decorative rocks, and other landscaping material.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "aspireautoaccessories.com",
+    "company_name": "Aspire Auto Accessories",
+    "website": "https://www.aspireautoaccessories.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "challenge_page",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "aspirenutrition.com",
+    "company_name": "Aspire Nutrition",
+    "website": "https://aspirenutrition.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@aspirenutrition.com",
+        "confidence": "highest",
+        "source_url": "https://aspirenutrition.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ble Monday - Friday, 9 AM - 5 PM EST Email us: support@aspirenutrition.com Message Us Now We're h"
+      }
+    ],
+    "role_emails": [
+      "support@aspirenutrition.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://aspirenutrition.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aspirenutrition.com/collections/nutrition-support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aspirenutrition.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Aspire Nutrition provides supplements that work with lasting results you can feel. Our family-owned company offers supplements you can trust to support your family\u2019s pursuit of optimal health and development. All of Aspire\u2019s products are safe, effective, and backed by science.",
+    "source_urls": [
+      "https://aspirenutrition.com",
+      "https://aspirenutrition.com/collections/nutrition-support",
+      "https://aspirenutrition.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "aspiron.co",
+    "company_name": "Aspiron",
+    "website": "https://www.aspiron.co",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "bulkorder@aspiron.co",
+        "confidence": "highest",
+        "source_url": "https://www.aspiron.co/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "aspir on.co Cooperation: marketing@aspiron.co Bulk order: bulkorder@aspiron.co Name E-mail Message Submit"
+      },
+      {
+        "address": "marketing@aspiron.co",
+        "confidence": "highest",
+        "source_url": "https://www.aspiron.co/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "us After-sales Service: support@aspir on.co Cooperation: marketing@aspiron.co Bulk order: bulkorder@aspiron.co Name E-mail"
+      },
+      {
+        "address": "support@aspiron.co",
+        "confidence": "highest",
+        "source_url": "https://www.aspiron.co/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "bulkorder@aspiron.co",
+      "marketing@aspiron.co",
+      "support@aspiron.co"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.aspiron.co",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.aspiron.co/collections/steam-cleaner",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.aspiron.co/products/aspiron-as-ca019-canister-steam-cleaner",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.aspiron.co/products/aspiron%C2%AE-steam-cleaners",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.aspiron.co/products/aspiron-professional-steam-mop-cleaner-as-ca044-floor-steamer-with-detergent-chamber",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.aspiron.co/products/aspiron-steam-cleaner-ca042-multipurpose-heavy-duty-canister-steamer-built-in-storage",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.aspiron.co/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.aspiron.co/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.aspiron.co/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Aspiron specializing in high-performance, eco-friendly tools like smart canister vacuum cleaners, corded & cordless vacuums, Aspiron combines advanced technology with user-centric design. Our products ensure efficient dust removal, 99.9% germ elimination, and hassle-free maintenance, tailored for mo",
+    "source_urls": [
+      "https://www.aspiron.co/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 16
+  },
+  {
+    "company_domain": "asraderm.pk",
+    "company_name": "www.asraderm.pk",
+    "website": "https://www.asraderm.pk",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.asraderm.pk",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.asraderm.pk/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.asraderm.pk/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.asraderm.pk/pages/contact-us",
+        "action": "/contact#contact_form_page",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Buy Dermatologists Recommended skincare products in Pakistan at AsraDerm, suitable for all skin concerns. Get healthier & glowing skin with our certified products.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "asrv.com",
+    "company_name": "ASRV",
+    "website": "https://asrv.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://asrv.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://asrv.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://asrv.com/collections/compression-pants-and-leggings",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://asrv.com/blogs/locations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://asrv.com/blogs/locations/beverly-hills",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://asrv.com/blogs/locations/san-diego",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://asrv.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Premium sportswear and training apparel designed for running, training, and rec.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 14
+  },
+  {
+    "company_domain": "assaultfitness.com",
+    "company_name": "Assault Fitness",
+    "website": "https://www.assaultfitness.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customerservice@assaultfitness.com",
+        "confidence": "highest",
+        "source_url": "https://www.assaultfitness.com/pages/contact/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "of the methods below. Email customerservice@assaultfitness.com Mon\u2013Fri, 8:00am \u2013 5:00pm PST Phone"
+      }
+    ],
+    "role_emails": [
+      "customerservice@assaultfitness.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.assaultfitness.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.assaultfitness.com/pages/contact/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "100% human-powered machines for brutally effective workouts. No motors, no mercy, no limits \u2014 the harder you go, the harder it gets.",
+    "source_urls": [
+      "https://www.assaultfitness.com/pages/contact/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "assaultind.com",
+    "company_name": "Assault Industries",
+    "website": "https://assaultind.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customer_service@assaultind.com",
+        "confidence": "highest",
+        "source_url": "https://assaultind.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "customer_service@assaultind.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://assaultind.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://assaultind.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://assaultind.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://assaultind.com/pages/assault-media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://assaultind.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Gear up for adventure with Assault Industries! Discover premium aftermarket parts and accessories for top ATV and UTV brands like Polaris, Can-Am, and Yamaha. Our rugged, high-performance products are designed for thrill seekers and off-road enthusiasts ready to conquer any terrain.",
+    "source_urls": [
+      "https://assaultind.com",
+      "https://assaultind.com/pages/contact",
+      "https://assaultind.com/pages/about-us",
+      "https://assaultind.com/pages/assault-media"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "asseenontvwebstore.com",
+    "company_name": "As Seen on TV Web Store",
+    "website": "https://asseenontvwebstore.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customerservice@asseenontvwebstore.com",
+        "confidence": "high",
+        "source_url": "https://asseenontvwebstore.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "to As Seen on TV Web Store! Contact us at 888-510-1194 or customerservice@asseenontvwebstore.com"
+      }
+    ],
+    "role_emails": [
+      "customerservice@asseenontvwebstore.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://asseenontvwebstore.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://asseenontvwebstore.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://asseenontvwebstore.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://asseenontvwebstore.com/pages/return-policy-contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://asseenontvwebstore.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://asseenontvwebstore.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "As Seen on TV Web Store",
+    "source_urls": [
+      "https://asseenontvwebstore.com",
+      "https://asseenontvwebstore.com/pages/contact",
+      "https://asseenontvwebstore.com/pages/about-us",
+      "https://asseenontvwebstore.com/pages/return-policy-contact-information",
+      "https://asseenontvwebstore.com/policies/contact-information"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "assemblynewyork.com",
+    "company_name": "Assembly New York",
+    "website": "https://www.assemblynewyork.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@assemblynewyork.com",
+        "confidence": "high",
+        "source_url": "https://www.assemblynewyork.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "l. (212) 253 5393 | MAP 11am - 7pm Daily General Inquiries hello@assemblynewyork.com Online Order Customer Service shop@assemblynewyork.com @a"
+      },
+      {
+        "address": "serviceshop@assemblynewyork.com",
+        "confidence": "high",
+        "source_url": "https://www.assemblynewyork.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "shop@assemblynewyork.com",
+        "confidence": "high",
+        "source_url": "https://www.assemblynewyork.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ies hello@assemblynewyork.com Online Order Customer Service shop@assemblynewyork.com @assemblynewyork Meta WOMENS Am"
+      }
+    ],
+    "role_emails": [
+      "hello@assemblynewyork.com",
+      "serviceshop@assemblynewyork.com",
+      "shop@assemblynewyork.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.assemblynewyork.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.assemblynewyork.com/collections/gabriela-artigas-company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.assemblynewyork.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.assemblynewyork.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Focus on International & Independent Designers for him/her. Collection, Shoes, Jewelry, Vintage, Fragrance. Shop Online and Our NY Location",
+    "source_urls": [
+      "https://www.assemblynewyork.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "assisted-lifting.com",
+    "company_name": "Assisted Lifting",
+    "website": "https://assisted-lifting.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "sales@assisted-lifting.com",
+        "confidence": "high",
+        "source_url": "https://assisted-lifting.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Drive Blairsville, GA 30512 Customer Service: 855-286-5938 sales@assisted-lifting.com Payment methods American Express Diners"
+      }
+    ],
+    "role_emails": [
+      "sales@assisted-lifting.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://assisted-lifting.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://assisted-lifting.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2019-09-16"
+      },
+      {
+        "url": "https://assisted-lifting.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://assisted-lifting.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://assisted-lifting.com/contact",
+        "action": "https://www.assisted-lifting.com/contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Assisted Lifting, celebrating 20 years, offers all types of lifts for your home or business, including stair lifts, wheelchair lifts, dumbwaiters & more!",
+    "source_urls": [
+      "https://assisted-lifting.com",
+      "https://assisted-lifting.com/pages/about-us",
+      "https://assisted-lifting.com/policies/contact-information"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "assouline.com",
+    "company_name": "ASSOULINE",
+    "website": "https://www.assouline.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customerservice@assouline.com",
+        "confidence": "high",
+        "source_url": "https://www.assouline.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "digital@assouline.com",
+        "confidence": "high",
+        "source_url": "https://www.assouline.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "press@assouline.com",
+        "confidence": "high",
+        "source_url": "https://www.assouline.com/pages/press-inquiries",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "For press inquiries, please email press@assouline.com or submit the below form:"
+      },
+      {
+        "address": "wholesale@assouline.com",
+        "confidence": "high",
+        "source_url": "https://www.assouline.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "customerservice@assouline.com",
+      "digital@assouline.com",
+      "press@assouline.com",
+      "wholesale@assouline.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.assouline.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.assouline.com/collections/iconic-people-books",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.assouline.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.assouline.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.assouline.com/pages/press-inquiries",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Discover exceptionally crafted designer books, candles, and decorative objects. Curate your contemporary library. Complimentary shipping on orders over $200.",
+    "source_urls": [
+      "https://www.assouline.com",
+      "https://www.assouline.com/collections/iconic-people-books",
+      "https://www.assouline.com/pages/about",
+      "https://www.assouline.com/pages/contact-us",
+      "https://www.assouline.com/pages/press-inquiries"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "asspizza.com",
+    "company_name": "ASSPIZZA",
+    "website": "https://asspizza.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://asspizza.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://asspizza.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://asspizza.com/pages/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "WORLD'S FASTEST SHIPPING",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "astaresort.com",
+    "company_name": "ASTA RESORT",
+    "website": "https://astaresort.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "concierge@astaresort.com",
+        "confidence": "highest",
+        "source_url": "https://astaresort.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "R CUSTOMER SERVICE & PRODUCT ASSISTANCE \u273b At your service: concierge@astaresort.com We endeavour to respond to all customer service ema"
+      },
+      {
+        "address": "hello@astaresort.com",
+        "confidence": "highest",
+        "source_url": "https://astaresort.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "careers@astaresort.com",
+        "confidence": "high",
+        "source_url": "https://astaresort.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "astaresort.com For careers expressions of interest: careers@astaresort.com Join Club ASTA Join our w"
+      },
+      {
+        "address": "mckenna@astaresort.com",
+        "confidence": "high",
+        "source_url": "https://astaresort.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Monday through Friday. For all wholesale inquiries: mckenna@astaresort.com For press inquiries: morgan@astaresort.com"
+      },
+      {
+        "address": "morgan@astaresort.com",
+        "confidence": "high",
+        "source_url": "https://astaresort.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ": mckenna@astaresort.com For press inquiries: morgan@astaresort.com For careers expressions of interest: careers@astare"
+      }
+    ],
+    "role_emails": [
+      "careers@astaresort.com",
+      "concierge@astaresort.com",
+      "hello@astaresort.com",
+      "mckenna@astaresort.com",
+      "morgan@astaresort.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://astaresort.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://astaresort.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "ASTA RESORT \u273b Dedicated to travel, fashion, foods & art.",
+    "source_urls": [
+      "https://astaresort.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "astek.com",
+    "company_name": "Astek",
+    "website": "https://www.astek.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@astek.com",
+        "confidence": "highest",
+        "source_url": "https://www.astek.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ton Ave. Ste. #1116 New York, NY 10016 P 646\u00b7293\u00b76647 E info@astek.com HOURS HOURS LA Head"
+      }
+    ],
+    "role_emails": [
+      "info@astek.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.astek.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.astek.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.astek.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.astek.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.astek.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.astek.com/pages/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.astek.com/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.astek.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "It's time to take your commercial space's wallcoverings to a new level with the number one company. Visit us to see the difference exceptional quality wallpaper makes!",
+    "source_urls": [
+      "https://www.astek.com",
+      "https://www.astek.com/about",
+      "https://www.astek.com/contact",
+      "https://www.astek.com/pages/about",
+      "https://www.astek.com/pages/contact",
+      "https://www.astek.com/pages/press"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "astekhome.com",
+    "company_name": "Astek Home",
+    "website": "https://www.astekhome.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.astekhome.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.astekhome.com/collections/contact-paper",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.astekhome.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.astekhome.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.astekhome.com",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.astekhome.com/collections/contact-paper",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.astekhome.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.astekhome.com/pages/about-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Take your home decor to another level with our award-winning and artist-created wallpaper. Elegant, fun, and stylish wallcoverings for any home.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "astera.com",
+    "company_name": "Astera Software",
+    "website": "https://store.astera.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://store.astera.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://store.astera.com/products/centerprise-data-integrator-express",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://store.astera.com/products/reportminer-express",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://store.astera.com/products/reportminer-ocr-express",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2021-09-24"
+      },
+      {
+        "url": "https://store.astera.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://store.astera.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Astera Software offers data integration and ETL software tools for use in data migration, data conversion, data transformation, and data mapping",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 14
+  },
+  {
+    "company_domain": "asterom.com",
+    "company_name": "Asterom Handmade Walking Canes",
+    "website": "https://asterom.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@asterom.com",
+        "confidence": "highest",
+        "source_url": "https://asterom.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ee to the Terms of Use & Privacy Policy. info@asterom.com +1 656 204 0080 Message us on Whats"
+      }
+    ],
+    "role_emails": [
+      "info@asterom.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://asterom.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://asterom.com/pages/about-our-canes",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://asterom.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://asterom.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://asterom.com/pages/contact-us",
+        "action": "/contact#ContactForm-template--20174142079043__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Fully handmade fashionable canes and walking sticks for men and women crafted of solid oak wood with exclusive authors design. Our stylish wooden canes change your perception of classy walking canes. We will be happy to craft custom walking cane with exclusive decorative pommel just for your needs.",
+    "source_urls": [
+      "https://asterom.com",
+      "https://asterom.com/pages/about-our-canes",
+      "https://asterom.com/pages/contact-us",
+      "https://asterom.com/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "astisrx.com",
+    "company_name": "Asti's South Hills Pharmacy",
+    "website": "https://www.astisrx.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@astisrx.com",
+        "confidence": "high",
+        "source_url": "https://www.astisrx.com/contact-1",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Email Us Looking to send us an email? Email: hello@astisrx.com Visit Us Looking to visit us or"
+      }
+    ],
+    "role_emails": [
+      "hello@astisrx.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.astisrx.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.astisrx.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.astisrx.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.astisrx.com/contact-1",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.astisrx.com/about-1",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.astisrx.com/contact",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.astisrx.com/contact-1",
+        "action": "http://webpreview.srtl.co/asti-pharmacy-pittsburgh/Contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Study: Prices Of More Than 400 Drugs Have Skyrocketed In Past Few Years PITTSBURGH (KDKA) \u2013 Much has been made recently about the astronomical price-hike on EpiPens, but that\u2019s not the only prescription drug that\u2019s gotten dramatically more expensive up in price recently.",
+    "source_urls": [
+      "https://www.astisrx.com/contact-1"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "astorandbanks.com",
+    "company_name": "Astor+Banks",
+    "website": "https://astorandbanks.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@astorandbanks.com",
+        "confidence": "highest",
+        "source_url": "https://astorandbanks.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2016-07-26",
+        "context_snippet": "Contact ASTOR+BANKS Chicago, IL 60606 info@astorandbanks.com \u00a9 Astor+Banks 2016"
+      },
+      {
+        "address": "press@astorandbanks.com",
+        "confidence": "highest",
+        "source_url": "https://astorandbanks.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2016-07-26",
+        "context_snippet": "ASTOR+BANKS IN THE NEWS MEDIA INQUIRIES Please contact press@astorandbanks.com Astor + Banks Offers Watch Lovers a Secon"
+      },
+      {
+        "address": "help@astorandbanks.com",
+        "confidence": "high",
+        "source_url": "https://astorandbanks.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Privacy Policy and Terms of Service apply. Email help@astorandbanks.com Follow us Instagram 5 Yea"
+      },
+      {
+        "address": "pr@astorandbanks.com",
+        "confidence": "high",
+        "source_url": "https://astorandbanks.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2016-07-26",
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "help@astorandbanks.com",
+      "info@astorandbanks.com",
+      "pr@astorandbanks.com",
+      "press@astorandbanks.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://astorandbanks.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://astorandbanks.com/press",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2016-07-26"
+      },
+      {
+        "url": "https://astorandbanks.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://astorandbanks.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://astorandbanks.com/blogs/latest-news/terra-scout-press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://astorandbanks.com/blogs/latest-news/terra-scout-press#comments",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://astorandbanks.com/press",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://astorandbanks.com/pages/contact-us",
+        "action": "/contact#ContactForm-template--28682522460482__contact-form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Fine time instruments assembled and designed in the USA.",
+    "source_urls": [
+      "https://astorandbanks.com/press",
+      "https://astorandbanks.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "astorapiaries.com",
+    "company_name": "Astor Apiaries",
+    "website": "https://astorapiaries.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://astorapiaries.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://astorapiaries.com/collections/pest-disease-management",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://astorapiaries.com/blogs/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://astorapiaries.com/blogs/press/today-show-inside-look-at-the-sweet-science-behind-harvesting-honey",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://astorapiaries.com/blogs/press/new-york-times-how-an-urban-beekeeper-spends-his-sundays",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://astorapiaries.com/blogs/press/nbc-news-11-best-honeys-to-keep-in-your-pantry-according-to-experts",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://astorapiaries.com/blogs/press/astor-apiaries-honey-on-good-morning-america",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://astorapiaries.com/blogs/press/martha-stewart-why-honey-crystallizes-and-how-to-stop-it-from-happening",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://astorapiaries.com/blogs/press/amny-queens-based-beekeeper-talks-growing-honey-business-from-his-rooftop-and-participation-in-local-initiative-to-help-the-bees",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://astorapiaries.com/blogs/press/edible-queens-meet-the-urban-beekeepers-behind-astor-apiaries",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Astor Apiaries is an urban bee farm and shop based in Queens, NY. We care for hives across the city, offer classes about bees and produce exceptional NYC Raw Honey.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 18
+  },
+  {
+    "company_domain": "astorchocolate.com",
+    "company_name": "Astor Chocolate",
+    "website": "https://astorchocolate.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "astorconcierge@astorchocolate.com",
+        "confidence": "high",
+        "source_url": "https://astorchocolate.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "u003eastorconcierge@astorchocolate.com",
+        "confidence": "high",
+        "source_url": "https://astorchocolate.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "astorconcierge@astorchocolate.com",
+      "u003eastorconcierge@astorchocolate.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://astorchocolate.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://astorchocolate.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://astorchocolate.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://astorchocolate.com/pages/about-astor",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://astorchocolate.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Astor Chocolate combines tradition, care & expertise in our chocolate making. We are family founded and owned. Choose from the best in gourmet Belgian chocolate today.",
+    "source_urls": [
+      "https://astorchocolate.com",
+      "https://astorchocolate.com/about-us",
+      "https://astorchocolate.com/contact",
+      "https://astorchocolate.com/pages/about-astor",
+      "https://astorchocolate.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "astorenamedstuff.com",
+    "company_name": "A STORE NAMED STUFF",
+    "website": "https://astorenamedstuff.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "onlineteam@astorenamedstuff.com",
+        "confidence": "high",
+        "source_url": "https://astorenamedstuff.com/policies/contact-information",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ": A STORE NAMED STUFF Phone number: 816-361-8222 Email: onlineteam@astorenamedstuff.com Physical address: STUFF, LC, 316 W 63rd Street, Kansas Ci"
+      }
+    ],
+    "role_emails": [
+      "onlineteam@astorenamedstuff.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://astorenamedstuff.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://astorenamedstuff.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2020-08-06"
+      },
+      {
+        "url": "https://astorenamedstuff.com/pages/store-location",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://astorenamedstuff.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://astorenamedstuff.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "We sell \"stuff\" made by artists, makers, and creators \u2014 curated gifts, ceramics, jewelry, and home goods in Kansas City. A shopping experience to remember!",
+    "source_urls": [
+      "https://astorenamedstuff.com/policies/contact-information"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "astoria-activewear.com",
+    "company_name": "Astoria Activewear",
+    "website": "https://astoria-activewear.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@astoria-activewear.com",
+        "confidence": "highest",
+        "source_url": "https://astoria-activewear.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ns, including marketing inquiries, directly via our e-mail hello@astoria-activewear.com or by completing the form below. If applicable, please ens"
+      }
+    ],
+    "role_emails": [
+      "hello@astoria-activewear.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://astoria-activewear.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://astoria-activewear.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Shop Astoria Activewear's exclusive collection of comfortable, quality, and affordable women's workout apparel. Seamless available now.",
+    "source_urls": [
+      "https://astoria-activewear.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  }
+]
