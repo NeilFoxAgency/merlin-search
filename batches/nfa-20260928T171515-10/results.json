@@ -1,0 +1,1247 @@
+[
+  {
+    "company_domain": "badabeansnacks.com",
+    "company_name": "Bada Bean Bada Boom",
+    "website": "https://www.badabeansnacks.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@badabeansnacks.com",
+        "confidence": "high",
+        "source_url": "https://www.badabeansnacks.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "hello@badabeansnacks.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.badabeansnacks.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.badabeansnacks.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.badabeansnacks.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Crunchy roasted beans packed with plant-based protein and full of bold flavor and crunch.",
+    "source_urls": [
+      "https://www.badabeansnacks.com/contact",
+      "https://www.badabeansnacks.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "badalijewelry.com",
+    "company_name": "BJS Inc.",
+    "website": "https://badalijewelry.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "badassballoonco.com",
+    "company_name": "Badass Balloon Co.",
+    "website": "https://www.badassballoonco.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": "KOITOTO menyediakan akses link resmi situs togel online 4D terpercaya dengan sistem keamanan terbaik, bebas scam, serta layanan cepat dan nyaman untuk semua pengguna.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "badassbeardcare.com",
+    "company_name": "Badass Beard Care",
+    "website": "https://badassbeardcare.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "sales@badassbeardcare.com",
+        "confidence": "highest",
+        "source_url": "https://badassbeardcare.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "riday 9am - 3:30pm PST Text : (844) 622-3277 E-mail : Sales@badassbeardcare.com Search Search"
+      }
+    ],
+    "role_emails": [
+      "sales@badassbeardcare.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://badassbeardcare.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://badassbeardcare.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2015-11-04"
+      },
+      {
+        "url": "https://badassbeardcare.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2015-11-02"
+      },
+      {
+        "url": "https://badassbeardcare.com/pages/meet-our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://badassbeardcare.com/pages/our-retail-locations-barbershop-locations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://badassbeardcare.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://badassbeardcare.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Badass Beard Care",
+    "source_urls": [
+      "https://badassbeardcare.com",
+      "https://badassbeardcare.com/contact",
+      "https://badassbeardcare.com/pages/meet-our-team",
+      "https://badassbeardcare.com/pages/our-retail-locations-barbershop-locations",
+      "https://badassbeardcare.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "badasscoffeestore.com",
+    "company_name": "Bad Ass Coffee of Hawaii",
+    "website": "https://badasscoffeestore.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://badasscoffeestore.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://badasscoffeestore.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://badasscoffeestore.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://badasscoffeestore.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://badasscoffeestore.com/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Bad Ass Coffee of Hawaii specializes in 100% Kona Coffee and Hawaiian Coffees sourced directly from Hawaii. Bad Ass Coffee Shirts, Hats and other merchandise are available through our store.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "badassextensioncords.com",
+    "company_name": "Bad Ass Extension Cords",
+    "website": "https://badassextensioncords.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://badassextensioncords.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://badassextensioncords.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2022-11-26"
+      },
+      {
+        "url": "https://badassextensioncords.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://badassextensioncords.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://badassextensioncords.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Bad Ass Extension Cords",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "badassglass.com",
+    "company_name": "Badass Glass",
+    "website": "https://www.badassglass.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@badassglass.com",
+        "confidence": "high",
+        "source_url": "https://www.badassglass.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "hello@badassglass.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.badassglass.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.badassglass.com/collections/steamroller-pipes",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.badassglass.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.badassglass.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.badassglass.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Online Headshop - Your Smoke Shop for Bongs, Dab Rigs, & More!",
+    "source_urls": [
+      "https://www.badassglass.com",
+      "https://www.badassglass.com/collections/steamroller-pipes",
+      "https://www.badassglass.com/pages/contact-us",
+      "https://www.badassglass.com/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "badassoutdoorgear.com",
+    "company_name": "Badass Outdoor Gear",
+    "website": "https://badassoutdoorgear.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Kelle Adams",
+        "title": "Owner",
+        "email": "kelle@badassoutdoorgear.com",
+        "source_url": "https://badassoutdoorgear.com/about-us"
+      }
+    ],
+    "people": [
+      {
+        "name": "Kelle Adams",
+        "title": "Owner",
+        "email": "kelle@badassoutdoorgear.com",
+        "source_url": "https://badassoutdoorgear.com/about-us"
+      }
+    ],
+    "emails": [
+      {
+        "address": "kelle@badassoutdoorgear.com",
+        "confidence": "highest",
+        "source_url": "https://badassoutdoorgear.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2015-08-12",
+        "context_snippet": ""
+      },
+      {
+        "address": "russ@badassoutdoorgear.com",
+        "confidence": "highest",
+        "source_url": "https://badassoutdoorgear.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2015-08-12",
+        "context_snippet": ""
+      },
+      {
+        "address": "customerservice@badassoutdoorgear.com",
+        "confidence": "high",
+        "source_url": "https://badassoutdoorgear.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2015-08-12",
+        "context_snippet": "p you! For any questions please contact us via email: CustomerService@badassoutdoorgear.com o r contact us by phone at 801-900-6060 . Thanks for v"
+      }
+    ],
+    "role_emails": [
+      "customerservice@badassoutdoorgear.com",
+      "kelle@badassoutdoorgear.com",
+      "russ@badassoutdoorgear.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://badassoutdoorgear.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://badassoutdoorgear.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2015-08-12"
+      },
+      {
+        "url": "https://badassoutdoorgear.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://badassoutdoorgear.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://badassoutdoorgear.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Badass Outdoor Gear is the trusted archery store in Salt Lake City, Utah, offering proven hunting gear for serious hunters and outdoor enthusiasts. Explore premium bows, camo, optics, e-bikes, and more from top brands like Sitka, PSE, Prime, Rambo, Bakcou & lots more of the best quality hunting gear",
+    "source_urls": [
+      "https://badassoutdoorgear.com/about-us",
+      "https://badassoutdoorgear.com/contact",
+      "https://badassoutdoorgear.com/pages/contact-us"
+    ],
+    "reason": null,
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "badaxetoolworks.com",
+    "company_name": "Bad Axe Tool Works LLC",
+    "website": "https://badaxetoolworks.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@badaxetoolworks.com",
+        "confidence": "high",
+        "source_url": "https://badaxetoolworks.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "treet E, Ste. 30, Superior WI 54880, United States Email: Info@BadAxeToolWorks.com Phone Number: +1 (715) 919-4073 Shop Hours: Mon - Thu,"
+      }
+    ],
+    "role_emails": [
+      "info@badaxetoolworks.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://badaxetoolworks.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://badaxetoolworks.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://badaxetoolworks.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://badaxetoolworks.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Bad Axe Tool Works makes saws as they would have appeared fresh out of a 19th Century American sawmaker's shop, only you decide how to customize the look and toothline to best suit your woodworking requirement and style. Our saws gives you the edge you need to push your project to the next level.",
+    "source_urls": [
+      "https://badaxetoolworks.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "badbirdie.com",
+    "company_name": "Bad Birdie",
+    "website": "https://badbirdie.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://badbirdie.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://badbirdie.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Premium golf apparel for those who play their own game. Bad Birdie delivers bold patterns, premium comfort, and performance polos that make a statement on and off the course. Join the party - this isn't your dad's golf brand.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "badbirdiegolf.com",
+    "company_name": "Bad Birdie",
+    "website": "https://badbirdiegolf.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@badbirdiegolf.com",
+        "confidence": "high",
+        "source_url": "https://badbirdiegolf.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "support@badbirdiegolf.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://badbirdiegolf.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://badbirdiegolf.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://badbirdiegolf.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Premium golf apparel for those who play their own game. Bad Birdie delivers bold patterns, premium comfort, and performance polos that make a statement on and off the course. Join the party - this isn't your dad's golf brand.",
+    "source_urls": [
+      "https://badbirdiegolf.com",
+      "https://badbirdiegolf.com/pages/about-us",
+      "https://badbirdiegolf.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "badboy.com",
+    "company_name": "Bad Boy",
+    "website": "https://badboy.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "baddiesandbudgets.com",
+    "company_name": "Baddies and Budgets",
+    "website": "https://baddiesandbudgets.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://baddiesandbudgets.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://baddiesandbudgets.com/blogs/press/meet-jasmine-taylor",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://baddiesandbudgets.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://baddiesandbudgets.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Baddies and Budgets makes budgeting fun, stylish, and intentional with cash stuffing tools, savings challenges, binders, planners, and lifestyle goods.We're also home to the viral Tik Tok budget binder.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "baddieville.com",
+    "company_name": "Baddieville",
+    "website": "https://baddieville.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "orders@baddieville.com",
+        "confidence": "high",
+        "source_url": "https://baddieville.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "orders@baddieville.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://baddieville.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://baddieville.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://baddieville.com/pages/contact-us",
+        "action": "/contact#ContactForm-template--21975325671702__contact-form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Baddieville has the newest trends, must-have styles and the best deals.",
+    "source_urls": [
+      "https://baddieville.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "badegg.co",
+    "company_name": "Bad Egg Publishing",
+    "website": "https://badegg.co",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "badensports.com",
+    "company_name": "Baden Sports",
+    "website": "https://www.badensports.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@badensports.com",
+        "confidence": "highest",
+        "source_url": "https://www.badensports.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ral inquiries, please use our contact form below (or email info@badensports.com ) and we will get back to you as soon as possible. Baden"
+      },
+      {
+        "address": "riverd@badensports.com",
+        "confidence": "high",
+        "source_url": "https://www.badensports.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@badensports.com",
+      "riverd@badensports.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.badensports.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.badensports.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2016-02-12"
+      },
+      {
+        "url": "https://www.badensports.com/pages/about-us-1",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.badensports.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Shop Baden Sports for high-quality basketballs, volleyballs, soccer balls, futsal balls, footballs, softballs, and baseballs. Make your camp, team, or league stand out with custom balls. Free shipping on orders over $49.",
+    "source_urls": [
+      "https://www.badensports.com",
+      "https://www.badensports.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "badfishsup.com",
+    "company_name": "Badfish SUP",
+    "website": "https://badfishsup.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customerservice@badfishsup.com",
+        "confidence": "highest",
+        "source_url": "https://badfishsup.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "customerservice@badfishsup.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://badfishsup.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://badfishsup.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2018-02-28"
+      },
+      {
+        "url": "https://badfishsup.com/pages/badfish-company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://badfishsup.com/pages/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://badfishsup.com/contact",
+        "action": "http://badfishsup.com/contact/#contact-form-19",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Performance Inflatable paddleboards, river surfboards, rafts, and river tubes. Badfish river equipment is designed and tested by professional river guides in Salida, Colorado. Built for river rats.",
+    "source_urls": [
+      "https://badfishsup.com",
+      "https://badfishsup.com/pages/badfish-company",
+      "https://badfishsup.com/pages/team"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "badflag.com",
+    "company_name": "Bad Flag Store",
+    "website": "https://badflag.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://badflag.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://badflag.com/pages/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "BadFlag Car and Truck Flag Mounts",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "badfriendltd.com",
+    "company_name": "badfriend",
+    "website": "https://www.badfriendltd.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@badfriendltd.com",
+        "confidence": "high",
+        "source_url": "https://www.badfriendltd.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "list Log in Sign up info@badfriendltd.com Copyright \u00a9 2026, badfriend ."
+      }
+    ],
+    "role_emails": [
+      "info@badfriendltd.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.badfriendltd.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.badfriendltd.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [
+      "https://www.badfriendltd.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "badfriendsmerch.com",
+    "company_name": "Bad Friends Podcast",
+    "website": "https://www.badfriendsmerch.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@badfriendsmerch.com",
+        "confidence": "high",
+        "source_url": "https://www.badfriendsmerch.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "swer emails Monday-Fridays during normal business hours at info@badfriendsmerch.com Bad Friends Official Store by Bobby Lee"
+      }
+    ],
+    "role_emails": [
+      "info@badfriendsmerch.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.badfriendsmerch.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.badfriendsmerch.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "The official store of Bad Friends Podcast by Andrew Santino and Bobby Lee.",
+    "source_urls": [
+      "https://www.badfriendsmerch.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "badgebomb.com",
+    "company_name": "Badge Bomb Wholesale",
+    "website": "https://www.badgebomb.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "info AT badgebomb.com",
+        "title": null,
+        "email": "info@badgebomb.com",
+        "source_url": "https://www.badgebomb.com/pages/contact"
+      }
+    ],
+    "people": [
+      {
+        "name": "info AT badgebomb.com",
+        "title": null,
+        "email": "info@badgebomb.com",
+        "source_url": "https://www.badgebomb.com/pages/contact"
+      }
+    ],
+    "emails": [
+      {
+        "address": "info@badgebomb.com",
+        "confidence": "highest",
+        "source_url": "https://www.badgebomb.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "sales@badgebomb.com",
+        "confidence": "highest",
+        "source_url": "https://www.badgebomb.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ") 233-8003 F: (866) 209-5592 Questions? sales@badgebomb.com Weekdays 9-4 PST"
+      }
+    ],
+    "role_emails": [
+      "sales@badgebomb.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.badgebomb.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.badgebomb.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.badgebomb.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.badgebomb.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "USA Made gifts designed by artists like Gemma Correll, Lisa Congdon, Doodle by Meg, Ephemera, Andrea Kang, and more. Button pins, art stickers, fridge magnets, and greeting cards are made in USA. Plus, enamel pins, iron-on patches, cork coasters, jigsaw puzzles, more funny and empowering products. 1",
+    "source_urls": [
+      "https://www.badgebomb.com",
+      "https://www.badgebomb.com/about",
+      "https://www.badgebomb.com/pages/about-us",
+      "https://www.badgebomb.com/pages/contact"
+    ],
+    "reason": null,
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "badgebuddies.com",
+    "company_name": "BadgeBuddies",
+    "website": "https://badgebuddies.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@badgebuddies.com",
+        "confidence": "highest",
+        "source_url": "https://badgebuddies.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "content (800) 490-8089 Free Shipping over $99 info@badgebuddies.com (800) 490-8089 info@badgebuddies.com"
+      }
+    ],
+    "role_emails": [
+      "info@badgebuddies.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://badgebuddies.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://badgebuddies.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "At BadgeBuddies\u00ae we offer High Quality Vertical and Horizontal Badges, Doctor Badges, RN Badges, LPN Badges, CNA Badges, Student ID Card Badges & more. Buy Now!",
+    "source_urls": [
+      "https://badgebuddies.com",
+      "https://badgebuddies.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "badgemagic.com",
+    "company_name": "Badge Magic",
+    "website": "https://www.badgemagic.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@badgemagic.com",
+        "confidence": "highest",
+        "source_url": "https://www.badgemagic.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "support@badgemagic.com",
+        "confidence": "highest",
+        "source_url": "https://www.badgemagic.com/pages/support",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ds to be answered. We'd love to help you out! Email us at support@badgemagic.com , and a real live person will answer your question as soon"
+      }
+    ],
+    "role_emails": [
+      "info@badgemagic.com",
+      "support@badgemagic.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.badgemagic.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.badgemagic.com/pages/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.badgemagic.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Badge Magic\u00ae - The revolutionary new way to attach Scout badges and patches to uniforms without sewing. Quick, Easy, Inexpensive. Save Time and Money!",
+    "source_urls": [
+      "https://www.badgemagic.com",
+      "https://www.badgemagic.com/pages/support",
+      "https://www.badgemagic.com/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "badger-pipe.com",
+    "company_name": "BadgerPipe",
+    "website": "https://badger-pipe.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://badger-pipe.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://badger-pipe.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://badger-pipe.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "BadgerPipe",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "badgerbalm.com",
+    "company_name": "Badger",
+    "website": "https://www.badgerbalm.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "custserv@badgerbalm.com",
+        "confidence": "highest",
+        "source_url": "https://www.badgerbalm.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "vice Email Customer Service: custserv@badgerbalm.com Wholesale Orders: orders@badgerbalm.com Chat (and some"
+      },
+      {
+        "address": "deef@badgerbalm.com",
+        "confidence": "highest",
+        "source_url": "https://www.badgerbalm.com/pages/press-releases-media-contacts",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "For inquiries, please contact Dee Fitzgerald: deef@badgerbalm.com or 603-283-5220 Press Releases: 01-04-2022"
+      },
+      {
+        "address": "orders@badgerbalm.com",
+        "confidence": "highest",
+        "source_url": "https://www.badgerbalm.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "tomer Service: custserv@badgerbalm.com Wholesale Orders: orders@badgerbalm.com Chat (and some automated order assistance) Start a cha"
+      }
+    ],
+    "role_emails": [
+      "custserv@badgerbalm.com",
+      "deef@badgerbalm.com",
+      "orders@badgerbalm.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.badgerbalm.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.badgerbalm.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.badgerbalm.com/pages/about-badger-organic-sunscreens",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.badgerbalm.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.badgerbalm.com/pages/press-releases-media-contacts",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Manufacturers of trusted mineral sunscreens and organic skincare, crafted with simple ingredients from nature. Family-owned and operated since 1995. Free gift +15% off your first order.",
+    "source_urls": [
+      "https://www.badgerbalm.com/contact",
+      "https://www.badgerbalm.com/pages/contact-us",
+      "https://www.badgerbalm.com/pages/press-releases-media-contacts"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  }
+]
