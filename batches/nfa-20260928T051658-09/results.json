@@ -1,0 +1,1539 @@
+[
+  {
+    "company_domain": "antiquesandvintagetexas.com",
+    "company_name": "Antiques & Vintage Texas",
+    "website": "https://www.antiquesandvintagetexas.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "greg@antiquesandvintagetexas.com",
+        "confidence": "highest",
+        "source_url": "https://www.antiquesandvintagetexas.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "0 US HWY 80 W Forney, TX 75126 Phone: 972-587-6737 Email: greg@antiquesandvintagetexas.com HOURS Monday: Appointment only (Based on availability"
+      },
+      {
+        "address": "info@antiquesandvintagetexas.com",
+        "confidence": "highest",
+        "source_url": "https://www.antiquesandvintagetexas.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2019-10-24",
+        "context_snippet": "5126 Phone 972-587-6737 Store 469-441-7563 Pieter info@antiquesandvintagetexas.com Antiques & Vintage at The Bull Market 3570 HWY 237"
+      }
+    ],
+    "role_emails": [
+      "greg@antiquesandvintagetexas.com",
+      "info@antiquesandvintagetexas.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.antiquesandvintagetexas.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.antiquesandvintagetexas.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2019-10-24"
+      },
+      {
+        "url": "https://www.antiquesandvintagetexas.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.antiquesandvintagetexas.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.antiquesandvintagetexas.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Antiques & Vintage Texas sells antique French doors which can be used as pantry doors, bathroom doors, and more. The doors can be put on a track to function as barn doors, framed or hung.",
+    "source_urls": [
+      "https://www.antiquesandvintagetexas.com/contact",
+      "https://www.antiquesandvintagetexas.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "antiqueswilliamsburg.store",
+    "company_name": "Williamsburg Antique Mall",
+    "website": "https://antiqueswilliamsburg.store",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://antiqueswilliamsburg.store",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://antiqueswilliamsburg.store/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Williamsburg Antique Mall. Conveniently located in Williamsburg VA, the Williamsburg Antique Mall has become a destination for those wishing to purchase antiques and collectibles. With over 300 dealers occupying 45,000 square feet, the Mall is larger than most similar facilities and has more dealers",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "antiquetrader.com",
+    "company_name": "Antique Trader Store",
+    "website": "https://store.antiquetrader.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://store.antiquetrader.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://store.antiquetrader.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://store.antiquetrader.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Enjoy incomparable content on the big and beautiful world of antiques.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "antiquitieswarehouse.com",
+    "company_name": "Antiquities Warehouse",
+    "website": "https://antiquitieswarehouse.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@antiquitieswarehouse.com",
+        "confidence": "high",
+        "source_url": "https://antiquitieswarehouse.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "00PM (Holidays excepted) Saturday 10:00AM - 4:00PM E-mail: info@antiquitieswarehouse.com Address: 402 S. 1st Street, Suite C, Phoenix 85004 See Ma"
+      }
+    ],
+    "role_emails": [
+      "info@antiquitieswarehouse.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://antiquitieswarehouse.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://antiquitieswarehouse.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2014-02-11"
+      },
+      {
+        "url": "https://antiquitieswarehouse.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2015-01-03"
+      },
+      {
+        "url": "https://antiquitieswarehouse.com/collections/mixed-media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://antiquitieswarehouse.com/products/vintage-david-white-company-surveyors-transit",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://antiquitieswarehouse.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://antiquitieswarehouse.com/pages/location",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://antiquitieswarehouse.com",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://antiquitieswarehouse.com/contact",
+        "action": "/contact/#wpcf7-f6-p11-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://antiquitieswarehouse.com/pages/about-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://antiquitieswarehouse.com/pages/location",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Antiquities Warehouse is an architectural salvage and home decor company with a 10,000 sqft showroom located in Downtown Phoenix, AZ. We source a unique inventory of antiques from France, Belgium, and around the world. We specialize in antique doors, windows, shutters, seating, tables, art, cabinets",
+    "source_urls": [
+      "https://antiquitieswarehouse.com",
+      "https://antiquitieswarehouse.com/collections/mixed-media",
+      "https://antiquitieswarehouse.com/products/vintage-david-white-company-surveyors-transit",
+      "https://antiquitieswarehouse.com/pages/about-us",
+      "https://antiquitieswarehouse.com/pages/location"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "antirecidivism.org",
+    "company_name": "Anti-Recidivism Coalition",
+    "website": "https://shop.antirecidivism.org",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://shop.antirecidivism.org",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Anti-Recidivism Coalition",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "antishanty.com",
+    "company_name": "antishanty.com",
+    "website": "https://antishanty.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@antishanty.com",
+        "confidence": "highest",
+        "source_url": "https://antishanty.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2023-12-11",
+        "context_snippet": "N 400 W, Suite B North Logan, UT 84341 (435)-774-2945 info@antishanty.com Useful Links Explore Trailers Old Dimensions Ow"
+      }
+    ],
+    "role_emails": [
+      "info@antishanty.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://antishanty.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://antishanty.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2023-12-11"
+      },
+      {
+        "url": "https://antishanty.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2023-10-03"
+      },
+      {
+        "url": "https://antishanty.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://antishanty.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://antishanty.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Ultralight, insulated, four-season modular dwellings. Built with aircraft-grade aluminum for lifetime durability. Made to adapt to your needs.",
+    "source_urls": [
+      "https://antishanty.com",
+      "https://antishanty.com/about",
+      "https://antishanty.com/contact",
+      "https://antishanty.com/pages/contact",
+      "https://antishanty.com/policies/contact-information"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "antisocialsocialclub.com",
+    "company_name": "AntiSocialSocialClub",
+    "website": "https://www.antisocialsocialclub.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.antisocialsocialclub.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.antisocialsocialclub.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "AntiSocialSocialClub",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "antispike.com",
+    "company_name": "Anti-Spike Formula",
+    "website": "https://antispike.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://antispike.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://antispike.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://antispike.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://antispike.com/pages/about-jessie-inchauspe",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://antispike.com/pages/contact-jessie",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://antispike.com/pages/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://antispike.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://antispike.com/pages/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Natural supplement with clinically studied ingredients that reduces glucose spikes by up to 40%. Lower fasting glucose, reduce cravings & boost energy. Science-backed formula.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "antler.com",
+    "company_name": "Antler USA",
+    "website": "https://www.antler.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@antler.com",
+        "confidence": "high",
+        "source_url": "https://www.antler.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "hello@antler.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.antler.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.antler.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.antler.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.antler.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Antler's Range Of Premium Hand Luggage, Casual Bags And Accessories Has Landed In the US. Free Delivery & Returns Australia Wide! Shop Now.",
+    "source_urls": [
+      "https://www.antler.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "antlerrings.com",
+    "company_name": "Antler Rings",
+    "website": "https://antlerrings.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "madetoorder@antlerrings.com",
+        "confidence": "highest",
+        "source_url": "https://antlerrings.com/pages/contact_us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "5:00 PM CST EMAIL US AT support@antlerrings.com madetoorder@antlerrings.com GIVE US A CALL +1 (737) 209-0452"
+      },
+      {
+        "address": "support@antlerrings.com",
+        "confidence": "highest",
+        "source_url": "https://antlerrings.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Contact US M-F 9:00am-5:00pm CST Austin, Texas support@antlerrings.com Become an Ambassador Wholesale Details Support"
+      },
+      {
+        "address": "u003emadetoorder@antlerrings.com",
+        "confidence": "high",
+        "source_url": "https://antlerrings.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "madetoorder@antlerrings.com",
+      "support@antlerrings.com",
+      "u003emadetoorder@antlerrings.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://antlerrings.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://antlerrings.com/pages/contact_us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://antlerrings.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://antlerrings.com/pages/about-our-antler-products",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://antlerrings.com/blogs/news/about-our-antler-products",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Antler Rings provides Western Style rings to over 100,000 customers since 2015 with 10,000+ Five Star Reviews! Antler Wedding Bands made from naturally shed antlers perfect for the Hunter in your life or a Country wedding. Unique durable engagement rings with turquoise inlays perfect for a Cowgirl o",
+    "source_urls": [
+      "https://antlerrings.com",
+      "https://antlerrings.com/pages/contact_us",
+      "https://antlerrings.com/pages/about-us",
+      "https://antlerrings.com/pages/about-our-antler-products",
+      "https://antlerrings.com/blogs/news/about-our-antler-products"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "antoinettesbuffalo.com",
+    "company_name": "Antoinettes Sweets",
+    "website": "https://antoinettesbuffalo.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "antoinettessweets@antoinettesbuffalo.com",
+        "confidence": "highest",
+        "source_url": "https://antoinettesbuffalo.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "DEPEW NY 14043 CORNER OF TRANSIT AND FRENCH 716-684-2376 antoinettessweets@antoinettesbuffalo.com Store Hours: Monday \u2013 Saturday: 11:00 AM \u2013 9:00 PM Sunday"
+      }
+    ],
+    "role_emails": [
+      "antoinettessweets@antoinettesbuffalo.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://antoinettesbuffalo.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://antoinettesbuffalo.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2015-08-02"
+      },
+      {
+        "url": "https://antoinettesbuffalo.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2024-04-14"
+      },
+      {
+        "url": "https://antoinettesbuffalo.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://antoinettesbuffalo.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://antoinettesbuffalo.com/pages/contact",
+        "action": "/contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Discover the legacy of Antoinette's Sweets, offering exquisite homemade chocolates since 1915. Crafted with love, perfect for every celebration.",
+    "source_urls": [
+      "https://antoinettesbuffalo.com",
+      "https://antoinettesbuffalo.com/pages/about-us",
+      "https://antoinettesbuffalo.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "antojoscriollos.com",
+    "company_name": "Zerpa's Antojos Criollos",
+    "website": "https://antojoscriollos.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://antojoscriollos.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://antojoscriollos.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://antojoscriollos.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "We offer Venezuelan products with the highiest quality at reasonable prices. Teque\u00f1os, Empanadas, Cheese and more. We serve both wholesale and retail customers!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "antonellischeese.com",
+    "company_name": "Antonelli's Cheese",
+    "website": "https://www.antonellischeese.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "John Antonelli",
+        "title": "President",
+        "email": "john@antonellischeese.com",
+        "source_url": "https://www.antonellischeese.com/pages/press"
+      },
+      {
+        "name": "Email us",
+        "title": null,
+        "email": "info@antonellischeese.com",
+        "source_url": "https://www.antonellischeese.com/about"
+      }
+    ],
+    "people": [
+      {
+        "name": "John Antonelli",
+        "title": "President",
+        "email": "john@antonellischeese.com",
+        "source_url": "https://www.antonellischeese.com/pages/press"
+      },
+      {
+        "name": "Email us",
+        "title": null,
+        "email": "info@antonellischeese.com",
+        "source_url": "https://www.antonellischeese.com/about"
+      }
+    ],
+    "emails": [
+      {
+        "address": "info@antonellischeese.com",
+        "confidence": "highest",
+        "source_url": "https://www.antonellischeese.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2016-06-19",
+        "context_snippet": ""
+      },
+      {
+        "address": "bookings@antonellischeese.com",
+        "confidence": "high",
+        "source_url": "https://www.antonellischeese.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "john@antonellischeese.com",
+        "confidence": "high",
+        "source_url": "https://www.antonellischeese.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "bookings@antonellischeese.com",
+      "john@antonellischeese.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.antonellischeese.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.antonellischeese.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2016-06-19"
+      },
+      {
+        "url": "https://www.antonellischeese.com/press",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2016-04-19"
+      },
+      {
+        "url": "https://www.antonellischeese.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2015-02-16"
+      },
+      {
+        "url": "https://www.antonellischeese.com/pages/store-locations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.antonellischeese.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.antonellischeese.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.antonellischeese.com/pages/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.antonellischeese.com/pages/contact",
+        "action": "/contact#contact-template--26841005621544__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Discover premier Austin tastings and cheese events at Antonelli's Cheese. Join us for an unforgettable tasting experience with artisan cheeses and perfect pairings.",
+    "source_urls": [
+      "https://www.antonellischeese.com",
+      "https://www.antonellischeese.com/about",
+      "https://www.antonellischeese.com/press",
+      "https://www.antonellischeese.com/contact",
+      "https://www.antonellischeese.com/pages/store-locations",
+      "https://www.antonellischeese.com/pages/contact",
+      "https://www.antonellischeese.com/pages/about-us",
+      "https://www.antonellischeese.com/pages/press"
+    ],
+    "reason": null,
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "antonesrecordshop.com",
+    "company_name": "Antone\u2019s Record Shop",
+    "website": "https://antonesrecordshop.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@antonesrecordshop.com",
+        "confidence": "highest",
+        "source_url": "https://antonesrecordshop.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Store Hours Open Daily 11am-7pm Email: info@antonesrecordshop.com Work with Us Accepting Resumes Thank"
+      }
+    ],
+    "role_emails": [
+      "info@antonesrecordshop.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://antonesrecordshop.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://antonesrecordshop.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://antonesrecordshop.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://antonesrecordshop.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://antonesrecordshop.com/pages/staff-picks",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://antonesrecordshop.com/collections/bens-staff-picks",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://antonesrecordshop.com/collections/billies-staff-picks",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://antonesrecordshop.com/collections/eves-staff-picks",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://antonesrecordshop.com/collections/rays-staff-picks",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://antonesrecordshop.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://antonesrecordshop.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://antonesrecordshop.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Your venerable music shop for CDs, used vinyl records & accessories, with an emphasis on blues & local Austin and Texas artists. Stop by the shop or order online today.",
+    "source_urls": [
+      "https://antonesrecordshop.com/pages/contact",
+      "https://antonesrecordshop.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 17
+  },
+  {
+    "company_domain": "antonuccicafe81.com",
+    "company_name": "Antonucci Cafe 81",
+    "website": "https://antonuccicafe81.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://antonuccicafe81.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://antonuccicafe81.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Antonucci Cafe 81",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "antonymcosmetics.com",
+    "company_name": "Antonym Cosmetics",
+    "website": "https://www.antonymcosmetics.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.antonymcosmetics.com",
+        "page_type": "home",
+        "source_type": "archived",
+        "snapshot_date": "2026-03-07"
+      },
+      {
+        "url": "https://www.antonymcosmetics.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2025-10-17"
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Antonym Cosmetics is a high performance makeup brand made with certified natural ingredients. Our cruelty-free lines consist of clean beauty products including blush, foundation, mascara, eyeshadow, brow pencil, highlighter, and vegan makeup brushes.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "antoyabbq.com",
+    "company_name": "Antoya BBQ",
+    "website": "https://antoyabbq.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": "Anto: authentic Korean BBQ, made to be shared. Tableside grilling in the heart of Koreatown NYC, house kimchi and banchan, lunch and dinner. Reserve a table or order online.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "antscanada.com",
+    "company_name": "AntsCanada",
+    "website": "https://www.antscanada.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "contact-us@antscanada.com",
+        "confidence": "highest",
+        "source_url": "https://www.antscanada.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2015-08-11",
+        "context_snippet": "November 10, 2014 Log in to Reply I sent a Email to Contact-us@antscanada.com and its been 20 mins, no reply\u2026 =( Btw Awesome vids!"
+      },
+      {
+        "address": "info@antscanada.com",
+        "confidence": "highest",
+        "source_url": "https://www.antscanada.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "your shipment, please contact our customer service team at info@AntsCanada.com for assistance. Contact Us If you have any questions or"
+      }
+    ],
+    "role_emails": [
+      "contact-us@antscanada.com",
+      "info@antscanada.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.antscanada.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.antscanada.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2015-08-11"
+      },
+      {
+        "url": "https://www.antscanada.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.antscanada.com/contact/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.antscanada.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.antscanada.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.antscanada.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "AntsCanada",
+    "source_urls": [
+      "https://www.antscanada.com",
+      "https://www.antscanada.com/about-us",
+      "https://www.antscanada.com/policies/contact-information"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "antsylabs.com",
+    "company_name": "Antsy Labs",
+    "website": "https://www.antsylabs.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.antsylabs.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.antsylabs.com/pages/fidget-factory-press-kit",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "We're the inventors of Fidget Cube, the original fidget toy, made for people like us -- fidgeters! Take it to work or school. We've got fidget spinners, too, in different colors, with characters from Marvel and DC, metallic finishes, and more. See Fidget Cube and more fidget toys now!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "anuelaa.com",
+    "company_name": "www.anuelaa.com",
+    "website": "https://www.anuelaa.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "robots_disallowed",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "anuent.com",
+    "company_name": "Anuent",
+    "website": "https://www.anuent.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@anuent.com",
+        "confidence": "highest",
+        "source_url": "https://www.anuent.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "+1 877-638-7651 hello@anuent.com"
+      }
+    ],
+    "role_emails": [
+      "hello@anuent.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.anuent.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.anuent.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.anuent.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.anuent.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.anuent.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.anuent.com/pages/in-the-press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.anuent.com/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.anuent.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Buy Leather Bags for men and women online at best prices. Perfect for work, travel, and everyday use. Free Shipping, Free Monogramming and 30-Days Money-Back.",
+    "source_urls": [
+      "https://www.anuent.com",
+      "https://www.anuent.com/about-us",
+      "https://www.anuent.com/contact",
+      "https://www.anuent.com/pages/about-us",
+      "https://www.anuent.com/pages/contact-us",
+      "https://www.anuent.com/pages/in-the-press"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "anuevajewelry.com",
+    "company_name": "Anueva Jewelry",
+    "website": "https://anuevajewelry.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://anuevajewelry.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://anuevajewelry.com/pages/about-anueva-jewelry-handmade-eco-friendly-nature-inspired-jewelry",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://anuevajewelry.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://anuevajewelry.com/pages/contact-anueva-jewelry",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://anuevajewelry.com/pages/about-our-sapphires-anueva-jewelry-custom-sapphire-rings-and-sapphire-engagement-rings",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Unique and eco-friendly engagement rings made with recycled gold, antique diamonds and moissanite by Anueva Jewelry. Also featuring ethical gemstone jewelry.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "anuketluxury.com",
+    "company_name": "Anuket Luxury Apothecary",
+    "website": "https://anuketluxury.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "collaborations@anuketluxury.com",
+        "confidence": "highest",
+        "source_url": "https://anuketluxury.com/blogs/from-our-founder/as-seen-in-the-press",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ggest it in the comments below or send your suggestions to collaborations@anuketluxury.com . Thank you for being here and celebrating with me. As a"
+      },
+      {
+        "address": "info@anuketluxury.com",
+        "confidence": "high",
+        "source_url": "https://anuketluxury.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "collaborations@anuketluxury.com",
+      "info@anuketluxury.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://anuketluxury.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://anuketluxury.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://anuketluxury.com/blogs/from-our-founder/as-seen-in-the-press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://anuketluxury.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://anuketluxury.com/blogs/from-our-founder/as-seen-in-the-press",
+        "action": "/blogs/from-our-founder/as-seen-in-the-press/comments#comment_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Anuket is a fine fragrance company that specializes in exotic, natural single-origin scent oils, such as papyrus oil, that are imported from Egypt and hand-bottled in Florida. Personal fragrances, self-care products, fragrance diffusing jewelry, & home fragrance products for those seeking something ",
+    "source_urls": [
+      "https://anuketluxury.com",
+      "https://anuketluxury.com/pages/about-us",
+      "https://anuketluxury.com/blogs/from-our-founder/as-seen-in-the-press",
+      "https://anuketluxury.com/policies/contact-information"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "anurseinthemaking.com",
+    "company_name": "NurseInTheMaking",
+    "website": "https://anurseinthemaking.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://anurseinthemaking.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://anurseinthemaking.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://anurseinthemaking.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://anurseinthemaking.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://anurseinthemaking.com/contact",
+        "action": "/contact#contact-template--19761746247850__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://anurseinthemaking.com/pages/about",
+        "action": "/contact#contact-template--19761746608298__1bee1704-3a57-445f-9dca-6ac7b204252f",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://anurseinthemaking.com/pages/contact-us",
+        "action": "/contact#contact-template--19761746247850__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Nurse In The Making has helped over 400,000 nursing students succeed in school with study guides, flashcards, and other study tools.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "anuschkaleather.com",
+    "company_name": "Anuschka",
+    "website": "https://www.anuschkaleather.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@anuschkaleather.com",
+        "confidence": "highest",
+        "source_url": "https://www.anuschkaleather.com",
+        "source_type": "archived",
+        "snapshot_date": "2026-05-14",
+        "context_snippet": "138 (US and International) hello@anuschkaleather.com Follow Us Country USA"
+      },
+      {
+        "address": "wholesale@anuschkaleather.com",
+        "confidence": "high",
+        "source_url": "https://www.anuschkaleather.com/pages/global-contact",
+        "source_type": "archived",
+        "snapshot_date": "2026-03-03",
+        "context_snippet": ".9138 FAX +1 908.926.2343 EMAIL hello@anuschkaleather.com wholesale@anuschkaleather.com (for wholesale) MAILING ADDRESS Anuschka by The Basu Group"
+      }
+    ],
+    "role_emails": [
+      "hello@anuschkaleather.com",
+      "wholesale@anuschkaleather.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.anuschkaleather.com",
+        "page_type": "home",
+        "source_type": "archived",
+        "snapshot_date": "2026-05-14"
+      },
+      {
+        "url": "https://www.anuschkaleather.com/pages/global-contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2026-03-03"
+      },
+      {
+        "url": "https://www.anuschkaleather.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2026-03-03"
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.anuschkaleather.com/pages/contact-us",
+        "action": "/contact#Form-template--17094925615149__contact-form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Shop the official collection of Anuschka bags, handbags, purses & more. Discover unique, hand-painted leather accessories designed for art lovers. Wearable art for every day.",
+    "source_urls": [
+      "https://www.anuschkaleather.com",
+      "https://www.anuschkaleather.com/pages/global-contact",
+      "https://www.anuschkaleather.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  }
+]
