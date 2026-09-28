@@ -1,0 +1,2004 @@
+[
+  {
+    "company_domain": "aqua-dreams.com",
+    "company_name": "Aqua Dreams",
+    "website": "https://aqua-dreams.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://aqua-dreams.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aqua-dreams.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aqua-dreams.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://aqua-dreams.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Aqua Dreams Aquarium Live Corals, Freshwater Fish, cichlids, Saltwater fish, Red Sea Max Aquariums, Aquarium Supplies & Live rock, Frozen Foods, Lighting, Pumps",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "aquabestnyc.com",
+    "company_name": "www.aquabestnyc.com",
+    "website": "https://www.aquabestnyc.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@aquabestnyc.com",
+        "confidence": "highest",
+        "source_url": "https://www.aquabestnyc.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2015-10-17",
+        "context_snippet": "276 Grand Street, New York City (212) 343-4211 info@aquabestnyc.com Home About Wholesale Contact Us Order"
+      },
+      {
+        "address": "wholesale@aquabestnyc.com",
+        "confidence": "highest",
+        "source_url": "https://www.aquabestnyc.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2015-10-29",
+        "context_snippet": "prices. FOR WHOLESALE SEAFOOD PURCHASE PLEASE CONTACT: wholesale@aquabestnyc.com \u00a9 2006-2013 Aqua Best Seafood. All right"
+      }
+    ],
+    "role_emails": [
+      "info@aquabestnyc.com",
+      "wholesale@aquabestnyc.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.aquabestnyc.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.aquabestnyc.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2015-10-17"
+      },
+      {
+        "url": "https://www.aquabestnyc.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2015-10-29"
+      },
+      {
+        "url": "https://www.aquabestnyc.com/pages/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.aquabestnyc.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.aquabestnyc.com/pages/support",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Aqua Best Seafood Market in NYC is a family-run market that sells fish & seafood sourced directly from fishermen. Our focus is on sustainable seafood products",
+    "source_urls": [
+      "https://www.aquabestnyc.com",
+      "https://www.aquabestnyc.com/about",
+      "https://www.aquabestnyc.com/contact",
+      "https://www.aquabestnyc.com/pages/support",
+      "https://www.aquabestnyc.com/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "aquabliss.com",
+    "company_name": "AquaBliss",
+    "website": "https://aquabliss.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://aquabliss.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aquabliss.com/pages/high-pressure-shower-head",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aquabliss.com/pages/concern-low-pressure-water",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aquabliss.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aquabliss.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aquabliss.com/pages/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://aquabliss.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Shop Aquabliss water filters for shower heads. Simple, thoughtful filtration for cleaner water, healthier skin and daily wellbeing. Discover water that cares.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 14
+  },
+  {
+    "company_domain": "aquablumosaics.com",
+    "company_name": "AquaBlu Mosaics",
+    "website": "https://www.aquablumosaics.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.aquablumosaics.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.aquablumosaics.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.aquablumosaics.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.aquablumosaics.com/pages/about-us",
+        "action": "/contact#contact-template--28432723804525__75294159-d2bf-477f-b292-711444656eb4",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.aquablumosaics.com/pages/contact-us",
+        "action": "/contact#contact-template--28432722821485__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Browse our quality selection of pool, home, and outdoor living products online. Discover the feeling of paradise.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "aquabound.com",
+    "company_name": "Aqua Bound",
+    "website": "https://aquabound.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "emailsales@aquabound.com",
+        "confidence": "high",
+        "source_url": "https://aquabound.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "sales@aquabound.com",
+        "confidence": "high",
+        "source_url": "https://aquabound.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Telephone 715-755-3405 Phone 1-715-256-7919 Fax Email sales@aquabound.com Address 812 Prospect Court Osceola, WI 54020 Customer S"
+      }
+    ],
+    "role_emails": [
+      "emailsales@aquabound.com",
+      "sales@aquabound.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://aquabound.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aquabound.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2016-04-27"
+      },
+      {
+        "url": "https://aquabound.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2019-12-15"
+      },
+      {
+        "url": "https://aquabound.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2019-11-21"
+      },
+      {
+        "url": "https://aquabound.com/pages/ab-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aquabound.com/pages/prostaff-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aquabound.com/pages/about-aqua-bound-and-bending-branches",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aquabound.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aquabound.com/pages/join-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aquabound.com/pages/prostaff-application",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://aquabound.com/contact",
+        "action": "/contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Proudly made by paddlers, for paddlers, we embody the spirit of adventure and a never-satisfied attitude.",
+    "source_urls": [
+      "https://aquabound.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 15
+  },
+  {
+    "company_domain": "aquacarts.com",
+    "company_name": "aquacarts.com",
+    "website": "https://aquacarts.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@aquacarts.com",
+        "confidence": "high",
+        "source_url": "https://aquacarts.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "quacarts, Inc. 7351 S. Indianapolis Rd Whitestown, IN 46075 info@aquacarts.com"
+      }
+    ],
+    "role_emails": [
+      "info@aquacarts.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://aquacarts.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Aquacarts PWC shop carts, beach dollies, totes, pwc cart, jet ski beach dolly, Jet ski beach tote, jet ski dolly, jet ski stand, pwc garage lift, pwc cradle, how to move jet ski on sand, how to store jet ski in garage, waverunner stand cart tote dolly, move watercraft to the water, go kart stand, wa",
+    "source_urls": [
+      "https://aquacarts.com"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "aquacoat.com",
+    "company_name": "Aqua Coat",
+    "website": "https://aquacoat.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "kcovey@aquacoat.com",
+        "confidence": "high",
+        "source_url": "https://aquacoat.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "sales@aquacoat.com",
+        "confidence": "high",
+        "source_url": "https://aquacoat.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "kcovey@aquacoat.com",
+      "sales@aquacoat.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://aquacoat.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aquacoat.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aquacoat.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aquacoat.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aquacoat.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://aquacoat.com/about",
+        "action": "/contact#contact-template--22284107514167__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://aquacoat.com/contact",
+        "action": "/contact#contact-template--22284107612471__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://aquacoat.com/pages/about-us",
+        "action": "/contact#contact-template--22284107514167__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://aquacoat.com/pages/contact-us",
+        "action": "/contact#contact-template--22284107612471__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Aqua Coat water-based wood products are environmentally friendly and available for any wood finishing application.",
+    "source_urls": [
+      "https://aquacoat.com",
+      "https://aquacoat.com/about",
+      "https://aquacoat.com/contact",
+      "https://aquacoat.com/pages/about-us",
+      "https://aquacoat.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "aquadesign.com",
+    "company_name": "Aqua Design \u00c2\u00ae",
+    "website": "https://aquadesign.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://aquadesign.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aquadesign.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aquadesign.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Join thousands of satisfied customers and shop direct from Aqua Design for verified sun protection neck gaiters, swim shirts, and outdoor activewear. Free returns or exchanges.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "aquadreamusa.com",
+    "company_name": "AquaDreamUSA",
+    "website": "https://aquadreamusa.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "sales@aquadreamusa.com",
+        "confidence": "high",
+        "source_url": "https://aquadreamusa.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "34210 9th Ave S #112 Federal Way, WA, 98003 (360) 223-4997 sales@aquadreamusa.com Facebook"
+      }
+    ],
+    "role_emails": [
+      "sales@aquadreamusa.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://aquadreamusa.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aquadreamusa.com/collections/filter-media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aquadreamusa.com/collections/filter-media-1",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aquadreamusa.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aquadreamusa.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://aquadreamusa.com/pages/about-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://aquadreamusa.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Discover the perfect fish tank for your home or office. Shop premium aquariums, supplies, and accessories for freshwater and saltwater setups at AquaDreamUSA.",
+    "source_urls": [
+      "https://aquadreamusa.com",
+      "https://aquadreamusa.com/collections/filter-media",
+      "https://aquadreamusa.com/collections/filter-media-1",
+      "https://aquadreamusa.com/pages/about-us",
+      "https://aquadreamusa.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "aquaforestaquarium.com",
+    "company_name": "Aqua Forest Aquarium",
+    "website": "https://aquaforestaquarium.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://aquaforestaquarium.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aquaforestaquarium.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aquaforestaquarium.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aquaforestaquarium.com/blogs/news/water-quality-management-in-nature-aquariums",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://aquaforestaquarium.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://aquaforestaquarium.com/blogs/news/water-quality-management-in-nature-aquariums",
+        "action": "/blogs/news/water-quality-management-in-nature-aquariums/comments#comment_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Aqua Forest Aquarium is your best source for high-quality Nature Aquarium supplies in the USA. We also provide professional planted aquarium design, installation, and maintenance services. Our goal is to create a love for nature and help others make beautiful underwater landscapes in their own home.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "aquagallery.com",
+    "company_name": "Aqua Creations Studio",
+    "website": "https://aquagallery.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@aquagallery.com",
+        "confidence": "high",
+        "source_url": "https://aquagallery.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2005-03-08",
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@aquagallery.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://aquagallery.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aquagallery.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aquagallery.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aquagallery.com/press",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2005-03-08"
+      },
+      {
+        "url": "https://aquagallery.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aquagallery.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://aquagallery.com",
+        "action": "/contact#enquiry-form-sections--22654874026243__section_RkqPHt",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://aquagallery.com/about",
+        "action": "/contact#enquiry-form-sections--22654874026243__section_RkqPHt",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://aquagallery.com/about-us",
+        "action": "/contact#enquiry-form-sections--22654874026243__section_RkqPHt",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://aquagallery.com/contact",
+        "action": "/contact#enquiry-form-template--22654874419459__section_JCKkzn",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://aquagallery.com/contact",
+        "action": "/contact#enquiry-form-sections--22654874026243__section_RkqPHt",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://aquagallery.com/pages/contact",
+        "action": "/contact#enquiry-form-template--22654874419459__section_JCKkzn",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://aquagallery.com/pages/contact",
+        "action": "/contact#enquiry-form-sections--22654874026243__section_RkqPHt",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Handmade lighting as sculpture. Aqua Creations brings 30 years of craft to pendants, chandeliers, and floor lamps \u2014 made to order, never from stock.",
+    "source_urls": [
+      "https://aquagallery.com/press"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "aquage.com",
+    "company_name": "Aquage Hair",
+    "website": "https://aquage.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "aquageinfo@aquage.com",
+        "confidence": "high",
+        "source_url": "https://aquage.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Contact Us: For Aquage.com order inquiries: aquageinfo@aquage.com For product inquiries - formulation, ingredients, usage:"
+      }
+    ],
+    "role_emails": [
+      "aquageinfo@aquage.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://aquage.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aquage.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aquage.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aquage.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aquage.com/pages/new-about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aquage.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Performance with Purpose. At Aquage\u00ae we are continuing our strides towards becoming more sustainable with our new recyclable Ocean Bound packaging.",
+    "source_urls": [
+      "https://aquage.com/contact",
+      "https://aquage.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "aquaglide.com",
+    "company_name": "www.aquaglide.com",
+    "website": "https://www.aquaglide.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@aquaglide.com",
+        "confidence": "high",
+        "source_url": "https://www.aquaglide.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "hello@aquaglide.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.aquaglide.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.aquaglide.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2016-12-21"
+      },
+      {
+        "url": "https://www.aquaglide.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.aquaglide.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Discover Aquaglide\u2019s inflatable aquaparks, slides, and modular water play gear. Premium designs trusted by resorts, camps, and families worldwide.",
+    "source_urls": [
+      "https://www.aquaglide.com",
+      "https://www.aquaglide.com/pages/about-us",
+      "https://www.aquaglide.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "aquaglidepaddle.com",
+    "company_name": "Aquaglide Paddle",
+    "website": "https://www.aquaglidepaddle.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@aquaglidepaddle.com",
+        "confidence": "highest",
+        "source_url": "https://www.aquaglidepaddle.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Subscribe support@aquaglidepaddle.com Your Privacy Choices \u00a9 2026 Aquagl"
+      }
+    ],
+    "role_emails": [
+      "support@aquaglidepaddle.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.aquaglidepaddle.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.aquaglidepaddle.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2016-09-27"
+      },
+      {
+        "url": "https://www.aquaglidepaddle.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.aquaglidepaddle.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.aquaglidepaddle.com/blogs/common-waters/a-look-at-aquaglide-s-chinook-kayak-series-seven-things-you-ll-love-about-the-chinook",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.aquaglidepaddle.com/blogs/common-waters/common-waters-aquaglide-staff-favorites",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Aquaglide Paddle is run by a small team of watersports enthusiasts, Aquaglide is dedicated to developing the highest quality inflatable paddlesports products.",
+    "source_urls": [
+      "https://www.aquaglidepaddle.com",
+      "https://www.aquaglidepaddle.com/pages/about-us",
+      "https://www.aquaglidepaddle.com/pages/contact-us",
+      "https://www.aquaglidepaddle.com/blogs/common-waters/a-look-at-aquaglide-s-chinook-kayak-series-seven-things-you-ll-love-about-the-chinook",
+      "https://www.aquaglidepaddle.com/blogs/common-waters/common-waters-aquaglide-staff-favorites"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "aquahairextensions.com",
+    "company_name": "Aqua Hair Extensions",
+    "website": "https://aquahairextensions.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "contact marketing",
+        "title": null,
+        "email": "marketing@aquahairextensions.com",
+        "source_url": "https://aquahairextensions.com/pages/contact"
+      }
+    ],
+    "people": [
+      {
+        "name": "contact marketing",
+        "title": null,
+        "email": "marketing@aquahairextensions.com",
+        "source_url": "https://aquahairextensions.com/pages/contact"
+      }
+    ],
+    "emails": [
+      {
+        "address": "cs@aquahairextensions.com",
+        "confidence": "highest",
+        "source_url": "https://aquahairextensions.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2016-05-18",
+        "context_snippet": "UA Contact us: M-F 9:30am \u2013 5:30pm | Email : CS@aquahairextensions.com My Account Register Login Wish List ("
+      },
+      {
+        "address": "info@aquahairextensions.com",
+        "confidence": "highest",
+        "source_url": "https://aquahairextensions.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2016-05-13",
+        "context_snippet": "@AquaHairExtensions.com Marketing and Media Contact Info@AquaHairExtensions.com Telephone 1-866-638-3312 / 786-738-8415 Fax"
+      },
+      {
+        "address": "marketing@aquahairextensions.com",
+        "confidence": "highest",
+        "source_url": "https://aquahairextensions.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "or press inquiries or educator partnerships, please contact marketing@aquahairextensions.com. Only partnership and press inquiries will receive a resp"
+      },
+      {
+        "address": "hi@aquahairextensions.com",
+        "confidence": "high",
+        "source_url": "https://aquahairextensions.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Email: Email us anytime at hi@aquahairextensions.com Phone: 866."
+      }
+    ],
+    "role_emails": [
+      "cs@aquahairextensions.com",
+      "hi@aquahairextensions.com",
+      "info@aquahairextensions.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://aquahairextensions.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aquahairextensions.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2016-05-18"
+      },
+      {
+        "url": "https://aquahairextensions.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2019-11-15"
+      },
+      {
+        "url": "https://aquahairextensions.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2016-05-13"
+      },
+      {
+        "url": "https://aquahairextensions.com/pages/join-the-aqua-education-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aquahairextensions.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aquahairextensions.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "There-for-you support, leading education, and high quality products for the salon professional. Hand tied weft hair extensions, Machine weft hair extensions, keratin fusion hair extensions, tape in hair extensions, clip in hair extensions & cylinder hair extensions for licensed professionals only. 1",
+    "source_urls": [
+      "https://aquahairextensions.com/about",
+      "https://aquahairextensions.com/about-us",
+      "https://aquahairextensions.com/contact",
+      "https://aquahairextensions.com/pages/contact"
+    ],
+    "reason": null,
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "aquahuna.com",
+    "company_name": "Aqua Huna",
+    "website": "https://aquahuna.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "aquahuna@aquahuna.com",
+        "confidence": "high",
+        "source_url": "https://aquahuna.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "aquahuna@aquahuna.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://aquahuna.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aquahuna.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://aquahuna.com/pages/about-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Shipping live tropical fish for $29.99 FedEx Shipping. We will ship puffer, cory, snails, loach, endler, ram, pleco, tetra, guppy, rasbora, gourami, otocinclus, and many more items. We specialize in Goldfish, Choose your own Betta Livecam, Livestream Betta, Galaxy Rasbora CPS Celestial Pearl Danio, ",
+    "source_urls": [
+      "https://aquahuna.com"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "aquaionizerpro.com",
+    "company_name": "Aqua Ionizer Pro",
+    "website": "https://aquaionizerpro.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://aquaionizerpro.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aquaionizerpro.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aquaionizerpro.com/pages/contact-page",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://aquaionizerpro.com/pages/contact-page",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Aqua Ionizer Pro\u2122 has the latest technology, best filtration, strongest warranty and most affordable alkaline water ionizers on the planet. Learn more today.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "aqualabaquaria.com",
+    "company_name": "Aqua Lab Aquaria",
+    "website": "https://aqualabaquaria.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@aqualabaquaria.com",
+        "confidence": "highest",
+        "source_url": "https://aqualabaquaria.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "orders@aqualabaquaria.com",
+        "confidence": "highest",
+        "source_url": "https://aqualabaquaria.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "sj@aqualabaquaria.com",
+        "confidence": "high",
+        "source_url": "https://aqualabaquaria.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "u're signed up ! (408) 767-6994 Call or Text sj@aqualabaquaria.com Subscribe Sign up t"
+      }
+    ],
+    "role_emails": [
+      "info@aqualabaquaria.com",
+      "orders@aqualabaquaria.com",
+      "sj@aqualabaquaria.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://aqualabaquaria.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aqualabaquaria.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aqualabaquaria.com/pages/about-aqua-lab-aquaria",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aqualabaquaria.com/pages/contact#contact-form",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aqualabaquaria.com/collections/filter-media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Aquarium manufacturer, retailer, and service provider specializing in design-driven reef and nature aquariums. Visit us online or at our store in San Jose, CA.",
+    "source_urls": [
+      "https://aqualabaquaria.com",
+      "https://aqualabaquaria.com/contact",
+      "https://aqualabaquaria.com/pages/about-aqua-lab-aquaria",
+      "https://aqualabaquaria.com/pages/contact#contact-form",
+      "https://aqualabaquaria.com/collections/filter-media"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "aqualabtechnologies.com",
+    "company_name": "Aqua Lab Technologies",
+    "website": "https://aqualabtechnologies.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@aqualabtechnologies.com",
+        "confidence": "highest",
+        "source_url": "https://aqualabtechnologies.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "as possible during business hours. Email Support info@aqualabtechnologies.com Support Hours Monday\u2013Friday 10:00 a.m.\u20134:00 p.m. Pa"
+      }
+    ],
+    "role_emails": [
+      "info@aqualabtechnologies.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://aqualabtechnologies.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aqualabtechnologies.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aqualabtechnologies.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aqualabtechnologies.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aqualabtechnologies.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://aqualabtechnologies.com/contact",
+        "action": "/contact#cf-860e0ef1ea96",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://aqualabtechnologies.com/pages/contact-us",
+        "action": "/contact#cf-860e0ef1ea96",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Shop premium glass bongs, water pipes, dab rigs, and smoking accessories. Trusted since 2007, with fast, discreet, insured U.S. shipping.",
+    "source_urls": [
+      "https://aqualabtechnologies.com",
+      "https://aqualabtechnologies.com/contact",
+      "https://aqualabtechnologies.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "aquamarise.com",
+    "company_name": "Aquamarise",
+    "website": "https://aquamarise.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Currency United States",
+        "title": null,
+        "email": "help@aquamarise.com",
+        "source_url": "https://aquamarise.com/pages/about-us",
+        "association": "proximity"
+      },
+      {
+        "name": "Request samples",
+        "title": null,
+        "email": "partnership@aquamarise.com",
+        "source_url": "https://aquamarise.com/pages/press#coverage"
+      }
+    ],
+    "people": [
+      {
+        "name": "Currency United States",
+        "title": null,
+        "email": "help@aquamarise.com",
+        "source_url": "https://aquamarise.com/pages/about-us",
+        "association": "proximity"
+      },
+      {
+        "name": "Request samples",
+        "title": null,
+        "email": "partnership@aquamarise.com",
+        "source_url": "https://aquamarise.com/pages/press#coverage"
+      }
+    ],
+    "emails": [
+      {
+        "address": "help@aquamarise.com",
+        "confidence": "highest",
+        "source_url": "https://aquamarise.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Subscribe Contact us: help@aquamarise.com Currency United States"
+      },
+      {
+        "address": "partnership@aquamarise.com",
+        "confidence": "highest",
+        "source_url": "https://aquamarise.com/pages/press#coverage",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "mail, phone or video are available with a few days' notice. partnership@aquamarise.com Replies within one business day. Sample requests We loan"
+      }
+    ],
+    "role_emails": [
+      "help@aquamarise.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://aquamarise.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aquamarise.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aquamarise.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aquamarise.com/pages/press#coverage",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aquamarise.com/pages/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://aquamarise.com/pages/contact-us",
+        "action": "/contact#cu-form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Fantasy-inspired engagement rings, alexandrite, moss agate, moonstone & garnet jewelry. Handcrafted with enchanted gemstones for modern brides who want something singular.",
+    "source_urls": [
+      "https://aquamarise.com",
+      "https://aquamarise.com/pages/contact-us",
+      "https://aquamarise.com/pages/about-us",
+      "https://aquamarise.com/pages/press#coverage",
+      "https://aquamarise.com/pages/press"
+    ],
+    "reason": null,
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "aquamira.com",
+    "company_name": "Aquamira",
+    "website": "https://aquamira.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customerservice@aquamira.com",
+        "confidence": "highest",
+        "source_url": "https://aquamira.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2017-07-04",
+        "context_snippet": "s Subscribe & Connect customerservice@aquamira.com sales@aquamira.com 917 West 600 North Logan, UT 84321"
+      },
+      {
+        "address": "sales@aquamira.com",
+        "confidence": "highest",
+        "source_url": "https://aquamira.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2017-07-04",
+        "context_snippet": "es 877-644-4650 Toll Free Order Line 435-787-4006 Fax sales@aquamira.com Site Links Outdoor and"
+      }
+    ],
+    "role_emails": [
+      "customerservice@aquamira.com",
+      "sales@aquamira.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://aquamira.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aquamira.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2017-07-04"
+      },
+      {
+        "url": "https://aquamira.com/collections/pressurized-reservoirs",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aquamira.com/products/aquamira-pressurized-reservoir?variant=43386597867762",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aquamira.com/products/aquamira-pressurized-reservoir",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aquamira.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://aquamira.com/pages/about-us",
+        "action": "/contact#contact-template--28168024424812__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Explore best-in-class water filtration, purification, treatment & emergency products designed to kill viruses, bacteria & parasites for safe drinking anywhere.",
+    "source_urls": [
+      "https://aquamira.com/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "aquanutech.com",
+    "company_name": "AquaNuTech",
+    "website": "https://www.aquanutech.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@aquanutech.com",
+        "confidence": "highest",
+        "source_url": "https://www.aquanutech.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Instagram YouTube 720-322-0800 info@aquanutech.com 4833 Front St. Ste B281 Castle Rock, CO 80104 Write a R"
+      }
+    ],
+    "role_emails": [
+      "info@aquanutech.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.aquanutech.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.aquanutech.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.aquanutech.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.aquanutech.com/pages/about",
+        "action": "/contact#contact-template--19908095869125__1654168890d2a017ae",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.aquanutech.com/pages/contact",
+        "action": "/contact#contact-template--19908095934661__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "AquaNuTech creates eco-friendly, next-generation water filtration products for your kitchen and home including instant hot water dispensers, filtration faucets, the 4N1 Aqua-System, and assorted accessories.",
+    "source_urls": [
+      "https://www.aquanutech.com",
+      "https://www.aquanutech.com/pages/about",
+      "https://www.aquanutech.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "aquapoolsupply.com",
+    "company_name": "Aqua Pool Supply",
+    "website": "https://aquapoolsupply.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@aquapoolsupply.com",
+        "confidence": "highest",
+        "source_url": "https://aquapoolsupply.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2023-03-29",
+        "context_snippet": "Get In Touch T: +216 (0)40 3629 4753 E: info@aquapoolsupply.com"
+      }
+    ],
+    "role_emails": [
+      "info@aquapoolsupply.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://aquapoolsupply.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aquapoolsupply.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2023-03-29"
+      },
+      {
+        "url": "https://aquapoolsupply.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2023-03-29"
+      },
+      {
+        "url": "https://aquapoolsupply.com/collections/keypad-relocation-kits",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aquapoolsupply.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aquapoolsupply.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://aquapoolsupply.com/contact",
+        "action": "/contact/#gf_1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://aquapoolsupply.com/pages/contact",
+        "action": "/contact#contact-template--26704311025980__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Find everything for your pool at Aqua Pool Supply Store \u2014 chlorine tabs, pumps, filters, and parts. Shop online or visit us in Phoenix, Scottsdale & Las Vegas.",
+    "source_urls": [
+      "https://aquapoolsupply.com",
+      "https://aquapoolsupply.com/about",
+      "https://aquapoolsupply.com/contact",
+      "https://aquapoolsupply.com/collections/keypad-relocation-kits",
+      "https://aquapoolsupply.com/pages/about",
+      "https://aquapoolsupply.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "aquaprovac.com",
+    "company_name": "Aqua Pro Vac",
+    "website": "https://www.aquaprovac.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "service@aquaprovac.com",
+        "confidence": "highest",
+        "source_url": "https://www.aquaprovac.com",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-12",
+        "context_snippet": "p? Call us Call us 1-650-292-4445 service@aquaprovac.com Follow Us Facebook Instagram"
+      }
+    ],
+    "role_emails": [
+      "service@aquaprovac.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.aquaprovac.com",
+        "page_type": "home",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-12"
+      },
+      {
+        "url": "https://www.aquaprovac.com/products/aqua-pro-steamer-carpet-cleaner",
+        "page_type": "team",
+        "source_type": "archived",
+        "snapshot_date": "2024-07-14"
+      },
+      {
+        "url": "https://www.aquaprovac.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-07"
+      },
+      {
+        "url": "https://www.aquaprovac.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-07"
+      },
+      {
+        "url": "https://www.aquaprovac.com/pages/how-the-aqua-pro-steamer-works",
+        "page_type": "team",
+        "source_type": "archived",
+        "snapshot_date": "2025-10-05"
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.aquaprovac.com/products/aqua-pro-steamer-carpet-cleaner",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.aquaprovac.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Professional portable carpet extractors and steam cleaners for auto detailing. Trusted by 500+ businesses. Free shipping on orders $500+.",
+    "source_urls": [
+      "https://www.aquaprovac.com",
+      "https://www.aquaprovac.com/products/aqua-pro-steamer-carpet-cleaner",
+      "https://www.aquaprovac.com/pages/about-us",
+      "https://www.aquaprovac.com/pages/contact-us",
+      "https://www.aquaprovac.com/pages/how-the-aqua-pro-steamer-works"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "aquapurefilters.com",
+    "company_name": "A Solventum Distributor\u2013 AquaPureFilters.com",
+    "website": "https://www.aquapurefilters.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Email Support",
+        "title": null,
+        "email": "%20support@aquapurefilters.com",
+        "source_url": "https://www.aquapurefilters.com"
+      }
+    ],
+    "people": [
+      {
+        "name": "Email Support",
+        "title": null,
+        "email": "%20support@aquapurefilters.com",
+        "source_url": "https://www.aquapurefilters.com"
+      }
+    ],
+    "emails": [
+      {
+        "address": "%20support@aquapurefilters.com",
+        "confidence": "highest",
+        "source_url": "https://www.aquapurefilters.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "support@aquapurefilters.com",
+        "confidence": "high",
+        "source_url": "https://www.aquapurefilters.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "support@aquapurefilters.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.aquapurefilters.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.aquapurefilters.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.aquapurefilters.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.aquapurefilters.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.aquapurefilters.com/collections/3m-espresso-machine-water-filtration-systems",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.aquapurefilters.com/collections/3m-espresso-machine-replacement-filters",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.aquapurefilters.com/pages/about-aquapurefilters-com",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.aquapurefilters.com/contact",
+        "action": "https://www.littlebrowndog.com/scripts/shopify/contact-frm.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.aquapurefilters.com/pages/contact",
+        "action": "https://www.littlebrowndog.com/scripts/shopify/contact-frm.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "AquaPureFilters.com provides quality drinking water systems, components and authentic Aqua-Pure\u2122 replacement filters and cartridges manufactured by Solventum, formerly 3M\u2122 Purification.",
+    "source_urls": [
+      "https://www.aquapurefilters.com",
+      "https://www.aquapurefilters.com/about",
+      "https://www.aquapurefilters.com/contact",
+      "https://www.aquapurefilters.com/pages/contact",
+      "https://www.aquapurefilters.com/collections/3m-espresso-machine-water-filtration-systems",
+      "https://www.aquapurefilters.com/collections/3m-espresso-machine-replacement-filters",
+      "https://www.aquapurefilters.com/pages/about-aquapurefilters-com"
+    ],
+    "reason": null,
+    "pages_fetched": 13
+  }
+]
