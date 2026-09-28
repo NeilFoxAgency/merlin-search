@@ -1,0 +1,1494 @@
+[
+  {
+    "company_domain": "battlearchives.com",
+    "company_name": "Battle Archives",
+    "website": "https://battlearchives.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://battlearchives.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://battlearchives.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://battlearchives.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://battlearchives.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Welcome to Battle Archives! Explore iconic American battle and maps, from Bunker Hill to Iwo Jima to Baghdad and New York to San Francisco. Find your family, state or country history here.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "battleboard.us",
+    "company_name": "Battle Board",
+    "website": "https://battleboard.us",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://battleboard.us",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://battleboard.us/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://battleboard.us/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://battleboard.us/pages/about",
+        "action": "/contact#contact-template--15975917617387__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://battleboard.us/pages/contact",
+        "action": "/contact#contact-template--15975917650155__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Operations | Fire | Rescue | Law Enforcement",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "battleborngrooming.com",
+    "company_name": "Battle Born Grooming Co",
+    "website": "https://www.battleborngrooming.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.battleborngrooming.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.battleborngrooming.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.battleborngrooming.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.battleborngrooming.com/pages/about-us",
+        "action": "/contact#contact_form_page",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.battleborngrooming.com/pages/contact",
+        "action": "/contact#contact_form_page",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Battle Born Grooming Co. is more than just a brand, it's a lifestyle. Our natural, handcrafted products are designed to empower everyone to take on life's challenges with confidence and strength.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "battlebornwheels.com",
+    "company_name": "Battle Born Wheels",
+    "website": "https://www.battlebornwheels.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "sales@battlebornwheels.com",
+        "confidence": "highest",
+        "source_url": "https://www.battlebornwheels.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Research Way #211 Carson City, NV 89706 (775) 400-4048 Sales@battlebornwheels.com SEND YOUR TRAFFIC"
+      }
+    ],
+    "role_emails": [
+      "sales@battlebornwheels.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.battlebornwheels.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.battlebornwheels.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.battlebornwheels.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.battlebornwheels.com/pages/contact-us",
+        "action": "/contact#contact-template--27042561917223__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "RACE | CRAWL | TRAIL | HD | UTV",
+    "source_urls": [
+      "https://www.battlebornwheels.com",
+      "https://www.battlebornwheels.com/pages/about-us",
+      "https://www.battlebornwheels.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "battlecatco.com",
+    "company_name": "Battle Cat Co.",
+    "website": "https://battlecatco.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "angelo@battlecatco.com",
+        "confidence": "high",
+        "source_url": "https://battlecatco.com/blogs/news/contact-info",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "o Orders@BattleCatCo.com Direct all business inquiries to Angelo@battlecatco.com Share Share on Facebook Tweet Tweet on Tw"
+      },
+      {
+        "address": "orders@battlecatco.com",
+        "confidence": "high",
+        "source_url": "https://battlecatco.com/blogs/news/feb-2024-fulfillment-info-company-update",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "If you have any need for rush delivery please email us at Orders@battlecatco.com BEFORE placing your order so we can figure out the best way"
+      }
+    ],
+    "role_emails": [
+      "angelo@battlecatco.com",
+      "orders@battlecatco.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://battlecatco.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://battlecatco.com/blogs/news/feb-2024-fulfillment-info-company-update",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://battlecatco.com/blogs/news/shipping-delay-company-info",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://battlecatco.com/blogs/news/contact-info",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Battle Cat Co.",
+    "source_urls": [
+      "https://battlecatco.com/blogs/news/feb-2024-fulfillment-info-company-update",
+      "https://battlecatco.com/blogs/news/contact-info"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "battlefieldcountrystore.com",
+    "company_name": "The Battlefield Country Store",
+    "website": "https://battlefieldcountrystore.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@battlefieldcountrystore.com",
+        "confidence": "high",
+        "source_url": "https://battlefieldcountrystore.com/policies/contact-information",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "lefield Country Store Phone number: 540.412.1480 Email: info@battlefieldcountrystore.com Physical address: The Battlefield Country Store, 6150 Pla"
+      }
+    ],
+    "role_emails": [
+      "info@battlefieldcountrystore.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://battlefieldcountrystore.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://battlefieldcountrystore.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://battlefieldcountrystore.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://battlefieldcountrystore.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://battlefieldcountrystore.com/pages/contact",
+        "action": "/contact#ContactForm-AdTlnQzBGcVpwR2piQ__contact_form_UwiCkQ",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "A Community Driven Country Store of Historic Chancellorsville in Spotsylvania County of Virginia! Big Sandwiches, Big Milkshakes, with a Big Heart in a small country store.",
+    "source_urls": [
+      "https://battlefieldcountrystore.com/policies/contact-information"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "battleforthegrid.com",
+    "company_name": "Power Rangers: Battle for the Grid",
+    "website": "https://battleforthegrid.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://battleforthegrid.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://battleforthegrid.com/pages/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Generations of Power Rangers collide across the multiverse\u2019s 25 year history. Experience reimagined Power Rangers gameplay. Easy to learn, hard to master.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "battlemotors.com",
+    "company_name": "battlemotors.com",
+    "website": "https://battlemotors.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": "Battle Motors, formerly Crane Carrier, builds severe-service refuse and vocational trucks in Ohio: diesel, CNG and electric LNT and Raider chassis.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "battleshiptexas.org",
+    "company_name": "store.battleshiptexas.org",
+    "website": "https://store.battleshiptexas.org",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://store.battleshiptexas.org",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Support Battleship Texas with our selection of officially branded products! Every purchase supports the Battleship Texas Foundation.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "battlingblades.com",
+    "company_name": "Battling Blades",
+    "website": "https://battlingblades.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@battlingblades.com",
+        "confidence": "highest",
+        "source_url": "https://battlingblades.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "custom-order help or engraving questions, contact us at: support@battlingblades.com Contact Battling Blades Po"
+      }
+    ],
+    "role_emails": [
+      "support@battlingblades.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://battlingblades.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://battlingblades.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://battlingblades.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://battlingblades.com/pages/contact-us",
+        "action": "/contact#contact-template--22233069158572__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Real swords for sale, made for collectors. Battle-ready swords, custom blades, knives, axes and chess sets forged in high carbon and Damascus steel.",
+    "source_urls": [
+      "https://battlingblades.com/pages/about-us",
+      "https://battlingblades.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "baubax.com",
+    "company_name": "BauBax",
+    "website": "https://www.baubax.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "robots_disallowed",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "baublebar.com",
+    "company_name": "BaubleBar",
+    "website": "https://www.baublebar.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "helpme@baublebar.com",
+        "confidence": "high",
+        "source_url": "https://www.baublebar.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "helpme@baublebar.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.baublebar.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.baublebar.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.baublebar.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.baublebar.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.baublebar.com/pages/our-company-careers",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.baublebar.com/pages/contact-us",
+        "action": "/contact#contact-us-page",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Explore the official BaubleBar site for fun, modern jewelry styles, personalized gifts, luxury homeware & more. Enjoy free UPS shipping over $75 & free returns.",
+    "source_urls": [
+      "https://www.baublebar.com",
+      "https://www.baublebar.com/press",
+      "https://www.baublebar.com/pages/contact-us",
+      "https://www.baublebar.com/pages/about-us",
+      "https://www.baublebar.com/pages/our-company-careers"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "baublestockings.com",
+    "company_name": "Bauble Stockings",
+    "website": "https://www.baublestockings.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@baublestockings.com",
+        "confidence": "high",
+        "source_url": "https://www.baublestockings.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "icy and Terms of Service apply. Customer service hello@baublestockings.com Sales sales@baublestockings.com Press kate@baublestoc"
+      },
+      {
+        "address": "kate@baublestockings.com",
+        "confidence": "high",
+        "source_url": "https://www.baublestockings.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "lestockings.com Sales sales@baublestockings.com Press kate@baublestockings.com Follow us Facebook Pinterest"
+      },
+      {
+        "address": "sales@baublestockings.com",
+        "confidence": "high",
+        "source_url": "https://www.baublestockings.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Customer service hello@baublestockings.com Sales sales@baublestockings.com Press kate@baublestockings.com Follow us Fa"
+      }
+    ],
+    "role_emails": [
+      "hello@baublestockings.com",
+      "kate@baublestockings.com",
+      "sales@baublestockings.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.baublestockings.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.baublestockings.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.baublestockings.com/pages/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.baublestockings.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.baublestockings.com/pages/contact",
+        "action": "/contact#ContactForm-template--26682626965800__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Bauble Stockings are the ultimate Christmas Tradition. Hand-stitched needlepoint stocking ornaments, your Bauble Stocking has, or contains a clue to, your final gift of Christmas. Hand-stitched for Fair Trade in Haiti by a Certified BCorp. A Family Tradition that matters. Seen on Shark Tank \u2014 Dec 10",
+    "source_urls": [
+      "https://www.baublestockings.com/pages/contact",
+      "https://www.baublestockings.com/pages/media",
+      "https://www.baublestockings.com/policies/contact-information"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "baudville.com",
+    "company_name": "Baudville",
+    "website": "https://www.baudville.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "service@baudville.com",
+        "confidence": "highest",
+        "source_url": "https://www.baudville.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "1-800-728-0888 5380 52nd Street SE Grand Rapids, MI 49512 service@baudville.com Sign Up for Emails & Get 10% Off"
+      }
+    ],
+    "role_emails": [
+      "service@baudville.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.baudville.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.baudville.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.baudville.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.baudville.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.baudville.com/products/delightly-a-lasting-impression-kit",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Shop customized corporate gifts and recognition awards that inspire and motivate your team. High-quality, personalized products for every achievement!",
+    "source_urls": [
+      "https://www.baudville.com",
+      "https://www.baudville.com/about-us",
+      "https://www.baudville.com/contact",
+      "https://www.baudville.com/pages/contact",
+      "https://www.baudville.com/products/delightly-a-lasting-impression-kit"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bauer.com",
+    "company_name": "Bauer Hockey, LLC",
+    "website": "https://www.bauer.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.bauer.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bauer.com/products/bauer-vapor-flylite-limited-edition-skate-intermediate",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bauer.com/collections/team-apparel",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bauer.com/collections/bauer-womens-team-apparel",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bauer.com/collections/youth-team-apparel",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bauer.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "For over 90 years, Bauer has set the bar in the level of quality, protection and performance in hockey equipment; sticks, gloves, pads, helmets, skates, base layers, bags and apparel.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 14
+  },
+  {
+    "company_domain": "bauerpottery.com",
+    "company_name": "Bauer Pottery",
+    "website": "https://bauerpottery.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://bauerpottery.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bauerpottery.com/press",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2006-06-15"
+      },
+      {
+        "url": "https://bauerpottery.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2020-06-17"
+      },
+      {
+        "url": "https://bauerpottery.com/pages/about-bauer-company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bauerpottery.com/pages/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bauerpottery.com/pages/contactus",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Bauer Pottery",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bauhaus2yourhouse.com",
+    "company_name": "Bauhaus 2 Your House",
+    "website": "https://www.bauhaus2yourhouse.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@bauhaus2yourhouse.com",
+        "confidence": "highest",
+        "source_url": "https://www.bauhaus2yourhouse.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Shipping Policy CONTACT US info@bauhaus2yourhouse.com (888) 272-5331 Stay connected"
+      }
+    ],
+    "role_emails": [
+      "info@bauhaus2yourhouse.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.bauhaus2yourhouse.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bauhaus2yourhouse.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bauhaus2yourhouse.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bauhaus2yourhouse.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bauhaus2yourhouse.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "B2H offers high quality European modern classic furniture reproductions of historic designs popular and obscure, and contemporary Italian design.",
+    "source_urls": [
+      "https://www.bauhaus2yourhouse.com",
+      "https://www.bauhaus2yourhouse.com/about",
+      "https://www.bauhaus2yourhouse.com/about-us",
+      "https://www.bauhaus2yourhouse.com/pages/about-us",
+      "https://www.bauhaus2yourhouse.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "baum-kuchen.net",
+    "company_name": "kuchen",
+    "website": "https://www.baum-kuchen.net",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "karma@baum-kuchen.net",
+        "confidence": "high",
+        "source_url": "https://www.baum-kuchen.net",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "2779 W Broadway Los Angeles, CA 90041 (626)240-9817 karma@baum-kuchen.net BK Love Letter"
+      },
+      {
+        "address": "trulyyours@baum-kuchen.net",
+        "confidence": "high",
+        "source_url": "https://www.baum-kuchen.net/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "order // karma@baum-kuchen.net TrulyYours consultation // trulyyours@baum-kuchen.net Other general inquiries // karma@baum-kuchen.net Our U"
+      }
+    ],
+    "role_emails": [
+      "karma@baum-kuchen.net",
+      "trulyyours@baum-kuchen.net"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.baum-kuchen.net",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.baum-kuchen.net/collections/bk-x-travelers-company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.baum-kuchen.net/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.baum-kuchen.net/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Baum-kuchen",
+    "source_urls": [
+      "https://www.baum-kuchen.net",
+      "https://www.baum-kuchen.net/collections/bk-x-travelers-company",
+      "https://www.baum-kuchen.net/pages/about-us",
+      "https://www.baum-kuchen.net/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "baumanrarebooks.com",
+    "company_name": "Bauman Rare Books",
+    "website": "https://www.baumanrarebooks.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.baumanrarebooks.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.baumanrarebooks.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.baumanrarebooks.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.baumanrarebooks.com/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.baumanrarebooks.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.baumanrarebooks.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.baumanrarebooks.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.baumanrarebooks.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.baumanrarebooks.com/about-us/locations.aspx?location=newyork",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.baumanrarebooks.com/about-us/locations.aspx?location=philly",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Bauman Rare Books offers an extraordinary selection of rare books and autographs in all fields. Visit us online, at our galleries in New York or Las Vegas, or call us at 1-800-99-BAUMAN",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bauscherhepp.com",
+    "company_name": "BauscherHepp",
+    "website": "https://www.bauscherhepp.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "robots_disallowed",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "bavarianinn.com",
+    "company_name": "Frankenmuth Bavarian Inn Restaurant",
+    "website": "https://onlinestore.bavarianinn.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://onlinestore.bavarianinn.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://onlinestore.bavarianinn.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2018-03-09"
+      },
+      {
+        "url": "https://onlinestore.bavarianinn.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2018-02-20"
+      },
+      {
+        "url": "https://onlinestore.bavarianinn.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://onlinestore.bavarianinn.com/contact",
+        "action": "/contacts/index/post",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Welcome to Michigan's Little Bavaria! Have Bavarian Inn favorites shipped right to your door by shopping our online store. With baked goods, wine and beer, dog treats, and gifts for all ages....let us bring a little \"gem\u00fctlichkeit\" to your home.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "bavariatrachten.com",
+    "company_name": "Bavaria Trachten",
+    "website": "https://bavariatrachten.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hi5@bavariatrachten.com",
+        "confidence": "highest",
+        "source_url": "https://bavariatrachten.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "hi5@bavariatrachten.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bavariatrachten.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bavariatrachten.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bavariatrachten.com/blogs/blog/10-facts-about-dirndl-and-lederhosen",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bavariatrachten.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bavariatrachten.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bavariatrachten.com/contact",
+        "action": "/contact#contact-template--17427694157942__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://bavariatrachten.com/blogs/blog/10-facts-about-dirndl-and-lederhosen",
+        "action": "/blogs/blog/10-facts-about-dirndl-and-lederhosen/comments#comment_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://bavariatrachten.com/pages/contact-us",
+        "action": "/contact#contact-template--17427694157942__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "No. 1 Lederhosen brand in the USA! Shop authentic German Lederhosen, Dirndls & Oktoberfest outfits with premium quality & fast shipping. Get more compliments at Oktoberfest\u2014shop now!",
+    "source_urls": [
+      "https://bavariatrachten.com",
+      "https://bavariatrachten.com/contact",
+      "https://bavariatrachten.com/blogs/blog/10-facts-about-dirndl-and-lederhosen",
+      "https://bavariatrachten.com/pages/about-us",
+      "https://bavariatrachten.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "bavsound.com",
+    "company_name": "Bavsound",
+    "website": "https://www.bavsound.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@bavsound.com",
+        "confidence": "high",
+        "source_url": "https://www.bavsound.com/policies/contact-information",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Contact information Trade name: Bavsound Email: info@bavsound.com Physical address: Subwoofer, LLC, 1950 West Corporate Way"
+      }
+    ],
+    "role_emails": [
+      "info@bavsound.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.bavsound.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bavsound.com/our-team",
+        "page_type": "team",
+        "source_type": "archived",
+        "snapshot_date": "2019-07-21"
+      },
+      {
+        "url": "https://www.bavsound.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bavsound.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bavsound.com/pages/bavsound-sales-support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bavsound.com/pages/about-bavsound",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bavsound.com/pages/bavsound-meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bavsound.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.bavsound.com/pages/bavsound-sales-support",
+        "action": "/contact#ContactForm-template--16911146582113__contact-form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "BAVSOUND makes the world's best BMW audio upgrades, including speaker upgrades, aftermarket stereo replacements & subwoofer systems that are easy to install.",
+    "source_urls": [
+      "https://www.bavsound.com/policies/contact-information"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "baxterofcalifornia.com",
+    "company_name": "Baxter of California",
+    "website": "https://baxterofcalifornia.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@baxterofcalifornia.com",
+        "confidence": "high",
+        "source_url": "https://baxterofcalifornia.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ustomer Service team at 1-800-421-3614 or email our team at support@baxterofcalifornia.com with \u201cDisabled Access\u201d in the subject line and provide a de"
+      }
+    ],
+    "role_emails": [
+      "support@baxterofcalifornia.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://baxterofcalifornia.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://baxterofcalifornia.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://baxterofcalifornia.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2018-12-31"
+      },
+      {
+        "url": "https://baxterofcalifornia.com/press",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2003-06-22"
+      },
+      {
+        "url": "https://baxterofcalifornia.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://baxterofcalifornia.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://baxterofcalifornia.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://baxterofcalifornia.com/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://baxterofcalifornia.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Your Source For Award-Winning Hair Care, Skincare, Shaving, & More. View All Products. Discover Natural, Paraben-Free Hair, Shave And Skin Products. Great Deals Inside.",
+    "source_urls": [
+      "https://baxterofcalifornia.com",
+      "https://baxterofcalifornia.com/about",
+      "https://baxterofcalifornia.com/contact",
+      "https://baxterofcalifornia.com/pages/about",
+      "https://baxterofcalifornia.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bayamjewelry.com",
+    "company_name": "BAYAM JEWELRY",
+    "website": "https://bayamjewelry.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@bayamjewelry.com",
+        "confidence": "highest",
+        "source_url": "https://bayamjewelry.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "- Fri 10am - 6pm EST Sat - Sun Closed Book an Appointment info@bayamjewelry.com 929-930-5655 Get An Extra 10% off when you sign up to recei"
+      }
+    ],
+    "role_emails": [
+      "info@bayamjewelry.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bayamjewelry.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bayamjewelry.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bayamjewelry.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bayamjewelry.com/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bayamjewelry.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bayamjewelry.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bayamjewelry.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bayamjewelry.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bayamjewelry.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Shop BAYAM for the Men's & Ladies Real Gold Jewelry. 10K & 14K REAL GOLD JEWELRY. Live Chat. Free Shipping. Free Returns. 100% Money Back Guarantee.",
+    "source_urls": [
+      "https://bayamjewelry.com",
+      "https://bayamjewelry.com/team",
+      "https://bayamjewelry.com/our-team",
+      "https://bayamjewelry.com/meet-the-team",
+      "https://bayamjewelry.com/about",
+      "https://bayamjewelry.com/about-us",
+      "https://bayamjewelry.com/press",
+      "https://bayamjewelry.com/media",
+      "https://bayamjewelry.com/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  }
+]
