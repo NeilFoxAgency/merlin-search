@@ -1,0 +1,1592 @@
+[
+  {
+    "company_domain": "autoheatshield.com",
+    "company_name": "autoheatshield-store",
+    "website": "https://autoheatshield.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://autoheatshield.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://autoheatshield.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2021-01-25"
+      },
+      {
+        "url": "https://autoheatshield.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://autoheatshield.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://autoheatshield.com/contact",
+        "action": "https://autoheatshield.com/contact/index/post/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Keep your vehicle cooler with Autoheatshield's custom-fit sunshades. Our ultimate folding model reduces temperatures by up to 40 degrees and rolls up easily.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "autoleatherdye.com",
+    "company_name": "Auto Leather Dye",
+    "website": "https://autoleatherdye.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Email Us: sales@autoleatherdye.com",
+        "title": null,
+        "email": "sales@autoleatherdye.com",
+        "source_url": "https://autoleatherdye.com"
+      }
+    ],
+    "people": [
+      {
+        "name": "Email Us: sales@autoleatherdye.com",
+        "title": null,
+        "email": "sales@autoleatherdye.com",
+        "source_url": "https://autoleatherdye.com"
+      }
+    ],
+    "emails": [
+      {
+        "address": "sales@autoleatherdye.com",
+        "confidence": "highest",
+        "source_url": "https://autoleatherdye.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Log in (TOLL FREE) 1-833-288-6393 Email Us: sales@autoleatherdye.com Twitter Facebook Ins"
+      }
+    ],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://autoleatherdye.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://autoleatherdye.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://autoleatherdye.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://autoleatherdye.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "The best destination for automotive and furniture leather dye, cleaner, conditioner, and repair kits. Shop our leading products now!",
+    "source_urls": [
+      "https://autoleatherdye.com",
+      "https://autoleatherdye.com/pages/about-us",
+      "https://autoleatherdye.com/pages/contact-us"
+    ],
+    "reason": null,
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "autoledtech.com",
+    "company_name": "AutoLEDTech.com",
+    "website": "https://www.autoledtech.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.autoledtech.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.autoledtech.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.autoledtech.com/pages/contact-us",
+        "action": "/contact#template--22604208242946__form-contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Custom LED Headlights & Tail lights | Carbon Fiber Steering Wheels | Grill Lights | LED Emblems | Flow Series Halos, DRL Boards, & Automotive Lighting Accessories | Slingshot Lights | Custom Halo Headlights | Wheel Lights | Underglow |Rock Lights| Motorcycle Lights | Light Bars & Pods | Off-Road Lig",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "autolinepro.com",
+    "company_name": "AutoLine Pro",
+    "website": "https://www.autolinepro.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "help@autolinepro.com",
+        "confidence": "high",
+        "source_url": "https://www.autolinepro.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "any issues with this form, you can reach out to us directly help@autolinepro.com. Our target response time is <24h. [storeify-formbuil"
+      },
+      {
+        "address": "support@autolinepro.com",
+        "confidence": "high",
+        "source_url": "https://www.autolinepro.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "help@autolinepro.com",
+      "support@autolinepro.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.autolinepro.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.autolinepro.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.autolinepro.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Top-Quality Automotive Smoke Machines at Affordable Prices. Highly Effective Leak Testers For Vacuum, EVAP, Exhaust, & Much More. #1 Budget Solution on Amazon.",
+    "source_urls": [
+      "https://www.autolinepro.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "automafiaracing.com",
+    "company_name": "Auto Mafia Racing",
+    "website": "https://automafiaracing.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@automafiaracing.com",
+        "confidence": "high",
+        "source_url": "https://automafiaracing.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "support@automafiaracing.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://automafiaracing.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://automafiaracing.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2022-01-17"
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Parts, Passion, Performance, Email Tuning, CNC Porting, Custom CNC Parts, Dyno Tuning, Fab Work, Engine Builds, Etc. We sell parts for all makes and all models. If you want to look good or go fast this is the place for you!",
+    "source_urls": [
+      "https://automafiaracing.com"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "automatictrap.com",
+    "company_name": "Automatic Trap Company",
+    "website": "https://www.automatictrap.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@automatictrap.com",
+        "confidence": "high",
+        "source_url": "https://www.automatictrap.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "support@automatictrap.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.automatictrap.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.automatictrap.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Humane, automatic, and toxin-free solutions for rats, mice, and squirrels. Featuring the Goodnature A24, Goodnature Mouse Trap, A18 squirrel trap, and TerraTrap for California ground squirrels.",
+    "source_urls": [
+      "https://www.automatictrap.com",
+      "https://www.automatictrap.com/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "automationdirect.com",
+    "company_name": "AutomationDirect",
+    "website": "https://www.automationdirect.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Email Returns",
+        "title": null,
+        "email": "orderinquiries@automationdirect.com",
+        "source_url": "https://www.automationdirect.com/adc/contactus/contactus"
+      }
+    ],
+    "people": [
+      {
+        "name": "Email Returns",
+        "title": null,
+        "email": "orderinquiries@automationdirect.com",
+        "source_url": "https://www.automationdirect.com/adc/contactus/contactus"
+      }
+    ],
+    "emails": [
+      {
+        "address": "info@automationdirect.com",
+        "confidence": "highest",
+        "source_url": "https://www.automationdirect.com/adc/contactus/contactus",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "General Information: info@automationdirect.com Mailing List Removal / Unsubscribe"
+      },
+      {
+        "address": "orderinquiries@automationdirect.com",
+        "confidence": "highest",
+        "source_url": "https://www.automationdirect.com/adc/contactus/contactus",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ders , please contact orderinquiries@automationdirect.com Email Custom"
+      },
+      {
+        "address": "orders@automationdirect.com",
+        "confidence": "highest",
+        "source_url": "https://www.automationdirect.com/adc/contactus/contactus",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ", email your order to: orders@automationdirect.com For questions related to orders , please contact"
+      }
+    ],
+    "role_emails": [
+      "info@automationdirect.com",
+      "orders@automationdirect.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.automationdirect.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.automationdirect.com/support/packinglist-reprint",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.automationdirect.com/support/about-adc",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.automationdirect.com/adc/contactus/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.automationdirect.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.automationdirect.com/adc/shopping/catalog/enclosure_thermal_management_-a-_lights",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.automationdirect.com/adc/shopping/catalog/wire_-a-_cable_management",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.automationdirect.com/adc/form/user/companyreview",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.automationdirect.com/support/software-downloads",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.automationdirect.com/support/software-downloads?itemcode=C-more%20CM5%20Series",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Shop AutomationDirect for the best prices on PLCs, HMIs, Enclosures and more! Enjoy free tech support and free 2-day delivery on orders $49+",
+    "source_urls": [
+      "https://www.automationdirect.com/adc/contactus/contactus"
+    ],
+    "reason": null,
+    "pages_fetched": 18
+  },
+  {
+    "company_domain": "automedals.com",
+    "company_name": "www.automedals.com",
+    "website": "https://www.automedals.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": "Shop for US Army metal decals and military emblems at Auto Medals for your car, truck, SUV, motorcycle or any just about any surface.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "automicgold.com",
+    "company_name": "Automic Gold",
+    "website": "https://www.automicgold.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Need Help",
+        "title": null,
+        "email": "care@automicgold.com",
+        "source_url": "https://www.automicgold.com",
+        "association": "proximity"
+      },
+      {
+        "name": "Press Interviews",
+        "title": null,
+        "email": "press@automicgold.com",
+        "source_url": "https://www.automicgold.com/pages/press",
+        "association": "proximity"
+      },
+      {
+        "name": "Support Contact",
+        "title": null,
+        "email": "media@automicgold.com",
+        "source_url": "https://www.automicgold.com/pages/contact",
+        "association": "proximity"
+      }
+    ],
+    "people": [
+      {
+        "name": "Need Help",
+        "title": null,
+        "email": "care@automicgold.com",
+        "source_url": "https://www.automicgold.com",
+        "association": "proximity"
+      },
+      {
+        "name": "Press Interviews",
+        "title": null,
+        "email": "press@automicgold.com",
+        "source_url": "https://www.automicgold.com/pages/press",
+        "association": "proximity"
+      },
+      {
+        "name": "Support Contact",
+        "title": null,
+        "email": "media@automicgold.com",
+        "source_url": "https://www.automicgold.com/pages/contact",
+        "association": "proximity"
+      }
+    ],
+    "emails": [
+      {
+        "address": "care@automicgold.com",
+        "confidence": "highest",
+        "source_url": "https://www.automicgold.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "y Policy Terms of Use Withdrawal Contract (EU) Need Help? care@automicgold.com (1)888-992-8866 Subscribe Never miss the latest from your"
+      },
+      {
+        "address": "custom@automicgold.com",
+        "confidence": "highest",
+        "source_url": "https://www.automicgold.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "item personalization, testing, and appraisals, email us at custom@automicgold.com Business inquiries Email us at media@aut"
+      },
+      {
+        "address": "media@automicgold.com",
+        "confidence": "highest",
+        "source_url": "https://www.automicgold.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "cgold.com Business inquiries Email us at media@automicgold.com Have you checked our F.A.Q.? Visit ou"
+      },
+      {
+        "address": "press@automicgold.com",
+        "confidence": "highest",
+        "source_url": "https://www.automicgold.com/pages/press",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "omething, need hi-res assets or more details, email us at: press@automicgold.com Interested in learning about the founder of the company v"
+      }
+    ],
+    "role_emails": [
+      "care@automicgold.com",
+      "custom@automicgold.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.automicgold.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.automicgold.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.automicgold.com/pages/about-our-founder",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.automicgold.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.automicgold.com/pages/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "We are a queer indigenous owned business revolutionizing the fine jewelry industry with sustainability and transparency. We work with recycled gold, platinum, and silver, and ethically sourced or recycled natural and lab gems. All of our jewelry is handmade in our NYC studio.",
+    "source_urls": [
+      "https://www.automicgold.com",
+      "https://www.automicgold.com/pages/about-us",
+      "https://www.automicgold.com/pages/about-our-founder",
+      "https://www.automicgold.com/pages/contact",
+      "https://www.automicgold.com/pages/press"
+    ],
+    "reason": null,
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "automobilitystore.com",
+    "company_name": "AutoMobility Store",
+    "website": "https://www.automobilitystore.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@automobilitystore.com",
+        "confidence": "high",
+        "source_url": "https://www.automobilitystore.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "u003einfo@automobilitystore.com",
+        "confidence": "high",
+        "source_url": "https://www.automobilitystore.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@automobilitystore.com",
+      "u003einfo@automobilitystore.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.automobilitystore.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.automobilitystore.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.automobilitystore.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.automobilitystore.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.automobilitystore.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "AutoMobility offers the most comprehensive inventory of Scooters, Powerchairs, Conversion Vans, Lifts and much more.",
+    "source_urls": [
+      "https://www.automobilitystore.com",
+      "https://www.automobilitystore.com/about-us",
+      "https://www.automobilitystore.com/pages/contact",
+      "https://www.automobilitystore.com/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "automotivecircuitsolutions.com",
+    "company_name": "Automotive Circuit Solutions",
+    "website": "https://www.automotivecircuitsolutions.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@automotivecircuitsolutions.com",
+        "confidence": "high",
+        "source_url": "https://www.automotivecircuitsolutions.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "support@automotivecircuitsolutions.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.automotivecircuitsolutions.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.automotivecircuitsolutions.com/pages/contact-us-1",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.automotivecircuitsolutions.com",
+        "action": "/contact#contact-template--15566233960684__contact_form_a9MFJ4",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "We repair automotive electronics. GM Chevy Ford Volvo speedometer instrument clusters, Compass, Clocks and SRS modules. | Automotive Circuit Board Repair & Parts | AutomotiveCircuitSolutions | Visit Now: www.automotivecircuitsolutions.com",
+    "source_urls": [
+      "https://www.automotivecircuitsolutions.com",
+      "https://www.automotivecircuitsolutions.com/pages/contact-us-1"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "auton.com",
+    "company_name": "Auton Motorized Systems",
+    "website": "https://auton.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@auton.com",
+        "confidence": "highest",
+        "source_url": "https://auton.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "856 Avenue Rockefeller Valencia, CA 91355 +1 (661) 257-9282 info@auton.com Facebook"
+      },
+      {
+        "address": "tvlifts@auton.com",
+        "confidence": "highest",
+        "source_url": "https://auton.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2013-10-14",
+        "context_snippet": "29102 Hancock Parkway Valencia CA 91355 tvlifts@auton.com PHONE: 661-257-9282 FAX: 661-295-5638"
+      }
+    ],
+    "role_emails": [
+      "info@auton.com",
+      "tvlifts@auton.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://auton.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://auton.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2013-10-14"
+      },
+      {
+        "url": "https://auton.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://auton.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2013-10-16"
+      },
+      {
+        "url": "https://auton.com/pages/need-technical-support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://auton.com/contact",
+        "action": "/contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Auton's motorized TV lifts and mounts can be installed almost anywhere in your home to keep your TV hidden or stored where you want. We offer ceiling TV mounts, lifts for cabinets, swivel TV wall mounts, drop down mounts, pull down, flip down mounts, etc. Compatible with 50, 55, 60, 65, 70, 75, 80, ",
+    "source_urls": [
+      "https://auton.com",
+      "https://auton.com/about",
+      "https://auton.com/about-us",
+      "https://auton.com/contact",
+      "https://auton.com/pages/need-technical-support"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "autonomous.ai",
+    "company_name": "Autonomous",
+    "website": "https://www.autonomous.ai",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "human@autonomous.ai",
+        "confidence": "high",
+        "source_url": "https://www.autonomous.ai",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Subscribe \u00a9 2026 Autonomous \u00b7 NYC \u00b7 SF \u00b7 Shenzhen \u00b7 Saigon human@autonomous.ai \u00b7 GitHub (opens in a new tab) \u00b7 X (opens in a new tab)"
+      },
+      {
+        "address": "u003ehuman@autonomous.ai",
+        "confidence": "high",
+        "source_url": "https://www.autonomous.ai",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "human@autonomous.ai",
+      "u003ehuman@autonomous.ai"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.autonomous.ai",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.autonomous.ai/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.autonomous.ai/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.autonomous.ai/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.autonomous.ai/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.autonomous.ai/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.autonomous.ai/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.autonomous.ai/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.autonomous.ai/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Welcome to the AI hardware workshop. Software got AI. Hardware didn't. So we build devices that do.",
+    "source_urls": [
+      "https://www.autonomous.ai",
+      "https://www.autonomous.ai/team",
+      "https://www.autonomous.ai/our-team",
+      "https://www.autonomous.ai/meet-the-team",
+      "https://www.autonomous.ai/about",
+      "https://www.autonomous.ai/about-us",
+      "https://www.autonomous.ai/press",
+      "https://www.autonomous.ai/media",
+      "https://www.autonomous.ai/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "autonomyskateboards.com",
+    "company_name": "Autonomy Skateboarding",
+    "website": "https://autonomyskateboards.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://autonomyskateboards.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://autonomyskateboards.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://autonomyskateboards.com/pages/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://autonomyskateboards.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://autonomyskateboards.com/products/autonomy-skateboards-deck-team-trilogist-series",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://autonomyskateboards.com/products/autonomy-skateboards-complete-team-trilogist-series?variant=41917891543224",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://autonomyskateboards.com/products/autonomy-cruiser-complete-rhythm-series-ii-team-a-shapeshifter?variant=41263104196792",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://autonomyskateboards.com/products/autonomy-skateboards-deck-team-rhythm-series?variant=40822591455416",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://autonomyskateboards.com/products/autonomy-cruiser-complete-rhythm-series-ii-team-a-shapeshifter",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://autonomyskateboards.com/pages/contact",
+        "action": "/contact#ContactForm-AZ0tKZlpWZXFhSmhMe__contact_form_UwiCkQ",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Our decks and completes are simply the best out there.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 17
+  },
+  {
+    "company_domain": "autool.us",
+    "company_name": "Katool Automotive Equipment",
+    "website": "https://autool.us",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "autopainthq.com",
+    "company_name": "Auto Paint HQ",
+    "website": "https://autopainthq.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "sales@autopainthq.com",
+        "confidence": "highest",
+        "source_url": "https://autopainthq.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "customerservice@autopainthq.com",
+        "confidence": "high",
+        "source_url": "https://autopainthq.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "6) 265-8060 Hours: Mon-Fri 8am-5pm (Central Time) Email: customerservice@autopainthq.com Saint Louis, Missouri Candy Paint Ki"
+      }
+    ],
+    "role_emails": [
+      "customerservice@autopainthq.com",
+      "sales@autopainthq.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://autopainthq.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://autopainthq.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://autopainthq.com/pages/about?view=shipping",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://autopainthq.com/pages/about?view=privacy-policy-2",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://autopainthq.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Shop high-quality car paint solutions at Auto Paint HQ. Explore a wide range of options to enhance your vehicle's appearance. FREE SHIPPING on orders $75+",
+    "source_urls": [
+      "https://autopainthq.com",
+      "https://autopainthq.com/pages/contact-us",
+      "https://autopainthq.com/pages/about?view=shipping",
+      "https://autopainthq.com/pages/about?view=privacy-policy-2"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "autoplumb.com",
+    "company_name": "AutoPlumb",
+    "website": "https://autoplumb.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://autoplumb.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://autoplumb.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://autoplumb.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://autoplumb.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "an fittings, an radiator adapters, an hose ends, 20an thermostat housing, 20an radiator adapters, an hose, npt to an adapters, stainless steel an brake fittings",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "autorimshop.com",
+    "company_name": "Auto Rim Shop",
+    "website": "https://autorimshop.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@autorimshop.com",
+        "confidence": "highest",
+        "source_url": "https://autorimshop.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "11735 Support: 516 494 3383 M-F 9:00 am to 6:00 pm - EST support@autorimshop.com \u00a9 2026 - Auto Rim Sho"
+      }
+    ],
+    "role_emails": [
+      "support@autorimshop.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://autorimshop.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://autorimshop.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://autorimshop.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://autorimshop.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://autorimshop.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://autorimshop.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Discover a wide selection of top-quality auto rims and wheels at Auto Rim Shop. We offer renowned brands, unbeatable prices, and excellent customer service. Upgrade your vehicle today!",
+    "source_urls": [
+      "https://autorimshop.com",
+      "https://autorimshop.com/about",
+      "https://autorimshop.com/about-us",
+      "https://autorimshop.com/pages/about-us",
+      "https://autorimshop.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "autoseatreplacement.com",
+    "company_name": "Auto Seat Replacement",
+    "website": "https://autoseatreplacement.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@autoseatreplacement.com",
+        "confidence": "highest",
+        "source_url": "https://autoseatreplacement.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Fast Handling 2\u20133 Days (281) 675-5455 support@autoseatreplacement.com 0 Home Orders ("
+      },
+      {
+        "address": "675-5455support@autoseatreplacement.com",
+        "confidence": "high",
+        "source_url": "https://autoseatreplacement.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "info@autoseatreplacement.com",
+        "confidence": "high",
+        "source_url": "https://autoseatreplacement.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "675-5455support@autoseatreplacement.com",
+      "info@autoseatreplacement.com",
+      "support@autoseatreplacement.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://autoseatreplacement.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://autoseatreplacement.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://autoseatreplacement.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://autoseatreplacement.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://autoseatreplacement.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://autoseatreplacement.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "LEATHER/VINYL/CLOTH seat cover, built to factory specs with OEM quality to match the Interior of your vehicle! We build seat cover replacements For every make & and any model : Chevy/Chevrolet, GMC, Ford,Cadillac & Toyota. We manufacture seat covers, lean back covers, and armrest covers for trucks &",
+    "source_urls": [
+      "https://autoseatreplacement.com",
+      "https://autoseatreplacement.com/about",
+      "https://autoseatreplacement.com/about-us",
+      "https://autoseatreplacement.com/pages/about-us",
+      "https://autoseatreplacement.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "autosock.us",
+    "company_name": "AutoSock US",
+    "website": "https://autosock.us",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://autosock.us",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://autosock.us/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://autosock.us/pages/about-autosock",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://autosock.us/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://autosock.us/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "The tire socks give you superb grip on snow and ice in winter driving conditions. Compatible with all cars and trucks. A legal alternative to tire chains.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "autostopeliminator.com",
+    "company_name": "Autostop Eliminator",
+    "website": "https://www.autostopeliminator.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.autostopeliminator.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.autostopeliminator.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.autostopeliminator.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "The Autostop Eliminator is an intelligent tech device for your car, truck or SUV that will safely disable auto start-stop feature and remember your preference",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "autotecknic.com",
+    "company_name": "AutoTecknic USA",
+    "website": "https://autotecknic.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@autotecknic.com",
+        "confidence": "highest",
+        "source_url": "https://autotecknic.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@autotecknic.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://autotecknic.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://autotecknic.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://autotecknic.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://autotecknic.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://autotecknic.com/pages/contact-us",
+        "action": "/contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Shop AutoTecknic USA for premium carbon fiber car parts and accessories. Upgrade your BMW, Mercedes, and more with lightweight, stylish performance parts.",
+    "source_urls": [
+      "https://autotecknic.com/pages/contact-us",
+      "https://autotecknic.com/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "autowashco.com",
+    "company_name": "Autowash",
+    "website": "https://shop.autowashco.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://shop.autowashco.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Professional grade detailing products for the DIY'er, weekend warrior, auto enthusiast or just because you love your car!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "autoworldstore.com",
+    "company_name": "Auto World Store",
+    "website": "https://www.autoworldstore.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.autoworldstore.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.autoworldstore.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.autoworldstore.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.autoworldstore.com/products/pre-order-amt-all-american-race-team-ford-ln-8000-transporter-1965-mustang-modified-1-25-scale-model-kit-due-november-2026",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.autoworldstore.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Auto World Store is your one stop shop for hobby-related items including diecast supplies, scale model kits and more at a reasonable price! Shop today!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "autumncashmere.com",
+    "company_name": "Autumn Cashmere",
+    "website": "https://www.autumncashmere.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@autumncashmere.com",
+        "confidence": "highest",
+        "source_url": "https://autumncashmere.com/pages/contact-us",
+        "source_type": "archived",
+        "snapshot_date": "2026-01-22",
+        "context_snippet": "ntact our customer service team directly by email or phone: support@autumncashmere.com (248) 577-0002 Monday to Friday: 10:00 AM - 5:00 PM EST Ope"
+      }
+    ],
+    "role_emails": [
+      "support@autumncashmere.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://autumncashmere.com",
+        "page_type": "home",
+        "source_type": "archived",
+        "snapshot_date": "2026-03-08"
+      },
+      {
+        "url": "https://autumncashmere.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2019-07-23"
+      },
+      {
+        "url": "https://autumncashmere.com/press",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2017-04-24"
+      },
+      {
+        "url": "https://autumncashmere.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2026-01-22"
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://autumncashmere.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Shop Autumn Cashmere for modern clothing & knitwear essentials. Shop cardigans, pullovers, sweaters, jackets, dresses, tanks and tees. Free Shipping. Free Returns.",
+    "source_urls": [
+      "https://autumncashmere.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  }
+]
