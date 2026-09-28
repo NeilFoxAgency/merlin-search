@@ -1,0 +1,1667 @@
+[
+  {
+    "company_domain": "ballinsltd.com",
+    "company_name": "Ballin's LTD",
+    "website": "https://ballinsltd.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "contactus@ballinsltd.com",
+        "confidence": "high",
+        "source_url": "https://ballinsltd.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Relations Ask us a Question: contactus@ballinsltd.com 1-800-338-4864 Mon- Sat, 10am-5pm Central"
+      }
+    ],
+    "role_emails": [
+      "contactus@ballinsltd.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://ballinsltd.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ballinsltd.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ballinsltd.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://ballinsltd.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Clean lines and classic designs. Durable yet luxurious fabrics. Shop our Collection of Women's Top, Bottoms, and Dresses designed in France.",
+    "source_urls": [
+      "https://ballinsltd.com",
+      "https://ballinsltd.com/pages/contact",
+      "https://ballinsltd.com/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "ballislife.com",
+    "company_name": "BALLISLIFE",
+    "website": "https://shop.ballislife.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://shop.ballislife.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.ballislife.com/collections/compression-1",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.ballislife.com/products/boom-compression-tee-in-white",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.ballislife.com/products/boom-compression-tee-in-black",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.ballislife.com/products/hoop-head-compression-tee",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.ballislife.com/products/p4-compression-tee-in-white",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.ballislife.com/products/hoop-head-compression-tee-in-white",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.ballislife.com/products/compression-tight-bundle-pack-in-black",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.ballislife.com/products/p4-compression-tee-in-silver",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.ballislife.com/products/compression-tight-bundle-pack-in-white",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "The Official Ballislife Online Store is where you can find all the latest Ballislife basketball gear including Ballislife socks, backpacks, and t-shirts.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 18
+  },
+  {
+    "company_domain": "ballisticarmorco.com",
+    "company_name": "Ballistic Armor Co.",
+    "website": "https://ballisticarmorco.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Alex Poythress",
+        "title": "Ceo",
+        "email": "alex@ballisticarmorco.com",
+        "source_url": "https://ballisticarmorco.com/pages/about-us"
+      }
+    ],
+    "people": [
+      {
+        "name": "Alex Poythress",
+        "title": "Ceo",
+        "email": "alex@ballisticarmorco.com",
+        "source_url": "https://ballisticarmorco.com/pages/about-us"
+      }
+    ],
+    "emails": [
+      {
+        "address": "alex@ballisticarmorco.com",
+        "confidence": "highest",
+        "source_url": "https://ballisticarmorco.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Search Contact 8886578128 alex@ballisticarmorco.com Facebook Instagram YouT"
+      },
+      {
+        "address": "info@ballisticarmorco.com",
+        "confidence": "highest",
+        "source_url": "https://ballisticarmorco.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "you don't have an account or have any trouble, email us at info@ballisticarmorco.com and we will provide you with the most current order inform"
+      }
+    ],
+    "role_emails": [
+      "alex@ballisticarmorco.com",
+      "info@ballisticarmorco.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://ballisticarmorco.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ballisticarmorco.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ballisticarmorco.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://ballisticarmorco.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Ballistic Armor Corporation",
+    "source_urls": [
+      "https://ballisticarmorco.com",
+      "https://ballisticarmorco.com/pages/about-us",
+      "https://ballisticarmorco.com/pages/contact"
+    ],
+    "reason": null,
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "ballisticdummylab.com",
+    "company_name": "Ballistic Dummy Lab",
+    "website": "https://ballisticdummylab.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "chris@ballisticdummylab.com",
+        "confidence": "highest",
+        "source_url": "https://ballisticdummylab.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "d us a message and the team will get back to you. Email chris@ballisticdummylab.com Phone 1-818-317-1433 Location Woodstock, GA"
+      }
+    ],
+    "role_emails": [
+      "chris@ballisticdummylab.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://ballisticdummylab.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ballisticdummylab.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ballisticdummylab.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ballisticdummylab.com/pages/about-us-1",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://ballisticdummylab.com/pages/contact-us",
+        "action": "/contact#bdl-contact-form-template--26239715311863__main",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "The most Advanced Ballistic Target testing. Models are used to accurately represent blunt force trauma, stabbing wounds, ballistics wounds. Great for Military testing, Court Cases, Law enforcement, Television and Film.",
+    "source_urls": [
+      "https://ballisticdummylab.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "ballistol.com",
+    "company_name": "Ballistol USA",
+    "website": "https://ballistol.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Money Back Guarantee",
+        "title": null,
+        "email": "info@ballistol.com",
+        "source_url": "https://ballistol.com/contact",
+        "association": "proximity"
+      }
+    ],
+    "people": [
+      {
+        "name": "Money Back Guarantee",
+        "title": null,
+        "email": "info@ballistol.com",
+        "source_url": "https://ballistol.com/contact",
+        "association": "proximity"
+      }
+    ],
+    "emails": [
+      {
+        "address": "info@ballistol.com",
+        "confidence": "highest",
+        "source_url": "https://ballistol.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "SUPPORT: Contact Us Toll Free (800) 253-2460 Email info@ballistol.com Fax 252-261-0408 \u00a9 2026, Ballistol USA"
+      }
+    ],
+    "role_emails": [
+      "info@ballistol.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://ballistol.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ballistol.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2023-07-14"
+      },
+      {
+        "url": "https://ballistol.com/media",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2023-05-18"
+      },
+      {
+        "url": "https://ballistol.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2023-07-14"
+      },
+      {
+        "url": "https://ballistol.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ballistol.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ballistol.com/pages/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://ballistol.com/contact",
+        "action": "/contact/#wpcf7-f1955-p18-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://ballistol.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Ballistol is the fountain of youth for your guns, wood, metal, plastic and smooth leather. Nothing cleans, lubricates, protects and preserves like Ballistol. Skin-safe and environmentally friendly. Shop now.",
+    "source_urls": [
+      "https://ballistol.com",
+      "https://ballistol.com/contact",
+      "https://ballistol.com/pages/contact",
+      "https://ballistol.com/pages/about",
+      "https://ballistol.com/pages/media"
+    ],
+    "reason": null,
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "balloonin.com",
+    "company_name": "Balloon Innovations",
+    "website": "https://www.balloonin.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "cx@balloonin.com",
+        "confidence": "highest",
+        "source_url": "https://www.balloonin.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "l Place Westminster, CO 80031 Phone: 303.225.5666 Email: CX@balloonin.com \u00a9 2026 Balloon Innovations Inc."
+      }
+    ],
+    "role_emails": [
+      "cx@balloonin.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.balloonin.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.balloonin.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.balloonin.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.balloonin.com/collections/balloon-pole-expression-signs",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.balloonin.com/collections/schools-teams-nonprofits",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.balloonin.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.balloonin.com/a/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.balloonin.com/contact",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.balloonin.com/a/contact",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Specializing in Durable, Weatherproof Balloons for outdoor advertising, we guarantee to provide the best Helium-Free Balloon Products on the market!",
+    "source_urls": [
+      "https://www.balloonin.com",
+      "https://www.balloonin.com/about-us",
+      "https://www.balloonin.com/contact",
+      "https://www.balloonin.com/collections/balloon-pole-expression-signs",
+      "https://www.balloonin.com/collections/schools-teams-nonprofits",
+      "https://www.balloonin.com/pages/about-us",
+      "https://www.balloonin.com/a/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "balloonscharlotte.com",
+    "company_name": "balloonscharlotte.com",
+    "website": "https://balloonscharlotte.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@balloonscharlotte.com",
+        "confidence": "highest",
+        "source_url": "https://balloonscharlotte.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "7043421580 info@balloonscharlotte.com Afghanistan (USD $)"
+      }
+    ],
+    "role_emails": [
+      "info@balloonscharlotte.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://balloonscharlotte.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://balloonscharlotte.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2021-01-26"
+      },
+      {
+        "url": "https://balloonscharlotte.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2016-11-21"
+      },
+      {
+        "url": "https://balloonscharlotte.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2021-01-24"
+      },
+      {
+        "url": "https://balloonscharlotte.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://balloonscharlotte.com/contact",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://balloonscharlotte.com/pages/contact-us",
+        "action": "/contact#contact-form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Balloon & party service in Charlotte, NC offering custom balloon arches, garlands, bouquets & same-day delivery for birthdays, weddings & corporate events.",
+    "source_urls": [
+      "https://balloonscharlotte.com",
+      "https://balloonscharlotte.com/about",
+      "https://balloonscharlotte.com/contact",
+      "https://balloonscharlotte.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "ballotinwhiskey.com",
+    "company_name": "Ballotin Whiskey",
+    "website": "https://ballotinwhiskey.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "paul@ballotinwhiskey.com",
+        "confidence": "high",
+        "source_url": "https://ballotinwhiskey.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "paul@ballotinwhiskey.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://ballotinwhiskey.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ballotinwhiskey.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ballotinwhiskey.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ballotinwhiskey.com/products/ballotin-mocha-espresso-martini",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ballotinwhiskey.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ballotinwhiskey.com/blogs/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ballotinwhiskey.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://ballotinwhiskey.com/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://ballotinwhiskey.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Inspired by a love of bourbon whiskey, a passion for chocolate, and an abiding dedication to bringing people together, Ballotin Chocolate Whiskey was founded in 2015 in Louisville, Kentucky with a single focus: To produce elegant and delicious sipping whiskeys designed for flavor-craving friends.",
+    "source_urls": [
+      "https://ballotinwhiskey.com",
+      "https://ballotinwhiskey.com/about",
+      "https://ballotinwhiskey.com/contact",
+      "https://ballotinwhiskey.com/products/ballotin-mocha-espresso-martini",
+      "https://ballotinwhiskey.com/pages/about",
+      "https://ballotinwhiskey.com/blogs/press",
+      "https://ballotinwhiskey.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "ballparkblueprints.com",
+    "company_name": "Ballpark Blueprints",
+    "website": "https://ballparkblueprints.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://ballparkblueprints.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ballparkblueprints.com/pages/choose-by-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ballparkblueprints.com/pages/baseball-by-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ballparkblueprints.com/pages/pro-football-by-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ballparkblueprints.com/pages/collegiate-by-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ballparkblueprints.com/pages/basketball-by-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ballparkblueprints.com/pages/soccer-by-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ballparkblueprints.com/collections/team-colors-t-shirts",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ballparkblueprints.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ballparkblueprints.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://ballparkblueprints.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Ballpark Blueprints creates and sells unique architecture prints featuring baseball and football stadiums and ballparks. A great gift for the sports fan.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 18
+  },
+  {
+    "company_domain": "ballparksofamerica.com",
+    "company_name": "ballparksofamerica.com",
+    "website": "https://ballparksofamerica.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@ballparksofamerica.com",
+        "confidence": "highest",
+        "source_url": "https://ballparksofamerica.com/our-team",
+        "source_type": "archived",
+        "snapshot_date": "2019-12-12",
+        "context_snippet": "00 Pat Nash Drive Branson, MO. 65616 (417) 986-3395 info@ballparksofamerica.com Useful Links Prepare For Your To"
+      },
+      {
+        "address": "joe@ballparksofamerica.com",
+        "confidence": "highest",
+        "source_url": "https://ballparksofamerica.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "jp@ballparksofamerica.com",
+        "confidence": "highest",
+        "source_url": "https://ballparksofamerica.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "wade@ballparksofamerica.com",
+        "confidence": "highest",
+        "source_url": "https://ballparksofamerica.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "jarlie@ballparksofamerica.com",
+        "confidence": "high",
+        "source_url": "https://ballparksofamerica.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Joe Mulinaro: jmulinaro@ballparksofamerica.com JP Arlie: jarlie@ballparksofamerica.com Wade Early: wearly@ballparksofamerica.com FIND US 1000 Pat"
+      },
+      {
+        "address": "jmulinaro@ballparksofamerica.com",
+        "confidence": "high",
+        "source_url": "https://ballparksofamerica.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "you contact info and a good time for a call Joe Mulinaro: jmulinaro@ballparksofamerica.com JP Arlie: jarlie@ballparksofamerica.com Wade Early: wearl"
+      },
+      {
+        "address": "wearly@ballparksofamerica.com",
+        "confidence": "high",
+        "source_url": "https://ballparksofamerica.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "a.com JP Arlie: jarlie@ballparksofamerica.com Wade Early: wearly@ballparksofamerica.com FIND US 1000 Pat Nash Drive, Branson, MO 65616 Set GPS to \""
+      }
+    ],
+    "role_emails": [
+      "info@ballparksofamerica.com",
+      "jarlie@ballparksofamerica.com",
+      "jmulinaro@ballparksofamerica.com",
+      "joe@ballparksofamerica.com",
+      "jp@ballparksofamerica.com",
+      "wade@ballparksofamerica.com",
+      "wearly@ballparksofamerica.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://ballparksofamerica.com/our-team",
+        "page_type": "team",
+        "source_type": "archived",
+        "snapshot_date": "2019-12-12"
+      },
+      {
+        "url": "https://ballparksofamerica.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ballparksofamerica.com/registered-teams",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://ballparksofamerica.com/contact",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Ballparks of America, located in Branson, Missouri, is the ultimate youth baseball tournament vacation with five Major League replica fields.",
+    "source_urls": [
+      "https://ballparksofamerica.com/our-team",
+      "https://ballparksofamerica.com/contact",
+      "https://ballparksofamerica.com/registered-teams"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "ballroom-connection.com",
+    "company_name": "Ballroom Connection",
+    "website": "https://ballroom-connection.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "E-mail Us",
+        "title": null,
+        "email": "sales@ballroom-connection.com",
+        "source_url": "https://ballroom-connection.com/about"
+      }
+    ],
+    "people": [
+      {
+        "name": "E-mail Us",
+        "title": null,
+        "email": "sales@ballroom-connection.com",
+        "source_url": "https://ballroom-connection.com/about"
+      }
+    ],
+    "emails": [
+      {
+        "address": "sales@ballroom-connection.com",
+        "confidence": "highest",
+        "source_url": "https://ballroom-connection.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2023-06-05",
+        "context_snippet": "s, and stop at El. Camino Real and Mary Ave.) Contact us: sales@ballroom-connection.com (408) 773-8833 Visit us: http://www.ballroom-connection.c"
+      }
+    ],
+    "role_emails": [
+      "sales@ballroom-connection.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://ballroom-connection.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ballroom-connection.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2023-06-05"
+      },
+      {
+        "url": "https://ballroom-connection.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2023-06-05"
+      },
+      {
+        "url": "https://ballroom-connection.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ballroom-connection.com/collections/dance-media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://ballroom-connection.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "San Francisco Bay Area's choice for dance shoes and accessories.",
+    "source_urls": [
+      "https://ballroom-connection.com",
+      "https://ballroom-connection.com/about",
+      "https://ballroom-connection.com/contact",
+      "https://ballroom-connection.com/pages/contact",
+      "https://ballroom-connection.com/collections/dance-media"
+    ],
+    "reason": null,
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "balls.co",
+    "company_name": "Edward Ventures International LLC",
+    "website": "https://balls.co",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "ballstatesports.com",
+    "company_name": "Ball State Team Store",
+    "website": "https://shop.ballstatesports.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://shop.ballstatesports.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.ballstatesports.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.ballstatesports.com/collections/ball-state-team-store-gift-card",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://shop.ballstatesports.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Visit the Ball State Athletics Team Store for the best selection of officially licensed Ball State University apparel and novelties. Shop men\u2019s, women\u2019s and youth styles from brands like Nike, Champion and more. Browse our selection of Cardinal t-shirts, sweatshirts, shorts, pants and accessories to",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "ballwash.com",
+    "company_name": "Ballsy",
+    "website": "https://ballwash.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "bally.com",
+    "company_name": "Bally Online Store",
+    "website": "https://www.bally.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.bally.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bally.com/en-us/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bally.com/en-us/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.bally.com/en-us/pages/contact-us",
+        "action": "/en-us/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Bally Global: shop luxury leather shoes, bags, & accessories online. Worldwide access to heritage craftsmanship & modern style.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "ballyhooseattle.com",
+    "company_name": "Ballyhoo Curiosity Shop",
+    "website": "https://ballyhooseattle.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://ballyhooseattle.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ballyhooseattle.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2020-01-27"
+      },
+      {
+        "url": "https://ballyhooseattle.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2020-01-26"
+      },
+      {
+        "url": "https://ballyhooseattle.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ballyhooseattle.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://ballyhooseattle.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Ballyhoo Curiosity Shop",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "ballytotalfitness.com",
+    "company_name": "Bally Total Fitness\u00ae",
+    "website": "https://ballytotalfitness.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "help@ballytotalfitness.com",
+        "confidence": "high",
+        "source_url": "https://ballytotalfitness.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "1 (855) 666-7397 Monday-Friday 8:00am-4pm PST help@ballytotalfitness.com *Closed for all major holidays Contact form"
+      }
+    ],
+    "role_emails": [
+      "help@ballytotalfitness.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://ballytotalfitness.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ballytotalfitness.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://ballytotalfitness.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "BALLY TOTAL FITNESS\u00ae is America's first name in fitness and nutrition with a rich industry history of over forty years. From active apparel to fitness equipment, we create gear with health and wellness in mind.",
+    "source_urls": [
+      "https://ballytotalfitness.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "balmuda.com",
+    "company_name": "Balmuda USA",
+    "website": "https://us.balmuda.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://us.balmuda.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://us.balmuda.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://us.balmuda.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Discover innovative Kitchen appliances and home goods from Balmuda USA. Elevate your living space with our cutting-edge technology and sleek designs. Shop now.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "balneol.com",
+    "company_name": "Balneol",
+    "website": "https://balneol.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@balneol.com",
+        "confidence": "highest",
+        "source_url": "https://balneol.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "by filling out the below contact form, sending an email to hello@balneol.com or call 1-855-874-0970 Monday through Friday from 9:00 a"
+      }
+    ],
+    "role_emails": [
+      "hello@balneol.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://balneol.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://balneol.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://balneol.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://balneol.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Discover Balneol, a trusted name in personal care for over 30 years. Our doctor-recommended Hygienic Cleansing Lotion is meticulously crafted to provide gentle, soothing relief for intimate discomfort. Find relief and reclaim your comfort with Balneol.",
+    "source_urls": [
+      "https://balneol.com",
+      "https://balneol.com/pages/about",
+      "https://balneol.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "balolo.de",
+    "company_name": "Balolo",
+    "website": "https://www.balolo.de",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@balolo.de",
+        "confidence": "highest",
+        "source_url": "https://www.balolo.de",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ity: Monday - Friday, 8.00am - 6.00pm CET Email: info@balolo.de Tel: +49 2241 1693690 USD"
+      }
+    ],
+    "role_emails": [
+      "info@balolo.de"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.balolo.de",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.balolo.de/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.balolo.de/en/collections/kabelmanagement",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.balolo.de/en/pages/about-us-balolo",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.balolo.de/en/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.balolo.de/en/products/kabel-management-system",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.balolo.de/contact",
+        "action": "/contact#contact-form-template--25159208763658__contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.balolo.de/en/pages/contact",
+        "action": "/en/contact#contact-form-template--25159208763658__contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Premium Design for your Desk | Monitor Stands, Modular Accessories & more | Made from Wood | For Office & Home Office | Made in Germany | Free Shipping | Your Setup for Productivity & Creativity",
+    "source_urls": [
+      "https://www.balolo.de",
+      "https://www.balolo.de/contact",
+      "https://www.balolo.de/en/collections/kabelmanagement",
+      "https://www.balolo.de/en/pages/about-us-balolo",
+      "https://www.balolo.de/en/pages/contact",
+      "https://www.balolo.de/en/products/kabel-management-system"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "balooliving.com",
+    "company_name": "Baloo Living",
+    "website": "https://balooliving.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "care@balooliving.com",
+        "confidence": "high",
+        "source_url": "https://balooliving.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "press@balooliving.com",
+        "confidence": "high",
+        "source_url": "https://balooliving.com/pages/press",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Read More For press or media inquiries please contact press@balooliving.com. Let's Keep in Tou"
+      }
+    ],
+    "role_emails": [
+      "care@balooliving.com",
+      "press@balooliving.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://balooliving.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://balooliving.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://balooliving.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://balooliving.com/pages/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://balooliving.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Baloo's weighted blankets are naturally comforting, and the only quilted brand made with pure natural materials free from synthetics for cool and easy sleep.",
+    "source_urls": [
+      "https://balooliving.com/pages/contact-us",
+      "https://balooliving.com/pages/press"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "balsacircle.com",
+    "company_name": "Balsa Circle, LLC",
+    "website": "https://balsacircle.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "design@balsacircle.com",
+        "confidence": "high",
+        "source_url": "https://balsacircle.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "design@balsacircle.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://balsacircle.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://balsacircle.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://balsacircle.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://balsacircle.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://balsacircle.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://balsacircle.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Balsa Circle offers decorations for wedding and special occasions! Discounted quality wedding decorations and accessories, hand made silk flowers and bouquets, tablecloths, photo backdrops and centerpieces, sequined, satin, polyester runners - everything you need to make your event memorable!",
+    "source_urls": [
+      "https://balsacircle.com",
+      "https://balsacircle.com/about",
+      "https://balsacircle.com/about-us",
+      "https://balsacircle.com/contact",
+      "https://balsacircle.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "balsausa.com",
+    "company_name": "Balsa USA",
+    "website": "https://balsausa.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "balsausa@balsausa.com",
+        "confidence": "highest",
+        "source_url": "https://balsausa.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ll Our Office To Get On The List balsausa@balsausa.com 18002257287 My Account Login Cr"
+      },
+      {
+        "address": "tech@balsausa.com",
+        "confidence": "high",
+        "source_url": "https://balsausa.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "hru Weds to speak with Dave our designer and Tech or Email tech@balsausa.com with questions Login Welcome back! P"
+      }
+    ],
+    "role_emails": [
+      "balsausa@balsausa.com",
+      "tech@balsausa.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://balsausa.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Balsa Model Airplane Kits and Wood shop specializing in WWI airplanes and your building model needs",
+    "source_urls": [
+      "https://balsausa.com"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "baltaire.com",
+    "company_name": "Baltaire",
+    "website": "https://shop.baltaire.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://shop.baltaire.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Los Angeles's top westside steakhouse Baltaire Restaurant's online selection of steaks, wines, cocktails, and retail items for takeout & curbside pick up.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "baltarugs.com",
+    "company_name": "Balta Rugs",
+    "website": "https://baltarugs.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://baltarugs.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://baltarugs.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Balta Rugs offers stylish and affordable rugs that are certified OEKO-TEX\u00ae Standard 100. Shop Area Rugs, Kids Rugs, and Outdoor Rugs with peace of mind.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  }
+]
