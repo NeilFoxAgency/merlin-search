@@ -1,0 +1,1431 @@
+[
+  {
+    "company_domain": "barbarakatz.com",
+    "company_name": "Barbara Katz",
+    "website": "https://www.barbarakatz.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "marketing@barbarakatz.com",
+        "confidence": "highest",
+        "source_url": "https://www.barbarakatz.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2020-04-05",
+        "context_snippet": "W 19th Street, Suite 601 Boca Raton, FL 33431 EMAIL: marketing@barbarakatz.com PHONE: 561.391.1066 FAX: 561-391-5284 STORE HO"
+      },
+      {
+        "address": "shop@barbarakatz.com",
+        "confidence": "high",
+        "source_url": "https://www.barbarakatz.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "8, Boca Raton, FL 33486 PHONE NUMBER: 561-391-1066 EMAIL: SHOP@BARBARAKATZ.COM STORE HOURS OF OPERATION: Monday - Saturday: 10AM - 6PM Sun"
+      },
+      {
+        "address": "vip@barbarakatz.com",
+        "confidence": "high",
+        "source_url": "https://www.barbarakatz.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "marketing@barbarakatz.com",
+      "shop@barbarakatz.com",
+      "vip@barbarakatz.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.barbarakatz.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.barbarakatz.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2020-04-05"
+      },
+      {
+        "url": "https://www.barbarakatz.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2020-04-05"
+      },
+      {
+        "url": "https://www.barbarakatz.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.barbarakatz.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.barbarakatz.com/contact",
+        "action": "/contact/#wpcf7-f853-p36-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.barbarakatz.com/pages/contact-us",
+        "action": "/contact#contact-template--22210438594793__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Barbara Katz is a luxury women's clothing store in Boca Raton, Florida with a curated collection of clothing and accessories from designers including Elliott Lauren, Max Mara, Dizzy-Lizzie, and more. Curated Luxury Since 1959.",
+    "source_urls": [
+      "https://www.barbarakatz.com",
+      "https://www.barbarakatz.com/about",
+      "https://www.barbarakatz.com/contact",
+      "https://www.barbarakatz.com/pages/contact-us",
+      "https://www.barbarakatz.com/pages/about"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "barbaraoneill.com",
+    "company_name": "BarbaraOneill.com",
+    "website": "https://barbaraoneill.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": "Official Barbara O'Neill",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "barbasol.com",
+    "company_name": "Barbasol",
+    "website": "https://barbasol.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://barbasol.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://barbasol.com/company/established-in-1919/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://barbasol.com/company/our-story/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://barbasol.com/company/barbasol-foundation/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://barbasol.com/company/partners-sponsors/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://barbasol.com/company/contact/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://barbasol.com/resources/news-media/",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://barbasol.com/company/contact/",
+        "action": "#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Barbasol has been trusted by generations for over 100 years to deliver a close, comfortable shave that will have you looking and feeling your best!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 15
+  },
+  {
+    "company_domain": "barbecueathome.com",
+    "company_name": "Barbecue at Home by Dickey's",
+    "website": "https://barbecueathome.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://barbecueathome.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://barbecueathome.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://barbecueathome.com/press",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2021-06-18"
+      },
+      {
+        "url": "https://barbecueathome.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2021-06-18"
+      },
+      {
+        "url": "https://barbecueathome.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://barbecueathome.com/pages/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://barbecueathome.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://barbecueathome.com/contact",
+        "action": "/contact/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://barbecueathome.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Do you like to prepare your own food and eat well? Barbecue at Home delivers finger-licking sauces and rubs, and much more, right to your door! *Not sure where to start? Try one of our gift packs.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "barbeecookies.com",
+    "company_name": "Barbee Cookies",
+    "website": "https://www.barbeecookies.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.barbeecookies.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.barbeecookies.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.barbeecookies.com/pages/locations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.barbeecookies.com/collections/cookie-packages/products/cookie-charcuterie-board-single-tray-serves-15-20-people",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Tulsa Cookie shop gourmet cookies baked fresh daily delivered to your door with 2-3 day nationwide shipping from Tulsa. Gluten-free & custom decorated cookies available.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "barbellaco.com",
+    "company_name": "BarBella Co.",
+    "website": "https://barbellaco.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@barbellaco.com",
+        "confidence": "high",
+        "source_url": "https://barbellaco.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@barbellaco.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://barbellaco.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://barbellaco.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://barbellaco.com/pages/contact-us-1",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Vegan, 10-free gel polish and dip powder in shades made for every skin tone. Cruelty-free, salon wear, $14.99. Free express shipping over $75.",
+    "source_urls": [
+      "https://barbellaco.com",
+      "https://barbellaco.com/pages/about",
+      "https://barbellaco.com/pages/contact-us-1"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "barbellapparel.com",
+    "company_name": "Barbell Apparel",
+    "website": "https://barbellapparel.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "team@barbellapparel.com",
+        "confidence": "high",
+        "source_url": "https://barbellapparel.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Pinterest Contact Us | team@barbellapparel.com \u00a9 2026 Barbell Apparel | All Rights Reserved."
+      }
+    ],
+    "role_emails": [
+      "team@barbellapparel.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://barbellapparel.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://barbellapparel.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "See why we're changing the world of activewear as we know it. Mens and womens clothing designed by professionals and active lifestyle lovers that know exactly what you need.",
+    "source_urls": [
+      "https://barbellapparel.com",
+      "https://barbellapparel.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "barbellbrigade.com",
+    "company_name": "Barbell Brigade",
+    "website": "https://www.barbellbrigade.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "business@barbellbrigade.com",
+        "confidence": "highest",
+        "source_url": "https://www.barbellbrigade.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2014-10-19",
+        "context_snippet": "m ORDERS Orders@BarbellBrigade.com BUSINESS Business@BarbellBrigade.com Facebook Twitter Home Med"
+      },
+      {
+        "address": "gym@barbellbrigade.com",
+        "confidence": "highest",
+        "source_url": "https://www.barbellbrigade.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2014-10-19",
+        "context_snippet": "About Gym Contact GYM Gym@BarbellBrigade.com ORDERS Orders@BarbellBrigade.com BUSINESS B"
+      },
+      {
+        "address": "orders@barbellbrigade.com",
+        "confidence": "highest",
+        "source_url": "https://www.barbellbrigade.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2014-10-19",
+        "context_snippet": "Contact GYM Gym@BarbellBrigade.com ORDERS Orders@BarbellBrigade.com BUSINESS Business@BarbellBrigade.com"
+      }
+    ],
+    "role_emails": [
+      "business@barbellbrigade.com",
+      "gym@barbellbrigade.com",
+      "orders@barbellbrigade.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.barbellbrigade.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.barbellbrigade.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2014-10-29"
+      },
+      {
+        "url": "https://www.barbellbrigade.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2014-10-19"
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Membership means being part of a community built on strength and discipline. Train hard, push limits, and bring friends along with our guest pass options.",
+    "source_urls": [
+      "https://www.barbellbrigade.com/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "barbellstandard.com",
+    "company_name": "Barbell Standard",
+    "website": "https://barbellstandard.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@barbellstandard.com",
+        "confidence": "highest",
+        "source_url": "https://barbellstandard.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "You can call us at (888) 979-0382 , send us an email to hello@barbellstandard.com , or just send us a message below: Contact form"
+      }
+    ],
+    "role_emails": [
+      "hello@barbellstandard.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://barbellstandard.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://barbellstandard.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://barbellstandard.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://barbellstandard.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Weight plates, barbells, specialty bars, racks, benches, and accessories designed to help you reach your fitness and strength training goals.",
+    "source_urls": [
+      "https://barbellstandard.com",
+      "https://barbellstandard.com/pages/about",
+      "https://barbellstandard.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "barber-strong.com",
+    "company_name": "Barber Strong",
+    "website": "https://barber-strong.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customerservice@barber-strong.com",
+        "confidence": "highest",
+        "source_url": "https://barber-strong.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ddress: 9701 NW 112 Ave, Ste 10, Miami, FL 33178 Email: customerservice@barber-strong.com Sign Up with email Sign"
+      },
+      {
+        "address": "info@barber-strong.com",
+        "confidence": "high",
+        "source_url": "https://barber-strong.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "8, USA Interested in becoming a distributor? Hit us up at info@barber-strong.com , and we\u2019ll get back to you within 24 hours . No matter ho"
+      }
+    ],
+    "role_emails": [
+      "customerservice@barber-strong.com",
+      "info@barber-strong.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://barber-strong.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://barber-strong.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://barber-strong.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://barber-strong.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Barber Strong combines these traits, delivering optimum comfort, mobility and style through the use of quality materials. BARBERING: AN ART. A SPORT. A CULTURE",
+    "source_urls": [
+      "https://barber-strong.com/contact",
+      "https://barber-strong.com/pages/about-us",
+      "https://barber-strong.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "barberitems.com",
+    "company_name": "Barber Items",
+    "website": "https://www.barberitems.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@barberitems.com",
+        "confidence": "high",
+        "source_url": "https://www.barberitems.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Barber Items 141 Lanza Ave Building 2 Garfield,NJ 07076 support@barberitems.com Opening hours Monday to Friday: 10am to 6pm"
+      }
+    ],
+    "role_emails": [
+      "support@barberitems.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.barberitems.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.barberitems.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.barberitems.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.barberitems.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Shop thousands of in-stock barber supplies and equipment for your barbershop at wholesale prices. Free shipping available in 1-2 business day!",
+    "source_urls": [
+      "https://www.barberitems.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "barbermuseum.org",
+    "company_name": "Barber Vintage Motorsports Museum",
+    "website": "https://store.barbermuseum.org",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://store.barbermuseum.org",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://store.barbermuseum.org/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://store.barbermuseum.org/collections/staff-picks",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://store.barbermuseum.org/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://store.barbermuseum.org/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "The World's Largest Motorcycle Museum is the Barber Vintage Motorsports Museum located in Birmingham, AL. Please come shop our store!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "barbernation.com",
+    "company_name": "BarberNation",
+    "website": "https://barbernation.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://barbernation.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://barbernation.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2022-05-20"
+      },
+      {
+        "url": "https://barbernation.com/press",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2022-05-20"
+      },
+      {
+        "url": "https://barbernation.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://barbernation.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://barbernation.com/pages/contact",
+        "action": "/contact#template--21463981391929__form-contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "We make the best barbers better with our premium professional products and our precision services.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "barberpub.com",
+    "company_name": "styling Professionals \u2013 barberpub",
+    "website": "https://barberpub.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "sales@barberpub.com",
+        "confidence": "high",
+        "source_url": "https://barberpub.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "options above, contact us via phone , text , or email at sales@barberpub.com . Call Us Phone Number: 323-597-1109 We\u2019re availab"
+      }
+    ],
+    "role_emails": [
+      "sales@barberpub.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://barberpub.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://barberpub.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://barberpub.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://barberpub.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://barberpub.com/pages/contact-us",
+        "action": "/contact#ContactForm-template--25782298018082__contact-form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Your Convenient One-stop Spot for Hairy-styling and Barber Shop Equipment",
+    "source_urls": [
+      "https://barberpub.com",
+      "https://barberpub.com/pages/contact-us",
+      "https://barberpub.com/policies/contact-information"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "barbersupplyandco.com",
+    "company_name": "Barber Supply & Co.",
+    "website": "https://www.barbersupplyandco.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "robots_disallowed",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "barbicide.com",
+    "company_name": "BARBICIDE\u00ae",
+    "website": "https://shop.barbicide.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://shop.barbicide.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.barbicide.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.barbicide.com/pages/contact#form",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://shop.barbicide.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://shop.barbicide.com/pages/contact#form",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "BARBICIDE\u00ae EPA-registered disinfectants and cleaners for salons, barbershops, and spas. Fast-acting, broad-spectrum formulas ensure hygienic safety.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "barbieandkenphotos.com",
+    "company_name": "Barbie and Ken Photos",
+    "website": "https://www.barbieandkenphotos.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "david@barbieandkenphotos.com",
+        "confidence": "highest",
+        "source_url": "https://www.barbieandkenphotos.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2019-09-22",
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "david@barbieandkenphotos.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.barbieandkenphotos.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.barbieandkenphotos.com/press",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2019-09-22"
+      },
+      {
+        "url": "https://www.barbieandkenphotos.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2019-09-22"
+      },
+      {
+        "url": "https://www.barbieandkenphotos.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.barbieandkenphotos.com/contact",
+        "action": "https://david-parise-wbwt.squarespace.com",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.barbieandkenphotos.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Explore vibrant Barbie and Ken doll prints by acclaimed artist David Parise on our Shopify store. Perfect for adding a touch of nostalgia and pop culture to your home decor, these high-quality art prints celebrate the iconic duo. Shop now for unique, playful pieces that delight any Barbie or Ken fan",
+    "source_urls": [
+      "https://www.barbieandkenphotos.com/press",
+      "https://www.barbieandkenphotos.com/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "barbsbq.com",
+    "company_name": "barbsbq",
+    "website": "https://www.barbsbq.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.barbsbq.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.barbsbq.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.barbsbq.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "every saturday 11 am until sold out &lt;3 &lt;3 &lt;3",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "barclayproducts.com",
+    "company_name": "Barclay Products Limited",
+    "website": "https://www.barclayproducts.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.barclayproducts.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.barclayproducts.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2019-04-13"
+      },
+      {
+        "url": "https://www.barclayproducts.com/pages/about-us-1",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.barclayproducts.com/pages/about-barclay-collections",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.barclayproducts.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Barclay Products is a Manufacturer of beautiful Kitchen Sinks, Bathroom Sinks, Converto Showers and Bathtubs. We offer designer products for affordable budgets. Quality Farmhouse apron front kitchen sinks, Pedestal Sinks, Vessel Sinks, undermount sinks and a wide variety of resin bathtubs, Cast iron",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "barcomade.com",
+    "company_name": "Barco",
+    "website": "https://barcomade.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://barcomade.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://barcomade.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://barcomade.com/collections/team-spirit-underscrub-tees",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://barcomade.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "This section doesn't currently include any content. Add content to this section using the sidebar.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bardcoffee.com",
+    "company_name": "Bard Coffee",
+    "website": "https://www.bardcoffee.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.bardcoffee.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bardcoffee.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bardcoffee.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.bardcoffee.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Bard Coffee",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bardsandcards.com",
+    "company_name": "Bards & Cards",
+    "website": "https://bardsandcards.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://bardsandcards.com",
+        "page_type": "home",
+        "source_type": "archived",
+        "snapshot_date": "2026-05-13"
+      },
+      {
+        "url": "https://bardsandcards.com/collections/party-people",
+        "page_type": "team",
+        "source_type": "archived",
+        "snapshot_date": "2026-05-03"
+      },
+      {
+        "url": "https://bardsandcards.com/collections/warhammer-40-000-kill-team-skirmish-combat-in-the-41st-millennium",
+        "page_type": "team",
+        "source_type": "archived",
+        "snapshot_date": "2026-05-03"
+      },
+      {
+        "url": "https://bardsandcards.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2026-05-03"
+      },
+      {
+        "url": "https://bardsandcards.com/products/operation-twin-drives-gundam-2v2-team-battle#judgeme_product_reviews",
+        "page_type": "team",
+        "source_type": "archived",
+        "snapshot_date": "2026-05-03"
+      },
+      {
+        "url": "https://bardsandcards.com/collections/vendors?q=WS%20Game%20Company",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2025-08-13"
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bardsandcards.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "From Catan to Commander, Warhammer to D&D \u2014 we\u2019ve got the games that keep San Diego rolling dice. Browse online or visit our welcoming Downtown shop.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 16
+  },
+  {
+    "company_domain": "barebonesbroth.com",
+    "company_name": "Bare Bones",
+    "website": "https://www.barebonesbroth.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@barebonesbroth.com",
+        "confidence": "highest",
+        "source_url": "https://www.barebonesbroth.com/pages/contact-page",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "FAQ's, or browse our store locator. Email Us hello@barebonesbroth.com FAQ Store Locator Check us out on social"
+      }
+    ],
+    "role_emails": [
+      "hello@barebonesbroth.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.barebonesbroth.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.barebonesbroth.com/pages/contact-page",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Bare Bones Broth provides top-quality instant bone broth and collagen-infused elevated drink mixes. Find delicious, nutrient-rich options to enhance your diet and well-being. Shop online!",
+    "source_urls": [
+      "https://www.barebonesbroth.com/pages/contact-page"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "barebonesliving.com",
+    "company_name": "Barebones",
+    "website": "https://barebonesliving.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "pr@barebonesliving.com",
+        "confidence": "highest",
+        "source_url": "https://barebonesliving.com/pages/press-inquiries",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "If you are a member of the media, please contact pr@barebonesliving.com . We will review your email and respond as soon as possible"
+      },
+      {
+        "address": "support@barebonesliving.com",
+        "confidence": "highest",
+        "source_url": "https://barebonesliving.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "all inquiries within 1 to 2 business days. Email Support: support@barebonesliving.com Customer Service Hours Monday \u2013 Friday, 9:00 AM \u2013 5"
+      }
+    ],
+    "role_emails": [
+      "pr@barebonesliving.com",
+      "support@barebonesliving.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://barebonesliving.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://barebonesliving.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://barebonesliving.com/blogs/recipes-cooking/easy-entertaining-with-barebones-espresso-cups",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://barebonesliving.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://barebonesliving.com/pages/press-inquiries",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://barebonesliving.com/contact",
+        "action": "/contact#contact-us-page",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://barebonesliving.com/pages/contact-us",
+        "action": "/contact#contact-us-page",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "From cast iron cookware and vintage-inspired lighting to grill accessories and gardening & foraging tools, Barebones everywhere essentials are crafted for a lifetime of use.",
+    "source_urls": [
+      "https://barebonesliving.com/contact",
+      "https://barebonesliving.com/pages/contact-us",
+      "https://barebonesliving.com/pages/press-inquiries"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "barebotanics.co",
+    "company_name": "Bare Botanics Skincare",
+    "website": "https://www.barebotanics.co",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@barebotanics.co",
+        "confidence": "high",
+        "source_url": "https://www.barebotanics.co/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "es to buy our lovely products, please send us your order at hello@barebotanics.co and we'll do our best to assist you on your order."
+      }
+    ],
+    "role_emails": [
+      "hello@barebotanics.co"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.barebotanics.co",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.barebotanics.co/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.barebotanics.co/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.barebotanics.co/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "All-natural body care that soothes and moisturize the skin. Handmade with love from Wisconsin, Bare Botanics offers best-selling body scrubs, body oils, and bath soaks. Trust us, your skin will thank you.",
+    "source_urls": [
+      "https://www.barebotanics.co/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  }
+]
