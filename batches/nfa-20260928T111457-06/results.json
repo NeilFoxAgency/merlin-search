@@ -1,0 +1,1679 @@
+[
+  {
+    "company_domain": "artzglass.com",
+    "company_name": "Zimmerman Art Glass",
+    "website": "https://artzglass.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://artzglass.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artzglass.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://artzglass.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://artzglass.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Zimmerman Art Glass",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "arubaaloe.com",
+    "company_name": "Royal Aruba Aloe USA",
+    "website": "https://arubaaloe.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customerservice@arubaaloe.com",
+        "confidence": "highest",
+        "source_url": "https://arubaaloe.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ontact details Phone: 1-800-952-7822 Email: customerservice@arubaaloe.com Vi"
+      }
+    ],
+    "role_emails": [
+      "customerservice@arubaaloe.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://arubaaloe.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://arubaaloe.com/pages/store-locations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://arubaaloe.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://arubaaloe.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://arubaaloe.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Aruba Aloe's heritage began in 1890, making it one of the oldest aloe companies. Grown and processed on our own fields, fresh into our skin and hair care.",
+    "source_urls": [
+      "https://arubaaloe.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "arunaproject.com",
+    "company_name": "Aruna Project",
+    "website": "https://arunaproject.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Business Development",
+        "title": null,
+        "email": "sales@arunaproject.com",
+        "source_url": "https://arunaproject.com/contact",
+        "association": "proximity"
+      },
+      {
+        "name": "General Email",
+        "title": null,
+        "email": "info@arunaproject.com",
+        "source_url": "https://arunaproject.com/contact",
+        "association": "proximity"
+      },
+      {
+        "name": "Order Support",
+        "title": null,
+        "email": "orders@arunaproject.com",
+        "source_url": "https://arunaproject.com/contact",
+        "association": "proximity"
+      }
+    ],
+    "people": [
+      {
+        "name": "Business Development",
+        "title": null,
+        "email": "sales@arunaproject.com",
+        "source_url": "https://arunaproject.com/contact",
+        "association": "proximity"
+      },
+      {
+        "name": "General Email",
+        "title": null,
+        "email": "info@arunaproject.com",
+        "source_url": "https://arunaproject.com/contact",
+        "association": "proximity"
+      },
+      {
+        "name": "Order Support",
+        "title": null,
+        "email": "orders@arunaproject.com",
+        "source_url": "https://arunaproject.com/contact",
+        "association": "proximity"
+      }
+    ],
+    "emails": [
+      {
+        "address": "info@arunaproject.com",
+        "confidence": "highest",
+        "source_url": "https://arunaproject.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Hours: Monday - Friday - 9 AM - 5 PM EST General Email: info@arunaproject.com Order Support : orders@arunaproject.com Wholesale, Busines"
+      },
+      {
+        "address": "orders@arunaproject.com",
+        "confidence": "highest",
+        "source_url": "https://arunaproject.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "EST General Email: info@arunaproject.com Order Support : orders@arunaproject.com Wholesale, Business Development, & Collaborations: sales@"
+      },
+      {
+        "address": "sales@arunaproject.com",
+        "confidence": "highest",
+        "source_url": "https://arunaproject.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ct.com Wholesale, Business Development, & Collaborations: sales@arunaproject.com Phone: (513) 436-0011"
+      }
+    ],
+    "role_emails": [
+      "info@arunaproject.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://arunaproject.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://arunaproject.com/meet-the-team",
+        "page_type": "team",
+        "source_type": "archived",
+        "snapshot_date": "2020-11-29"
+      },
+      {
+        "url": "https://arunaproject.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2017-05-24"
+      },
+      {
+        "url": "https://arunaproject.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://arunaproject.com/pages/about-aruna",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://arunaproject.com/pages/about-aruna#mission",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://arunaproject.com/pages/about-aruna#challenge",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://arunaproject.com/pages/about-aruna#approach",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://arunaproject.com/pages/about-aruna#values",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://arunaproject.com/pages/about-aruna#impact",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Shop premium survivor-made bags, backpacks, totes, crossbody bags & headbands designed for active women. High-quality athleisure accessories that support freedom and employment.",
+    "source_urls": [
+      "https://arunaproject.com",
+      "https://arunaproject.com/contact",
+      "https://arunaproject.com/pages/about-aruna",
+      "https://arunaproject.com/pages/about-aruna#mission",
+      "https://arunaproject.com/pages/about-aruna#challenge",
+      "https://arunaproject.com/pages/about-aruna#approach",
+      "https://arunaproject.com/pages/about-aruna#values",
+      "https://arunaproject.com/pages/about-aruna#impact"
+    ],
+    "reason": null,
+    "pages_fetched": 15
+  },
+  {
+    "company_domain": "arunsboca.com",
+    "company_name": "Arun's Indian Kitchen / Taco Masala - Boca Raton FL",
+    "website": "https://arunsboca.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://arunsboca.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://arunsboca.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://arunsboca.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Best Indian Restaurant in Boca Raton FL 33431. Serving Boca Raton, Delray Beach, Deerfield Beach & Boynton Beach. Authentic Indian food - Naan, Tikka Masala, Biryani & more. Order online!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "arvanna.com",
+    "company_name": "Arvanna",
+    "website": "https://arvanna.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@arvanna.com",
+        "confidence": "highest",
+        "source_url": "https://arvanna.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "orks & what you can expect. E-mail support@arvanna.com Chat with us Start live chat Below call us (8"
+      }
+    ],
+    "role_emails": [
+      "support@arvanna.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://arvanna.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://arvanna.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://arvanna.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Arvanna is a leading CBD manufacturer with an FDA-Registered Facility and Good Manufacturing Practice (GMP) and ISO 9001 Certifications.",
+    "source_urls": [
+      "https://arvanna.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "arzopa.com",
+    "company_name": "Arzopa",
+    "website": "https://www.arzopa.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "agentrequest@arzopa.com",
+        "confidence": "highest",
+        "source_url": "https://www.arzopa.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "quiries: marketing@arzopa.com Wholesale and Distributors: agentrequest@arzopa.com Location Room 1602, Xingtong Building,"
+      },
+      {
+        "address": "marketing@arzopa.com",
+        "confidence": "highest",
+        "source_url": "https://www.arzopa.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ustomer Servicer: support@arzopa.com Marketing Inquiries: marketing@arzopa.com Wholesale and Distributors: agentrequest@arzopa.com"
+      },
+      {
+        "address": "support@arzopa.com",
+        "confidence": "highest",
+        "source_url": "https://www.arzopa.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "r any topics you want to share with us. Customer Servicer: support@arzopa.com Marketing Inquiries: marketing@arzopa.com Wholesale and Di"
+      },
+      {
+        "address": "u003eagentrequest@arzopa.com",
+        "confidence": "high",
+        "source_url": "https://www.arzopa.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "u003emarketing@arzopa.com",
+        "confidence": "high",
+        "source_url": "https://www.arzopa.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "u003esupport@arzopa.com",
+        "confidence": "high",
+        "source_url": "https://www.arzopa.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "agentrequest@arzopa.com",
+      "marketing@arzopa.com",
+      "support@arzopa.com",
+      "u003eagentrequest@arzopa.com",
+      "u003emarketing@arzopa.com",
+      "u003esupport@arzopa.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.arzopa.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.arzopa.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.arzopa.com/pages/about-arzopa",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.arzopa.com/pages/contact-us",
+        "action": "/contact#ContactForm-template--22124123160739__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Redefine productivity with industry-leading Z3FC, featuring a lightning-fast 180Hz refresh rate, 2.5K QHD resolution, and plug&play setup. Engineered for pro gamers and remote elites. Explore our premium digital frames for home decor. 2-year warranty & free shipping.",
+    "source_urls": [
+      "https://www.arzopa.com",
+      "https://www.arzopa.com/pages/contact-us",
+      "https://www.arzopa.com/pages/about-arzopa"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "asadarestaurant.com",
+    "company_name": "AsadaRestaurant",
+    "website": "https://asadarestaurant.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://asadarestaurant.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://asadarestaurant.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://asadarestaurant.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://asadarestaurant.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://asadarestaurant.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "AsadaRestaurant",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "asanaclimbing.com",
+    "company_name": "Asana Climbing",
+    "website": "https://asanaclimbing.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "mail@asanaclimbing.com",
+        "confidence": "high",
+        "source_url": "https://asanaclimbing.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "mail@asanaclimbing.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://asanaclimbing.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://asanaclimbing.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2016-11-10"
+      },
+      {
+        "url": "https://asanaclimbing.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://asanaclimbing.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://asanaclimbing.com",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://asanaclimbing.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "The premier source for climbing gym padding and outdoor bouldering padding.",
+    "source_urls": [
+      "https://asanaclimbing.com",
+      "https://asanaclimbing.com/pages/contact",
+      "https://asanaclimbing.com/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "asatcamo.com",
+    "company_name": "ASAT Camo",
+    "website": "https://www.asatcamo.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "vanish@asatcamo.com",
+        "confidence": "highest",
+        "source_url": "https://www.asatcamo.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Main Address 1206 Elaine DR Adaconda, MT 59711 Email: vanish@asatcamo.com Returns Send To 3352 E 2000 S. St. George UT 84790 Ema"
+      }
+    ],
+    "role_emails": [
+      "vanish@asatcamo.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.asatcamo.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.asatcamo.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.asatcamo.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.asatcamo.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Camo patterns that will work regardless of the season or the terrain. Welcome to ASAT Camo for all products showing off our camouflage. Shop our selection.",
+    "source_urls": [
+      "https://www.asatcamo.com",
+      "https://www.asatcamo.com/pages/about",
+      "https://www.asatcamo.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "asb.beer",
+    "company_name": "Alvarado Street Brewery",
+    "website": "https://asb.beer",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "asburyseminary.edu",
+    "company_name": "Asbury Seminary Campus Store",
+    "website": "https://store.asburyseminary.edu",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://store.asburyseminary.edu",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://store.asburyseminary.edu/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "The official website of the Asbury Theological Seminary Campus Store. Purchase Asbury Seminary branded merchandise. Estes Chapel Francis Asbury John Wesley",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "ascaso-usa.com",
+    "company_name": "AscasoUSA",
+    "website": "https://ascaso-usa.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@ascaso-usa.com",
+        "confidence": "highest",
+        "source_url": "https://ascaso-usa.com/collections/steam-valves-wands-and-parts",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "and we'd be happy to special order any items! Email us at info@ascaso-usa.com or visit our contact page ."
+      }
+    ],
+    "role_emails": [
+      "info@ascaso-usa.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://ascaso-usa.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ascaso-usa.com/collections/home-espresso-machines",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ascaso-usa.com/collections/commercial-espresso-machines",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ascaso-usa.com/collections/fiorenzato-f4-evo-espresso-grinders",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ascaso-usa.com/collections/ascaso-espresso-machine-grinder-maintenance",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ascaso-usa.com/collections/home-espresso-parts",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ascaso-usa.com/collections/steam-valves-wands-and-parts",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ascaso-usa.com/collections/commercial-espresso-machine-parts",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ascaso-usa.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ascaso-usa.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://ascaso-usa.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Since 1962, Ascaso has handcrafted specialty espresso machines for home and commercial customers.",
+    "source_urls": [
+      "https://ascaso-usa.com/collections/steam-valves-wands-and-parts",
+      "https://ascaso-usa.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 18
+  },
+  {
+    "company_domain": "ascendacoustics.com",
+    "company_name": "Ascend Acoustics",
+    "website": "https://ascendacoustics.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "sales@ascendacoustics.com",
+        "confidence": "high",
+        "source_url": "https://ascendacoustics.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ", INC. 1062 Calle Negocio Suite G San Clemente, CA 92673 sales@ascendacoustics.com Tel 949/366-1455 Fax 949/420-2418 Office Hours: Mon-Fri 10:"
+      }
+    ],
+    "role_emails": [
+      "sales@ascendacoustics.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://ascendacoustics.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ascendacoustics.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ascendacoustics.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://ascendacoustics.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Ascend Acoustics- Award-winning audiophile loudspeakers and subwoofers for home theater and music, factory-direct. Rythmik subwoofers now available.",
+    "source_urls": [
+      "https://ascendacoustics.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "ascendgetlifted.com",
+    "company_name": "ASCEND",
+    "website": "https://ascendgetlifted.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@ascendgetlifted.com",
+        "confidence": "highest",
+        "source_url": "https://ascendgetlifted.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Email us hello@ascendgetlifted.com Your Name"
+      }
+    ],
+    "role_emails": [
+      "hello@ascendgetlifted.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://ascendgetlifted.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ascendgetlifted.com/pages/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ascendgetlifted.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ascendgetlifted.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://ascendgetlifted.com/pages/contact",
+        "action": "/contact#contact_form_template--18363875786964__1632180071f18cee62",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Discover handmade suncatchers, ethically sourced crystals, psychic readings, healing sessions, and aura photography in Salem, MA. Explore symbolic jewelry for manifesting intentions, and embrace spiritual wellness with our curated products and services designed to elevate your soul.",
+    "source_urls": [
+      "https://ascendgetlifted.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "ascension.coffee",
+    "company_name": "Ascension",
+    "website": "https://ascension.coffee",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://ascension.coffee",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ascension.coffee/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ascension.coffee/pages/locations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ascension.coffee/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Roasting and brewing specialty coffee in a stress-free and inviting atmosphere where community can thrive.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "ascensionpress.com",
+    "company_name": "Ascension",
+    "website": "https://ascensionpress.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@ascensionpress.com",
+        "confidence": "highest",
+        "source_url": "https://ascensionpress.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "(800) 376-0520 support@ascensionpress.com Facebook Instagram Yo"
+      }
+    ],
+    "role_emails": [
+      "support@ascensionpress.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://ascensionpress.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ascensionpress.com/press",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2004-05-04"
+      },
+      {
+        "url": "https://ascensionpress.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2016-05-08"
+      },
+      {
+        "url": "https://ascensionpress.com/collections/ascension-bibles",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ascensionpress.com/collections/ascension-catechisms",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ascensionpress.com/collections/bible-catechism-kids-products",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ascensionpress.com/collections/bibles-and-catechisms?sort_by=manual&filter.v.m.variant.language=Spanish",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ascensionpress.com/collections/bibles-and-catechisms",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ascensionpress.com/collections/bible-resources",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ascensionpress.com/collections/catechism-resources",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://ascensionpress.com/contact",
+        "action": "/inquiries",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Authentic Catholic Faith Formation videos and programs, Bible study, Confirmation & sacrament preparation from Ascension (Press). With insights from Fr. Mike Schmitz, Jeff Cavins, and others for Catholic parishes and individuals.",
+    "source_urls": [
+      "https://ascensionpress.com",
+      "https://ascensionpress.com/collections/ascension-bibles",
+      "https://ascensionpress.com/collections/ascension-catechisms",
+      "https://ascensionpress.com/collections/bible-catechism-kids-products",
+      "https://ascensionpress.com/collections/bibles-and-catechisms?sort_by=manual&filter.v.m.variant.language=Spanish",
+      "https://ascensionpress.com/collections/bibles-and-catechisms",
+      "https://ascensionpress.com/collections/bible-resources",
+      "https://ascensionpress.com/collections/catechism-resources"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 16
+  },
+  {
+    "company_domain": "ascentflyfishing.com",
+    "company_name": "Ascent Fly Fishing",
+    "website": "https://ascentflyfishing.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "sales@ascentflyfishing.com",
+        "confidence": "highest",
+        "source_url": "https://ascentflyfishing.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "sales@ascentflyfishing.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://ascentflyfishing.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ascentflyfishing.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ascentflyfishing.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ascentflyfishing.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ascentflyfishing.com/pages/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ascentflyfishing.com/collections/wading-staffs",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ascentflyfishing.com/blogs/news/truth-about-flying-ants-do-all-ants-have-wings",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ascentflyfishing.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ascentflyfishing.com/pages/store-locations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://ascentflyfishing.com/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://ascentflyfishing.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Shop Cortland fly line, Lamson reels, TFO &amp; Douglas rods, Korkers boots, Paramount waders, fly vests &amp; women\u2019s waders at Ascent Fly Fishing.",
+    "source_urls": [
+      "https://ascentflyfishing.com",
+      "https://ascentflyfishing.com/about-us",
+      "https://ascentflyfishing.com/contact",
+      "https://ascentflyfishing.com/pages/about-us",
+      "https://ascentflyfishing.com/pages/our-team",
+      "https://ascentflyfishing.com/collections/wading-staffs",
+      "https://ascentflyfishing.com/blogs/news/truth-about-flying-ants-do-all-ants-have-wings",
+      "https://ascentflyfishing.com/pages/contact",
+      "https://ascentflyfishing.com/pages/store-locations"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 15
+  },
+  {
+    "company_domain": "ascentoutdoors.com",
+    "company_name": "Ascent Outdoors",
+    "website": "https://ascentoutdoors.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customerservice@ascentoutdoors.com",
+        "confidence": "highest",
+        "source_url": "https://ascentoutdoors.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "soon as we can! Online orders customerservice@ascentoutdoors.com 206-257-7688 206-420-1005 *Please note we have"
+      },
+      {
+        "address": "sales@ascentoutdoors.com",
+        "confidence": "high",
+        "source_url": "https://ascentoutdoors.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "customerservice@ascentoutdoors.com",
+      "sales@ascentoutdoors.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://ascentoutdoors.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ascentoutdoors.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ascentoutdoors.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ascentoutdoors.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ascentoutdoors.com/pages/meet-our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ascentoutdoors.com/blogs/news/were-moving-visit-us-at-our-new-location-starting-jan-10",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://ascentoutdoors.com/pages/about-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://ascentoutdoors.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Ski, climb, hike, camp, and summit with expert-curated, guide-tested outdoor gear from top brands. Shop online or visit us in Seattle for friendly advice!",
+    "source_urls": [
+      "https://ascentoutdoors.com/pages/about-us",
+      "https://ascentoutdoors.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "ascentprotein.com",
+    "company_name": "Ascent Protein",
+    "website": "https://www.ascentprotein.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customerservice@ascentprotein.com",
+        "confidence": "high",
+        "source_url": "https://www.ascentprotein.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "customerservice@ascentprotein.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.ascentprotein.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ascentprotein.com/pages/about-ascent-protein",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Ascent offers quality whey protein, clean creatine, clear whey isolate, iced coffee plus protein, hydration and energy, and micellar casein products to improve your athletic performance.",
+    "source_urls": [
+      "https://www.ascentprotein.com",
+      "https://www.ascentprotein.com/pages/about-ascent-protein"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "aschbuilding.com",
+    "company_name": "Asch Building",
+    "website": "https://aschbuilding.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://aschbuilding.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aschbuilding.com/blogs/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "The calmest place in the world",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "ascotandhart.com",
+    "company_name": "ascot + hart",
+    "website": "https://www.ascotandhart.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@ascotandhart.com",
+        "confidence": "high",
+        "source_url": "https://www.ascotandhart.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "shipping@ascotandhart.com",
+        "confidence": "high",
+        "source_url": "https://www.ascotandhart.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@ascotandhart.com",
+      "shipping@ascotandhart.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.ascotandhart.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ascotandhart.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ascotandhart.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ascotandhart.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ascotandhart.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ascotandhart.com/products/support-live-music-trucker-hat",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ascotandhart.com/pages/contact-us-1",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.ascotandhart.com/pages/contact-us-1",
+        "action": "/contact#form-AQ3lWZlRuRjFTcFlZd__form_wmt9nr",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Shop Ascot + Hart for women's clothing, custom trucker hats, accessories, and unique gifts. Curated by Jen + Laura with CA roots located in TX. Free shipping on qualifying orders.",
+    "source_urls": [
+      "https://www.ascotandhart.com",
+      "https://www.ascotandhart.com/team",
+      "https://www.ascotandhart.com/about",
+      "https://www.ascotandhart.com/about-us",
+      "https://www.ascotandhart.com/press",
+      "https://www.ascotandhart.com/products/support-live-music-trucker-hat",
+      "https://www.ascotandhart.com/pages/contact-us-1"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "ascrono.com",
+    "company_name": "Ascrono",
+    "website": "https://ascrono.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@ascrono.com",
+        "confidence": "highest",
+        "source_url": "https://ascrono.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Contact us Email us at support@ascrono.com or contact us via our Facebook chat Contact fo"
+      }
+    ],
+    "role_emails": [
+      "support@ascrono.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://ascrono.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ascrono.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ascrono.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://ascrono.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Unique products, designed to improve your workflow & simplify your life! Designed & developed in the USA. Free shipping on all orders!",
+    "source_urls": [
+      "https://ascrono.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "ascscientific.com",
+    "company_name": "ASC Scientific",
+    "website": "https://www.ascscientific.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "sales@ascscientific.com",
+        "confidence": "highest",
+        "source_url": "https://www.ascscientific.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Say Hello! 10 Dean Knauss Dr. Narragansett, RI 02882 sales@ascscientific.com Toll Free: 1-800-875-4272 (US only) Tel. (401) 792-3537 (I"
+      }
+    ],
+    "role_emails": [
+      "sales@ascscientific.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.ascscientific.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ascscientific.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ascscientific.com/pages/about-asc-scientific",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ascscientific.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ascscientific.com/collections/abney-levels-hand-levels-jacobs-staff",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ascscientific.com/collections/tripods-monopods-jacobs-staffs",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ascscientific.com/collections/rock-core-drill-press-systems",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ascscientific.com/products/portable-hydraulic-press",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2025-12-10"
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Discover premium Earth Sciences research tools at ASC Scientific. From rock hammers to lab equipment, we offer a comprehensive range of geoscience supplies. Trusted by researchers worldwide for 40+ years. Expert support available. Shop now for fast, global shipping on quality earth science equipment",
+    "source_urls": [
+      "https://www.ascscientific.com",
+      "https://www.ascscientific.com/contact",
+      "https://www.ascscientific.com/pages/about-asc-scientific",
+      "https://www.ascscientific.com/pages/contact",
+      "https://www.ascscientific.com/collections/abney-levels-hand-levels-jacobs-staff",
+      "https://www.ascscientific.com/collections/tripods-monopods-jacobs-staffs",
+      "https://www.ascscientific.com/collections/rock-core-drill-press-systems",
+      "https://www.ascscientific.com/products/portable-hydraulic-press"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 15
+  },
+  {
+    "company_domain": "asfinefoods.com",
+    "company_name": "Battimelli's A&S Italian Fine Foods",
+    "website": "https://www.asfinefoods.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.asfinefoods.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.asfinefoods.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2021-05-09"
+      },
+      {
+        "url": "https://www.asfinefoods.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.asfinefoods.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Over 25 Years of Fine Italian Foods",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "ash.com",
+    "company_name": "Ash",
+    "website": "https://us.ash.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  }
+]
