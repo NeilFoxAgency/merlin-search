@@ -1,0 +1,1481 @@
+[
+  {
+    "company_domain": "bammysdc.com",
+    "company_name": "Bammys Modern Caribbean",
+    "website": "https://bammysdc.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@bammysdc.com",
+        "confidence": "highest",
+        "source_url": "https://bammysdc.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2022-03-27",
+        "context_snippet": "Washington DC 20003 info@bammysdc.com 202-599-4400 Hours Monday - Closed Tues"
+      }
+    ],
+    "role_emails": [
+      "info@bammysdc.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bammysdc.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bammysdc.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2022-03-27"
+      },
+      {
+        "url": "https://bammysdc.com/press",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2021-12-13"
+      },
+      {
+        "url": "https://bammysdc.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bammysdc.com/pages/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bammysdc.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bammysdc.com",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://bammysdc.com/pages/press",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://bammysdc.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Bammys Modern Caribbean",
+    "source_urls": [
+      "https://bammysdc.com/about",
+      "https://bammysdc.com/press"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "bamshifts.com",
+    "company_name": "BAM SHIFTS",
+    "website": "https://bamshifts.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@bamshifts.com",
+        "confidence": "high",
+        "source_url": "https://bamshifts.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@bamshifts.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bamshifts.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bamshifts.com/pages/about-us-1",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bamshifts.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bamshifts.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "BAM SHIFTS creates high-quality handcrafted graphic shift knobs and custom car accessories, all made in-house with precision. Upgrade your interior with unique designs, premium materials, and bold style. Shop BAM SHIFTS and elevate your driving experience with parts built for enthusiasts.",
+    "source_urls": [
+      "https://bamshifts.com",
+      "https://bamshifts.com/pages/about-us-1",
+      "https://bamshifts.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "banan.co",
+    "company_name": "Banan",
+    "website": "https://banan.co",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "aloha@banan.co",
+        "confidence": "high",
+        "source_url": "https://banan.co/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "For all other inquiries contact us at aloha@banan.co Learn"
+      },
+      {
+        "address": "press@banan.co",
+        "confidence": "high",
+        "source_url": "https://banan.co/pages/media",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "For press and influencer inquires, please email press@banan.co. Pres"
+      }
+    ],
+    "role_emails": [
+      "aloha@banan.co",
+      "press@banan.co"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://banan.co",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://banan.co/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://banan.co/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://banan.co/pages/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://banan.co/pages/contact-us",
+        "action": "https://forms.getshogun.com/api/forms/contact/submit",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Hawaiian grown bananas and other island grown ingredients into dairy-free frozen goodness. Now selling our famous Macadamia Nut Honey Butter in all 50 States!",
+    "source_urls": [
+      "https://banan.co/pages/contact-us",
+      "https://banan.co/pages/media"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "banana-ink.com",
+    "company_name": "BANANA ink",
+    "website": "https://banana-ink.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "team@banana-ink.com",
+        "confidence": "high",
+        "source_url": "https://banana-ink.com/pages/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "If you have any questions feel free to contact us! team@banana-ink.com _______ WHY LOCAL? For every $1 spent at a locally"
+      }
+    ],
+    "role_emails": [
+      "team@banana-ink.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://banana-ink.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://banana-ink.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2017-04-23"
+      },
+      {
+        "url": "https://banana-ink.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Our brand is Idaho-inspired and all about keeping it local! If you love the Gem state you will love our Idaho shirts, Idaho hats, Idaho hoodies, and all the rest of our 208 goods. Also featuring local Boise artists and designs in our BANANA ink shop!",
+    "source_urls": [
+      "https://banana-ink.com/pages/about"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "bananaboat.com",
+    "company_name": "Banana Boat US",
+    "website": "https://www.bananaboat.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.bananaboat.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bananaboat.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Shop the Banana Boat site for a variety of sun care products, including sunscreen for kids and sun protection for the whole family.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "bananabros.com",
+    "company_name": "Banana Bros.",
+    "website": "https://bananabros.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customerservice@bananabros.com",
+        "confidence": "high",
+        "source_url": "https://bananabros.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Need Assistance? Contact our customer support at customerservice@bananabros.com NORMAL HOURS OF OPERATION: M-F, 8:00AM - 5:00PM PST"
+      }
+    ],
+    "role_emails": [
+      "customerservice@bananabros.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bananabros.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bananabros.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bananabros.com/blogs/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bananabros.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Meet OTTO the world's first Intelligent Grinder. The perfect grind every time. OTTO is the first and only automatic milling machine. Whether your material is sticky, moist, dry or full of stems, it grinds perfectly every time at the touch of a button.",
+    "source_urls": [
+      "https://bananabros.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "bananagrams.com",
+    "company_name": "Bananagrams",
+    "website": "https://bananagrams.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://bananagrams.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bananagrams.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bananagrams.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bananagrams.com/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bananagrams.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bananagrams.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bananagrams.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bananagrams.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bananagrams.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bananagrams.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Embarquez pour une aventure palpitante avec Bananagrams Classique, le jeu de lettres original qui donne la banane\u00a0!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "bananaloca.com",
+    "company_name": "Banana Loca",
+    "website": "https://bananaloca.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@bananaloca.com",
+        "confidence": "highest",
+        "source_url": "https://bananaloca.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "u may have. You can complete the form below or email us at info@bananaloca.com . We look forward to hearing from you! :) Name"
+      }
+    ],
+    "role_emails": [
+      "info@bananaloca.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bananaloca.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bananaloca.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bananaloca.com/pages/contact-us",
+        "action": "/contact#contact-form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Make snack time fun with Banana Loca\u00ae, the hottest new kitchen gadget! It straightens a banana, cores while still in the peel & fills with yummy food pairings.",
+    "source_urls": [
+      "https://bananaloca.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "bananaphone.io",
+    "company_name": "Banana Phone",
+    "website": "https://bananaphone.io",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "yellow@bananaphone.io",
+        "confidence": "high",
+        "source_url": "https://bananaphone.io/pages/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "the process. Contact Us You can reach us by e\u2011mail at yellow@bananaphone.io Privacy Policy Refund Polic"
+      }
+    ],
+    "role_emails": [
+      "yellow@bananaphone.io"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bananaphone.io",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bananaphone.io/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Banana Phone Cell Phone Handset brings fun to your phone calls while supporting Gorillas through 1% for the Planet. Use Siri or Google Assistant to make calls or use it as a Bluetooth speaker. It makes a great gift for white elephant and work exchanges. Banana Phone is a great funny gift idea.",
+    "source_urls": [
+      "https://bananaphone.io/pages/about"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "bananapuddingfest.org",
+    "company_name": "www.bananapuddingfest.org",
+    "website": "https://www.bananapuddingfest.org",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": "Celebrate the ultimate southern comfort food, banana pudding with the National Banana Pudding Festival 1st weekend in October at the Hickman County Ag Pavilion in Centerville, Tennessee.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "bananaroad.com",
+    "company_name": "BananaRoad",
+    "website": "https://bananaroad.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://bananaroad.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bananaroad.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bananaroad.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bananaroad.com/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bananaroad.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bananaroad.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bananaroad.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bananaroad.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bananaroad.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "bananas.com",
+    "company_name": "Bananas at Large\u00ae Musical Instruments & Pro Audio",
+    "website": "https://www.bananas.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@bananas.com",
+        "confidence": "highest",
+        "source_url": "https://www.bananas.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Skip to content (888) 900-1959 info@bananas.com End of Summer Sale. Shop Now Fa"
+      }
+    ],
+    "role_emails": [
+      "info@bananas.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.bananas.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bananas.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bananas.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bananas.com/collections/tuners-volume-and-expression-pedals",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bananas.com/collections/guitar-compressors-and-eq",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bananas.com/collections/software-plugins?page=1&rb_vendor=IK%20Multimedia",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bananas.com/products/ampeg-opto-comp-analog-optical-compressor-pedal-1",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bananas.com/products/mxr-m87-bass-compressor",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bananas.com/products/nektar-nx-p-universal-expression-pedal-w-switchable-polarity-and-range-control",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bananas.com/products/casio-dn-se10-dimension-shifter-dynamic-wireless-expression-strap-controller-for-guitar",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "The most complete & unique musical instruments anywhere. New & Used Guitars, Bass, Drums, PA, DJ, Digital Pianos & Keyboards, Microphones, Pro Audio and more!",
+    "source_urls": [
+      "https://www.bananas.com",
+      "https://www.bananas.com/about-us",
+      "https://www.bananas.com/pages/contact-us",
+      "https://www.bananas.com/collections/tuners-volume-and-expression-pedals",
+      "https://www.bananas.com/collections/guitar-compressors-and-eq",
+      "https://www.bananas.com/collections/software-plugins?page=1&rb_vendor=IK%20Multimedia",
+      "https://www.bananas.com/products/ampeg-opto-comp-analog-optical-compressor-pedal-1",
+      "https://www.bananas.com/products/mxr-m87-bass-compressor",
+      "https://www.bananas.com/products/nektar-nx-p-universal-expression-pedal-w-switchable-polarity-and-range-control",
+      "https://www.bananas.com/products/casio-dn-se10-dimension-shifter-dynamic-wireless-expression-strap-controller-for-guitar"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 17
+  },
+  {
+    "company_domain": "bananawhiteteeth.com",
+    "company_name": "Banana White",
+    "website": "https://bananawhiteteeth.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@bananawhiteteeth.com",
+        "confidence": "high",
+        "source_url": "https://bananawhiteteeth.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "everyday! Contact Us Support@bananawhiteteeth.com Join Us For Special Offers! Subscribe"
+      }
+    ],
+    "role_emails": [
+      "support@bananawhiteteeth.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bananawhiteteeth.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Banana White",
+    "source_urls": [
+      "https://bananawhiteteeth.com"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "bananhot.com",
+    "company_name": "Bananhot LLC",
+    "website": "https://bananhot.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://bananhot.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bananhot.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bananhot.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bananhot.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Swimwear from Bananhot Bikinis. A swimwear line that\u2019s all about confident, natural, sun-kissed lifestyle. Made From High Quality Fabric. Free shipping on Orders Over $250. Enjoy summer with BANANHOT and feel special!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "banburycrosskids.com",
+    "company_name": "banburycrosskids",
+    "website": "https://banburycrosskids.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://banburycrosskids.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://banburycrosskids.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://banburycrosskids.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Banbury Cross Banbury Cross New Orleans For over 20 years, our family owned children's clothing store has offered the greatest selection of high quality items. We carry clothing, shoes, toys and accessories for girls and boys ranging newborn to size 12.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bandainamcoent.com",
+    "company_name": "Bandai Namco Store",
+    "website": "https://store.bandainamcoent.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://store.bandainamcoent.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Shop the official Bandai Namco Entertainment America store for games, collectibles, apparel, and merchandise.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "bandanaswholesale.com",
+    "company_name": "Bandanas Wholesale",
+    "website": "https://www.bandanaswholesale.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@bandanaswholesale.com",
+        "confidence": "high",
+        "source_url": "https://www.bandanaswholesale.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@bandanaswholesale.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.bandanaswholesale.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bandanaswholesale.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bandanaswholesale.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.bandanaswholesale.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "We carry Bandanas for sale in Cotton and Polyester, in Plain Solid Colors, Paisley, Blank, and with designs. Sold by dozen. Bandanas Wholesale offers bulk pricing on a wide selection of headwear like a Red Bandana Headband, Neck Gaiters, Baseball Caps, Socks, Dog Bandanas, Durags, hats. Orders ship ",
+    "source_urls": [
+      "https://www.bandanaswholesale.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bandandvow.com",
+    "company_name": "Band & Vow",
+    "website": "https://bandandvow.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@bandandvow.com",
+        "confidence": "high",
+        "source_url": "https://bandandvow.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@bandandvow.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bandandvow.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bandandvow.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bandandvow.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Men's wedding bands made from Tungsten, Titanium, Steel, Ceramic, Gold Plated and Gold. Unique inlays and materials such as dinosaur bone, lava rock, exotic woods, black diamonds, blue diamonds, opal and much more. Stylish and Affordable. Made to last. Lifetime Warranty and Lifetime Resizing. 60 Day",
+    "source_urls": [
+      "https://bandandvow.com",
+      "https://bandandvow.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "bandbcollectibles.com",
+    "company_name": "bandbcollectibles.com",
+    "website": "https://bandbcollectibles.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "sales@bandbcollectibles.com",
+        "confidence": "high",
+        "source_url": "https://bandbcollectibles.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "sales@bandbcollectibles.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bandbcollectibles.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bandbcollectibles.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Shop B & B Collectibles for the latest in backpacks and school gear, kid's jewelry, and toys. Plus hard to find collectibles, and gifts for the entire family.",
+    "source_urls": [
+      "https://bandbcollectibles.com",
+      "https://bandbcollectibles.com/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "bandccamera.com",
+    "company_name": "B&C Camera",
+    "website": "https://store.bandccamera.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://store.bandccamera.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://store.bandccamera.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://store.bandccamera.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://store.bandccamera.com/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://store.bandccamera.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://store.bandccamera.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://store.bandccamera.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://store.bandccamera.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://store.bandccamera.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://store.bandccamera.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "B&C Camera is a camera store - Shop Photo, Video, Cameras, 35mm Camera Equipment, Photography, Lenses, Videography, Audio, Authorized Dealer Canon, Sony, Nikon, Leica, Fujifilm, Panasonic Lumix, Tamron, Sigma, GoPro, Canon Cinema, Polaroid, Black Magic, Hasselblad, Olympus, Aputure, Zeiss, Godox, Pr",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "bandconline.com",
+    "company_name": "Beauty and Company Online",
+    "website": "https://bandconline.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://bandconline.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bandconline.com/collections/pressing-combs",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bandconline.com/products/xpression-3x-52-inch",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bandconline.com/collections/xpression",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bandconline.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bandconline.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bandconline.com",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://bandconline.com/collections/pressing-combs",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://bandconline.com/products/xpression-3x-52-inch",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://bandconline.com/collections/xpression",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://bandconline.com/pages/about-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://bandconline.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Beauty & Company is an upscale beauty supply store that specializes in wigs, make-up, jewelry, hair care products and more for women, men and children.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 14
+  },
+  {
+    "company_domain": "banded.com",
+    "company_name": "Banded",
+    "website": "https://banded.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@banded.com",
+        "confidence": "highest",
+        "source_url": "https://banded.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Connect 1-800-333-5119 Mon \u2013 Fri, 8 am \u2013 5 pmCST info@banded.com"
+      }
+    ],
+    "role_emails": [
+      "info@banded.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://banded.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://banded.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Banded is a leader in top-performing hunting gear. Featuring highly-aesthetic designs with the latest in cutting-edge fabric technologies. BANDED \u2014\u00a0Just Go!",
+    "source_urls": [
+      "https://banded.com",
+      "https://banded.com/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "banded2gether.com",
+    "company_name": "Banded",
+    "website": "https://banded2gether.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@banded2gether.com",
+        "confidence": "highest",
+        "source_url": "https://banded2gether.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2013-12-07",
+        "context_snippet": "tation Road, Suite 5 Franklin, TN 37064 (615) 964-6010 | info@banded2gether.com Learn why Banded\u2122 is better"
+      },
+      {
+        "address": "customerservice@banded2gether.com",
+        "confidence": "high",
+        "source_url": "https://banded2gether.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "media@banded2gether.com",
+        "confidence": "high",
+        "source_url": "https://banded2gether.com/pages/banded-press",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "HERE Have a media request for BANDED? Please contact media@banded2gether.com for more information."
+      }
+    ],
+    "role_emails": [
+      "customerservice@banded2gether.com",
+      "info@banded2gether.com",
+      "media@banded2gether.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://banded2gether.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://banded2gether.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2013-12-07"
+      },
+      {
+        "url": "https://banded2gether.com/pages/about-banded-headbands-and-hair-accessories",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://banded2gether.com/pages/banded-press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://banded2gether.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Shop BANDED \u2013 Premium, feel-good hair accessories that give back. Every purchase provides 3 meals to kids in need!",
+    "source_urls": [
+      "https://banded2gether.com",
+      "https://banded2gether.com/about",
+      "https://banded2gether.com/pages/banded-press",
+      "https://banded2gether.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "bandedbottom.com",
+    "company_name": "bandedbottom",
+    "website": "https://bandedbottom.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "%ef%bb%bfinfo@bandedbottom.com",
+        "confidence": "highest",
+        "source_url": "https://bandedbottom.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "info@bandedbottom.com",
+        "confidence": "high",
+        "source_url": "https://bandedbottom.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Contact Us Customer Service Email: \ufeffinfo@bandedbottom.com Phone: 954-318-6000 Monday-Friday 8:00-4:15 EST."
+      }
+    ],
+    "role_emails": [
+      "%ef%bb%bfinfo@bandedbottom.com",
+      "info@bandedbottom.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bandedbottom.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bandedbottom.com/pages/company-info",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bandedbottom.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "BandedBottom.com is the largest manufacturer and retailer of traditional Banded Bottom shirts for men. Big and Tall sizes in a wide variety of styles. We have the largest selection of short and long sleeve styles. A third generation family owned business for over 60 years.",
+    "source_urls": [
+      "https://bandedbottom.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bandelettes.com",
+    "company_name": "Bandelettes",
+    "website": "https://www.bandelettes.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@bandelettes.com",
+        "confidence": "high",
+        "source_url": "https://www.bandelettes.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2014-09-24",
+        "context_snippet": "0340 Staten Island, NY 10306 Phone: (888) 811-6430 info@bandelettes.com Like us News September 2014"
+      }
+    ],
+    "role_emails": [
+      "info@bandelettes.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.bandelettes.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bandelettes.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bandelettes.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2014-09-24"
+      },
+      {
+        "url": "https://www.bandelettes.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bandelettes.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.bandelettes.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "You've found the sexy thigh bands that prevent chafing in total comfort. See the original Bandelettes\u00ae anti-chafing products here. Thousands of happy customers!",
+    "source_urls": [
+      "https://www.bandelettes.com/contact",
+      "https://www.bandelettes.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  }
+]
