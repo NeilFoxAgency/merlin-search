@@ -1,0 +1,1735 @@
+[
+  {
+    "company_domain": "americaandbeyond.com",
+    "company_name": "America & Beyond",
+    "website": "https://www.americaandbeyond.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Corporate Gifting",
+        "title": null,
+        "email": "info@americaandbeyond.com",
+        "source_url": "https://www.americaandbeyond.com"
+      }
+    ],
+    "people": [
+      {
+        "name": "Corporate Gifting",
+        "title": null,
+        "email": "info@americaandbeyond.com",
+        "source_url": "https://www.americaandbeyond.com"
+      }
+    ],
+    "emails": [
+      {
+        "address": "info@americaandbeyond.com",
+        "confidence": "highest",
+        "source_url": "https://www.americaandbeyond.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "support@americaandbeyond.com",
+        "confidence": "highest",
+        "source_url": "https://www.americaandbeyond.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Us : (+1)855-ANB-LIVE Email : support@americaandbeyond.com Top Collections"
+      }
+    ],
+    "role_emails": [
+      "support@americaandbeyond.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.americaandbeyond.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.americaandbeyond.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.americaandbeyond.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.americaandbeyond.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.americaandbeyond.com/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.americaandbeyond.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "America & Beyond, an artisanal clothing label, offers handcrafted bohemian fashion made for the creative, free-spirited woman. Stay relaxed and effortlessly gorgeous in our clothing that\u2019s handmade with love by local artisans - Clothing, bags, totes, dresses, jumpsuits, kimonos, tops, skirts and bey",
+    "source_urls": [
+      "https://www.americaandbeyond.com",
+      "https://www.americaandbeyond.com/contact",
+      "https://www.americaandbeyond.com/pages/about-us",
+      "https://www.americaandbeyond.com/pages/contact-us"
+    ],
+    "reason": null,
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "americabestappliances.com",
+    "company_name": "America Best Appliances",
+    "website": "https://www.americabestappliances.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@americabestappliances.com",
+        "confidence": "high",
+        "source_url": "https://www.americabestappliances.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Contact Us Contact Us Email: support@americabestappliances.com Tel : 314-778-3363 Mon-Friday : 11am-3:00pm CST Sat & Sun:"
+      }
+    ],
+    "role_emails": [
+      "support@americabestappliances.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.americabestappliances.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.americabestappliances.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.americabestappliances.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.americabestappliances.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.americabestappliances.com/pages/contact-us",
+        "action": "/contact#contact-page-contact-template-0",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Our online store provides the best home appliances, full kitchen sets, gas ranges, etc. Free shipping nationwide. Explore now!",
+    "source_urls": [
+      "https://www.americabestappliances.com",
+      "https://www.americabestappliances.com/contact",
+      "https://www.americabestappliances.com/pages/about-us",
+      "https://www.americabestappliances.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "american-giant.com",
+    "company_name": "American Giant",
+    "website": "https://www.american-giant.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "contact us.",
+        "title": null,
+        "email": "service@american-giant.com",
+        "source_url": "https://www.american-giant.com/contact"
+      }
+    ],
+    "people": [
+      {
+        "name": "contact us.",
+        "title": null,
+        "email": "service@american-giant.com",
+        "source_url": "https://www.american-giant.com/contact"
+      }
+    ],
+    "emails": [
+      {
+        "address": "service@american-giant.com",
+        "confidence": "highest",
+        "source_url": "https://www.american-giant.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ays. Email service@american-giant.com Ser"
+      },
+      {
+        "address": "press@american-giant.com",
+        "confidence": "high",
+        "source_url": "https://www.american-giant.com/pages/press-pr",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "press@american-giant.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.american-giant.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.american-giant.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.american-giant.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.american-giant.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.american-giant.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.american-giant.com/pages/retail-locations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.american-giant.com/pages/press-pr",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.american-giant.com/pages/retail-locations-old-page",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.american-giant.com/pages/join-our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Discover American made essentials, activewear and accessories for men and women. Shop durable hoodies, tees, pants, leggings & more from American Giant.",
+    "source_urls": [
+      "https://www.american-giant.com/contact",
+      "https://www.american-giant.com/pages/press-pr"
+    ],
+    "reason": null,
+    "pages_fetched": 14
+  },
+  {
+    "company_domain": "american-hospitalsupply.com",
+    "company_name": "American Hospital Supply",
+    "website": "https://american-hospitalsupply.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@american-hospitalsupply.com",
+        "confidence": "highest",
+        "source_url": "https://american-hospitalsupply.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Phone (888) 621-5011 Email info@american-hospitalsupply.com Shop Search Terms"
+      },
+      {
+        "address": "donations@american-hospitalsupply.com",
+        "confidence": "high",
+        "source_url": "https://american-hospitalsupply.com/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "organization in need of our products, please reach out to donations@american-hospitalsupply.com . We will pick one deserving donation quarterly."
+      }
+    ],
+    "role_emails": [
+      "donations@american-hospitalsupply.com",
+      "info@american-hospitalsupply.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://american-hospitalsupply.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://american-hospitalsupply.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://american-hospitalsupply.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://american-hospitalsupply.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://american-hospitalsupply.com/collections/diabetes-management",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://american-hospitalsupply.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://american-hospitalsupply.com/collections/diabetes-management?_pos=1&_psq=diabe&_ss=e&_v=1.0",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.american-hospitalsupply.com/products/ahs-knee-high-compression-socks",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://american-hospitalsupply.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "American Hospital Supply Helps Medical Professionals, Businesses, and Households Order Medical & Hospital Supplies Online. Shop for Medical Supplies Today.",
+    "source_urls": [
+      "https://american-hospitalsupply.com",
+      "https://american-hospitalsupply.com/about",
+      "https://american-hospitalsupply.com/about-us",
+      "https://american-hospitalsupply.com/contact",
+      "https://american-hospitalsupply.com/collections/diabetes-management",
+      "https://american-hospitalsupply.com/pages/contact-us",
+      "https://american-hospitalsupply.com/collections/diabetes-management?_pos=1&_psq=diabe&_ss=e&_v=1.0",
+      "https://www.american-hospitalsupply.com/products/ahs-knee-high-compression-socks"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "american-perfumer.com",
+    "company_name": "AMERICAN PERFUMER\u00ae",
+    "website": "https://american-perfumer.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@american-perfumer.com",
+        "confidence": "high",
+        "source_url": "https://american-perfumer.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "licy Disclaimer Contact Us CONTACT For questions email: info@american-perfumer.com FOLLOW US ON SOCIAL Facebook Instag"
+      }
+    ],
+    "role_emails": [
+      "info@american-perfumer.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://american-perfumer.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://american-perfumer.com/collections/providence-perfume-company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://american-perfumer.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://american-perfumer.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://american-perfumer.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "AMERICAN PERFUMER is the first and only shop in the United States exclusively dedicated to American Perfume and the people who make it.",
+    "source_urls": [
+      "https://american-perfumer.com",
+      "https://american-perfumer.com/collections/providence-perfume-company",
+      "https://american-perfumer.com/pages/contact",
+      "https://american-perfumer.com/policies/contact-information"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "americanaeration.com",
+    "company_name": "American Aeration",
+    "website": "https://americanaeration.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://americanaeration.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://americanaeration.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://americanaeration.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://americanaeration.com/contact/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://americanaeration.com/pages/Contact-Us.html",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://americanaeration.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://americanaeration.com/pages/Contact-Us.html",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "American Aeration provides top rated, name brand aerators and fountains for all sizes of ponds and lakes.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "americanaftermarketsmetalworks.com",
+    "company_name": "American Aftermarkets Metalworks",
+    "website": "https://americanaftermarketsmetalworks.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "sales@americanaftermarketsmetalworks.com",
+        "confidence": "high",
+        "source_url": "https://americanaftermarketsmetalworks.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "sales@americanaftermarketsmetalworks.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://americanaftermarketsmetalworks.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://americanaftermarketsmetalworks.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://americanaftermarketsmetalworks.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://americanaftermarketsmetalworks.com/products/steel-smash-burger-press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://americanaftermarketsmetalworks.com/products/smash-burger-press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://americanaftermarketsmetalworks.com/products/custom-steak-bacon-meat-smasher-press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://americanaftermarketsmetalworks.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "American Aftermarket Metalworks specializes in precision metal cutting, welding, custom fabrication, and powder coating. We create high-quality metal art pieces, ranging from metal wall decor to larger projects like steel benches, metal compasses, metal business signs, and more. Contact us for custo",
+    "source_urls": [
+      "https://americanaftermarketsmetalworks.com",
+      "https://americanaftermarketsmetalworks.com/pages/contact-us",
+      "https://americanaftermarketsmetalworks.com/pages/about-us",
+      "https://americanaftermarketsmetalworks.com/products/steel-smash-burger-press",
+      "https://americanaftermarketsmetalworks.com/products/smash-burger-press",
+      "https://americanaftermarketsmetalworks.com/products/custom-steak-bacon-meat-smasher-press",
+      "https://americanaftermarketsmetalworks.com/policies/contact-information"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 15
+  },
+  {
+    "company_domain": "americanalpineclub.org",
+    "company_name": "American Alpine Club",
+    "website": "https://americanalpineclub.org",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@americanalpineclub.org",
+        "confidence": "high",
+        "source_url": "https://americanalpineclub.org",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@americanalpineclub.org"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://americanalpineclub.org",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://americanalpineclub.org/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://americanalpineclub.org/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2016-03-25"
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://americanalpineclub.org/contact",
+        "action": "https://americanalpineclub.org/contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "The American Alpine Club is a 501(c)(3) charitable organization. Our vision is a united community of competent climbers and healthy climbing landscapes.",
+    "source_urls": [
+      "https://americanalpineclub.org",
+      "https://americanalpineclub.org/about"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "americanancestors.org",
+    "company_name": "shop.americanancestors.org",
+    "website": "https://shop.americanancestors.org",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://shop.americanancestors.org",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "The Bookstore at American Ancestors is your place to buy the best in genealogical scholarship, publications, and more.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "americananglerusa.com",
+    "company_name": "American Angler",
+    "website": "https://americananglerusa.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://americananglerusa.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://americananglerusa.com/pages/about-american-angler",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://americananglerusa.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://americananglerusa.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "American Angler specializes in the manufacture and sale of quality fillet knives for fishing enthusiasts and professionals alike.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "americanapipedream.com",
+    "company_name": "Americana Pipedream Apparel",
+    "website": "https://www.americanapipedream.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Americana Pipedream",
+        "title": "Owner",
+        "email": "help@americanapipedream.com",
+        "source_url": "https://www.americanapipedream.com/pages/about-us",
+        "association": "proximity"
+      }
+    ],
+    "people": [
+      {
+        "name": "Americana Pipedream",
+        "title": "Owner",
+        "email": "help@americanapipedream.com",
+        "source_url": "https://www.americanapipedream.com/pages/about-us",
+        "association": "proximity"
+      }
+    ],
+    "emails": [
+      {
+        "address": "help@americanapipedream.com",
+        "confidence": "high",
+        "source_url": "https://www.americanapipedream.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "reply. If we hold your shipment you will be emailed by our help@americanapipedream.com or another @americanapipedream.com email! APO Addresses -"
+      }
+    ],
+    "role_emails": [
+      "help@americanapipedream.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.americanapipedream.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.americanapipedream.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.americanapipedream.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Shop authentic military surplus, rare camouflage, tactical gear, and outdoor apparel. Free US shipping on $150+. Over 20,000 verified reviews.",
+    "source_urls": [
+      "https://www.americanapipedream.com/pages/about-us",
+      "https://www.americanapipedream.com/policies/contact-information"
+    ],
+    "reason": null,
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "americanartdecor.com",
+    "company_name": "AmericanArtDecor.com",
+    "website": "https://americanartdecor.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@americanartdecor.com",
+        "confidence": "highest",
+        "source_url": "https://americanartdecor.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ": support@americanartdecor.com Subscribe to our emails S"
+      }
+    ],
+    "role_emails": [
+      "support@americanartdecor.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://americanartdecor.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://americanartdecor.com/pages/about-american-art-decor",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://americanartdecor.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://americanartdecor.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "We are a home decor company specializing in wall art and home decor accessories for the modern home. We offer an assortment of wall art, lighting, mirrors, storage, and organizational items as well as household decor accessories that add style and flair to any home.",
+    "source_urls": [
+      "https://americanartdecor.com",
+      "https://americanartdecor.com/pages/about-american-art-decor",
+      "https://americanartdecor.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "americanathleticshoe.com",
+    "company_name": "American Athletic",
+    "website": "https://americanathleticshoe.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@americanathleticshoe.com",
+        "confidence": "highest",
+        "source_url": "https://americanathleticshoe.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Search Contact 413-967-3511 info@americanathleticshoe.com Facebook Twitter Instag"
+      },
+      {
+        "address": "michael@americanathleticshoe.com",
+        "confidence": "highest",
+        "source_url": "https://americanathleticshoe.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "arch Contact Us CONTACT michael@americanathleticshoe.com 413-967-3511 15 South St. Ware Massachusetts 01082"
+      }
+    ],
+    "role_emails": [
+      "info@americanathleticshoe.com",
+      "michael@americanathleticshoe.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://americanathleticshoe.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://americanathleticshoe.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://americanathleticshoe.com/pages/about-us2",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://americanathleticshoe.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://americanathleticshoe.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Find any ice skate or roller skate for sale that matches your skill level and style. Learn more about our top-quality skates. Free 3 Day Shipping & Online Skate Sharpening Services Available",
+    "source_urls": [
+      "https://americanathleticshoe.com",
+      "https://americanathleticshoe.com/about-us",
+      "https://americanathleticshoe.com/pages/about-us2",
+      "https://americanathleticshoe.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "americanauthority.com",
+    "company_name": "American Authority",
+    "website": "https://www.americanauthority.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@americanauthority.com",
+        "confidence": "highest",
+        "source_url": "https://www.americanauthority.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "INFO POLICIES CONTACT Need help? support@americanauthority.com Follow Us Facebook Instagram"
+      }
+    ],
+    "role_emails": [
+      "support@americanauthority.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.americanauthority.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.americanauthority.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.americanauthority.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.americanauthority.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "American Authority - American Muscle Car Parts Authority",
+    "source_urls": [
+      "https://www.americanauthority.com",
+      "https://www.americanauthority.com/pages/contact",
+      "https://www.americanauthority.com/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "americanautomotive.com",
+    "company_name": "American Automotive",
+    "website": "https://americanautomotive.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.americanautomotive.com",
+        "page_type": "home",
+        "source_type": "archived",
+        "snapshot_date": "2025-10-17"
+      },
+      {
+        "url": "https://www.americanautomotive.com/pages/about-american-automotive",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2025-10-17"
+      },
+      {
+        "url": "https://www.americanautomotive.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2025-10-17"
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.americanautomotive.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "American Automotive manufactures the industry's best selling lift and leveling kits for Chevrolet, GMC, Toyota, Dodge, Jeep, Ford, Nissan, Cadillac and Mazda vehicles. All products are designed and tested for quality, performance and road safety to provide you the ultimate lift. All products are mad",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "americanautowire.com",
+    "company_name": "American Autowire",
+    "website": "https://americanautowire.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Jim Cardona",
+        "title": null,
+        "email": "jim.cardona@americanautowire.com",
+        "source_url": "https://americanautowire.com/about-us"
+      }
+    ],
+    "people": [
+      {
+        "name": "Jim Cardona",
+        "title": null,
+        "email": "jim.cardona@americanautowire.com",
+        "source_url": "https://americanautowire.com/about-us"
+      }
+    ],
+    "emails": [
+      {
+        "address": "jim.cardona@americanautowire.com",
+        "confidence": "highest",
+        "source_url": "https://americanautowire.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "marcd@americanautowire.com",
+        "confidence": "high",
+        "source_url": "https://americanautowire.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "sales@americanautowire.com",
+        "confidence": "high",
+        "source_url": "https://americanautowire.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "marcd@americanautowire.com",
+      "sales@americanautowire.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://americanautowire.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://americanautowire.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://americanautowire.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://americanautowire.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://americanautowire.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "American Autowire is the premier wiring harness manufacturer. We manufacture wiring harnesses for any automotive project! GM OEM restoration, restomod and modified restoration as well as custom Street Rods!",
+    "source_urls": [
+      "https://americanautowire.com",
+      "https://americanautowire.com/about-us",
+      "https://americanautowire.com/pages/about-us",
+      "https://americanautowire.com/pages/contact"
+    ],
+    "reason": null,
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "americanbaitworks.com",
+    "company_name": "American Baitworks Co.",
+    "website": "https://americanbaitworks.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@americanbaitworks.com",
+        "confidence": "high",
+        "source_url": "https://americanbaitworks.com/pages/contact-us-1",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Privacy Policy and Terms of Service apply. Email info@americanbaitworks.com Phone 844-466-5738 Follow us Facebook Insta"
+      }
+    ],
+    "role_emails": [
+      "info@americanbaitworks.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://americanbaitworks.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://americanbaitworks.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://americanbaitworks.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://americanbaitworks.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://americanbaitworks.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://americanbaitworks.com/pages/contact-us-1",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://americanbaitworks.com/pages/about-the-company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://americanbaitworks.com/pages/contact-us-1",
+        "action": "/contact#ContactForm-template--26425941459231__contact-form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "American Baitworks Co. is an innovative American-based fishing tackle company with a world-wide presence and a strong portfolio of well-known brands: NetBait\u00ae, Halo Fishing Rods\u00ae, Snag Proof\u00ae, Scum Frog\u00ae, Freedom Tackle\u00ae & BaitFuel\u00ae",
+    "source_urls": [
+      "https://americanbaitworks.com/pages/contact-us-1"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "americanband.com",
+    "company_name": "American Band",
+    "website": "https://americanband.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": ":customerservice@americanband.com",
+        "confidence": "highest",
+        "source_url": "https://americanband.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "customerservice@americanband.com",
+        "confidence": "high",
+        "source_url": "https://americanband.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Phone 800-421-7479 Email customerservice@americanband.com Address 256 Baker St Rimersburg, PA 16248"
+      },
+      {
+        "address": "shopify_orders@americanband.com",
+        "confidence": "high",
+        "source_url": "https://americanband.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      ":customerservice@americanband.com",
+      "customerservice@americanband.com",
+      "shopify_orders@americanband.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://americanband.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://americanband.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "American Band serves the marching arts community with reliable essentials and elevated design solutions, from in-stock performance gear to custom, high-end products crafted with intention. With deep roots in the community and a forward-looking approach, we support programs of every size.",
+    "source_urls": [
+      "https://americanband.com",
+      "https://americanband.com/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "americanbarbell.com",
+    "company_name": "American Barbell",
+    "website": "https://americanbarbell.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@americanbarbell.com",
+        "confidence": "highest",
+        "source_url": "https://americanbarbell.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ail to request an appointment. 888-473-0108 Contact Support support@americanbarbell.com Get Directions"
+      }
+    ],
+    "role_emails": [
+      "support@americanbarbell.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://americanbarbell.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://americanbarbell.com/blogs/bar-talk/why-core-strength-is-about-more-than-six-pack-abs",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://americanbarbell.com/blogs/bar-talk/why-core-strength-is-about-more-than-six-pack-abs",
+        "action": "/blogs/bar-talk/why-core-strength-is-about-more-than-six-pack-abs/comments#comment_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "American Barbell: Premium barbells, weights & racks for home gyms, colleges, military, & major chains. Elevate your strength training today.",
+    "source_urls": [
+      "https://americanbarbell.com"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "americanbarbershop.com",
+    "company_name": "American Barbershop",
+    "website": "https://www.americanbarbershop.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@americanbarbershop.com",
+        "confidence": "high",
+        "source_url": "https://www.americanbarbershop.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "st of old-school techniques with a modern touch. info@americanbarbershop.com (0123) 456789 Book Now Book"
+      }
+    ],
+    "role_emails": [
+      "info@americanbarbershop.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.americanbarbershop.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.americanbarbershop.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.americanbarbershop.com",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Welcome to our barbershop, where tradition meets style. We specialize in clean and classic cuts, along with indulgent hot towel straight razor shaves. With locations in OC, Santa Ana, Echo Park, Los Angeles, and Old Town Orange, we bring our timeless barbering expertise to gentlemen across the area.",
+    "source_urls": [
+      "https://www.americanbarbershop.com",
+      "https://www.americanbarbershop.com/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "americanbassusa.com",
+    "company_name": "American Bass Audio",
+    "website": "https://www.americanbassusa.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@americanbassusa.com",
+        "confidence": "highest",
+        "source_url": "https://www.americanbassusa.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "PATRIOT SERIES 440-409-7932 hello@americanbassusa.com Back Menu"
+      },
+      {
+        "address": "info@americanbassusa.com",
+        "confidence": "highest",
+        "source_url": "https://www.americanbassusa.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2023-04-10",
+        "context_snippet": "Phone: 440-248-5858, 800-798-9311 Email: info@americanbassusa.com Currency USD GBP - British Pou"
+      },
+      {
+        "address": "orders@americanbassusa.com",
+        "confidence": "highest",
+        "source_url": "https://www.americanbassusa.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2023-04-10",
+        "context_snippet": "s via email to: info@americanbassusa.com Orders e-mail: orders@americanbassusa.com Write Us Jot us a note and we\u2019ll get"
+      }
+    ],
+    "role_emails": [
+      "hello@americanbassusa.com",
+      "info@americanbassusa.com",
+      "orders@americanbassusa.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.americanbassusa.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.americanbassusa.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.americanbassusa.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2023-04-10"
+      },
+      {
+        "url": "https://www.americanbassusa.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2023-04-10"
+      },
+      {
+        "url": "https://www.americanbassusa.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.americanbassusa.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://americanbassusa.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.americanbassusa.com/contact",
+        "action": "https://www.americanbassusa.com/contact/index/post/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.americanbassusa.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://americanbassusa.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Shop American Bass USA for high-performance car audio supplies. Explore our powerful subwoofers, amplifiers, speakers, and installation accessories today.",
+    "source_urls": [
+      "https://www.americanbassusa.com",
+      "https://www.americanbassusa.com/about",
+      "https://www.americanbassusa.com/about-us",
+      "https://www.americanbassusa.com/contact",
+      "https://www.americanbassusa.com/pages/contact",
+      "https://www.americanbassusa.com/pages/about-us",
+      "https://americanbassusa.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "americanbathfactory.com",
+    "company_name": "americanbathfactory.com",
+    "website": "https://americanbathfactory.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "robots_disallowed",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "americanbearcub.com",
+    "company_name": "American Bear Cub\u00ae",
+    "website": "https://www.americanbearcub.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": "Royal Reels Casino - Premier online pokies Australia real money with fast PayID and generous bonuses.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "americanbenchcraft.com",
+    "company_name": "American Bench Craft",
+    "website": "https://americanbenchcraft.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@americanbenchcraft.com",
+        "confidence": "high",
+        "source_url": "https://americanbenchcraft.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Get in touch Get in touch info@americanbenchcraft.com Currency"
+      }
+    ],
+    "role_emails": [
+      "info@americanbenchcraft.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://americanbenchcraft.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://americanbenchcraft.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://americanbenchcraft.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://americanbenchcraft.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://americanbenchcraft.com/pages/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://americanbenchcraft.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://americanbenchcraft.com/contact",
+        "action": "/contact#contact-template--25995989713216__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://americanbenchcraft.com/pages/contact",
+        "action": "/contact#contact-template--25995989713216__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Leather goods designed for the everyday grind. Proudly made in the USA.",
+    "source_urls": [
+      "https://americanbenchcraft.com",
+      "https://americanbenchcraft.com/about-us",
+      "https://americanbenchcraft.com/press",
+      "https://americanbenchcraft.com/contact",
+      "https://americanbenchcraft.com/pages/our-team",
+      "https://americanbenchcraft.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "americanblanketcompany.com",
+    "company_name": "American Blanket Company",
+    "website": "https://www.americanblanketcompany.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.americanblanketcompany.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.americanblanketcompany.com/account/login",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.americanblanketcompany.com/cart",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.americanblanketcompany.com/collections/blankets",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.americanblanketcompany.com/collections/softest-fleece-blankets-luster-loft",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.americanblanketcompany.com/collections/peaceful-touch",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.americanblanketcompany.com/collections/biggest-oversized-custom-blankets",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.americanblanketcompany.com/collections/dorm-blankets",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.americanblanketcompany.com/collections/baby-kids-fleece-blankets",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.americanblanketcompany.com/collections/pet",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Softest Fleece Blankets and bedding sewn in the USA with the world's best fabrics. Specializing in Cotton Blankets, Oversized Blankets, Sheets, Comforters & Custom Blankets. Personalize your next gift for the ones you love. Christmas Gifts, Mother's Day Gifts, Holiday Gifts, Baby & Pet.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 18
+  }
+]
