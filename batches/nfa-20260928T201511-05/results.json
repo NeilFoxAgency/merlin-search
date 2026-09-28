@@ -1,0 +1,1684 @@
+[
+  {
+    "company_domain": "balticborn.com",
+    "company_name": "Baltic Born Clothing",
+    "website": "https://balticborn.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@balticborn.com",
+        "confidence": "high",
+        "source_url": "https://balticborn.com/pages/contact-form",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "hello@balticborn.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://balticborn.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://balticborn.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://balticborn.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://balticborn.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://balticborn.com/pages/contact-form",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://balticborn.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Discover dresses that are perfect for any occasion, and styles that work for every stage of life. Embrace bump-friendly options, wedding picks, and seasonal collections all at Baltic Born.",
+    "source_urls": [
+      "https://balticborn.com/pages/contact-form"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "balticessentials.com",
+    "company_name": "Baltic Essentials",
+    "website": "https://www.balticessentials.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "admin@balticessentials.com",
+        "confidence": "highest",
+        "source_url": "https://www.balticessentials.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "For Help Call 469-545-3215 admin@BalticEssentials.com Bundles Baby Toddler Teething Necklace"
+      }
+    ],
+    "role_emails": [
+      "admin@balticessentials.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.balticessentials.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.balticessentials.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.balticessentials.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.balticessentials.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.balticessentials.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.balticessentials.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.balticessentials.com/pages/about-us-1",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.balticessentials.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.balticessentials.com/collections/infant-emotional-support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.balticessentials.com/pages/contact-us",
+        "action": "/contact#form-contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Explore Baltic Essential's baltic amber teething necklaces for babies. Shop now for therapeutic jewelry for teens and adults too.",
+    "source_urls": [
+      "https://www.balticessentials.com",
+      "https://www.balticessentials.com/team",
+      "https://www.balticessentials.com/our-team",
+      "https://www.balticessentials.com/about",
+      "https://www.balticessentials.com/about-us",
+      "https://www.balticessentials.com/contact",
+      "https://www.balticessentials.com/pages/about-us-1",
+      "https://www.balticessentials.com/pages/contact-us",
+      "https://www.balticessentials.com/collections/infant-emotional-support"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "balticnetworks.com",
+    "company_name": "Baltic Networks",
+    "website": "https://www.balticnetworks.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Email Baltic Networks",
+        "title": null,
+        "email": "hello@balticnetworks.com",
+        "source_url": "https://www.balticnetworks.com"
+      }
+    ],
+    "people": [
+      {
+        "name": "Email Baltic Networks",
+        "title": null,
+        "email": "hello@balticnetworks.com",
+        "source_url": "https://www.balticnetworks.com"
+      }
+    ],
+    "emails": [
+      {
+        "address": "hello@balticnetworks.com",
+        "confidence": "highest",
+        "source_url": "https://www.balticnetworks.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.balticnetworks.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.balticnetworks.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.balticnetworks.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.balticnetworks.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.balticnetworks.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.balticnetworks.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.balticnetworks.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.balticnetworks.com/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.balticnetworks.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Buy MikroTik and Ubiquiti networking gear including routers, switches, wireless, and IoT. In stock with fast US shipping and expert support.",
+    "source_urls": [
+      "https://www.balticnetworks.com",
+      "https://www.balticnetworks.com/team",
+      "https://www.balticnetworks.com/about",
+      "https://www.balticnetworks.com/about-us",
+      "https://www.balticnetworks.com/media",
+      "https://www.balticnetworks.com/contact",
+      "https://www.balticnetworks.com/pages/contact"
+    ],
+    "reason": null,
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "baltimoregolfing.com",
+    "company_name": "Baltimore Golfing",
+    "website": "https://store.baltimoregolfing.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://store.baltimoregolfing.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "BaltimoreGolfing.com, Baltimore County Maryland, Maryland, Diamond Ridge, Woodlands, Fox Hollow, Greystone, Rocky Point.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "baltini.com",
+    "company_name": "Baltini",
+    "website": "https://www.baltini.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.baltini.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.baltini.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.baltini.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.baltini.com/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.baltini.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.baltini.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.baltini.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.baltini.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.baltini.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "BALTINI\u2019s Festive Finest is here! Shop winter outfits, gifting picks, and NYE looks up to 60% off, plus past-season favorites up to 80% off. Don't miss it!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "baltousa.com",
+    "company_name": "Balto\u00ae USA",
+    "website": "https://baltousa.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "challenge_page",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "bamasks.com",
+    "company_name": "B.A. Masks",
+    "website": "https://bamasks.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://bamasks.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bamasks.com/media",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2019-08-25"
+      },
+      {
+        "url": "https://bamasks.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2019-08-25"
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Custom, alternative and styles that the pros wear available for most helmets.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "bambibaby.com",
+    "company_name": "Bambi Baby",
+    "website": "https://www.bambibaby.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "cs@bambibaby.com",
+        "confidence": "highest",
+        "source_url": "https://www.bambibaby.com/blogs/learning-center/how-to-use-the-uppababy-vista-everything-you-need-to-know-about-the-uppababy-vista",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ons regarding the UPPAbaby Vista V3 , you can reach us at cs@bambibaby.com or chat with us on our website. We would love to hear from"
+      },
+      {
+        "address": "u003ecs@bambibaby.com",
+        "confidence": "high",
+        "source_url": "https://www.bambibaby.com/blogs/learning-center/how-to-use-the-uppababy-vista-everything-you-need-to-know-about-the-uppababy-vista",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "cs@bambibaby.com",
+      "u003ecs@bambibaby.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.bambibaby.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bambibaby.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bambibaby.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bambibaby.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bambibaby.com/blogs/learning-center/how-to-use-the-uppababy-vista-everything-you-need-to-know-about-the-uppababy-vista",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bambibaby.com/pages/locations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bambibaby.com/pages/locations/baby-store-nyc",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bambibaby.com/pages/locations/baby-store-long-island-ny",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bambibaby.com/pages/locations/baby-store-miami-fl",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bambibaby.com/pages/locations/baby-store-paramus-nj",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Bambi Baby is a trustworthy online store selling baby furniture, nursery sets, strollers, car seats, cribs, bedding, and more from a variety of brands.",
+    "source_urls": [
+      "https://www.bambibaby.com",
+      "https://www.bambibaby.com/team",
+      "https://www.bambibaby.com/our-team",
+      "https://www.bambibaby.com/about-us",
+      "https://www.bambibaby.com/blogs/learning-center/how-to-use-the-uppababy-vista-everything-you-need-to-know-about-the-uppababy-vista",
+      "https://www.bambibaby.com/pages/locations",
+      "https://www.bambibaby.com/pages/locations/baby-store-nyc",
+      "https://www.bambibaby.com/pages/locations/baby-store-long-island-ny",
+      "https://www.bambibaby.com/pages/locations/baby-store-miami-fl",
+      "https://www.bambibaby.com/pages/locations/baby-store-paramus-nj"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 15
+  },
+  {
+    "company_domain": "bambinellis.com",
+    "company_name": "Bambinelli's Italian Restaurant",
+    "website": "https://bambinellis.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://bambinellis.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bambinellis.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bambinellis.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bambinellis.com/hours-and-location/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bambinellis.com/about-us/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bambinellis.com/contact/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bambinellis.com",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://bambinellis.com/about-us",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://bambinellis.com/contact",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://bambinellis.com/hours-and-location/",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://bambinellis.com/about-us/",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://bambinellis.com/contact/",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Family-owned Italian restaurant serving Atlanta since 1980. Enjoy dine-in or order pasta, pizza & more for takeout or delivery.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "bambinodiapers.com",
+    "company_name": "Bambino Diapers",
+    "website": "https://bambinodiapers.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@bambinodiapers.com",
+        "confidence": "highest",
+        "source_url": "https://bambinodiapers.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "rs? Send us a message using the form below, or email us at support@bambinodiapers.com . We reply within 2 business days. If your question is ab"
+      }
+    ],
+    "role_emails": [
+      "support@bambinodiapers.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bambinodiapers.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bambinodiapers.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2012-06-21"
+      },
+      {
+        "url": "https://bambinodiapers.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bambinodiapers.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bambinodiapers.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bambinodiapers.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Your number one stop for ABDL adult diapers.",
+    "source_urls": [
+      "https://bambinodiapers.com/pages/contact-us",
+      "https://bambinodiapers.com/pages/about-us",
+      "https://bambinodiapers.com/policies/contact-information"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "bambonatureusa.com",
+    "company_name": "Bambo Nature USA",
+    "website": "https://bambonatureusa.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@bambonatureusa.com",
+        "confidence": "highest",
+        "source_url": "https://bambonatureusa.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "nquiries \u00b7 General / Customer Service - info@bambonatureusa.com \u00b7 Social / Ambassador \u2013 Apply here \u00b7 Distributor Inquir"
+      }
+    ],
+    "role_emails": [
+      "info@bambonatureusa.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bambonatureusa.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bambonatureusa.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bambonatureusa.com/pages/media-center",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bambonatureusa.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Skin Friendly baby products with supernatural PERFORMANCE. SHOP baby diapers, training pants, wipes, & skincare that are CERTIFIED SKIN SAFE. *Because You Care*",
+    "source_urls": [
+      "https://bambonatureusa.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "bambooave.com",
+    "company_name": "Bamboo Ave.",
+    "website": "https://bambooave.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "contact@bambooave.com",
+        "confidence": "high",
+        "source_url": "https://bambooave.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ards Newsletter Email: contact@bambooave.com"
+      }
+    ],
+    "role_emails": [
+      "contact@bambooave.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bambooave.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Effortlessly stylish, ultra-comfortable travel apparel designed for work, play, and adventure. Our sustainable, technical fabrics keep you cool, light, and ready for wherever the day takes you. Experience freedom with versatile pieces and hassle-free returns &amp; exchanges.",
+    "source_urls": [
+      "https://bambooave.com"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "bambooclothes.com",
+    "company_name": "Spun Bamboo",
+    "website": "https://www.bambooclothes.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "sales@bambooclothes.com",
+        "confidence": "highest",
+        "source_url": "https://www.bambooclothes.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2019-10-20",
+        "context_snippet": "Address: Gardena, CA Phone: 888-778-6226 Email: sales@bambooclothes.com Name * First Last Email * Comment o"
+      }
+    ],
+    "role_emails": [
+      "sales@bambooclothes.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.bambooclothes.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bambooclothes.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2019-10-16"
+      },
+      {
+        "url": "https://www.bambooclothes.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2019-10-18"
+      },
+      {
+        "url": "https://www.bambooclothes.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2019-10-20"
+      },
+      {
+        "url": "https://www.bambooclothes.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bambooclothes.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.bambooclothes.com/contact",
+        "action": "/contact/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.bambooclothes.com/pages/contact",
+        "action": "/contact#contact-template--20882045206829__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Spun Bamboo offers premium, eco-friendly bamboo clothing for men and women. Soft, breathable, and sustainable fashion you\u2019ll love to wear.",
+    "source_urls": [
+      "https://www.bambooclothes.com",
+      "https://www.bambooclothes.com/contact",
+      "https://www.bambooclothes.com/pages/about-us",
+      "https://www.bambooclothes.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bamboofabricstore.com",
+    "company_name": "Bamboo Fabric Store",
+    "website": "https://bamboofabricstore.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://bamboofabricstore.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bamboofabricstore.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bamboofabricstore.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "We sell natural fabric that is spun and knitted/woven from long, strong, soft fibers which are eco-friendly, machine washable and derived from the pulp of bamboo plants.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "bambooisbetter.com",
+    "company_name": "Bamboo is Better",
+    "website": "https://bambooisbetter.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@bambooisbetter.com",
+        "confidence": "highest",
+        "source_url": "https://bambooisbetter.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ss days . Reach our Customer Care team Email: support@bambooisbetter.com \u2014 the fastest way to reach us Text: 562-410-5495 \u2014"
+      }
+    ],
+    "role_emails": [
+      "support@bambooisbetter.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bambooisbetter.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bambooisbetter.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bambooisbetter.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bambooisbetter.com/pages/about-us",
+        "action": "/contact#contact-template--27838744133847__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Wake up sweaty? Bamboo Is Better sheets sleep up to 3\u00d7 cooler than cotton. OEKO-TEX certified. 100,000+ sleepers. 30-night trial, free shipping.",
+    "source_urls": [
+      "https://bambooisbetter.com",
+      "https://bambooisbetter.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bamboolittle.com",
+    "company_name": "Bamboo Little",
+    "website": "https://bamboolittle.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@bamboolittle.com",
+        "confidence": "high",
+        "source_url": "https://bamboolittle.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Contact Us Want to get in touch? Email: support@bamboolittle.com Help"
+      }
+    ],
+    "role_emails": [
+      "support@bamboolittle.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bamboolittle.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bamboolittle.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bamboolittle.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Buttery-soft, breathable soft baby clothes, footies, blankets & more. Thoughtfully designed to keep your little one cozy. Shop Bamboo Little.",
+    "source_urls": [
+      "https://bamboolittle.com/pages/contact-us",
+      "https://bamboolittle.com/policies/contact-information"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bamboomn.com",
+    "company_name": "BambooMN",
+    "website": "https://bamboomn.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "help@bamboomn.com",
+        "confidence": "high",
+        "source_url": "https://bamboomn.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "help@bamboomn.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bamboomn.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bamboomn.com/collections/compression-sleeves-and-braces",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bamboomn.com/collections/bamboo-bo-staff",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bamboomn.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bamboomn.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bamboomn.com/pages/accessibility-contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bamboomn.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://bamboomn.com/pages/accessibility-contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Shop our wide selection of bamboo skewers, bamboo picks, fuzzy socks, blank sublimation socks, slippers, yarn, cutting boards, and more. We carry a wide selection of high quality products with bulk discounts available.",
+    "source_urls": [
+      "https://bamboomn.com",
+      "https://bamboomn.com/collections/compression-sleeves-and-braces",
+      "https://bamboomn.com/collections/bamboo-bo-staff",
+      "https://bamboomn.com/pages/contact-us",
+      "https://bamboomn.com/pages/about-us",
+      "https://bamboomn.com/pages/accessibility-contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 14
+  },
+  {
+    "company_domain": "bambooplantsonline.com",
+    "company_name": "bambooplantsonline.com",
+    "website": "https://bambooplantsonline.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "kenny@bambooplantsonline.com",
+        "confidence": "highest",
+        "source_url": "https://bambooplantsonline.com/pages/contact-support",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "nformation Phone: 888-784-7336 (Kenny) Email: kenny@bambooplantsonline.com Bamboo Plants Ba"
+      }
+    ],
+    "role_emails": [
+      "kenny@bambooplantsonline.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bambooplantsonline.com/pages/contact-support",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Buy Grower Direct And Save 888-784-7336 We Ship Large Plants in the Pot. 18 CLUMPING varieties of Black, Blue Yellow & Green. Satisfaction Guaranteed Since 2002",
+    "source_urls": [
+      "https://bambooplantsonline.com/pages/contact-support"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bamboozlehome.com",
+    "company_name": "Bamboozle Home",
+    "website": "https://www.bamboozlehome.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@bamboozlehome.com",
+        "confidence": "highest",
+        "source_url": "https://www.bamboozlehome.com/meet-the-team",
+        "source_type": "archived",
+        "snapshot_date": "2019-10-23",
+        "context_snippet": "Bamboozle Home, Archdale, NC, 27263 914.610.4918 info@bamboozlehome.com"
+      }
+    ],
+    "role_emails": [
+      "info@bamboozlehome.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.bamboozlehome.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bamboozlehome.com/meet-the-team",
+        "page_type": "team",
+        "source_type": "archived",
+        "snapshot_date": "2019-10-23"
+      },
+      {
+        "url": "https://www.bamboozlehome.com/blogs/bamboozle-in-the-press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bamboozlehome.com/blogs/bamboozle-in-the-press/the-kitchn-named-us-the-best-compost-bin",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bamboozlehome.com/blogs/bamboozle-in-the-press/boston-globe-a-useful-and-pretty-prep-and-serve-tray-that-s-eco-friendly-too",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bamboozlehome.com/blogs/bamboozle-in-the-press/food-wines-best-minimalist-kitchen-items-to-keep-your-space-clutter-free",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.bamboozlehome.com/blogs/bamboozle-in-the-press/the-kitchn-named-us-the-best-compost-bin",
+        "action": "/blogs/bamboozle-in-the-press/the-kitchn-named-us-the-best-compost-bin/comments#comment_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.bamboozlehome.com/blogs/bamboozle-in-the-press/boston-globe-a-useful-and-pretty-prep-and-serve-tray-that-s-eco-friendly-too",
+        "action": "/blogs/bamboozle-in-the-press/boston-globe-a-useful-and-pretty-prep-and-serve-tray-that-s-eco-friendly-too/comments#comment_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.bamboozlehome.com/blogs/bamboozle-in-the-press/food-wines-best-minimalist-kitchen-items-to-keep-your-space-clutter-free",
+        "action": "/blogs/bamboozle-in-the-press/food-wines-best-minimalist-kitchen-items-to-keep-your-space-clutter-free/comments#comment_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Sustainable kitchenware made with purpose. Shop our collection of baking tools, dinnerware, composters, and more.",
+    "source_urls": [
+      "https://www.bamboozlehome.com/meet-the-team"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "bambuearth.com",
+    "company_name": "Bambu Earth",
+    "website": "https://bambuearth.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@bambuearth.com",
+        "confidence": "highest",
+        "source_url": "https://bambuearth.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Order number (optional) Message Send message Prefer email? hello@bambuearth.com"
+      }
+    ],
+    "role_emails": [
+      "hello@bambuearth.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bambuearth.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bambuearth.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bambuearth.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bambuearth.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bambuearth.com/pages/contact-us",
+        "action": "/contact#ContactFormPage",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "All-Natural Skincare \u2014 Gentle, effective, and ethically sourced. Powered by plants, not synthetics. Nourishes without irritation for healthy, balanced skin.",
+    "source_urls": [
+      "https://bambuearth.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bambuhome.com",
+    "company_name": "bambu",
+    "website": "https://www.bambuhome.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customercare@bambuhome.com",
+        "confidence": "high",
+        "source_url": "https://www.bambuhome.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "pr@bambuhome.com",
+        "confidence": "high",
+        "source_url": "https://www.bambuhome.com/blogs/press",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "customercare@bambuhome.com",
+      "pr@bambuhome.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.bambuhome.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bambuhome.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bambuhome.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bambuhome.com/blogs/bambuliving/navigating-uncertain-times-a-message-from-bambu-founders",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bambuhome.com/blogs/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bambuhome.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.bambuhome.com/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.bambuhome.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "bambu\u00ae creates eco-friendly dinnerware & sustainable home goods. Specializing in disposable plates, kitchen utensils, cutlery, cutting boards made from renewable resources such as bamboo, cork, and more. Shop now.",
+    "source_urls": [
+      "https://www.bambuhome.com",
+      "https://www.bambuhome.com/contact",
+      "https://www.bambuhome.com/pages/about-us",
+      "https://www.bambuhome.com/blogs/bambuliving/navigating-uncertain-times-a-message-from-bambu-founders",
+      "https://www.bambuhome.com/blogs/press",
+      "https://www.bambuhome.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "bambulab.com",
+    "company_name": "Bambu Lab US store",
+    "website": "https://us.store.bambulab.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "dns_failure",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "bamcases.com",
+    "company_name": "Bam Cases",
+    "website": "https://www.bamcases.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "bam.cases@bamcases.com",
+        "confidence": "highest",
+        "source_url": "https://www.bamcases.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2017-01-24",
+        "context_snippet": "France T +33 (0)2 31 24 64 64 F +33 (0)2 31 24 55 72 M bam.cases@bamcases.com Bam US BAM US (Distribution) BAM France USA 143 La"
+      },
+      {
+        "address": "bamthailand@bamcases.com",
+        "confidence": "highest",
+        "source_url": "https://www.bamcases.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2017-01-24",
+        "context_snippet": "34 823 162 +66 (0) 34 494 752 F +66 (0) 34 494 751 M bamthailand@bamcases.com Bam China BAM CHINA (Distribution) BAM Cases and Co"
+      },
+      {
+        "address": "elena.safonova@bamcases.com",
+        "confidence": "highest",
+        "source_url": "https://www.bamcases.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2017-01-24",
+        "context_snippet": "IA (Distribution) Elena Safonova T +7(967) 254 80 50 M elena.safonova@bamcases.com Copyright \u00a9 BAM CASES. All rights reserved. Mentions"
+      },
+      {
+        "address": "shumei.wu@bamcases.com",
+        "confidence": "highest",
+        "source_url": "https://www.bamcases.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2017-01-24",
+        "context_snippet": "T +86 755 25831878 F +86 755 82481576 QQ : 2475923522 M shumei.wu@bamcases.com tingting.chan@bamcases.com Bam Russia BAM RUSSIA ("
+      },
+      {
+        "address": "tingting.chan@bamcases.com",
+        "confidence": "highest",
+        "source_url": "https://www.bamcases.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2017-01-24",
+        "context_snippet": "755 82481576 QQ : 2475923522 M shumei.wu@bamcases.com tingting.chan@bamcases.com Bam Russia BAM RUSSIA (Distribution) Elena Safonova"
+      },
+      {
+        "address": "usa@bamcases.com",
+        "confidence": "highest",
+        "source_url": "https://www.bamcases.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2017-01-24",
+        "context_snippet": "NJ 07601 U.S.A. T +1 201 342 7700 F +1 201 342 4557 M usa@bamcases.com Bam Asia - Pacific BAM ASIA - PACIFIC BAM Smart Case"
+      }
+    ],
+    "role_emails": [
+      "bam.cases@bamcases.com",
+      "bamthailand@bamcases.com",
+      "elena.safonova@bamcases.com",
+      "shumei.wu@bamcases.com",
+      "tingting.chan@bamcases.com",
+      "usa@bamcases.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.bamcases.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bamcases.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2017-01-24"
+      },
+      {
+        "url": "https://www.bamcases.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "We believe a musician should be proud and feel safe about their instrument. We use 40 years of handmade French craftsmanship to match forefront technologies with an innovative design. It happens by creating the best cases that care for your instrument.",
+    "source_urls": [
+      "https://www.bamcases.com/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "bamix.us",
+    "company_name": "bamix\u00ae of Switzerland",
+    "website": "https://bamix.us",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://bamix.us",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bamix.us/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bamix.us/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "bamix\u00ae has invented and perfected the handheld immersion blenders and food processor that chops, blends, purees, mixes beats and more. we are proud to accompany our customers in the kitchen for a lifetime. No similar product manages to combine so many applications in a single space-saving, easy-to-u",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bamliquidation.com",
+    "company_name": "www.bamliquidation.com",
+    "website": "https://www.bamliquidation.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "sales@bamliquidation.com",
+        "confidence": "high",
+        "source_url": "https://www.bamliquidation.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "M\u20135PM Sun: 12PM\u20135PM Contact Phone: 972-436-6888 Email: sales@bamliquidation.com Facebook Instagram Yo"
+      }
+    ],
+    "role_emails": [
+      "sales@bamliquidation.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.bamliquidation.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bamliquidation.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bamliquidation.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bamliquidation.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.bamliquidation.com/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.bamliquidation.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Discover 30\u201370% off brand-name closeouts every day at BAM Liquidation \u2013 Lewisville\u2019s original liquidation store. Sign up for weekly new inventory alerts! #BAMGoodDeal",
+    "source_urls": [
+      "https://www.bamliquidation.com",
+      "https://www.bamliquidation.com/contact",
+      "https://www.bamliquidation.com/pages/about-us",
+      "https://www.bamliquidation.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  }
+]
