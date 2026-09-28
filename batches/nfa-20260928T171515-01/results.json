@@ -1,0 +1,1490 @@
+[
+  {
+    "company_domain": "avllooms.com",
+    "company_name": "AVL Looms Inc.",
+    "website": "https://avllooms.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://avllooms.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://avllooms.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://avllooms.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "AVL Looms is a global manufacturer and marketer of looms, software and weaving accessories. We are widely known for our innovation in the handwoven equipment marketplace. Our customers include professionals, designers, fiber and fabric manufacturers, and hobby weavers.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "avlon.com",
+    "company_name": "avlon.com",
+    "website": "https://avlon.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://avlon.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://avlon.com/press",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2020-09-27"
+      },
+      {
+        "url": "https://avlon.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://avlon.com/pages/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://avlon.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://avlon.com/pages/contact",
+        "action": "/contact#ContactForm-template--20538174079162__contact-form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://avlon.com/pages/about",
+        "action": "/contact#ContactForm-template--20538174308538__contact_form_npimhj",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "The Science Of Haircare",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "avnow.com",
+    "company_name": "AV Now Fitness Sound",
+    "website": "https://www.avnow.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "avocadogreenmattress.com",
+    "company_name": "Avocado Green Mattress",
+    "website": "https://www.avocadogreenmattress.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@avocadogreenmattress.com",
+        "confidence": "high",
+        "source_url": "https://www.avocadogreenmattress.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "support@avocadogreenmattress.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.avocadogreenmattress.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.avocadogreenmattress.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.avocadogreenmattress.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Shop America\u2019s best-selling certified organic mattresses, bedding & wood furniture. Nontoxic, with MADE SAFE\u00ae, EWG Verified\u00ae, OEKO-TEX\u00ae, & GREENGUARD Gold. 1-year trial & 25-year warranty.",
+    "source_urls": [
+      "https://www.avocadogreenmattress.com"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "avocadotea.com",
+    "company_name": "Avocado Tea Co.",
+    "website": "https://avocadotea.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@avocadotea.com",
+        "confidence": "high",
+        "source_url": "https://avocadotea.com/pages/contactus",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Terms of Use. To reach us over the weekend please email hello@AvocadoTea.com. For all other inquiries fill out form below and we will g"
+      }
+    ],
+    "role_emails": [
+      "hello@avocadotea.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://avocadotea.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://avocadotea.com/pages/about-usnew",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://avocadotea.com/pages/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://avocadotea.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://avocadotea.com",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://avocadotea.com/pages/about-usnew",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://avocadotea.com/pages/contactus",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://avocadotea.com/pages/contactus",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://avocadotea.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://avocadotea.com/pages/contact-us",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Discover Avocado Leaf Tea\u2014caffeine-free and rich in antioxidants, flavonoids, and polyphenols to support heart health, blood pressure & longevity.",
+    "source_urls": [
+      "https://avocadotea.com/pages/contactus",
+      "https://avocadotea.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "avodagolf.com",
+    "company_name": "Avoda Golf",
+    "website": "https://avodagolf.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://avodagolf.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://avodagolf.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://avodagolf.com/pages/contact",
+        "action": "/contact#contact-form-template--29633439793496__contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Performance engineered irons and wedges, precision fitted to your anatomy and swing. Backed by a network of certified fitters worldwide.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "avoli.com",
+    "company_name": "Avoli",
+    "website": "https://avoli.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://avoli.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://avoli.com/pages/team-sales",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://avoli.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://avoli.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://avoli.com/products/avoli-mid-team-red",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://avoli.com/products/avoli-mid-team-blue",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://avoli.com/products/avoli-mid-team-green",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://avoli.com/products/the-avoli-team-v2-backpack-in-bonbon",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://avoli.com/pages/media-coverage",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://avoli.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Avoli. Avoli Women's Volleyball sneakers, shoes, apparel and equipment. Women's sizes from 5.5 to 14.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 17
+  },
+  {
+    "company_domain": "avproedge.com",
+    "company_name": "AVPro Edge",
+    "website": "https://avproedge.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://avproedge.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://avproedge.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://avproedge.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://avproedge.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "AVPro is an electronics manufacture of AVPro Edge & Murideo. We manufacture cutting edge Audio Video distribution & testing equipment, specializing in high bandwidth signal flow.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "avrillavigne.com",
+    "company_name": "Avril Lavigne",
+    "website": "https://store.avrillavigne.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://store.avrillavigne.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Shop exclusive merch from the Avril Lavigne Official Store. Apparel, accessories, and more.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "avrynco.com",
+    "company_name": "Avryn Co.",
+    "website": "https://avrynco.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@avrynco.com",
+        "confidence": "highest",
+        "source_url": "https://avrynco.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "t products or an order, or just to say hello, reach out to info@avrynco.com . Or send us a chat ! We'll get back to you in one busines"
+      },
+      {
+        "address": "returns@avrynco.com",
+        "confidence": "highest",
+        "source_url": "https://avrynco.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "To request a return, email returns@avrynco.com . Be sure to include your order number! For more informatio"
+      }
+    ],
+    "role_emails": [
+      "info@avrynco.com",
+      "returns@avrynco.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://avrynco.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://avrynco.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://avrynco.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://avrynco.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Wristlets, card wallets, and key tags made by hand with luxurious, full-grain leather and brass hardware.",
+    "source_urls": [
+      "https://avrynco.com",
+      "https://avrynco.com/about",
+      "https://avrynco.com/pages/about",
+      "https://avrynco.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "avulux.com",
+    "company_name": "Avulux",
+    "website": "https://avulux.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "marketing@avulux.com",
+        "confidence": "highest",
+        "source_url": "https://avulux.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Media Contact our public relations and media team at marketing@avulux.com Go to item 1 Go to item 2 Go to item 3 Go"
+      },
+      {
+        "address": "info@avulux.com",
+        "confidence": "high",
+        "source_url": "https://avulux.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@avulux.com",
+      "marketing@avulux.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://avulux.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://avulux.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://avulux.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://avulux.com/pages/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://avulux.com/blogs/migraine-glasses-blog/migraine-awareness-month-101-empowering-resources-to-help-people-living-with-migraine",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://avulux.com/pages/contact-us",
+        "action": "/contact#contact-form-template--19372447891590__contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Avulux migraine glasses use the only clinically proven lens for migraine light sensitivity, precisely filtering light so you can stay present in your day.",
+    "source_urls": [
+      "https://avulux.com",
+      "https://avulux.com/pages/about-us",
+      "https://avulux.com/pages/contact-us",
+      "https://avulux.com/pages/press",
+      "https://avulux.com/blogs/migraine-glasses-blog/migraine-awareness-month-101-empowering-resources-to-help-people-living-with-migraine"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "avweb.com",
+    "company_name": "AVweb",
+    "website": "https://www.avweb.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "editor@avweb.com",
+        "confidence": "highest",
+        "source_url": "https://avweb.com/multimedia/gallery/picture-of-the-day-sept-25-2026/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ss\" utm_campaign=\"featured\"] Got a tip? Send it to us: editor@avweb.com Stay Ahead with AVweb Flash"
+      },
+      {
+        "address": "avweb@avweb.com",
+        "confidence": "high",
+        "source_url": "https://www.avweb.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "avweb@avweb.com",
+      "editor@avweb.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.avweb.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.avweb.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.avweb.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://avweb.com/topics/multimedia/",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://avweb.com/contact/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://avweb.com/multimedia/gallery/picture-of-the-day-sept-25-2026/",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://avweb.com/multimedia/gallery/picture-of-the-day-sept-24-2026/",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://avweb.com/multimedia/votw/video-neuroscience-of-flight-anxiety/",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.avweb.com/contact",
+        "action": "/contact/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://avweb.com/contact/",
+        "action": "/contact/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Stay informed with AVweb's comprehensive aviation news, expert analyses, and multimedia content tailored for pilots and aviation professionals.\u200b",
+    "source_urls": [
+      "https://www.avweb.com",
+      "https://www.avweb.com/about-us",
+      "https://avweb.com/multimedia/gallery/picture-of-the-day-sept-25-2026/",
+      "https://avweb.com/multimedia/gallery/picture-of-the-day-sept-24-2026/",
+      "https://avweb.com/multimedia/votw/video-neuroscience-of-flight-anxiety/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 15
+  },
+  {
+    "company_domain": "awakechocolate.com",
+    "company_name": "AWAKE Chocolate",
+    "website": "https://awakechocolate.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://awakechocolate.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://awakechocolate.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://awakechocolate.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://awakechocolate.com/pages/contact",
+        "action": "/contact#contact-page-contact-template-0",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Delicious milk chocolate with the same amount of caffeine in a regular cup o' Joe or 250 ml energy drink\u2014a real eye-popping treat. Give it a go, eh?",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "awakenwithjp.com",
+    "company_name": "Awaken with JP",
+    "website": "https://awakenwithjp.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@awakenwithjp.com",
+        "confidence": "high",
+        "source_url": "https://awakenwithjp.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2021-02-27",
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@awakenwithjp.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://awakenwithjp.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://awakenwithjp.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2021-02-27"
+      },
+      {
+        "url": "https://awakenwithjp.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://awakenwithjp.com/contact",
+        "action": "/contact#contact-template--18106479706337__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "JP Sears is a comedian, author, and YouTuber known for his unapologetic stand for freedom and his satirical take on politics, fitness, and faith. Learn more, shop merch, find his tour dates and more here.",
+    "source_urls": [
+      "https://awakenwithjp.com/about"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "awakenyclothing.com",
+    "company_name": "Awake NY",
+    "website": "https://awakenyclothing.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://awakenyclothing.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://awakenyclothing.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://awakenyclothing.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://awakenyclothing.com/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://awakenyclothing.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://awakenyclothing.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://awakenyclothing.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://awakenyclothing.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://awakenyclothing.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Launched in 2012, Awake NY captures the unique cultural spirit and sensibility of New York City. Awake NY is a reflection of the diversity that has defined the city's cultural landscape. Simultaneously classic and contemporary, Awake NY evokes both the changing aesthetic vibrancy and timelessness of",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "awards2you.com",
+    "company_name": "Awards2You",
+    "website": "https://awards2you.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "service@awards2you.com",
+        "confidence": "high",
+        "source_url": "https://awards2you.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "service@awards2you.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://awards2you.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://awards2you.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://awards2you.com/apps/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Quality custom laser engraved award plaques, LDS missionary plaques, perpetual award plaques, glass awards, and acrylic awards. We also offer laser engraved name plates, machinery tag plates, serial number plates and sublimation plates. Fast production turn-around. Free shipping on all orders!",
+    "source_urls": [
+      "https://awards2you.com",
+      "https://awards2you.com/pages/about-us",
+      "https://awards2you.com/apps/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "awarenessoutlet.com",
+    "company_name": "Awareness Outlet",
+    "website": "https://www.awarenessoutlet.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@awarenessoutlet.com",
+        "confidence": "highest",
+        "source_url": "https://www.awarenessoutlet.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "nd one of our representatives will be happy to support you. support@awarenessoutlet.com Subscribe to our emails Emai"
+      }
+    ],
+    "role_emails": [
+      "support@awarenessoutlet.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.awarenessoutlet.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.awarenessoutlet.com/pages/customer-support-page-1",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.awarenessoutlet.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.awarenessoutlet.com/pages/customer-support-page-1",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Our mission is simple: Empower women through inspirational jewelry to help support and guide themselves and others around them through their respective journeys.",
+    "source_urls": [
+      "https://www.awarenessoutlet.com",
+      "https://www.awarenessoutlet.com/pages/customer-support-page-1",
+      "https://www.awarenessoutlet.com/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "awaytravel.com",
+    "company_name": "Away",
+    "website": "https://awaytravel.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "acquistion@awaytravel.com",
+        "confidence": "highest",
+        "source_url": "https://awaytravel.com/press",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "impact@awaytravel.com",
+        "confidence": "highest",
+        "source_url": "https://awaytravel.com/press",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "aytravel.com Social Impact: impact@awaytravel.com Featur"
+      },
+      {
+        "address": "influencer@awaytravel.com",
+        "confidence": "highest",
+        "source_url": "https://awaytravel.com/press",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "el.com Influencer & Social Media: influencer@awaytravel.com Advertising & Acquisition: a"
+      },
+      {
+        "address": "press@awaytravel.com",
+        "confidence": "highest",
+        "source_url": "https://awaytravel.com/press",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Press: press@awaytravel.com Influencer & Social Media: influe"
+      },
+      {
+        "address": "acquisition@awaytravel.com",
+        "confidence": "high",
+        "source_url": "https://awaytravel.com/press",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "m Advertising & Acquisition: acquisition@awaytravel.com Partnerships: partnerships@awayt"
+      },
+      {
+        "address": "hello@awaytravel.com",
+        "confidence": "high",
+        "source_url": "https://awaytravel.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "partnerships@awaytravel.com",
+        "confidence": "high",
+        "source_url": "https://awaytravel.com/press",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ion@awaytravel.com Partnerships: partnerships@awaytravel.com Social Impact: impact@awayt"
+      }
+    ],
+    "role_emails": [
+      "acquisition@awaytravel.com",
+      "acquistion@awaytravel.com",
+      "hello@awaytravel.com",
+      "impact@awaytravel.com",
+      "influencer@awaytravel.com",
+      "partnerships@awaytravel.com",
+      "press@awaytravel.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://awaytravel.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://awaytravel.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://awaytravel.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://awaytravel.com/products/compression-pack-away-closet-jet-black",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://awaytravel.com/products/compression-packing-cubes-olive-green",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://awaytravel.com/products/compression-packing-cubes-olive-green#product-reviews",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://awaytravel.com/products/compression-pack-away-closet-salt-white",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://awaytravel.com/products/compression-pack-away-closet-salt-white#product-reviews",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://awaytravel.com/pages/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Thoughtfully designed travel essentials that make every journey more seamless. Shop luggage, bags, and accessories built for modern travel.",
+    "source_urls": [
+      "https://awaytravel.com",
+      "https://awaytravel.com/press",
+      "https://awaytravel.com/pages/press"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 15
+  },
+  {
+    "company_domain": "awdadventure.com",
+    "company_name": "Anderson Design & Fabrication",
+    "website": "https://awdadventure.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "awe-tuning.com",
+    "company_name": "AWE",
+    "website": "https://awe-tuning.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "aweinspired.com",
+    "company_name": "Awe Inspired",
+    "website": "https://aweinspired.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Delete Personal Information",
+        "title": null,
+        "email": "privacy@aweinspired.com",
+        "source_url": "https://aweinspired.com"
+      }
+    ],
+    "people": [
+      {
+        "name": "Delete Personal Information",
+        "title": null,
+        "email": "privacy@aweinspired.com",
+        "source_url": "https://aweinspired.com"
+      }
+    ],
+    "emails": [
+      {
+        "address": "privacy@aweinspired.com",
+        "confidence": "highest",
+        "source_url": "https://aweinspired.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://aweinspired.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aweinspired.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aweinspired.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aweinspired.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aweinspired.com/pages/stockist-locations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "We believe in fine jewelry as a vehicle for empowerment. Shop our collection of goddess necklaces, coin necklaces, earrings, bracelets, rings and more.",
+    "source_urls": [
+      "https://aweinspired.com",
+      "https://aweinspired.com/about",
+      "https://aweinspired.com/contact",
+      "https://aweinspired.com/pages/about",
+      "https://aweinspired.com/pages/stockist-locations"
+    ],
+    "reason": null,
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "awesomecoffeeclub.com",
+    "company_name": "Awesome Coffee Club",
+    "website": "https://awesomecoffeeclub.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://awesomecoffeeclub.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://awesomecoffeeclub.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://awesomecoffeeclub.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Great coffee you can feel good about! - 100% of profit goes to charity!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "awesomecollector.com",
+    "company_name": "awesomecollector.com",
+    "website": "https://awesomecollector.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "contactus@awesomecollector.com",
+        "confidence": "high",
+        "source_url": "https://awesomecollector.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "y requests, questions, or suggestions, please contact us at contactus@awesomecollector.com. AwesomeCollector.com is also on Facebook and Awesome Colle"
+      }
+    ],
+    "role_emails": [
+      "contactus@awesomecollector.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://awesomecollector.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Order comics, figures, statues, & collectibles from Diamond Previews each month at discounts up to 50% off. Marvel, DC, Image, IDW, & all independents!",
+    "source_urls": [
+      "https://awesomecollector.com/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "awesomedice.com",
+    "company_name": "Awesome Dice",
+    "website": "https://www.awesomedice.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "store@awesomedice.com",
+        "confidence": "high",
+        "source_url": "https://www.awesomedice.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "store@awesomedice.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.awesomedice.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.awesomedice.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.awesomedice.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.awesomedice.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.awesomedice.com/pages/about-us-awesome-dice",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.awesomedice.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.awesomedice.com/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.awesomedice.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Welcome to Awesome Dice. Shop the #1 selection of DnD dice sets online, from polyhedral and liquid core, to glass and metal dice. Find your perfect Dungeons & Dragons dice sets here, and enjoy $1.99 shipping on orders over $49.99 in the US.",
+    "source_urls": [
+      "https://www.awesomedice.com",
+      "https://www.awesomedice.com/about-us",
+      "https://www.awesomedice.com/contact",
+      "https://www.awesomedice.com/pages/about-us",
+      "https://www.awesomedice.com/pages/about-us-awesome-dice",
+      "https://www.awesomedice.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "awesomehealthclub.com",
+    "company_name": "Awesome Health Club",
+    "website": "https://awesomehealthclub.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://awesomehealthclub.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://awesomehealthclub.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://awesomehealthclub.com/pages/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Awesome Sleep nasal strips reduce snoring, relieve congestion, and boost airflow for performance. Breathe better, sleep deeper, recover faster. 100% drug free.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  }
+]
