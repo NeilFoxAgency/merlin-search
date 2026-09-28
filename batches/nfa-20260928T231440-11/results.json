@@ -1,0 +1,1563 @@
+[
+  {
+    "company_domain": "beadshopneworleans.com",
+    "company_name": "The Bead Shop",
+    "website": "https://www.beadshopneworleans.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.beadshopneworleans.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beadshopneworleans.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2020-02-05"
+      },
+      {
+        "url": "https://www.beadshopneworleans.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2020-01-11"
+      },
+      {
+        "url": "https://www.beadshopneworleans.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beadshopneworleans.com/pages/our-team-1",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beadshopneworleans.com/pages/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.beadshopneworleans.com/contact",
+        "action": "/contact#wpcf7-f331-p20-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Local retail bead store based on Magazine St. New Orleans, La. We specialize in gemstone, pearl, stone, glass, charms & metal beads. We are a full-service bead shop offering jewelry repairs & a stringing room for anyone who wants to come & create with us. Buy beads to use in your own designs or have",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "beadsinc.com",
+    "company_name": "Beads, Inc.",
+    "website": "https://beadsinc.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@beadsinc.com",
+        "confidence": "medium",
+        "source_url": "https://beadsinc.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "support@beadsinc.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://beadsinc.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beadsinc.com/pages/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beadsinc.com/blogs/learn/alllllll-about-silk-thread",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Beads, Inc. is your premiere destination for jewelry making supplies, beads, and findings. Shop 3,300+ products with top notch customer service and free standard shipping in the USA.",
+    "source_urls": [
+      "https://beadsinc.com",
+      "https://beadsinc.com/pages/our-team",
+      "https://beadsinc.com/blogs/learn/alllllll-about-silk-thread"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "beadsofcambay.com",
+    "company_name": "Beadsofcambay.com",
+    "website": "https://www.beadsofcambay.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@beadsofcambay.com",
+        "confidence": "highest",
+        "source_url": "https://www.beadsofcambay.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Customer Accounts Contact Us E-mail: info@beadsofcambay.com \u3164 Newsletter Sign up for exclusive offers, original stori"
+      }
+    ],
+    "role_emails": [
+      "info@beadsofcambay.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.beadsofcambay.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beadsofcambay.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beadsofcambay.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beadsofcambay.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beadsofcambay.com/pages/about-us-cb",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beadsofcambay.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.beadsofcambay.com/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.beadsofcambay.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Beads of Cambay is a leading wholesale beads supplier for Jewelry Making. We offer a wide selection of wholesale gemstone beads to create captivating jewelry pieces.",
+    "source_urls": [
+      "https://www.beadsofcambay.com",
+      "https://www.beadsofcambay.com/about-us",
+      "https://www.beadsofcambay.com/press",
+      "https://www.beadsofcambay.com/contact",
+      "https://www.beadsofcambay.com/pages/about-us-cb",
+      "https://www.beadsofcambay.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "beadsofparadisenyc.com",
+    "company_name": "Beads of Paradise",
+    "website": "https://beadsofparadisenyc.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@beadsofparadisenyc.com",
+        "confidence": "high",
+        "source_url": "https://beadsofparadisenyc.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "3 Telephone: 212.620.0642 Fax: 212.741.3780 Email: info@beadsofparadisenyc.com FAQS Q: Do you buy consig"
+      }
+    ],
+    "role_emails": [
+      "info@beadsofparadisenyc.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://beadsofparadisenyc.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beadsofparadisenyc.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beadsofparadisenyc.com/blogs/news/its-not-about-the-destination",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beadsofparadisenyc.com/collections/bozo-people",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beadsofparadisenyc.com/collections/dan-people",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beadsofparadisenyc.com/collections/treasures-from-ethiopian/products/fine-ethiopian-processional-staff-ca-1900",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://beadsofparadisenyc.com/blogs/news/its-not-about-the-destination",
+        "action": "/blogs/news/its-not-about-the-destination/comments#comment_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Your source for beads, artifacts and textiles from around the world since 1986. We carry a wide selection of beaded curtains, African & Eastern antiquities, paintings, handmade jewelry, holiday ornaments, ethnographic clothing, rare and antique beads, and semi-precious stones.",
+    "source_urls": [
+      "https://beadsofparadisenyc.com/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 14
+  },
+  {
+    "company_domain": "beadtin.com",
+    "company_name": "BeadTin.com",
+    "website": "https://www.beadtin.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@beadtin.com",
+        "confidence": "highest",
+        "source_url": "https://www.beadtin.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Need help? Call us 844-232-3846 hello@beadtin.com BeadTin.com Clear"
+      },
+      {
+        "address": "sales@beadtin.com",
+        "confidence": "highest",
+        "source_url": "https://www.beadtin.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2019-11-14",
+        "context_snippet": "P: 1.844.BEADTIN (232 3846) E: sales@beadtin.com BeadTin LLC 7281 Bryan Dairy Road Largo, Florida"
+      }
+    ],
+    "role_emails": [
+      "hello@beadtin.com",
+      "sales@beadtin.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.beadtin.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beadtin.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2019-11-14"
+      },
+      {
+        "url": "https://www.beadtin.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.beadtin.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "The best selection of vibrant pony beads, plus alphabet beads, craft beads and supplies. Over 400 colors of pony beads and color mixes. For creators - beads for bracelets, necklaces, key chains, hair braiding group crafts, party activities. Pony bead bracelet and project ideas. Made in the USA. Nove",
+    "source_urls": [
+      "https://www.beadtin.com",
+      "https://www.beadtin.com/about-us",
+      "https://www.beadtin.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "beaducation.com",
+    "company_name": "Beaducation",
+    "website": "https://beaducation.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "cs@beaducation.com",
+        "confidence": "high",
+        "source_url": "https://beaducation.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "The best way to get in touch with us is through email - cs@beaducation.com Text or leave us a message at 805-457-2666. \"Just wa"
+      }
+    ],
+    "role_emails": [
+      "cs@beaducation.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://beaducation.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beaducation.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beaducation.com/pages/all-about-metals",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beaducation.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beaducation.com/pages/about-beaducation-lisa-niven-kelly",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beaducation.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "From jewelry making supplies to metal stamping tools, Beaducation has all the supplies to keep you creative. Check out our free online jewelry classes!",
+    "source_urls": [
+      "https://beaducation.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "beagoodperson.com",
+    "company_name": "Be A Good Person",
+    "website": "https://www.beagoodperson.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@beagoodperson.com",
+        "confidence": "high",
+        "source_url": "https://www.beagoodperson.com/pages/location",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "(720)-756-5357 For in-store order inquiries, please email info@beagoodperson.com . DIRECTIONS"
+      }
+    ],
+    "role_emails": [
+      "info@beagoodperson.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.beagoodperson.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beagoodperson.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beagoodperson.com/pages/location",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beagoodperson.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.beagoodperson.com/pages/about",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.beagoodperson.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Built on style with substance. uplifting the world through intentional fashion that inspires and motivates a society rooted in positive impact with every stitch.",
+    "source_urls": [
+      "https://www.beagoodperson.com/pages/location"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "beaheart.com",
+    "company_name": "Be A Heart",
+    "website": "https://beaheart.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@beaheart.com",
+        "confidence": "highest",
+        "source_url": "https://beaheart.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2019-07-17",
+        "context_snippet": ""
+      },
+      {
+        "address": "u003ehello@beaheart.com",
+        "confidence": "high",
+        "source_url": "https://beaheart.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "u003ewholesale@beaheart.com",
+        "confidence": "high",
+        "source_url": "https://beaheart.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "wholesale@beaheart.com",
+        "confidence": "high",
+        "source_url": "https://beaheart.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "hello@beaheart.com",
+      "u003ehello@beaheart.com",
+      "u003ewholesale@beaheart.com",
+      "wholesale@beaheart.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://beaheart.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beaheart.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2014-04-24"
+      },
+      {
+        "url": "https://beaheart.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2016-10-21"
+      },
+      {
+        "url": "https://beaheart.com/press",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2016-10-21"
+      },
+      {
+        "url": "https://beaheart.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2019-07-17"
+      },
+      {
+        "url": "https://beaheart.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beaheart.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://beaheart.com/about-us",
+        "action": "http://beaheart.com/about-us/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://beaheart.com/contact",
+        "action": "https://calligraphy-studio-los-angeles.squarespace.com",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://beaheart.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Be A Heart's mission is to share the hope and light of Christ through the beautiful products we create. Our faith-based collections include baby + kid necessities, sacrament party goods, home decor and accessories that are the perfect gift for women and children for any occasion.",
+    "source_urls": [
+      "https://beaheart.com",
+      "https://beaheart.com/contact",
+      "https://beaheart.com/pages/about-us",
+      "https://beaheart.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "beakandskiff.com",
+    "company_name": "shop.beakandskiff.com",
+    "website": "https://shop.beakandskiff.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": "Beak & Skiff / 1911 Established",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "beam.is",
+    "company_name": "Beam",
+    "website": "https://beam.is",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://beam.is",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beam.is/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beam.is/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Ashland\u2019s premier outdoor & adventure retailer with the largest selection of protective cases, high-performance coolers, and more. Doubling as a distribution center and supplier of Pelican and SKB products for retailers, OEM\u2019s, and government agencies.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "beamandanchor.com",
+    "company_name": "beamandanchor.com",
+    "website": "https://beamandanchor.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "robots_disallowed",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "beambenefits.com",
+    "company_name": "Beam Shop",
+    "website": "https://shop.beambenefits.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "robots_disallowed",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "beambk.com",
+    "company_name": "BEAM",
+    "website": "https://beambk.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@beambk.com",
+        "confidence": "highest",
+        "source_url": "https://beambk.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "online please contact our online customer service team at: hello@beambk.com or call 646-450-1469 M-F 10-5 EST. PHYSICAL STORE : For s"
+      },
+      {
+        "address": "hellobrooklynstore@beambk.com",
+        "confidence": "highest",
+        "source_url": "https://beambk.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Kent Avenue Brooklyn, NY 11249 Open daily 11-7 646-450-1469 hellobrooklynstore@beambk.com TRADE : For trade related information + inquiries about ord"
+      },
+      {
+        "address": "trade@beambk.com",
+        "confidence": "high",
+        "source_url": "https://beambk.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ries about orders place with our trade team please contact: trade@beambk.com or call 646-450-1469. Name E-mail Message Send mes"
+      }
+    ],
+    "role_emails": [
+      "hello@beambk.com",
+      "hellobrooklynstore@beambk.com",
+      "trade@beambk.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://beambk.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beambk.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beambk.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://beambk.com/pages/contact",
+        "action": "/contact#contact-form-template--22214024134808__contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Shop BEAM for an artfully curated selection of goods for the modern home, including furniture, lighting, artwork, tabletop, decor, and gifts. #BringDesignHome",
+    "source_urls": [
+      "https://beambk.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "beamminerals.com",
+    "company_name": "BEAM Minerals",
+    "website": "https://www.beamminerals.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customerservice@beamminerals.com",
+        "confidence": "highest",
+        "source_url": "https://www.beamminerals.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "(800) 484-0191 Have a question? Call or Text us. customerservice@beamminerals.com Accessibility Do Not Sell Choos"
+      },
+      {
+        "address": "caroline@beamminerals.com",
+        "confidence": "high",
+        "source_url": "https://www.beamminerals.com/blogs/blog/plant-based-minerals-can-support-your-pets-detox-journey",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "caroline@beamminerals.com",
+      "customerservice@beamminerals.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.beamminerals.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beamminerals.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beamminerals.com/pages/about-you",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beamminerals.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beamminerals.com/products/beam-minerals-advanced-electrolyte-micronutrient-support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beamminerals.com/blogs/blog/plant-based-minerals-can-support-your-pets-detox-journey",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beamminerals.com/blogs/blog/the-mineral-mood-connection-how-replenishment-supports-mental-health",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "The ultimate in electrolytes and micronutrients. BEAM Minerals products deliver completely natural, mineral fulvic and humic complexes in a liquid format that can be ingested or applied topically. 100% PLANT-SOURCED. 100% BIOAVAILABLE. 100% PURE.",
+    "source_urls": [
+      "https://www.beamminerals.com",
+      "https://www.beamminerals.com/about",
+      "https://www.beamminerals.com/pages/about-you",
+      "https://www.beamminerals.com/pages/about-us",
+      "https://www.beamminerals.com/products/beam-minerals-advanced-electrolyte-micronutrient-support",
+      "https://www.beamminerals.com/blogs/blog/plant-based-minerals-can-support-your-pets-detox-journey",
+      "https://www.beamminerals.com/blogs/blog/the-mineral-mood-connection-how-replenishment-supports-mental-health"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 14
+  },
+  {
+    "company_domain": "beancounterbakery.com",
+    "company_name": "Bean Counter Bakery",
+    "website": "https://www.beancounterbakery.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.beancounterbakery.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beancounterbakery.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beancounterbakery.com/blogs/in-the-media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beancounterbakery.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Award-winning cakes, custom wedding cakes, desserts & coffee in Worcester, MA. Family-owned since 1998. Visit our two locations or order online for pick up.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "beanfarm.com",
+    "company_name": "Bean Farm",
+    "website": "https://beanfarm.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "beanfarm@beanfarm.com",
+        "confidence": "highest",
+        "source_url": "https://beanfarm.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Sale Need help? 866-708-5882 beanfarm@beanfarm.com Follow Us Facebook Instagram"
+      }
+    ],
+    "role_emails": [
+      "beanfarm@beanfarm.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://beanfarm.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beanfarm.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beanfarm.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Bean Farm is a trusted reptile supply store offering herpetological and husbandry products worldwide. Quality at a fair price since 1991. We stock top brands for reliable, safe reptile and amphibian lighting, heating, bedding, cage, healthcare, snake handling equipment, husbandry tools, books, and m",
+    "source_urls": [
+      "https://beanfarm.com",
+      "https://beanfarm.com/pages/about-us",
+      "https://beanfarm.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "beanfields.com",
+    "company_name": "Beanfields Snacks",
+    "website": "https://www.beanfields.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "robots_disallowed",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "beangoods.com",
+    "company_name": "bean goods",
+    "website": "https://beangoods.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@beangoods.com",
+        "confidence": "high",
+        "source_url": "https://beangoods.com/press",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "support@beangoods.com",
+        "confidence": "high",
+        "source_url": "https://beangoods.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "at anytime! we'd love to hear from you! customer service : support@beangoods.com general inquiries : info@beangoods.com Name"
+      }
+    ],
+    "role_emails": [
+      "info@beangoods.com",
+      "support@beangoods.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://beangoods.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beangoods.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beangoods.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beangoods.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beangoods.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beangoods.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beangoods.com/pages/join-the-bean-goods-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beangoods.com/pages/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://beangoods.com/contact",
+        "action": "/contact#contact-template--22857020604674__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://beangoods.com/pages/contact-us",
+        "action": "/contact#contact-template--22857020604674__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "shop bean goods for awesome dachshund tees, hats, sweatshirts dog apparel and more. designed for radical people who love their wiener dogs!",
+    "source_urls": [
+      "https://beangoods.com/press",
+      "https://beangoods.com/contact",
+      "https://beangoods.com/pages/contact-us",
+      "https://beangoods.com/pages/join-the-bean-goods-team",
+      "https://beangoods.com/pages/press"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "beaninfinitewarrior.com",
+    "company_name": "Infinite Warrior",
+    "website": "https://beaninfinitewarrior.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "maria.panno@beaninfinitewarrior.com",
+        "confidence": "highest",
+        "source_url": "https://beaninfinitewarrior.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2019-09-20",
+        "context_snippet": "I'D LOVE TO HEAR FROM YOU! maria.panno@beaninfinitewarrior.com 6550 W. State Street, #D107 Wauwatosa, WI 53213 630-791-052"
+      }
+    ],
+    "role_emails": [
+      "maria.panno@beaninfinitewarrior.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://beaninfinitewarrior.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beaninfinitewarrior.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2019-09-20"
+      },
+      {
+        "url": "https://beaninfinitewarrior.com/collections/depression-healing-crystal-bracelet",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beaninfinitewarrior.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beaninfinitewarrior.com/pages/retail-partner-locations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://beaninfinitewarrior.com/contact",
+        "action": "https://maria-panno.squarespace.com",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Your number one online store for handmade crystal bracelets, all made in the USA. Shop using the healing stone chart for bracelets, loose crystals, and kits.",
+    "source_urls": [
+      "https://beaninfinitewarrior.com",
+      "https://beaninfinitewarrior.com/contact",
+      "https://beaninfinitewarrior.com/collections/depression-healing-crystal-bracelet",
+      "https://beaninfinitewarrior.com/pages/contact",
+      "https://beaninfinitewarrior.com/pages/retail-partner-locations"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "beannbeancoffee.com",
+    "company_name": "Bean & Bean Coffee Roasters",
+    "website": "https://beannbeancoffee.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@beannbeancoffee.com",
+        "confidence": "highest",
+        "source_url": "https://beannbeancoffee.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "questions or need assistance with an order, please email: hello@beannbeancoffee.com Country United States (USD $)"
+      }
+    ],
+    "role_emails": [
+      "hello@beannbeancoffee.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://beannbeancoffee.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beannbeancoffee.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beannbeancoffee.com/pages/locations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beannbeancoffee.com/products/aeropress-brew-anywhere-kit",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Committed to women-powered coffee. All coffees are sourced, cupped, and curated by The Mother Daughter Q Grader Coffee Team fueling New Yorkers since 2008.",
+    "source_urls": [
+      "https://beannbeancoffee.com",
+      "https://beannbeancoffee.com/pages/about",
+      "https://beannbeancoffee.com/pages/locations",
+      "https://beannbeancoffee.com/products/aeropress-brew-anywhere-kit"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "beanproducts.com",
+    "company_name": "Bean Products",
+    "website": "https://beanproducts.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "cs@beanproducts.com",
+        "confidence": "high",
+        "source_url": "https://beanproducts.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "orders@beanproducts.com",
+        "confidence": "high",
+        "source_url": "https://beanproducts.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "00 S Western Ave #4BN Chicago, IL 60608 \ud83d\udcde (312) 666-3600 \ud83d\udce7 orders@beanproducts.com"
+      }
+    ],
+    "role_emails": [
+      "cs@beanproducts.com",
+      "orders@beanproducts.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://beanproducts.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Shop organic pillows, meditation cushions, yoga props, bean bag chairs, and sustainable home goods from Bean Products. Comfortable products made with natural materials.",
+    "source_urls": [
+      "https://beanproducts.com"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "beanstory.co",
+    "company_name": "beanstory",
+    "website": "https://beanstory.co",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@beanstory.co",
+        "confidence": "highest",
+        "source_url": "https://beanstory.co/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "use the form below to contact us or reach out via email at hello@beanstory.co Name Subject"
+      }
+    ],
+    "role_emails": [
+      "hello@beanstory.co"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://beanstory.co",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beanstory.co/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beanstory.co/pages/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beanstory.co/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://beanstory.co/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Organic certified, single source, heirloom beans grown without the use of pesticides, by farmers working in service of a healthier world.",
+    "source_urls": [
+      "https://beanstory.co/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "bearaby.com",
+    "company_name": "Bearaby",
+    "website": "https://bearaby.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@bearaby.com",
+        "confidence": "high",
+        "source_url": "https://bearaby.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "hello@bearaby.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bearaby.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bearaby.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bearaby.com/pages/locations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bearaby.com/pages/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bearaby.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bearaby.com/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://bearaby.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Bearaby creates natural, breathable home-wellness products designed to improve sleep and reduce stress. Sustainable, stylish, and made with eco-friendly materials.",
+    "source_urls": [
+      "https://bearaby.com"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "bearandburtons.com",
+    "company_name": "Bear & Burton's",
+    "website": "https://bearandburtons.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://bearandburtons.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Truly America's Worcestershire. Bear and Burton's W Sauce is a 100 year old family Worcestershire recipe. Proudly made in America. Worcestershire is hard to say and not even from here, so we prefer \"W Sauce\". Purveyors of W Sauce\u00ae, Fireshire\u00ae and Veganshire\u00ae.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "beararchery.com",
+    "company_name": "Bear Archery",
+    "website": "https://www.beararchery.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "bearcustomercare@beararchery.com",
+        "confidence": "highest",
+        "source_url": "https://www.beararchery.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "rchery 817 Maxwell Avenue Evansville, IN 47711 800-694-9494 bearcustomercare@beararchery.com Subscribe Get connected for exclusi"
+      },
+      {
+        "address": "no-reply@beararchery.com",
+        "confidence": "high",
+        "source_url": "https://www.beararchery.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "bearcustomercare@beararchery.com",
+      "no-reply@beararchery.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.beararchery.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beararchery.com/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beararchery.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beararchery.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beararchery.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beararchery.com/pages/about-bear-archery",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beararchery.com/pages/about-trophy-ridge",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beararchery.com/pages/about-cajun-bowfishing",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beararchery.com/pages/about-sik-broadheads",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beararchery.com/pages/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Explore Bear Archery for legendary compound bows, traditional bows, crossbows, and archery accessories, with our focus on reliability and technology since 1933.",
+    "source_urls": [
+      "https://www.beararchery.com",
+      "https://www.beararchery.com/meet-the-team",
+      "https://www.beararchery.com/about",
+      "https://www.beararchery.com/media",
+      "https://www.beararchery.com/contact",
+      "https://www.beararchery.com/pages/about-bear-archery",
+      "https://www.beararchery.com/pages/about-trophy-ridge",
+      "https://www.beararchery.com/pages/about-cajun-bowfishing",
+      "https://www.beararchery.com/pages/about-sik-broadheads",
+      "https://www.beararchery.com/pages/support"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 14
+  }
+]
