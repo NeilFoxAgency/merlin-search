@@ -1,0 +1,1391 @@
+[
+  {
+    "company_domain": "barrys.com",
+    "company_name": "Barry's B2B",
+    "website": "https://retailportal.barrys.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://retailportal.barrys.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://retailportal.barrys.com/collections/staff-apparel",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://retailportal.barrys.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "The global destination to get the best workout of your life. We are dedicated to changing lives worldwide through our workouts and community.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "barrywang.com",
+    "company_name": "www.barrywang.com",
+    "website": "https://www.barrywang.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@barrywang.com",
+        "confidence": "high",
+        "source_url": "https://www.barrywang.com/pages/about-us-1",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ", Banjiehe Street, Xuchang, Henan, China. 461000 \u2709\ufe0f Email: info@barrywang.com info@barrywang.com Policy"
+      }
+    ],
+    "role_emails": [
+      "info@barrywang.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.barrywang.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.barrywang.com/pages/about-us-1",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.barrywang.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.barrywang.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Refined men\u2019s ties, shirts, vests and suits\u2014crafted for style, quality & fit. Free Global Shipping | 30-Day Returns | Shop with Confidence at Barry. Wang",
+    "source_urls": [
+      "https://www.barrywang.com/pages/about-us-1",
+      "https://www.barrywang.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "barse.com",
+    "company_name": "Barse Jewelry",
+    "website": "https://www.barse.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Email: Customerservice@barse.com",
+        "title": null,
+        "email": "customerservice@barse.com",
+        "source_url": "https://www.barse.com"
+      }
+    ],
+    "people": [
+      {
+        "name": "Email: Customerservice@barse.com",
+        "title": null,
+        "email": "customerservice@barse.com",
+        "source_url": "https://www.barse.com"
+      }
+    ],
+    "emails": [
+      {
+        "address": "%20welovejewelry@barse.com",
+        "confidence": "highest",
+        "source_url": "https://www.barse.com/pages/about-barse-jewelry",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "customerservice@barse.com",
+        "confidence": "highest",
+        "source_url": "https://www.barse.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "GET IN TOUCH Call us: 469-987-3353 Email: Customerservice@barse.com Quick links About Us"
+      }
+    ],
+    "role_emails": [
+      "%20welovejewelry@barse.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.barse.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.barse.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.barse.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.barse.com/pages/about-barse-jewelry",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "The best of high quality and value jewelry that can be bought today. Hand crafted genuine stones such as turquoise and others, along with sterling silver and other precious metals makes our brand and company unique. Beautiful beads and beaded jewelry are another hallmark of Barse Company.",
+    "source_urls": [
+      "https://www.barse.com",
+      "https://www.barse.com/about",
+      "https://www.barse.com/pages/about-us",
+      "https://www.barse.com/pages/about-barse-jewelry"
+    ],
+    "reason": null,
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "barshalife.com",
+    "company_name": "barshalife.com",
+    "website": "https://barshalife.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://barshalife.com/pages/contact-us-barsha-restaurant-hb",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Barsha Wines is a family-owned wine shop and tasting room.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "barska.com",
+    "company_name": "Barska",
+    "website": "https://shop.barska.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://shop.barska.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.barska.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.barska.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.barska.com/pages/dealer-support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.barska.com/pages/barska-support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.barska.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Discover Barska's extensive range of security storage solutions, setting the industry standard for advanced security products. From gun safes to biometric safes, fire vaults, key cabinets, and portable lock boxes, Barska provides a comprehensive selection to meet the security needs of both businesse",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "barski.com",
+    "company_name": "Barski",
+    "website": "https://barski.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "sales@barski.com",
+        "confidence": "highest",
+        "source_url": "https://barski.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Contact Us We want to hear from you. EMAIL: sales@barski.com PHONE: 848 -227-7545 Name"
+      }
+    ],
+    "role_emails": [
+      "sales@barski.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://barski.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://barski.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://barski.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://barski.com",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://barski.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Barski",
+    "source_urls": [
+      "https://barski.com",
+      "https://barski.com/pages/about-us",
+      "https://barski.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "barskydiamonds.com",
+    "company_name": "Barsky Diamonds",
+    "website": "https://www.barskydiamonds.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.barskydiamonds.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.barskydiamonds.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2024-06-23"
+      },
+      {
+        "url": "https://www.barskydiamonds.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2013-05-02"
+      },
+      {
+        "url": "https://www.barskydiamonds.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.barskydiamonds.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.barskydiamonds.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "From custom engagement rings to graduation gifts - Barsky Diamonds has something for everyone! Now six generations later, Barsky is a historic Philadelphian landmark on Jeweler's Row. Check out our website or visit us in store!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "barsmithmix.com",
+    "company_name": "Barsmith",
+    "website": "https://www.barsmithmix.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "openbar@barsmithmix.com",
+        "confidence": "high",
+        "source_url": "https://www.barsmithmix.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ck to you. Phone 877-434-6755 Email openbar@barsmithmix.com"
+      }
+    ],
+    "role_emails": [
+      "openbar@barsmithmix.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.barsmithmix.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.barsmithmix.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.barsmithmix.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Shop award-winning cocktail mixers, syrups, garnishes, and bar essentials crafted by world-class bartenders for perfect cocktails at home.",
+    "source_urls": [
+      "https://www.barsmithmix.com/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "barsoverbottles.com",
+    "company_name": "BARS OVER BOTTLES",
+    "website": "https://www.barsoverbottles.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.barsoverbottles.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Oi, eu sou a Bars Over Bottles, mas pode me chamar de B.O.B. Vem conhecer meus cosm\u00e9ticos em barra e junte-se a mim nessa revolu\u00e7\u00e3o do autocuidado!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "barstoolsports.com",
+    "company_name": "Barstool Sports",
+    "website": "https://www.barstoolsports.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.barstoolsports.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.barstoolsports.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2020-04-17"
+      },
+      {
+        "url": "https://www.barstoolsports.com/media",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2010-09-25"
+      },
+      {
+        "url": "https://www.barstoolsports.com/blog/3576867/bill-burr-got-happier-healthier-and-apparently-people-hate-him-for-it",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.barstoolsports.com/blog/3577764/check-the-game-notes-nhl-pacific-divsion-betting-props-for-each-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.barstoolsports.com/blog/3578030/the-mariners-fired-their-manager-dan-wilson-immediately-after-their-last-game",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.barstoolsports.com/blog/3578042/aura-lebron-started-his-76ers-press-conference-by-removing-his-name-tag-from-i",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.barstoolsports.com/blog/3578022/people-are-mad-at-this-jaguars-ball-boy-for-doing-his-job-and-not-giving-up",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Barstool Sports is a sports & pop culture blog covering the latest news and viral highlights of each and everyday with blogs, videos and podcasts.  By the common man, for the common man.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 14
+  },
+  {
+    "company_domain": "barsupplies.com",
+    "company_name": "Bar Supplies",
+    "website": "https://barsupplies.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@barsupplies.com",
+        "confidence": "highest",
+        "source_url": "https://barsupplies.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ed help? Call us 1800-BLOODY-MARY info@barsupplies.com Currency: USD CAD EUR GBP Back"
+      }
+    ],
+    "role_emails": [
+      "info@barsupplies.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://barsupplies.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://barsupplies.com/collections/bar-media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://barsupplies.com/collections/steam-table-pans",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://barsupplies.com/collections/master-media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://barsupplies.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Bar Supplies is catered towards bartenders, bar owners and home bar enthusiasts. We stock everything from bottle openers and bartending tools to bar decor such as bar signs and bar furniture. Stock your bar with the newest bar tools available at the best discounts you will find anywhere.",
+    "source_urls": [
+      "https://barsupplies.com",
+      "https://barsupplies.com/collections/bar-media",
+      "https://barsupplies.com/collections/steam-table-pans",
+      "https://barsupplies.com/collections/master-media",
+      "https://barsupplies.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "bartact.com",
+    "company_name": "Bartact",
+    "website": "https://www.bartact.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@bartact.com",
+        "confidence": "highest",
+        "source_url": "https://www.bartact.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ouch Have Question? Call Us At: 951.319.4008 Or Email: info@bartact.com Twitter Facebook Pinter"
+      },
+      {
+        "address": "orders@bartact.com",
+        "confidence": "highest",
+        "source_url": "https://www.bartact.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@bartact.com",
+      "orders@bartact.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.bartact.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bartact.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2015-12-25"
+      },
+      {
+        "url": "https://www.bartact.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Best seat covers for Jeep Wrangler Ultimate Seat Covers for Jeep Gladiator Tactical Seat Covers Toyota Tacoma Seat Covers 4Runner MOLLE Seat Covers for Ford Bronco Paracord Grab Handles Interior Storage Vehicle Tie Downs Recovery Shackles Suspension Limit Straps Made in USA Limiting Straps JL JLU JK",
+    "source_urls": [
+      "https://www.bartact.com",
+      "https://www.bartact.com/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "bartboutique.com",
+    "company_name": "Bar T Boutique LLC",
+    "website": "https://www.bartboutique.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "contact@bartboutique.com",
+        "confidence": "highest",
+        "source_url": "https://www.bartboutique.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "is available Monday - Friday, 9 am - 3 pm CST, by emailing contact@bartboutique.com . 2026 \u00a9 Bar T Boutique Sign up & save Be"
+      }
+    ],
+    "role_emails": [
+      "contact@bartboutique.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.bartboutique.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bartboutique.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bartboutique.com/products/bayside-striped-pants-espresso",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Bar T Boutique",
+    "source_urls": [
+      "https://www.bartboutique.com",
+      "https://www.bartboutique.com/about",
+      "https://www.bartboutique.com/products/bayside-striped-pants-espresso"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "bartbridge.com",
+    "company_name": "Bart Bridge",
+    "website": "https://bartbridge.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@bartbridge.com",
+        "confidence": "highest",
+        "source_url": "https://bartbridge.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "you have an issue regarding an open order, please contact info@bartbridge.com ! Please do not use this contact form. For other inquirie"
+      },
+      {
+        "address": "support@bartbridge.com",
+        "confidence": "highest",
+        "source_url": "https://bartbridge.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Search support@bartbridge.com Instagram Twitter"
+      }
+    ],
+    "role_emails": [
+      "info@bartbridge.com",
+      "support@bartbridge.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bartbridge.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bartbridge.com/media",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2021-10-15"
+      },
+      {
+        "url": "https://bartbridge.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bartbridge.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bartbridge.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Stand out with Bart Bridge embroidered patch hats! From trucker to pocket, county & more designs, with hidden pockets, style, durability, and hometown pride. Order now!",
+    "source_urls": [
+      "https://bartbridge.com",
+      "https://bartbridge.com/contact",
+      "https://bartbridge.com/pages/about",
+      "https://bartbridge.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bartesian.com",
+    "company_name": "Bartesian",
+    "website": "https://bartesian.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@bartesian.com",
+        "confidence": "highest",
+        "source_url": "https://bartesian.com/team",
+        "source_type": "archived",
+        "snapshot_date": "2016-05-21",
+        "context_snippet": "Bartesian, 151 Charles Street West, Kitchener, ON, N2G 1H6 hello@bartesian.com"
+      },
+      {
+        "address": "support@bartesian.com",
+        "confidence": "highest",
+        "source_url": "https://bartesian.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2019-09-16",
+        "context_snippet": "e Support P: Toll-Free North America: 1-833-501-6889 E: support@bartesian.com Hours of Operation: 8am-5pm EST Click here to register yo"
+      },
+      {
+        "address": "u003ehello@bartesian.com",
+        "confidence": "high",
+        "source_url": "https://bartesian.com",
+        "source_type": "archived",
+        "snapshot_date": "2026-08-20",
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "hello@bartesian.com",
+      "support@bartesian.com",
+      "u003ehello@bartesian.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bartesian.com",
+        "page_type": "home",
+        "source_type": "archived",
+        "snapshot_date": "2026-08-20"
+      },
+      {
+        "url": "https://bartesian.com/team",
+        "page_type": "team",
+        "source_type": "archived",
+        "snapshot_date": "2016-05-21"
+      },
+      {
+        "url": "https://bartesian.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2019-09-16"
+      },
+      {
+        "url": "https://bartesian.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2019-09-16"
+      },
+      {
+        "url": "https://bartesian.com/pages/press",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2026-08-15"
+      },
+      {
+        "url": "https://bartesian.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2026-08-15"
+      },
+      {
+        "url": "https://bartesian.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2026-07-01"
+      },
+      {
+        "url": "https://bartesian.com/products/staff-picks-collection",
+        "page_type": "team",
+        "source_type": "archived",
+        "snapshot_date": "2026-06-10"
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bartesian.com/contact",
+        "action": "https://bartesian.squarespace.com",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Bartesian is elevating your home bar with an award winning cocktail maker that creates premium cocktails on demand. Free Shipping on orders over $50!",
+    "source_urls": [
+      "https://bartesian.com",
+      "https://bartesian.com/team",
+      "https://bartesian.com/about",
+      "https://bartesian.com/contact",
+      "https://bartesian.com/pages/press",
+      "https://bartesian.com/pages/about-us",
+      "https://bartesian.com/pages/contact",
+      "https://bartesian.com/products/staff-picks-collection"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "bartlettaudio.com",
+    "company_name": "Bartlett Audio",
+    "website": "https://www.bartlettaudio.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "email us",
+        "title": null,
+        "email": "info@bartlettaudio.com",
+        "source_url": "https://www.bartlettaudio.com/pages/support"
+      }
+    ],
+    "people": [
+      {
+        "name": "email us",
+        "title": null,
+        "email": "info@bartlettaudio.com",
+        "source_url": "https://www.bartlettaudio.com/pages/support"
+      }
+    ],
+    "emails": [
+      {
+        "address": "%20info@bartlettaudio.com",
+        "confidence": "highest",
+        "source_url": "https://www.bartlettaudio.com/pages/support",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "info@bartlettaudio.com",
+        "confidence": "highest",
+        "source_url": "https://www.bartlettaudio.com/pages/support",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "icrophone to buy? We're here to help. Please email us. info@bartlettaudio.com Bartlett Audio, 23 Highland St., Weaverville, NC 28787 US"
+      }
+    ],
+    "role_emails": [
+      "%20info@bartlettaudio.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.bartlettaudio.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bartlettaudio.com/pages/about-bartlett-audio",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bartlettaudio.com/pages/learn-more-about-audio",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bartlettaudio.com/pages/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "We make stage-floor microphones for amplifying actors on stage. They are far simpler to use, and less costly, than headworn wireless mics. We also make clip-on mics for acoustic instruments for sound reinforcement at gigs. They sound natural, better than a pickup. Easy temporary mounting and low fee",
+    "source_urls": [
+      "https://www.bartlettaudio.com/pages/support"
+    ],
+    "reason": null,
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "bartlettman.com",
+    "company_name": "Bartlett Arborist Supply",
+    "website": "https://www.bartlettman.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.bartlettman.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bartlettman.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Arborist Supplies + Tree Climbing Gear at Bartlett Arborist Supply. Low prices on arborist supplies, tree climbing gear and tree equipment. FREE SHIPPING!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "bartolottas.com",
+    "company_name": "Buy Bartolotta Gift Cards",
+    "website": "https://shop.bartolottas.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://shop.bartolottas.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Give the Gift of The Bartolotta Restaurants by purchasing a Bartolotta Gift Card to give to friends, family, or neighbors!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "bartonperreira.com",
+    "company_name": "Barton Perreira",
+    "website": "https://bartonperreira.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@bartonperreira.com",
+        "confidence": "highest",
+        "source_url": "https://bartonperreira.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2018-05-25",
+        "context_snippet": "WALD IRVINE, CA 92618 P 949 305 5360 | F 949 305 5366 E info@bartonperreira.com L\u00e4ngenfeldgasse 27/B/11 1120 Vienna, Austria P +43 1 3"
+      }
+    ],
+    "role_emails": [
+      "info@bartonperreira.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bartonperreira.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bartonperreira.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bartonperreira.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2018-05-25"
+      },
+      {
+        "url": "https://bartonperreira.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bartonperreira.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Barton Perreira is an independent eyewear brand that takes time to invest in craftsmanship that produces nothing less than the finest eyewear in the world.",
+    "source_urls": [
+      "https://bartonperreira.com/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "bartonspringsmill.com",
+    "company_name": "Barton Springs Mill",
+    "website": "https://bartonspringsmill.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "education@bartonspringsmill.com",
+        "confidence": "highest",
+        "source_url": "https://bartonspringsmill.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "info@bartonspringsmill.com Tours, Classes, and Events: education@bartonspringsmill.com Name *"
+      },
+      {
+        "address": "info@bartonspringsmill.com",
+        "confidence": "highest",
+        "source_url": "https://bartonspringsmill.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2019-02-05",
+        "context_snippet": "Email Addresses sales@bartonspringsmill.com info@bartonspringsmill.com Home About Our Farmers Recipes Media"
+      },
+      {
+        "address": "retail@bartonspringsmill.com",
+        "confidence": "highest",
+        "source_url": "https://bartonspringsmill.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "il orders are not accepted.* Retail Customers: retail@bartonspringsmill.com Wholesale Customers: sales@bartonspringsmill.com General"
+      },
+      {
+        "address": "sales@bartonspringsmill.com",
+        "confidence": "highest",
+        "source_url": "https://bartonspringsmill.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2019-02-05",
+        "context_snippet": "-5981 Hours: 10-4 Fridays Email Addresses sales@bartonspringsmill.com info@bartonspringsmill.com Home About"
+      }
+    ],
+    "role_emails": [
+      "education@bartonspringsmill.com",
+      "info@bartonspringsmill.com",
+      "retail@bartonspringsmill.com",
+      "sales@bartonspringsmill.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bartonspringsmill.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bartonspringsmill.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2019-02-05"
+      },
+      {
+        "url": "https://bartonspringsmill.com/media",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2019-02-05"
+      },
+      {
+        "url": "https://bartonspringsmill.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2019-02-05"
+      },
+      {
+        "url": "https://bartonspringsmill.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bartonspringsmill.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bartonspringsmill.com/pages/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bartonspringsmill.com/pages/contact",
+        "action": "/contact#form-contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Our heirloom & modern grains get you baking the way only great grandmother could. See our selection, try a recipe, take a class, or tour the mill.",
+    "source_urls": [
+      "https://bartonspringsmill.com",
+      "https://bartonspringsmill.com/about",
+      "https://bartonspringsmill.com/media",
+      "https://bartonspringsmill.com/contact",
+      "https://bartonspringsmill.com/pages/about",
+      "https://bartonspringsmill.com/pages/contact",
+      "https://bartonspringsmill.com/pages/media"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "bartonwatchbands.com",
+    "company_name": "Barton Watch Bands",
+    "website": "https://www.bartonwatchbands.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customerservice@bartonwatchbands.com",
+        "confidence": "high",
+        "source_url": "https://www.bartonwatchbands.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "info@bartonwatchbands.com",
+        "confidence": "high",
+        "source_url": "https://www.bartonwatchbands.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "141 Payne St Dallas, TX 75207 Phone: (512) 410-8793 Email : info@bartonwatchbands.com Shipping Shipping FAQs Stay in the"
+      }
+    ],
+    "role_emails": [
+      "customerservice@bartonwatchbands.com",
+      "info@bartonwatchbands.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.bartonwatchbands.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bartonwatchbands.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bartonwatchbands.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.bartonwatchbands.com/pages/contact-us",
+        "action": "/contact#ContactForm-template--18237164388406__contact-form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Shop hundreds of watch bands for thousands of watches. Leather, Silicone, Nylon, Canvas, Rubber, Alligator, NATO Style & Quick Release Watch Straps. Many colors, lengths & widths. 100% satisfaction guaranteed. Watchband widths including 16mm, 18mm, 19mm, 20mm, 21mm, 22mm, 23mm & 24mm, 38mm, & 42mm A",
+    "source_urls": [
+      "https://www.bartonwatchbands.com",
+      "https://www.bartonwatchbands.com/pages/contact-us",
+      "https://www.bartonwatchbands.com/policies/contact-information"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "barts.com",
+    "company_name": "Bart's Water Sports",
+    "website": "https://www.barts.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@barts.com",
+        "confidence": "high",
+        "source_url": "https://www.barts.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@barts.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.barts.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.barts.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.barts.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.barts.com/pages/locations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.barts.com/pages/about-barts-watersports",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Over 50 Years of Supplying Gear to Lake Life Lovers! Fast Shipping & The Best Customer Service in the Industry! Wakeboards, Waterskis, Wakesurfers, Life Jackets, Towables, and So Much More.",
+    "source_urls": [
+      "https://www.barts.com",
+      "https://www.barts.com/pages/contact",
+      "https://www.barts.com/pages/locations"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "barueat.com",
+    "company_name": "BAR-U-EAT",
+    "website": "https://barueat.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "barukas.com",
+    "company_name": "Barukas",
+    "website": "https://barukas.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "help@barukas.com",
+        "confidence": "highest",
+        "source_url": "https://barukas.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "t any time Email Us Questions? Email us at help@barukas.com Follow Us Facebook Twitter"
+      }
+    ],
+    "role_emails": [
+      "help@barukas.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://barukas.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "The world's first supernut. Discover the healthiest nuts in the world loaded with antioxidant power, protein, and fiber, and with less fat calories than any other nut! Bar\u00f9kas are good for you and good for the planet.",
+    "source_urls": [
+      "https://barukas.com"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "barxbuddy.com",
+    "company_name": "barxbuddystore",
+    "website": "https://www.barxbuddy.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  }
+]
