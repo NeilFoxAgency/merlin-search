@@ -1,0 +1,1551 @@
+[
+  {
+    "company_domain": "bumgenius.com",
+    "company_name": "bumGenius",
+    "website": "https://www.bumgenius.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "robots_disallowed",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "bumkins.com",
+    "company_name": "Bumkins",
+    "website": "https://www.bumkins.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "johanna@bumkins.com",
+        "confidence": "high",
+        "source_url": "https://www.bumkins.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "social@bumkins.com",
+        "confidence": "high",
+        "source_url": "https://www.bumkins.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ith us and reviewing our products? Feel free to email us at social@bumkins.com and we will get back to you as soon as possible! Want t"
+      }
+    ],
+    "role_emails": [
+      "johanna@bumkins.com",
+      "social@bumkins.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.bumkins.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bumkins.com/pages/all-about-silicone",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bumkins.com/pages/press-and-awards",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bumkins.com/pages/bumkins-about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bumkins.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.bumkins.com/pages/contact-us",
+        "action": "https://aux.bumkins.com/contact/process_form.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Since 1989, we\u2019ve been supporting caregivers by creating safe, sustainable products with features parents and little ones need in fun, trendy designs they want.",
+    "source_urls": [
+      "https://www.bumkins.com",
+      "https://www.bumkins.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "bumpboxx.com",
+    "company_name": "Bumpboxx",
+    "website": "https://bumpboxx.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@bumpboxx.com",
+        "confidence": "highest",
+        "source_url": "https://bumpboxx.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Info Info Bumpboxx Headquarters 888.250.2867 info@bumpboxx.com About Reviews Support Prop 65 User manuals for all produc"
+      }
+    ],
+    "role_emails": [
+      "info@bumpboxx.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bumpboxx.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bumpboxx.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bumpboxx.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2026-07-17"
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "More than speakers \u2014 we craft statements. Bringing people together through the power of music with speakers and boomboxes that feature bold sound and nostalgic style.",
+    "source_urls": [
+      "https://bumpboxx.com",
+      "https://bumpboxx.com/pages/about",
+      "https://bumpboxx.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bumperonly.com",
+    "company_name": "BumperOnly",
+    "website": "https://www.bumperonly.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@bumperonly.com",
+        "confidence": "highest",
+        "source_url": "https://www.bumperonly.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "p Nissan Toyota Contact us 1-832-998-8096 info@bumperonly.com 4707 Highway 36S Suite #35, Rosenberg, TX 77471"
+      }
+    ],
+    "role_emails": [
+      "info@bumperonly.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.bumperonly.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bumperonly.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bumperonly.com/pages/about-us-1",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bumperonly.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.bumperonly.com/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.bumperonly.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Take your truck off-road with custom aftermarket bumpers from Ranch Hand, Fab Fours, Iron Cross & more. Excellent service & free US shipping, only at BumperOnly!",
+    "source_urls": [
+      "https://www.bumperonly.com",
+      "https://www.bumperonly.com/contact",
+      "https://www.bumperonly.com/pages/about-us-1",
+      "https://www.bumperonly.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bumperstock.com",
+    "company_name": "BumperStock",
+    "website": "https://bumperstock.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@bumperstock.com",
+        "confidence": "highest",
+        "source_url": "https://bumperstock.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "GET IN TOUCH 844-827-4442 support@bumperstock.com Mon-Fri 9am-6pm EST Facebook YouTube"
+      }
+    ],
+    "role_emails": [
+      "support@bumperstock.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bumperstock.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bumperstock.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bumperstock.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bumperstock.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bumperstock.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bumperstock.com/contact",
+        "action": "/contact#template--19918016643190__form-contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://bumperstock.com/pages/contact-us",
+        "action": "/contact#template--19918016643190__form-contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Heavy-duty truck bumpers from Ranch Hand, Fab Fours, Steelcraft and more. Verified fitment, Free Shipping, Free Sales Tax. Family-owned since 2018.",
+    "source_urls": [
+      "https://bumperstock.com",
+      "https://bumperstock.com/about",
+      "https://bumperstock.com/contact",
+      "https://bumperstock.com/pages/about-us",
+      "https://bumperstock.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bumpology.com",
+    "company_name": "bumpology",
+    "website": "https://bumpology.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@bumpology.com",
+        "confidence": "highest",
+        "source_url": "https://bumpology.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Prefer email? Write to us directly at support@bumpology.com Name Email Subject"
+      }
+    ],
+    "role_emails": [
+      "support@bumpology.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bumpology.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bumpology.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bumpology.com/pages/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "\ud83c\udf3f 100% ALL NATURAL Skincare \ud83e\udd30\ud83c\udffbMade with Mamas in Mind \ud83d\udc68\ud83c\udffb\u200d\u2695\ufe0f Founded by a Physician & Beauty Guru",
+    "source_urls": [
+      "https://bumpology.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "bumpsuit.co",
+    "company_name": "BUMPSUIT",
+    "website": "https://www.bumpsuit.co",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.bumpsuit.co",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bumpsuit.co/collections/maternity-supportwear",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bumpsuit.co/products/the-support-waist-trainer",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bumpsuit.co/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.bumpsuit.co/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Voted Best Of Maternity And Postpartum, Bumpsuit Is Redefining Pregnancy Style.\u00a0Shop Our Best Selling Baby Carrier, Essentials, Postpartum And Baby Shower Collections.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "bumsandroses.com",
+    "company_name": "Bums and Roses",
+    "website": "https://bumsandroses.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://bumsandroses.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bumsandroses.com/collections/no-bones-about-it",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Bamboo baby clothes, rompers, swaddles, dresses & more. Put your baby in the softest fabric, with stylish designs you can't find anywhere else",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "bumzeyewear.com",
+    "company_name": "BUMZ Eyewear",
+    "website": "https://bumzeyewear.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://bumzeyewear.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "#1 in Fastest Growing Sunglasses Company",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "bunchbike.com",
+    "company_name": "Bunch Bikes",
+    "website": "https://bunchbike.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "More Information",
+        "title": "Owner",
+        "email": "info@bunchbike.com",
+        "source_url": "https://bunchbike.com"
+      }
+    ],
+    "people": [
+      {
+        "name": "More Information",
+        "title": "Owner",
+        "email": "info@bunchbike.com",
+        "source_url": "https://bunchbike.com"
+      }
+    ],
+    "emails": [
+      {
+        "address": "info@bunchbike.com",
+        "confidence": "highest",
+        "source_url": "https://bunchbike.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "-536-0597. Real person, no phone tree or chatbot! Email: info@bunchbike.com Chat with our family biking experts: Click here Find a te"
+      },
+      {
+        "address": "squad@bunchbike.com",
+        "confidence": "high",
+        "source_url": "https://bunchbike.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "superhero@bunchbike.com",
+        "confidence": "high",
+        "source_url": "https://bunchbike.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "u003einfo@bunchbike.com",
+        "confidence": "high",
+        "source_url": "https://bunchbike.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "u003esquad@bunchbike.com",
+        "confidence": "high",
+        "source_url": "https://bunchbike.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "u003esuperhero@bunchbike.com",
+        "confidence": "high",
+        "source_url": "https://bunchbike.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "squad@bunchbike.com",
+      "superhero@bunchbike.com",
+      "u003einfo@bunchbike.com",
+      "u003esquad@bunchbike.com",
+      "u003esuperhero@bunchbike.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bunchbike.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bunchbike.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bunchbike.com/blogs/the-bunch-blog/all-about-ebike-safety-ul-compliance",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bunchbike.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bunchbike.com/pages/contact-bunch",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bunchbike.com/pages/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bunchbike.com/contact",
+        "action": "/contact#contact-form-template--27327715541271__contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://bunchbike.com/blogs/the-bunch-blog/all-about-ebike-safety-ul-compliance",
+        "action": "/blogs/the-bunch-blog/all-about-ebike-safety-ul-compliance/comments#comment_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://bunchbike.com/pages/contact-bunch",
+        "action": "/contact#contact-form-template--27327715541271__contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Bunch Bikes: Experience the joy of family biking with our front-load electric cargo bikes. 3-wheel ecargo trikes with box to carry kids and dogs. Ships from TX",
+    "source_urls": [
+      "https://bunchbike.com",
+      "https://bunchbike.com/contact",
+      "https://bunchbike.com/blogs/the-bunch-blog/all-about-ebike-safety-ul-compliance",
+      "https://bunchbike.com/pages/about",
+      "https://bunchbike.com/pages/contact-bunch",
+      "https://bunchbike.com/pages/press"
+    ],
+    "reason": null,
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "bunchesdirect.com",
+    "company_name": "Bunches Direct USA",
+    "website": "https://bunchesdirect.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "sales@bunchesdirect.com",
+        "confidence": "highest",
+        "source_url": "https://bunchesdirect.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "2730 NW 72 Avenue Miami, FL 33122 (866) 690-8425 sales@bunchesdirect.com Recommended Supplies Bunches Direct Canada"
+      }
+    ],
+    "role_emails": [
+      "sales@bunchesdirect.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bunchesdirect.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bunchesdirect.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bunchesdirect.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bunchesdirect.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Family-owned and operated company originating in Miami, Florida. Established in 1999, Bunches Direct has grown from a local floral company, to the leading American supplier of bulk and wholesale flowers. What\u2019s more, we\u2019re also a favourable producer of pre-made wedding and bulk flowers.",
+    "source_urls": [
+      "https://bunchesdirect.com",
+      "https://bunchesdirect.com/pages/about-us",
+      "https://bunchesdirect.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bundleofjoycompany.com",
+    "company_name": "Bundle of Joy Company",
+    "website": "https://bundleofjoycompany.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://bundleofjoycompany.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bundleofjoycompany.com/collections/christmas",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bundleofjoycompany.com/collections/jingle-bows",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bundleofjoycompany.com/collections/howdy-holidays",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bundleofjoycompany.com/collections/tis-the-season",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bundleofjoycompany.com/collections/webbed-wonderland",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bundleofjoycompany.com/collections/deck-the-dollhouse",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bundleofjoycompany.com/collections/tinsel-tiaras",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bundleofjoycompany.com/collections/merry-sweet",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bundleofjoycompany.com/collections/a-very-merry-mash-up",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Stylish and comfy baby clothes. Best brands in baby fashion. Softest baby clothes. Trendy baby clothes. Baby accessories. Baby clothes for boys. Baby clothes for girls. Baby clothes boutique. Baby clothes sale. Baby clothing. Bundle of Joy. Bundle of Joy Company. BOJC. Baby clothes Houston Texas.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 18
+  },
+  {
+    "company_domain": "bungalowfurniture.com",
+    "company_name": "Bungalow Scottsdale",
+    "website": "https://bungalowfurniture.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "store@bungalowfurniture.com",
+        "confidence": "highest",
+        "source_url": "https://bungalowfurniture.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2019-07-21",
+        "context_snippet": ", Suite 120, Scottsdale, AZ 85260, USA 480-948-5409 store@bungalowfurniture.com Hours Mon 10am to 5:30pm Tue 10am to 5:30pm Wed"
+      }
+    ],
+    "role_emails": [
+      "store@bungalowfurniture.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bungalowfurniture.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bungalowfurniture.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2019-07-21"
+      },
+      {
+        "url": "https://bungalowfurniture.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2019-08-18"
+      },
+      {
+        "url": "https://bungalowfurniture.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bungalowfurniture.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bungalowfurniture.com/contact",
+        "action": "https://amy-risley-w68t.squarespace.com",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://bungalowfurniture.com/pages/contact",
+        "action": "/contact#contact-us-page",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Discover Bungalow in Scottsdale, a curated furniture, home decor, fashion, and lifestyle boutique offering unique finds and interior design services.",
+    "source_urls": [
+      "https://bungalowfurniture.com/about",
+      "https://bungalowfurniture.com/contact",
+      "https://bungalowfurniture.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bungalowhomeid.com",
+    "company_name": "Bungalow Home Furnishings",
+    "website": "https://bungalowhomeid.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://bungalowhomeid.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bungalowhomeid.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Bungalow Home is a carefully curated collection of home furnishings and decor with the goal of helping you make your house a HOME. Need help creating your dream space? Let one of our talented in-house designers guide you through the whole process from the perfectly scaled sofa to the art on your wal",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "bunkajapan.com",
+    "company_name": "Bunka Japan",
+    "website": "https://bunkajapan.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "bunkbedking.com",
+    "company_name": "BunkBedKing",
+    "website": "https://www.bunkbedking.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@bunkbedking.com",
+        "confidence": "highest",
+        "source_url": "https://www.bunkbedking.com/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "h Street, Suite 300, Grand Prairie, TX 75050 1 888 600 1225 info@bunkbedking.com Bunk Bed King: Who We Are Since 2000, Bedz King has spe"
+      }
+    ],
+    "role_emails": [
+      "info@bunkbedking.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.bunkbedking.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bunkbedking.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bunkbedking.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bunkbedking.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bunkbedking.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.bunkbedking.com/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.bunkbedking.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Shop solid wood bunk beds, stairway bunk beds and low loft beds at Bunk Bed King. Free FedEx Ground shipping from Texas; most orders ship in 1\u20132 business days",
+    "source_urls": [
+      "https://www.bunkbedking.com/about",
+      "https://www.bunkbedking.com/about-us",
+      "https://www.bunkbedking.com/contact",
+      "https://www.bunkbedking.com/pages/contact-us",
+      "https://www.bunkbedking.com/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bunker27.com",
+    "company_name": "BUNKER 27",
+    "website": "https://www.bunker27.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "cs@bunker27.com",
+        "confidence": "high",
+        "source_url": "https://www.bunker27.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "cs@bunker27.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.bunker27.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bunker27.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bunker27.com/collections/patriotic/products/we-the-people",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bunker27.com/products/we-the-people?variant=43578279788657",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bunker27.com/products/we-the-people?variant=43578279821425",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Bunker 27 is USAF Veteran owned clothing company. Men's bomber and flight jackets leather, World War II military aviation inspired t-shirts, hats, hoodies. Military and patriotic themed apparel.",
+    "source_urls": [
+      "https://www.bunker27.com",
+      "https://www.bunker27.com/contact",
+      "https://www.bunker27.com/collections/patriotic/products/we-the-people",
+      "https://www.bunker27.com/products/we-the-people?variant=43578279788657",
+      "https://www.bunker27.com/products/we-the-people?variant=43578279821425"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "bunkerbranding.com",
+    "company_name": "Bunker Branding Co.",
+    "website": "https://www.bunkerbranding.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Contact Support",
+        "title": null,
+        "email": "support@bunkerbranding.com",
+        "source_url": "https://www.bunkerbranding.com"
+      }
+    ],
+    "people": [
+      {
+        "name": "Contact Support",
+        "title": null,
+        "email": "support@bunkerbranding.com",
+        "source_url": "https://www.bunkerbranding.com"
+      }
+    ],
+    "emails": [
+      {
+        "address": "support@bunkerbranding.com",
+        "confidence": "highest",
+        "source_url": "https://www.bunkerbranding.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.bunkerbranding.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Bunker Branding Co. is an online merchandise store for all of your favorite Social Media Influencers. From YouTube, Instagram, Twitter, etc. We also create custom apparel and merchandise for businesses and individual brands.",
+    "source_urls": [
+      "https://www.bunkerbranding.com"
+    ],
+    "reason": null,
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "bunkerkings.com",
+    "company_name": "Bunkerkings.com | WKS USA",
+    "website": "https://www.bunkerkings.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@bunkerkings.com",
+        "confidence": "high",
+        "source_url": "https://www.bunkerkings.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "S. Power Rd. Ste 10-120, Gilbert, AZ 85234 info@bunkerkings.com Bunkerkings Europe Wienerstrasse 42 / 2, 21"
+      },
+      {
+        "address": "sales@bunkerkings.com",
+        "confidence": "high",
+        "source_url": "https://www.bunkerkings.com/policies/contact-information",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "nkerkings.com | WKS USA Phone number: 6316175346 Email: sales@bunkerkings.com Physical address: Virtue Paintball, 5940 S Rainbow Blvd,"
+      }
+    ],
+    "role_emails": [
+      "info@bunkerkings.com",
+      "sales@bunkerkings.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.bunkerkings.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bunkerkings.com/pages/new-team-account",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bunkerkings.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bunkerkings.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.bunkerkings.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Bunkerkings has been designing, leading, innovating the action sports and paintball world since 1991. No brand in paintball is more iconic than the \"We Kill Suckers\" brand from the early wild-west days of paintball.",
+    "source_urls": [
+      "https://www.bunkerkings.com",
+      "https://www.bunkerkings.com/pages/new-team-account",
+      "https://www.bunkerkings.com/pages/contact-us",
+      "https://www.bunkerkings.com/policies/contact-information"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "bunksnbeds.com",
+    "company_name": "Bunks and Beds",
+    "website": "https://bunksnbeds.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": "C\u1eadp nh\u1eadt Top 10+ trang c\u00e1 \u0111\u1ed9 b\u00f3ng \u0111\u00e1 uy t\u00edn s\u1ed1 1 Vi\u1ec7t Nam v\u1edbi t\u1ef7 l\u1ec7 k\u00e8o c\u1ef1c cao v\u00e0 b\u1ea3o m\u1eadt tuy\u1ec7t \u0111\u1ed1i. \u0110\u0103ng k\u00fd v\u00e0 c\u00e1 c\u01b0\u1ee3c ngay \u0111\u1ec3 th\u1eafng l\u1edbn m\u00f9a World Cup 2026.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "bunkyboutique.com",
+    "company_name": "Bunky Boutique",
+    "website": "https://bunkyboutique.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@bunkyboutique.com",
+        "confidence": "highest",
+        "source_url": "https://bunkyboutique.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2020-04-16",
+        "context_snippet": "1437 North 1st Street, Phoenix, AZ, 85004 6022521323 hello@bunkyboutique.com Hours Mon 10am to 6pm Tue 10am to 6pm Wed 10am"
+      },
+      {
+        "address": "info@bunkyboutique.com",
+        "confidence": "highest",
+        "source_url": "https://bunkyboutique.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2020-04-16",
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "hello@bunkyboutique.com",
+      "info@bunkyboutique.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bunkyboutique.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bunkyboutique.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2020-04-16"
+      },
+      {
+        "url": "https://bunkyboutique.com/press",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2020-04-16"
+      },
+      {
+        "url": "https://bunkyboutique.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Bunky Boutique is a unique Phoenix fashion boutique that is perfect for gifts, home goods, jewelry, and men's and women's apparel. Stop by today!",
+    "source_urls": [
+      "https://bunkyboutique.com",
+      "https://bunkyboutique.com/about",
+      "https://bunkyboutique.com/press",
+      "https://bunkyboutique.com/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "bunnery.com",
+    "company_name": "The Bunnery",
+    "website": "https://bunnery.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@bunnery.com",
+        "confidence": "high",
+        "source_url": "https://bunnery.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "vorites. SHOP THE BUNNERY info@bunnery.com | 307.733.5474 Illustration art by Anna Douglas Smith"
+      }
+    ],
+    "role_emails": [
+      "info@bunnery.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bunnery.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bunnery.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bunnery.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "The Bunnery Bakery & Restaurant",
+    "source_urls": [
+      "https://bunnery.com",
+      "https://bunnery.com/pages/about-us",
+      "https://bunnery.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bunniecakes.com",
+    "company_name": "Bunnie Cakes",
+    "website": "https://www.bunniecakes.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "catering@bunniecakes.com",
+        "confidence": "highest",
+        "source_url": "https://www.bunniecakes.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2014-05-18",
+        "context_snippet": "n: orders@bunniecakes.com Events/ Weddings/ Catering: catering@bunniecakes.com Contact Us"
+      },
+      {
+        "address": "orders@bunniecakes.com",
+        "confidence": "highest",
+        "source_url": "https://www.bunniecakes.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2014-05-18",
+        "context_snippet": "e brunch from 11am to 4pm) Email General Information: orders@bunniecakes.com Events/ Weddings/ Catering: catering@bunniecakes.com"
+      }
+    ],
+    "role_emails": [
+      "catering@bunniecakes.com",
+      "orders@bunniecakes.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.bunniecakes.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bunniecakes.com/press",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2021-11-29"
+      },
+      {
+        "url": "https://www.bunniecakes.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2014-05-18"
+      },
+      {
+        "url": "https://www.bunniecakes.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.bunniecakes.com/press",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "BunnieCakes",
+    "source_urls": [
+      "https://www.bunniecakes.com/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bunniesbythebay.com",
+    "company_name": "Bunnies By The Bay",
+    "website": "https://bunniesbythebay.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customersupport@bunniesbythebay.com",
+        "confidence": "highest",
+        "source_url": "https://bunniesbythebay.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "customerservice@bunniesbythebay.com",
+        "confidence": "high",
+        "source_url": "https://bunniesbythebay.com/press",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "unnies By The Bay in your publication, please contact us at customerservice@bunniesbythebay.com. seattle met \"Hailing from Anacortes-based"
+      }
+    ],
+    "role_emails": [
+      "customerservice@bunniesbythebay.com",
+      "customersupport@bunniesbythebay.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bunniesbythebay.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bunniesbythebay.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bunniesbythebay.com/pages/our-hareytale-about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bunniesbythebay.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bunniesbythebay.com/pages/store-locations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bunniesbythebay.com/pages/press-bunnies-by-the-bay-in-popular-culture",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bunniesbythebay.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Delightfully handcrafted and personalized gifts designed in Anacortes, WA. Shop delightful gifts loved by all ages from Bunnies By The Bay\u00ae for a memorable gifting experience.",
+    "source_urls": [
+      "https://bunniesbythebay.com/press",
+      "https://bunniesbythebay.com/pages/contact-us",
+      "https://bunniesbythebay.com/pages/press-bunnies-by-the-bay-in-popular-culture"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "bunnyandbabe.com",
+    "company_name": "Bunny and Babe Winnetka",
+    "website": "https://bunnyandbabe.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Vendor Inquiry",
+        "title": null,
+        "email": "orders@bunnyandbabe.com",
+        "source_url": "https://bunnyandbabe.com"
+      }
+    ],
+    "people": [
+      {
+        "name": "Vendor Inquiry",
+        "title": null,
+        "email": "orders@bunnyandbabe.com",
+        "source_url": "https://bunnyandbabe.com"
+      }
+    ],
+    "emails": [
+      {
+        "address": "info@bunnyandbabe.com",
+        "confidence": "highest",
+        "source_url": "https://bunnyandbabe.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "557 CHESTNUT STREET, WINNETKA IL 60093 INFO@BUNNYANDBABE.COM MONDAY-SATURDAY, 10AM - 5PM 847.999.3255"
+      },
+      {
+        "address": "orders@bunnyandbabe.com",
+        "confidence": "highest",
+        "source_url": "https://bunnyandbabe.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@bunnyandbabe.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bunnyandbabe.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bunnyandbabe.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bunnyandbabe.com/collections/our-founders-favorites",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Shop Bunny & Babe \u2014 a luxury women's boutique in Winnetka, IL. Discover designer dresses, jewelry, outerwear, shoes, and home gifts. Free shipping over $400.",
+    "source_urls": [
+      "https://bunnyandbabe.com",
+      "https://bunnyandbabe.com/pages/about-us",
+      "https://bunnyandbabe.com/collections/our-founders-favorites"
+    ],
+    "reason": null,
+    "pages_fetched": 11
+  }
+]
