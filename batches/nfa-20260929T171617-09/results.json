@@ -1,0 +1,1757 @@
+[
+  {
+    "company_domain": "braidandwood.com",
+    "company_name": "Braid & Wood",
+    "website": "https://www.braidandwood.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Wood Design Studio",
+        "title": "Founder",
+        "email": "hello@braidandwood.com",
+        "source_url": "https://www.braidandwood.com/press",
+        "association": "proximity"
+      }
+    ],
+    "people": [
+      {
+        "name": "Wood Design Studio",
+        "title": "Founder",
+        "email": "hello@braidandwood.com",
+        "source_url": "https://www.braidandwood.com/press",
+        "association": "proximity"
+      }
+    ],
+    "emails": [
+      {
+        "address": "jenn@braidandwood.com",
+        "confidence": "highest",
+        "source_url": "https://www.braidandwood.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "rns & Exchanges: orders@braidandwood.com Press Inquires: jenn@braidandwood.com Follow us Facebook Pinterest"
+      },
+      {
+        "address": "orders@braidandwood.com",
+        "confidence": "highest",
+        "source_url": "https://www.braidandwood.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "l Questions: hello@braidandwood.com Returns & Exchanges: orders@braidandwood.com Press Inquires: jenn@braidandwood.com Follow us"
+      },
+      {
+        "address": "hello@braidandwood.com",
+        "confidence": "high",
+        "source_url": "https://www.braidandwood.com/press",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "se visit our contact page or email Braid & Wood directly at hello@braidandwood.com Braid & Wood Design Studio is proud to be"
+      }
+    ],
+    "role_emails": [
+      "hello@braidandwood.com",
+      "jenn@braidandwood.com",
+      "orders@braidandwood.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.braidandwood.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.braidandwood.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.braidandwood.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.braidandwood.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.braidandwood.com/pages/founders-story",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.braidandwood.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.braidandwood.com/pages/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.braidandwood.com/contact",
+        "action": "/contact#ContactForm-template--27341214581057__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.braidandwood.com/pages/contact",
+        "action": "/contact#ContactForm-template--27341214581057__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Modern Home Decor - Bring more life home",
+    "source_urls": [
+      "https://www.braidandwood.com/press",
+      "https://www.braidandwood.com/contact",
+      "https://www.braidandwood.com/pages/contact",
+      "https://www.braidandwood.com/pages/press"
+    ],
+    "reason": null,
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "braidbeauty.com",
+    "company_name": "BRAID BEAUTY",
+    "website": "https://braidbeauty.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "sales@braidbeauty.com",
+        "confidence": "high",
+        "source_url": "https://braidbeauty.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "vacy Policy Terms of Service Get in touch Email | sales@braidbeauty.com Country/region United States (USD $)"
+      }
+    ],
+    "role_emails": [
+      "sales@braidbeauty.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://braidbeauty.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://braidbeauty.com/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://braidbeauty.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://braidbeauty.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://braidbeauty.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://braidbeauty.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://braidbeauty.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://braidbeauty.com/collections/black-friday-sales-2024/products/3x-x-pression-pre-stretched-braid-58",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://braidbeauty.com/collections/black-friday-sales-2024/products/outre-braids-x-pression-kanekalon-3x-pre-stretched-braid-43",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://braidbeauty.com/collections/black-friday-sales-2024/products/outre-braids-x-pression-kanekalon-3x-pre-stretched-braid-42",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "BRAID BEAUTY | The Bulk Store | braidbeauty.comSelling INNOCENCE EZ BRAID Spetra Fiber bulk prices. Save now. Supplying braiders with a dream.",
+    "source_urls": [
+      "https://braidbeauty.com",
+      "https://braidbeauty.com/meet-the-team",
+      "https://braidbeauty.com/about",
+      "https://braidbeauty.com/about-us",
+      "https://braidbeauty.com/media",
+      "https://braidbeauty.com/contact",
+      "https://braidbeauty.com/pages/about-us",
+      "https://braidbeauty.com/collections/black-friday-sales-2024/products/3x-x-pression-pre-stretched-braid-58",
+      "https://braidbeauty.com/collections/black-friday-sales-2024/products/outre-braids-x-pression-kanekalon-3x-pre-stretched-braid-43",
+      "https://braidbeauty.com/collections/black-friday-sales-2024/products/outre-braids-x-pression-kanekalon-3x-pre-stretched-braid-42"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "braided-rugs.com",
+    "company_name": "Braided-Rugs.com",
+    "website": "https://braided-rugs.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "sales@braided-rugs.com",
+        "confidence": "highest",
+        "source_url": "https://braided-rugs.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Customer Service via email, toll-free phone or live chat: sales@braided-rugs.com Toll-Free: 770-678-2525 Contact form Na"
+      }
+    ],
+    "role_emails": [
+      "sales@braided-rugs.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://braided-rugs.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://braided-rugs.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://braided-rugs.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://braided-rugs.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://braided-rugs.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Shop handcrafted braided rugs built to last. Timeless styles in wool, cotton & more perfect for any room. Free shipping. Order yours today!",
+    "source_urls": [
+      "https://braided-rugs.com",
+      "https://braided-rugs.com/contact",
+      "https://braided-rugs.com/pages/about-us",
+      "https://braided-rugs.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "braidusa.com",
+    "company_name": "BRAID Wheels USA",
+    "website": "https://braidusa.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@braidusa.com",
+        "confidence": "high",
+        "source_url": "https://braidusa.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "SMS at any time by replying STOP or by sending an email to info@braidusa.com. Reply HELP for Support. Privacy Policy Email form:"
+      },
+      {
+        "address": "sales@braidusa.com",
+        "confidence": "high",
+        "source_url": "https://braidusa.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "loomfield Hills, MI 48302 Hours: 8am to 7pm EST Email : sales@braidusa.com Text : 248.419.2891. By contacting BRAIDusa via text, you"
+      }
+    ],
+    "role_emails": [
+      "info@braidusa.com",
+      "sales@braidusa.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://braidusa.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://braidusa.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://braidusa.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://braidusa.com/pages/contact-us",
+        "action": "/contact#ContactForm-AS0c4WTdMaG9DMy80V__contact_form_UwiCkQ",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "The only wheels you'll ever need, in any bolt pattern, at any offset, in any finish, for any vehicle, for any purpose, made just for you, in our European factory",
+    "source_urls": [
+      "https://braidusa.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "brailleskateboarding.com",
+    "company_name": "Braille Skateboarding",
+    "website": "https://www.brailleskateboarding.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "contact@brailleskateboarding. com",
+        "title": null,
+        "email": "contact@brailleskateboarding.com",
+        "source_url": "https://www.brailleskateboarding.com/pages/about-us"
+      }
+    ],
+    "people": [
+      {
+        "name": "contact@brailleskateboarding. com",
+        "title": null,
+        "email": "contact@brailleskateboarding.com",
+        "source_url": "https://www.brailleskateboarding.com/pages/about-us"
+      }
+    ],
+    "emails": [
+      {
+        "address": "contact@brailleskateboarding.com",
+        "confidence": "highest",
+        "source_url": "https://www.brailleskateboarding.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "aaron@brailleskateboarding.com",
+        "confidence": "high",
+        "source_url": "https://www.brailleskateboarding.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "charlie@brailleskateboarding.com",
+        "confidence": "high",
+        "source_url": "https://www.brailleskateboarding.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "egarding the Braille Skateboarding Academy , please email: charlie@brailleskateboarding.com For business inquiries regarding Braille products , plea"
+      },
+      {
+        "address": "chloe@brailleskateboarding.com",
+        "confidence": "high",
+        "source_url": "https://www.brailleskateboarding.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2018-11-19",
+        "context_snippet": "railleskateboarding.com WHOLESALE OR SHOP COLLABORATIONS: chloe@brailleskateboarding.com CUSTOMER SERVICE: shop@brailleskateboarding.com For"
+      },
+      {
+        "address": "jen@brailleskateboarding.com",
+        "confidence": "high",
+        "source_url": "https://www.brailleskateboarding.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2018-11-19",
+        "context_snippet": "boarding.com For Media or Brand Inquiry, Please Email Jen@brailleskateboarding.com Below: Submit"
+      },
+      {
+        "address": "kylie@brailleskateboarding.com",
+        "confidence": "high",
+        "source_url": "https://www.brailleskateboarding.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "all media and brand partnership inquiries, please email: kylie@brailleskateboarding.com For all other questions /or just to say hello, email: co"
+      },
+      {
+        "address": "shop@brailleskateboarding.com",
+        "confidence": "high",
+        "source_url": "https://www.brailleskateboarding.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2018-11-19",
+        "context_snippet": "RATIONS: chloe@brailleskateboarding.com CUSTOMER SERVICE: shop@brailleskateboarding.com For Media or Brand Inquiry, Please Email Jen@brailles"
+      }
+    ],
+    "role_emails": [
+      "aaron@brailleskateboarding.com",
+      "charlie@brailleskateboarding.com",
+      "chloe@brailleskateboarding.com",
+      "contact@brailleskateboarding.com",
+      "jen@brailleskateboarding.com",
+      "kylie@brailleskateboarding.com",
+      "shop@brailleskateboarding.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.brailleskateboarding.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brailleskateboarding.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2018-11-19"
+      },
+      {
+        "url": "https://www.brailleskateboarding.com/pages/skate-support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brailleskateboarding.com/pages/skatesupport",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brailleskateboarding.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brailleskateboarding.com/collections/team-picks",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brailleskateboarding.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.brailleskateboarding.com/about",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Shop the best beginner skateboards at Braille Skateboarding and learn how to skateboard with online coaching from Aaron Kyro. Complete boards, decks, gear and lessons.",
+    "source_urls": [
+      "https://www.brailleskateboarding.com",
+      "https://www.brailleskateboarding.com/about",
+      "https://www.brailleskateboarding.com/pages/skate-support",
+      "https://www.brailleskateboarding.com/pages/skatesupport",
+      "https://www.brailleskateboarding.com/pages/about-us",
+      "https://www.brailleskateboarding.com/collections/team-picks",
+      "https://www.brailleskateboarding.com/pages/contact-us"
+    ],
+    "reason": null,
+    "pages_fetched": 14
+  },
+  {
+    "company_domain": "brainflakes.com",
+    "company_name": "Brain Flakes",
+    "website": "https://brainflakes.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://brainflakes.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brainflakes.com/pages/about-brain-flakes",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brainflakes.com/pages/brain-flakes%C2%AE-in-the-media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brainflakes.com/pages/brain-flakes-social-media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brainflakes.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "The Brain Flakes\u00ae brand mission is Engineers Start Here\u00ae. That means enabling the world's next generation of engineers through confidence building and spatial learning! Brain Flakes\u00ae is the stepping stone to enter the world of engineering!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "brainiacfoods.com",
+    "company_name": "Brainiac\u00ae",
+    "website": "https://brainiacfoods.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Email Us",
+        "title": null,
+        "email": "hello@brainiacfoods.com",
+        "source_url": "https://brainiacfoods.com"
+      }
+    ],
+    "people": [
+      {
+        "name": "Email Us",
+        "title": null,
+        "email": "hello@brainiacfoods.com",
+        "source_url": "https://brainiacfoods.com"
+      }
+    ],
+    "emails": [
+      {
+        "address": "hello@brainiacfoods.com",
+        "confidence": "highest",
+        "source_url": "https://brainiacfoods.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://brainiacfoods.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brainiacfoods.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Brainiac\u00ae is the first and only line of snacks to contain the BrainPack\u00ae a one-of-a-kind blend of omega-3 DHA/EPA, Omega-3 ALA, and choline, key nutrients that support healthy, happy brains.",
+    "source_urls": [
+      "https://brainiacfoods.com",
+      "https://brainiacfoods.com/pages/about"
+    ],
+    "reason": null,
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "brainrichkids.com",
+    "company_name": "Brainrich Kids",
+    "website": "https://brainrichkids.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Contact us: info@brainrichkids.com",
+        "title": null,
+        "email": "info@brainrichkids.com",
+        "source_url": "https://brainrichkids.com/pages/in-the-press"
+      }
+    ],
+    "people": [
+      {
+        "name": "Contact us: info@brainrichkids.com",
+        "title": null,
+        "email": "info@brainrichkids.com",
+        "source_url": "https://brainrichkids.com/pages/in-the-press"
+      }
+    ],
+    "emails": [
+      {
+        "address": "info@brainrichkids.com",
+        "confidence": "highest",
+        "source_url": "https://brainrichkids.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "l or Share My Personal Information Get in touch info@brainrichkids.com (800) 586-1688 Monday to Friday, 10 AM to 6 PM EST"
+      }
+    ],
+    "role_emails": [
+      "info@brainrichkids.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://brainrichkids.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brainrichkids.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brainrichkids.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brainrichkids.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brainrichkids.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brainrichkids.com/pages/in-the-press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brainrichkids.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brainrichkids.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://brainrichkids.com/pages/contact-us",
+        "action": "/contact#ContactForm-template--23826891636956__contact-form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Modular and fully adjustable steel indoor play gyms kids use daily for years: monkey bars, swings, rings. No drilling, rated 220 lb. Ages 3-12+. 30-day money-back guarantee.",
+    "source_urls": [
+      "https://brainrichkids.com",
+      "https://brainrichkids.com/about",
+      "https://brainrichkids.com/about-us",
+      "https://brainrichkids.com/contact",
+      "https://brainrichkids.com/pages/about-us",
+      "https://brainrichkids.com/pages/in-the-press",
+      "https://brainrichkids.com/pages/contact-us",
+      "https://brainrichkids.com/policies/contact-information"
+    ],
+    "reason": null,
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "brainstormproducts.com",
+    "company_name": "BrainStormProducts, LLC",
+    "website": "https://brainstormproducts.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Talk with Sales",
+        "title": null,
+        "email": "sales@brainstormproducts.com",
+        "source_url": "https://brainstormproducts.com"
+      }
+    ],
+    "people": [
+      {
+        "name": "Talk with Sales",
+        "title": null,
+        "email": "sales@brainstormproducts.com",
+        "source_url": "https://brainstormproducts.com"
+      }
+    ],
+    "emails": [
+      {
+        "address": "sales@brainstormproducts.com",
+        "confidence": "highest",
+        "source_url": "https://brainstormproducts.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "tunity and respond within two business days. Email Sales \u2197 sales@brainstormproducts.com Meet our toy family Explore our toy brands \u2192 Already own on"
+      }
+    ],
+    "role_emails": [
+      "sales@brainstormproducts.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://brainstormproducts.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brainstormproducts.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brainstormproducts.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brainstormproducts.com/contact#business-inquiry",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://brainstormproducts.com/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://brainstormproducts.com/contact#business-inquiry",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "BrainStormProducts creates distinctive toy brands and retail-ready product programs for national retailers, distributors, licensors, OEM, and private-label partners.",
+    "source_urls": [
+      "https://brainstormproducts.com",
+      "https://brainstormproducts.com/about",
+      "https://brainstormproducts.com/contact",
+      "https://brainstormproducts.com/contact#business-inquiry"
+    ],
+    "reason": null,
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "brainsync.com",
+    "company_name": "Brain Sync",
+    "website": "https://www.brainsync.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.brainsync.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brainsync.com/pages/about-brain-sync",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brainsync.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.brainsync.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Free guided meditations from Kelly Howell, the brain behind Brain Sync - a leader in brainwave therapy, brainwave entertainment and binaural beat technology.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "brakebleeder.com",
+    "company_name": "Phoenix Systems",
+    "website": "https://brakebleeder.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "brakecrafters.com",
+    "company_name": "Brakecrafters",
+    "website": "https://brakecrafters.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "sales@brakecrafters.com",
+        "confidence": "highest",
+        "source_url": "https://brakecrafters.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ems Helpful Resources About us Contact Search sales@brakecrafters.com | 855-786-7968 Business Hours: Monday \u2013 Friday, 8 AM"
+      }
+    ],
+    "role_emails": [
+      "sales@brakecrafters.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://brakecrafters.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brakecrafters.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Brakecrafters carries the top brake brands for all motorcycle makes/models. We are an authorized EBC retailer. Free USPS shipping on all US orders $75+.",
+    "source_urls": [
+      "https://brakecrafters.com",
+      "https://brakecrafters.com/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "brakefreetech.com",
+    "company_name": "Brake Free Technologies",
+    "website": "https://www.brakefreetech.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@brakefreetech.com",
+        "confidence": "highest",
+        "source_url": "https://www.brakefreetech.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "support@brakefreetech.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.brakefreetech.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brakefreetech.com/pages/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brakefreetech.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brakefreetech.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.brakefreetech.com/pages/support",
+        "action": "/contact#contact-template--22566003671263__1650284079ad9d05e0",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.brakefreetech.com/pages/contact-us",
+        "action": "/contact#contact-template--22566003310815__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "The home of Brake Free, the brightest smart high visibility helmet brake light accessory with wireless brake detection. The first detachable brake light that can easily mount to most helmets! Be seen to be safe.",
+    "source_urls": [
+      "https://www.brakefreetech.com",
+      "https://www.brakefreetech.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "braketechtools.com",
+    "company_name": "Brake Tech Tools, LLC",
+    "website": "https://braketechtools.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "sales@braketechtools.com",
+        "confidence": "high",
+        "source_url": "https://braketechtools.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "sales@braketechtools.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://braketechtools.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://braketechtools.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://braketechtools.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://braketechtools.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Our top quality products with unparalleled service make us the leader in brake system tools.",
+    "source_urls": [
+      "https://braketechtools.com",
+      "https://braketechtools.com/pages/about-us",
+      "https://braketechtools.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bramblitt.com",
+    "company_name": "John Bramblitt",
+    "website": "https://bramblitt.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://bramblitt.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bramblitt.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bramblitt.com/pages/media-package",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Homepage of the visually impaired visual artist John Bramblitt.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "branchbasics.com",
+    "company_name": "Branch Basics",
+    "website": "https://branchbasics.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@branchbasics.com",
+        "confidence": "highest",
+        "source_url": "https://branchbasics.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Open external link to YouTube info@branchbasics.com \u00a9 2026 Branch Basics. All rights reserved."
+      },
+      {
+        "address": "customerservice@branchbasics.com",
+        "confidence": "high",
+        "source_url": "https://branchbasics.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "customerservice@branchbasics.com",
+      "info@branchbasics.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://branchbasics.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://branchbasics.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://branchbasics.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://branchbasics.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://branchbasics.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Replace toxic cleaning products, reduce waste, and keep your home clean with our high-quality, plant-based cleaning products.",
+    "source_urls": [
+      "https://branchbasics.com",
+      "https://branchbasics.com/our-team",
+      "https://branchbasics.com/about",
+      "https://branchbasics.com/about-us",
+      "https://branchbasics.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "branchfurniture.com",
+    "company_name": "Branch",
+    "website": "https://www.branchfurniture.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "comms@branchfurniture.com",
+        "confidence": "highest",
+        "source_url": "https://www.branchfurniture.com/press",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "work and feel their best. For all press inquires, email comms@branchfurniture.com"
+      },
+      {
+        "address": "hello@branchfurniture.com",
+        "confidence": "highest",
+        "source_url": "https://www.branchfurniture.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "sales@branchfurniture.com",
+        "confidence": "highest",
+        "source_url": "https://www.branchfurniture.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Or send us a quick note to sales@branchfurniture.com Thank you for your interest! A Branch Expert"
+      },
+      {
+        "address": "trade@branchfurniture.com",
+        "confidence": "highest",
+        "source_url": "https://www.branchfurniture.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "thin 1-2 business days. You can also send a quick email to trade@branchfurniture.com instead if you prefer. In order to assist you as quickly a"
+      }
+    ],
+    "role_emails": [
+      "comms@branchfurniture.com",
+      "hello@branchfurniture.com",
+      "sales@branchfurniture.com",
+      "trade@branchfurniture.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.branchfurniture.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.branchfurniture.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.branchfurniture.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.branchfurniture.com/pages/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.branchfurniture.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.branchfurniture.com/pages/for-teams",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.branchfurniture.com/collections/team-desks",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.branchfurniture.com",
+        "action": "/contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.branchfurniture.com/pages/contact",
+        "action": "/contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.branchfurniture.com/pages/for-teams",
+        "action": "/contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.branchfurniture.com/collections/team-desks",
+        "action": "/contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Browse Branch's selection of home and corporate office furniture that works beautifully to create productive and stylish workspaces.",
+    "source_urls": [
+      "https://www.branchfurniture.com",
+      "https://www.branchfurniture.com/press",
+      "https://www.branchfurniture.com/pages/about-us",
+      "https://www.branchfurniture.com/pages/press",
+      "https://www.branchfurniture.com/pages/contact",
+      "https://www.branchfurniture.com/pages/for-teams",
+      "https://www.branchfurniture.com/collections/team-desks"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 14
+  },
+  {
+    "company_domain": "branchoutfood.com",
+    "company_name": "BranchOut Food",
+    "website": "https://branchoutfood.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "sales@branchoutfood.com",
+        "confidence": "highest",
+        "source_url": "https://branchoutfood.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Address 20724 Carmen Loop Suite 110 Bend, OR 97702 Email us sales@branchoutfood.com Sign up"
+      }
+    ],
+    "role_emails": [
+      "sales@branchoutfood.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://branchoutfood.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://branchoutfood.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://branchoutfood.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Crispy fruit & veggie snacks made from real produce. No added sugar. No weird stuff. Just snackable goodness.",
+    "source_urls": [
+      "https://branchoutfood.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "brandblack.com",
+    "company_name": "Brandblack",
+    "website": "https://brandblack.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "http_402",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "brandedbills.com",
+    "company_name": "Branded Bills",
+    "website": "https://www.brandedbills.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@brandedbills.com",
+        "confidence": "high",
+        "source_url": "https://www.brandedbills.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@brandedbills.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.brandedbills.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brandedbills.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Discover custom hats and apparel at Branded Bills. Shop snapbacks, curved and flat bill hats, 5-panel rope, trucker, fitted, beanies, and performance ge...",
+    "source_urls": [
+      "https://www.brandedbills.com",
+      "https://www.brandedbills.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "brandefyskin.com",
+    "company_name": "Brandefy",
+    "website": "https://brandefyskin.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@brandefyskin.com",
+        "confidence": "highest",
+        "source_url": "https://brandefyskin.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "our order total cannot exceed {DOLLAR} Please reach out to hello@brandefyskin.com if you have any questions! Y"
+      }
+    ],
+    "role_emails": [
+      "hello@brandefyskin.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://brandefyskin.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brandefyskin.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brandefyskin.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brandefyskin.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brandefyskin.com/products/collagen-support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brandefyskin.com/products/collagen-support#yotpo-app",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brandefyskin.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://brandefyskin.com/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://brandefyskin.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Fiercely formulated, dermatologist recommended, skincare lover approved, and most importantly, decided by you.",
+    "source_urls": [
+      "https://brandefyskin.com",
+      "https://brandefyskin.com/about-us",
+      "https://brandefyskin.com/contact",
+      "https://brandefyskin.com/pages/about-us",
+      "https://brandefyskin.com/products/collagen-support",
+      "https://brandefyskin.com/products/collagen-support#yotpo-app",
+      "https://brandefyskin.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "brandingirons.com",
+    "company_name": "Branding Irons Unlimited",
+    "website": "https://brandingirons.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "sales@brandingirons.com",
+        "confidence": "highest",
+        "source_url": "https://brandingirons.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ga Ave. Canoga Park, CA 91304 Phone: (818) 576-1101 Email: sales@brandingirons.com Email: sales@infinimark.com More Information"
+      }
+    ],
+    "role_emails": [
+      "sales@brandingirons.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://brandingirons.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brandingirons.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brandingirons.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brandingirons.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brandingirons.com/pages/business-hours-and-location",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brandingirons.com/pages/contact-info",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "We are the leading USA manufacturer of custom branding irons with outstanding customer service. We make a wide range of tools from professional wood branders to solutions for branding leather, food, and more! You deserve the most accurate marking tool possible because your brand is more than a label",
+    "source_urls": [
+      "https://brandingirons.com",
+      "https://brandingirons.com/contact",
+      "https://brandingirons.com/pages/contact-us",
+      "https://brandingirons.com/pages/about-us",
+      "https://brandingirons.com/pages/business-hours-and-location",
+      "https://brandingirons.com/pages/contact-info"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "brandinitoffee.com",
+    "company_name": "Brandini Toffee",
+    "website": "https://brandinitoffee.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@brandinitoffee.com",
+        "confidence": "highest",
+        "source_url": "https://brandinitoffee.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Palm Springs Contact Us 1-877-327-2634 info@brandinitoffee.com sales@brandinitoffee.com Safe & Secure"
+      },
+      {
+        "address": "sales@brandinitoffee.com",
+        "confidence": "highest",
+        "source_url": "https://brandinitoffee.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "34 or (760) 200-1598 For Special Orders: sales@brandinitoffee.com Have a question or concern?:"
+      }
+    ],
+    "role_emails": [
+      "info@brandinitoffee.com",
+      "sales@brandinitoffee.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://brandinitoffee.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brandinitoffee.com/pages/locations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brandinitoffee.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://brandinitoffee.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Maker of premium small batch toffee products.",
+    "source_urls": [
+      "https://brandinitoffee.com",
+      "https://brandinitoffee.com/pages/locations",
+      "https://brandinitoffee.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "brandking.com",
+    "company_name": "Brand King",
+    "website": "https://brandking.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@brandking.com",
+        "confidence": "high",
+        "source_url": "https://brandking.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "u003einfo@brandking.com",
+        "confidence": "high",
+        "source_url": "https://brandking.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@brandking.com",
+      "u003einfo@brandking.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://brandking.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Brand King is your wholesale source for marijuana packaging & supplies. We stock a large variety of child-resistant containers & mylar bags, Pre-roll tubes, vape cartridges, pop top bottles. Find glass or plastic jars in stock. We offer label making, application & design services, embroidery and cus",
+    "source_urls": [
+      "https://brandking.com"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "brandless.com",
+    "company_name": "Brandless",
+    "website": "https://brandless.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "dns_failure",
+    "pages_fetched": 2
+  }
+]
