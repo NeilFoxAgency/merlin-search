@@ -1,0 +1,1719 @@
+[
+  {
+    "company_domain": "bluetoplegend.com",
+    "company_name": "Blue Top Legend",
+    "website": "https://bluetoplegend.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://bluetoplegend.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bluetoplegend.com/pages/bluetopabout",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bluetoplegend.com/pages/bluetopsocialmediamanagement",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bluetoplegend.com/pages/bluetopcontact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bluetoplegend.com/pages/bluetopcontact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Blue Top Legend offers expert yacht brokerage services for buying and selling luxury yachts, with a focus on personalized care and unmatched industry knowledge. As a maritime marketing agency, we specialize in content creation, network advertising, and social media management, helping brands elevate",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "bluettipower.ca",
+    "company_name": "BLUETTI-CA",
+    "website": "https://www.bluettipower.ca",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.bluettipower.ca",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bluettipower.ca/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bluettipower.ca/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bluettipower.ca/pages/new-support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bluettipower.ca/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.bluettipower.ca/pages/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Explore BLUETTI - the technology pioneer in clean energy for your off-grid solar power solutions. Shop solar generator kits, portable power stations, solar panels, and more.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "bluettipower.com",
+    "company_name": "BLUETTI",
+    "website": "https://www.bluettipower.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "sale@bluettipower.com",
+        "confidence": "highest",
+        "source_url": "https://www.bluettipower.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "service@bluettipower.com",
+        "confidence": "highest",
+        "source_url": "https://www.bluettipower.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "distributor@bluettipower.com",
+        "confidence": "high",
+        "source_url": "https://www.bluettipower.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "vice@bluettipower.com Wholesale, Distribute Or Dropshipping distributor@bluettipower.com Press, Marketing And Influencer Cooperation marketing@bluet"
+      }
+    ],
+    "role_emails": [
+      "distributor@bluettipower.com",
+      "sale@bluettipower.com",
+      "service@bluettipower.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.bluettipower.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bluettipower.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bluettipower.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bluettipower.com/pages/express-replacement",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bluettipower.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.bluettipower.com/pages/contact-us",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Explore BLUETTI - the technology pioneer in clean energy for your off-grid solar power solutions. Shop solar generator kits, portable power stations, solar panels, and more.",
+    "source_urls": [
+      "https://www.bluettipower.com",
+      "https://www.bluettipower.com/about",
+      "https://www.bluettipower.com/pages/about-us",
+      "https://www.bluettipower.com/pages/express-replacement",
+      "https://www.bluettipower.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "bluetunaspearfishing.com",
+    "company_name": "Blue Tuna Spearfishing Co",
+    "website": "https://bluetunaspearfishing.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "sales@bluetunaspearfishing.com",
+        "confidence": "high",
+        "source_url": "https://bluetunaspearfishing.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "sales@bluetunaspearfishing.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bluetunaspearfishing.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bluetunaspearfishing.com/pages/bts-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bluetunaspearfishing.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bluetunaspearfishing.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bluetunaspearfishing.com/pages/contact-us",
+        "action": "/contact#contact-template--15220580221165__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Blue Tuna Spearfishing is your full service one-stop Spearo Shop. We offer the best quality spearfishing gear from all over the world.",
+    "source_urls": [
+      "https://bluetunaspearfishing.com",
+      "https://bluetunaspearfishing.com/pages/bts-team",
+      "https://bluetunaspearfishing.com/pages/about",
+      "https://bluetunaspearfishing.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "bluewater.dog",
+    "company_name": "Bluewater Dog",
+    "website": "https://www.bluewater.dog",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@bluewater.dog",
+        "confidence": "high",
+        "source_url": "https://www.bluewater.dog/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Contact Please fill out the form below or email info@bluewater.dog for any questions. Office/Warehouse Address: 2725 Old Wri"
+      }
+    ],
+    "role_emails": [
+      "info@bluewater.dog"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.bluewater.dog",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bluewater.dog/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.bluewater.dog/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Give your dog the comfort they deserve with orthopedic dog beds designed for joint support, durability, and everyday life. Premium materials, washable covers, and long-lasting quality.",
+    "source_urls": [
+      "https://www.bluewater.dog/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "bluewaterdancewear.com",
+    "company_name": "Blue Water Dance Wear",
+    "website": "https://bluewaterdancewear.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@bluewaterdancewear.com",
+        "confidence": "high",
+        "source_url": "https://bluewaterdancewear.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@bluewaterdancewear.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bluewaterdancewear.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bluewaterdancewear.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bluewaterdancewear.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bluewaterdancewear.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "The fastest-growing, fan-favorite, dancewear brand in market! Dancers love us for our amazing fit, comfort and quality. Sizes child through adult. 100% USA made",
+    "source_urls": [
+      "https://bluewaterdancewear.com",
+      "https://bluewaterdancewear.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bluewateroutriggers.com",
+    "company_name": "Bluewater Outriggers",
+    "website": "https://www.bluewateroutriggers.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@bluewateroutriggers.com",
+        "confidence": "highest",
+        "source_url": "https://www.bluewateroutriggers.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Need help? Call us 850-229-6100 support@bluewateroutriggers.com Back Fishing Carts Balloon Tir"
+      }
+    ],
+    "role_emails": [
+      "support@bluewateroutriggers.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.bluewateroutriggers.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bluewateroutriggers.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bluewateroutriggers.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bluewateroutriggers.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bluewateroutriggers.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bluewateroutriggers.com/products/bogg-bag-baby-fresh-pressed-linen",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bluewateroutriggers.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.bluewateroutriggers.com/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.bluewateroutriggers.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Fishing Tackle, Lures, Hunting, Fishing, Penn Rods, Fishing Reels, Shimano, Beach Supplies, Boating Accessories",
+    "source_urls": [
+      "https://www.bluewateroutriggers.com",
+      "https://www.bluewateroutriggers.com/team",
+      "https://www.bluewateroutriggers.com/about-us",
+      "https://www.bluewateroutriggers.com/press",
+      "https://www.bluewateroutriggers.com/contact",
+      "https://www.bluewateroutriggers.com/products/bogg-bag-baby-fresh-pressed-linen",
+      "https://www.bluewateroutriggers.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bluewatervinylandgifts.com",
+    "company_name": "bluewatervinylandgifts.com",
+    "website": "https://bluewatervinylandgifts.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": "MEGAWIN168 merupakan link situs megawin slot gacor terbaru yang menawarkan sensasi bermain gampang menang maxwin melalui deretan slot games populer dengan winrate tinggi.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "bluewaveproducts.com",
+    "company_name": "Blue Wave Products",
+    "website": "https://bluewaveproducts.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "custserv@bluewaveproducts.com",
+        "confidence": "highest",
+        "source_url": "https://bluewaveproducts.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "AIMS warranty@bluewaveproducts.com CUSTOMER SERVICE Custserv@bluewaveproducts.com BECOME A DEALER sales@bluewaveproducts.com Blue W"
+      },
+      {
+        "address": "sales@bluewaveproducts.com",
+        "confidence": "highest",
+        "source_url": "https://bluewaveproducts.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "RVICE Custserv@bluewaveproducts.com BECOME A DEALER sales@bluewaveproducts.com Blue Wave Products, Inc. 101 N. Raddant"
+      },
+      {
+        "address": "warranty@bluewaveproducts.com",
+        "confidence": "highest",
+        "source_url": "https://bluewaveproducts.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "CONTACT US (800) 759-0977 WARRANTY CLAIMS warranty@bluewaveproducts.com CUSTOMER SERVICE Custserv@bluewaveproducts.com BE"
+      }
+    ],
+    "role_emails": [
+      "custserv@bluewaveproducts.com",
+      "sales@bluewaveproducts.com",
+      "warranty@bluewaveproducts.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bluewaveproducts.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bluewaveproducts.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bluewaveproducts.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Blue Wave Products is a leading manufacturer and distributor of pools, pool supplies, table games, patio furniture, saunas and more.",
+    "source_urls": [
+      "https://bluewaveproducts.com",
+      "https://bluewaveproducts.com/about",
+      "https://bluewaveproducts.com/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "bluewillowtea.com",
+    "company_name": "Blue Willow Tea",
+    "website": "https://www.bluewillowtea.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.bluewillowtea.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bluewillowtea.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Traveling the world to bring you sustainably and ethically sourced teas. We offer a wide range of premium loose-leaf teas and herbal blends.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "bluffworks.com",
+    "company_name": "Bluffworks",
+    "website": "https://shop.bluffworks.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://shop.bluffworks.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.bluffworks.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.bluffworks.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.bluffworks.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.bluffworks.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.bluffworks.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Bluffworks creates versatile travel clothes designed to go anywhere and still look great. They're the best working, travel or hiking clothes ready for anything.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "blume.com",
+    "company_name": "Blume",
+    "website": "https://www.blume.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "%20wholesale@blume.com",
+        "confidence": "highest",
+        "source_url": "https://www.blume.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "hi@blume.com",
+        "confidence": "highest",
+        "source_url": "https://www.blume.com/pages/support",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ing to cancel or make changes to your order? Please email hi@blume.com with your order number and one of the following subject li"
+      },
+      {
+        "address": "%20press@blume.com",
+        "confidence": "high",
+        "source_url": "https://www.blume.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "careers@blume.com",
+        "confidence": "high",
+        "source_url": "https://www.blume.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ips: press@blume.com Press: press@blume.com Careers: careers@blume.com Wholesale Opportunities: wholesale@blume.com"
+      },
+      {
+        "address": "danica@blume.com",
+        "confidence": "high",
+        "source_url": "https://www.blume.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "press@blume.com",
+        "confidence": "high",
+        "source_url": "https://www.blume.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ipped. For everything else... Business + Partnerships: press@blume.com Press: press@blume.com Careers: careers@blume.com W"
+      },
+      {
+        "address": "taran@blume.com",
+        "confidence": "high",
+        "source_url": "https://www.blume.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "wholesale@blume.com",
+        "confidence": "high",
+        "source_url": "https://www.blume.com/pages/support",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "w stores to carry our products. Please send us an email to wholesale@blume.com with information about your store to explore opportunities"
+      }
+    ],
+    "role_emails": [
+      "%20press@blume.com",
+      "%20wholesale@blume.com",
+      "careers@blume.com",
+      "danica@blume.com",
+      "hi@blume.com",
+      "press@blume.com",
+      "taran@blume.com",
+      "wholesale@blume.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.blume.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.blume.com/pages/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.blume.com/pages/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.blume.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Hi, we're Blume and we're all up in your bathroom with products that are good for you, and the environment. Award winning skin care. Clean, effective and affordable.",
+    "source_urls": [
+      "https://www.blume.com",
+      "https://www.blume.com/pages/support",
+      "https://www.blume.com/pages/press",
+      "https://www.blume.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "blumhouse.com",
+    "company_name": "Blumhouse Shop",
+    "website": "https://shop.blumhouse.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://shop.blumhouse.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Get merchandise from some of your favorite films from our Blumhouse Shop and wear your passion proudly.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "blumonaco.com",
+    "company_name": "Blu Monaco",
+    "website": "https://www.blumonaco.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customerservice@blumonaco.com",
+        "confidence": "high",
+        "source_url": "https://www.blumonaco.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "customerservice@blumonaco.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.blumonaco.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.blumonaco.com/collections/espresso",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.blumonaco.com/pages/contact-info",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Blu Monaco - Home and Office organization and decor. Just as your wardrobe represents you and your style, so your desk builds your image. By creating and curating beautiful, well-made items that are both timeless and trend-savvy, you\u2019re building your look and showing that you care about your present",
+    "source_urls": [
+      "https://www.blumonaco.com",
+      "https://www.blumonaco.com/collections/espresso",
+      "https://www.blumonaco.com/pages/contact-info"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "blumsalmanac.com",
+    "company_name": "Blum's Almanac",
+    "website": "https://blumsalmanac.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://blumsalmanac.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blumsalmanac.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blumsalmanac.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Since 1828, Blum\u2019s Almanac has been a reliable companion for folks all year long. This year's edition is once again packed full of weather forecasts, moon phases, everyday advice, good humor, planting tables, gardening tips and much, much more!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "blumwineandflowers.com",
+    "company_name": "BLUM Wine & Flowers",
+    "website": "https://blumwineandflowers.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://blumwineandflowers.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blumwineandflowers.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "BLUM Wine & Flowers",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "blunteffectsusa.com",
+    "company_name": "Blunteffects\u00ae USA",
+    "website": "https://www.blunteffectsusa.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@blunteffectsusa.com",
+        "confidence": "high",
+        "source_url": "https://www.blunteffectsusa.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@blunteffectsusa.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.blunteffectsusa.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.blunteffectsusa.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.blunteffectsusa.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.blunteffectsusa.com/pages/contact-us",
+        "action": "/contact#contact-template--25468209037619__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Our odor neutralizers come infused with essential oils and natural formulations for a fresh, pleasant smell. See why Blunteffects\u00ae makes sense.",
+    "source_urls": [
+      "https://www.blunteffectsusa.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bluntpower.com",
+    "company_name": "BluntPower Air Freshener",
+    "website": "https://bluntpower.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@bluntpower.com",
+        "confidence": "high",
+        "source_url": "https://bluntpower.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "erprises, LLC. 35 Enterprise Blvd Atlanta, GA 30336 support@bluntpower.com Country/region"
+      }
+    ],
+    "role_emails": [
+      "support@bluntpower.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bluntpower.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bluntpower.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bluntpower.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bluntpower.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bluntpower.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bluntpower.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bluntpower.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "BluntPower: 3 Sprays Last for Days | Essential Oil-Based Air Fresheners. Eliminate Odors Instantly in Car, Home, & Office. Long-Lasting Fragrances, Wide Range Of Scents. Experience Powerful Aroma That Lasts.\"",
+    "source_urls": [
+      "https://bluntpower.com",
+      "https://bluntpower.com/about",
+      "https://bluntpower.com/about-us",
+      "https://bluntpower.com/pages/about",
+      "https://bluntpower.com/pages/contact-us",
+      "https://bluntpower.com/policies/contact-information"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "bluntumbrellas.com",
+    "company_name": "BLUNT Umbrellas US",
+    "website": "https://bluntumbrellas.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Corporate Gifting",
+        "title": null,
+        "email": "megan@bluntumbrellas.com",
+        "source_url": "https://bluntumbrellas.com"
+      },
+      {
+        "name": "PR Inquiries",
+        "title": null,
+        "email": "fee@bluntumbrellas.com",
+        "source_url": "https://bluntumbrellas.com"
+      }
+    ],
+    "people": [
+      {
+        "name": "Corporate Gifting",
+        "title": null,
+        "email": "megan@bluntumbrellas.com",
+        "source_url": "https://bluntumbrellas.com"
+      },
+      {
+        "name": "PR Inquiries",
+        "title": null,
+        "email": "fee@bluntumbrellas.com",
+        "source_url": "https://bluntumbrellas.com"
+      }
+    ],
+    "emails": [
+      {
+        "address": "fee@bluntumbrellas.com",
+        "confidence": "highest",
+        "source_url": "https://bluntumbrellas.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "info@bluntumbrellas.com",
+        "confidence": "highest",
+        "source_url": "https://bluntumbrellas.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2014-09-21",
+        "context_snippet": "SALES sales@bluntumbrellas.com GENERAL ENQUIRIES info@bluntumbrellas.com PHYSICAL ADDRESS Morton House 2 Mountain Road Newmark"
+      },
+      {
+        "address": "megan@bluntumbrellas.com",
+        "confidence": "highest",
+        "source_url": "https://bluntumbrellas.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "natalia@bluntumbrellas.com",
+        "confidence": "highest",
+        "source_url": "https://bluntumbrellas.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "sales@bluntumbrellas.com",
+        "confidence": "highest",
+        "source_url": "https://bluntumbrellas.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2014-09-21",
+        "context_snippet": "SALES sales@bluntumbrellas.com GENERAL ENQUIRIES info@bluntumbrellas.com PHYSICAL AD"
+      }
+    ],
+    "role_emails": [
+      "info@bluntumbrellas.com",
+      "natalia@bluntumbrellas.com",
+      "sales@bluntumbrellas.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bluntumbrellas.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bluntumbrellas.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2014-09-21"
+      },
+      {
+        "url": "https://bluntumbrellas.com/pages/about-2",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bluntumbrellas.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bluntumbrellas.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bluntumbrellas.com/products/espresso-metro",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bluntumbrellas.com/contact",
+        "action": "/contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "BLUNT is a human-centered product design company. Products that are built to last, modular and repairable because when we care for and respect products they will be with us for life.",
+    "source_urls": [
+      "https://bluntumbrellas.com",
+      "https://bluntumbrellas.com/contact",
+      "https://bluntumbrellas.com/pages/about-2",
+      "https://bluntumbrellas.com/pages/contact",
+      "https://bluntumbrellas.com/pages/about",
+      "https://bluntumbrellas.com/products/espresso-metro"
+    ],
+    "reason": null,
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "bluonics.com",
+    "company_name": "Bluonics",
+    "website": "https://www.bluonics.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@bluonics.com",
+        "confidence": "high",
+        "source_url": "https://www.bluonics.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "support@bluonics.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.bluonics.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bluonics.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bluonics.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.bluonics.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Bluonics is the leading manufacturer and distributor of premium quality NSF-certified water and air purifiers for home and commercial use. Order now online!  Bluonics Home page",
+    "source_urls": [
+      "https://www.bluonics.com",
+      "https://www.bluonics.com/pages/contact-us",
+      "https://www.bluonics.com/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bluraysforeveryone.com",
+    "company_name": "Blurays For Everyone",
+    "website": "https://bluraysforeveryone.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://bluraysforeveryone.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bluraysforeveryone.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2023-05-13"
+      },
+      {
+        "url": "https://bluraysforeveryone.com/collections/steelbooks-metal-nova-media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bluraysforeveryone.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bluraysforeveryone.com/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://bluraysforeveryone.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Blurays For Everyone",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "blushandlumber.com",
+    "company_name": "Blush and Lumber",
+    "website": "https://blushandlumber.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@blushandlumber.com",
+        "confidence": "highest",
+        "source_url": "https://blushandlumber.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Log in Search Contact info@blushandlumber.com Facebook Pinterest Inst"
+      }
+    ],
+    "role_emails": [
+      "info@blushandlumber.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://blushandlumber.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blushandlumber.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blushandlumber.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://blushandlumber.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Luxury acrylic signage for weddings and events, featuring modern designs, premium materials, and timeless elegance for unforgettable celebrations.",
+    "source_urls": [
+      "https://blushandlumber.com",
+      "https://blushandlumber.com/pages/about-us",
+      "https://blushandlumber.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "blusharkstraps.com",
+    "company_name": "BluShark Straps",
+    "website": "https://www.blusharkstraps.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@blusharkstraps.com",
+        "confidence": "high",
+        "source_url": "https://www.blusharkstraps.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "acle Rd Suite 250, Tucson, AZ 85704, United States Email: support@blusharkstraps.com Customer Service Hours: Monday to Friday, 9:00 AM \u2013 6:00 P"
+      }
+    ],
+    "role_emails": [
+      "support@blusharkstraps.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.blusharkstraps.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.blusharkstraps.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.blusharkstraps.com/collections/blushark-staff-favorites/products/sailcloth-rubber-deploy-green",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.blusharkstraps.com/collections/blushark-staff-favorites/products/alphapremier-racing-stripe-blue-orange-black",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.blusharkstraps.com/collections/blushark-staff-favorites/products/ridge-rubber-mint",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.blusharkstraps.com/collections/blushark-staff-favorites/products/leather-sport-grip-tan",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.blusharkstraps.com/collections/blushark-staff-favorites/products/sailcloth-tan",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.blusharkstraps.com/collections/blushark-staff-favorites/products/alphapremier-bond-2021-nylon-black-gray-yellow-watch-strap",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.blusharkstraps.com/collections/blushark-staff-favorites/products/orca-black-and-blue-nylon-ballistic-watch-band-strap",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.blusharkstraps.com/collections/blushark-staff-favorites/products/divecore-american-fkm-hp-professional-diving-watch-strap-blue",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.blusharkstraps.com/collections/blushark-staff-favorites/products/sailcloth-rubber-deploy-green",
+        "action": "/contact#contact-contact7491866853458",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.blusharkstraps.com/collections/blushark-staff-favorites/products/alphapremier-racing-stripe-blue-orange-black",
+        "action": "/contact#contact-contact7410829492306",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.blusharkstraps.com/collections/blushark-staff-favorites/products/ridge-rubber-mint",
+        "action": "/contact#contact-contact7447071752274",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.blusharkstraps.com/collections/blushark-staff-favorites/products/leather-sport-grip-tan",
+        "action": "/contact#contact-contact7484584034386",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.blusharkstraps.com/collections/blushark-staff-favorites/products/sailcloth-tan",
+        "action": "/contact#contact-contact7455103811666",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.blusharkstraps.com/collections/blushark-staff-favorites/products/alphapremier-bond-2021-nylon-black-gray-yellow-watch-strap",
+        "action": "/contact#contact-contact6591616254034",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.blusharkstraps.com/collections/blushark-staff-favorites/products/orca-black-and-blue-nylon-ballistic-watch-band-strap",
+        "action": "/contact#contact-contact1514456285266",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.blusharkstraps.com/collections/blushark-staff-favorites/products/divecore-american-fkm-hp-professional-diving-watch-strap-blue",
+        "action": "/contact#contact-contact7436821626962",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "BluShark is a brand of premium nylon, silicone, and leather watch bands. Sizes available include 18mm, 20mm, 22mm, and 24mm.",
+    "source_urls": [
+      "https://www.blusharkstraps.com",
+      "https://www.blusharkstraps.com/contact",
+      "https://www.blusharkstraps.com/collections/blushark-staff-favorites/products/sailcloth-rubber-deploy-green",
+      "https://www.blusharkstraps.com/collections/blushark-staff-favorites/products/alphapremier-racing-stripe-blue-orange-black",
+      "https://www.blusharkstraps.com/collections/blushark-staff-favorites/products/ridge-rubber-mint",
+      "https://www.blusharkstraps.com/collections/blushark-staff-favorites/products/leather-sport-grip-tan",
+      "https://www.blusharkstraps.com/collections/blushark-staff-favorites/products/sailcloth-tan",
+      "https://www.blusharkstraps.com/collections/blushark-staff-favorites/products/alphapremier-bond-2021-nylon-black-gray-yellow-watch-strap",
+      "https://www.blusharkstraps.com/collections/blushark-staff-favorites/products/orca-black-and-blue-nylon-ballistic-watch-band-strap",
+      "https://www.blusharkstraps.com/collections/blushark-staff-favorites/products/divecore-american-fkm-hp-professional-diving-watch-strap-blue"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 17
+  },
+  {
+    "company_domain": "blushboutiques.com",
+    "company_name": "Blush Boutique",
+    "website": "https://blushboutiques.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://blushboutiques.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blushboutiques.com/pages/locations-contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blushboutiques.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://blushboutiques.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Blush Boutiques are a Nashville based curated collection of unique, expressive, and trendsetting fashion pieces.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "blushington.com",
+    "company_name": "Blushington.com",
+    "website": "https://blushington.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "blushingtonriveroaks@blushington.com",
+        "confidence": "high",
+        "source_url": "https://blushington.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "info@blushington.com",
+        "confidence": "high",
+        "source_url": "https://blushington.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "blushingtonriveroaks@blushington.com",
+      "info@blushington.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://blushington.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blushington.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blushington.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blushington.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blushington.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blushington.com/pages/about-leadership",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blushington.com/pages/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blushington.com/pages/locations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blushington.com/pages/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Book professional blowouts, makeup, and skincare treatments near you at Blushington \u2014 salon-quality results from our Pro Artists, all in one appointment. NYC, Houston, Boca Raton.",
+    "source_urls": [
+      "https://blushington.com/pages/contact",
+      "https://blushington.com/pages/locations"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 14
+  }
+]
