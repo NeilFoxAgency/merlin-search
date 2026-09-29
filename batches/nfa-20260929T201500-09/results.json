@@ -1,0 +1,1712 @@
+[
+  {
+    "company_domain": "brooklyndelhi.com",
+    "company_name": "Brooklyn Delhi",
+    "website": "https://brooklyndelhi.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@brooklyndelhi.com",
+        "confidence": "high",
+        "source_url": "https://brooklyndelhi.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "hello@brooklyndelhi.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://brooklyndelhi.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brooklyndelhi.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://brooklyndelhi.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "We make it easy to cook delicious Indian food at home. Try our convenient Indian meal starters and pantry staples developed by cookbook author, Chitra Agrawal.",
+    "source_urls": [
+      "https://brooklyndelhi.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "brooklyndenimco.com",
+    "company_name": "Brooklyn Denim Co.",
+    "website": "https://brooklyndenimco.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "danni@brooklyndenimco.com",
+        "confidence": "highest",
+        "source_url": "https://brooklyndenimco.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2015-02-18",
+        "context_snippet": "NQUIRES informed@brooklyndenimco.com WEBSITE INQUIRES danni@brooklyndenimco.com BDC MAILING LIST Your Information will not be sha"
+      },
+      {
+        "address": "informed@brooklyndenimco.com",
+        "confidence": "highest",
+        "source_url": "https://brooklyndenimco.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2015-02-18",
+        "context_snippet": "nim Co. 85 N. 3rd BROOKLYN, NY 11249 GENERAL INQUIRES informed@brooklyndenimco.com WEBSITE INQUIRES danni@brooklyndenimco.com BDC"
+      }
+    ],
+    "role_emails": [
+      "danni@brooklyndenimco.com",
+      "informed@brooklyndenimco.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://brooklyndenimco.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brooklyndenimco.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2015-02-18"
+      },
+      {
+        "url": "https://brooklyndenimco.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brooklyndenimco.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://brooklyndenimco.com/contact",
+        "action": "/contact/#wpcf7-f929-p112-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "A choice Williamsburg, NY shopping destination and boutique complex hosting various Brooklyn brands, we are a denim focused American made clothing brand with in-house tailoring & denim repair services. Brooklyn Roasting Co., Williamsburg Garment & others are all here. Shop, sip, snack - outdoor seat",
+    "source_urls": [
+      "https://brooklyndenimco.com/contact",
+      "https://brooklyndenimco.com/pages/about-us",
+      "https://brooklyndenimco.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "brooklynfilmcamera.com",
+    "company_name": "Brooklyn Film Camera",
+    "website": "https://brooklynfilmcamera.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "addie@brooklynfilmcamera.com",
+        "confidence": "highest",
+        "source_url": "https://brooklynfilmcamera.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "coco@brooklynfilmcamera.com",
+        "confidence": "highest",
+        "source_url": "https://brooklynfilmcamera.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "dan@brooklynfilmcamera.com",
+        "confidence": "highest",
+        "source_url": "https://brooklynfilmcamera.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "griffin@brooklynfilmcamera.com",
+        "confidence": "highest",
+        "source_url": "https://brooklynfilmcamera.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "ingridi@brooklynfilmcamera.com",
+        "confidence": "highest",
+        "source_url": "https://brooklynfilmcamera.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "isabelle@brooklynfilmcamera.com",
+        "confidence": "highest",
+        "source_url": "https://brooklynfilmcamera.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "malaya@brooklynfilmcamera.com",
+        "confidence": "highest",
+        "source_url": "https://brooklynfilmcamera.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "mitch@brooklynfilmcamera.com",
+        "confidence": "highest",
+        "source_url": "https://brooklynfilmcamera.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "shanna@brooklynfilmcamera.com",
+        "confidence": "highest",
+        "source_url": "https://brooklynfilmcamera.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "sydney@brooklynfilmcamera.com",
+        "confidence": "highest",
+        "source_url": "https://brooklynfilmcamera.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "taylor@brooklynfilmcamera.com",
+        "confidence": "highest",
+        "source_url": "https://brooklynfilmcamera.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "hello@brooklynfilmcamera.com",
+        "confidence": "high",
+        "source_url": "https://brooklynfilmcamera.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Camera Host An Event With Us Email us hello@brooklynfilmcamera.com Or call us (845) 261-3573 Brooklyn Film Camera Open"
+      },
+      {
+        "address": "repairs@brooklynfilmcamera.com",
+        "confidence": "high",
+        "source_url": "https://brooklynfilmcamera.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "addie@brooklynfilmcamera.com",
+      "coco@brooklynfilmcamera.com",
+      "dan@brooklynfilmcamera.com",
+      "griffin@brooklynfilmcamera.com",
+      "hello@brooklynfilmcamera.com",
+      "ingridi@brooklynfilmcamera.com",
+      "isabelle@brooklynfilmcamera.com",
+      "malaya@brooklynfilmcamera.com",
+      "mitch@brooklynfilmcamera.com",
+      "repairs@brooklynfilmcamera.com",
+      "shanna@brooklynfilmcamera.com",
+      "sydney@brooklynfilmcamera.com",
+      "taylor@brooklynfilmcamera.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://brooklynfilmcamera.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brooklynfilmcamera.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://brooklynfilmcamera.com",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "NYC's film photography dreamland! Founded in 2015, BFC is one of the premier destinations for purchasing refurbished analog cameras and film stocks. Our NYC space features a coffee lounge, a gallery, and a Polaroid museum which houses some of the rarest Polaroid cameras ever made. Stop by the shop o",
+    "source_urls": [
+      "https://brooklynfilmcamera.com",
+      "https://brooklynfilmcamera.com/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "brooklynfragrancecompany.com",
+    "company_name": "BrooklynFragranceCo",
+    "website": "https://brooklynfragrancecompany.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://brooklynfragrancecompany.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brooklynfragrancecompany.com/collections/scented-sachets",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brooklynfragrancecompany.com/collections/reed-diffusers",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brooklynfragrancecompany.com/collections/essential-oil-sets",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brooklynfragrancecompany.com/collections/room-sprays",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brooklynfragrancecompany.com/collections/3-wick-candle",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brooklynfragrancecompany.com/collections/2-oz-premium-fragrance-oil",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brooklynfragrancecompany.com/collections/electric-burner",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brooklynfragrancecompany.com/collections/best-sellers",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brooklynfragrancecompany.com/collections/classic-collection",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Welcome to Brooklyn Fragrance Company. We produce high-quality, all-natural home fragrance items in the United States. Our reed diffusers, room sprays, scented sachets, and essential oils are ideal for creating a pleasant and welcome environment in any space.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 18
+  },
+  {
+    "company_domain": "brooklyngeneral.com",
+    "company_name": "Brooklyn General Store",
+    "website": "https://brooklyngeneral.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@brooklyngeneral.com",
+        "confidence": "high",
+        "source_url": "https://brooklyngeneral.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "websales@brooklyngeneral.com",
+        "confidence": "high",
+        "source_url": "https://brooklyngeneral.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "l: info@brooklyngeneral.com Web Sales Customer Service: websales@brooklyngeneral.com (best) or call 718-237-7753 Class Information: info@brook"
+      }
+    ],
+    "role_emails": [
+      "info@brooklyngeneral.com",
+      "websales@brooklyngeneral.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://brooklyngeneral.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brooklyngeneral.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2014-12-09"
+      },
+      {
+        "url": "https://brooklyngeneral.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2020-08-23"
+      },
+      {
+        "url": "https://brooklyngeneral.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brooklyngeneral.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://brooklyngeneral.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "A maker's haven filled with yarn, fabric, notions, tools, fibers, books, threads, and beautiful hand made gifts. Natural Fibers are what makes us shine. One of the first yarn and fabric shops in NYC.",
+    "source_urls": [
+      "https://brooklyngeneral.com",
+      "https://brooklyngeneral.com/pages/about-us",
+      "https://brooklyngeneral.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "brooklynhaberdashery.com",
+    "company_name": "Brooklyn Haberdashery",
+    "website": "https://www.brooklynhaberdashery.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Kristin Axtman",
+        "title": "Founder",
+        "email": "kristin@brooklynhaberdashery.com",
+        "source_url": "https://www.brooklynhaberdashery.com/about"
+      }
+    ],
+    "people": [
+      {
+        "name": "Kristin Axtman",
+        "title": "Founder",
+        "email": "kristin@brooklynhaberdashery.com",
+        "source_url": "https://www.brooklynhaberdashery.com/about"
+      }
+    ],
+    "emails": [
+      {
+        "address": "hello@brooklynhaberdashery.com",
+        "confidence": "highest",
+        "source_url": "https://www.brooklynhaberdashery.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2019-11-12",
+        "context_snippet": ""
+      },
+      {
+        "address": "kristin@brooklynhaberdashery.com",
+        "confidence": "high",
+        "source_url": "https://www.brooklynhaberdashery.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2019-11-12",
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "hello@brooklynhaberdashery.com",
+      "kristin@brooklynhaberdashery.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.brooklynhaberdashery.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brooklynhaberdashery.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2019-11-12"
+      },
+      {
+        "url": "https://www.brooklynhaberdashery.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2019-11-12"
+      },
+      {
+        "url": "https://www.brooklynhaberdashery.com/blogs/profiles-of-products-people-and-processes-profiles",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brooklynhaberdashery.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brooklynhaberdashery.com/pages/location",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brooklynhaberdashery.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.brooklynhaberdashery.com/contact",
+        "action": "https://kristin-axtman.squarespace.com",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.brooklynhaberdashery.com/pages/contact",
+        "action": "/contact#contact-us-page",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "We curate the unique so you can craft the unforgettable.",
+    "source_urls": [
+      "https://www.brooklynhaberdashery.com/about",
+      "https://www.brooklynhaberdashery.com/contact"
+    ],
+    "reason": null,
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "brooklynhair.com",
+    "company_name": "Brooklyn Hair",
+    "website": "https://brooklynhair.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@brooklynhair.com",
+        "confidence": "highest",
+        "source_url": "https://brooklynhair.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "e form below to send us a message or contact us by mail at: support@brooklynhair.com Name"
+      },
+      {
+        "address": "influencer@brooklynhair.com",
+        "confidence": "high",
+        "source_url": "https://brooklynhair.com/pages/influencer-support",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "1. Fill out below form or email us at influencer@brooklynhair.com after uploading your video 2. Our influencer support team"
+      }
+    ],
+    "role_emails": [
+      "influencer@brooklynhair.com",
+      "support@brooklynhair.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://brooklynhair.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brooklynhair.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brooklynhair.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brooklynhair.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brooklynhair.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brooklynhair.com/pages/influencer-support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brooklynhair.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://brooklynhair.com/contact",
+        "action": "/contact#ContactForm-template--27100258861362__main",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://brooklynhair.com/pages/contact-us",
+        "action": "/contact#ContactForm-template--27100258861362__main",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Check out our new signature Glueless Wig at BrooklynHair.com. We provide 100% premium human hair extensions. bundle hair, human hair wigs, lace front wigs",
+    "source_urls": [
+      "https://brooklynhair.com",
+      "https://brooklynhair.com/about",
+      "https://brooklynhair.com/about-us",
+      "https://brooklynhair.com/contact",
+      "https://brooklynhair.com/pages/contact-us",
+      "https://brooklynhair.com/pages/influencer-support",
+      "https://brooklynhair.com/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "brooklynindustries.com",
+    "company_name": "Brooklyn Industries",
+    "website": "https://brooklynindustries.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "cs@brooklynindustries.com",
+        "confidence": "highest",
+        "source_url": "https://brooklynindustries.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "s over $75. Got Questions? Email us at cs@brooklynindustries.com More Site Links"
+      }
+    ],
+    "role_emails": [
+      "cs@brooklynindustries.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://brooklynindustries.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brooklynindustries.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Founded in 1998 in Brooklyn, we design iconic tees, sweatshirts, bags and accessories that reflect the borough. 20% off your first order.",
+    "source_urls": [
+      "https://brooklynindustries.com",
+      "https://brooklynindustries.com/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "brooklynkayakcompany.com",
+    "company_name": "Brooklyn Kayak Company",
+    "website": "https://brooklynkayakcompany.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://brooklynkayakcompany.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brooklynkayakcompany.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brooklynkayakcompany.com/collections/kayaks",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brooklynkayakcompany.com/account/login",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brooklynkayakcompany.com/collections/best-sellers",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brooklynkayakcompany.com/collections/solo",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brooklynkayakcompany.com/collections/tandem",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brooklynkayakcompany.com/collections/paddle",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brooklynkayakcompany.com/collections/pedal",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brooklynkayakcompany.com/collections/motorized",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://brooklynkayakcompany.com/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Whether single, tandem, pedal or motorized kayaks, BKC inspires everyone to get outdoors with a variety of kayaks ideal for all levels of paddlers.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 17
+  },
+  {
+    "company_domain": "brooklynkura.com",
+    "company_name": "Brooklyn Kura",
+    "website": "https://www.brooklynkura.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "events@brooklynkura.com",
+        "confidence": "highest",
+        "source_url": "https://www.brooklynkura.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "reservation (10 or more guests) or private event, contact events@brooklynkura.com . Contact Us Learn About Sake! Sake Studie"
+      },
+      {
+        "address": "info@brooklynkura.com",
+        "confidence": "high",
+        "source_url": "https://www.brooklynkura.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2020-04-23",
+        "context_snippet": "TAP ROOM IS TEMPORARILY CLOSED Email us: General Inquiries: info@brooklynkura.com Press Inquiries: press@brooklynkura.com Sales & Distributio"
+      },
+      {
+        "address": "press@brooklynkura.com",
+        "confidence": "high",
+        "source_url": "https://www.brooklynkura.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2020-04-23",
+        "context_snippet": ": General Inquiries: info@brooklynkura.com Press Inquiries: press@brooklynkura.com Sales & Distribution: sales@brooklynkura.com Brooklyn"
+      },
+      {
+        "address": "sales@brooklynkura.com",
+        "confidence": "high",
+        "source_url": "https://www.brooklynkura.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2020-04-23",
+        "context_snippet": "ess Inquiries: press@brooklynkura.com Sales & Distribution: sales@brooklynkura.com Brooklyn Kura At Brooklyn Kura, we are committed to a"
+      }
+    ],
+    "role_emails": [
+      "events@brooklynkura.com",
+      "info@brooklynkura.com",
+      "press@brooklynkura.com",
+      "sales@brooklynkura.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.brooklynkura.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brooklynkura.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2020-04-23"
+      },
+      {
+        "url": "https://www.brooklynkura.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brooklynkura.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.brooklynkura.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Local. Craft. Sake. Brewery. Online Store. Tap Room. Event Space. Industry City. Drink. Party. Inspired by Tradition. Brewed in Brooklyn.",
+    "source_urls": [
+      "https://www.brooklynkura.com",
+      "https://www.brooklynkura.com/about",
+      "https://www.brooklynkura.com/pages/about"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "brooklynmachineworks.com",
+    "company_name": "BROOKLYN MACHINE WORKS",
+    "website": "https://brooklynmachineworks.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://brooklynmachineworks.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brooklynmachineworks.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://brooklynmachineworks.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Brooklyn Machine Works",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "brooklynporkstore.com",
+    "company_name": "Brooklyn Pork Store",
+    "website": "https://brooklynporkstore.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://brooklynporkstore.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brooklynporkstore.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2022-12-04"
+      },
+      {
+        "url": "https://brooklynporkstore.com/pages/about-landis",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brooklynporkstore.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://brooklynporkstore.com/contact",
+        "action": "/contact/#wpcf7-f10-p66-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://brooklynporkstore.com/pages/contact",
+        "action": "/contact#contact_form_template--17308973990129__1632180071f18cee62",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Italian Sausage, Fresh Italian Sausage, Dry Sausage, Homemade Italian Sausage, Gourmet Sausage, Pasta Sauce, Italian Cheese, Dry Sausage, Sopressata, Fresh Mozzarella Cheese, Brooklyn Pork Store - Landi's Pork Store, Brooklyn, NY",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "brooklynprojects.com",
+    "company_name": "Brooklyn Projects",
+    "website": "https://brooklynprojects.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@brooklynprojects.com",
+        "confidence": "high",
+        "source_url": "https://brooklynprojects.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@brooklynprojects.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://brooklynprojects.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brooklynprojects.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brooklynprojects.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brooklynprojects.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brooklynprojects.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brooklynprojects.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brooklynprojects.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brooklynprojects.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brooklynprojects.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://brooklynprojects.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Brooklyn Projects is LA's top skate shop and voted Number One Skateboard Shop In America. The best place to shop for Nike SB, Adidas, New Balance, HUF, Brixton, Spitfire, Skateboards from Anti Hero, Limosine, Polar, Santa Cruz, Welcome and streetwear brands like Butter Goods, OBEY, Dickies, Primitiv",
+    "source_urls": [
+      "https://brooklynprojects.com",
+      "https://brooklynprojects.com/team",
+      "https://brooklynprojects.com/our-team",
+      "https://brooklynprojects.com/about",
+      "https://brooklynprojects.com/about-us",
+      "https://brooklynprojects.com/press",
+      "https://brooklynprojects.com/contact",
+      "https://brooklynprojects.com/pages/contact-us",
+      "https://brooklynprojects.com/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "brooklynrail.org",
+    "company_name": "The Brooklyn Rail",
+    "website": "https://shop.brooklynrail.org",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://shop.brooklynrail.org",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "The store of the Brooklyn Rail and Rail Editions publishers of books of art, and literary criticism, poetry, experimental fiction, prose meditation, artists\u2019 writings, and works in translation.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "brooklynroasting.com",
+    "company_name": "Brooklyn Roasting Company",
+    "website": "https://www.brooklynroasting.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@brooklynroasting.com",
+        "confidence": "highest",
+        "source_url": "https://www.brooklynroasting.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Leave us a message: (718) 855-1000 Send us an Email: info@brooklynroasting.com Keep in Touch Subscribe to ou"
+      }
+    ],
+    "role_emails": [
+      "info@brooklynroasting.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.brooklynroasting.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brooklynroasting.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brooklynroasting.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brooklynroasting.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brooklynroasting.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brooklynroasting.com/products/iris-espresso",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brooklynroasting.com/products/bqe-espresso",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "New York's best-loved local roasting company. Brooklyn Roasting Company roasts, packages, wholesales and retails a broad range of superb and sustainable coffee. Small batch roasting based out of the Brooklyn Navy Yard. Coffee subscriptions available.",
+    "source_urls": [
+      "https://www.brooklynroasting.com/contact",
+      "https://www.brooklynroasting.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "brooklynspace.co",
+    "company_name": "Brooklyn Space Mid",
+    "website": "https://brooklynspace.co",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "email us",
+        "title": null,
+        "email": "service@brooklynspace.co",
+        "source_url": "https://brooklynspace.co/pages/about-brooklyn-space"
+      }
+    ],
+    "people": [
+      {
+        "name": "email us",
+        "title": null,
+        "email": "service@brooklynspace.co",
+        "source_url": "https://brooklynspace.co/pages/about-brooklyn-space"
+      }
+    ],
+    "emails": [
+      {
+        "address": "service@brooklynspace.co",
+        "confidence": "highest",
+        "source_url": "https://brooklynspace.co/pages/about-brooklyn-space",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "service@brooklynspace.co"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://brooklynspace.co",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brooklynspace.co/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brooklynspace.co/pages/about-brooklyn-space",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Mid-century modern sofas, chairs and credenzas delivered to New York in 5-7 days. Nationwide delivery now available!",
+    "source_urls": [
+      "https://brooklynspace.co",
+      "https://brooklynspace.co/pages/about-brooklyn-space"
+    ],
+    "reason": null,
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "brooklynsteelco.com",
+    "company_name": "Brooklyn Steel",
+    "website": "https://brooklynsteelco.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "helpdesk@brooklynsteelco.com",
+        "confidence": "high",
+        "source_url": "https://brooklynsteelco.com/policies/contact-information",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ame: Brooklyn Steel Phone number: (845) 646-6000 Email: helpdesk@brooklynsteelco.com Physical address: 42 West 39th Street, New York NY 10018,"
+      }
+    ],
+    "role_emails": [
+      "helpdesk@brooklynsteelco.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://brooklynsteelco.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brooklynsteelco.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2020-11-26"
+      },
+      {
+        "url": "https://brooklynsteelco.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brooklynsteelco.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Brooklyn Steel",
+    "source_urls": [
+      "https://brooklynsteelco.com/policies/contact-information"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "brooklyntea.com",
+    "company_name": "Brooklyn Tea",
+    "website": "https://brooklyntea.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "sales@brooklyntea.com",
+        "confidence": "highest",
+        "source_url": "https://brooklyntea.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "kfast wraps to round out your special event. Email us at sales@brooklyntea.com , or use the form below to create your custom order today."
+      }
+    ],
+    "role_emails": [
+      "sales@brooklyntea.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://brooklyntea.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brooklyntea.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brooklyntea.com/pages/about-brooklyn-tea",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://brooklyntea.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Shop premium loose leaf teas, pyramid sachets, and signature blends from Brooklyn Tea \u2014 available online, at Target, at JFK Airport Terminal 4, and in our Brooklyn & Atlanta tea rooms.",
+    "source_urls": [
+      "https://brooklyntea.com",
+      "https://brooklyntea.com/pages/contact-us",
+      "https://brooklyntea.com/pages/about-brooklyn-tea"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "brooklyntweed.com",
+    "company_name": "Brooklyn Tweed",
+    "website": "https://brooklyntweed.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Pattern Support",
+        "title": null,
+        "email": "support@brooklyntweed.com",
+        "source_url": "https://brooklyntweed.com"
+      }
+    ],
+    "people": [
+      {
+        "name": "Pattern Support",
+        "title": null,
+        "email": "support@brooklyntweed.com",
+        "source_url": "https://brooklyntweed.com"
+      }
+    ],
+    "emails": [
+      {
+        "address": "info@brooklyntweed.com",
+        "confidence": "highest",
+        "source_url": "https://brooklyntweed.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2019-01-06",
+        "context_snippet": "Send Us an Email General Inquiries info@brooklyntweed.com Order Inquiries orders@broo"
+      },
+      {
+        "address": "orders@brooklyntweed.com",
+        "confidence": "highest",
+        "source_url": "https://brooklyntweed.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2019-01-06",
+        "context_snippet": "yntweed.com Order Inquiries orders@brooklyntweed.com Pattern Support (specify pattern & size)"
+      },
+      {
+        "address": "support@brooklyntweed.com",
+        "confidence": "highest",
+        "source_url": "https://brooklyntweed.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "wholesale@brooklyntweed.com",
+        "confidence": "highest",
+        "source_url": "https://brooklyntweed.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2019-01-06",
+        "context_snippet": "eed.com Wholesale Inquiries wholesale@brooklyntweed.com Frequently Asked Questions Follow Us"
+      }
+    ],
+    "role_emails": [
+      "info@brooklyntweed.com",
+      "orders@brooklyntweed.com",
+      "support@brooklyntweed.com",
+      "wholesale@brooklyntweed.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://brooklyntweed.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brooklyntweed.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2019-01-06"
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://brooklyntweed.com/contact",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Shop over 800 thoughtfully designed knitting patterns that blend modern silhouettes with timeless style. Our clear instructions and helpful tutorials make it easy for knitters to create pieces that look great, fit well, and feel good on every body, from beginner-friendly basics to heirloom-quality c",
+    "source_urls": [
+      "https://brooklyntweed.com",
+      "https://brooklyntweed.com/contact"
+    ],
+    "reason": null,
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "brooklynvegan.com",
+    "company_name": "BrooklynVegan",
+    "website": "https://shop.brooklynvegan.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://shop.brooklynvegan.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.brooklynvegan.com/collections/staff-picks-10-essential-punk-books",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "BrooklynVegan Official Store contains vinyl, apparel, and more curated by the NYC music blog founded in 2004. Click here to shop!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "brooklynwinot.com",
+    "company_name": "wino(t)",
+    "website": "https://www.brooklynwinot.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@brooklynwinot.com",
+        "confidence": "highest",
+        "source_url": "https://www.brooklynwinot.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2018-08-17",
+        "context_snippet": "m-11pm Sunday 12pm-9pm Connect with Us Facebook hello@brooklynwinot.com Instagram Powered by [bloginfo value='na"
+      },
+      {
+        "address": "info@brooklynwinot.com",
+        "confidence": "high",
+        "source_url": "https://www.brooklynwinot.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "wino(t) 796 Franklin Ave. Brooklyn NY 11238 718-576-6944 info@brooklynwinot.com American Express Apple Pay Diners Clu"
+      }
+    ],
+    "role_emails": [
+      "hello@brooklynwinot.com",
+      "info@brooklynwinot.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.brooklynwinot.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brooklynwinot.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2018-08-17"
+      },
+      {
+        "url": "https://www.brooklynwinot.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brooklynwinot.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.brooklynwinot.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Compact, vintage-chic shop focusing on natural wine and a thoughtful selection of both well-known and craft spirits. We offer wine delivery and in-store pickup!  wino(t)",
+    "source_urls": [
+      "https://www.brooklynwinot.com",
+      "https://www.brooklynwinot.com/contact",
+      "https://www.brooklynwinot.com/pages/about",
+      "https://www.brooklynwinot.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "brooks-dunn.com",
+    "company_name": "Brooks & Dunn",
+    "website": "https://www.brooks-dunn.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.brooks-dunn.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brooks-dunn.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brooks-dunn.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brooks-dunn.com/about/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brooks-dunn.com/#contact",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Exclusive Brooks & Dunn news, tour dates, ticket presales, exclusive merchandise and much, much more...",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "brooksanddunnstore.com",
+    "company_name": "Brooks & Dunn",
+    "website": "https://brooksanddunnstore.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://brooksanddunnstore.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Official merchandise from legendary country duo, Brooks & Dunn. Nashville, Tennessee.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "brooksfeed.com",
+    "company_name": "brooksfeed.com",
+    "website": "https://brooksfeed.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": "Brooks Feed & Farm Supply is your family owned feed & farm store with your needs in mind! We strive to supply quality fish food, livestock feed, hay, and so much more! Stop by today!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "brooksgardens.com",
+    "company_name": "www.brooksgardens.com",
+    "website": "https://www.brooksgardens.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.brooksgardens.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brooksgardens.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Peonies - we grow peony roots for gardens, landscapes. Order quality bare root peonies to plant this fall. We offer a variety of intersectional, fragrant and heirloom peonies. Planting tips included. Easy to grow. Buy fresh cut flowers and potted peony plants at the hidden Oregon farm in the May - J",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  }
+]
