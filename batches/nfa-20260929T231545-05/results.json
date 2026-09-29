@@ -1,0 +1,1453 @@
+[
+  {
+    "company_domain": "buddyrc.com",
+    "company_name": "Buddy RC",
+    "website": "https://www.buddyrc.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@buddyrc.com",
+        "confidence": "highest",
+        "source_url": "https://www.buddyrc.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Need help? Call us 614-808-4488 support@buddyrc.com Follow Us Facebook YouTube"
+      }
+    ],
+    "role_emails": [
+      "support@buddyrc.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.buddyrc.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.buddyrc.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.buddyrc.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.buddyrc.com/pages/buddy-rc-team-pilots",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.buddyrc.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Shop RC airplanes, helicopters, drones, FPV systems, motors, ESCs, servos, propellers, batteries, chargers, and accessories at Buddy RC. Trusted U.S. RC hobby store based in Columbus Ohio offering quality brands, competitive pricing, fast shipping, replacement parts, and expert customer support.",
+    "source_urls": [
+      "https://www.buddyrc.com",
+      "https://www.buddyrc.com/pages/about-us",
+      "https://www.buddyrc.com/pages/contact-us",
+      "https://www.buddyrc.com/pages/buddy-rc-team-pilots"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "buddyrest.com",
+    "company_name": "BuddyRest Pet Products",
+    "website": "https://buddyrest.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customerservice@buddyrest.com",
+        "confidence": "highest",
+        "source_url": "https://buddyrest.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "info@buddyrest.com",
+        "confidence": "high",
+        "source_url": "https://buddyrest.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "service@buddyrest.com",
+        "confidence": "high",
+        "source_url": "https://buddyrest.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "3166001869 1224 N Andover Rd, Andover, KS 67002 service@buddyrest.com How to purchase Buy directly from our website w"
+      }
+    ],
+    "role_emails": [
+      "customerservice@buddyrest.com",
+      "info@buddyrest.com",
+      "service@buddyrest.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://buddyrest.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buddyrest.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buddyrest.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Soothe your pets suffering with science, naturally. Our world class orthopedic and chew proof dog beds pair with natural dog supplements to work harmoniously to ease pain and calm anxiety. Embrace a world where each product is crafted with care, offering your beloved pets relief and comfort.",
+    "source_urls": [
+      "https://buddyrest.com",
+      "https://buddyrest.com/about-us",
+      "https://buddyrest.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "budgetbytes.com",
+    "company_name": "Budget Bytes Shop",
+    "website": "https://shop.budgetbytes.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://shop.budgetbytes.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.budgetbytes.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Downloadable monthly meal plans that include recipes, grocery lists, tips for using leftovers and more. Make the most of your time and money with these done-for-you budget-friendly meal plans!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "budgetcues.com",
+    "company_name": "Budget Billiards",
+    "website": "https://budgetcues.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://budgetcues.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://budgetcues.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://budgetcues.com/pages/contact-us#eu-withdrawal-request",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://budgetcues.com/pages/contact-us",
+        "action": "/contact#EuWithdrawalForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://budgetcues.com/pages/contact-us#eu-withdrawal-request",
+        "action": "/contact#EuWithdrawalForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Unleash your potential at the table with Budget Billiards Supply's selection of pool cues from industry giants like Cuetec, Predator, Viking, Lucasi, and McDermott. Our handpicked range of billiard accessories ensures you play with the best. Get your ideal pool cue and gear up for the win!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "budhagirl.com",
+    "company_name": "BuDhaGirl",
+    "website": "https://budhagirl.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Online Form",
+        "title": null,
+        "email": "journey@budhagirl.com",
+        "source_url": "https://budhagirl.com/contact",
+        "association": "proximity"
+      }
+    ],
+    "people": [
+      {
+        "name": "Online Form",
+        "title": null,
+        "email": "journey@budhagirl.com",
+        "source_url": "https://budhagirl.com/contact",
+        "association": "proximity"
+      }
+    ],
+    "emails": [
+      {
+        "address": "journey@budhagirl.com",
+        "confidence": "highest",
+        "source_url": "https://budhagirl.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "If you prefer, you can also reach us directly at journey@budhagirl.com or call us at 214.599.9297 . Online Form - Contact"
+      },
+      {
+        "address": "wholesale@budhagirl.com",
+        "confidence": "high",
+        "source_url": "https://budhagirl.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "journey@budhagirl.com",
+      "wholesale@budhagirl.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://budhagirl.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://budhagirl.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://budhagirl.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://budhagirl.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://budhagirl.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://budhagirl.com/pages/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://budhagirl.com/pages/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://budhagirl.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "BuDhaGirl, founded by Jessica Jesse, is a luxury lifestyle brand that creates wellbeing in multiple sectors. Our unique approach, Mindful Glamour\u00ae, integrates contemplative rituals and intention-setting into beautiful everyday wearable and consumable products, each imbued with profound meaning.",
+    "source_urls": [
+      "https://budhagirl.com",
+      "https://budhagirl.com/about-us",
+      "https://budhagirl.com/contact",
+      "https://budhagirl.com/pages/contact-us"
+    ],
+    "reason": null,
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "budnmarys.com",
+    "company_name": "Bud n' Mary's Marina",
+    "website": "https://shop.budnmarys.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://shop.budnmarys.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Welcome to our online store! You can buy all of you Bud n' Mary's Marina apparel here! We have a both short sleeve and performance Bud n' Mary's Fishing Shirts and plenty of Bud n' Mary's Hats.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "budovideos.com",
+    "company_name": "Budovideos Inc",
+    "website": "https://budovideos.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@budovideos.com",
+        "confidence": "high",
+        "source_url": "https://budovideos.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "nformation from or about a child under 13, please email us: support@Budovideos.com 7. Other websites and services. We are not responsible for"
+      }
+    ],
+    "role_emails": [
+      "support@budovideos.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://budovideos.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://budovideos.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://budovideos.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://budovideos.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://budovideos.com/pages/contact-us",
+        "action": "/contact#ContactForm__template--17534048731335__contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Shop BJJ gis, rashguards, martial arts books, DVDs, instructional videos and training gear from Budovideos, serving martial artists worldwide.",
+    "source_urls": [
+      "https://budovideos.com",
+      "https://budovideos.com/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "budsnbloom.com",
+    "company_name": "buds 'n bloom design studio",
+    "website": "https://www.budsnbloom.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.budsnbloom.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.budsnbloom.com/collections/savannah-bee-company-honey-products",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.budsnbloom.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.budsnbloom.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.budsnbloom.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "WELCOME TO BUDS 'N BLOOM DESIGN STUDIO GREEN BAY FLORIST buds 'n bloom is a floral, gift, home, and wedding studio",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "buellsurf.com",
+    "company_name": "Buell Wetsuits & Surf",
+    "website": "https://buellsurf.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "robots_disallowed",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "buenospa.com",
+    "company_name": "Buenospa",
+    "website": "https://www.buenospa.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customerservice@buenospa.com",
+        "confidence": "highest",
+        "source_url": "https://www.buenospa.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ERE FOR SALES OR SHIPPING QUESTIONS, PLEASE CONTACT CUSTOMERSERVICE@BUENOSPA.COM Contact Monday to Frida"
+      }
+    ],
+    "role_emails": [
+      "customerservice@buenospa.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.buenospa.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.buenospa.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.buenospa.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.buenospa.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.buenospa.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Buenospa Hot Tubs & Spas webshop - were created a sub-brand with more than 10 years of history in jacuzzi production in order to further popularize European...",
+    "source_urls": [
+      "https://www.buenospa.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "buffalo-billiards.com",
+    "company_name": "Buffalo Billiards",
+    "website": "https://www.buffalo-billiards.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@buffalo-billiards.com",
+        "confidence": "highest",
+        "source_url": "https://www.buffalo-billiards.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "RS: Mon - Sat: 10am to 6pm Sun: 12pm to 6pm E-MAIL: info@buffalo-billiards.com \u00a9 2022 Buffalo Billiards"
+      },
+      {
+        "address": "lee@buffalo-billiards.com",
+        "confidence": "high",
+        "source_url": "https://www.buffalo-billiards.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@buffalo-billiards.com",
+      "lee@buffalo-billiards.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.buffalo-billiards.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.buffalo-billiards.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.buffalo-billiards.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.buffalo-billiards.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Find the perfect pool tables for sale, cues for sale and billiard accessories at our online store. Explore a wide selection of high-quality products, featuring top brands like Predator cues, Brunswick, Pechauer cues and Olhausen at competitive pricing. Our inventory has what your game needs to maxim",
+    "source_urls": [
+      "https://www.buffalo-billiards.com",
+      "https://www.buffalo-billiards.com/pages/about-us",
+      "https://www.buffalo-billiards.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "buffaloboards.com",
+    "company_name": "Buffalo Boards",
+    "website": "https://buffaloboards.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://buffaloboards.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buffaloboards.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://buffaloboards.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "We offer a premium selection of professional and custom cornhole boards, bags & much more. Let's level up your game!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "buffalodallas.com",
+    "company_name": "Buffalo Dallas Merchandise & Apparel",
+    "website": "https://buffalodallas.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "buffalodallas@buffalodallas.com",
+        "confidence": "high",
+        "source_url": "https://buffalodallas.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Contact Us We\u2019d love to hear from you! Email us at buffalodallas@buffalodallas.com , and we\u2019ll get back to you within 24 hours."
+      }
+    ],
+    "role_emails": [
+      "buffalodallas@buffalodallas.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://buffalodallas.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buffalodallas.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buffalodallas.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Buffalo Dallas Greek Merchandise & Apparel is a premier Greek fraternity, sorority, Jack & Jill, OES, and Mason clothing company in the US. Our sizes range from XS-5XL. We specialize in providing the best paraphernalia to our customers.",
+    "source_urls": [
+      "https://buffalodallas.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "buffalogiftemporium.com",
+    "company_name": "Buffalo Gift Emporium",
+    "website": "https://buffalogiftemporium.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customerservice@buffalogiftemporium.com",
+        "confidence": "high",
+        "source_url": "https://buffalogiftemporium.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2021-12-06",
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "customerservice@buffalogiftemporium.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://buffalogiftemporium.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buffalogiftemporium.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2021-12-06"
+      },
+      {
+        "url": "https://buffalogiftemporium.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2021-10-19"
+      },
+      {
+        "url": "https://buffalogiftemporium.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buffalogiftemporium.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buffalogiftemporium.com/products/copy-of-black-and-red-buffalo-hockey-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://buffalogiftemporium.com/contact",
+        "action": "https://studio.digital.vistaprint.com/contact/submit/2685206546/1700080102993818",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://buffalogiftemporium.com/pages/contact",
+        "action": "/contact#contact_form_template--16956927672540__1632180071f18cee62",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Buffalo Gift Emporium is Buffalo's local gift shop with more! From gifts, apparel, novelties, and home d\u00e9cor, you're sure to find something unique.",
+    "source_urls": [
+      "https://buffalogiftemporium.com/about",
+      "https://buffalogiftemporium.com/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "buffalojackson.com",
+    "company_name": "Buffalo Jackson Trading Co.",
+    "website": "https://buffalojackson.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Email: support@buffalojackson.com",
+        "title": null,
+        "email": "support@buffalojackson.com",
+        "source_url": "https://buffalojackson.com/contact"
+      }
+    ],
+    "people": [
+      {
+        "name": "Email: support@buffalojackson.com",
+        "title": null,
+        "email": "support@buffalojackson.com",
+        "source_url": "https://buffalojackson.com/contact"
+      }
+    ],
+    "emails": [
+      {
+        "address": "support@buffalojackson.com",
+        "confidence": "highest",
+        "source_url": "https://buffalojackson.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "olicy Do Not Sell My Data We're Here to Help support@buffalojackson.com Support Hours: M-F 9:00 AM - 4:30 PM EST Built"
+      }
+    ],
+    "role_emails": [
+      "support@buffalojackson.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://buffalojackson.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buffalojackson.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buffalojackson.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buffalojackson.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buffalojackson.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buffalojackson.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buffalojackson.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://buffalojackson.com/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://buffalojackson.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Shop premium leather jackets, shearling jackets, and bomber jackets for men. Full-grain leather bags, briefcases, and wallets built to last a lifetime. Rugged and outdoor vintage style.",
+    "source_urls": [
+      "https://buffalojackson.com",
+      "https://buffalojackson.com/team",
+      "https://buffalojackson.com/our-team",
+      "https://buffalojackson.com/about-us",
+      "https://buffalojackson.com/contact",
+      "https://buffalojackson.com/pages/about",
+      "https://buffalojackson.com/pages/contact-us"
+    ],
+    "reason": null,
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "buffalojeans.com",
+    "company_name": "Buffalo Jeans",
+    "website": "https://www.buffalojeans.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "service@buffalojeans.com",
+        "confidence": "highest",
+        "source_url": "https://www.buffalojeans.com/pages/contactus",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "AQ SECTION START A RETURN CONTACT US BY EMAIL service@buffalojeans.com BY MAIL Buffalo David Bitton 21921 INDUSTRY WAY. CITY OF IN"
+      }
+    ],
+    "role_emails": [
+      "service@buffalojeans.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.buffalojeans.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.buffalojeans.com/pages/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.buffalojeans.com/pages/aboutus",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Shop Buffalo David Bitton Jeans and Sportswear for Men and Women. Featuring the latest denim styles in rich textures and washes. Our stylish and comfortable jeans provides comfort with just the right amount of stretch. Shop iconic mens jeans like the Straight SIX, Slim ASH, Skinny MAX, or womens jea",
+    "source_urls": [
+      "https://www.buffalojeans.com",
+      "https://www.buffalojeans.com/pages/contactus"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "buffalolib.org",
+    "company_name": "librarystore.buffalolib.org",
+    "website": "https://librarystore.buffalolib.org",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": "Beautiful archival reproductions of the Buffalo & Erie County (NY) Public Library's Rare & Special Collections - maps, postcards & prints & clothing",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "buffaloreclaimed.com",
+    "company_name": "Buffalo Reclaimed Flag Co",
+    "website": "https://buffaloreclaimed.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@buffaloreclaimed.com",
+        "confidence": "high",
+        "source_url": "https://buffaloreclaimed.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "n their home. Built In America For America Contact Us info@buffaloreclaimed.com 716-500-1776 7000 Seneca St Elma NY 14033"
+      }
+    ],
+    "role_emails": [
+      "info@buffaloreclaimed.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://buffaloreclaimed.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buffaloreclaimed.com/pages/buffalo-reclaimed-flag-company-reviews",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buffaloreclaimed.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "100% USA Made Rustic Flags & Banners. Where every detail counts.",
+    "source_urls": [
+      "https://buffaloreclaimed.com",
+      "https://buffaloreclaimed.com/pages/buffalo-reclaimed-flag-company-reviews",
+      "https://buffaloreclaimed.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "buffaloriver.com",
+    "company_name": "Buffalo Outdoor Center",
+    "website": "https://shop.buffaloriver.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://shop.buffaloriver.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Browse our selection of shirts, hats, books, mugs, stickers, maps, pins, patches and more! Shop for apparel & souvenirs from Buffalo Outdoor Center!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "buffandshine.com",
+    "company_name": "Buff and Shine",
+    "website": "https://buffandshine.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customerservice@buffandshine.com",
+        "confidence": "high",
+        "source_url": "https://buffandshine.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "& placing an order order@buffandshine.com Customer Service customerservice@buffandshine.com Wholesale & setting an account inquiries sales@buffandshine"
+      },
+      {
+        "address": "info@buffandshine.com",
+        "confidence": "high",
+        "source_url": "https://buffandshine.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "l: 310-886-5111 Fax: 310-886-5099 Email General inquiries info@buffandshine.com Order inquiries & placing an order order@buffandshine.com C"
+      },
+      {
+        "address": "order@buffandshine.com",
+        "confidence": "high",
+        "source_url": "https://buffandshine.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "es info@buffandshine.com Order inquiries & placing an order order@buffandshine.com Customer Service customerservice@buffandshine.com Wholesale"
+      },
+      {
+        "address": "sales@buffandshine.com",
+        "confidence": "high",
+        "source_url": "https://buffandshine.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "e@buffandshine.com Wholesale & setting an account inquiries sales@buffandshine.com First Name * Last Name * Email * Message * Submit"
+      }
+    ],
+    "role_emails": [
+      "customerservice@buffandshine.com",
+      "info@buffandshine.com",
+      "order@buffandshine.com",
+      "sales@buffandshine.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://buffandshine.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buffandshine.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buffandshine.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buffandshine.com/blogs/news/2017-air-force-one-detailing-team-project",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://buffandshine.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Buff and Shine is a premier manufacturer, importer and exporter of car buffing pads, backing plates, carpet film, clay bars, drying cloths, and more!",
+    "source_urls": [
+      "https://buffandshine.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "buffbunny.com",
+    "company_name": "Buffbunny",
+    "website": "https://www.buffbunny.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.buffbunny.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.buffbunny.com/collections/high-support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.buffbunny.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.buffbunny.com/pages/aboutproducts",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Buffbunny Collection was created for YOU... a woman who embraces her fears celebrates her uniqueness. Our goal is to provide comfortable, stylish, and supportive activewear for all women.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 16
+  },
+  {
+    "company_domain": "buffchick.com",
+    "company_name": "Buff Chick Supplements",
+    "website": "https://buffchick.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@buffchick.com",
+        "confidence": "highest",
+        "source_url": "https://buffchick.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "your question? Our team is here to help! Drop us a line at support@buffchick.com . Follow Us on In"
+      }
+    ],
+    "role_emails": [
+      "support@buffchick.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://buffchick.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buffchick.com/products/pms-support-bundle",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buffchick.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://buffchick.com/pages/contact-us",
+        "action": "/contact#ContactForm-ATE5HZFg4endXV3NCO__contact_form_tyLWPT",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "We fuel women's strength and performance with our high-quality, third-party tested supplements.",
+    "source_urls": [
+      "https://buffchick.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "buffcitysoap.com",
+    "company_name": "Buff City Soap",
+    "website": "https://buffcitysoap.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "fraud@buffcitysoap.com",
+        "confidence": "highest",
+        "source_url": "https://buffcitysoap.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "rs to be Buff City Soap, please contact customer service at fraud@buffcitysoap.com. What types of scams and fraudulent offers are the"
+      },
+      {
+        "address": "support@buffcitysoap.com",
+        "confidence": "highest",
+        "source_url": "https://buffcitysoap.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "r messsage...: support@buffcitysoap.com Monda"
+      }
+    ],
+    "role_emails": [
+      "fraud@buffcitysoap.com",
+      "support@buffcitysoap.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://buffcitysoap.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buffcitysoap.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buffcitysoap.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buffcitysoap.com/collections/shower-steamer",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buffcitysoap.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buffcitysoap.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buffcitysoap.com/pages/contact#contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://buffcitysoap.com/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://buffcitysoap.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://buffcitysoap.com/pages/contact#contactus",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Plant Based Soap. Handmade Daily. No harsh chemicals. Delightfully Scented Soaps, Bath Bombs, Laundry Soap and more! Plant based goodness for you and your gift occasions.",
+    "source_urls": [
+      "https://buffcitysoap.com/contact",
+      "https://buffcitysoap.com/pages/contact",
+      "https://buffcitysoap.com/pages/contact#contactus"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "buffdudes.us",
+    "company_name": "Buff Dudes",
+    "website": "https://www.buffdudes.us",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.buffdudes.us",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.buffdudes.us/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.buffdudes.us/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.buffdudes.us/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Buff Dudes Store - www.buffdudes.us - is where you'll find Buff Dudes Workout Plans such as our 12 Week Plan and Cutting Plan, Weekly Food Recipes and all our T-Shirt and Tank Top Apparel!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "buffet-crampon.com",
+    "company_name": "Buffet Crampon",
+    "website": "https://www.buffet-crampon.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.buffet-crampon.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.buffet-crampon.com/collections/saxophones-intermediate",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.buffet-crampon.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.buffet-crampon.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Buffet Crampon, manufacturer of clarinets and wind instruments since 1825. Discover our professional collections and instruments for beginners.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  }
+]
