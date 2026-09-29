@@ -1,0 +1,1657 @@
+[
+  {
+    "company_domain": "betsyboosboutique.com",
+    "company_name": "Betsy Boo's Boutique",
+    "website": "https://www.betsyboosboutique.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.betsyboosboutique.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Discover a variety of styles for women, men, kids, and home. Browse our collection to find the perfect look.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 15
+  },
+  {
+    "company_domain": "bettabot.com",
+    "company_name": "Betta",
+    "website": "https://bettabot.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@bettabot.com",
+        "confidence": "high",
+        "source_url": "https://bettabot.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Count On \ud83d\udce7 Email: info@bettabot.com \ud83d\udcde Phone: 888-692-3882 (888-MyBetta) | 5"
+      }
+    ],
+    "role_emails": [
+      "info@bettabot.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bettabot.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bettabot.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bettabot.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bettabot.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bettabot.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bettabot.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bettabot.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bettabot.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Betta's family of pool-cleaning robots offer industry-leading efficiency, reliability, and durability that you can count on to keep your pool looking brand new.",
+    "source_urls": [
+      "https://bettabot.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "bettabotanicals.com",
+    "company_name": "Betta Botanicals | Natural Aquarium Products",
+    "website": "https://bettabotanicals.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@bettabotanicals.com",
+        "confidence": "high",
+        "source_url": "https://bettabotanicals.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "dale, or Bellingham you can request a local pickup. Email info@bettabotanicals.com wholesale@bettabotanicals.com Follow the leaves Faceb"
+      },
+      {
+        "address": "wholesale@bettabotanicals.com",
+        "confidence": "high",
+        "source_url": "https://bettabotanicals.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "an request a local pickup. Email info@bettabotanicals.com wholesale@bettabotanicals.com Follow the leaves Facebook Instagram"
+      }
+    ],
+    "role_emails": [
+      "info@bettabotanicals.com",
+      "wholesale@bettabotanicals.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bettabotanicals.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bettabotanicals.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bettabotanicals.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bettabotanicals.com/pages/contact-us",
+        "action": "/contact#ContactForm-template--20800991133872__contact-form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "We are enthusiasts just like you, building and advocating for better ecosystems. We are not your average aquatics brand, nor are we just for bettas; we curate premium natural products for an immense variety of creatures, big and small, vertebrates and invertebrates, in fully home-compostable packagi",
+    "source_urls": [
+      "https://bettabotanicals.com/pages/contact-us",
+      "https://bettabotanicals.com/policies/contact-information"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bettasquadusa.com",
+    "company_name": "Betta Squad USA, LLC.",
+    "website": "https://bettasquadusa.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "robots_disallowed",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "better-notyounger.com",
+    "company_name": "Better Not Younger",
+    "website": "https://better-notyounger.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "contact@better-notyounger.com",
+        "confidence": "high",
+        "source_url": "https://better-notyounger.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ing Hours Mon\u2013Fri, 9AM\u20135PM EST Contact Info contact@better-notyounger.com 786-796-5692 Looking for quic"
+      }
+    ],
+    "role_emails": [
+      "contact@better-notyounger.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://better-notyounger.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://better-notyounger.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://better-notyounger.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://better-notyounger.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Hair products that address the root cause and signs of aging hair. Holistic solutions to tackle dull, brittle and thinning hair.",
+    "source_urls": [
+      "https://better-notyounger.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "betterandbetter.com",
+    "company_name": "Better & Better",
+    "website": "https://betterandbetter.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "contact@betterandbetter.com",
+        "confidence": "highest",
+        "source_url": "https://betterandbetter.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2018-08-21",
+        "context_snippet": ""
+      },
+      {
+        "address": "support@betterandbetter.com",
+        "confidence": "highest",
+        "source_url": "https://www.betterandbetter.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "share feedback? We\u2019re here for you! Email us anytime at: support@betterandbetter.com Our friendly team will get back to you as soon as possibl"
+      }
+    ],
+    "role_emails": [
+      "contact@betterandbetter.com",
+      "support@betterandbetter.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://betterandbetter.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://betterandbetter.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2018-08-21"
+      },
+      {
+        "url": "https://betterandbetter.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2018-08-21"
+      },
+      {
+        "url": "https://betterandbetter.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.betterandbetter.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Premium oral care that's better for your health and better for the planet. Natural, clean, vegan ingredients, made even better with vitamins for your oral wellness needs.",
+    "source_urls": [
+      "https://betterandbetter.com/about",
+      "https://betterandbetter.com/contact",
+      "https://www.betterandbetter.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "betterbathbetterbody.com",
+    "company_name": "Better Bath Better Body",
+    "website": "https://www.betterbathbetterbody.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@betterbathbetterbody.com",
+        "confidence": "highest",
+        "source_url": "https://www.betterbathbetterbody.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "112 Louisville KY 40223 Mon - Fri 8:00am - 4:00pm support@betterbathbetterbody.com 800-619-9021 \u00a9 2"
+      }
+    ],
+    "role_emails": [
+      "support@betterbathbetterbody.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.betterbathbetterbody.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.betterbathbetterbody.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.betterbathbetterbody.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.betterbathbetterbody.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.betterbathbetterbody.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.betterbathbetterbody.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.betterbathbetterbody.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.betterbathbetterbody.com/collections/shower-tablet-steamers",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.betterbathbetterbody.com/pages/contact-us-old",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Better Bath Better Body offers a wide range of bath soaks to make you happier and healthier. Enjoy Epsom salt baths with pure essential oils.",
+    "source_urls": [
+      "https://www.betterbathbetterbody.com",
+      "https://www.betterbathbetterbody.com/team",
+      "https://www.betterbathbetterbody.com/about",
+      "https://www.betterbathbetterbody.com/about-us",
+      "https://www.betterbathbetterbody.com/press",
+      "https://www.betterbathbetterbody.com/pages/about-us",
+      "https://www.betterbathbetterbody.com/pages/contact-us",
+      "https://www.betterbathbetterbody.com/collections/shower-tablet-steamers",
+      "https://www.betterbathbetterbody.com/pages/contact-us-old"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "betterbatter.org",
+    "company_name": "Better Batter",
+    "website": "https://www.betterbatter.org",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Better Batter Direct",
+        "title": null,
+        "email": "order@betterbatter.org",
+        "source_url": "https://www.betterbatter.org/about/commercial-accounts"
+      },
+      {
+        "name": "Find Out How",
+        "title": null,
+        "email": "naomipoe@betterbatter.org",
+        "source_url": "https://www.betterbatter.org/about/commercial-accounts"
+      },
+      {
+        "name": "Open the Conversation",
+        "title": null,
+        "email": "randd@betterbatter.org",
+        "source_url": "https://www.betterbatter.org/about/commercial-accounts"
+      }
+    ],
+    "people": [
+      {
+        "name": "Better Batter Direct",
+        "title": null,
+        "email": "order@betterbatter.org",
+        "source_url": "https://www.betterbatter.org/about/commercial-accounts"
+      },
+      {
+        "name": "Find Out How",
+        "title": null,
+        "email": "naomipoe@betterbatter.org",
+        "source_url": "https://www.betterbatter.org/about/commercial-accounts"
+      },
+      {
+        "name": "Open the Conversation",
+        "title": null,
+        "email": "randd@betterbatter.org",
+        "source_url": "https://www.betterbatter.org/about/commercial-accounts"
+      }
+    ],
+    "emails": [
+      {
+        "address": "naomipoe@betterbatter.org",
+        "confidence": "highest",
+        "source_url": "https://www.betterbatter.org/about/commercial-accounts",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "order@betterbatter.org",
+        "confidence": "highest",
+        "source_url": "https://www.betterbatter.org/about/commercial-accounts",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "randd@betterbatter.org",
+        "confidence": "highest",
+        "source_url": "https://www.betterbatter.org/about/commercial-accounts",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.betterbatter.org",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.betterbatter.org/media",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2015-09-21"
+      },
+      {
+        "url": "https://www.betterbatter.org/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.betterbatter.org/about/our-story",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.betterbatter.org/about/commercial-accounts",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.betterbatter.org/about/certifications-awards",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.betterbatter.org/about/faqs",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.betterbatter.org/about/social-media",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.betterbatter.org/contact",
+        "action": "/contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "At Better Batter, we believe food makes memories. If you need a little inspiration, we are always here for you. Try out some of our customer favorites!",
+    "source_urls": [
+      "https://www.betterbatter.org/about/commercial-accounts"
+    ],
+    "reason": null,
+    "pages_fetched": 14
+  },
+  {
+    "company_domain": "betterbeveragebottles.com",
+    "company_name": "Better Beverage Bottles",
+    "website": "https://betterbeveragebottles.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://betterbeveragebottles.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://betterbeveragebottles.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://betterbeveragebottles.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://betterbeveragebottles.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Wholesale site for American Made Glass Milk Bottles. Heavy Duty Reusable Glass and Accessories. Our thick glass bottles are the strong, sustainable bottling solution. Stop using one-time use plastics and help our planet with glass bottles that are made to be abused and reused.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "betterbiom.com",
+    "company_name": "bi\u00f6m",
+    "website": "https://betterbiom.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "betterbitesbakery.com",
+    "company_name": "Better Bites Bakery",
+    "website": "https://betterbitesbakery.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customersatisfaction@betterbitesbakery.com",
+        "confidence": "highest",
+        "source_url": "https://betterbitesbakery.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "info@betterbitesbakery.com",
+        "confidence": "highest",
+        "source_url": "https://betterbitesbakery.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2016-08-04",
+        "context_snippet": "Circle Drive Suite #350 Austin, Texas 78736 (512)-350-2271 info@betterbitesbakery.com Retail Bakery Hours: Monday-Friday 8am-5pm Saturday/Sun"
+      },
+      {
+        "address": "sydney@betterbitesbakery.com",
+        "confidence": "high",
+        "source_url": "https://betterbitesbakery.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2017-04-20",
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "customersatisfaction@betterbitesbakery.com",
+      "info@betterbitesbakery.com",
+      "sydney@betterbitesbakery.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://betterbitesbakery.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://betterbitesbakery.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2017-04-20"
+      },
+      {
+        "url": "https://betterbitesbakery.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2016-08-04"
+      },
+      {
+        "url": "https://betterbitesbakery.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://betterbitesbakery.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://betterbitesbakery.com/pages/about-us#plant-based-packaging",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://betterbitesbakery.com/contact",
+        "action": "https://corie-villarreal.squarespace.com",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://betterbitesbakery.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Our classroom friendly desserts are free from the top 8 allergens and perfect for any celebration or special occasion.",
+    "source_urls": [
+      "https://betterbitesbakery.com",
+      "https://betterbitesbakery.com/about",
+      "https://betterbitesbakery.com/contact",
+      "https://betterbitesbakery.com/pages/about-us",
+      "https://betterbitesbakery.com/pages/contact-us",
+      "https://betterbitesbakery.com/pages/about-us#plant-based-packaging"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "betterboat.com",
+    "company_name": "Better Boat",
+    "website": "https://betterboat.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@betterboat.com",
+        "confidence": "high",
+        "source_url": "https://betterboat.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "support@betterboat.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://betterboat.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://betterboat.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://betterboat.com/pages/about-better-boat",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://betterboat.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://betterboat.com/contact",
+        "action": "/contact#contact-template--27079607320888__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://betterboat.com/pages/contact-us",
+        "action": "/contact#contact-template--27079607320888__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Better Boat\u00ae makes everything you need to clean, protect, and maintain your boat across lakes, rivers, and coastal waters",
+    "source_urls": [
+      "https://betterboat.com",
+      "https://betterboat.com/contact",
+      "https://betterboat.com/pages/about-better-boat",
+      "https://betterboat.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "betterbodyequipped.com",
+    "company_name": "Better Body Equipment United States Ltd",
+    "website": "https://betterbodyequipped.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://betterbodyequipped.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Browse our range of workout equipment, featuring dumbbells, kettlebells, barbells, weight benches, squat racks, and more. Achieve your fitness goals with ease and convenience - shop now!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "betterbolts.com",
+    "company_name": "Better Bolts",
+    "website": "https://betterbolts.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@betterbolts.com",
+        "confidence": "high",
+        "source_url": "https://betterbolts.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "SUPPORT FROM RIDERS Text, call, chat or email us. support@betterbolts.com 949-709-9701"
+      }
+    ],
+    "role_emails": [
+      "support@betterbolts.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://betterbolts.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://betterbolts.com/pages/teams-athletes",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://betterbolts.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Better Bolts titanium mountain bike bolts are purpose built to reduce weight, increase stiffness and eliminate corrosion on top end bicycles. Our signature titanium shock and pivot bolts are made of grade 5 aerospace titanium.",
+    "source_urls": [
+      "https://betterbolts.com"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "betterbooch.com",
+    "company_name": "Better Booch Kombucha",
+    "website": "https://betterbooch.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://betterbooch.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://betterbooch.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2019-09-16"
+      },
+      {
+        "url": "https://betterbooch.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2019-09-16"
+      },
+      {
+        "url": "https://betterbooch.com/press",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2021-05-12"
+      },
+      {
+        "url": "https://betterbooch.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2019-07-22"
+      },
+      {
+        "url": "https://betterbooch.com/pages/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://betterbooch.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://betterbooch.com/pages/contact-us?type=wholesale",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://betterbooch.com/pages/contact-us",
+        "action": "/contact#wholesale",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://betterbooch.com/pages/contact-us",
+        "action": "/contact#personal-contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://betterbooch.com/pages/contact-us?type=wholesale",
+        "action": "/contact#wholesale",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://betterbooch.com/pages/contact-us?type=wholesale",
+        "action": "/contact#personal-contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Better Booch is premium small craft kombucha that is brewed and canned in downtown Los Angeles. Brimming with naturally-occurring probiotics, botanicals, herbs, and adaptogens, Better Booch tastes as great as it makes you feel. Find Better Booch at 5,000+ retailers nationwide.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "betterbutter.com",
+    "company_name": "Better Butter",
+    "website": "https://betterbutter.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@betterbutter.com",
+        "confidence": "highest",
+        "source_url": "https://betterbutter.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "GET IN TOUCH INFO@BETTERBUTTER.COM 801.938.0909 Facebook Instagram"
+      }
+    ],
+    "role_emails": [
+      "info@betterbutter.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://betterbutter.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://betterbutter.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://betterbutter.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://betterbutter.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "At Better Butter, we provide a variety of irresistible craft butter for all your cooking needs. Whether you want a sweet or savory taste, we have it all!",
+    "source_urls": [
+      "https://betterbutter.com",
+      "https://betterbutter.com/pages/about",
+      "https://betterbutter.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "betterbuzzcoffee.com",
+    "company_name": "Better Buzz Coffee",
+    "website": "https://betterbuzzcoffee.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@betterbuzzcoffee.com",
+        "confidence": "highest",
+        "source_url": "https://betterbuzzcoffee.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2019-01-22",
+        "context_snippet": "UA WAY VISTA CA 92081 PHONE: 619-269-7249 FAX: 760-542-6403 INFO@BETTERBUZZCOFFEE.COM"
+      },
+      {
+        "address": "realestate@betterbuzzcoffee.com",
+        "confidence": "highest",
+        "source_url": "https://betterbuzzcoffee.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2019-01-22",
+        "context_snippet": "new location or real estate inquires please contact us at realestate@betterbuzzcoffee.com BETTER BUZZ COFFEE COMPANY 1150 JOSHUA WAY VISTA CA 92081 P"
+      }
+    ],
+    "role_emails": [
+      "info@betterbuzzcoffee.com",
+      "realestate@betterbuzzcoffee.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://betterbuzzcoffee.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://betterbuzzcoffee.com/press",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2017-03-25"
+      },
+      {
+        "url": "https://betterbuzzcoffee.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2019-01-22"
+      },
+      {
+        "url": "https://betterbuzzcoffee.com/pages/locations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://betterbuzzcoffee.com/collections/featured-products/products/black-magic-espresso",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://betterbuzzcoffee.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://betterbuzzcoffee.com/pages/locations-map",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Better Buzz Coffee Roasters | San Diego, CA based Small Batch Coffee Roasters. Roasting organic & specialty coffees with crafted coffee blends.",
+    "source_urls": [
+      "https://betterbuzzcoffee.com/contact",
+      "https://betterbuzzcoffee.com/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "betterdaysco.com",
+    "company_name": "BetterDays Co.",
+    "website": "https://betterdaysco.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customersupport@betterdaysco.com",
+        "confidence": "highest",
+        "source_url": "https://betterdaysco.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "? Have questions, comments or concerns? Please email us at customersupport@betterdaysco.com and we will be in contact shortly!"
+      }
+    ],
+    "role_emails": [
+      "customersupport@betterdaysco.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://betterdaysco.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://betterdaysco.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://betterdaysco.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "The best-tasting powdered greens, hormone support, & more. Looking for a better nutritional supplement? BetterDays is the best-tasting daily dose of greens + hydration + beauty & all natural energy.",
+    "source_urls": [
+      "https://betterdaysco.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "betterdisplaycases.com",
+    "company_name": "Better Display Cases",
+    "website": "https://www.betterdisplaycases.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customerservice@betterdisplaycases.com",
+        "confidence": "highest",
+        "source_url": "https://www.betterdisplaycases.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Need help? Call us 5406022692 customerservice@betterdisplaycases.com Follow Us Facebook Instagram"
+      }
+    ],
+    "role_emails": [
+      "customerservice@betterdisplaycases.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.betterdisplaycases.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.betterdisplaycases.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2016-02-07"
+      },
+      {
+        "url": "https://www.betterdisplaycases.com/pages/information-about-the-different-types-of-display-cases-we-offer",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.betterdisplaycases.com/pages/what-about-acrylic-shelves-and-wall-mounts",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.betterdisplaycases.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.betterdisplaycases.com/pages/follow-bdc-on-social-media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.betterdisplaycases.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Premium acrylic display cases for sports memorabilia, books, collectibles and more. \u2713 Free shipping \u2713 Veteran owned &amp; operated \u2713 Fast delivery",
+    "source_urls": [
+      "https://www.betterdisplaycases.com",
+      "https://www.betterdisplaycases.com/pages/information-about-the-different-types-of-display-cases-we-offer",
+      "https://www.betterdisplaycases.com/pages/what-about-acrylic-shelves-and-wall-mounts",
+      "https://www.betterdisplaycases.com/pages/contact-us",
+      "https://www.betterdisplaycases.com/pages/follow-bdc-on-social-media"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "betterfamily.com",
+    "company_name": "Better Family",
+    "website": "https://betterfamily.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@betterfamily.com",
+        "confidence": "highest",
+        "source_url": "https://betterfamily.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Liquid Daily Buy Now Support hello@betterfamily.com Call 573-432-6459 Buy Now Login"
+      }
+    ],
+    "role_emails": [
+      "hello@betterfamily.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://betterfamily.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://betterfamily.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Better Family\u2019s Liquid Daily is the best methylated liquid multivitamin for kids and adults. Doctor-formulated to support MTHFR mutation needs, it delivers superior vitamin absorption and fills daily nutritional gaps\u2014making it ideal for the entire family\u2019s health and energy.",
+    "source_urls": [
+      "https://betterfamily.com",
+      "https://betterfamily.com/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "betterfedbeef.com",
+    "company_name": "BetterFed Beef",
+    "website": "https://betterfedbeef.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://betterfedbeef.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://betterfedbeef.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://betterfedbeef.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://betterfedbeef.com/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://betterfedbeef.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://betterfedbeef.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://betterfedbeef.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://betterfedbeef.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://betterfedbeef.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "As tender as Wagyu at a fraction of the price. Certified ONYA\u00ae Beef from dairy-beef cross cattle, raised by real Midwest families and shipped directly to your door. BetterFed Beef is the world leading brand in 100% American beef from beef x dairy crossbred cattle.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "betterguards.com",
+    "company_name": "BETTERGUARDS-US",
+    "website": "https://betterguards.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@betterguards.com",
+        "confidence": "highest",
+        "source_url": "https://betterguards.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Technology, Inc 433 Broadway STE 214 New York, NY 10013 USA info@betterguards.com American Ex"
+      }
+    ],
+    "role_emails": [
+      "info@betterguards.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://betterguards.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://betterguards.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://betterguards.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://betterguards.com/pages/meet-our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Freedom of movement, performance, comfort combined with stability. \u27a1\ufe0f The BetterGuard offers a new experience for every sport. \u2714\ufe0f",
+    "source_urls": [
+      "https://betterguards.com",
+      "https://betterguards.com/about",
+      "https://betterguards.com/pages/about-us",
+      "https://betterguards.com/pages/meet-our-team"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "betterjewelry.com",
+    "company_name": "Betterjewelry",
+    "website": "https://www.betterjewelry.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customerservice@betterjewelry.com",
+        "confidence": "high",
+        "source_url": "https://www.betterjewelry.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "AM - 5 PM (EDT) Email us directly: customerservice@betterjewelry.com - if you need any help with a placed order. Please include"
+      }
+    ],
+    "role_emails": [
+      "customerservice@betterjewelry.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.betterjewelry.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.betterjewelry.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2014-10-17"
+      },
+      {
+        "url": "https://www.betterjewelry.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.betterjewelry.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.betterjewelry.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "\u2022 We are proud to make jewelry in Brooklyn \u2022 FREE SHIPPING ON ALL ORDERS within the US \u2022 We make all bangles to order \u2022 Shop now!",
+    "source_urls": [
+      "https://www.betterjewelry.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "betteroutdoors.net",
+    "company_name": "Better Outdoors Pro Shop",
+    "website": "https://betteroutdoors.net",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://betteroutdoors.net",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://betteroutdoors.net/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2026-03-05"
+      },
+      {
+        "url": "https://betteroutdoors.net/about-us/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://betteroutdoors.net/contact-us/",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2026-03-05"
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://betteroutdoors.net/contact-us/",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Better Outdoors helps you plan smarter outdoor trips with practical guides, honest gear insights, and real-world travel advice.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "betterrhodes.com",
+    "company_name": "Better Rhodes",
+    "website": "https://www.betterrhodes.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "email us",
+        "title": null,
+        "email": "%20hello@betterrhodes.com",
+        "source_url": "https://www.betterrhodes.com/pages/contact-us"
+      }
+    ],
+    "people": [
+      {
+        "name": "email us",
+        "title": null,
+        "email": "%20hello@betterrhodes.com",
+        "source_url": "https://www.betterrhodes.com/pages/contact-us"
+      }
+    ],
+    "emails": [
+      {
+        "address": "%20hello@betterrhodes.com",
+        "confidence": "highest",
+        "source_url": "https://www.betterrhodes.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "media@betterrhodes.com",
+        "confidence": "highest",
+        "source_url": "https://www.betterrhodes.com/pages/media",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Media Requests For all Media | PR Requests, please contact: media@betterrhodes.com Featured Articles Subscrip"
+      },
+      {
+        "address": "hello@betterrhodes.com",
+        "confidence": "high",
+        "source_url": "https://www.betterrhodes.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "se email us . Click the link, use our form below, or email hello@betterrhodes.com Better Rhodes orders are fulfilled in Stamford, CT Our"
+      }
+    ],
+    "role_emails": [
+      "hello@betterrhodes.com",
+      "media@betterrhodes.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.betterrhodes.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.betterrhodes.com/pages/about-better-rhodes",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.betterrhodes.com/pages/better-rhodes-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.betterrhodes.com/pages/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.betterrhodes.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.betterrhodes.com/pages/contact-us",
+        "action": "/contact#contact-template--15761723981958__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Shop the largest US non-alcoholic beverage marketplace, 200+ premium brands of NA wine, beer, spirits & mocktails. Real flavor, zero alcohol. Free shipping over $125.",
+    "source_urls": [
+      "https://www.betterrhodes.com/pages/media",
+      "https://www.betterrhodes.com/pages/contact-us"
+    ],
+    "reason": null,
+    "pages_fetched": 13
+  }
+]
