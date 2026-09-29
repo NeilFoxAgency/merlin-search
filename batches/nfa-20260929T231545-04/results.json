@@ -1,0 +1,1803 @@
+[
+  {
+    "company_domain": "buckeyebrownies.com",
+    "company_name": "Buckeye Brownies",
+    "website": "https://buckeyebrownies.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://buckeyebrownies.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buckeyebrownies.com/pages/about-1",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buckeyebrownies.com/pages/contact?contact_posted=true#ContactForm",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://buckeyebrownies.com/pages/contact?contact_posted=true#ContactForm",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Shop massive half-pound gourmet brownies packed with decadent flavors, rich toppings and unforgettable combinations. Buckeye Brownies are baked to satisfy serious dessert cravings and make the perfect gift or indulgence. Order gourmet brownies online and have them delivered nationwide.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "buckeyecorner.com",
+    "company_name": "BuckeyeCorner.com",
+    "website": "https://buckeyecorner.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customerservice@buckeyecorner.com",
+        "confidence": "highest",
+        "source_url": "https://buckeyecorner.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "n reach us at this email for any questions or assistance: customerservice@buckeyecorner.com Sign Up & Save 10% Be the first t"
+      }
+    ],
+    "role_emails": [
+      "customerservice@buckeyecorner.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://buckeyecorner.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buckeyecorner.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buckeyecorner.com/products/team-expressway-suede-hitch",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buckeyecorner.com/products/team-alumni-clean-up-cap",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buckeyecorner.com/products/team-2-tone-mvp-cap-natural",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buckeyecorner.com/products/team-stacked-script-hitch",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buckeyecorner.com/products/team-black-brutus-authentic-collection-59fifty",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buckeyecorner.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buckeyecorner.com/pages/store-locations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Find officially licensed Ohio State University gear and cheer on your school all year long at BuckeyeCorner.com. Shop OSU T-shirts, Jerseys and Hats. Find the perfect gifts like Buckeye flags, bobbleheads, tailgate gear and other Ohio State merchandise for any Ohio State fan!",
+    "source_urls": [
+      "https://buckeyecorner.com/contact",
+      "https://buckeyecorner.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 16
+  },
+  {
+    "company_domain": "buckeyeorganics.net",
+    "company_name": "Buckeye Organics",
+    "website": "https://www.buckeyeorganics.net",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.buckeyeorganics.net",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.buckeyeorganics.net/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.buckeyeorganics.net/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "We specialize in Red Wiggler Worms, African Nightcrawlers & European Nightcrawlers for your Vermicomposting and composting needs all year around",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "buckeyewinery.com",
+    "company_name": "Buckeye Winery",
+    "website": "https://buckeyewinery.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "winery@buckeyewinery.com",
+        "confidence": "highest",
+        "source_url": "https://buckeyewinery.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Search Contact 740-788-9463 winery@buckeyewinery.com Facebook Instagram"
+      }
+    ],
+    "role_emails": [
+      "winery@buckeyewinery.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://buckeyewinery.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buckeyewinery.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buckeyewinery.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buckeyewinery.com/pages/retail-locations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://buckeyewinery.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Offering a large selection of wine and selling home wine and beer making supplies",
+    "source_urls": [
+      "https://buckeyewinery.com",
+      "https://buckeyewinery.com/pages/about-us",
+      "https://buckeyewinery.com/pages/contact-us",
+      "https://buckeyewinery.com/pages/retail-locations"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "buckgardner.com",
+    "company_name": "Buck Gardner Calls",
+    "website": "https://buckgardner.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customerservice@buckgardner.com",
+        "confidence": "highest",
+        "source_url": "https://buckgardner.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Contact PH: 877-245-9113 customerservice@buckgardner.com Quick Links Shipping & Returns Contac"
+      }
+    ],
+    "role_emails": [
+      "customerservice@buckgardner.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://buckgardner.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buckgardner.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buckgardner.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buckgardner.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buckgardner.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buckgardner.com/pages/duck-calling-intermediate-level",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "We build high-quality duck calls, goose calls, predator calls, and deer calls - and we're passionate about getting more people in the outdoors!",
+    "source_urls": [
+      "https://buckgardner.com",
+      "https://buckgardner.com/team",
+      "https://buckgardner.com/about",
+      "https://buckgardner.com/about-us",
+      "https://buckgardner.com/press",
+      "https://buckgardner.com/pages/duck-calling-intermediate-level"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "buckle-down.com",
+    "company_name": "Buckle-Down",
+    "website": "https://buckle-down.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Contact Us Retailers",
+        "title": null,
+        "email": "sales@buckle-down.com",
+        "source_url": "https://buckle-down.com/about",
+        "association": "proximity"
+      }
+    ],
+    "people": [
+      {
+        "name": "Contact Us Retailers",
+        "title": null,
+        "email": "sales@buckle-down.com",
+        "source_url": "https://buckle-down.com/about",
+        "association": "proximity"
+      }
+    ],
+    "emails": [
+      {
+        "address": "sales@buckle-down.com",
+        "confidence": "highest",
+        "source_url": "https://buckle-down.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2021-11-01",
+        "context_snippet": "m-feed] OFFICES NY: 631-420-4238 CA: 714-895-4900 sales@buckle-down.com Contact Us Retailers: Subscribe to Our"
+      }
+    ],
+    "role_emails": [
+      "sales@buckle-down.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://buckle-down.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buckle-down.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2021-11-01"
+      },
+      {
+        "url": "https://buckle-down.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2021-11-02"
+      },
+      {
+        "url": "https://buckle-down.com/products/dog-toy-squeaker-plush-teenage-mutant-ninja-turtles-donatello-full-body-staff-pose-purple",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buckle-down.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buckle-down.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://buckle-down.com/pages/contact-us",
+        "action": "/contact#ContactForm-template--21543972044835__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Shop officially licensed Marvel, Disney & pop-culture seatbelt belts, dog collars & accessories. Made in the USA \u00b7 Free shipping over $99.",
+    "source_urls": [
+      "https://buckle-down.com/about",
+      "https://buckle-down.com/contact"
+    ],
+    "reason": null,
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "bucklehideleather.com",
+    "company_name": "Buckle and Hide Leather LLC",
+    "website": "https://www.bucklehideleather.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@bucklehideleather.com",
+        "confidence": "high",
+        "source_url": "https://www.bucklehideleather.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ok page as well as Instagram and Pinterest . Email: info@bucklehideleather.com , Shop phone: 615-768-5041. Behind the scene"
+      }
+    ],
+    "role_emails": [
+      "info@bucklehideleather.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.bucklehideleather.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bucklehideleather.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bucklehideleather.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.bucklehideleather.com/pages/contact-us",
+        "action": "/contact#contact-template--19453567926448__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Buckle and Hide Leather Shop in Smyrna, Tennessee carries handmade leather belts. We also have a large selection of leather apparel and accessories: wallets, purses, hats, bags and more. Need a belt buckle? There is a large selection available. Locals and visitors alike frequent the store.",
+    "source_urls": [
+      "https://www.bucklehideleather.com/pages/about-us",
+      "https://www.bucklehideleather.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bucklemecoats.com",
+    "company_name": "Buckle Me Baby Coats",
+    "website": "https://www.bucklemecoats.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@bucklemecoats.com",
+        "confidence": "highest",
+        "source_url": "https://www.bucklemecoats.com",
+        "source_type": "archived",
+        "snapshot_date": "2026-03-08",
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "hello@bucklemecoats.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.bucklemecoats.com",
+        "page_type": "home",
+        "source_type": "archived",
+        "snapshot_date": "2026-03-08"
+      },
+      {
+        "url": "https://www.bucklemecoats.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2019-09-21"
+      },
+      {
+        "url": "https://www.bucklemecoats.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2026-02-28"
+      },
+      {
+        "url": "https://www.bucklemecoats.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2026-03-01"
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.bucklemecoats.com/contact",
+        "action": "https://www.bucklemecoats.com/contact/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.bucklemecoats.com/pages/about-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.bucklemecoats.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Buckle Me Baby makes your life easier on the go. Buckle Me Baby Coats go on at home and stay on safely in car seats. Car Seat Blankies are snuggly and warm. Blowout Blockerz Jams and Oops Blockerz Pants stops leaks in the car seat and crib. Car Seat Sleepsacks make car to crib transitions easy. Buil",
+    "source_urls": [
+      "https://www.bucklemecoats.com",
+      "https://www.bucklemecoats.com/contact",
+      "https://www.bucklemecoats.com/pages/about-us",
+      "https://www.bucklemecoats.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "buckmason.com",
+    "company_name": "Buck Mason\u00c2\u00ae Official Site",
+    "website": "https://www.buckmason.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "help@buckmason.com",
+        "confidence": "highest",
+        "source_url": "https://www.buckmason.com/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Women Made in USA The Journal Our Stores FAQ Contact Us At help@buckmason.com 888-988-5560 Mon - Fri: 8:00AM - 5:00PM Pacific Sat - Sun:"
+      },
+      {
+        "address": "media@buckmason.com",
+        "confidence": "highest",
+        "source_url": "https://www.buckmason.com/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ries and partnerships? For press inquiries, please contact media@buckmason.com . Do you have an affiliate program? We have a curated set o"
+      }
+    ],
+    "role_emails": [
+      "help@buckmason.com",
+      "media@buckmason.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.buckmason.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.buckmason.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.buckmason.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.buckmason.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Buck Mason makes updated, modern American classics with a commitment to timelessness, quality, and our California roots.",
+    "source_urls": [
+      "https://www.buckmason.com",
+      "https://www.buckmason.com/about",
+      "https://www.buckmason.com/about-us",
+      "https://www.buckmason.com/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "buckpalmer.com",
+    "company_name": "Buck Palmer",
+    "website": "https://buckpalmer.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://buckpalmer.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buckpalmer.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Buck Palmer honors and represents those with adventurous spirits and individual style. Each rustic-luxe piece has a specific story to tell. BP jewelry is continuously inspired by traveling the globe, cultural experiences & unique connections. Shop the complete collection at http://buckpalmer.com",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "bucks.com",
+    "company_name": "Bucks Pro Shop",
+    "website": "https://shop.bucks.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@shop.bucks.com",
+        "confidence": "high",
+        "source_url": "https://shop.bucks.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Have questions? Contact us at support@shop.bucks.com Customer Service C"
+      }
+    ],
+    "role_emails": [
+      "support@shop.bucks.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://shop.bucks.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.bucks.com/pages/locations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.bucks.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://shop.bucks.com/pages/contact-us",
+        "action": "/contact#contact-us-page",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Bucks Pro Shop is the official online store of the Milwaukee Bucks. Get Bucks t-shirts, hats, jerseys, ladies apparel and more at shop.bucks.com",
+    "source_urls": [
+      "https://shop.bucks.com",
+      "https://shop.bucks.com/pages/locations",
+      "https://shop.bucks.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "buckscountybaseballco.com",
+    "company_name": "BUCKS COUNTY BASEBALL CO.",
+    "website": "https://buckscountybaseballco.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@buckscountybaseballco.com",
+        "confidence": "highest",
+        "source_url": "https://buckscountybaseballco.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "jim@buckscountybaseballco.com",
+        "confidence": "high",
+        "source_url": "https://buckscountybaseballco.com/pages/our-team",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "TEAM JIM LUTZ Phone: 276-878-0222 Email: jim@buckscountybaseballco.com Experience: * 30 Year Sports Memorabilia Veteran *"
+      },
+      {
+        "address": "jplutz@buckscountybaseballco.com",
+        "confidence": "high",
+        "source_url": "https://buckscountybaseballco.com/pages/our-team",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "________________ JP Lutz Phone: 276-878-0222 Email: jplutz@buckscountybaseballco.com Experience: * Sports Industry Veteran * Professor"
+      }
+    ],
+    "role_emails": [
+      "info@buckscountybaseballco.com",
+      "jim@buckscountybaseballco.com",
+      "jplutz@buckscountybaseballco.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://buckscountybaseballco.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buckscountybaseballco.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buckscountybaseballco.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buckscountybaseballco.com/pages/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buckscountybaseballco.com/pages/company-history",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://buckscountybaseballco.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://buckscountybaseballco.com/pages/our-team",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Vintage Sports Memorabilia store in Bristol, PA. Specialize in Philadelphia Sports, Autographs, Bobbleheads, Collectibles. Eagles, Phillies, 76ers, Flyers",
+    "source_urls": [
+      "https://buckscountybaseballco.com",
+      "https://buckscountybaseballco.com/pages/contact-us",
+      "https://buckscountybaseballco.com/pages/about-us",
+      "https://buckscountybaseballco.com/pages/our-team",
+      "https://buckscountybaseballco.com/pages/company-history"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "buckwear.com",
+    "company_name": "Buck Wear",
+    "website": "https://www.buckwear.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.buckwear.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.buckwear.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2017-06-14"
+      },
+      {
+        "url": "https://www.buckwear.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2025-06-20"
+      },
+      {
+        "url": "https://www.buckwear.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2025-07-13"
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.buckwear.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Explore Buck Wear\u2019s Lifestyle Apparel for the OutdoorsmanGear up with high-quality t-shirts, hats, and hoodies built for hunters, anglers, and rugged adventurers. Whether you're in the woods, on the water, or around the campfire,\u00a0our gear lets you show your American pride while staying rugged, comfo",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "buckwildbison.com",
+    "company_name": "Buck Wild Bison",
+    "website": "https://buckwildbison.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@buckwildbison.com",
+        "confidence": "high",
+        "source_url": "https://buckwildbison.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@buckwildbison.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://buckwildbison.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buckwildbison.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buckwildbison.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buckwildbison.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buckwildbison.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buckwildbison.com/pages/contact-buck-wild-bison",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://buckwildbison.com/pages/contact-buck-wild-bison",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Buck Wild Bison offers premium, dry-aged bison meat/buffalo meat for sale online. Free shipping for most orders!",
+    "source_urls": [
+      "https://buckwildbison.com",
+      "https://buckwildbison.com/team",
+      "https://buckwildbison.com/about",
+      "https://buckwildbison.com/about-us",
+      "https://buckwildbison.com/pages/about-us",
+      "https://buckwildbison.com/pages/contact-buck-wild-bison"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bucky.com",
+    "company_name": "Bucky",
+    "website": "https://bucky.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customerservice@bucky.com",
+        "confidence": "high",
+        "source_url": "https://bucky.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Pinterest GET IN TOUCH CustomerService@bucky.com 1-800-692-8259 206-545-8790 WHOLESALE INQUIRIES Wholesale"
+      },
+      {
+        "address": "info@bucky.com",
+        "confidence": "high",
+        "source_url": "https://bucky.com/pages/contact-us-1",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ", Inc. PO Box 58410 Seattle, WA 98138 PUBLIC RELATIONS: info@bucky.com WHOLESALE INQUIRIES: Please email: WholesaleOrders@buc"
+      },
+      {
+        "address": "wholesaleorders@bucky.com",
+        "confidence": "high",
+        "source_url": "https://bucky.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "2-8259 206-545-8790 WHOLESALE INQUIRIES Wholesale Website WholesaleOrders@bucky.com Search Contact Us About Us FAQs Press Blo"
+      }
+    ],
+    "role_emails": [
+      "customerservice@bucky.com",
+      "info@bucky.com",
+      "wholesaleorders@bucky.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bucky.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bucky.com/pages/contact-us-1",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bucky.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bucky.com/pages/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bucky.com/pages/contact-us-1",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Insomnia no more! The best sleep masks and buckwheat pillows for better sleep. Cupped sleep masks for lash extensions. Travel pillows and accessories.",
+    "source_urls": [
+      "https://bucky.com",
+      "https://bucky.com/pages/contact-us-1",
+      "https://bucky.com/pages/about-us",
+      "https://bucky.com/pages/press"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "budarebistro.com",
+    "company_name": "Budare Bistro",
+    "website": "https://www.budarebistro.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@budarebistro.com",
+        "confidence": "high",
+        "source_url": "https://www.budarebistro.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@budarebistro.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.budarebistro.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.budarebistro.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.budarebistro.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.budarebistro.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.budarebistro.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.budarebistro.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.budarebistro.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2019-01-07"
+      },
+      {
+        "url": "https://www.budarebistro.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.budarebistro.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.budarebistro.com/contact",
+        "action": "http://budarebistro.com/contact/#cntctfrm_contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.budarebistro.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Authentic Venezuelan Flavors at Budare Bistro - A Culinary Heaven & Online Store Offering Chucherias, Venezuelan Cheeses, and More!",
+    "source_urls": [
+      "https://www.budarebistro.com",
+      "https://www.budarebistro.com/team",
+      "https://www.budarebistro.com/our-team",
+      "https://www.budarebistro.com/about",
+      "https://www.budarebistro.com/about-us",
+      "https://www.budarebistro.com/press"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "buddhaandkarma.com",
+    "company_name": "Buddha & Karma",
+    "website": "https://buddhaandkarma.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@buddhaandkarma.com",
+        "confidence": "highest",
+        "source_url": "https://buddhaandkarma.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ossible . Call: +1 (848) 900-8048 \ud83c\uddfa\ud83c\uddf8 Email: hello@buddhaandkarma.com Or leave us a message"
+      }
+    ],
+    "role_emails": [
+      "hello@buddhaandkarma.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://buddhaandkarma.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buddhaandkarma.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buddhaandkarma.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buddhaandkarma.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buddhaandkarma.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buddhaandkarma.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Buddha & Karma brings spiritual jewelry created to empower your life. Find healing, abundance, and protection from our collection. Visit us today!",
+    "source_urls": [
+      "https://buddhaandkarma.com/contact",
+      "https://buddhaandkarma.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "buddhablossomjewels.com",
+    "company_name": "Buddha Blossom Jewels",
+    "website": "https://buddhablossomjewels.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://buddhablossomjewels.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buddhablossomjewels.com/pages/about-us-1",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buddhablossomjewels.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buddhablossomjewels.com/products/lapis-lazuli-stacking-ring-in-copper-stones-about-1-4-inch-in-size",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://buddhablossomjewels.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Explore the world of handmade crystal jewelry and discover meaningful pieces that align with your intentions. Our women-owned team in Arizona has been creating with love since 2012. Discover your new favorite gem and elevate your style with our artisanal crystal jewelry today!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "buddhagroove.com",
+    "company_name": "Buddha Groove",
+    "website": "https://buddhagroove.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://buddhagroove.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buddhagroove.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buddhagroove.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buddhagroove.com/collections/books-media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buddhagroove.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buddhagroove.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://buddhagroove.com/contact",
+        "action": "/contact#NbgContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://buddhagroove.com/pages/contact",
+        "action": "/contact#NbgContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Symbolic jewelry, Buddha and Ganesh statues, malas and meditation tools with meaning behind every piece. USA based since 2007, free shipping over $85, 30-day returns.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "buddhajewelry.com",
+    "company_name": "Buddha Jewelry",
+    "website": "https://www.buddhajewelry.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "challenge_page",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "buddhapants.com",
+    "company_name": "Buddha Pants\u00ae",
+    "website": "https://www.buddhapants.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Rachel Raab",
+        "title": "Founder",
+        "email": "rachel@buddhapants.com",
+        "source_url": "https://www.buddhapants.com/team"
+      }
+    ],
+    "people": [
+      {
+        "name": "Rachel Raab",
+        "title": "Founder",
+        "email": "rachel@buddhapants.com",
+        "source_url": "https://www.buddhapants.com/team"
+      }
+    ],
+    "emails": [
+      {
+        "address": "support@buddhapants.com",
+        "confidence": "high",
+        "source_url": "https://www.buddhapants.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "rachel@buddhapants.com",
+        "confidence": "medium",
+        "source_url": "https://www.buddhapants.com/team",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "support@buddhapants.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.buddhapants.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.buddhapants.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.buddhapants.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.buddhapants.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.buddhapants.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.buddhapants.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.buddhapants.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.buddhapants.com/pages/the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Buddha Pants\u00ae features fun, free feeling, ultra comfortable unisex harem pants make from 100% cotton, designed for relaxation from yoga to a night out. Available in nine sizes, all pants pack up into themselves. We manufacture multifunctional travel ready apparel just for you! Shop now & get FREE sh",
+    "source_urls": [
+      "https://www.buddhapants.com",
+      "https://www.buddhapants.com/team",
+      "https://www.buddhapants.com/our-team",
+      "https://www.buddhapants.com/about",
+      "https://www.buddhapants.com/about-us",
+      "https://www.buddhapants.com/press",
+      "https://www.buddhapants.com/contact",
+      "https://www.buddhapants.com/pages/the-team"
+    ],
+    "reason": null,
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "buddhascup.com",
+    "company_name": "Buddha\u2019s Sanctuary LLC",
+    "website": "https://buddhascup.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@buddhascup.com",
+        "confidence": "highest",
+        "source_url": "https://buddhascup.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "377 Bishop Road Holualoa, Hawaii, 96725 info@buddhascup.com 808-322-6712 Get Directions TOURS & TAS"
+      }
+    ],
+    "role_emails": [
+      "info@buddhascup.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://buddhascup.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buddhascup.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buddhascup.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://buddhascup.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Award winning 100% Kona coffee, delivered fresh from our farm to your door. Buy the best Hawaiian Kona coffee and teas online!",
+    "source_urls": [
+      "https://buddhascup.com",
+      "https://buddhascup.com/pages/about",
+      "https://buddhascup.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "buddybrew.com",
+    "company_name": "Buddy Brew Coffee",
+    "website": "https://www.buddybrew.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "benn@buddybrew.com",
+        "confidence": "highest",
+        "source_url": "https://www.buddybrew.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "support@buddybrew.com",
+        "confidence": "highest",
+        "source_url": "https://www.buddybrew.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "info@buddybrew.com",
+        "confidence": "high",
+        "source_url": "https://www.buddybrew.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ers Media Inquiries Customer Service (813) 258-2739 info@buddybrew.com Your Privacy Choices D"
+      },
+      {
+        "address": "webmaster@buddybrew.com",
+        "confidence": "high",
+        "source_url": "https://www.buddybrew.com/collections/home-espresso-equipment",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "e to your home with the brands we trust. Please email us at webmaster@buddybrew.com for any additional questions or concerns. Please allow 2"
+      }
+    ],
+    "role_emails": [
+      "benn@buddybrew.com",
+      "info@buddybrew.com",
+      "support@buddybrew.com",
+      "webmaster@buddybrew.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.buddybrew.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.buddybrew.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.buddybrew.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.buddybrew.com/pages/locations-2019",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.buddybrew.com/collections/home-espresso-equipment",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.buddybrew.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.buddybrew.com/pages/contact-us-2019",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.buddybrew.com/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.buddybrew.com/pages/contact-us-2019",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "We sustainably and ethically source only the top specialty grade coffees in the world. Always fresh roasted on the same day it is shipped. Visit our cafes, shop online or find Buddy Brew in your local grocery store. We offer wholesale partnerships. Brew Good and Do Good with us!",
+    "source_urls": [
+      "https://www.buddybrew.com",
+      "https://www.buddybrew.com/about",
+      "https://www.buddybrew.com/contact",
+      "https://www.buddybrew.com/pages/locations-2019",
+      "https://www.buddybrew.com/collections/home-espresso-equipment",
+      "https://www.buddybrew.com/pages/about-us",
+      "https://www.buddybrew.com/pages/contact-us-2019"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "buddyleejumpropes.com",
+    "company_name": "Buddy Lee Jump Ropes",
+    "website": "https://buddyleejumpropes.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Anyaku Alicho Iheoha",
+        "title": null,
+        "email": "info@buddyleejumpropes.com",
+        "source_url": "https://buddyleejumpropes.com/about-us",
+        "association": "proximity"
+      }
+    ],
+    "people": [
+      {
+        "name": "Anyaku Alicho Iheoha",
+        "title": null,
+        "email": "info@buddyleejumpropes.com",
+        "source_url": "https://buddyleejumpropes.com/about-us",
+        "association": "proximity"
+      }
+    ],
+    "emails": [
+      {
+        "address": "info@buddyleejumpropes.com",
+        "confidence": "highest",
+        "source_url": "https://buddyleejumpropes.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "o content Buddy Lee Jump Ropes 1-202-630-6045 info@buddyleejumpropes.com search"
+      }
+    ],
+    "role_emails": [
+      "info@buddyleejumpropes.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://buddyleejumpropes.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buddyleejumpropes.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2019-08-21"
+      },
+      {
+        "url": "https://buddyleejumpropes.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2021-04-21"
+      },
+      {
+        "url": "https://buddyleejumpropes.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2023-12-04"
+      },
+      {
+        "url": "https://buddyleejumpropes.com/blogs/jump-rope-training/is-jump-rope-bad-for-knees-the-truth-about-knee-health-benefits-and-safe-jump-rope-training",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://buddyleejumpropes.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Buddy Lee Jump Ropes is the world's leading best jump ropes company! We\u2019ve provided top-quality jump ropes and educational training programs for more than 30 years.",
+    "source_urls": [
+      "https://buddyleejumpropes.com",
+      "https://buddyleejumpropes.com/about-us",
+      "https://buddyleejumpropes.com/pages/contact-us",
+      "https://buddyleejumpropes.com/blogs/jump-rope-training/is-jump-rope-bad-for-knees-the-truth-about-knee-health-benefits-and-safe-jump-rope-training"
+    ],
+    "reason": null,
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "buddylove.com",
+    "company_name": "BuddyLove Clothing Label",
+    "website": "https://buddylove.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "shop@buddylove.com",
+        "confidence": "high",
+        "source_url": "https://buddylove.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "shop@buddylove.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://buddylove.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buddylove.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buddylove.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Enhance your style with trendy clothing for every occasion. Shop cute clothing & accessories for women for all seasons & events. Free shipping over $150.",
+    "source_urls": [
+      "https://buddylove.com",
+      "https://buddylove.com/contact",
+      "https://buddylove.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  }
+]
