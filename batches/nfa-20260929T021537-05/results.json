@@ -1,0 +1,1906 @@
+[
+  {
+    "company_domain": "beckersafety.com",
+    "company_name": "Becker Safety and Supply",
+    "website": "https://beckersafety.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "online@beckersafety.com",
+        "confidence": "highest",
+        "source_url": "https://beckersafety.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Greeley, CO 80631 (970) 576-3988 Options 3 Or Email Us At: online@beckersafety.com About the shop At Becker"
+      },
+      {
+        "address": "sales@beckersafety.com",
+        "confidence": "highest",
+        "source_url": "https://beckersafety.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "eed help? Call us at 970.576.3988 sales@beckersafety.com Back Products First Responder Workwear"
+      }
+    ],
+    "role_emails": [
+      "online@beckersafety.com",
+      "sales@beckersafety.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://beckersafety.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beckersafety.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beckersafety.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beckersafety.com/pages/inventory-management",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beckersafety.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://beckersafety.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Becker Safety and Supply offers an extensive range of PPE including FR clothing, work boots, safety vests, gas monitors, fall protection, gloves, and safety glasses for comprehensive workplace safety.",
+    "source_urls": [
+      "https://beckersafety.com",
+      "https://beckersafety.com/about",
+      "https://beckersafety.com/about-us",
+      "https://beckersafety.com/pages/inventory-management",
+      "https://beckersafety.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "beckersbestshoes.com",
+    "company_name": "Becker's Best Shoes",
+    "website": "https://beckersbestshoes.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@beckersbestshoes.com",
+        "confidence": "highest",
+        "source_url": "https://beckersbestshoes.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ly St Mt Dora, FL 32757 Call \u00b7 352-385-0909 Email \u00b7 info@beckersbestshoes.com HOURS Mon \u2013 Thurs: 10 AM \u2013 6 PM Fri \u2013 Sat: 10 AM"
+      }
+    ],
+    "role_emails": [
+      "info@beckersbestshoes.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://beckersbestshoes.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beckersbestshoes.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beckersbestshoes.com/contact/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://beckersbestshoes.com/contact",
+        "action": "https://beckersbestshoes.com/contact/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://beckersbestshoes.com/contact/",
+        "action": "https://beckersbestshoes.com/contact/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Becker\u2019s Best Shoes is your local destination for comfort-focused footwear in Mount Dora, FL. Shop trusted brands and find your perfect fit in-store today.",
+    "source_urls": [
+      "https://beckersbestshoes.com",
+      "https://beckersbestshoes.com/contact",
+      "https://beckersbestshoes.com/contact/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "beckettsimonon.com",
+    "company_name": "Beckett Simonon",
+    "website": "https://www.beckettsimonon.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "service@beckettsimonon.com",
+        "confidence": "highest",
+        "source_url": "https://www.beckettsimonon.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ing Protection we're here to help service@beckettsimonon.com Mon - Fri / 9:00am- 5:30pm (EST)"
+      }
+    ],
+    "role_emails": [
+      "service@beckettsimonon.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.beckettsimonon.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beckettsimonon.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beckettsimonon.com/pages/creating-a-joyful-healthy-and-supportive-workplace",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beckettsimonon.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.beckettsimonon.com/pages/contact-us",
+        "action": "/contact#ContactUsForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Handcrafted leather shoes that won\u2019t break the bank.",
+    "source_urls": [
+      "https://www.beckettsimonon.com",
+      "https://www.beckettsimonon.com/contact",
+      "https://www.beckettsimonon.com/pages/creating-a-joyful-healthy-and-supportive-workplace",
+      "https://www.beckettsimonon.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "beckmannsbakery.com",
+    "company_name": "Beckmann's Bakery",
+    "website": "https://beckmannsbakery.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "squinn@beckmannsbakery.com",
+        "confidence": "high",
+        "source_url": "https://beckmannsbakery.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "squinn@beckmannsbakery.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://beckmannsbakery.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beckmannsbakery.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2021-03-03"
+      },
+      {
+        "url": "https://beckmannsbakery.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beckmannsbakery.com/pages/our-company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://beckmannsbakery.com/pages/contact-us",
+        "action": "/contact#contact-",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Beckmann's Old World Bakery welcomes you to our \"Naturally Good\" bakery - home of California Sourdough, German Farm Bread and award winning pies.",
+    "source_urls": [
+      "https://beckmannsbakery.com",
+      "https://beckmannsbakery.com/pages/contact-us",
+      "https://beckmannsbakery.com/pages/our-company"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "becksfurniture.com",
+    "company_name": "Beck's Furniture",
+    "website": "https://www.becksfurniture.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@becksfurniture.com",
+        "confidence": "highest",
+        "source_url": "https://www.becksfurniture.com/policies/contact-information",
+        "source_type": "archived",
+        "snapshot_date": "2025-08-15",
+        "context_snippet": "me. Email Us For general inquiries, please email us at hello@becksfurniture.com . We will respond to your message within 1-2 business days."
+      }
+    ],
+    "role_emails": [
+      "hello@becksfurniture.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.becksfurniture.com",
+        "page_type": "home",
+        "source_type": "archived",
+        "snapshot_date": "2025-08-15"
+      },
+      {
+        "url": "https://www.becksfurniture.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2025-08-15"
+      },
+      {
+        "url": "https://www.becksfurniture.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2025-08-15"
+      },
+      {
+        "url": "https://www.becksfurniture.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2025-08-15"
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.becksfurniture.com/pages/contact",
+        "action": "/contact#ContactForm-template--22693965791546__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Discover the best furniture store in Rancho Cordova, California. Beck's Furniture & Sleep offers a wide selection of high-quality pieces for every room. From stylish sofas to comfortable beds and elegant dining sets, find the perfect furniture to enhance your home. Visit our showroom today and exper",
+    "source_urls": [
+      "https://www.becksfurniture.com/policies/contact-information"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "beckyfos.com",
+    "company_name": "Becky Fos",
+    "website": "https://beckyfos.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "gallery@beckyfos.com",
+        "confidence": "highest",
+        "source_url": "https://beckyfos.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2015-09-29",
+        "context_snippet": "(504) 444-2967 gallery@beckyfos.com Gallery B. Fos | 3956 Magazine Street | New Orleans, LA 701"
+      },
+      {
+        "address": "info@beckyfos.com",
+        "confidence": "highest",
+        "source_url": "https://beckyfos.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Baronne Street \u2022 New Orleans, LA 70113 +1 504 444 2967 \u2022 info@beckyfos.com Gallery Hours: Sunday - Tuesday: CLOSED Wednesday: 10a - 5"
+      }
+    ],
+    "role_emails": [
+      "gallery@beckyfos.com",
+      "info@beckyfos.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://beckyfos.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beckyfos.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2015-09-29"
+      },
+      {
+        "url": "https://beckyfos.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2022-01-21"
+      },
+      {
+        "url": "https://beckyfos.com/pages/about-becky",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beckyfos.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://beckyfos.com/about",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://beckyfos.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "The Colorful World of Becky Fos. Happiness Included.",
+    "source_urls": [
+      "https://beckyfos.com",
+      "https://beckyfos.com/about",
+      "https://beckyfos.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "beclickless.com",
+    "company_name": "www.beclickless.com",
+    "website": "https://www.beclickless.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Salt Lake City",
+        "title": null,
+        "email": "orders@beclickless.com",
+        "source_url": "https://www.beclickless.com/pages/press",
+        "association": "proximity"
+      }
+    ],
+    "people": [
+      {
+        "name": "Salt Lake City",
+        "title": null,
+        "email": "orders@beclickless.com",
+        "source_url": "https://www.beclickless.com/pages/press",
+        "association": "proximity"
+      }
+    ],
+    "emails": [
+      {
+        "address": "help@beclickless.com",
+        "confidence": "highest",
+        "source_url": "https://www.beclickless.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "orders@beclickless.com",
+        "confidence": "highest",
+        "source_url": "https://www.beclickless.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Get in touch orders@beclickless.com Follow us out there p i Newsletter"
+      },
+      {
+        "address": "press@beclickless.com",
+        "confidence": "high",
+        "source_url": "https://www.beclickless.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ce sales@beclickless.com Wholesale & Retail press@beclickless.com Press & Media Clickless by Green Light Innovations,"
+      },
+      {
+        "address": "sales@beclickless.com",
+        "confidence": "high",
+        "source_url": "https://www.beclickless.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "orders@beclickless.com Orders & Customer Service sales@beclickless.com Wholesale & Retail press@beclickless.com Pres"
+      }
+    ],
+    "role_emails": [
+      "help@beclickless.com",
+      "orders@beclickless.com",
+      "press@beclickless.com",
+      "sales@beclickless.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.beclickless.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beclickless.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beclickless.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beclickless.com/pages/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beclickless.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.beclickless.com/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.beclickless.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Love your shoes with Clickless stiletto & high heel protectors. Discreet, durable heel caps can be used to protect and replace high heels.",
+    "source_urls": [
+      "https://www.beclickless.com",
+      "https://www.beclickless.com/contact",
+      "https://www.beclickless.com/pages/about-us",
+      "https://www.beclickless.com/pages/press",
+      "https://www.beclickless.com/pages/contact-us"
+    ],
+    "reason": null,
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "becobabycarrier.com",
+    "company_name": "Beco Baby Carriers",
+    "website": "https://becobabycarrier.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "help@becobabycarrier.com",
+        "confidence": "highest",
+        "source_url": "https://becobabycarrier.com/press",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Always here for you! Email us: help@becobabycarrier.com Beco Baby Carrier, 4699 Nautilus Court S Unit 201 Bou"
+      }
+    ],
+    "role_emails": [
+      "help@becobabycarrier.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://becobabycarrier.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://becobabycarrier.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://becobabycarrier.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://becobabycarrier.com/pages/press-awards",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://becobabycarrier.com/pages/beco-gemini-support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://becobabycarrier.com/pages/beco-hipseat-support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://becobabycarrier.com/pages/beco-8-support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://becobabycarrier.com/pages/beco-toddler-support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://becobabycarrier.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://becobabycarrier.com/blogs/beco-blog/beco-teams-favorite-fall-family-activities",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://becobabycarrier.com/blogs/beco-blog/beco-teams-favorite-fall-family-activities",
+        "action": "/blogs/beco-blog/beco-teams-favorite-fall-family-activities/comments#comment_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Beco Baby Carriers are the highest quality, most ergonomically designed baby carriers here! From newborn carrier to toddler carrier \u2013 find your perfect fit. Discover the freedom and comfort of baby-wearing! Get yours with free express shipping today!",
+    "source_urls": [
+      "https://becobabycarrier.com/press",
+      "https://becobabycarrier.com/contact",
+      "https://becobabycarrier.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 16
+  },
+  {
+    "company_domain": "becomelucid.com",
+    "company_name": "Lucid\u2122",
+    "website": "https://becomelucid.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://becomelucid.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://becomelucid.com/pages/lucid-contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Lucid\u2122 is a superfood drink that boosts gut health, mental clarity, energy & focus without the anxiety & fatigue most over-caffeinated beverages bring. Level up your productivity.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "becomingjewelry.com",
+    "company_name": "Becoming Jewelry",
+    "website": "https://www.becomingjewelry.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "%20customerservice@becomingjewelry.com",
+        "confidence": "highest",
+        "source_url": "https://www.becomingjewelry.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "customerservice@becomingjewelry.com",
+        "confidence": "high",
+        "source_url": "https://www.becomingjewelry.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "below. Office Hours: Mon-Fri 9am-4pm EST (207) 502-8036 customerservice@becomingjewelry.com Contact us"
+      }
+    ],
+    "role_emails": [
+      "%20customerservice@becomingjewelry.com",
+      "customerservice@becomingjewelry.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.becomingjewelry.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.becomingjewelry.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.becomingjewelry.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.becomingjewelry.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.becomingjewelry.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.becomingjewelry.com/contact",
+        "action": "/contact#contact-us-page",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.becomingjewelry.com/pages/contact",
+        "action": "/contact#contact-us-page",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Find meaning in everyday moments with our collections of necklaces, layering chains, earrings, and more. Women-owned and thoughtfully designed in Maine, USA.",
+    "source_urls": [
+      "https://www.becomingjewelry.com/contact",
+      "https://www.becomingjewelry.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "becozi.net",
+    "company_name": "BeCozi",
+    "website": "https://becozi.net",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://becozi.net",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://becozi.net/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://becozi.net/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://becozi.net/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://becozi.net/pages/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://becozi.net/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "BeCozi is a home of Hand Knitting: biggest collection of Chunky Chenille and other Chunky yarns, Blankets, DIY Knit kits and cozy knits. 300 Video tutorials on Hand Knitting on YouTube. Author of \"Hand Knitting\" Book.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "becreateful.com",
+    "company_name": "Be Createful",
+    "website": "https://becreateful.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@becreateful.com",
+        "confidence": "highest",
+        "source_url": "https://becreateful.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "erest Need assistance? Email us at Support@Becreateful.com or 913-335-1083 Free Shipping on domestic orders"
+      }
+    ],
+    "role_emails": [
+      "support@becreateful.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://becreateful.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://becreateful.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://becreateful.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://becreateful.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://becreateful.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://becreateful.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://becreateful.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://becreateful.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Shop premium flatback, hotfix, and AB rhinestones for designers, makers, and production studios. Be Createful offers wholesale and retail rhinestone supplies in hundreds of colors and sizes. Wholesale pricing for bulk rhinestone orders. America's #1 rhinestone supplier - Family-owned and operated!",
+    "source_urls": [
+      "https://becreateful.com",
+      "https://becreateful.com/team",
+      "https://becreateful.com/our-team",
+      "https://becreateful.com/about",
+      "https://becreateful.com/about-us",
+      "https://becreateful.com/pages/contact",
+      "https://becreateful.com/policies/contact-information"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bedderway.com",
+    "company_name": "The Bedder Way Co",
+    "website": "https://bedderway.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "questions@bedderway.com",
+        "confidence": "high",
+        "source_url": "https://bedderway.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Contact us: Phone: (866) 783-5105 Email: Questions@Bedderway.com \"Close (esc)\""
+      }
+    ],
+    "role_emails": [
+      "questions@bedderway.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bedderway.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bedderway.com/pages/our-company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Browse our extensive selection of real wood Murphy bed styles, including side cabinets, shelving and more. When you choose a Bedder Way Murphy bed, you get a more comfortable, functional solution for your personal space. Learn more about what sets our beds apart from the rest and choose yours today.",
+    "source_urls": [
+      "https://bedderway.com",
+      "https://bedderway.com/pages/our-company"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "beddley.com",
+    "company_name": "beddley.com",
+    "website": "https://beddley.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "press@beddley.com",
+        "confidence": "highest",
+        "source_url": "https://beddley.com/pages/press",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "press releases, high-resolution images and more, contact press@beddley.com . GENERAL About Us"
+      },
+      {
+        "address": "hello@beddley.com",
+        "confidence": "high",
+        "source_url": "https://beddley.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "74 N. Hollywood, CA 91601 Call Us : 424-279-4141 Email Us : hello@beddley.com Follow Us On"
+      }
+    ],
+    "role_emails": [
+      "hello@beddley.com",
+      "press@beddley.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://beddley.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beddley.com/pages/about-the-easy-duvet-cover",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beddley.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beddley.com/pages/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Patented three-sided zipper duvet covers that make changing your comforter 10\u00d7 faster \u2014 no stuffing, shaking, or frustration. As seen on Shark Tank.",
+    "source_urls": [
+      "https://beddley.com",
+      "https://beddley.com/pages/about-the-easy-duvet-cover",
+      "https://beddley.com/pages/contact-us",
+      "https://beddley.com/pages/press"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "beddys.com",
+    "company_name": "Beddy's",
+    "website": "https://beddys.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@beddys.com",
+        "confidence": "highest",
+        "source_url": "https://beddys.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "and fastest way is email. Please send a detailed email to hello@beddys.com and we will respond to you within 24-48 business hours. If"
+      }
+    ],
+    "role_emails": [
+      "hello@beddys.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://beddys.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beddys.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2016-02-02"
+      },
+      {
+        "url": "https://beddys.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beddys.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beddys.com/pages/join-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://beddys.com/contact",
+        "action": "/contact#contact-template--21953911980122__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://beddys.com/pages/contact",
+        "action": "/contact#contact-template--21953911980122__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Beddy's zipper bedding is a one piece unit for your bed. Our fashionable bedding is quilted with high quality fabrics. We use durable zippers that zip smoothly!",
+    "source_urls": [
+      "https://beddys.com/contact",
+      "https://beddys.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bedfans-usa.com",
+    "company_name": "Bedfans-USA",
+    "website": "https://bedfans-usa.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://bedfans-usa.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bedfans-usa.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bedfans-usa.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bedfans-usa.com/pages/long-term-management-of-night-sweats",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Stop night sweats with Bedfans-USA! Our bFan bedfan bed cooling system is an under the sheet bed fan that will keep you refreshed on the hottest of nights.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bedfordcandies.com",
+    "company_name": "Bedford Candies",
+    "website": "https://bedfordcandies.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "adam@bedfordcandies.com",
+        "confidence": "high",
+        "source_url": "https://bedfordcandies.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Email Us tammy@bedfordcandies.com adam@bedfordcandies.com BLOG"
+      },
+      {
+        "address": "marketing@bedfordcandies.com",
+        "confidence": "high",
+        "source_url": "https://bedfordcandies.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Email Us marketing@bedfordcandies.com Store Locations"
+      },
+      {
+        "address": "tammy@bedfordcandies.com",
+        "confidence": "high",
+        "source_url": "https://bedfordcandies.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Email Us tammy@bedfordcandies.com adam@bedfordcandies.com"
+      }
+    ],
+    "role_emails": [
+      "adam@bedfordcandies.com",
+      "marketing@bedfordcandies.com",
+      "tammy@bedfordcandies.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bedfordcandies.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bedfordcandies.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bedfordcandies.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bedfordcandies.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Delicious gourmet popcorn, premium chocolate, and nostalgic novelty candy great for every occasion! Bedford Candies is a PA-based candy store that specializes in on-demand handcrafted popcorn flavors and gourmet chocolates. A tasty and unique gift idea, or a sweet snack for yourself! Order today!",
+    "source_urls": [
+      "https://bedfordcandies.com",
+      "https://bedfordcandies.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bedfordcheeseshop.com",
+    "company_name": "Bedford Cheese Shop",
+    "website": "https://bedfordcheeseshop.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@bedfordcheeseshop.com",
+        "confidence": "highest",
+        "source_url": "https://bedfordcheeseshop.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "X Want to join our BCS team? Please send us an email at info@bedfordcheeseshop.com . Success! Feel free to conti"
+      }
+    ],
+    "role_emails": [
+      "info@bedfordcheeseshop.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bedfordcheeseshop.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bedfordcheeseshop.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2011-11-23"
+      },
+      {
+        "url": "https://bedfordcheeseshop.com/press",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2011-09-04"
+      },
+      {
+        "url": "https://bedfordcheeseshop.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2011-12-01"
+      },
+      {
+        "url": "https://bedfordcheeseshop.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bedfordcheeseshop.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "We are an old-fashioned cheese shop dedicated to providing the finest quality cheeses from around the world. Stop in or shop online!",
+    "source_urls": [
+      "https://bedfordcheeseshop.com",
+      "https://bedfordcheeseshop.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "bedfordfields.com",
+    "company_name": "BedfordFields",
+    "website": "https://bedfordfields.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@bedfordfields.com",
+        "confidence": "highest",
+        "source_url": "https://bedfordfields.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Need help? Call us 603-472-8880 info@bedfordfields.com Follow Us Facebook Instagram"
+      },
+      {
+        "address": "nursery@bedfordfields.com",
+        "confidence": "highest",
+        "source_url": "https://bedfordfields.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2021-01-16",
+        "context_snippet": "General Email: info@bedfordfields.com Nursery Email: nursery@bedfordfields.com Store Location 331 Route 101 Bedford, NH 03110 603-472"
+      }
+    ],
+    "role_emails": [
+      "info@bedfordfields.com",
+      "nursery@bedfordfields.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bedfordfields.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bedfordfields.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2021-01-16"
+      },
+      {
+        "url": "https://bedfordfields.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bedfordfields.com/collections/the-vermont-mulch-company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bedfordfields.com/collections/the-wallaroo-hat-company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bedfordfields.com/blogs/news/low-maintenance-plants-for-busy-people-spring-edition",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bedfordfields.com/pages/contact-us?contact_posted=true#contact_form",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bedfordfields.com/pages/about-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://bedfordfields.com/pages/contact-us?contact_posted=true#contact_form",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Bedford Fields Garden Home and Garden Center; offering better choices for your Home D\u00e9cor, Gardens and Pets. Local, family run business featuring home furnishings, houseplants, pet foods, garden center, patio furniture, Weber grills, Polywood, garden d\u00e9cor and much more located in Bedford NH.",
+    "source_urls": [
+      "https://bedfordfields.com",
+      "https://bedfordfields.com/about-us",
+      "https://bedfordfields.com/pages/about-us",
+      "https://bedfordfields.com/collections/the-vermont-mulch-company",
+      "https://bedfordfields.com/collections/the-wallaroo-hat-company",
+      "https://bedfordfields.com/blogs/news/low-maintenance-plants-for-busy-people-spring-edition",
+      "https://bedfordfields.com/pages/contact-us?contact_posted=true#contact_form"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 14
+  },
+  {
+    "company_domain": "bedheadpjs.com",
+    "company_name": "Bedhead Pajamas",
+    "website": "https://bedheadpjs.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customerservice@bedheadpjs.com",
+        "confidence": "highest",
+        "source_url": "https://bedheadpjs.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Accounts CONTACT us Customer Service (844) 373-9985 customerservice@bedheadpjs.com Monday-Friday 8am\u20136pm CST Press Inquiries press@bedheadpjs."
+      },
+      {
+        "address": "newyork@bedheadpjs.com",
+        "confidence": "highest",
+        "source_url": "https://bedheadpjs.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "TORES West Village 332 Bleecker Street New York, NY 10014 newyork@bedheadpjs.com 646.974.1141 Mosaic District 2910 District Ave #155 Fairfax"
+      },
+      {
+        "address": "press@bedheadpjs.com",
+        "confidence": "highest",
+        "source_url": "https://bedheadpjs.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ce@bedheadpjs.com Monday-Friday 8am\u20136pm CST Press Inquiries press@bedheadpjs.com Wholesale Inquiries wholesale@bedheadpjs.com Retail STO"
+      },
+      {
+        "address": "wholesale@bedheadpjs.com",
+        "confidence": "highest",
+        "source_url": "https://bedheadpjs.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ST Press Inquiries press@bedheadpjs.com Wholesale Inquiries wholesale@bedheadpjs.com Retail STORES West Village 332 Bleecker Street New Yo"
+      },
+      {
+        "address": "fairfax@bedheadpjs.com",
+        "confidence": "high",
+        "source_url": "https://bedheadpjs.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "141 Mosaic District 2910 District Ave #155 Fairfax VA 22031 fairfax@bedheadpjs.com 571.354.8997 \u00a9 2026 Bedhead Pajamas . Americ"
+      }
+    ],
+    "role_emails": [
+      "customerservice@bedheadpjs.com",
+      "fairfax@bedheadpjs.com",
+      "newyork@bedheadpjs.com",
+      "press@bedheadpjs.com",
+      "wholesale@bedheadpjs.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bedheadpjs.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bedheadpjs.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2010-08-28"
+      },
+      {
+        "url": "https://bedheadpjs.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2017-06-02"
+      },
+      {
+        "url": "https://bedheadpjs.com/media",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2017-06-02"
+      },
+      {
+        "url": "https://bedheadpjs.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bedheadpjs.com/pages/about-us-new",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bedheadpjs.com/pages/press-page",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Since the creation of BedHead Pajamas, they've become the go to boutique for luxury loungewear. Free Shipping and Free Returns on US orders $150+.",
+    "source_urls": [
+      "https://bedheadpjs.com",
+      "https://bedheadpjs.com/about-us",
+      "https://bedheadpjs.com/media",
+      "https://bedheadpjs.com/pages/contact-us",
+      "https://bedheadpjs.com/pages/about-us-new",
+      "https://bedheadpjs.com/pages/press-page"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "bedinabox.com",
+    "company_name": "BedInABox",
+    "website": "https://www.bedinabox.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.bedinabox.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bedinabox.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bedinabox.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Shop BedInABox\u00ae - The Original Mattress in a Box. Premium online mattresses with free shipping, 120 night trial and easy returns. Try BedInABox\u00ae mattresses, adjustable beds, foundations & more to experience your best sleep.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bedjet.com",
+    "company_name": "BedJet",
+    "website": "https://bedjet.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@bedjet.com",
+        "confidence": "high",
+        "source_url": "https://bedjet.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "17 Connell Highway Newport, RI 02840 (401) 404-5250 info@bedjet.com How it started"
+      }
+    ],
+    "role_emails": [
+      "info@bedjet.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bedjet.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bedjet.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bedjet.com/pages/support-center",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Discover the BedJet\u00ae air based cooling, warming & sweat drying sleep system just for your bed! Shop now - free shipping - free returns.",
+    "source_urls": [
+      "https://bedjet.com/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bedplanet.com",
+    "company_name": "Bedplanet",
+    "website": "https://bedplanet.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@bedplanet.com",
+        "confidence": "highest",
+        "source_url": "https://bedplanet.com/pages/bedplanet-locations",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "nday: Closed Sales Inquiries: 702-323-5680 | Email: info@bedplanet.com OUR SERVICES"
+      }
+    ],
+    "role_emails": [
+      "info@bedplanet.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bedplanet.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bedplanet.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bedplanet.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bedplanet.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bedplanet.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bedplanet.com/pages/bedplanet-locations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bedplanet.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "From Tempur-Pedic, Sealy to Stearns & Foster, Bedplanet carries the leading brands in bedroom comfort. Browse our inventory of mattresses, furniture and massage chairs.",
+    "source_urls": [
+      "https://bedplanet.com",
+      "https://bedplanet.com/team",
+      "https://bedplanet.com/about",
+      "https://bedplanet.com/about-us",
+      "https://bedplanet.com/pages/contact-us",
+      "https://bedplanet.com/pages/bedplanet-locations",
+      "https://bedplanet.com/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "bedrockattachments.com",
+    "company_name": "Bedrock Attachments",
+    "website": "https://www.bedrockattachments.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@bedrockattachments.com",
+        "confidence": "highest",
+        "source_url": "https://www.bedrockattachments.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "-504-3588 info@bedrockattachments.com Follow Us Facebook Ins"
+      }
+    ],
+    "role_emails": [
+      "info@bedrockattachments.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.bedrockattachments.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bedrockattachments.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bedrockattachments.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bedrockattachments.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bedrockattachments.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bedrockattachments.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bedrockattachments.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bedrockattachments.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bedrockattachments.com/pages/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.bedrockattachments.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "We have long reaches for all brands and all models of excavators. Robotic Welding, top of the line steel, thorough Inspection. Roller. Excavator. Loader. Articulated Truck. Highlights: Offering Full Range Of Choices With New Products, Save Time And Money With Freight.",
+    "source_urls": [
+      "https://www.bedrockattachments.com",
+      "https://www.bedrockattachments.com/team",
+      "https://www.bedrockattachments.com/our-team",
+      "https://www.bedrockattachments.com/about",
+      "https://www.bedrockattachments.com/about-us",
+      "https://www.bedrockattachments.com/press",
+      "https://www.bedrockattachments.com/pages/contact-us",
+      "https://www.bedrockattachments.com/pages/about-us",
+      "https://www.bedrockattachments.com/pages/our-team"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "bedrocksandals.com",
+    "company_name": "Bedrock Sandals",
+    "website": "https://bedrocksandals.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "press@bedrocksandals.com",
+        "confidence": "highest",
+        "source_url": "https://bedrocksandals.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "sales@bedrocksandals.com",
+        "confidence": "highest",
+        "source_url": "https://bedrocksandals.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "support@bedrocksandals.com",
+        "confidence": "highest",
+        "source_url": "https://bedrocksandals.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "press@bedrocksandals.com",
+      "sales@bedrocksandals.com",
+      "support@bedrocksandals.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bedrocksandals.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bedrocksandals.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bedrocksandals.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bedrocksandals.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Bedrock Sandals\u00ae makes minimalist adventure sandals and clogs built for trail, river, and beyond. Free US shipping and returns.",
+    "source_urls": [
+      "https://bedrocksandals.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  }
+]
