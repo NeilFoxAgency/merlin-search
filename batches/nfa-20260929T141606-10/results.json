@@ -1,0 +1,1587 @@
+[
+  {
+    "company_domain": "boostersinc.net",
+    "company_name": "Boosters Incorporated",
+    "website": "https://boostersinc.net",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Email Customer Service",
+        "title": null,
+        "email": "customerservice@boostersinc.net",
+        "source_url": "https://boostersinc.net/about-us"
+      }
+    ],
+    "people": [
+      {
+        "name": "Email Customer Service",
+        "title": null,
+        "email": "customerservice@boostersinc.net",
+        "source_url": "https://boostersinc.net/about-us"
+      }
+    ],
+    "emails": [
+      {
+        "address": "customerservice@boostersinc.net",
+        "confidence": "highest",
+        "source_url": "https://boostersinc.net",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Call Us Today! 800.633.1906 | customerservice@boostersinc.net Call Us Today! 800.633.1906 | customerservice@booste"
+      },
+      {
+        "address": "adonna@boostersinc.net",
+        "confidence": "high",
+        "source_url": "https://boostersinc.net",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "adonna@boostersinc.net",
+      "customerservice@boostersinc.net"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://boostersinc.net",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://boostersinc.net/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2024-07-12"
+      },
+      {
+        "url": "https://boostersinc.net/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://boostersinc.net/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://boostersinc.net/pages/contact",
+        "action": "/contact#ContactForm-template--15235881238591__6eeab8e8-f35f-4684-9ee4-b0228fc8184a",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Boosters Incorporated is a 3rd\u2011generation, family\u2011owned USA manufacturer and the original creator of Booster Game Ribbons. Your leader in school spirit supplies and fundraising products since 1962, trusted by schools nationwide.",
+    "source_urls": [
+      "https://boostersinc.net",
+      "https://boostersinc.net/about-us",
+      "https://boostersinc.net/pages/about-us",
+      "https://boostersinc.net/pages/contact"
+    ],
+    "reason": null,
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bootaybag.com",
+    "company_name": "BootayBag",
+    "website": "https://bootaybag.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "bootconnection.com",
+    "company_name": "bootconnection.com \u2013 www.BootConnection.com",
+    "website": "https://www.bootconnection.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.bootconnection.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bootconnection.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bootconnection.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bootconnection.com/pages/company-voucher-program",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.bootconnection.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Safety Shoes (Steel, Composite, Alloy), Metatarsal Guards. HUGE Selection! Mobile Safety Boot Truck. Various Brands. Western Boots. Shoe and Boot Repair. Moccasins",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "bootcountryonline.com",
+    "company_name": "Boot Country",
+    "website": "https://www.bootcountryonline.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@bootcountryonline.com",
+        "confidence": "high",
+        "source_url": "https://www.bootcountryonline.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Contact Us 601-336-5494 info@bootcountryonline.com"
+      },
+      {
+        "address": "orders@bootcountryonline.com",
+        "confidence": "high",
+        "source_url": "https://www.bootcountryonline.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "directly with the shipping carrier You may contact us at orders@bootcountryonline.com for assistance If the carrier confirms the package is"
+      },
+      {
+        "address": "returns@bootcountryonline.com",
+        "confidence": "high",
+        "source_url": "https://www.bootcountryonline.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "label via email (cost deducted from refund) Or email: returns@bootcountryonline.com Important: Original shipping is non-refundable"
+      }
+    ],
+    "role_emails": [
+      "info@bootcountryonline.com",
+      "orders@bootcountryonline.com",
+      "returns@bootcountryonline.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.bootcountryonline.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bootcountryonline.com/collections/red-dirt-hat-company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bootcountryonline.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Boot Country",
+    "source_urls": [
+      "https://www.bootcountryonline.com",
+      "https://www.bootcountryonline.com/collections/red-dirt-hat-company",
+      "https://www.bootcountryonline.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "boothbymail.com",
+    "company_name": "boothbymail.com",
+    "website": "https://boothbymail.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://boothbymail.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "NATIONWIDE FREE SHIPPING - ALL DAY RENTAL $299! The Easiest DIY Photo Booth Rental Available Nationwide. Capture great, candid moments at your wedding, birthday, or special event and save hundreds with our DIY Photo Booth rental. Digital and Printer Booths available. It's Easy to Set up and Fun!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "boothcreekwagyu.com",
+    "company_name": "Booth Creek Wagyu",
+    "website": "https://boothcreekwagyu.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@boothcreekwagyu.com",
+        "confidence": "highest",
+        "source_url": "https://boothcreekwagyu.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "rmation Gift Cards Get in Touch info@boothcreekwagyu.com 785-775-1144 Retail Locations Follow the Herd"
+      },
+      {
+        "address": "brice.hendryx@boothcreekwagyu.com",
+        "confidence": "high",
+        "source_url": "https://boothcreekwagyu.com/pages/retail-locations",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "785.775.1144 brice.hendryx@boothcreekwagyu.com OVERLAND PARK, K"
+      },
+      {
+        "address": "corrie.lloyd@boothcreekwagyu.com",
+        "confidence": "high",
+        "source_url": "https://boothcreekwagyu.com/pages/retail-locations",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "1-817-415-2578 corrie.lloyd@boothcreekwagyu.com Welcome to"
+      },
+      {
+        "address": "jeanne.hanson@boothcreekwagyu.com",
+        "confidence": "high",
+        "source_url": "https://boothcreekwagyu.com/pages/retail-locations",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "316.425.8862 jeanne.hanson@boothcreekwagyu.com SOUTHLAKE, TX"
+      },
+      {
+        "address": "mike.french@boothcreekwagyu.com",
+        "confidence": "high",
+        "source_url": "https://boothcreekwagyu.com/pages/retail-locations",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "913.295.8811 mike.french@boothcreekwagyu.com MANHATTAN, KS"
+      }
+    ],
+    "role_emails": [
+      "brice.hendryx@boothcreekwagyu.com",
+      "corrie.lloyd@boothcreekwagyu.com",
+      "info@boothcreekwagyu.com",
+      "jeanne.hanson@boothcreekwagyu.com",
+      "mike.french@boothcreekwagyu.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://boothcreekwagyu.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://boothcreekwagyu.com/pages/about-booth-creek",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://boothcreekwagyu.com/pages/about_wagyu",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://boothcreekwagyu.com/pages/retail-locations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Premium American Wagyu Beef from Kansas. Fullblood marbling on par with Japanese A5. Steaks, roasts, ground beef, ribs, brisket, gift boxes, jerky, tallow, and more available to ship. Wholesale and bulk beef also available. Vertically-integrated operation includes ranch, feed lot, processing, and re",
+    "source_urls": [
+      "https://boothcreekwagyu.com",
+      "https://boothcreekwagyu.com/pages/about-booth-creek",
+      "https://boothcreekwagyu.com/pages/about_wagyu",
+      "https://boothcreekwagyu.com/pages/retail-locations"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "bootheel7ranch.com",
+    "company_name": "Bootheel 7 Ranch",
+    "website": "https://www.bootheel7ranch.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@bootheel7ranch.com",
+        "confidence": "highest",
+        "source_url": "https://www.bootheel7ranch.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "and small business! Questions? Feel free to contact us at hello@bootheel7ranch.com or 720-556-3405. Photo credit courtesy of @savannasimmonsph"
+      }
+    ],
+    "role_emails": [
+      "hello@bootheel7ranch.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.bootheel7ranch.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bootheel7ranch.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.bootheel7ranch.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Pastured, dry-aged and flavorful local beef & steaks, humanely-raised and hand-delivered directly to your home along the Front Range of Colorado. Shipping services available across the U.S. From our family to yours.",
+    "source_urls": [
+      "https://www.bootheel7ranch.com",
+      "https://www.bootheel7ranch.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "boothmed.com",
+    "company_name": "Booth Medical Equipment",
+    "website": "https://boothmed.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@boothmed.com",
+        "confidence": "highest",
+        "source_url": "https://boothmed.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ", AR 72002 SALES & SUPPORT (501) 847-2332 EMAIL info@boothmed.com HOURS Monday \u2013 Friday 8:00am \u2013 5:00pm CST Reques"
+      }
+    ],
+    "role_emails": [
+      "info@boothmed.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://boothmed.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://boothmed.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://boothmed.com/blogs/news/autoclave-pressure-vessel-safety-why-maintenance-matters",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://boothmed.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://boothmed.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Shop new and refurbished medical equipment, autoclaves, sterilizers, and repair parts. 30+ years experience. Free shipping on select items. Call 501-847-2332.",
+    "source_urls": [
+      "https://boothmed.com",
+      "https://boothmed.com/pages/contact",
+      "https://boothmed.com/blogs/news/autoclave-pressure-vessel-safety-why-maintenance-matters",
+      "https://boothmed.com/pages/about"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "bootjack.com",
+    "company_name": "The Boot Jack",
+    "website": "https://bootjack.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "(844) 674-5399 customerservice@bootjack.com",
+        "title": null,
+        "email": "customerservice@bootjack.com",
+        "source_url": "https://bootjack.com/pages/contact-us"
+      }
+    ],
+    "people": [
+      {
+        "name": "(844) 674-5399 customerservice@bootjack.com",
+        "title": null,
+        "email": "customerservice@bootjack.com",
+        "source_url": "https://bootjack.com/pages/contact-us"
+      }
+    ],
+    "emails": [
+      {
+        "address": "customerservice@bootjack.com",
+        "confidence": "highest",
+        "source_url": "https://bootjack.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "s of Service apply. Contact Details (844) 674-5399 customerservice@bootjack.com Follow us Facebook Instagram"
+      },
+      {
+        "address": "email@bootjack.com",
+        "confidence": "high",
+        "source_url": "https://bootjack.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "u003ecareers@bootjack.com",
+        "confidence": "high",
+        "source_url": "https://bootjack.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "email@bootjack.com",
+      "u003ecareers@bootjack.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bootjack.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bootjack.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bootjack.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bootjack.com/pages/contact-us",
+        "action": "/contact#ContactForm-template--22344117027039__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Explore top-quality Western wear and cowboy boots at The Boot Jack. Find your perfect pair and gear up for the frontier with our exclusive Texas-sourced collections.",
+    "source_urls": [
+      "https://bootjack.com",
+      "https://bootjack.com/pages/about-us",
+      "https://bootjack.com/pages/contact-us"
+    ],
+    "reason": null,
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bootnshoe.com",
+    "company_name": "Boyers BootnShoe",
+    "website": "https://bootnshoe.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@bootnshoe.com",
+        "confidence": "high",
+        "source_url": "https://bootnshoe.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@bootnshoe.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bootnshoe.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bootnshoe.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bootnshoe.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bootnshoe.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Boyer's BootNShoe in Quincy IL is a fifth generation business since 1920, specializing in repairing and selling high-quality work boots, cowboy boots, and safety toe footwear. Visit our Shopify store today to browse our extensive collection and find the perfect pair of boots to fit your needs.",
+    "source_urls": [
+      "https://bootnshoe.com",
+      "https://bootnshoe.com/pages/contact",
+      "https://bootnshoe.com/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "boots-etc.com",
+    "company_name": "Boots Etc",
+    "website": "https://boots-etc.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "marketing@boots-etc.com",
+        "confidence": "high",
+        "source_url": "https://boots-etc.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "support@boots-etc.com",
+        "confidence": "high",
+        "source_url": "https://boots-etc.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ety Store NEED HELP? (706) 335-2668 support@boots-etc.com >>Start a Return<< Instagram icon"
+      }
+    ],
+    "role_emails": [
+      "marketing@boots-etc.com",
+      "support@boots-etc.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://boots-etc.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://boots-etc.com/products/ariat-mens-logo-new-team-mexico-black-softshell-jacket",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://boots-etc.com/products/ariat-womens-classic-team-softshell-brand-black-gold-jacket",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://boots-etc.com/products/ariat-mens-new-team-softshell-mexico-jacket-1",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://boots-etc.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "A complete western boot and clothing outfitter. Get the best boots at the best prices. Cowgirl boots, cowboy boots, apparel, work boots, FR apparel and hats from the top brands.",
+    "source_urls": [
+      "https://boots-etc.com",
+      "https://boots-etc.com/products/ariat-mens-logo-new-team-mexico-black-softshell-jacket",
+      "https://boots-etc.com/products/ariat-womens-classic-team-softshell-brand-black-gold-jacket",
+      "https://boots-etc.com/products/ariat-mens-new-team-softshell-mexico-jacket-1",
+      "https://boots-etc.com/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "bootsandmore.net",
+    "company_name": "Boots & More Online",
+    "website": "https://www.bootsandmore.net",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "sales@bootsandmore.net",
+        "confidence": "highest",
+        "source_url": "https://www.bootsandmore.net",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Need help? Call us 1-601-506-2866 Sales@bootsandmore.net Follow Us Facebook Instagram"
+      }
+    ],
+    "role_emails": [
+      "sales@bootsandmore.net"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.bootsandmore.net",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bootsandmore.net/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bootsandmore.net/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bootsandmore.net/collections/ms-cattle-company-apparel",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bootsandmore.net/products/ariat-new-team-softshell-mexico-jacket",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bootsandmore.net/products/mississippi-cattle-company-sport-grey-hoodie-with-license-plate-logo-graphic",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bootsandmore.net/pages/social-media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Best Brands/Best Prices: Anderson Bean, Dan Post, Rocky, Thorogood, Georgia, Old West, Ariat, Laredo, Timberland, Twisted X, Justin, and much more. Need boots give us a shot WE KNOW BOOTS",
+    "source_urls": [
+      "https://www.bootsandmore.net",
+      "https://www.bootsandmore.net/pages/about-us",
+      "https://www.bootsandmore.net/pages/contact-us",
+      "https://www.bootsandmore.net/collections/ms-cattle-company-apparel",
+      "https://www.bootsandmore.net/products/ariat-new-team-softshell-mexico-jacket",
+      "https://www.bootsandmore.net/products/mississippi-cattle-company-sport-grey-hoodie-with-license-plate-logo-graphic",
+      "https://www.bootsandmore.net/pages/social-media"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 15
+  },
+  {
+    "company_domain": "bootsnakes.com",
+    "company_name": "Bootsnakes",
+    "website": "https://bootsnakes.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "contact@bootsnakes.com",
+        "confidence": "high",
+        "source_url": "https://bootsnakes.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "contact@bootsnakes.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bootsnakes.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bootsnakes.com/pages/about-bootsnakeabout",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bootsnakes.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bootsnakes.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Bootsnake Bootstraps are the high quality solution to bulky boot lines. Simply wrap, strap, and go.",
+    "source_urls": [
+      "https://bootsnakes.com",
+      "https://bootsnakes.com/pages/about-bootsnakeabout",
+      "https://bootsnakes.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bootsolution.com",
+    "company_name": "Bootsolution",
+    "website": "https://www.bootsolution.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@bootsolution.com",
+        "confidence": "high",
+        "source_url": "https://www.bootsolution.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@bootsolution.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.bootsolution.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bootsolution.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bootsolution.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Brands you Trust at Prices you Love. Our Work Boots, Military-Tactical Boots and Western Boots are from Quality Brands that you know and trust.",
+    "source_urls": [
+      "https://www.bootsolution.com",
+      "https://www.bootsolution.com/pages/about-us",
+      "https://www.bootsolution.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bootstrapfarmer.com",
+    "company_name": "Bootstrap Farmer",
+    "website": "https://www.bootstrapfarmer.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "contact@bootstrapfarmer.com",
+        "confidence": "highest",
+        "source_url": "https://www.bootstrapfarmer.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "contact@bootstrapfarmer.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.bootstrapfarmer.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bootstrapfarmer.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bootstrapfarmer.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bootstrapfarmer.com/pages/about-us-page",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bootstrapfarmer.com/pages/international-retail-locations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bootstrapfarmer.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bootstrapfarmer.com/collections/grow-media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bootstrapfarmer.com/collections/plant-supports-and-accessories",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.bootstrapfarmer.com/contact",
+        "action": "/contact#form-contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.bootstrapfarmer.com/pages/contact-us",
+        "action": "/contact#form-contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Bootstrap Farmer provides professional-grade greenhouse supplies, seed starting trays, and high-tunnel kits built to last. Shop our heavy-duty equipment designed by growers, for growers. Free shipping on qualifying orders.",
+    "source_urls": [
+      "https://www.bootstrapfarmer.com",
+      "https://www.bootstrapfarmer.com/contact",
+      "https://www.bootstrapfarmer.com/pages/contact-us",
+      "https://www.bootstrapfarmer.com/pages/about-us-page",
+      "https://www.bootstrapfarmer.com/pages/international-retail-locations",
+      "https://www.bootstrapfarmer.com/policies/contact-information",
+      "https://www.bootstrapfarmer.com/collections/grow-media",
+      "https://www.bootstrapfarmer.com/collections/plant-supports-and-accessories"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 15
+  },
+  {
+    "company_domain": "bootsycollins.com",
+    "company_name": "Bootsy Collins",
+    "website": "https://bootsycollins.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "sh@bootsycollins.com",
+        "confidence": "high",
+        "source_url": "https://bootsycollins.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "sh@bootsycollins.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bootsycollins.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bootsycollins.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2017-12-11"
+      },
+      {
+        "url": "https://bootsycollins.com/pages/about-bootsy-collins",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bootsycollins.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bootsycollins.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bootsycollins.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Bootsy Collins William Earl Collins) is a Legendary American funk bassist, singer, and producer, famous for his distinctive style (like star-shaped glasses), pioneering grooves with James Brown and Parliament-Funkadelic, and leading his own group, Bootsy's Rubber Band, creating iconic hits and influ",
+    "source_urls": [
+      "https://bootsycollins.com",
+      "https://bootsycollins.com/pages/about-bootsy-collins",
+      "https://bootsycollins.com/pages/contact",
+      "https://bootsycollins.com/policies/contact-information"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "bootworld.com",
+    "company_name": "Boot World",
+    "website": "https://bootworld.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@bootworld.com",
+        "confidence": "highest",
+        "source_url": "https://bootworld.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "service@bootworld.com",
+        "confidence": "high",
+        "source_url": "https://bootworld.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Trade St. Ste. 101 San Diego, Ca 92121 (888) 502-4600 x 108 service@bootworld.com <div class=\"dynamic-checkout__content\" id=\"dynam"
+      }
+    ],
+    "role_emails": [
+      "service@bootworld.com",
+      "support@bootworld.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bootworld.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bootworld.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bootworld.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bootworld.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bootworld.com/contact",
+        "action": "/contact#148521025857",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Boot World is the leader in safety toe, slip resistant, & sheepskin boots & shoes. Featuring UGG, Dr Martens, Timberland PRO, Wolverine, Skechers & more. Visit our stores: Boot World Convoy & Midway San Diego, Boot World El Cajon, Boot World Chula Vista, Boot World San Marcos, Boot World Oceanside &",
+    "source_urls": [
+      "https://bootworld.com",
+      "https://bootworld.com/about-us",
+      "https://bootworld.com/contact",
+      "https://bootworld.com/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "bootybybrabants.com",
+    "company_name": "Booty By Brabants",
+    "website": "https://www.bootybybrabants.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@bootybybrabants.com",
+        "confidence": "highest",
+        "source_url": "https://www.bootybybrabants.com/pages/store-locations",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "PM Sat: 9 AM - 1 PM Sun: CLOSED Customer Service Support: info@bootybybrabants.com Phone: (508) 230-2222 Directions Storefront logo Stay Conn"
+      },
+      {
+        "address": "jobs@bootybybrabants.com",
+        "confidence": "high",
+        "source_url": "https://www.bootybybrabants.com/pages/store-locations",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "u003einfo@bootybybrabants.com",
+        "confidence": "high",
+        "source_url": "https://www.bootybybrabants.com/pages/store-locations",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "u003ejobs@bootybybrabants.com",
+        "confidence": "high",
+        "source_url": "https://www.bootybybrabants.com/pages/store-locations",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@bootybybrabants.com",
+      "jobs@bootybybrabants.com",
+      "u003einfo@bootybybrabants.com",
+      "u003ejobs@bootybybrabants.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.bootybybrabants.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bootybybrabants.com/pages/store-locations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bootybybrabants.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bootybybrabants.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Homepage | Booty By Brabants",
+    "source_urls": [
+      "https://www.bootybybrabants.com/pages/store-locations",
+      "https://www.bootybybrabants.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "bootybybret.com",
+    "company_name": "Booty By Bret",
+    "website": "https://bootybybret.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://bootybybret.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bootybybret.com/pages/about-bret-contreras",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bootybybret.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Booty by Bret is an affordable, flexible, and highly effective full body online strength training program for women created by the world's foremost expert in glute training, Bret Contreras, PhD, CSCS, and personal trainer for 18 years.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bootycocktails.com",
+    "company_name": "BootyCocktails",
+    "website": "https://www.bootycocktails.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@bootycocktails.com",
+        "confidence": "high",
+        "source_url": "https://www.bootycocktails.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "hello@bootycocktails.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.bootycocktails.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "premium domain for sale: bootycocktails.com",
+    "source_urls": [
+      "https://www.bootycocktails.com"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "bootyliciousmuffins.com",
+    "company_name": "Bootylicious Muffins",
+    "website": "https://bootyliciousmuffins.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@bootyliciousmuffins.com",
+        "confidence": "highest",
+        "source_url": "https://bootyliciousmuffins.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "support@bootyliciousmuffins.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bootyliciousmuffins.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bootyliciousmuffins.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "High protein muffin mix you make in the microwave in 60 seconds. 25g protein per cup, 12 flavors, ships from Texas. Love your first box or your money back.",
+    "source_urls": [
+      "https://bootyliciousmuffins.com",
+      "https://bootyliciousmuffins.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "bootysprout.com",
+    "company_name": "BootySprout",
+    "website": "https://www.bootysprout.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@bootysprout.com",
+        "confidence": "high",
+        "source_url": "https://www.bootysprout.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Have questions or need assistance? Email: support@bootysprout.com Mailing Address (For letters only) Bootysprout Ventu"
+      }
+    ],
+    "role_emails": [
+      "support@bootysprout.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.bootysprout.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bootysprout.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bootysprout.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.bootysprout.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "High resistance at-home glute training. 45-135+ lbs. Simply open, strap in, and thrust!",
+    "source_urls": [
+      "https://www.bootysprout.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "booyahstrollers.com",
+    "company_name": "Booyah Strollers",
+    "website": "https://booyahstrollers.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "email us",
+        "title": null,
+        "email": "service@booyahstrollers.com",
+        "source_url": "https://booyahstrollers.com/pages/contact-us"
+      }
+    ],
+    "people": [
+      {
+        "name": "email us",
+        "title": null,
+        "email": "service@booyahstrollers.com",
+        "source_url": "https://booyahstrollers.com/pages/contact-us"
+      }
+    ],
+    "emails": [
+      {
+        "address": "service@booyahstrollers.com",
+        "confidence": "highest",
+        "source_url": "https://booyahstrollers.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "m folder. Please add our email as one of your contacts. service@booyahstrollers.com Click Here for Assembly Instructions Click"
+      }
+    ],
+    "role_emails": [
+      "service@booyahstrollers.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://booyahstrollers.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://booyahstrollers.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2017-03-04"
+      },
+      {
+        "url": "https://booyahstrollers.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2017-03-04"
+      },
+      {
+        "url": "https://booyahstrollers.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://booyahstrollers.com/contact",
+        "action": "/contact/#wpcf7-f73-p74-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Booyah Strollers provides affordable bike trailer strollers for kids and pets. All in one Dog strollers, bike trailers and joggers for all size dogs ranging from small to extra large. Our stroller comes with suspension/shocks and in a range of bright colors.",
+    "source_urls": [
+      "https://booyahstrollers.com/contact",
+      "https://booyahstrollers.com/pages/contact-us"
+    ],
+    "reason": null,
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "booza1941.com",
+    "company_name": "Booza1941",
+    "website": "https://booza1941.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@booza1941.com",
+        "confidence": "high",
+        "source_url": "https://booza1941.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "e Suite A Houston, TX 77057 Phone: (832) 831-3176 Email: info@booza1941.com Business Hours Monday: 12:00PM - 9:30PM Tuesday:"
+      }
+    ],
+    "role_emails": [
+      "info@booza1941.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://booza1941.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://booza1941.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://booza1941.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://booza1941.com/pages/location",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://booza1941.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://booza1941.com/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://booza1941.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "We offer premium, handmade, super-stretchy Mediterranean ice cream delivered perfectly frozen right to your doorstep. Family Recipe since 1941. Order Now!",
+    "source_urls": [
+      "https://booza1941.com/contact",
+      "https://booza1941.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "boozedogs.com",
+    "company_name": "boozedogs",
+    "website": "https://boozedogs.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "robots_disallowed",
+    "pages_fetched": 1
+  }
+]
