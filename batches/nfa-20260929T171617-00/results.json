@@ -1,0 +1,1414 @@
+[
+  {
+    "company_domain": "bornxraised.com",
+    "company_name": "Born X Raised",
+    "website": "https://bornxraised.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://bornxraised.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "The official store for BORNXRAISED. Since 2013.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "boroux.com",
+    "company_name": "BOROUX",
+    "website": "https://boroux.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "contact@boroux.com",
+        "confidence": "highest",
+        "source_url": "https://boroux.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "mccall@boroux.com",
+        "confidence": "highest",
+        "source_url": "https://boroux.com/pages/press-media",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "on. For media inquiries, Contact mccall@boroux.com BOROUX Partner Resources Featured"
+      },
+      {
+        "address": "support@boroux.com",
+        "confidence": "high",
+        "source_url": "https://boroux.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "contact@boroux.com",
+      "mccall@boroux.com",
+      "support@boroux.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://boroux.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://boroux.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://boroux.com/pages/press-media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "WQA-certified to NSF Standards. Gravity water filters and direct replacements for Black Berkey Elements. 25 years of clean-water expertise. Free shipping $60+.",
+    "source_urls": [
+      "https://boroux.com",
+      "https://boroux.com/pages/contact",
+      "https://boroux.com/pages/press-media"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "borowskirace.com",
+    "company_name": "Borowski Race Engines",
+    "website": "https://borowskirace.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://borowskirace.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://borowskirace.com/pages/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://borowskirace.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://borowskirace.com/pages/about-borowski-engines",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://borowskirace.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "High performance engines & parts for street, race & marine; advanced CNC machining, LS & BBC engine specialists, nitrous, turbos, superchargers",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "borsalinoforatica.com",
+    "company_name": "Borsalino for Atica",
+    "website": "https://borsalinoforatica.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://borsalinoforatica.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://borsalinoforatica.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://borsalinoforatica.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://borsalinoforatica.com/pages/contact-us",
+        "action": "/contact#contact-template--14685562372156__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Buy durable and stylish Borsalino men's fedora hats online from Boraslino for Atica. Our fedora hats are made with exceptional craftsmanship. Buy one today!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bosch-home.com",
+    "company_name": "Bosch",
+    "website": "https://www.bosch-home.com/us",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.bosch-home.com/us",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bosch-home.com/us/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bosch-home.com/us/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bosch-home.com/us/products/espresso-machines",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bosch-home.com/us/experience-bosch/about-bosch",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bosch-home.com/us/owner-support/delivery-services",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bosch-home.com/us/owner-support/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bosch-home.com/us/owner-support/how-to-videos",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bosch-home.com/us/owner-support/owner-manuals",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bosch-home.com/us/owner-support/store-faqs",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Bosch appliances offer high quality dishwashers, refrigerators, ranges, ovens and more. Get precision performance and unlock your kitchen confidence.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 16
+  },
+  {
+    "company_domain": "boscoyostudio.com",
+    "company_name": "Boscoyo Studio",
+    "website": "https://boscoyostudio.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "sales@boscoyostudio.com",
+        "confidence": "highest",
+        "source_url": "https://boscoyostudio.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "sales@boscoyostudio.com (225) 330"
+      }
+    ],
+    "role_emails": [
+      "sales@boscoyostudio.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://boscoyostudio.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://boscoyostudio.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://boscoyostudio.com/collections/support-a-cause",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://boscoyostudio.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Unleash the magic of Coro props, Pixel props, and animated holiday lighting for Christmas and Halloween. Create unforgettable displays with xLights, Kulp Lights, Light-O-Rama, and Falcon systems. Transform your home with our holiday decor and props.",
+    "source_urls": [
+      "https://boscoyostudio.com",
+      "https://boscoyostudio.com/about-us",
+      "https://boscoyostudio.com/collections/support-a-cause",
+      "https://boscoyostudio.com/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bose.com",
+    "company_name": "Bose",
+    "website": "https://bose.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "applicant_disability_accommodationrequest@bose.com",
+        "confidence": "high",
+        "source_url": "https://bose.com/about/careers",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "employee selection process, please direct your inquiries to applicant_disability_accommodationrequest@bose.com. Please include \"Application Accommodation Reques"
+      },
+      {
+        "address": "joanne_berthiaume@bose.com",
+        "confidence": "high",
+        "source_url": "https://bose.com/pressroom",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ress Room ALL PRESS INQUIRIES: Email Joanne Berthiaume at Joanne_Berthiaume@bose.com."
+      }
+    ],
+    "role_emails": [
+      "applicant_disability_accommodationrequest@bose.com",
+      "joanne_berthiaume@bose.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bose.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bose.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bose.com/support/bm-safety-service",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bose.com/about/careers",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bose.com/pressroom",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Experience the latest in sound innovation. Shop Bose headphones, speakers, soundbars, and more, supported by premium customer service. Sound is Power.",
+    "source_urls": [
+      "https://bose.com/about/careers",
+      "https://bose.com/pressroom"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 15
+  },
+  {
+    "company_domain": "bosley.com",
+    "company_name": "Bosley Online Store",
+    "website": "https://shop.bosley.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://shop.bosley.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Bosley Hair Transplant & Restoration for Men & Women",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "bosleymd.com",
+    "company_name": "BosleyMD",
+    "website": "https://bosleymd.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customerservice@bosleymd.com",
+        "confidence": "highest",
+        "source_url": "https://bosleymd.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Home Catalog My account My wishlist customerservice@bosleymd.com Professionals No products in th"
+      }
+    ],
+    "role_emails": [
+      "customerservice@bosleymd.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bosleymd.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "BosleyMD The Thinning Hair Authority\u2122 and the world's most recognized and trusted name in hair restoration, introduces their 360\u00ba hair care system with products custom formulated for both men and women.",
+    "source_urls": [
+      "https://bosleymd.com"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "bosmereusa.com",
+    "company_name": "bosmereusa.com",
+    "website": "https://bosmereusa.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customer_service@bosmereusa.com",
+        "confidence": "highest",
+        "source_url": "https://bosmereusa.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ther questions you may have. 704-431-4746 or email us at customer_service@bosmereusa.com We are here Monday - Friday, 8:30am until 5pm. Closed all"
+      }
+    ],
+    "role_emails": [
+      "customer_service@bosmereusa.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bosmereusa.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bosmereusa.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bosmereusa.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bosmereusa.com/collections/plant-supports",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bosmereusa.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "A store for garden supplies by gardeners for gardeners!",
+    "source_urls": [
+      "https://bosmereusa.com",
+      "https://bosmereusa.com/pages/contact",
+      "https://bosmereusa.com/pages/about-us",
+      "https://bosmereusa.com/collections/plant-supports"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "bosphorusleather.com",
+    "company_name": "Bosphorus Leather",
+    "website": "https://www.bosphorusleather.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@bosphorusleather.com",
+        "confidence": "high",
+        "source_url": "https://www.bosphorusleather.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@bosphorusleather.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.bosphorusleather.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bosphorusleather.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bosphorusleather.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bosphorusleather.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.bosphorusleather.com/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.bosphorusleather.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Discover Bosphorus Leather \u2013 A house of timeless design and artisan craftsmanship. Explore our handmade leather watch cases, watch rolls, and trunks made in Turkey.",
+    "source_urls": [
+      "https://www.bosphorusleather.com",
+      "https://www.bosphorusleather.com/about",
+      "https://www.bosphorusleather.com/contact",
+      "https://www.bosphorusleather.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "boss-industrial.com",
+    "company_name": "Boss Log Splitters",
+    "website": "https://boss-industrial.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "sales@boss-industrial.com",
+        "confidence": "high",
+        "source_url": "https://boss-industrial.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "service@boss-industrial.com",
+        "confidence": "high",
+        "source_url": "https://boss-industrial.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "rive. Ste A, Bolingbrook, IL 60440 \ud83d\udcde 800-780-2677 \u2709\ufe0f service@boss-industrial.com Language English Language"
+      }
+    ],
+    "role_emails": [
+      "sales@boss-industrial.com",
+      "service@boss-industrial.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://boss-industrial.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://boss-industrial.com/pages/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://boss-industrial.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Boss Industrial primarily specializes in professional-grade log splitters that can be also used for residential purposes. With uncompromising safety features, Boss log splitters are tested by renowned entities, to pass the requirements of European standard.",
+    "source_urls": [
+      "https://boss-industrial.com",
+      "https://boss-industrial.com/pages/support",
+      "https://boss-industrial.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bossahearing.com",
+    "company_name": "Bossa Hearing",
+    "website": "https://bossahearing.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": "Mencari permainan casino online yang mampu membawa kesenangan dan keamanan? langsung login GALAXY77 agen web live casino jelas buat narek upah tambahan dan memanjakan anda.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "bossaudio.com",
+    "company_name": "BOSS Audio Systems",
+    "website": "https://bossaudio.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://bossaudio.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bossaudio.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2015-03-15"
+      },
+      {
+        "url": "https://bossaudio.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bossaudio.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bossaudio.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2015-03-29"
+      },
+      {
+        "url": "https://bossaudio.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "To build a world of experiences that thrill the senses. Delivering aftermarket audio-visual technology, where quality and value are not contradictions, that feeds our own ambition to innovate and our customers' desire to personalize our products and configurations to fit their lifestyles.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "bossenstore.com",
+    "company_name": "BossenStore.com",
+    "website": "https://www.bossenstore.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "service@bossenstore.com",
+        "confidence": "highest",
+        "source_url": "https://www.bossenstore.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ected Phone: 1-888-349-8288 (Eastern Time) Email: service@bossenstore.com Sign up for our Bossen emails with special savings, pro"
+      }
+    ],
+    "role_emails": [
+      "service@bossenstore.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.bossenstore.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bossenstore.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bossenstore.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bossenstore.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bossenstore.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.bossenstore.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.bossenstore.com/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.bossenstore.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "http://www.bossenstore.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Your one-stop wholesale supplier for Popping Bursting Bobas, bubble tea syrups, powder mixes, and dessert toppings like jellies, mini mochi, and canned fruits. We also offer essential store supplies, including cups, straws, kitchen tools, and equipment for restaurants, caf\u00e9s, and more.",
+    "source_urls": [
+      "https://www.bossenstore.com",
+      "https://www.bossenstore.com/press",
+      "https://www.bossenstore.com/contact",
+      "https://www.bossenstore.com/pages/about-us",
+      "https://www.bossenstore.com/pages/contact-us",
+      "http://www.bossenstore.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "bossfightbooks.com",
+    "company_name": "Boss Fight Books",
+    "website": "https://bossfightbooks.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Gabe Durham",
+        "title": null,
+        "email": "%20gabe@bossfightbooks.com",
+        "source_url": "https://bossfightbooks.com/pages/about"
+      },
+      {
+        "name": "Michael P. Williams",
+        "title": null,
+        "email": "%20mike@bossfightbooks.com",
+        "source_url": "https://bossfightbooks.com/pages/about"
+      }
+    ],
+    "people": [
+      {
+        "name": "Gabe Durham",
+        "title": null,
+        "email": "%20gabe@bossfightbooks.com",
+        "source_url": "https://bossfightbooks.com/pages/about"
+      },
+      {
+        "name": "Michael P. Williams",
+        "title": null,
+        "email": "%20mike@bossfightbooks.com",
+        "source_url": "https://bossfightbooks.com/pages/about"
+      }
+    ],
+    "emails": [
+      {
+        "address": "%20customerservice@bossfightbooks.com",
+        "confidence": "highest",
+        "source_url": "https://bossfightbooks.com/pages/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "%20gabe@bossfightbooks.com",
+        "confidence": "highest",
+        "source_url": "https://bossfightbooks.com/pages/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "%20info@bossfightbooks.com",
+        "confidence": "highest",
+        "source_url": "https://bossfightbooks.com/pages/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "%20mike@bossfightbooks.com",
+        "confidence": "highest",
+        "source_url": "https://bossfightbooks.com/pages/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "customerservice@bossfightbooks.com",
+        "confidence": "high",
+        "source_url": "https://bossfightbooks.com/pages/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ightbooks.com . For ebook-related customer issues, email customerservice@bossfightbooks.com . For print/mail-related customer issues, email order"
+      },
+      {
+        "address": "info@bossfightbooks.com",
+        "confidence": "high",
+        "source_url": "https://bossfightbooks.com/pages/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "und Contact For general inquiries, email info@bossfightbooks.com . For ebook-related customer issues, email customerservi"
+      }
+    ],
+    "role_emails": [
+      "%20customerservice@bossfightbooks.com",
+      "%20info@bossfightbooks.com",
+      "customerservice@bossfightbooks.com",
+      "info@bossfightbooks.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bossfightbooks.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bossfightbooks.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bossfightbooks.com/pages/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Chrono Trigger, Mega Man, Metal Gear Solid, Spelunky, Baldur's Gate, Warcraft, SotC, EarthBound, NBA Jam, Katamari, Star Wars KotOR, Kingdom Hearts, Final Fantasy, Shovel Knight, Resident Evil, Silent Hill, Red Dead Redemption, Retrogaming, GoldenEye, TLoZ, SMB3, PS1, Xbox, PaRappa, Minesweeper, Dot",
+    "source_urls": [
+      "https://bossfightbooks.com/pages/about"
+    ],
+    "reason": null,
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bossfightshop.com",
+    "company_name": "Boss Fight Studio - The Store",
+    "website": "https://www.bossfightshop.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.bossfightshop.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bossfightshop.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bossfightshop.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.bossfightshop.com/pages/contact-us",
+        "action": "/contact#ContactForm-template--17282319122502__contact-form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "A webstore to purchase all of the Boss Fight Studio products.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bossfightstudio.com",
+    "company_name": "Boss Fight Studio",
+    "website": "https://bossfightstudio.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "help@bossfightstudio.com",
+        "confidence": "highest",
+        "source_url": "https://bossfightstudio.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "mer support? We're here to help. Send us an email at help@bossfightstudio.com . Customer Service Contact us wi"
+      },
+      {
+        "address": "u003ehelp@bossfightstudio.com",
+        "confidence": "high",
+        "source_url": "https://bossfightstudio.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "help@bossfightstudio.com",
+      "u003ehelp@bossfightstudio.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bossfightstudio.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bossfightstudio.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2025-01-19"
+      },
+      {
+        "url": "https://bossfightstudio.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bossfightstudio.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bossfightstudio.com/pages/contact-us",
+        "action": "/contact#ContactForm-template--17282319122502__contact-form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "A webstore to purchase all of the Boss Fight Studio products.",
+    "source_urls": [
+      "https://bossfightstudio.com",
+      "https://bossfightstudio.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bosshammerco.com",
+    "company_name": "Boss Hammer Co.",
+    "website": "https://www.bosshammerco.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@bosshammerco.com",
+        "confidence": "highest",
+        "source_url": "https://www.bosshammerco.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "SALE info@bosshammerco.com facebook instagram"
+      }
+    ],
+    "role_emails": [
+      "info@bosshammerco.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.bosshammerco.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bosshammerco.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bosshammerco.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.bosshammerco.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Home of the All New Boss Hybrid Hammer, the First Hammer Squaring System",
+    "source_urls": [
+      "https://www.bosshammerco.com",
+      "https://www.bosshammerco.com/pages/contact-us",
+      "https://www.bosshammerco.com/pages/about"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bosshorn.com",
+    "company_name": "BossHorn",
+    "website": "https://bosshorn.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@bosshorn.com",
+        "confidence": "highest",
+        "source_url": "https://bosshorn.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Scott Ste 210, Valencia, CA 91355 833-702-6776 info@bosshorn.com Shop Train Horns by Use Case Air Horn Gifts for"
+      },
+      {
+        "address": "no-reply@bosshorn.com",
+        "confidence": "high",
+        "source_url": "https://bosshorn.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@bosshorn.com",
+      "no-reply@bosshorn.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bosshorn.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bosshorn.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bosshorn.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bosshorn.com/products/bosshorn-air-compressor",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bosshorn.com/pages/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Unleash the blasting impact with Boss Horn Portable Train Horns. Order top models like Dewalt Train Horn, Milwaukee Train Horn, Ryobi Train Horn. Built with powerful air compressor and metal trumpets. No air tank, no delay, no hassle. Be the loudest and proudest!",
+    "source_urls": [
+      "https://bosshorn.com",
+      "https://bosshorn.com/pages/contact",
+      "https://bosshorn.com/pages/about-us",
+      "https://bosshorn.com/products/bosshorn-air-compressor"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "bosshoss.com",
+    "company_name": "Boss Hoss Store",
+    "website": "https://store.bosshoss.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://store.bosshoss.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://store.bosshoss.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://store.bosshoss.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://store.bosshoss.com/pages/contact",
+        "action": "/contact#contact-template--17001955721305__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Boss Hoss Store",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bosslaser.com",
+    "company_name": "BossLaser",
+    "website": "https://shop.bosslaser.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://shop.bosslaser.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Shop Boss Laser & our products.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "bossman.com",
+    "company_name": "Bossman Brands",
+    "website": "https://bossman.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://bossman.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bossman.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bossman.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bossman.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Power up with the world's most Innovative men's grooming products. Hair, Skin, Bead Care Products, Kits, and Accessories. Look, Feel, Smell & be the best, Boss! All natural Ingredients.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bossmonsta.com",
+    "company_name": "BossMonsta",
+    "website": "https://bossmonsta.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@bossmonsta.com",
+        "confidence": "highest",
+        "source_url": "https://bossmonsta.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "o Partner with Us? We\u2019re Here to Help! Contact Us: Email: Support@BossMonsta.com Submission Form: Use the form below to send us a message."
+      }
+    ],
+    "role_emails": [
+      "support@bossmonsta.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bossmonsta.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bossmonsta.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bossmonsta.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bossmonsta.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Hear that final boss music? Yeah we do.",
+    "source_urls": [
+      "https://bossmonsta.com",
+      "https://bossmonsta.com/pages/contact-us",
+      "https://bossmonsta.com/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bossupcosmetic.com",
+    "company_name": "Boss Up Cosmetics",
+    "website": "https://www.bossupcosmetic.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.bossupcosmetic.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Boss Up Cosmetics",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  }
+]
