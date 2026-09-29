@@ -1,0 +1,1541 @@
+[
+  {
+    "company_domain": "benevolencela.com",
+    "company_name": "Benevolence LA",
+    "website": "https://benevolencela.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hi@benevolencela.com",
+        "confidence": "highest",
+        "source_url": "https://benevolencela.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ons or concerns, please email our customer service team at hi@benevolencela.com . We strive to respond to all inquiries within 24-48 hours."
+      },
+      {
+        "address": "judson@benevolencela.com",
+        "confidence": "highest",
+        "source_url": "https://benevolencela.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2016-10-30",
+        "context_snippet": "rd Floor Los Angeles, CA 90012 Contact details Email: judson@benevolencela.com"
+      }
+    ],
+    "role_emails": [
+      "hi@benevolencela.com",
+      "judson@benevolencela.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://benevolencela.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://benevolencela.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2017-02-28"
+      },
+      {
+        "url": "https://benevolencela.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2016-10-30"
+      },
+      {
+        "url": "https://benevolencela.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://benevolencela.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://benevolencela.com/pages/benevolencela-in-the-press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://benevolencela.com/contact",
+        "action": "/contact/#wpcf7-f4-p6796-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://benevolencela.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Shop dainty jewelry, handwoven Mexican blankets, richly scented soy candles, and find perfect gifts that give back. Home goods & fashion jewelry help support our charity partners. We are Benevolence LA, a social commerce brand that creates charitable lifestyle products and accessories to inspire gen",
+    "source_urls": [
+      "https://benevolencela.com/contact",
+      "https://benevolencela.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "bengal.com",
+    "company_name": "Bengal Products Inc.",
+    "website": "https://www.bengal.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "media@bengal.com",
+        "confidence": "highest",
+        "source_url": "https://www.bengal.com/media",
+        "source_type": "archived",
+        "snapshot_date": "2024-08-09",
+        "context_snippet": "Email us media@bengal.com"
+      },
+      {
+        "address": "support@bengal.com",
+        "confidence": "high",
+        "source_url": "https://www.bengal.com/policies/contact-information",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "e name: Bengal Products Phone number: 2257531313 Email: support@bengal.com Physical address: Bengal Products, Inc., 13739 Airline Hi"
+      }
+    ],
+    "role_emails": [
+      "media@bengal.com",
+      "support@bengal.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.bengal.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bengal.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2024-09-17"
+      },
+      {
+        "url": "https://www.bengal.com/media",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2024-08-09"
+      },
+      {
+        "url": "https://www.bengal.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2024-07-21"
+      },
+      {
+        "url": "https://www.bengal.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bengal.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bengal.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Bengal Products",
+    "source_urls": [
+      "https://www.bengal.com/media",
+      "https://www.bengal.com/policies/contact-information"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "bengalsandbandits.com",
+    "company_name": "Bengals & Bandits",
+    "website": "https://www.bengalsandbandits.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@bengalsandbandits.com",
+        "confidence": "highest",
+        "source_url": "https://www.bengalsandbandits.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "hello@bengalsandbandits.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.bengalsandbandits.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bengalsandbandits.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bengalsandbandits.com/pages/our-locations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bengalsandbandits.com/collections/headwear/products/lsu-tigers-no-rivals-primary-espresso-2-tone-adjustable-hat-natural-espresso",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "A unique selection of licensed & hard to find apparel.",
+    "source_urls": [
+      "https://www.bengalsandbandits.com",
+      "https://www.bengalsandbandits.com/pages/about-us",
+      "https://www.bengalsandbandits.com/pages/our-locations",
+      "https://www.bengalsandbandits.com/collections/headwear/products/lsu-tigers-no-rivals-primary-espresso-2-tone-adjustable-hat-natural-espresso"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "bengarelick.com",
+    "company_name": "Ben Garelick",
+    "website": "https://www.bengarelick.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@bengarelick.com",
+        "confidence": "highest",
+        "source_url": "https://www.bengarelick.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Call (716) 631-1584 \u00b7 Text (888) 841-5391 \u00b7 Email hello@bengarelick.com 5001 Transit Road, Buffalo, NY 14221 \u00b7 Tue\u2013Fri 10\u20136, Sat"
+      }
+    ],
+    "role_emails": [
+      "hello@bengarelick.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.bengarelick.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bengarelick.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bengarelick.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bengarelick.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.bengarelick.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://bengarelick.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Ben Garelick is a jewelry retailer with over 70 years of heritage, offering designer engagement rings, wedding bands & fine jewelry with a personalized service.",
+    "source_urls": [
+      "https://www.bengarelick.com/pages/contact",
+      "https://bengarelick.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "benharper.com",
+    "company_name": "Ben Harper Shop",
+    "website": "https://shop.benharper.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://shop.benharper.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.benharper.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://shop.benharper.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Welcome to the official source for Ben Harper merchandise since 2001! Get the exclusive \"Wide Open Light\" autographed vinyl pre-order, men's apparel, women's apparel, music, posters, stickers & accessories and more. We ship in-stock items internationally normally within 24 hours.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "benhowardmusic.co.uk",
+    "company_name": "Ben Howard",
+    "website": "https://shop.benhowardmusic.co.uk",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://shop.benhowardmusic.co.uk",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Shop exclusive music from the Ben Howard Official Store. CDs, vinyl, and more.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "benirugs.com",
+    "company_name": "Beni Rugs",
+    "website": "https://www.benirugs.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "bonjour@benirugs.com",
+        "confidence": "highest",
+        "source_url": "https://www.benirugs.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ou can use the contact form below, or email us directly at bonjour@benirugs.com . Full Name * Email * Phone Message * Submit Inquiry Visit"
+      }
+    ],
+    "role_emails": [
+      "bonjour@benirugs.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.benirugs.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.benirugs.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.benirugs.com/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Handwoven Moroccan rugs that blend heritage craft with modern design and exclusive collaborations. Beni Rugs are woven to order in Morocco from the highest quality, 100% natural wool and are customizable by size and color. Free global shipping, fair trade certification, and rugs made to last a lifet",
+    "source_urls": [
+      "https://www.benirugs.com/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "benisouk.com",
+    "company_name": "Benisouk",
+    "website": "https://benisouk.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "contact@benisouk.com",
+        "confidence": "highest",
+        "source_url": "https://benisouk.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "isouk . \u2d31\u2d4f\u2d49\u2d59\u2d53\u2d3d Reach us +1 (424) 413 6842 contact@benisouk.com Mon to Sat, 9am to 6pm PT Shop All rugs"
+      }
+    ],
+    "role_emails": [
+      "contact@benisouk.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://benisouk.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://benisouk.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2023-01-30"
+      },
+      {
+        "url": "https://benisouk.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://benisouk.com/pages/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Hand-knotted Moroccan rugs, made to order in your size and colors. Home decor made by hand in our own ateliers. Material, hand, time.",
+    "source_urls": [
+      "https://benisouk.com",
+      "https://benisouk.com/about-us",
+      "https://benisouk.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "benjaminknox.com",
+    "company_name": "Benjamin Knox Gallery",
+    "website": "https://benjaminknox.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@benjaminknox.com",
+        "confidence": "highest",
+        "source_url": "https://benjaminknox.com/pages/contact",
+        "source_type": "archived",
+        "snapshot_date": "2026-02-05",
+        "context_snippet": ""
+      },
+      {
+        "address": "events@benjaminknox.com",
+        "confidence": "high",
+        "source_url": "https://benjaminknox.com/pages/contact",
+        "source_type": "archived",
+        "snapshot_date": "2026-02-05",
+        "context_snippet": "nox.com Wine Bar Manager & Event Facilitator - Jose Luna events@benjaminknox.com Contact Us Use the form below to send us a message."
+      },
+      {
+        "address": "michael@benjaminknox.com",
+        "confidence": "high",
+        "source_url": "https://benjaminknox.com/pages/contact",
+        "source_type": "archived",
+        "snapshot_date": "2026-02-05",
+        "context_snippet": "9-696-5669 Gallery Manager - Michael Martinez michael@benjaminknox.com Executive Assistant & Event Coordinator - Tracy Cerro"
+      },
+      {
+        "address": "tracy@benjaminknox.com",
+        "confidence": "high",
+        "source_url": "https://benjaminknox.com/pages/contact",
+        "source_type": "archived",
+        "snapshot_date": "2026-02-05",
+        "context_snippet": "Executive Assistant & Event Coordinator - Tracy Cerro tracy@benjaminknox.com Wine Bar Manager & Event Facilitator - Jose Luna events@"
+      }
+    ],
+    "role_emails": [
+      "events@benjaminknox.com",
+      "info@benjaminknox.com",
+      "michael@benjaminknox.com",
+      "tracy@benjaminknox.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://benjaminknox.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://benjaminknox.com/pages/about-benjamin-knox",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://benjaminknox.com/pages/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://benjaminknox.com/pages/copy-of-media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://benjaminknox.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2026-02-05"
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://benjaminknox.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Benjamin Knox creates beautiful oil paintings and collegiate art, stop by and browse or look online. Benjamin is known as the Texas Aggie Artist for his years creating art for the University. We are #1 for diploma framing and offer many framing options. We have a variety of art gifts available today",
+    "source_urls": [
+      "https://benjaminknox.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "benjaminrugsandfurniture.com",
+    "company_name": "Benjamin Rugs & Furniture",
+    "website": "https://www.benjaminrugsandfurniture.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "challenge_page",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "benjamintalks.com",
+    "company_name": "Benjamin Talks",
+    "website": "https://www.benjamintalks.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@benjamintalks.com",
+        "confidence": "highest",
+        "source_url": "https://www.benjamintalks.com",
+        "source_type": "archived",
+        "snapshot_date": "2025-03-29",
+        "context_snippet": "time. info@benjamintalks.com Privacy"
+      },
+      {
+        "address": "teambt@benjamintalks.com",
+        "confidence": "highest",
+        "source_url": "https://www.benjamintalks.com/our-team",
+        "source_type": "archived",
+        "snapshot_date": "2024-07-23",
+        "context_snippet": "Get in touch with the team: TeamBT@benjamintalks.com Follow us for kid-friendly money tips with some parent-frie"
+      }
+    ],
+    "role_emails": [
+      "info@benjamintalks.com",
+      "teambt@benjamintalks.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.benjamintalks.com",
+        "page_type": "home",
+        "source_type": "archived",
+        "snapshot_date": "2025-03-29"
+      },
+      {
+        "url": "https://www.benjamintalks.com/our-team",
+        "page_type": "team",
+        "source_type": "archived",
+        "snapshot_date": "2024-07-23"
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "We're on a mission dedicated to financial literacy for kids. Benjamin Talks \r\nprovides guides and resources for parents and educators to teach children \r\nabout money and finance...and a piggy bank that serves as a tool in the \r\nprocess.",
+    "source_urls": [
+      "https://www.benjamintalks.com",
+      "https://www.benjamintalks.com/our-team"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 15
+  },
+  {
+    "company_domain": "benjerry.com",
+    "company_name": "Ben & Jerry\u2019s",
+    "website": "https://www.benjerry.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "bethany.harrington@benjerry.com",
+        "confidence": "highest",
+        "source_url": "https://www.benjerry.com/about-us/factory-tours",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "sarah.fornaby@benjerry.com",
+        "confidence": "highest",
+        "source_url": "https://www.benjerry.com/about-us/factory-tours",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "bethany.harrington@benjerry.com",
+      "sarah.fornaby@benjerry.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.benjerry.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.benjerry.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.benjerry.com/values/issues-we-care-about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.benjerry.com/about-us/how-were-structured",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.benjerry.com/about-us/factory-tours",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.benjerry.com/about-us/how-we-make-ice-cream",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.benjerry.com/about-us/flavor-gurus",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.benjerry.com/about-us/b-corp",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.benjerry.com/about-us/where-we-do-business",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.benjerry.com/about-us/jobs",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Official site for Ben & Jerry's super premium ice cream, frozen yogurt, sorbet, and non-dairy. Peace, Love, & Ice Cream.",
+    "source_urls": [
+      "https://www.benjerry.com/about-us/factory-tours"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 17
+  },
+  {
+    "company_domain": "bennettfinejewelry.com",
+    "company_name": "Bennett Fine Jewelry",
+    "website": "https://bennettfinejewelry.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://bennettfinejewelry.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bennettfinejewelry.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bennettfinejewelry.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bennettfinejewelry.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bennettfinejewelry.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bennettfinejewelry.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Original equestrian jewelry handcrafted in gold by Lesley Rand Bennett. Horse rings, horseshoe rings, horseshoe jewelry, horse pendants, horse earrings, one of a kind horse bracelets, as well as her horseshoe wedding rings are coveted around the globe. Renowned for creating equestrian jewelry of unp",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "benoaswim.com",
+    "company_name": "Benoa Swim",
+    "website": "https://www.benoaswim.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.benoaswim.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.benoaswim.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2017-09-10"
+      },
+      {
+        "url": "https://www.benoaswim.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "At Benoa Swim OUR MISSION is to create a line of swimwear FOR, OF AND TO: WOMEN WHO INSPIRE US. The movers and the shakers. The women who are confident in who they are, the decisions, words, flaws and perfections they carry. Women who know what they want - a suit that meets their needs.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "benoitsdesign.co",
+    "company_name": "Benoit's Design Co.",
+    "website": "https://benoitsdesign.co",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@benoitsdesign.co",
+        "confidence": "highest",
+        "source_url": "https://benoitsdesign.co/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2022-01-25",
+        "context_snippet": "asy and fun. If you need a quote please reach out to us at hello@benoitsdesign.co . Visit our and pages for our latest news."
+      }
+    ],
+    "role_emails": [
+      "hello@benoitsdesign.co"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://benoitsdesign.co",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://benoitsdesign.co/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2019-11-18"
+      },
+      {
+        "url": "https://benoitsdesign.co/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2022-01-25"
+      },
+      {
+        "url": "https://benoitsdesign.co/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2019-11-18"
+      },
+      {
+        "url": "https://benoitsdesign.co/pages/wholesale-contact-form",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://benoitsdesign.co/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://benoitsdesign.co/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://benoitsdesign.co/contact",
+        "action": "/contact/#wpcf7-f3206-p22-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://benoitsdesign.co/contact",
+        "action": "https://www.benoitsdesign.co/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://benoitsdesign.co/pages/contact",
+        "action": "/contact#contact-template--19310450049203__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Small, family owned shop of makers located in Maine, USA. Specializing in engraved wood maps, felt banners, home decor, gifts and accessories.",
+    "source_urls": [
+      "https://benoitsdesign.co",
+      "https://benoitsdesign.co/about",
+      "https://benoitsdesign.co/about-us",
+      "https://benoitsdesign.co/contact",
+      "https://benoitsdesign.co/pages/wholesale-contact-form",
+      "https://benoitsdesign.co/pages/about",
+      "https://benoitsdesign.co/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "benq.com",
+    "company_name": "BenQ",
+    "website": "https://www.benq.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "benqsupport.us@benq.com",
+        "confidence": "highest",
+        "source_url": "https://www.benq.com/en-us/support/shopping-faq.html#Shipping",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "onvenience. Please contact our customer support line at BenQsupport.Us@benq.com for any additional questions. Can I"
+      },
+      {
+        "address": "orderdesk.us@benq.com",
+        "confidence": "highest",
+        "source_url": "https://www.benq.com/en-us/support/shopping-faq.html#Shipping",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ur order, please email your tax exemption documentation to OrderDesk.US@BenQ.com . We will help to review and approve your document if it me"
+      },
+      {
+        "address": "gv31recall@benq.com",
+        "confidence": "high",
+        "source_url": "https://www.benq.com/en-us/support/gv31recall.html",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "rom 8:30 am to 5:30 pm CT Monday through Friday or email at GV31Recall@BenQ.com Q: What will I have to do to successfully register?"
+      }
+    ],
+    "role_emails": [
+      "benqsupport.us@benq.com",
+      "gv31recall@benq.com",
+      "orderdesk.us@benq.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.benq.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.benq.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2013-08-29"
+      },
+      {
+        "url": "https://www.benq.com/press",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2013-10-16"
+      },
+      {
+        "url": "https://www.benq.com/media",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2003-02-05"
+      },
+      {
+        "url": "https://www.benq.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2013-12-05"
+      },
+      {
+        "url": "https://www.benq.com/en-us/support.html",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.benq.com/en-us/support/gv31recall.html",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.benq.com/en-us/policy/cookie-policy/about-cookies.html",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.benq.com/en-us/support/shopping-faq.html#Shipping",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.benq.com/en-us/support/contact-us.html",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Explore BenQ\u2019s world-renowned monitors, projectors, lighting, interactive displays & signage designed to bring enjoyment and quality to life!",
+    "source_urls": [
+      "https://www.benq.com/en-us/support/gv31recall.html",
+      "https://www.benq.com/en-us/support/shopping-faq.html#Shipping"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 14
+  },
+  {
+    "company_domain": "benrectormusic.com",
+    "company_name": "store.benrectormusic.com",
+    "website": "https://store.benrectormusic.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://store.benrectormusic.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://store.benrectormusic.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://store.benrectormusic.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Shop all Ben Rector Official Merchandise now!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "benrus.com",
+    "company_name": "Benrus",
+    "website": "https://www.benrus.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "pr@benrus.com",
+        "confidence": "highest",
+        "source_url": "https://www.benrus.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2017-02-27",
+        "context_snippet": "ss and partnership opportunities please email Tess Povar: pr@benrus.com In The News Press Releases"
+      },
+      {
+        "address": "info@benrus.com",
+        "confidence": "high",
+        "source_url": "https://www.benrus.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2014-07-27",
+        "context_snippet": "n email and we will help you locate a store near you! info@benrus.com 29-76 Northern Blvd. Long Island City, NY 11101 (718) 3"
+      }
+    ],
+    "role_emails": [
+      "info@benrus.com",
+      "pr@benrus.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.benrus.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.benrus.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2014-07-27"
+      },
+      {
+        "url": "https://www.benrus.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2017-02-27"
+      },
+      {
+        "url": "https://www.benrus.com/press",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2017-02-27"
+      },
+      {
+        "url": "https://www.benrus.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2014-07-27"
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [
+      "https://www.benrus.com/press",
+      "https://www.benrus.com/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "bens-appliances.com",
+    "company_name": "Ben's Appliances and Junk",
+    "website": "https://bens-appliances.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "questions@bens-appliances.com",
+        "confidence": "highest",
+        "source_url": "https://bens-appliances.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Need help? Text Us 740-500-7032 Questions@Bens-Appliances.com Follow Us YouTube Back Sea"
+      },
+      {
+        "address": "shipping@bens-appliances.com",
+        "confidence": "high",
+        "source_url": "https://bens-appliances.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ur Tel# for Questions and Inquiries: 740-500-7032 Email- Shipping@Bens-appliances.com for Order cancelations or address changes Available: 10:3"
+      }
+    ],
+    "role_emails": [
+      "questions@bens-appliances.com",
+      "shipping@bens-appliances.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bens-appliances.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bens-appliances.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bens-appliances.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "The home of Bens' affordable and innovative appliance repair parts and service online! The official store of Ben's Appliances & Junk on Youtube and Social Media platforms.",
+    "source_urls": [
+      "https://bens-appliances.com",
+      "https://bens-appliances.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "bens30.com",
+    "company_name": "Ben's",
+    "website": "https://bens30.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "bensautodecor.com",
+    "company_name": "Ben's Auto Decor",
+    "website": "https://www.bensautodecor.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Ben Harvey",
+        "title": "Founder",
+        "email": "ben@bensautodecor.com",
+        "source_url": "https://www.bensautodecor.com/pages/about-us"
+      }
+    ],
+    "people": [
+      {
+        "name": "Ben Harvey",
+        "title": "Founder",
+        "email": "ben@bensautodecor.com",
+        "source_url": "https://www.bensautodecor.com/pages/about-us"
+      }
+    ],
+    "emails": [
+      {
+        "address": "ben@bensautodecor.com",
+        "confidence": "high",
+        "source_url": "https://www.bensautodecor.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "ben@bensautodecor.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.bensautodecor.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bensautodecor.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2021-09-23"
+      },
+      {
+        "url": "https://www.bensautodecor.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2021-10-19"
+      },
+      {
+        "url": "https://www.bensautodecor.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bensautodecor.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bensautodecor.com/blogs/b-a-d-blog/the-most-beautifully-engineered-espresso-machine-in-the-world",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.bensautodecor.com",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.bensautodecor.com/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.bensautodecor.com/pages/about-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.bensautodecor.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.bensautodecor.com/blogs/b-a-d-blog/the-most-beautifully-engineered-espresso-machine-in-the-world",
+        "action": "/blogs/b-a-d-blog/the-most-beautifully-engineered-espresso-machine-in-the-world/comments#comment_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Transform your space with unique custom automotive furniture and art from Ben's Auto Decor. Discover stylish car decorations & wall art for your home!",
+    "source_urls": [
+      "https://www.bensautodecor.com",
+      "https://www.bensautodecor.com/pages/about-us",
+      "https://www.bensautodecor.com/pages/contact",
+      "https://www.bensautodecor.com/blogs/b-a-d-blog/the-most-beautifully-engineered-espresso-machine-in-the-world"
+    ],
+    "reason": null,
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "benscycles-denver.com",
+    "company_name": "Ben's Cycles Denver",
+    "website": "https://benscycles-denver.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://benscycles-denver.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://benscycles-denver.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Vintage Bikes",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "bensdryice.com",
+    "company_name": "Ben's Dry Ice",
+    "website": "https://bensdryice.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "bensherman.com",
+    "company_name": "Ben Sherman",
+    "website": "https://www.bensherman.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "challenge_page",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "benshot.com",
+    "company_name": "BenShot",
+    "website": "https://benshot.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "whiskeyhelps@benshot.com",
+        "confidence": "highest",
+        "source_url": "https://benshot.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "| 8:00 AM to 4:00 PM (CDT) Phone: (920) 249-4898 Email: whiskeyhelps@benshot.com Stop in for a tour of our glass workshop! G"
+      }
+    ],
+    "role_emails": [
+      "whiskeyhelps@benshot.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://benshot.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://benshot.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://benshot.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://benshot.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://benshot.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://benshot.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://benshot.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://benshot.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "BenShot is a father and son team making \"bulletproof\" glasses with real bullets embedded in the side. Each glass is designed and handmade in our glass workshop in Wisconsin. Made in the USA.",
+    "source_urls": [
+      "https://benshot.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  }
+]
