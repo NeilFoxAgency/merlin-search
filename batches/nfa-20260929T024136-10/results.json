@@ -1,0 +1,1242 @@
+[
+  {
+    "company_domain": "bettertanswim.com",
+    "company_name": "BetterTan",
+    "website": "https://bettertanswim.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@bettertanswim.com",
+        "confidence": "high",
+        "source_url": "https://bettertanswim.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "dditional questions fill out the form below, or reach us at hello@bettertanswim.com Name"
+      }
+    ],
+    "role_emails": [
+      "hello@bettertanswim.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bettertanswim.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bettertanswim.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bettertanswim.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bettertanswim.com/pages/contact-us",
+        "action": "/contact#ContactForm-template--32200540848470__contact-form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Shop BetterTan's tan-through swimwear. Our MicroTan\u00ae fabric eliminates tan lines, dries 7x faster & flatters every body. Free tracked shipping on orders over $150",
+    "source_urls": [
+      "https://bettertanswim.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "betterthanbouillon.com",
+    "company_name": "Better Than Bouillon",
+    "website": "https://shop.betterthanbouillon.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://shop.betterthanbouillon.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.betterthanbouillon.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.betterthanbouillon.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://shop.betterthanbouillon.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Better Than Bouillon",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "betterwayhealth.com",
+    "company_name": "Better Way Health",
+    "website": "https://www.betterwayhealth.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "affiliates@betterwayhealth.com",
+        "confidence": "highest",
+        "source_url": "https://www.betterwayhealth.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "e B, Kennesaw, GA 30152 Affiliate information affiliates@betterwayhealth.com International Number +001-678-560-1808"
+      },
+      {
+        "address": "support@betterwayhealth.com",
+        "confidence": "highest",
+        "source_url": "https://www.betterwayhealth.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "us toll free in U.S. 800-746-7640 Email us support@betterwayhealth.com Text us 678.560.1808 Returns 20"
+      }
+    ],
+    "role_emails": [
+      "affiliates@betterwayhealth.com",
+      "support@betterwayhealth.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.betterwayhealth.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.betterwayhealth.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.betterwayhealth.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.betterwayhealth.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.betterwayhealth.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.betterwayhealth.com/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.betterwayhealth.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "BWH-85\u00ae Beta Glucan: guaranteed minimum 85% beta-glucan content for maximum immune support. 10,000+ verified reviews. 60-day guarantee. Since 1999.",
+    "source_urls": [
+      "https://www.betterwayhealth.com",
+      "https://www.betterwayhealth.com/about",
+      "https://www.betterwayhealth.com/contact",
+      "https://www.betterwayhealth.com/pages/contact-us",
+      "https://www.betterwayhealth.com/pages/about"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "betterwaypaper.com",
+    "company_name": "Betterway",
+    "website": "https://betterwaypaper.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "dns_failure",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "betterwild.com",
+    "company_name": "BetterWild",
+    "website": "https://betterwild.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@betterwild.com",
+        "confidence": "highest",
+        "source_url": "https://betterwild.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "? You can track your order by emailing us at info@betterwild.com . What is your return policy? At Be"
+      }
+    ],
+    "role_emails": [
+      "info@betterwild.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://betterwild.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://betterwild.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2024-09-15"
+      },
+      {
+        "url": "https://betterwild.com/products/joint-support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://betterwild.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "BetterWild",
+    "source_urls": [
+      "https://betterwild.com",
+      "https://betterwild.com/products/joint-support",
+      "https://betterwild.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "betterworldbooks.com",
+    "company_name": "Better World Books",
+    "website": "https://www.betterworldbooks.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "http_403",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "betterworldfragrancehouse.co",
+    "company_name": "BWFH",
+    "website": "https://www.betterworldfragrancehouse.co",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "betteryou.com",
+    "company_name": "BetterYou USA",
+    "website": "https://us.betteryou.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://us.betteryou.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://us.betteryou.com/pages/contact-us-1",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://us.betteryou.com/pages/contact-us-1",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "We are an innovative natural health company specialising in the supplementation of the growing number of key nutrients lost through modern diet & lifestyle.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "betteryourhealth.com",
+    "company_name": "Better Your Health",
+    "website": "https://www.betteryourhealth.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customercare@betteryourhealth.com",
+        "confidence": "high",
+        "source_url": "https://www.betteryourhealth.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "r website or other electronic platforms, please email us at customercare@betteryourhealth.com and we will work to correct the problem or provide the info"
+      }
+    ],
+    "role_emails": [
+      "customercare@betteryourhealth.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.betteryourhealth.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.betteryourhealth.com",
+        "action": "/contact#sections--16036536746053__footer",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Better Your Health",
+    "source_urls": [
+      "https://www.betteryourhealth.com"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "bettinardi.com",
+    "company_name": "Studio B",
+    "website": "https://bettinardi.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "bettybakery.com",
+    "company_name": "Betty Bakery",
+    "website": "https://bettybakery.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "sales@bettybakery.com",
+        "confidence": "highest",
+        "source_url": "https://bettybakery.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "M Sunday: 10AM - 5PM Phone Number (718) 246-2402 Email sales@bettybakery.com Centered Map"
+      }
+    ],
+    "role_emails": [
+      "sales@bettybakery.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bettybakery.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bettybakery.com/press",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2019-10-27"
+      },
+      {
+        "url": "https://bettybakery.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2022-07-07"
+      },
+      {
+        "url": "https://bettybakery.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "A touch of retro & modern, a tribute to all that is mid-century mien & deliciousness; baked goods like treats that came out of our grandma\u2019s kitchen, updated.",
+    "source_urls": [
+      "https://bettybakery.com",
+      "https://bettybakery.com/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "bettybeauty.com",
+    "company_name": "Betty Beauty - Color for the Hair Down There",
+    "website": "https://www.bettybeauty.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.bettybeauty.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bettybeauty.com/press",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2019-06-03"
+      },
+      {
+        "url": "https://www.bettybeauty.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bettybeauty.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Color for the Hair Down There! Call 1.800-929-5984 or click to buy our award winning products, specially formulated color dyes for color matching, covering greys, or just for fun!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bettybooze.com",
+    "company_name": "Betty Booze",
+    "website": "https://bettybooze.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://bettybooze.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bettybooze.com/blogs/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Blake Lively founded Betty Booze with a simple idea \u2013 that what we drink should be held to the same tasteful standards as the foods we eat. We pair the freshest fruits, spices, herbs and more with real spirits and just the right amount of bubbles to create unmatched, unmistakably delicious drinks.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "bettybuzz.com",
+    "company_name": "Betty Buzz",
+    "website": "https://bettybuzz.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://bettybuzz.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bettybuzz.com/blogs/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Blake Lively founded Betty Booze with a simple idea \u2013 that what we drink should be held to the same tasteful standards as the foods we eat. We pair the freshest fruits, spices, herbs and more with real spirits and just the right amount of bubbles to create unmatched, unmistakably delicious drinks.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "bettydain.com",
+    "company_name": "Betty Dain Creations",
+    "website": "https://bettydain.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customerservice@bettydain.com",
+        "confidence": "high",
+        "source_url": "https://bettydain.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "customerservice@bettydain.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bettydain.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bettydain.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Betty Dain designs & manufactures stylish salon apparel & hair color accessories that cater to the functionality and fashion preferences for today\u2019s beauty professional",
+    "source_urls": [
+      "https://bettydain.com"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "bettydesigns.com",
+    "company_name": "Betty Designs",
+    "website": "https://www.bettydesigns.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "brandexperience@bettydesigns.com",
+        "confidence": "highest",
+        "source_url": "https://www.bettydesigns.com/products/nice-2026-tri-bra-medium-support",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Need a size consultation? Email customer service at brandexperience@bettydesigns.com and send us your height, weight, bra + denim size so we ca"
+      },
+      {
+        "address": "u003ebrandexperience@bettydesigns.com",
+        "confidence": "high",
+        "source_url": "https://www.bettydesigns.com/products/nice-2026-tri-bra-medium-support",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "brandexperience@bettydesigns.com",
+      "u003ebrandexperience@bettydesigns.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.bettydesigns.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bettydesigns.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bettydesigns.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bettydesigns.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bettydesigns.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2012-10-24"
+      },
+      {
+        "url": "https://www.bettydesigns.com/collections/team-issue",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bettydesigns.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bettydesigns.com/products/nice-2026-tri-bra-medium-support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bettydesigns.com/pages/contact-betty",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.bettydesigns.com/contact",
+        "action": "/contact/#wpcf7-f415-p10-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Since 2010, Betty Designs makes badass girls feel beautiful. Bold endurance apparel marrying fashion + surf + street culture founded by Kristin Mayer of California. Shop cycling, running, swiming, yoga, sportswear + fitness apparel. Sign up for email and SMS to get the latest drops.",
+    "source_urls": [
+      "https://www.bettydesigns.com",
+      "https://www.bettydesigns.com/team",
+      "https://www.bettydesigns.com/about",
+      "https://www.bettydesigns.com/press",
+      "https://www.bettydesigns.com/collections/team-issue",
+      "https://www.bettydesigns.com/pages/about-us",
+      "https://www.bettydesigns.com/products/nice-2026-tri-bra-medium-support",
+      "https://www.bettydesigns.com/pages/contact-betty"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "bettyjanecandies.com",
+    "company_name": "Betty Jane Candies",
+    "website": "https://www.bettyjanecandies.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.bettyjanecandies.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bettyjanecandies.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2013-08-19"
+      },
+      {
+        "url": "https://www.bettyjanecandies.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2013-08-19"
+      },
+      {
+        "url": "https://www.bettyjanecandies.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bettyjanecandies.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.bettyjanecandies.com/pages/contact-us",
+        "action": "/contact#contact-us-page",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "\"One of the best chocolate shops in America\" - Taste of Home Magazine",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bettylousinc.com",
+    "company_name": "Betty Lou's",
+    "website": "https://bettylousinc.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "challenge_page",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "bettylukens.com",
+    "company_name": "Betty Lukens",
+    "website": "https://www.bettylukens.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.bettylukens.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bettylukens.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bettylukens.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.bettylukens.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Betty Lukens manufactures Bible felt stories including Through the Bible in Felt, educational flannel board and flannel graph stories, and more!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bettyspromosplus.com",
+    "company_name": "Betty's Promos Plus, LLC",
+    "website": "https://bettyspromosplus.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@bettyspromosplus.com",
+        "confidence": "highest",
+        "source_url": "https://bettyspromosplus.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "turday 12pm-4pm 3550 S Orange Ave Orlando, FL 32806 Email: support@bettyspromosplus.com Phone: 321-234-1212 Subscribe"
+      }
+    ],
+    "role_emails": [
+      "support@bettyspromosplus.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bettyspromosplus.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bettyspromosplus.com/pages/about-betty-s-promos-plus",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Welcome to Betty's Promos Plus, Divine 9 Greek Paraphernalia, HBCU Collegiate Apparel, & Masonic Regalia. Discover a large selection of high-quality, stylish apparel, accessories, crossing gifts, and more for all D9 organizations. Betty's is the #1 black owned Greek Store in Orlando and ships nation",
+    "source_urls": [
+      "https://bettyspromosplus.com",
+      "https://bettyspromosplus.com/pages/about-betty-s-promos-plus"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "betweenthelinesaz.com",
+    "company_name": "Between The Lines",
+    "website": "https://www.betweenthelinesaz.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@betweenthelinesaz.com",
+        "confidence": "highest",
+        "source_url": "https://www.betweenthelinesaz.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "eed help? Call us at 480-656-9959 info@betweenthelinesaz.com Follow Us Facebook Instagram"
+      },
+      {
+        "address": "scott@betweenthelinesaz.com",
+        "confidence": "high",
+        "source_url": "https://www.betweenthelinesaz.com/pages/team-sales-inquiry-form",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "rship looks like. Or call us directly: (480) 656-9959 | scott@betweenthelinesaz.com About Us Since"
+      },
+      {
+        "address": "service@betweenthelinesaz.com",
+        "confidence": "high",
+        "source_url": "https://www.betweenthelinesaz.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@betweenthelinesaz.com",
+      "scott@betweenthelinesaz.com",
+      "service@betweenthelinesaz.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.betweenthelinesaz.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.betweenthelinesaz.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.betweenthelinesaz.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.betweenthelinesaz.com/collections/baseball-catchers-kits-intermediate-copy",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.betweenthelinesaz.com/products/adidas-adizero-impact-3-0-art-tpu-cleats-racing-team-green",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.betweenthelinesaz.com/products/old-hickory-steel-pressed-mh23-money-mike-custom-wood-baseball-bat",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.betweenthelinesaz.com/products/old-hickory-steel-pressed-ra13-custom-black-gold-chrome",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.betweenthelinesaz.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.betweenthelinesaz.com/pages/team-sales-inquiry-form",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.betweenthelinesaz.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Locally owned baseball and softball shop in Phoenix, AZ. Your clubhouse away from home stop in for gear, gloves, bats, and more.",
+    "source_urls": [
+      "https://www.betweenthelinesaz.com",
+      "https://www.betweenthelinesaz.com/about",
+      "https://www.betweenthelinesaz.com/about-us",
+      "https://www.betweenthelinesaz.com/collections/baseball-catchers-kits-intermediate-copy",
+      "https://www.betweenthelinesaz.com/products/adidas-adizero-impact-3-0-art-tpu-cleats-racing-team-green",
+      "https://www.betweenthelinesaz.com/products/old-hickory-steel-pressed-mh23-money-mike-custom-wood-baseball-bat",
+      "https://www.betweenthelinesaz.com/products/old-hickory-steel-pressed-ra13-custom-black-gold-chrome",
+      "https://www.betweenthelinesaz.com/pages/contact",
+      "https://www.betweenthelinesaz.com/pages/team-sales-inquiry-form"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 15
+  },
+  {
+    "company_domain": "beultimate.com",
+    "company_name": "BE Ultimate Apparel",
+    "website": "https://beultimate.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@beultimate.com",
+        "confidence": "highest",
+        "source_url": "https://beultimate.com/our-team",
+        "source_type": "archived",
+        "snapshot_date": "2017-06-16",
+        "context_snippet": "king Location Vancouver, BC Email: info@beultimate.com Newsletter Subscribe: Stay up to date with ne"
+      }
+    ],
+    "role_emails": [
+      "info@beultimate.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://beultimate.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beultimate.com/our-team",
+        "page_type": "team",
+        "source_type": "archived",
+        "snapshot_date": "2017-06-16"
+      },
+      {
+        "url": "https://beultimate.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2017-08-24"
+      },
+      {
+        "url": "https://beultimate.com/pages/about-be-ultimate",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beultimate.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://beultimate.com/pages/contact-us",
+        "action": "/contact#contact-form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "We are Ultimate players making Ultimate gear for the Ultimate Community. We believe that your Ultimate uniform must be designed to help you perform at your best. Always Better Than Ever.",
+    "source_urls": [
+      "https://beultimate.com/our-team",
+      "https://beultimate.com/about",
+      "https://beultimate.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "beuta.com",
+    "company_name": "Beuta",
+    "website": "https://beuta.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Email Customerservice@beuta.com",
+        "title": null,
+        "email": "customerservice@beuta.com",
+        "source_url": "https://beuta.com/contact"
+      }
+    ],
+    "people": [
+      {
+        "name": "Email Customerservice@beuta.com",
+        "title": null,
+        "email": "customerservice@beuta.com",
+        "source_url": "https://beuta.com/contact"
+      }
+    ],
+    "emails": [
+      {
+        "address": "customerservice@beuta.com",
+        "confidence": "highest",
+        "source_url": "https://beuta.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "support@beuta.com",
+        "confidence": "high",
+        "source_url": "https://beuta.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "customerservice@beuta.com",
+      "support@beuta.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://beuta.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beuta.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beuta.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://beuta.com/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://beuta.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Easy-to-install landscape and garden solutions. PolyRock edging, Steel edging, Poly Planters, and more. Easy backyard upgrades. Easy curb appeal.",
+    "source_urls": [
+      "https://beuta.com",
+      "https://beuta.com/contact",
+      "https://beuta.com/pages/contact"
+    ],
+    "reason": null,
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "bevbuckle.com",
+    "company_name": "BevBuckle",
+    "website": "https://bevbuckle.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://bevbuckle.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bevbuckle.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bevbuckle.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bevbuckle.com/pages/contact-us",
+        "action": "/contact#contact-template--16098631811225__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "BevBuckle: The world's first hands-free drink holding belt buckle. Handmade in the USA, BevBuckle is the perfect accessory for any beverage enthusiast.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "beveragemixers.com",
+    "company_name": "Portland Syrups",
+    "website": "https://beveragemixers.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  }
+]
