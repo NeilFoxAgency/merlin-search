@@ -1,0 +1,1588 @@
+[
+  {
+    "company_domain": "blissboutiques.com",
+    "company_name": "Bliss Boutiques",
+    "website": "https://www.blissboutiques.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@blissboutiques.com",
+        "confidence": "high",
+        "source_url": "https://www.blissboutiques.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@blissboutiques.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.blissboutiques.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.blissboutiques.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.blissboutiques.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.blissboutiques.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.blissboutiques.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.blissboutiques.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.blissboutiques.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.blissboutiques.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.blissboutiques.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.blissboutiques.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.blissboutiques.com/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.blissboutiques.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Bliss, where everyday wear meets elegance. Shop high-quality, beautiful, and comfortable boutique styles from Frank & Eileen, Clare V. & More. In person shopping at our stores in ME and NH.",
+    "source_urls": [
+      "https://www.blissboutiques.com",
+      "https://www.blissboutiques.com/team",
+      "https://www.blissboutiques.com/our-team",
+      "https://www.blissboutiques.com/about",
+      "https://www.blissboutiques.com/press",
+      "https://www.blissboutiques.com/media"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "blisscrystals.com",
+    "company_name": "Bliss Crystals",
+    "website": "https://blisscrystals.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@blisscrystals.com",
+        "confidence": "high",
+        "source_url": "https://blisscrystals.com/pages/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@blisscrystals.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://blisscrystals.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blisscrystals.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blisscrystals.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://blisscrystals.com/pages/contact",
+        "action": "/api/contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "At Bliss Crystal Premium online crystal shop find our remarkable collection of Grade A crystals. Browse our collection of fine jewelry, stones, and\u2026",
+    "source_urls": [
+      "https://blisscrystals.com/pages/about"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "blissdiamond.com",
+    "company_name": "Bliss Diamond",
+    "website": "https://www.blissdiamond.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Send An Email",
+        "title": null,
+        "email": "support@blissdiamond.com",
+        "source_url": "https://www.blissdiamond.com"
+      }
+    ],
+    "people": [
+      {
+        "name": "Send An Email",
+        "title": null,
+        "email": "support@blissdiamond.com",
+        "source_url": "https://www.blissdiamond.com"
+      }
+    ],
+    "emails": [
+      {
+        "address": "support@blissdiamond.com",
+        "confidence": "highest",
+        "source_url": "https://www.blissdiamond.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.blissdiamond.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.blissdiamond.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.blissdiamond.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.blissdiamond.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.blissdiamond.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.blissdiamond.com/pages/about-us/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.blissdiamond.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Upgrade your style with Bliss Diamond Jewelry. We provide stunning and high-quality Rings, Earrings, Pendants, Bracelets, and much more. Shop today!",
+    "source_urls": [
+      "https://www.blissdiamond.com",
+      "https://www.blissdiamond.com/about",
+      "https://www.blissdiamond.com/contact",
+      "https://www.blissdiamond.com/pages/about-us",
+      "https://www.blissdiamond.com/pages/contact-us",
+      "https://www.blissdiamond.com/pages/about-us/"
+    ],
+    "reason": null,
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "blissenergetics.com",
+    "company_name": "Bliss Energetics",
+    "website": "https://blissenergetics.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@blissenergetics.com",
+        "confidence": "highest",
+        "source_url": "https://blissenergetics.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "you checked our FAQ page? Contact Support Monday-Friday: support@blissenergetics.com Stay Connected: Facebook, Instagram, join our private"
+      },
+      {
+        "address": "affiliate@blissenergetics.com",
+        "confidence": "high",
+        "source_url": "https://blissenergetics.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "E Support: wholesale@blissenergetics.com AFFILIATE Support: affiliate@blissenergetics.com If you contact us outside of business hours our agent wil"
+      },
+      {
+        "address": "wholesale@blissenergetics.com",
+        "confidence": "high",
+        "source_url": "https://blissenergetics.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ral Support: support@blissenergetics.com WHOLESALE Support: wholesale@blissenergetics.com AFFILIATE Support: affiliate@blissenergetics.com If you c"
+      }
+    ],
+    "role_emails": [
+      "affiliate@blissenergetics.com",
+      "support@blissenergetics.com",
+      "wholesale@blissenergetics.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://blissenergetics.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blissenergetics.com/collections/gum-support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blissenergetics.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blissenergetics.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blissenergetics.com/products/bone-renewal-herbal-blend-to-support-strengthen-and-nourish-bones-and-teeth",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Intuitively-crafted Handmade Herbal Healing Products",
+    "source_urls": [
+      "https://blissenergetics.com",
+      "https://blissenergetics.com/collections/gum-support",
+      "https://blissenergetics.com/pages/about-us",
+      "https://blissenergetics.com/pages/contact",
+      "https://blissenergetics.com/products/bone-renewal-herbal-blend-to-support-strengthen-and-nourish-bones-and-teeth"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "blissfulnights.com",
+    "company_name": "BlissfulNights.com",
+    "website": "https://www.blissfulnights.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Email Now",
+        "title": null,
+        "email": "info@blissfulnights.com",
+        "source_url": "https://www.blissfulnights.com/pages/contact-us"
+      }
+    ],
+    "people": [
+      {
+        "name": "Email Now",
+        "title": null,
+        "email": "info@blissfulnights.com",
+        "source_url": "https://www.blissfulnights.com/pages/contact-us"
+      }
+    ],
+    "emails": [
+      {
+        "address": "info@blissfulnights.com",
+        "confidence": "highest",
+        "source_url": "https://www.blissfulnights.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Chat Now Email us Email our team at info@blissfulnights.com for blissfully quick support. Email Now"
+      }
+    ],
+    "role_emails": [
+      "info@blissfulnights.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.blissfulnights.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.blissfulnights.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.blissfulnights.com/pages/about-blissful-nights",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.blissfulnights.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Blissful Nights is your #1 source for adjustable bed frames and mattress sleep systems since 1993. Get fast free shipping right to your door on all our mattresses, pillows, and adjustable beds. Adjust the way you sleep tonight.",
+    "source_urls": [
+      "https://www.blissfulnights.com",
+      "https://www.blissfulnights.com/contact",
+      "https://www.blissfulnights.com/pages/about-blissful-nights",
+      "https://www.blissfulnights.com/pages/contact-us"
+    ],
+    "reason": null,
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "blisshammocks.com",
+    "company_name": "Bliss Hammocks",
+    "website": "https://blisshammocks.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://blisshammocks.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Shop the Bliss Hammocks Store For High-Quality & Stylish Hammocks, Gravity Free Chairs, Patio D\u00e9cor, Outdoor Lights & Lanterns, Beach Chairs, And More!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "blissinabottle.com",
+    "company_name": "Bliss in a Bottle",
+    "website": "https://blissinabottle.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@blissinabottle.com",
+        "confidence": "high",
+        "source_url": "https://blissinabottle.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@blissinabottle.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://blissinabottle.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blissinabottle.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2020-04-20"
+      },
+      {
+        "url": "https://blissinabottle.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blissinabottle.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blissinabottle.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://blissinabottle.com/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://blissinabottle.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Discover our patented process: wine, beer, and spirits dipped in Belgian chocolate. Perfect gifts for weddings, birthdays, and holidays!",
+    "source_urls": [
+      "https://blissinabottle.com",
+      "https://blissinabottle.com/contact",
+      "https://blissinabottle.com/pages/about-us",
+      "https://blissinabottle.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "blisslets.com",
+    "company_name": "Blisslets",
+    "website": "https://blisslets.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://blisslets.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blisslets.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blisslets.com/products/cecilia-acupressure-bracelets-pair",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blisslets.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://blisslets.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Blisslets are beautiful anti nausea bracelets helping ease sea & car sickness, pregnancy, migraines, vertigo, chemo. \u2705 Fight Nausea \u2705 Look Great",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "blisslights.com",
+    "company_name": "BlissLights",
+    "website": "https://blisslights.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@blisslights.com",
+        "confidence": "highest",
+        "source_url": "https://blisslights.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "re my personal information Connect 888.868.4603 support@blisslights.com Become a brand partner"
+      }
+    ],
+    "role_emails": [
+      "support@blisslights.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://blisslights.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blisslights.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blisslights.com/press",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2017-07-26"
+      },
+      {
+        "url": "https://blisslights.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2017-07-28"
+      },
+      {
+        "url": "https://blisslights.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blisslights.com/pages/about?view=lpg-about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blisslights.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blisslights.com/blogs/blisslights/types-of-indoor-lighting-you-should-know-about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://blisslights.com/contact",
+        "action": "/contact/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Unique laser lights from the original inventors! Unparalleled quality at exceptional prices. Pioneering laser magic since 2006. Shop now!",
+    "source_urls": [
+      "https://blisslights.com",
+      "https://blisslights.com/about",
+      "https://blisslights.com/pages/about",
+      "https://blisslights.com/pages/about?view=lpg-about",
+      "https://blisslights.com/pages/contact-us",
+      "https://blisslights.com/blogs/blisslights/types-of-indoor-lighting-you-should-know-about"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "blissworld.com",
+    "company_name": "Bliss World Store",
+    "website": "https://www.blissworld.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.blissworld.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.blissworld.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2007-03-07"
+      },
+      {
+        "url": "https://www.blissworld.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.blissworld.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Discover the best in skin & body care. 100% cruelty & blissfully free from the bad stuff you don\u2019t want on your skin or body. Complexion perfection starts here.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "blissy.com",
+    "company_name": "Blissy",
+    "website": "https://blissy.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@blissy.com",
+        "confidence": "highest",
+        "source_url": "https://blissy.com/pages/customer-support",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Our telephone number is: (888) 590-9670 Our email is support@blissy.com We are located: 2140 N Hollywood Way #10639 Burbank CA 91"
+      }
+    ],
+    "role_emails": [
+      "support@blissy.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://blissy.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blissy.com/collections/cherry-espresso-collection",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blissy.com/blogs/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blissy.com/pages/customer-support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blissy.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Blissy\u2122 is the best kept secret of super models, hair stylists, beauty experts and dermatologists around the world. Experience pure bliss with the Blissy ultra premium 22-Momme 6A Grade silk pillowcases, hair accessories, sleep masks and more.",
+    "source_urls": [
+      "https://blissy.com/pages/customer-support",
+      "https://blissy.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "blitzinc.com",
+    "company_name": "Blitz Manufacturing Inc.",
+    "website": "https://www.blitzinc.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "sales@blitzinc.com",
+        "confidence": "high",
+        "source_url": "https://www.blitzinc.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "NG COMPANY, INC. 263 America Place Jeffersonville, IN 47130 sales@blitzinc.com Sales & Customer Service: 1 (800) 356-0860 or (812) 284-254"
+      },
+      {
+        "address": "web@blitzinc.com",
+        "confidence": "high",
+        "source_url": "https://www.blitzinc.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "4-2548 Fax: (812) 288-7766 Website Customer Service Email: web@blitzinc.com Wholesale Customer Service Email: sales@blitzinc.com"
+      }
+    ],
+    "role_emails": [
+      "sales@blitzinc.com",
+      "web@blitzinc.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.blitzinc.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.blitzinc.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2013-03-11"
+      },
+      {
+        "url": "https://www.blitzinc.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2014-12-21"
+      },
+      {
+        "url": "https://www.blitzinc.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2013-03-11"
+      },
+      {
+        "url": "https://www.blitzinc.com/pages/about-blitz",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.blitzinc.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.blitzinc.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Blitz Manufacturing Company Inc. has produced environmentally safe, non-toxic jewelry, metal and musical instrument cleaning, polishing and care products for over 100 years. Trust our experience to clean, shine and protect your precious metals. Clean gold, silver, platinum, copper, bronze, and more ",
+    "source_urls": [
+      "https://www.blitzinc.com",
+      "https://www.blitzinc.com/about",
+      "https://www.blitzinc.com/about-us",
+      "https://www.blitzinc.com/contact",
+      "https://www.blitzinc.com/pages/about-blitz",
+      "https://www.blitzinc.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "blixbike.com",
+    "company_name": "Blix Electric Bikes",
+    "website": "https://blixbike.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customer@blixbike.com",
+        "confidence": "high",
+        "source_url": "https://blixbike.com/pages/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "3 PM PT \ud83d\udcde (831) 291-3274 \u2709\ufe0f sales@blixbicycle.com \u2709\ufe0f customer@blixbike.com Our Story Founde"
+      },
+      {
+        "address": "pr@blixbike.com",
+        "confidence": "high",
+        "source_url": "https://blixbike.com/pages/press",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Press & Media For media requests, email pr@blixbike.com. Our Story Founded i"
+      }
+    ],
+    "role_emails": [
+      "customer@blixbike.com",
+      "pr@blixbike.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://blixbike.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blixbike.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blixbike.com/pages/blix-store-locations-page",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blixbike.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blixbike.com/pages/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Founded in 2014, Blix Electric Bicycles are designed for everyday rides and adventures. Explore Sol X Bike for style, Vika X for folding convenience, and Packa Cargo eBike for powerful hauling. Enjoy long-range batteries, powerful motors, and sustainable mobility. Perfect commuter eBikes and family ",
+    "source_urls": [
+      "https://blixbike.com/pages/about",
+      "https://blixbike.com/pages/press"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "blizzard.com",
+    "company_name": "Blizzard Gear Store",
+    "website": "https://gear.blizzard.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://gear.blizzard.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://gear.blizzard.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Browse the Official Blizzard Gear Store with merchandise and apparel from World of Warcraft, Overwatch, Diablo, and more. Find exclusive game t-shirts and hoodies you can wear while you rep your favorite game.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "blkandbold.com",
+    "company_name": "BLK & Bold Specialty Beverages",
+    "website": "https://blkandbold.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://blkandbold.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blkandbold.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blkandbold.com/blogs/press-release",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blkandbold.com/pages/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blkandbold.com/blogs/press-release/7-years-of-brewing-with-purpose",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blkandbold.com/blogs/press-release/blk-bold-welcomes-deion-coach-prime-sanders-as-co-owner-elevating-coffee-culture-and-community-impact",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blkandbold.com/pages/contact-us-1",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://blkandbold.com/blogs/press-release/7-years-of-brewing-with-purpose",
+        "action": "/blogs/press-release/7-years-of-brewing-with-purpose/comments#comment_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://blkandbold.com/blogs/press-release/blk-bold-welcomes-deion-coach-prime-sanders-as-co-owner-elevating-coffee-culture-and-community-impact",
+        "action": "/blogs/press-release/blk-bold-welcomes-deion-coach-prime-sanders-as-co-owner-elevating-coffee-culture-and-community-impact/comments#comment_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://blkandbold.com/pages/contact-us-1",
+        "action": "/contact#contact-template--16874950131910__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Freshly roasted specialty coffees & loose leaf teas delivered straight to your door. Subscribe and save on shipping!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 15
+  },
+  {
+    "company_domain": "blkblu.com",
+    "company_name": "BlackBlue",
+    "website": "https://www.blkblu.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "blkgrn.com",
+    "company_name": "BLK + GRN, LLC",
+    "website": "https://blkgrn.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "blkmktvintage.com",
+    "company_name": "BLK MKT Vintage",
+    "website": "https://www.blkmktvintage.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "team@blkmktvintage.com",
+        "confidence": "high",
+        "source_url": "https://www.blkmktvintage.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Privacy Policy and Terms of Service apply. Email team@blkmktvintage.com Website www.blkmktvintage.com Follow us Ins"
+      },
+      {
+        "address": "u003einteriors@blkmktvintage.com",
+        "confidence": "high",
+        "source_url": "https://www.blkmktvintage.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "team@blkmktvintage.com",
+      "u003einteriors@blkmktvintage.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.blkmktvintage.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.blkmktvintage.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.blkmktvintage.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.blkmktvintage.com/pages/contact",
+        "action": "/contact#ContactForm-template--21696836567233__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "BLK MKT Vintage is a collection comprised of black collectibles, cast-off's and curiosities, representing the richness of black history and lived experience.",
+    "source_urls": [
+      "https://www.blkmktvintage.com",
+      "https://www.blkmktvintage.com/pages/about",
+      "https://www.blkmktvintage.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "blocardryer.com",
+    "company_name": "BLO Car Dryer",
+    "website": "https://blocardryer.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@blocardryer.com",
+        "confidence": "high",
+        "source_url": "https://blocardryer.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "About Blo 4211 S Natches Ct Englewood, CO 80110 hello@blocardryer.com Main Menu Home FAQ Dryers Accesor"
+      },
+      {
+        "address": "orders@blocardryer.com",
+        "confidence": "high",
+        "source_url": "https://blocardryer.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "hello@blocardryer.com",
+      "orders@blocardryer.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://blocardryer.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blocardryer.com/pages/contact-blo-car-dryers",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blocardryer.com/blogs/detailing-news/air-compressor-blowers",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blocardryer.com/blogs/detailing-news/can-i-pressure-wash-my-car",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blocardryer.com/blogs/detailing-news/high-pressure-air-blower-for-car",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://blocardryer.com/pages/contact-blo-car-dryers",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://blocardryer.com/blogs/detailing-news/air-compressor-blowers",
+        "action": "/blogs/detailing-news/air-compressor-blowers/comments#comment_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://blocardryer.com/blogs/detailing-news/can-i-pressure-wash-my-car",
+        "action": "/blogs/detailing-news/can-i-pressure-wash-my-car/comments#comment_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://blocardryer.com/blogs/detailing-news/high-pressure-air-blower-for-car",
+        "action": "/blogs/detailing-news/high-pressure-air-blower-for-car/comments#comment_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "BLO car dryers are the best car dryer blower on the market for both price and performance. Blast water away with our filtered heated air for fast clean drying.",
+    "source_urls": [
+      "https://blocardryer.com",
+      "https://blocardryer.com/pages/contact-blo-car-dryers",
+      "https://blocardryer.com/blogs/detailing-news/air-compressor-blowers",
+      "https://blocardryer.com/blogs/detailing-news/can-i-pressure-wash-my-car",
+      "https://blocardryer.com/blogs/detailing-news/high-pressure-air-blower-for-car"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "blochworld.com",
+    "company_name": "BLOCH Dance US",
+    "website": "https://us.blochworld.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://us.blochworld.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://us.blochworld.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://us.blochworld.com/pages/contact-bloch",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://us.blochworld.com/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://us.blochworld.com/pages/contact-bloch",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Discover our adults & childrens dancewear, dance shoes & accessories for all styles of dance. Free shipping on orders over $70.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "blockbluelight.com",
+    "company_name": "BlockBlueLight",
+    "website": "https://www.blockbluelight.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@blockbluelight.com",
+        "confidence": "high",
+        "source_url": "https://www.blockbluelight.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "a call with the BlockBlueLight Team Support Email: info@blockbluelight.com Returns Centre: https://www.blockbluelight.com/a/return"
+      }
+    ],
+    "role_emails": [
+      "info@blockbluelight.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.blockbluelight.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.blockbluelight.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.blockbluelight.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.blockbluelight.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Science backed blue light glasses and blue blocking lighting designed to reduce harmful blue light exposure, combat eye strain, and improve sleep. Shop for blue light blocking glasses in US and Canada today! Afterpay available.",
+    "source_urls": [
+      "https://www.blockbluelight.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "blockshoptextiles.com",
+    "company_name": "Block Shop",
+    "website": "https://www.blockshoptextiles.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@blockshoptextiles.com",
+        "confidence": "highest",
+        "source_url": "https://www.blockshoptextiles.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "m work, and general inquiries, please contact us directly: hello@blockshoptextiles.com For trade-related questions regarding our wallpaper or fa"
+      },
+      {
+        "address": "trade@blockshoptextiles.com",
+        "confidence": "highest",
+        "source_url": "https://www.blockshoptextiles.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ions regarding our wallpaper or fabric, please email us at trade@blockshoptextiles.com Trade If you\u2019re interested in applying for a trade accoun"
+      }
+    ],
+    "role_emails": [
+      "hello@blockshoptextiles.com",
+      "trade@blockshoptextiles.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.blockshoptextiles.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.blockshoptextiles.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.blockshoptextiles.com/pages/about#press",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.blockshoptextiles.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Exceptional home goods and garments designed by sisters in Los Angeles, woven and hand printed in the finest family workshops around the world.",
+    "source_urls": [
+      "https://www.blockshoptextiles.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "bloedstone.com",
+    "company_name": "Bl\u0153dstone",
+    "website": "https://bloedstone.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@bloedstone.com",
+        "confidence": "high",
+        "source_url": "https://bloedstone.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Information hello@bloedstone.com Based in Los Angeles, CA Schedule an appointment"
+      }
+    ],
+    "role_emails": [
+      "hello@bloedstone.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bloedstone.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bloedstone.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bloedstone.com/pages/contact",
+        "action": "/contact#contact-us-page",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Wondering where to buy ethically made rings designed by a men's jewelry brand? Look no longer! Click to buy sustainable, fair trade jewelry by Bloedstone.",
+    "source_urls": [
+      "https://bloedstone.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "blom.co",
+    "company_name": "BLOM",
+    "website": "https://blom.co",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "robots_disallowed",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "blombergappliances.com",
+    "company_name": "Blomberg Appliances",
+    "website": "https://blombergappliances.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://blombergappliances.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blombergappliances.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2017-07-16"
+      },
+      {
+        "url": "https://blombergappliances.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blombergappliances.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blombergappliances.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "With over 130 years\u2019 experience in delivering quality and innovation, everything we do is designed to be effortlessly in-step with our customers\u2019 lives. \u200bFocused on modern design, energy efficiency, and the highest quality materials, our appliances are built to last, whatever life throws at them. \u200b",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  }
+]
