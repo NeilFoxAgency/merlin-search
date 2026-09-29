@@ -1,0 +1,1552 @@
+[
+  {
+    "company_domain": "beautysupply.hair",
+    "company_name": "Beauty & Beyond Beauty supply",
+    "website": "https://www.beautysupply.hair",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.beautysupply.hair",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beautysupply.hair/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beautysupply.hair/products/outre-x-pression-twisted-up-bonita-boho-crush-locs-12-copy",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beautysupply.hair/products/outre-x-pression-twisted-up-bonita-boho-crush-locs-12",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beautysupply.hair/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.beautysupply.hair/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Beauty & Beyond",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "beautysupply123.com",
+    "company_name": "Beauty Supply 123 Outlet",
+    "website": "https://beautysupply123.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Ocean Ranch Blvd",
+        "title": "Owner",
+        "email": "customerservice@beautysupply123.com",
+        "source_url": "https://beautysupply123.com/pages/about-us",
+        "association": "proximity"
+      }
+    ],
+    "people": [
+      {
+        "name": "Ocean Ranch Blvd",
+        "title": "Owner",
+        "email": "customerservice@beautysupply123.com",
+        "source_url": "https://beautysupply123.com/pages/about-us",
+        "association": "proximity"
+      }
+    ],
+    "emails": [
+      {
+        "address": "customerservice@beautysupply123.com",
+        "confidence": "highest",
+        "source_url": "https://beautysupply123.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "anside, CA 92056. If you have any questions, contact us at customerservice@beautysupply123.com or call us directly at (619) 376-2000."
+      }
+    ],
+    "role_emails": [
+      "customerservice@beautysupply123.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://beautysupply123.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beautysupply123.com/collections/my-team-cape",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beautysupply123.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beautysupply123.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://beautysupply123.com/pages/contact-us",
+        "action": "/contact#contact-template--22350742716639__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Beauty Supply 123 - We offer free shipping on orders over $50 and wholesale pricing for beauty professionals. We have a wide assortment of products for hair, skin, and nail. We have highly competitive pricing. For phone orders call 619-376-2000 or email customerservice@beautysupply123.com. Oceanside",
+    "source_urls": [
+      "https://beautysupply123.com",
+      "https://beautysupply123.com/collections/my-team-cape",
+      "https://beautysupply123.com/pages/about-us",
+      "https://beautysupply123.com/pages/contact-us"
+    ],
+    "reason": null,
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "beautytrends.com",
+    "company_name": "BeautyTrends",
+    "website": "https://www.beautytrends.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "4service@beautytrends.com",
+        "confidence": "highest",
+        "source_url": "https://www.beautytrends.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "t Industrial Blvd St. Louis, MO 63132 United States Email: 4service@beautytrends.com Toll-free: 1-(800)-268-7210 Opening Hours: Monday - Friday"
+      }
+    ],
+    "role_emails": [
+      "4service@beautytrends.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.beautytrends.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beautytrends.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.beautytrends.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Shop the best human hair, lace front and monofilament synthetic wigs, hairpieces, and extensions from top, industry-leading brands at affordable, low price.",
+    "source_urls": [
+      "https://www.beautytrends.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "beautywithin.com",
+    "company_name": "Beauty Within",
+    "website": "https://beautywithin.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "care@beautywithin.com",
+        "confidence": "high",
+        "source_url": "https://beautywithin.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "f showing up, just as you are. For inquiries, email us at: care@beautywithin.com SUPPORT Contact Us FAQ Refunds Privacy Te"
+      },
+      {
+        "address": "careers@beautywithin.com",
+        "confidence": "high",
+        "source_url": "https://beautywithin.com/policies/contact-information",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "s inquiries: collab@beautywithin.com Job opportunities: careers@beautywithin.com Your inbox deserves a lil' self"
+      },
+      {
+        "address": "collab@beautywithin.com",
+        "confidence": "high",
+        "source_url": "https://beautywithin.com/policies/contact-information",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "er Inquiries: care@beautywithin.com Business inquiries: collab@beautywithin.com Job opportunities: careers@beautywithin.com"
+      }
+    ],
+    "role_emails": [
+      "care@beautywithin.com",
+      "careers@beautywithin.com",
+      "collab@beautywithin.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://beautywithin.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beautywithin.com/products/kimtrue-nourishing-repair-steam-hair-care-mask-kit-1pc",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beautywithin.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "A curation of truly-loved skincare products, teas, and home goods. Tried and tested by your favorite skincare + self care enthusiasts, Felicia Lee and Rowena Tsai!",
+    "source_urls": [
+      "https://beautywithin.com",
+      "https://beautywithin.com/products/kimtrue-nourishing-repair-steam-hair-care-mask-kit-1pc",
+      "https://beautywithin.com/policies/contact-information"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "beautyzonesupply.com",
+    "company_name": "Beauty Zone Nail Supply",
+    "website": "https://www.beautyzonesupply.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.beautyzonesupply.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beautyzonesupply.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beautyzonesupply.com/collections/steamers-facial-machines",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beautyzonesupply.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beautyzonesupply.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beautyzonesupply.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.beautyzonesupply.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Beauty Zone supplies salons & beauty pros with OPI, Essie, Orly, Gelish, China Glaze, Kiara Sky & more. Wholesale & retail, Local , fast delivery. Acrylic Liquid Powder, Soak off Gel, Nail lacquer Hard Gel polish Dip powder.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "beaver-tooth.com",
+    "company_name": "Beaver-Tooth Handle Co.",
+    "website": "https://beaver-tooth.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "sales@beaver-tooth.com",
+        "confidence": "highest",
+        "source_url": "https://beaver-tooth.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "gging Tools Gift Card About Us Need help? sales@beaver-tooth.com Follow Us Facebook Instagram"
+      }
+    ],
+    "role_emails": [
+      "sales@beaver-tooth.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://beaver-tooth.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beaver-tooth.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beaver-tooth.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://beaver-tooth.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Beaver-Tooth Handle Co. Premium Quality Hickory Replacement Handles for Axes, Hatchets, Broad Axes, Adze, Hammers & Leather Axe Sheaths, Steel & Wood Wedges.",
+    "source_urls": [
+      "https://beaver-tooth.com",
+      "https://beaver-tooth.com/pages/about-us",
+      "https://beaver-tooth.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "beaverflags.com",
+    "company_name": "Beaver Flags",
+    "website": "https://beaverflags.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Beaver Flags",
+        "title": "Owner",
+        "email": "info@beaverflags.com",
+        "source_url": "https://beaverflags.com",
+        "association": "proximity"
+      }
+    ],
+    "people": [
+      {
+        "name": "Beaver Flags",
+        "title": "Owner",
+        "email": "info@beaverflags.com",
+        "source_url": "https://beaverflags.com",
+        "association": "proximity"
+      }
+    ],
+    "emails": [
+      {
+        "address": "info@beaverflags.com",
+        "confidence": "highest",
+        "source_url": "https://beaverflags.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ct 2570 25th Ave N St. Petersburg, FL, 33713 (727) 329-8364 info@beaverflags.com \u00a9 Beaver Flags 2026 Powered by Shopify"
+      }
+    ],
+    "role_emails": [
+      "info@beaverflags.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://beaverflags.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beaverflags.com/collections/sports-team-flags-and-banners",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beaverflags.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beaverflags.com/pages/about-flags",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beaverflags.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://beaverflags.com/pages/about",
+        "action": "/contact#contact-us-page",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://beaverflags.com/pages/contact",
+        "action": "/contact#contact-us-page",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Since 1950, Beaver Flags has been providing US Flags, State Flags, Country Flags, Custom made Burgees and Pennants, MADE in the USA. For flags, banners and burgees...Leave it to Beaver Flags!",
+    "source_urls": [
+      "https://beaverflags.com",
+      "https://beaverflags.com/collections/sports-team-flags-and-banners",
+      "https://beaverflags.com/pages/about",
+      "https://beaverflags.com/pages/about-flags",
+      "https://beaverflags.com/pages/contact"
+    ],
+    "reason": null,
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "beaverranchdgc.com",
+    "company_name": "Beaver Ranch Disc Golf Course",
+    "website": "https://beaverranchdgc.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://beaverranchdgc.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beaverranchdgc.com/collections/intermediate-players",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beaverranchdgc.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://beaverranchdgc.com",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://beaverranchdgc.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Colorado's #1 rated disc golf course, just 35 minutes outside Denver!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bebe.com",
+    "company_name": "bebe",
+    "website": "https://www.bebe.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customersupport@bebe.com",
+        "confidence": "highest",
+        "source_url": "https://www.bebe.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "y: 7 am to 5 pm PT CONTACT US VIA EMAIL customersupport@bebe.com SIGN UP clubbebe & Email sign up This web"
+      },
+      {
+        "address": "webmaster@bebe.com",
+        "confidence": "high",
+        "source_url": "https://www.bebe.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2010-07-21",
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "customersupport@bebe.com",
+      "webmaster@bebe.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.bebe.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bebe.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2010-07-21"
+      },
+      {
+        "url": "https://www.bebe.com/pages/bebe-prescription-eyewear-locations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bebe.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.bebe.com/contact",
+        "action": "https://www.bebe.com/gp/contact/actions/data-entry-form-actions.html?ie=UTF8&bbBrand=core",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Shop bebe's selection of fashion clothing and trendy clothes for women for every occasion. Order the hottest styles and latest women's fashion from bebe, including stylish dresses, trendy jumpsuits, cute tops and more!",
+    "source_urls": [
+      "https://www.bebe.com",
+      "https://www.bebe.com/contact",
+      "https://www.bebe.com/pages/bebe-prescription-eyewear-locations",
+      "https://www.bebe.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bebeangbaby.com",
+    "company_name": "Bebeang Baby",
+    "website": "https://www.bebeangbaby.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.bebeangbaby.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bebeangbaby.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2019-11-16"
+      },
+      {
+        "url": "https://www.bebeangbaby.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bebeangbaby.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.bebeangbaby.com/pages/contact-us",
+        "action": "/contact#ContactForm-template--21989571559636__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "From newborn to toddlers, Bebeang Baby carries all the essential needs for babies & parents with an unbeatable price. We believe in order to raise a happy & healthy child, their parents should be happy & healthy as well!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bebeaulait.com",
+    "company_name": "Bebe au Lait",
+    "website": "https://www.bebeaulait.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "robots_disallowed",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "bebellacosmetics.com",
+    "company_name": "BeBella Cosmetics",
+    "website": "https://bebellacosmetics.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://bebellacosmetics.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bebellacosmetics.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "BeBella Cosmetics",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "beberexha.com",
+    "company_name": "Bebe Rexha Official Website",
+    "website": "https://www.beberexha.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.beberexha.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beberexha.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beberexha.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beberexha.com/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beberexha.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beberexha.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beberexha.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beberexha.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beberexha.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "DIRTY BLONDE - THE VISUAL ALBUM",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "bebonia.com",
+    "company_name": "Bebonia",
+    "website": "https://www.bebonia.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@bebonia.com",
+        "confidence": "highest",
+        "source_url": "https://www.bebonia.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2017-08-22",
+        "context_snippet": "Instagram Pinterest Youtube Contact Us info@bebonia.com (305) 510-4797 \u00a92017 BeBonia Beauty"
+      }
+    ],
+    "role_emails": [
+      "info@bebonia.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.bebonia.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bebonia.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2017-08-22"
+      },
+      {
+        "url": "https://www.bebonia.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bebonia.com/pages/about-us-curly-clip-in-hair-extensions",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bebonia.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.bebonia.com/contact",
+        "action": "/contact#ContactForm--template--20016872357954__contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.bebonia.com/pages/contact-us",
+        "action": "/contact#ContactForm--template--20016872357954__contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Welcome to Bebonia! We create luxury clip-in hair extensions that are easy to install, ethically sourced and guaranteed to be your perfect match.",
+    "source_urls": [
+      "https://www.bebonia.com/about-us",
+      "https://www.bebonia.com/contact",
+      "https://www.bebonia.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bebrightcoffee.com",
+    "company_name": "Be Bright Coffee",
+    "website": "https://bebrightcoffee.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@bebrightcoffee.com",
+        "confidence": "high",
+        "source_url": "https://bebrightcoffee.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@bebrightcoffee.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bebrightcoffee.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bebrightcoffee.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bebrightcoffee.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bebrightcoffee.com/pages/locations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bebrightcoffee.com/products/vivid-espresso",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bebrightcoffee.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "When did choosing coffee become so confusing? At Be Bright, we match you with the perfect coffee just for you, just the way you enjoy it. So, you can stop drinking coffee you don't like and start each day on the bright side.",
+    "source_urls": [
+      "https://bebrightcoffee.com",
+      "https://bebrightcoffee.com/pages/about-us",
+      "https://bebrightcoffee.com/pages/contact-us",
+      "https://bebrightcoffee.com/pages/locations",
+      "https://bebrightcoffee.com/products/vivid-espresso"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "bebrilli.com",
+    "company_name": "Brilli",
+    "website": "https://www.bebrilli.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.bebrilli.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bebrilli.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "We\u2019ve created more than 10 best-in-class lighting brands and thousands of products, featured at top retailers all over the world. Together through strong partnerships, we can introduce the world to a life well-lit.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "becausemarket.com",
+    "company_name": "Because Market",
+    "website": "https://becausemarket.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "help@becausemarket.com",
+        "confidence": "highest",
+        "source_url": "https://becausemarket.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2019-07-17",
+        "context_snippet": "onday to Friday, 9.00am to 5.00pm PST on Saturday or email help@becausemarket.com . Privacy Poli"
+      }
+    ],
+    "role_emails": [
+      "help@becausemarket.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://becausemarket.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://becausemarket.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2019-07-17"
+      },
+      {
+        "url": "https://becausemarket.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://becausemarket.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://becausemarket.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Shop Because for bladder protection, skincare, supplements, and more\u2014trusted by over 1 million customers. Find Because at Walmart, CVS, Amazon, Target.com, and BecauseMarket.com. Comfort, confidence, and convenience delivered to your door.",
+    "source_urls": [
+      "https://becausemarket.com/about"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "becausesciencedc.com",
+    "company_name": "Because Science",
+    "website": "https://becausesciencedc.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@becausesciencedc.com",
+        "confidence": "high",
+        "source_url": "https://becausesciencedc.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@becausesciencedc.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://becausesciencedc.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://becausesciencedc.com/pages/about-the-craft-lab",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://becausesciencedc.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://becausesciencedc.com/pages/awestem-people",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://becausesciencedc.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://becausesciencedc.com/pages/press-kit",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://becausesciencedc.com/pages/contact-us",
+        "action": "/contact#contact-template--14310492733574__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Because Science is a love letter to all things STEM, particularly the fusion of art and science. Shop science gifts, jewelry, apparel, stationary & more, or design your own custom circuit board art. We're based in Washington DC where you can also shop locally with us.",
+    "source_urls": [
+      "https://becausesciencedc.com",
+      "https://becausesciencedc.com/pages/about-the-craft-lab",
+      "https://becausesciencedc.com/pages/about",
+      "https://becausesciencedc.com/pages/awestem-people",
+      "https://becausesciencedc.com/pages/contact-us",
+      "https://becausesciencedc.com/pages/press-kit"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 14
+  },
+  {
+    "company_domain": "becausetees.com",
+    "company_name": "Because Tees",
+    "website": "https://becausetees.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@becausetees.com",
+        "confidence": "highest",
+        "source_url": "https://becausetees.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "hello@becausetees.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://becausetees.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://becausetees.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://becausetees.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "BeCause Tees is a female-owned, family business dedicated to finding the best ways to support your passions, one t-shirt at a time. We design, create, and print thoughtful apparel, drawing inspiration from our home\u2019s beauty in coastal Northern California.",
+    "source_urls": [
+      "https://becausetees.com",
+      "https://becausetees.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "beccajeanphotography.com",
+    "company_name": "Becca Jean Photography",
+    "website": "https://shop.beccajeanphotography.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://shop.beccajeanphotography.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.beccajeanphotography.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.beccajeanphotography.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://shop.beccajeanphotography.com/pages/contact",
+        "action": "/contact#ContactForm-template--18264913576109__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "I'm here to help you rock your photography business through guides, presets, and tons of free blog posts packed with info!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "beccaswim.com",
+    "company_name": "BECCA By Rebecca Virtue Swim",
+    "website": "https://beccaswim.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@beccaswim.com",
+        "confidence": "high",
+        "source_url": "https://beccaswim.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "arding an item / order: Submit the Form below or contact: info@beccaswim.com Name E-mail Message Send message For Shipping"
+      }
+    ],
+    "role_emails": [
+      "info@beccaswim.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://beccaswim.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beccaswim.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2015-09-24"
+      },
+      {
+        "url": "https://beccaswim.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2020-05-01"
+      },
+      {
+        "url": "https://beccaswim.com/press",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2020-05-01"
+      },
+      {
+        "url": "https://beccaswim.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2020-05-01"
+      },
+      {
+        "url": "https://beccaswim.com/pages/about-rebecca",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beccaswim.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://beccaswim.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Experience BECCA by Rebecca Virtue: contemporary swimwear and cover-ups designed with trend-focused details, a flawless fit, and timeless femininity",
+    "source_urls": [
+      "https://beccaswim.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "beck.com",
+    "company_name": "BECK",
+    "website": "https://shop.beck.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://shop.beck.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Official merch store for Beck. Fans can purchase exclusive merchandise including vinyl, t-shirts, sweatshirts, CDs, digital downloads and more.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "beckandbulow.com",
+    "company_name": "Beck & Bulow",
+    "website": "https://www.beckandbulow.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@beckandbulow.com",
+        "confidence": "highest",
+        "source_url": "https://www.beckandbulow.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2019-11-21",
+        "context_snippet": "32 Wilowa Lane Santa Fe, NM 87505 Email: info@beckandbulow.com Phone: 800-674-8426"
+      },
+      {
+        "address": "orders@beckandbulow.com",
+        "confidence": "highest",
+        "source_url": "https://www.beckandbulow.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "05 Mon - Sat: 9AM - 7PM Sun: 10AM - 5PM orders@beckandbulow.com 800-674-8426 505-428-6827"
+      }
+    ],
+    "role_emails": [
+      "info@beckandbulow.com",
+      "orders@beckandbulow.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.beckandbulow.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beckandbulow.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beckandbulow.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beckandbulow.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beckandbulow.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beckandbulow.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beckandbulow.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2019-11-21"
+      },
+      {
+        "url": "https://www.beckandbulow.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beckandbulow.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.beckandbulow.com/contact",
+        "action": "/contact/#wpcf7-f290-p35-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Carefully sourced meat and seafood with outstanding flavor from best butchers. Experience the meat that has changed thousands of lives, including ours.",
+    "source_urls": [
+      "https://www.beckandbulow.com",
+      "https://www.beckandbulow.com/team",
+      "https://www.beckandbulow.com/our-team",
+      "https://www.beckandbulow.com/about",
+      "https://www.beckandbulow.com/about-us",
+      "https://www.beckandbulow.com/press",
+      "https://www.beckandbulow.com/contact",
+      "https://www.beckandbulow.com/pages/about-us",
+      "https://www.beckandbulow.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "beckboots.com",
+    "company_name": "Beck Cowboy Boots",
+    "website": "https://beckboots.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://beckboots.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beckboots.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beckboots.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://beckboots.com/pages/contact-us",
+        "action": "/contact#ContactForm-template--16798558945346__contact_form_WnDn7A",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Handmade in Amarillo, TX USA, Beck Cowboy Boots are made with American tanned leather. Our custom cowboy boots are the toughest, best fitting boots available.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "beckbrojack.co",
+    "company_name": "BeckBroJack Merch",
+    "website": "https://beckbrojack.co",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://beckbrojack.co",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beckbrojack.co/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beckbrojack.co/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://beckbrojack.co/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Welcome to the BeckBroJack Shop. Checkout the latest BeckBroJack Merch!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  }
+]
