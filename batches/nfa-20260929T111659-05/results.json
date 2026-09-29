@@ -1,0 +1,1408 @@
+[
+  {
+    "company_domain": "bluebusft.com",
+    "company_name": "BLUEBUSFINETOOLS",
+    "website": "https://bluebusft.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "bluecanoe.com",
+    "company_name": "Blue Canoe",
+    "website": "https://www.bluecanoe.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "click here",
+        "title": null,
+        "email": "info@bluecanoe.com",
+        "source_url": "https://www.bluecanoe.com/pages/customer-care#contact_us"
+      }
+    ],
+    "people": [
+      {
+        "name": "click here",
+        "title": null,
+        "email": "info@bluecanoe.com",
+        "source_url": "https://www.bluecanoe.com/pages/customer-care#contact_us"
+      }
+    ],
+    "emails": [
+      {
+        "address": "info@bluecanoe.com",
+        "confidence": "highest",
+        "source_url": "https://www.bluecanoe.com/pages/customer-care#contact_us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "oe.com. Our contact information is posted below: Blue Canoe info@bluecanoe.com 2409 Sacramento Street, Unit 1 San Francisco, CA 94115 415-"
+      },
+      {
+        "address": "laurie@bluecanoe.com",
+        "confidence": "high",
+        "source_url": "https://www.bluecanoe.com/pages/customer-care#contact_us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "uestions about the Terms of Service should be sent to us at laurie@bluecanoe.com. Our contact information is posted below: Blue Canoe info@b"
+      }
+    ],
+    "role_emails": [
+      "laurie@bluecanoe.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.bluecanoe.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bluecanoe.com/pages/about-blue-canoe",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bluecanoe.com/pages/about-blue-canoe#sustainable",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bluecanoe.com/pages/about-blue-canoe#ethically-made",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bluecanoe.com/pages/customer-care#contact_us",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bluecanoe.com/pages/about-blue-canoe#about_us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bluecanoe.com/pages/about-blue-canoe#our_fabrics",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bluecanoe.com/pages/about-blue-canoe#made_in_usa",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bluecanoe.com/pages/about-blue-canoe#what_do_in_your_bc",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Shop from our latest Organic Clothing for Women. Check out our eco-conscious collection and buy your fit now!",
+    "source_urls": [
+      "https://www.bluecanoe.com/pages/customer-care#contact_us"
+    ],
+    "reason": null,
+    "pages_fetched": 17
+  },
+  {
+    "company_domain": "bluecansales.com",
+    "company_name": "Blue Can Water",
+    "website": "https://www.bluecansales.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.bluecansales.com",
+        "page_type": "home",
+        "source_type": "archived",
+        "snapshot_date": "2025-11-19"
+      },
+      {
+        "url": "https://www.bluecansales.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2025-08-17"
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.bluecansales.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Blue Can Water",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "bluecatnetworks.com",
+    "company_name": "BlueCat Learning Store",
+    "website": "https://shop.bluecatnetworks.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://shop.bluecatnetworks.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.bluecatnetworks.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://shop.bluecatnetworks.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "BlueCat Learning Store",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "bluechicboutique.com",
+    "company_name": "Blue Chic Boutique",
+    "website": "https://www.bluechicboutique.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.bluechicboutique.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bluechicboutique.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "We have dresses priced under $40 with free, fast shipping! We have many cute summer dresses and tops! You'll find trendy maxi dresses as well as cute short dresses.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "bluechipwrestling.com",
+    "company_name": "Blue Chip Wrestling",
+    "website": "https://www.bluechipwrestling.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.bluechipwrestling.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bluechipwrestling.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bluechipwrestling.com/pages/online-team-stores",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bluechipwrestling.com/pages/contact-blue-chip",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bluechipwrestling.com/collections/team-sales/T-Shirts",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bluechipwrestling.com/collections/team-sales/Shorts",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bluechipwrestling.com/collections/team-sales/Sweatshirts",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bluechipwrestling.com/collections/team-sales/Sweatpants",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bluechipwrestling.com/collections/team-sales/Pullovers",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bluechipwrestling.com/collections/team-sales/jackets",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Since 2001, Blue Chip Wrestling offers Wrestling T-Shirts, Singlets, Gear and more to wrestlers and teams. Team singlets and custom apparel is our specialty. Shop Now \u00bb",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 17
+  },
+  {
+    "company_domain": "bluecirclefoods.com",
+    "company_name": "Blue Circle Foods",
+    "website": "https://www.bluecirclefoods.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@bluecirclefoods.com",
+        "confidence": "highest",
+        "source_url": "https://www.bluecirclefoods.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "head to our FAQs. For online order inquiries please email hello@bluecirclefoods.com . For press inquiries please email press@bluecirclefoods.c"
+      },
+      {
+        "address": "press@bluecirclefoods.com",
+        "confidence": "highest",
+        "source_url": "https://www.bluecirclefoods.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "llo@bluecirclefoods.com . For press inquiries please email press@bluecirclefoods.com . For wholesale inquiries please email sales@bluecirclef"
+      },
+      {
+        "address": "sales@bluecirclefoods.com",
+        "confidence": "highest",
+        "source_url": "https://www.bluecirclefoods.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "uecirclefoods.com . For wholesale inquiries please email sales@bluecirclefoods.com . Let's share the catch!"
+      }
+    ],
+    "role_emails": [
+      "hello@bluecirclefoods.com",
+      "press@bluecirclefoods.com",
+      "sales@bluecirclefoods.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.bluecirclefoods.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bluecirclefoods.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bluecirclefoods.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bluecirclefoods.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bluecirclefoods.com/pages/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bluecirclefoods.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Blue Circle Foods is an employee-owned sustainable seafood company on the leading edge of wild-caught fishing practices and aquaculture.",
+    "source_urls": [
+      "https://www.bluecirclefoods.com/contact",
+      "https://www.bluecirclefoods.com/pages/press",
+      "https://www.bluecirclefoods.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "bluecitynyc.com",
+    "company_name": "BLUE CITY NYC",
+    "website": "https://bluecitynyc.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://bluecitynyc.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bluecitynyc.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bluecitynyc.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bluecitynyc.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Blue City Boutique",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bluecoatgin.com",
+    "company_name": "Bluecoat Gin",
+    "website": "https://bluecoatgin.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@bluecoatgin.com",
+        "confidence": "high",
+        "source_url": "https://bluecoatgin.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Contact us at info@bluecoatgin.com Please Drink Responsibly. Philadelphia Distilling | 25 East"
+      }
+    ],
+    "role_emails": [
+      "info@bluecoatgin.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bluecoatgin.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bluecoatgin.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Philadelphia Distilling | 25 East Allen St. | Philadelphia, PA 19123 \u00a92018 PHILADELPHIA DISTILLING, LLC. ALL RIGHTS RESERVED.",
+    "source_urls": [
+      "https://bluecoatgin.com",
+      "https://bluecoatgin.com/press"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "bluecollarmercantile.com",
+    "company_name": "Blue Collar Mercantile",
+    "website": "https://bluecollarmercantile.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "sales@bluecollarmercantile.com",
+        "confidence": "high",
+        "source_url": "https://bluecollarmercantile.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "sales@bluecollarmercantile.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bluecollarmercantile.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bluecollarmercantile.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Work & western boots, workwear and apparel for men, women & kids in Winchester, VA. Carhartt, Red Wing, Ariat, Wrangler & more. Free shipping over $75.",
+    "source_urls": [
+      "https://bluecollarmercantile.com"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "bluecollarreloading.com",
+    "company_name": "www.bluecollarreloading.com",
+    "website": "https://www.bluecollarreloading.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.bluecollarreloading.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.bluecollarreloading.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Blue Collar Reloading, BCR, the best place to get your reloading components. We carry Lapua, Berger, Nosler, Sierra, Hornady, and much more. Just check us out.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bluecoolers.com",
+    "company_name": "Blue Coolers",
+    "website": "https://bluecoolers.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://bluecoolers.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bluecoolers.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bluecoolers.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bluecoolers.com/pages/contact",
+        "action": "/contact#ContactForm__template--16391859077203__contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "At Blue Coolers we provide high quality rotomolded 10-day ice coolers, drinkware and other outdoor products. We aim to provide quality high performance products at a fraction the price of the leading brands. Our products are rugged, durable heavily insulated and come with a 5 year warranty and 90 Mo",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bluecopperslc.com",
+    "company_name": "Blue Copper Coffee",
+    "website": "https://bluecopperslc.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "contact@bluecopperslc.com",
+        "confidence": "highest",
+        "source_url": "https://bluecopperslc.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2018-11-08",
+        "context_snippet": "578 South 500 West, Salt Lake City UT, 84115, United States contact@bluecopperslc.com"
+      },
+      {
+        "address": "order@bluecopperslc.com",
+        "confidence": "highest",
+        "source_url": "https://bluecopperslc.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2020-04-30",
+        "context_snippet": "79 West 900 South, Salt Lake City, UT, 84101, United States order@bluecopperslc.com"
+      }
+    ],
+    "role_emails": [
+      "contact@bluecopperslc.com",
+      "order@bluecopperslc.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bluecopperslc.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bluecopperslc.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2020-04-30"
+      },
+      {
+        "url": "https://bluecopperslc.com/press",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2018-11-08"
+      },
+      {
+        "url": "https://bluecopperslc.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2020-04-30"
+      },
+      {
+        "url": "https://bluecopperslc.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bluecopperslc.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bluecopperslc.com/contact",
+        "action": "https://bluecopperslc.squarespace.com",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://bluecopperslc.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Blue Copper Coffee",
+    "source_urls": [
+      "https://bluecopperslc.com/about",
+      "https://bluecopperslc.com/press",
+      "https://bluecopperslc.com/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bluecorncandles.com",
+    "company_name": "Bluecorn Candles",
+    "website": "https://bluecorncandles.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "sales@bluecorncandles.com",
+        "confidence": "high",
+        "source_url": "https://bluecorncandles.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "sales@bluecorncandles.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bluecorncandles.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bluecorncandles.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bluecorncandles.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bluecorncandles.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bluecorncandles.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bluecorncandles.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bluecorncandles.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Beeswax Candles: Tapers, Pillars, Tea Lights, Votives and jar candles. Luxury scented candles made with vegan coconut wax and nontoxic fragrance. Unique Candle Holders & Gifts. Bulk Discounts, Free Shipping & Wholesale Available.",
+    "source_urls": [
+      "https://bluecorncandles.com",
+      "https://bluecorncandles.com/about",
+      "https://bluecorncandles.com/about-us",
+      "https://bluecorncandles.com/policies/contact-information"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "bluecubebaths.com",
+    "company_name": "BlueCube Cold Plunge Tubs",
+    "website": "https://bluecubebaths.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Our Tubs Drop",
+        "title": null,
+        "email": "info@bluecubebaths.com",
+        "source_url": "https://bluecubebaths.com",
+        "association": "proximity"
+      }
+    ],
+    "people": [
+      {
+        "name": "Our Tubs Drop",
+        "title": null,
+        "email": "info@bluecubebaths.com",
+        "source_url": "https://bluecubebaths.com",
+        "association": "proximity"
+      }
+    ],
+    "emails": [
+      {
+        "address": "info@bluecubebaths.com",
+        "confidence": "highest",
+        "source_url": "https://bluecubebaths.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Handbuilt cold plunge tubs. Redmond, Oregon. (541) 512-4012 info@bluecubebaths.com Our Tubs Drop Deep"
+      }
+    ],
+    "role_emails": [
+      "info@bluecubebaths.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bluecubebaths.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bluecubebaths.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bluecubebaths.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bluecubebaths.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bluecubebaths.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Shop the best cold plunge tub for home & business. With commercial-grade chillers, RiverMode flow, ozone sanitation, energy-efficient | Ice Bath Tub",
+    "source_urls": [
+      "https://bluecubebaths.com",
+      "https://bluecubebaths.com/about",
+      "https://bluecubebaths.com/contact",
+      "https://bluecubebaths.com/pages/contact",
+      "https://bluecubebaths.com/pages/about"
+    ],
+    "reason": null,
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "blueculturetees.com",
+    "company_name": "Blue Culture Tees",
+    "website": "https://blueculturetees.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": "We tested 15 instant withdrawal casinos and fast payout casinos for U.S. players. See the fastest crypto cashouts, real bonuses, and honest payout times for 2026.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bluecutaprons.com",
+    "company_name": "BlueCut Aprons",
+    "website": "https://bluecutaprons.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@bluecutaprons.com",
+        "confidence": "highest",
+        "source_url": "https://bluecutaprons.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "can reach us Monday - Friday 9am-4pm. TEL. 213-536-5192 info@bluecutaprons.com To inquire about wholesale and custom orders, please fill"
+      }
+    ],
+    "role_emails": [
+      "info@bluecutaprons.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bluecutaprons.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bluecutaprons.com/pages/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bluecutaprons.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bluecutaprons.com",
+        "action": "/contact#ContactForm-template--18286431895686__contact_form_BHcPF9",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Shop durable workwear aprons designed for chefs, servers, and hospitality teams. Premium fabrics, smart fits, and styles built for busy kitchens.",
+    "source_urls": [
+      "https://bluecutaprons.com",
+      "https://bluecutaprons.com/pages/press",
+      "https://bluecutaprons.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bluedeltajeans.com",
+    "company_name": "Blue Delta Jeans",
+    "website": "https://www.bluedeltajeans.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.bluedeltajeans.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bluedeltajeans.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bluedeltajeans.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bluedeltajeans.com/blogs/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.bluedeltajeans.com/pages/contact",
+        "action": "/contact#contact_form_gufp8CH6T5",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Bespoke Raw Denim Jeans. Every Blue Delta Jean is made in Tupelo, Mississippi using premier raw denim, many of which are grown and milled here in the United States.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bluediamondshopping.com",
+    "company_name": "The Cookware Company (USA), LLC",
+    "website": "https://bluediamondshopping.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "bluediamondstore.com",
+    "company_name": "Blue Diamond Almonds Nut & Gift Shop",
+    "website": "https://bluediamondstore.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://bluediamondstore.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bluediamondstore.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bluediamondstore.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bluediamondstore.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bluediamondstore.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bluediamondstore.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Welcome to Blue Diamond Almonds",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "blueduckshearling.com",
+    "company_name": "www.blueduckshearling.com",
+    "website": "https://www.blueduckshearling.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "monica@blueduckshearling.com",
+        "confidence": "highest",
+        "source_url": "https://www.blueduckshearling.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ct Us Monday - Friday 9am-5pm EST +1 212 268 3122 monica@blueduckshearling.com Follow us"
+      }
+    ],
+    "role_emails": [
+      "monica@blueduckshearling.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.blueduckshearling.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.blueduckshearling.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.blueduckshearling.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.blueduckshearling.com/pages/contact-us",
+        "action": "/contact#ContactForm-template--16758227665128__contact-form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Shop our great selection of luxury women's shearling coats & fur outerwear. Sumptuously stylish, timeless outerwear that\u2019s lightweight & warm. Available in Plus sizes. Free Shipping.",
+    "source_urls": [
+      "https://www.blueduckshearling.com",
+      "https://www.blueduckshearling.com/pages/about-us",
+      "https://www.blueduckshearling.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "blueelan.com",
+    "company_name": "Blue \u00c9lan Records",
+    "website": "https://blueelan.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "aandr@blueelan.com",
+        "confidence": "highest",
+        "source_url": "https://blueelan.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2021-05-17",
+        "context_snippet": "any way related to the submission. Contact our A&R team aandr@blueelan.com Press Inquiries Please contact Melissa Dragich-Cordero a"
+      },
+      {
+        "address": "info@blueelan.com",
+        "confidence": "highest",
+        "source_url": "https://blueelan.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "mdragichcordero@blueelan.com",
+        "confidence": "highest",
+        "source_url": "https://blueelan.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2021-05-17",
+        "context_snippet": "ress Inquiries Please contact Melissa Dragich-Cordero at: mdragichcordero@blueelan.com Account Store"
+      },
+      {
+        "address": "orders@blueelan.com",
+        "confidence": "highest",
+        "source_url": "https://blueelan.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "aandr@blueelan.com",
+      "info@blueelan.com",
+      "mdragichcordero@blueelan.com",
+      "orders@blueelan.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://blueelan.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blueelan.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2021-06-21"
+      },
+      {
+        "url": "https://blueelan.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2014-10-12"
+      },
+      {
+        "url": "https://blueelan.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2021-05-17"
+      },
+      {
+        "url": "https://blueelan.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blueelan.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blueelan.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://blueelan.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://blueelan.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Helping artists take back the music business since 2014. Home to Ozomatli, Jesse Dayton, Soul Asylum, Jon Anderson, Cherie Currie & Brie Darling, Fanny Walked The Earth, Rita Coolidge, Rod Gator, Chelsea Williams, and more.",
+    "source_urls": [
+      "https://blueelan.com",
+      "https://blueelan.com/contact",
+      "https://blueelan.com/pages/about",
+      "https://blueelan.com/pages/contact-us",
+      "https://blueelan.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "bluefinsupboards.us",
+    "company_name": "Bluefin SUP",
+    "website": "https://bluefinsupboards.us",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://bluefinsupboards.us",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bluefinsupboards.us/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bluefinsupboards.us/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bluefinsupboards.us/collections/sup-accessories/products/high-pressure-electric-sup-pump",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bluefinsupboards.us/pages/contact-us",
+        "action": "/contact#template--17504750272757__form-contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Bluefin SUP offers premium stand-up paddle boards and accessories. Browse our selection of high-quality SUP paddle boards and find the perfect board for your next adventure",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "bluefishaquarium.com",
+    "company_name": "Blue Fish Aquarium",
+    "website": "https://bluefishaquarium.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "orders@bluefishaquarium.com",
+        "confidence": "highest",
+        "source_url": "https://bluefishaquarium.com/apps/pages/locations/blue-fish-aquarium",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Directions Contact Phone: (616) 667-2583 Email: orders@bluefishaquarium.com Store Hours Mond"
+      }
+    ],
+    "role_emails": [
+      "orders@bluefishaquarium.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bluefishaquarium.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bluefishaquarium.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2019-02-10"
+      },
+      {
+        "url": "https://bluefishaquarium.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bluefishaquarium.com/apps/pages/locations/blue-fish-aquarium",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bluefishaquarium.com/community/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Aquarium & Reptile supplies for freshwater & saltwater aquariums, reptiles and amphibians. We are hobbyists and use at home what we sell in our store.",
+    "source_urls": [
+      "https://bluefishaquarium.com/apps/pages/locations/blue-fish-aquarium"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "bluefishclothing.com",
+    "company_name": "Blue Fish Clothing",
+    "website": "https://www.bluefishclothing.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.bluefishclothing.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bluefishclothing.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2016-10-30"
+      },
+      {
+        "url": "https://www.bluefishclothing.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Organic and natural hand printed lagenlook clothing. Layering with creativity and comfort no matter where you live or what the time of year, Blue Fish Clothing is made to mix through seasons and time, creating the ultimate personal wardrobe that allows you to feel truly at ease, made in the USA sinc",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  }
+]
