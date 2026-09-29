@@ -1,0 +1,1471 @@
+[
+  {
+    "company_domain": "bijanmustardson.com",
+    "company_name": "Bijan Mustardson",
+    "website": "https://bijanmustardson.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://bijanmustardson.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bijanmustardson.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bijanmustardson.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Finally, a gourmet Dijon mustard from football running back Bijan Robinson. It's smooth and rich with a Texas kick. Buy some today and get ready to win the taste bud championship!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "bijoubuild.com",
+    "company_name": "Bijou Build",
+    "website": "https://bijoubuild.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customers@bijoubuild.com",
+        "confidence": "highest",
+        "source_url": "https://bijoubuild.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "eo attachments to your inquiry, please send us an email at customers@bijoubuild.com rather than using the contact form above."
+      },
+      {
+        "address": "press@bijoubuild.com",
+        "confidence": "highest",
+        "source_url": "https://bijoubuild.com/pages/press",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "press for its adaptability. For press inquiries email us at press@bijoubuild.com Trusted by Families, Recognized by Experts Our award-winnin"
+      }
+    ],
+    "role_emails": [
+      "customers@bijoubuild.com",
+      "press@bijoubuild.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bijoubuild.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bijoubuild.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bijoubuild.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bijoubuild.com/pages/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bijoubuild.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Bijou Build is a revolutionary outdoor play structure for all ages from 3-103. Enjoy endless, modular fun with the Mainstay, Duo Rambler, Sway, & more.",
+    "source_urls": [
+      "https://bijoubuild.com/pages/contact",
+      "https://bijoubuild.com/pages/press"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "bijouxboutiquenj.com",
+    "company_name": "Bijoux Boutique NJ",
+    "website": "https://bijouxboutiquenj.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://bijouxboutiquenj.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bijouxboutiquenj.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bijouxboutiquenj.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bijouxboutiquenj.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Owned and managed by Lauren Sorrentino and Gwendolyn Esposito, Bijoux Boutique brings sophistication and clean feminine styles to help women feel their best and most confident.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bijouxbycatherine.com",
+    "company_name": "bijouxbycatherine.com",
+    "website": "https://bijouxbycatherine.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "heather@bijouxbycatherine.com",
+        "confidence": "high",
+        "source_url": "https://bijouxbycatherine.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Subscribe Contact us heather@bijouxbycatherine.com PO Box 68 Summerfield, NC 27358 (336) 355-8163\u202c"
+      }
+    ],
+    "role_emails": [
+      "heather@bijouxbycatherine.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bijouxbycatherine.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bijouxbycatherine.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bijouxbycatherine.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Meet your new favorite ring brand \u2728 Specializing in size inclusive rings, Bijoux is made with all 14k gold fill and sterling silver. Add some color to your jewelry game with the most unique stone necklaces around - we guarantee it. $1 from every order is donated to the Michael J Fox Flundation for P",
+    "source_urls": [
+      "https://bijouxbycatherine.com",
+      "https://bijouxbycatherine.com/pages/about-us",
+      "https://bijouxbycatherine.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bikase.com",
+    "company_name": "BiKASE",
+    "website": "https://bikase.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@bikase.com",
+        "confidence": "highest",
+        "source_url": "https://bikase.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2017-10-04",
+        "context_snippet": "factures defect for 1 year from date of purchase. Contact info@bikase.com with any issues. Send us a Message Name"
+      },
+      {
+        "address": "chad@bikase.com",
+        "confidence": "high",
+        "source_url": "https://bikase.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "chad@bikase.com",
+      "info@bikase.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bikase.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bikase.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2017-10-04"
+      },
+      {
+        "url": "https://bikase.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2022-09-25"
+      },
+      {
+        "url": "https://bikase.com/pages/about-bikase",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bikase.com/about",
+        "action": "http://bikase.com/about/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://bikase.com/contact",
+        "action": "https://bikase.com/contact/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Whether for an extended adventure, riding for exercise, commuting, training, or trail riding, we delight in designing practical accessories for you and your ride.",
+    "source_urls": [
+      "https://bikase.com",
+      "https://bikase.com/about",
+      "https://bikase.com/contact",
+      "https://bikase.com/pages/about-bikase"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "bikeathletic.com",
+    "company_name": "Bike Athletic",
+    "website": "https://www.bikeathletic.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@bikeathletic.com",
+        "confidence": "highest",
+        "source_url": "https://www.bikeathletic.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "s Reach out to the BIKE Team! E-Mail Support: support@bikeathletic.com Customer service inquiries are responded to Monday-Friday f"
+      }
+    ],
+    "role_emails": [
+      "support@bikeathletic.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.bikeathletic.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bikeathletic.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bikeathletic.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bikeathletic.com/pages/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.bikeathletic.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Unleash your power with BIKE\u00ae Athletic. Discover the original jockstrap & premium athletic apparel, built for performance & classic comfort since 1874.",
+    "source_urls": [
+      "https://www.bikeathletic.com",
+      "https://www.bikeathletic.com/pages/contact-us",
+      "https://www.bikeathletic.com/pages/about-us",
+      "https://www.bikeathletic.com/pages/press"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "bikeberry.com",
+    "company_name": "BikeBerry",
+    "website": "https://www.bikeberry.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@bikeberry.com",
+        "confidence": "highest",
+        "source_url": "https://www.bikeberry.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Need help? Call us 1.800.317.0479 support@bikeberry.com Follow Us Facebook Twitter"
+      }
+    ],
+    "role_emails": [
+      "support@bikeberry.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.bikeberry.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bikeberry.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bikeberry.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bikeberry.com/pages/about-bikeberry",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bikeberry.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "BikeBerry is the Motorized Bike superstore! We offer the largest selection of Gas Bicycles, Bike Engine Kits, Gas Bikes, Bicycle Motors Accessories and High Performance Parts to make you Motor Bicycle that fastest on the block. We have the best deals on Unicycles, Mini Dirt Bikes and Beach Cruisers!",
+    "source_urls": [
+      "https://www.bikeberry.com",
+      "https://www.bikeberry.com/about-us",
+      "https://www.bikeberry.com/contact",
+      "https://www.bikeberry.com/pages/about-bikeberry",
+      "https://www.bikeberry.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bikecaveny.com",
+    "company_name": "The Bike Cave",
+    "website": "https://bikecaveny.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://bikecaveny.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bikecaveny.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2023-03-25"
+      },
+      {
+        "url": "https://bikecaveny.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bikecaveny.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bikecaveny.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bikecaveny.com/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://bikecaveny.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Discover The Bike Cave in the heart of New York \u2013 your ultimate destination for all things cycling. From top-notch bike sales and repairs to a wide selection of accessories, we've got your two-wheeled adventures covered. Visit us today and embark on a journey of pedal-powered exploration.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "bikecraze.com",
+    "company_name": "Bikecraze | Bike Shop",
+    "website": "https://bikecraze.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customerservice@bikecraze.com",
+        "confidence": "highest",
+        "source_url": "https://bikecraze.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Get in touch 714-744-0266 Text:(714) 747-9585 customerservice@bikecraze.com BIKECRAZE 1171 N Kraemer Blvd Anaheim, CA 92806"
+      }
+    ],
+    "role_emails": [
+      "customerservice@bikecraze.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bikecraze.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bikecraze.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bikecraze.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bikecraze.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "We live in the Cayman Islands and purchased an SE bike for our son (LA Big Ripper); despite not being able to physically see the bike, it arrived and was just as beautiful as displayed on the website.\nMs. Sheri and her team spent time answering all of our questions prior to purchase. Their Customer ",
+    "source_urls": [
+      "https://bikecraze.com",
+      "https://bikecraze.com/pages/about-us",
+      "https://bikecraze.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bikeexif.com",
+    "company_name": "Bike EXIF Shop",
+    "website": "https://shop.bikeexif.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://shop.bikeexif.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.bikeexif.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://shop.bikeexif.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "BikeEXIF custom motorcycle tee shirt shop offers a wide collection of high quality, stylish tees for riders and fans of cafe racers, scramblers and bobbers. New motorcycle designs added weekly.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "bikeleague.org",
+    "company_name": "Bike League | League of American Bicyclists",
+    "website": "https://shop.bikeleague.org",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://shop.bikeleague.org",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "New biking gear from the League of American Bicyclists",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "bikemanperformance.com",
+    "company_name": "Bikeman Performance",
+    "website": "https://www.bikemanperformance.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Jordy Reed",
+        "title": null,
+        "email": "tom@bikemanperformance.com",
+        "source_url": "https://www.bikemanperformance.com/pages/contact",
+        "association": "proximity"
+      },
+      {
+        "name": "Phone Sales",
+        "title": null,
+        "email": "obby@bikemanperformance.com",
+        "source_url": "https://www.bikemanperformance.com/pages/contact",
+        "association": "proximity"
+      }
+    ],
+    "people": [
+      {
+        "name": "Jordy Reed",
+        "title": null,
+        "email": "tom@bikemanperformance.com",
+        "source_url": "https://www.bikemanperformance.com/pages/contact",
+        "association": "proximity"
+      },
+      {
+        "name": "Phone Sales",
+        "title": null,
+        "email": "obby@bikemanperformance.com",
+        "source_url": "https://www.bikemanperformance.com/pages/contact",
+        "association": "proximity"
+      }
+    ],
+    "emails": [
+      {
+        "address": "bobby@bikemanperformance.com",
+        "confidence": "high",
+        "source_url": "https://www.bikemanperformance.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "jordy@bikemanperformance.com",
+        "confidence": "high",
+        "source_url": "https://www.bikemanperformance.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ink: tom@bikemanperformance.com Jordy Reed - SALES/TECH Jordy@bikemanperformance.com BUSINESS HOURS & LOCATION: Monday-Friday 9:00 AM"
+      },
+      {
+        "address": "obby@bikemanperformance.com",
+        "confidence": "high",
+        "source_url": "https://www.bikemanperformance.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "R&D, Torque link Bobby Maxey - Online & Phone Sales: b obby@bikemanperformance.com Tom Neumann - SALES @ Product Tech for Bikeman & TorqueLi"
+      },
+      {
+        "address": "tom@bikemanperformance.com",
+        "confidence": "high",
+        "source_url": "https://www.bikemanperformance.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "om Neumann - SALES @ Product Tech for Bikeman & TorqueLink: tom@bikemanperformance.com Jordy Reed - SALES/TECH Jordy@bikemanperformance.com"
+      }
+    ],
+    "role_emails": [
+      "bobby@bikemanperformance.com",
+      "jordy@bikemanperformance.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.bikemanperformance.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bikemanperformance.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2024-06-06"
+      },
+      {
+        "url": "https://www.bikemanperformance.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bikemanperformance.com/products/rapid-response-team-primary-clutch-for-polaris-xp-900-xp-1000-general-sku-930170",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "At Bikeman Performance is your one stop shop, dedicated to giving you the best performance parts for your sxs or snowmobile. We manufacture and sell clutch kits, exhausts, ecu tuning, and motor modifications. This is not just our job but our passion! Bringing years of experience making the best prod",
+    "source_urls": [
+      "https://www.bikemanperformance.com/pages/contact"
+    ],
+    "reason": null,
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bikepakmart.com",
+    "company_name": "Bikepakmart",
+    "website": "https://bikepakmart.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "sales@bikepakmart.com",
+        "confidence": "highest",
+        "source_url": "https://bikepakmart.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "sales@bikepakmart.com +1 (224)-619-7888"
+      }
+    ],
+    "role_emails": [
+      "sales@bikepakmart.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bikepakmart.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bikepakmart.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2019-11-13"
+      },
+      {
+        "url": "https://bikepakmart.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bikepakmart.com/collections/amazon-best-seller-n/products/bv-bike-floor-pump-160-psi-high-pressure-17-inch-petite-bv-gf55s-yl",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bikepakmart.com/pages/contact-us",
+        "action": "/contact#ContactForm-template--22074792804606__contact_form_Cn9bjT",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Competitive Price for Wide Range of Bike Gears for all Bikers!",
+    "source_urls": [
+      "https://bikepakmart.com",
+      "https://bikepakmart.com/pages/contact-us",
+      "https://bikepakmart.com/collections/amazon-best-seller-n/products/bv-bike-floor-pump-160-psi-high-pressure-17-inch-petite-bv-gf55s-yl"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bikepretty.com",
+    "company_name": "Bike Pretty",
+    "website": "https://bikepretty.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@bikepretty.com",
+        "confidence": "highest",
+        "source_url": "https://bikepretty.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Bike Pretty PO Box 401199 San Francisco, CA 94140 EMAIL info@bikepretty.com PHONE (415) 712-7273 Voicemail only \u2014 all calls are scree"
+      }
+    ],
+    "role_emails": [
+      "info@bikepretty.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bikepretty.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bikepretty.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bikepretty.com/pages/about-bikepretty",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bikepretty.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bikepretty.com/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://bikepretty.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Shop the Straw Hat Bike Helmet, as seen on Martha Stewart. Cute bike helmets that look like hats. US CPSC certified bicycle helmets for stylish women. Free shipping and free returns for US customers!",
+    "source_urls": [
+      "https://bikepretty.com",
+      "https://bikepretty.com/contact",
+      "https://bikepretty.com/pages/about-bikepretty",
+      "https://bikepretty.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bikerlifeusa.com",
+    "company_name": "BIKER LIFE CLOTHING",
+    "website": "https://bikerlifeusa.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://bikerlifeusa.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bikerlifeusa.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bikerlifeusa.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bikerlifeusa.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "The Leader in Biker Apparel, T-Shirts & Clothing | Motorcycle Event Apparel | Big and Tall Biker Shirts | Funny Biker Tees | Men's Biker Apparel | Women's Biker Apparel | 2025 Bike Week T-Shirts | 2025 Bike Week Hats Pins & Patches | 2020 - 2025 Motorcycle Event Apparel, T-Shirts, & Novelty.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bikeshedmoto.com",
+    "company_name": "Bike Shed Moto Co. USA",
+    "website": "https://bikeshedmoto.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "eventsus@bikeshedmoto.com",
+        "confidence": "highest",
+        "source_url": "https://bikeshedmoto.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "membershipUS@bikeshedmoto.com Event Space Hire Enquiries eventsUS@bikeshedmoto.com In-Store, Online Shop, & General Enquiries shop@bikeshedmo"
+      },
+      {
+        "address": "membershipus@bikeshedmoto.com",
+        "confidence": "highest",
+        "source_url": "https://bikeshedmoto.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "il us directly: Phone 213 465 7661 Membership Enquiries membershipUS@bikeshedmoto.com Event Space Hire Enquiries eventsUS@bikeshedmoto.com In-St"
+      },
+      {
+        "address": "shop@bikeshedmoto.com",
+        "confidence": "highest",
+        "source_url": "https://bikeshedmoto.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ikeshedmoto.com In-Store, Online Shop, & General Enquiries shop@bikeshedmoto.com * * Available Monday- Friday {formbuilder"
+      }
+    ],
+    "role_emails": [
+      "eventsus@bikeshedmoto.com",
+      "membershipus@bikeshedmoto.com",
+      "shop@bikeshedmoto.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bikeshedmoto.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bikeshedmoto.com/blogs/journal/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bikeshedmoto.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Bike Shed Moto Co. USA",
+    "source_urls": [
+      "https://bikeshedmoto.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bikeskinz.com",
+    "company_name": "Bikeskinz",
+    "website": "https://bikeskinz.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "bikeskinz@bikeskinz.com",
+        "confidence": "highest",
+        "source_url": "https://bikeskinz.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Close Contact e-mail us at: Bikeskinz@Bikeskinz.com or use form below. Bikeskinz Design Studio 9716 Hightowe"
+      }
+    ],
+    "role_emails": [
+      "bikeskinz@bikeskinz.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bikeskinz.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bikeskinz.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bikeskinz.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "World leader in Motorcycle Vinyl Wraps. Get the best wrap kits for your GSXR, CBR, Ninja, Harley Davidson, Yamaha, and other popular brands/models.",
+    "source_urls": [
+      "https://bikeskinz.com",
+      "https://bikeskinz.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "bikesxpress.com",
+    "company_name": "Bikes Xpress",
+    "website": "https://www.bikesxpress.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "robots_disallowed",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "biketowleash.com",
+    "company_name": "Bike Tow Leash",
+    "website": "https://biketowleash.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@biketowleash.com",
+        "confidence": "highest",
+        "source_url": "https://biketowleash.com/pages/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ON Engineering, Inc. Have Questions or Comments? Email: info@biketowleash.com For more about raising service dogs and training, see: ne"
+      },
+      {
+        "address": "mike@biketowleash.com",
+        "confidence": "highest",
+        "source_url": "https://biketowleash.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@biketowleash.com",
+      "mike@biketowleash.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://biketowleash.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://biketowleash.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://biketowleash.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Bike Tow Leash is the original dog bike leash designed for hands-free, tangle-free rides. Keep your dog safe and active while biking together.",
+    "source_urls": [
+      "https://biketowleash.com/pages/about",
+      "https://biketowleash.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bikiniaddiction.com",
+    "company_name": "MyBikiniAddiction",
+    "website": "https://bikiniaddiction.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "bikinibird.com",
+    "company_name": "Bikinibird",
+    "website": "https://bikinibird.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@bikinibird.com",
+        "confidence": "highest",
+        "source_url": "https://bikinibird.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2015-04-21",
+        "context_snippet": "Contact General Inquiries | info@bikinibird.com Sales | sales@bikinibird.com Name * Name"
+      },
+      {
+        "address": "sales@bikinibird.com",
+        "confidence": "highest",
+        "source_url": "https://bikinibird.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2015-04-21",
+        "context_snippet": "act General Inquiries | info@bikinibird.com Sales | sales@bikinibird.com Name * Name First N"
+      }
+    ],
+    "role_emails": [
+      "info@bikinibird.com",
+      "sales@bikinibird.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bikinibird.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bikinibird.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2015-04-21"
+      },
+      {
+        "url": "https://bikinibird.com/blogs/bikinibird-blog/golden-trip-staff-picks",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bikinibird.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bikinibird.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bikinibird.com/contact",
+        "action": "https://taj-barr-9sm3.squarespace.com",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://bikinibird.com/blogs/bikinibird-blog/golden-trip-staff-picks",
+        "action": "/blogs/bikinibird-blog/golden-trip-staff-picks/comments#comment_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Find your perfect suit at Bikinibird, a women-owned Hawaii swim boutique. Featuring Benoa Swim, L*Space, bond-eye and more.",
+    "source_urls": [
+      "https://bikinibird.com/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "bikinidesignclub.com",
+    "company_name": "Bikini Design Club",
+    "website": "https://bikinidesignclub.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "shop@bikinidesignclub.com",
+        "confidence": "highest",
+        "source_url": "https://bikinidesignclub.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "shop@bikinidesignclub.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bikinidesignclub.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bikinidesignclub.com/blogs/media-contents/diy-bikini-under-5-bikini-design-club",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bikinidesignclub.com/blogs/media-contents/sew-along-bikini-pattern-top-winter-bikini-design-club",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bikinidesignclub.com/blogs/media-contents/diy-bikini-sewing-reversible-bikini-pattern-top-triangle-beginner-friendly",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bikinidesignclub.com/blogs/media-contents",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bikinidesignclub.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bikinidesignclub.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Designing by passion, with speci\ufb01c design features to enable the Bikinis Patterns and Swimsuit pattern to \ufb01t good on your body shape. Find a wide range of Swimsuits patterns, Bikini patterns, Activewear patterns and \ufb01nally kids bikini patterns. Detailed sew alongs to help you, even if you're a begin",
+    "source_urls": [
+      "https://bikinidesignclub.com",
+      "https://bikinidesignclub.com/blogs/media-contents/diy-bikini-under-5-bikini-design-club",
+      "https://bikinidesignclub.com/blogs/media-contents/sew-along-bikini-pattern-top-winter-bikini-design-club",
+      "https://bikinidesignclub.com/blogs/media-contents/diy-bikini-sewing-reversible-bikini-pattern-top-triangle-beginner-friendly",
+      "https://bikinidesignclub.com/blogs/media-contents",
+      "https://bikinidesignclub.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 14
+  },
+  {
+    "company_domain": "bikinikill.com",
+    "company_name": "Bikini Kill",
+    "website": "https://shop.bikinikill.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://shop.bikinikill.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Official Bikini Kill Store.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "bikiniland.com",
+    "company_name": "bikiniland",
+    "website": "https://bikiniland.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://bikiniland.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bikiniland.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bikiniland.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bikiniland.com/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bikiniland.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bikiniland.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bikiniland.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bikiniland.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bikiniland.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Bikiniland is Coming Soon!\r\nKeep waiting :)\r\nThe Best for your Summer!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "billabong.com",
+    "company_name": "Billabong",
+    "website": "https://www.billabong.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customerservice@billabong.com",
+        "confidence": "high",
+        "source_url": "https://www.billabong.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Contact Us Contact Us Email: customerservice@billabong.com Phone: 844-790-2278 Available Monday - Friday: 9:00am \u2013 6:0"
+      }
+    ],
+    "role_emails": [
+      "customerservice@billabong.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.billabong.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.billabong.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.billabong.com/blogs/team-womens",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.billabong.com/blogs/team-mens",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Home to Billabong's iconic surf and lifestyle apparel. Shop the latest surf gear, fashion & outdoor clothing for men, women, & kids at Billabong official store.",
+    "source_urls": [
+      "https://www.billabong.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  }
+]
