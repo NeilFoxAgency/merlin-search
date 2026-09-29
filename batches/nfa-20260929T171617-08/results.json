@@ -1,0 +1,1534 @@
+[
+  {
+    "company_domain": "bphacademy.com",
+    "company_name": "Blueprint Hair Academy",
+    "website": "https://bphacademy.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://bphacademy.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bphacademy.com/collections/silk-press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bphacademy.com/pages/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bphacademy.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Blueprint Hair Academy",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "bpisports.com",
+    "company_name": "BPI Sports",
+    "website": "https://bpisports.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@bpisports.com",
+        "confidence": "high",
+        "source_url": "https://bpisports.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@bpisports.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bpisports.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bpisports.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bpisports.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bpisports.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bpisports.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Discover BPI Sports for premium supplements to fuel your workouts. Shop protein, pre-workouts, and more for your fitness journey.",
+    "source_urls": [
+      "https://bpisports.com",
+      "https://bpisports.com/about-us",
+      "https://bpisports.com/pages/about-us",
+      "https://bpisports.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bpkc.com",
+    "company_name": "CoPacking",
+    "website": "https://bpkc.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "bpolishedbeautysupply.com",
+    "company_name": "BPolished Beauty Supply",
+    "website": "https://bpolishedbeautysupply.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "bpratv.com",
+    "company_name": "BPRATV",
+    "website": "https://bpratv.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@bpratv.com",
+        "confidence": "highest",
+        "source_url": "https://bpratv.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "holidays. Call or Email Us Phone: 909-782-8012 Email: info@bpratv.com Order Online Shop 24/7 at our official store: www.bpra"
+      }
+    ],
+    "role_emails": [
+      "info@bpratv.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bpratv.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bpratv.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bpratv.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bpratv.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bpratv.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Shop BPRATV for top-quality rebuilds, engine parts, and assemblies for Yamaha Banshee, Honda TRX, Suzuki LTZ, Polaris RZR, Can-Am Maverick, and more. Fast, reliable service at great prices near you! BPRATV - Yamaha Banshee, Honda TRX, Polaris RZR, Can-Am Maverick & More Engine Rebuilds Parts for Sal",
+    "source_urls": [
+      "https://bpratv.com",
+      "https://bpratv.com/pages/contact",
+      "https://bpratv.com/policies/contact-information",
+      "https://bpratv.com/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "brabions.com",
+    "company_name": "BRABION",
+    "website": "https://brabions.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://brabions.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brabions.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brabions.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brabions.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brabions.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brabions.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://brabions.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Discover BRABION's collection of men's suits, tuxedos, jackets, shirts, and tailored clothing. Timeless style and exceptional craftsmanship for the modern gentleman.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "brabuilders.com",
+    "company_name": "Bra Builders",
+    "website": "https://www.brabuilders.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Email Us",
+        "title": null,
+        "email": "customer.service@brabuilders.com",
+        "source_url": "https://www.brabuilders.com"
+      }
+    ],
+    "people": [
+      {
+        "name": "Email Us",
+        "title": null,
+        "email": "customer.service@brabuilders.com",
+        "source_url": "https://www.brabuilders.com"
+      }
+    ],
+    "emails": [
+      {
+        "address": "customer.service@brabuilders.com",
+        "confidence": "highest",
+        "source_url": "https://www.brabuilders.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "nikkig@brabuilders.com",
+        "confidence": "high",
+        "source_url": "https://www.brabuilders.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "e your story - we look forward to growing with you! Nikki nikkig@brabuilders.com Jolene customer.service@brabuilders.com"
+      },
+      {
+        "address": "u003ecustomer.service@brabuilders.com",
+        "confidence": "high",
+        "source_url": "https://www.brabuilders.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "nikkig@brabuilders.com",
+      "u003ecustomer.service@brabuilders.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.brabuilders.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brabuilders.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Your online go-to for bra making supplies and more: women's lingerie, mens/kids under garments, and tutorials. Empowering sewists of all skill levels to create custom bras. Join the Bra Builder Community for learning and sharing.",
+    "source_urls": [
+      "https://www.brabuilders.com",
+      "https://www.brabuilders.com/pages/about-us"
+    ],
+    "reason": null,
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "braceability.com",
+    "company_name": "BraceAbility",
+    "website": "https://www.braceability.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Email support@braceability.com",
+        "title": null,
+        "email": "support@braceability.com",
+        "source_url": "https://www.braceability.com"
+      }
+    ],
+    "people": [
+      {
+        "name": "Email support@braceability.com",
+        "title": null,
+        "email": "support@braceability.com",
+        "source_url": "https://www.braceability.com"
+      }
+    ],
+    "emails": [
+      {
+        "address": "support@braceability.com",
+        "confidence": "highest",
+        "source_url": "https://www.braceability.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ". Explore Help Center Call (866) 712-7808 Email support@braceability.com Customer Service Customer"
+      }
+    ],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.braceability.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.braceability.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.braceability.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.braceability.com/collections/thigh-and-groin-supports",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.braceability.com/collections/comfort-knit-compression-braces",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.braceability.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.braceability.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.braceability.com/products/pelvic-support-belt",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.braceability.com/products/bariatric-back-support-for-obesity",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.braceability.com/blogs/articles/plus-size-back-pain-support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Medical-grade supports for knee, back, foot, wrist and more, including plus sizes. Same-day shipping directly to your doorstep.",
+    "source_urls": [
+      "https://www.braceability.com",
+      "https://www.braceability.com/about-us",
+      "https://www.braceability.com/contact",
+      "https://www.braceability.com/collections/thigh-and-groin-supports",
+      "https://www.braceability.com/collections/comfort-knit-compression-braces",
+      "https://www.braceability.com/pages/about-us",
+      "https://www.braceability.com/pages/contact-us",
+      "https://www.braceability.com/products/pelvic-support-belt",
+      "https://www.braceability.com/products/bariatric-back-support-for-obesity",
+      "https://www.braceability.com/blogs/articles/plus-size-back-pain-support"
+    ],
+    "reason": null,
+    "pages_fetched": 16
+  },
+  {
+    "company_domain": "brackish.com",
+    "company_name": "Brackish",
+    "website": "https://brackish.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@brackish.com",
+        "confidence": "highest",
+        "source_url": "https://brackish.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "info@brackish.com"
+      },
+      {
+        "address": "weddings@brackish.com",
+        "confidence": "highest",
+        "source_url": "https://brackish.com/pages/customer-support",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "weddings@brackish.com Visit Us 1854 Wallace School Rd"
+      }
+    ],
+    "role_emails": [
+      "info@brackish.com",
+      "weddings@brackish.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://brackish.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brackish.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brackish.com/pages/customer-support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Brackish crafts feather bow ties, jewelry, & more, blending Southern heritage with modern elegance. Shop nature-inspired accessories designed for timeless style.",
+    "source_urls": [
+      "https://brackish.com",
+      "https://brackish.com/pages/about-us",
+      "https://brackish.com/pages/customer-support"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bradleybaseballgloves.com",
+    "company_name": "Bradley Baseball",
+    "website": "https://www.bradleybaseballgloves.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "jeff@bradleybaseballgloves.com",
+        "confidence": "high",
+        "source_url": "https://www.bradleybaseballgloves.com/pages/about-bradley-gloves",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ", for kids who give us a shot. Questions? email us at Jeff@BradleyBaseballGloves.com Subscribe to our emails"
+      }
+    ],
+    "role_emails": [
+      "jeff@bradleybaseballgloves.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.bradleybaseballgloves.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bradleybaseballgloves.com/pages/about-bradley-gloves",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Highest Quality Youth Baseball Gloves. Designed by Major League Ballplayers. All-Leather components in a variety of shapes and designs.",
+    "source_urls": [
+      "https://www.bradleybaseballgloves.com/pages/about-bradley-gloves"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "bradleymountain.com",
+    "company_name": "Bradley Mountain",
+    "website": "https://www.bradleymountain.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Tyler Axtell",
+        "title": "Founder",
+        "email": "tyler@bradleymountain.com",
+        "source_url": "https://www.bradleymountain.com/about"
+      }
+    ],
+    "people": [
+      {
+        "name": "Tyler Axtell",
+        "title": "Founder",
+        "email": "tyler@bradleymountain.com",
+        "source_url": "https://www.bradleymountain.com/about"
+      }
+    ],
+    "emails": [
+      {
+        "address": "tyler@bradleymountain.com",
+        "confidence": "highest",
+        "source_url": "https://www.bradleymountain.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2015-03-17",
+        "context_snippet": "For more information contact: tyler@bradleymountain.com . I am committed to developing new designs an"
+      },
+      {
+        "address": "shipping@bradleymountain.com",
+        "confidence": "high",
+        "source_url": "https://www.bradleymountain.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Contact us For questions and inquiries please email shipping@bradleymountain.com Links About Us FAQ/Returns Jacket S"
+      }
+    ],
+    "role_emails": [
+      "shipping@bradleymountain.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.bradleymountain.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bradleymountain.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2015-03-17"
+      },
+      {
+        "url": "https://www.bradleymountain.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "We make canvas and leather bags to equip you for a life of adventure. Our online store is full of unique goods that we manufacture in the USA.",
+    "source_urls": [
+      "https://www.bradleymountain.com",
+      "https://www.bradleymountain.com/about",
+      "https://www.bradleymountain.com/pages/about-us"
+    ],
+    "reason": null,
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "bradleysmoker.com",
+    "company_name": "Bradley Smoker (USA), Inc.",
+    "website": "https://www.bradleysmoker.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@bradleysmoker.com",
+        "confidence": "highest",
+        "source_url": "https://www.bradleysmoker.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "support@bradleysmoker.com",
+        "confidence": "highest",
+        "source_url": "https://www.bradleysmoker.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "1 866-508-7514 support@bradleysmoker.com *Conditions apply to free shipping promotion"
+      }
+    ],
+    "role_emails": [
+      "info@bradleysmoker.com",
+      "support@bradleysmoker.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.bradleysmoker.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bradleysmoker.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bradleysmoker.com/media",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2017-03-24"
+      },
+      {
+        "url": "https://www.bradleysmoker.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bradleysmoker.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bradleysmoker.com/blogs/press-releases",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.bradleysmoker.com/contact",
+        "action": "/contact#ContactPageForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.bradleysmoker.com/pages/contact",
+        "action": "/contact#ContactPageForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Bradley Smoker offers a variety of best electric food smokers which gives you exciting new ways of cooking outdoors. We didn't invent food smoking, we perfected it. Learn more about food smokers, food smoking recipes and shop online for Bradley Smoker products.",
+    "source_urls": [
+      "https://www.bradleysmoker.com",
+      "https://www.bradleysmoker.com/about",
+      "https://www.bradleysmoker.com/contact",
+      "https://www.bradleysmoker.com/pages/contact",
+      "https://www.bradleysmoker.com/blogs/press-releases"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bradleyssurplus.com",
+    "company_name": "Bradley's Surplus",
+    "website": "https://www.bradleyssurplus.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.bradleyssurplus.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bradleyssurplus.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bradleyssurplus.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bradleyssurplus.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bradleyssurplus.com/pages/our-staff",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Shop Army OCP uniforms, PT gear, custom name tapes & more. Serving Fort Drum & shipping to APO/FPO worldwide. Trusted by active & retired military.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "bradleyusa.com",
+    "company_name": "bradleyusa.com",
+    "website": "https://bradleyusa.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://bradleyusa.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bradleyusa.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Shop online for luxury furniture, architectural finishes, accessories, fine art, fabrics and wallcoverings",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "bradpaisley.com",
+    "company_name": "Brad Paisley Online Store",
+    "website": "https://store.bradpaisley.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://store.bradpaisley.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Officially licensed artist apparel and merchandise.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "bradstoys.com",
+    "company_name": "www.bradstoys.com",
+    "website": "https://www.bradstoys.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customerservice@bradstoys.com",
+        "confidence": "high",
+        "source_url": "https://www.bradstoys.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "525 E Windmill Lane Las Vegas, NV 89123 702-856-0429 customerservice@bradstoys.com"
+      }
+    ],
+    "role_emails": [
+      "customerservice@bradstoys.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.bradstoys.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bradstoys.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Brad's Toys & Collectibles has the most modern and vintage toys, action figures, Funko Pops and comics in the Las Vegas valley. Always buying/selling/trading",
+    "source_urls": [
+      "https://www.bradstoys.com",
+      "https://www.bradstoys.com/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "bradstreetglass.com",
+    "company_name": "BradstreetGlass",
+    "website": "https://www.bradstreetglass.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "contact@bradstreetglass.com",
+        "confidence": "high",
+        "source_url": "https://www.bradstreetglass.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "eland, FL 33805 United States To contact us, email us at Contact@BradstreetGlass.com, or fill out the contact form below. Contact form"
+      },
+      {
+        "address": "jodeliece@bradstreetglass.com",
+        "confidence": "high",
+        "source_url": "https://www.bradstreetglass.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "contact@bradstreetglass.com",
+      "jodeliece@bradstreetglass.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.bradstreetglass.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bradstreetglass.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bradstreetglass.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bradstreetglass.com/pages/about-bradstreet-glass",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bradstreetglass.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.bradstreetglass.com",
+        "action": "/cart/add",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.bradstreetglass.com/about",
+        "action": "/cart/add",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.bradstreetglass.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Stained Glass Sheets and Art Glass Supplies Online. Orders ship carefully packaged in 1 business day. No boxing fee. Free shipping available.",
+    "source_urls": [
+      "https://www.bradstreetglass.com",
+      "https://www.bradstreetglass.com/about",
+      "https://www.bradstreetglass.com/pages/contact-us",
+      "https://www.bradstreetglass.com/policies/contact-information"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "bradsweetracing.com",
+    "company_name": "Brad Sweet Racing",
+    "website": "https://www.bradsweetracing.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.bradsweetracing.com",
+        "page_type": "home",
+        "source_type": "archived",
+        "snapshot_date": "2025-12-10"
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Brad Sweet Racing",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "bradysbakery.com",
+    "company_name": "Brady's Bakery",
+    "website": "https://bradysbakery.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@bradysbakery.com",
+        "confidence": "highest",
+        "source_url": "https://bradysbakery.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "dale, ca 91201 contact us corporate gifts & catering info@bradysbakery.com 213.674.0642 handcrafted in los angeles, ca lgbtq owned & o"
+      }
+    ],
+    "role_emails": [
+      "info@bradysbakery.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bradysbakery.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bradysbakery.com/pages/contact-bradys",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bradysbakery.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bradysbakery.com/pages/contact-bradys",
+        "action": "/contact#form-id-template--17265768792226__main",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "LA's baked to order cookie shop, serving up hand-crafted and plus-sized cookies, bread pudding, and other fun goodies. order on our site for nationwide shipping or pickup. or visit us in person! our philosophy: indulge yourself. live your life. eat more cookies",
+    "source_urls": [
+      "https://bradysbakery.com",
+      "https://bradysbakery.com/pages/contact-bradys",
+      "https://bradysbakery.com/pages/about"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bradystrains.com",
+    "company_name": "Brady's Train Outlet",
+    "website": "https://bradystrains.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@bradystrains.com",
+        "confidence": "highest",
+        "source_url": "https://bradystrains.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2020-02-24",
+        "context_snippet": "ithin the United States): (724) 838-8448 By e-mail: info@bradystrains.com I f we miss your phone call, please leave a message on th"
+      },
+      {
+        "address": "customerservice@bradystrains.com",
+        "confidence": "high",
+        "source_url": "https://bradystrains.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Policy Contact us! Phone: +1 724-838-8448 Email: customerservice@bradystrains.com Copyright \u00a9 2026, Brady's Train Outlet, Inc."
+      }
+    ],
+    "role_emails": [
+      "customerservice@bradystrains.com",
+      "info@bradystrains.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bradystrains.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bradystrains.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2020-02-24"
+      },
+      {
+        "url": "https://bradystrains.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2020-02-24"
+      },
+      {
+        "url": "https://bradystrains.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bradystrains.com/collections/lionel-steam-engine",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bradystrains.com/collections/lionel-steam-engine-sets",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bradystrains.com/collections/rail-king-steam-engines",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bradystrains.com/collections/mth-premier-steam-engines",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bradystrains.com/collections/o-scale-steam-engines",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bradystrains.com/collections/polar-express",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bradystrains.com/pages/contact-us",
+        "action": "/contact?oseid=nEm8My5MBRDWZLKM2Xcd5hRP#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Brady's Train Outlet is a model train company that sells a variety of trains and accessories. Look for a gift or something for yourself. Shop our trains now!",
+    "source_urls": [
+      "https://bradystrains.com",
+      "https://bradystrains.com/contact",
+      "https://bradystrains.com/pages/contact-us",
+      "https://bradystrains.com/collections/lionel-steam-engine",
+      "https://bradystrains.com/collections/lionel-steam-engine-sets",
+      "https://bradystrains.com/collections/rail-king-steam-engines",
+      "https://bradystrains.com/collections/mth-premier-steam-engines",
+      "https://bradystrains.com/collections/o-scale-steam-engines",
+      "https://bradystrains.com/collections/polar-express"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 16
+  },
+  {
+    "company_domain": "bradyunited.org",
+    "company_name": "Brady United",
+    "website": "https://shop.bradyunited.org",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://shop.bradyunited.org",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.bradyunited.org/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.bradyunited.org/collections/team-enough",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Brady United",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "braesidedisplays.com",
+    "company_name": "Braeside Displays",
+    "website": "https://braesidedisplays.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "bpc@braesidedisplays.com",
+        "confidence": "high",
+        "source_url": "https://braesidedisplays.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "orders@braesidedisplays.com",
+        "confidence": "high",
+        "source_url": "https://braesidedisplays.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Bartlett Ave Antioch, IL 60002 847-395-8500 orders@braesidedisplays.com JOIN OUR MAILING LIST Subscribe to our newsletter and"
+      },
+      {
+        "address": "webmaster@braesidedisplays.com",
+        "confidence": "high",
+        "source_url": "https://braesidedisplays.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "tlett Ave Antioch, IL, 60002 Email webmaster@braesidedisplays.com Name Email * Phone numbe"
+      }
+    ],
+    "role_emails": [
+      "bpc@braesidedisplays.com",
+      "orders@braesidedisplays.com",
+      "webmaster@braesidedisplays.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://braesidedisplays.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://braesidedisplays.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://braesidedisplays.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://braesidedisplays.com/collections/ask-the-staff-posters",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.braesidedisplays.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://braesidedisplays.com/pages/about-braeside-displays",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://braesidedisplays.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.braesidedisplays.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Leading US Manufacturer of Quality Point of Purchase and Acrylic Displays. Fast Shipping. Extraordinary Service. Volume Discounts. Custom Solutions. Stock Displays. Standout Design. Services: Custom Displays, Imprinting, Stock Displays.",
+    "source_urls": [
+      "https://braesidedisplays.com",
+      "https://braesidedisplays.com/about-us",
+      "https://braesidedisplays.com/pages/contact",
+      "https://braesidedisplays.com/collections/ask-the-staff-posters",
+      "https://www.braesidedisplays.com/pages/contact",
+      "https://braesidedisplays.com/pages/about-braeside-displays"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "brafittingsbycourt.com",
+    "company_name": "Bra Fittings by Court",
+    "website": "https://brafittingsbycourt.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customerservice@brafittingsbycourt.com",
+        "confidence": "high",
+        "source_url": "https://brafittingsbycourt.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "om bestie (.)(.), we'd love to hear from you! Email us at customerservice@brafittingsbycourt.com or Call us at 385-358-9772 Our store is located at 288 W"
+      }
+    ],
+    "role_emails": [
+      "customerservice@brafittingsbycourt.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://brafittingsbycourt.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brafittingsbycourt.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2016-11-14"
+      },
+      {
+        "url": "https://brafittingsbycourt.com/press",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2019-11-12"
+      },
+      {
+        "url": "https://brafittingsbycourt.com/pages/about-courtney",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brafittingsbycourt.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Offering professional one-on-one and online bra fittings to change people\u2019s lives, one bra fit at a time. Find your true bra size by using our FREE fitting tool.",
+    "source_urls": [
+      "https://brafittingsbycourt.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bragg.com",
+    "company_name": "Bragg",
+    "website": "https://www.bragg.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "press@bragg.com",
+        "confidence": "highest",
+        "source_url": "https://www.bragg.com/pages/press",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Press For all press inquiries please contact: press@bragg.com Give Your Roasted Chickpeas A Flavor Boost"
+      }
+    ],
+    "role_emails": [
+      "press@bragg.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.bragg.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bragg.com/products/metabolism-support-supplement",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bragg.com/pages/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bragg.com/blogs/science/learn-about-olive-oil",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bragg.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.bragg.com/pages/contact",
+        "action": "/contact#contact-form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Since 1912, Bragg has empowered healthier lives with Apple Cider Vinegar, Nutritional Yeast, supplements & seasonings made for natural wellness.",
+    "source_urls": [
+      "https://www.bragg.com/pages/press"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "brahmin.com",
+    "company_name": "Brahmin Leather Works",
+    "website": "https://brahmin.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://brahmin.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brahmin.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2013-10-23"
+      },
+      {
+        "url": "https://brahmin.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2017-02-18"
+      },
+      {
+        "url": "https://brahmin.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2013-11-16"
+      },
+      {
+        "url": "https://brahmin.com/pages/store-locations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brahmin.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://brahmin.com/contact",
+        "action": "/formsmgr/process.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Elevate your everyday look with our designer leather handbags. From classic totes to bold crossbodies, find the perfect piece to fit your style.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  }
+]
