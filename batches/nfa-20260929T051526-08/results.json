@@ -1,0 +1,1298 @@
+[
+  {
+    "company_domain": "billblass.com",
+    "company_name": "Bill Blass",
+    "website": "https://billblass.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "help@billblass.com",
+        "confidence": "highest",
+        "source_url": "https://billblass.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2017-07-22",
+        "context_snippet": ""
+      },
+      {
+        "address": "lisa@billblass.com",
+        "confidence": "high",
+        "source_url": "https://billblass.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2017-07-22",
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "help@billblass.com",
+      "lisa@billblass.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://billblass.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://billblass.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2017-07-22"
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [
+      "https://billblass.com/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "billboardvinyls.com",
+    "company_name": "BillboardVinyls",
+    "website": "https://www.billboardvinyls.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@billboardvinyls.com",
+        "confidence": "highest",
+        "source_url": "https://www.billboardvinyls.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "23-433-1520) Monday - Friday, 9am - 5pm PST or by email at: info@billboardvinyls.com Our phone system will be down through 8/31, please"
+      }
+    ],
+    "role_emails": [
+      "info@billboardvinyls.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.billboardvinyls.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.billboardvinyls.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "BillboardVinyls is your source for billboard vinyls and billboard tarps. We offer repurposed vinyls for sale, wholesale, export, and more.",
+    "source_urls": [
+      "https://www.billboardvinyls.com",
+      "https://www.billboardvinyls.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "billehougartbooks.com",
+    "company_name": "Bille Hougart Books",
+    "website": "https://billehougartbooks.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://billehougartbooks.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://billehougartbooks.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://billehougartbooks.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://billehougartbooks.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Books that identify hallmarks on Native American & Mexican silver jewelry. Thousands of photos -- names, initials & symbols. Navajo, Hopi, Zuni, Taxco.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "billelliff.org",
+    "company_name": "TruthInk Publications",
+    "website": "https://billelliff.org",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "billetworkz.com",
+    "company_name": "Billetworkz",
+    "website": "https://billetworkz.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@billetworkz.com",
+        "confidence": "high",
+        "source_url": "https://billetworkz.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "you don\u2019t hear from us, feel free to email us directly at info@billetworkz.com . First name Last name"
+      }
+    ],
+    "role_emails": [
+      "info@billetworkz.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://billetworkz.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://billetworkz.com/team",
+        "page_type": "team",
+        "source_type": "archived",
+        "snapshot_date": "2018-02-26"
+      },
+      {
+        "url": "https://billetworkz.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://billetworkz.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://billetworkz.com/pages/contact-us",
+        "action": "/contact#template--26352170172698__contact_form_QkxQTX-contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "MAKE IT YOURS. Custom shift knobs and interior upgrades built for your build. Premium materials, unique designs, and endless customization.",
+    "source_urls": [
+      "https://billetworkz.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "billiards.com",
+    "company_name": "Billiards.com, Inc",
+    "website": "https://www.billiards.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "sales@billiards.com",
+        "confidence": "highest",
+        "source_url": "https://www.billiards.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "e to provide you the best service we can. Email sales@billiards.com Phone (800) 959-3947 Visit Our Retail Store"
+      }
+    ],
+    "role_emails": [
+      "sales@billiards.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.billiards.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.billiards.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.billiards.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.billiards.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.billiards.com/collections/team-theme-lights?filter.v.availability=1",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.billiards.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.billiards.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.billiards.com/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.billiards.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Orders Over $75 Ship Free. Billiards.com Rated #1 By Pool Players. Shop Today! Shop Billiards.com Online Today For The Best In Cues, Balls, Cases, Accessories, & More! Same Day Shipping. Free Case with Most Cues. Brands: Predator, Joss, Vector, Players, Lucasi.",
+    "source_urls": [
+      "https://www.billiards.com",
+      "https://www.billiards.com/about",
+      "https://www.billiards.com/about-us",
+      "https://www.billiards.com/contact",
+      "https://www.billiards.com/collections/team-theme-lights?filter.v.availability=1",
+      "https://www.billiards.com/pages/about-us",
+      "https://www.billiards.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "billiardsking.com",
+    "company_name": "Billiards King",
+    "website": "https://www.billiardsking.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "robots_disallowed",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "billiebars.com",
+    "company_name": "BillieBars",
+    "website": "https://billiebars.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@billiebars.com",
+        "confidence": "highest",
+        "source_url": "https://billiebars.com/pages/about-rooftop-tents",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "support@billiebars.com",
+        "confidence": "high",
+        "source_url": "https://billiebars.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "the list of tested covers, or email us to confirm your fit: support@billiebars.com view the guide Built f"
+      }
+    ],
+    "role_emails": [
+      "info@billiebars.com",
+      "support@billiebars.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://billiebars.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://billiebars.com/pages/about-rooftop-tents",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://billiebars.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://billiebars.com/pages/about-billiebars",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://billiebars.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Our truck rack system is lightweight, high strength, easy to install, and made in the USA. High strength, low profile truck bed rack. Compatible with most tonneau covers.",
+    "source_urls": [
+      "https://billiebars.com",
+      "https://billiebars.com/pages/about-rooftop-tents",
+      "https://billiebars.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "billieeilishfragrances.com",
+    "company_name": "Billie Eilish Fragrances",
+    "website": "https://billieeilishfragrances.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://billieeilishfragrances.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Shop exclusive music and merch from the Official Billie Eilish Store. Vinyl, hoodies, tees,  accessories, and more.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "billingham.com",
+    "company_name": "Billingham USA",
+    "website": "https://billingham.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://billingham.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://billingham.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Discover our range of camera bags, laptop bags and travel bags. Made in England with waterproof canvas, brass and real leather details since 1973.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "billiondollarbeauty.com",
+    "company_name": "Billion Dollar Beauty",
+    "website": "https://billiondollarbeauty.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://billiondollarbeauty.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://billiondollarbeauty.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://billiondollarbeauty.com/pages/about-bdb",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://billiondollarbeauty.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://billiondollarbeauty.com/contact",
+        "action": "/contact#contact-us-page",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://billiondollarbeauty.com/pages/contact",
+        "action": "/contact#contact-us-page",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Billion Dollar Beauty",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "billo.app",
+    "company_name": "Billo",
+    "website": "https://billo.app",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://billo.app",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://billo.app/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://billo.app/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://billo.app/intelligence-media-case-study/",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://billo.app/category/social-media-marketing/",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://billo.app/about-us/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "200,000+ videos created. 22,000 brands served. You too can match with our talented creators and get authentic videos optimized for social ads performance.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "billsienkiewiczart.com",
+    "company_name": "Bill Sienkiewicz Art",
+    "website": "https://billsienkiewiczart.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://billsienkiewiczart.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://billsienkiewiczart.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://billsienkiewiczart.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://billsienkiewiczart.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Shop exclusive signed art from Eisner-award winning artist Bill Sienkiewicz.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "billskhakis.com",
+    "company_name": "Bills Khakis",
+    "website": "https://billskhakis.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Email: customer.care@billskhakis.com",
+        "title": null,
+        "email": "customer.care@billskhakis.com",
+        "source_url": "https://billskhakis.com/pages/contact-us"
+      }
+    ],
+    "people": [
+      {
+        "name": "Email: customer.care@billskhakis.com",
+        "title": null,
+        "email": "customer.care@billskhakis.com",
+        "source_url": "https://billskhakis.com/pages/contact-us"
+      }
+    ],
+    "emails": [
+      {
+        "address": "customer.care@billskhakis.com",
+        "confidence": "highest",
+        "source_url": "https://billskhakis.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "-888.954.2547) Monday through Friday, 9am to 5pm EST Email: customer.care@billskhakis.com 170 Pinesbridge Road, Beacon Falls, CT 06403"
+      },
+      {
+        "address": "customercare@billskhakis.com",
+        "confidence": "high",
+        "source_url": "https://billskhakis.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "wholesale@billskhakis.com",
+        "confidence": "high",
+        "source_url": "https://billskhakis.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "customercare@billskhakis.com",
+      "wholesale@billskhakis.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://billskhakis.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://billskhakis.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://billskhakis.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://billskhakis.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "We offer high quality Made in U.S.A. khakis, pants, shirts and accessories with materials produced and sewn in the United States. We create men's apparel that will stand the test of time.",
+    "source_urls": [
+      "https://billskhakis.com",
+      "https://billskhakis.com/pages/about-us",
+      "https://billskhakis.com/pages/contact-us"
+    ],
+    "reason": null,
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "billspipesusa.com",
+    "company_name": "Bill's Pipes",
+    "website": "https://billspipesusa.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@billspipesusa.com",
+        "confidence": "high",
+        "source_url": "https://billspipesusa.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ble to take any custom orders right now. CONTACT US info@billspipesusa.com sales@billspipesusa.com (951) 446-0266 9215 Orco Pkwy, Suit"
+      },
+      {
+        "address": "sales@billspipesusa.com",
+        "confidence": "high",
+        "source_url": "https://billspipesusa.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "orders right now. CONTACT US info@billspipesusa.com sales@billspipesusa.com (951) 446-0266 9215 Orco Pkwy, Suite H Jurupa Valley, CA 92"
+      }
+    ],
+    "role_emails": [
+      "info@billspipesusa.com",
+      "sales@billspipesusa.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://billspipesusa.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://billspipesusa.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://billspipesusa.com/pages/contact",
+        "action": "/contact#ContactForm__template--21447357956384__contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Elevate your ride with Bill's Pipes - home of the top dirt bike exhausts and pipes. Experience legendary performance and quality!",
+    "source_urls": [
+      "https://billspipesusa.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "billsplaceharlem.com",
+    "company_name": "BILL'S PLACE",
+    "website": "https://billsplaceharlem.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://billsplaceharlem.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://billsplaceharlem.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://billsplaceharlem.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Bill Saxton legendary saxophonist performs with the Harlem All-Stars at Bill\u2019s Place Harlem, two sets every Friday & Saturday Night.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "billyboardsmfg.com",
+    "company_name": "www.billyboardsmfg.com",
+    "website": "https://www.billyboardsmfg.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": "Chalkboards, cork boards and dry erase boards, printed and elegantly framed. Menu boards, easels, a-frame signs, sidewalk signs. By billyBoards the USA's leading chalkboard manufacturer.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "billydoemeats.com",
+    "company_name": "BillyDoe Meats",
+    "website": "https://billydoemeats.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@billydoemeats.com",
+        "confidence": "high",
+        "source_url": "https://billydoemeats.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Contact Call Us: 630-912-2127 Email: info@billydoemeats.com Address: 2400 Hassell Rd, Suite 300, Hoffman Estates, IL, 6"
+      },
+      {
+        "address": "sales@billydoemeats.com",
+        "confidence": "high",
+        "source_url": "https://billydoemeats.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@billydoemeats.com",
+      "sales@billydoemeats.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://billydoemeats.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://billydoemeats.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://billydoemeats.com/pages/billydoe-meats-contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://billydoemeats.com/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://billydoemeats.com/pages/billydoe-meats-contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "No need to search for meat delivery near me. Consider us your online butcher shop! We provide the best place online to buy meat. All of our lamb, goat, beef, veal, and chicken are sourced from family farmers and Amish communities. See something we don't have ? Ask us and we can make it! Meat deliver",
+    "source_urls": [
+      "https://billydoemeats.com",
+      "https://billydoemeats.com/contact",
+      "https://billydoemeats.com/pages/billydoe-meats-contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "billyfootwear.com",
+    "company_name": "BILLY Footwear",
+    "website": "https://billyfootwear.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "%20info@billyfootwear.com",
+        "confidence": "high",
+        "source_url": "https://billyfootwear.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "info@billyfootwear.com",
+        "confidence": "high",
+        "source_url": "https://billyfootwear.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "r inquiry once we are back in the office. By email: info@billyfootwear.com By form, see below. Name Phone"
+      }
+    ],
+    "role_emails": [
+      "%20info@billyfootwear.com",
+      "info@billyfootwear.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://billyfootwear.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://billyfootwear.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://billyfootwear.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://billyfootwear.com/blogs/media-bucket",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://billyfootwear.com/pages/contact-us",
+        "action": "/contact#contact-us-page",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "BILLY Footwear creates shoes with zippers designed to be fashionable and functional, revolutionizing how shoes are put on and taken off. Incorporating universal design, BILLY shoes embrace inclusion. No more velcro. No more stuffing your feet into shoes. Step in unobstructed with our drop-in solutio",
+    "source_urls": [
+      "https://billyfootwear.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "billyjealousy.com",
+    "company_name": "Billy Jealousy",
+    "website": "https://www.billyjealousy.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.billyjealousy.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.billyjealousy.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.billyjealousy.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.billyjealousy.com/blogs/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.billyjealousy.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.billyjealousy.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Award-winning men's grooming products for all your shave, beard, face, body and haircare needs.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "billyjoelshop.com",
+    "company_name": "Billy Joel Online Store",
+    "website": "https://billyjoelshop.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://billyjoelshop.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Billy Joel Officially Licensed T-Shirts and Accessories",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "billyreid.com",
+    "company_name": "Billy Reid",
+    "website": "https://www.billyreid.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "emailservice@billyreid.com",
+        "confidence": "high",
+        "source_url": "https://www.billyreid.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "inquirieswholesale@billyreid.com",
+        "confidence": "high",
+        "source_url": "https://www.billyreid.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "emailservice@billyreid.com",
+      "inquirieswholesale@billyreid.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.billyreid.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.billyreid.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.billyreid.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.billyreid.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.billyreid.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.billyreid.com/pages/locations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.billyreid.com/pages/locations#custom",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.billyreid.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.billyreid.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Modern designer men's clothing, outerwear, shoes and accessories, from Billy Reid. Classic American style through a modern lens.",
+    "source_urls": [
+      "https://www.billyreid.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "billysbakerynyc.com",
+    "company_name": "Billy's Bakery",
+    "website": "https://billysbakerynyc.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "orders@billysbakerynyc.com",
+        "confidence": "highest",
+        "source_url": "https://billysbakerynyc.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "akeries. orders@billysbakerynyc.com"
+      }
+    ],
+    "role_emails": [
+      "orders@billysbakerynyc.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://billysbakerynyc.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://billysbakerynyc.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://billysbakerynyc.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://billysbakerynyc.com/pages/bakery-locations-hours",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://billysbakerynyc.com/pages/bakery-locations-hours",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Billy's Bakery NYC is a cherished and loved neighborhood bakery located in three locations across New York City. Billy's Bakery sells homemade baked goods and is known for their outstanding cakes, cupcakes, banana pudding and more.",
+    "source_urls": [
+      "https://billysbakerynyc.com",
+      "https://billysbakerynyc.com/pages/contact-us",
+      "https://billysbakerynyc.com/pages/about-us",
+      "https://billysbakerynyc.com/pages/bakery-locations-hours"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "billysimsbbq.com",
+    "company_name": "Billy Sims BBQ",
+    "website": "https://shop.billysimsbbq.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://shop.billysimsbbq.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.billysimsbbq.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "This website uses cookies to ensure you get the best experience on our website.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "billystringsstore.com",
+    "company_name": "Billy Strings",
+    "website": "https://billystringsstore.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://billystringsstore.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Michigan native Billy Strings is one of music\u2019s most compelling artists. Throughout his renowned career, Strings has released four albums that are \u201ctechnically staggering and deeply emotional\u201d (Wall Street Journal), performed countless sold-out shows and won numerous awards at the GRAMMYs, Internati",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  }
+]
