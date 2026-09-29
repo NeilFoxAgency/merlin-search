@@ -1,0 +1,1883 @@
+[
+  {
+    "company_domain": "braumracing.com",
+    "company_name": "BRAUM Racing",
+    "website": "https://braumracing.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "orders@braumracing.com",
+        "confidence": "high",
+        "source_url": "https://braumracing.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "support@braumracing.com",
+        "confidence": "high",
+        "source_url": "https://braumracing.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ino, CA 91108 (800) 213-6209 support@braumracing.com Information Blog Contact Pr"
+      }
+    ],
+    "role_emails": [
+      "orders@braumracing.com",
+      "support@braumracing.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://braumracing.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://braumracing.com/pages/company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://braumracing.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://braumracing.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Universal Racing Seats | Custom Sport Seats | Custom Brackets | SFI Harnesses | Harness Bars. At BRAUM\u2122, we are passionate about cars and passionate about people. We believe that a love for cars should be all one needs for entrance into the fascinating world of motorsports.",
+    "source_urls": [
+      "https://braumracing.com",
+      "https://braumracing.com/pages/company",
+      "https://braumracing.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "braunschweiger.com",
+    "company_name": "Braunschweiger  Jewelers",
+    "website": "https://braunschweiger.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Kristy Braunschweiger Smith",
+        "title": "Owner",
+        "email": "kristy@braunschweiger.com",
+        "source_url": "https://braunschweiger.com/meet-the-team"
+      }
+    ],
+    "people": [
+      {
+        "name": "Kristy Braunschweiger Smith",
+        "title": "Owner",
+        "email": "kristy@braunschweiger.com",
+        "source_url": "https://braunschweiger.com/meet-the-team"
+      }
+    ],
+    "emails": [
+      {
+        "address": "adam@braunschweiger.com",
+        "confidence": "highest",
+        "source_url": "https://braunschweiger.com/meet-the-team",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "brian@braunschweiger.com",
+        "confidence": "highest",
+        "source_url": "https://braunschweiger.com/meet-the-team",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "caitlin@braunschweiger.com",
+        "confidence": "highest",
+        "source_url": "https://braunschweiger.com/meet-the-team",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "christina@braunschweiger.com",
+        "confidence": "highest",
+        "source_url": "https://braunschweiger.com/meet-the-team",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "crysnel@braunschweiger.com",
+        "confidence": "highest",
+        "source_url": "https://braunschweiger.com/meet-the-team",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "danielle@braunschweiger.com",
+        "confidence": "highest",
+        "source_url": "https://braunschweiger.com/meet-the-team",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "gretchen@braunschweiger.com",
+        "confidence": "highest",
+        "source_url": "https://braunschweiger.com/meet-the-team",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "info@braunschweiger.com",
+        "confidence": "highest",
+        "source_url": "https://braunschweiger.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "am \u2013 6:00pm Thurs : 10:00am \u2013 7:00pm Sat : 10:00am \u2013 5:00pm info@braunschweiger.com Morristown 33 South Street Morr"
+      },
+      {
+        "address": "jazmin@braunschweiger.com",
+        "confidence": "highest",
+        "source_url": "https://braunschweiger.com/meet-the-team",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "jeremy@braunschweiger.com",
+        "confidence": "highest",
+        "source_url": "https://braunschweiger.com/meet-the-team",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "joanna@braunschweiger.com",
+        "confidence": "highest",
+        "source_url": "https://braunschweiger.com/meet-the-team",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "kimberly@braunschweiger.com",
+        "confidence": "highest",
+        "source_url": "https://braunschweiger.com/meet-the-team",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "kristy@braunschweiger.com",
+        "confidence": "highest",
+        "source_url": "https://braunschweiger.com/meet-the-team",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "lorie@braunschweiger.com",
+        "confidence": "highest",
+        "source_url": "https://braunschweiger.com/meet-the-team",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "luis.bucaro@braunschweiger.com",
+        "confidence": "highest",
+        "source_url": "https://braunschweiger.com/meet-the-team",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "luis@braunschweiger.com",
+        "confidence": "highest",
+        "source_url": "https://braunschweiger.com/meet-the-team",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "mariana@braunschweiger.com",
+        "confidence": "highest",
+        "source_url": "https://braunschweiger.com/meet-the-team",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "mary@braunschweiger.com",
+        "confidence": "highest",
+        "source_url": "https://braunschweiger.com/meet-the-team",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "robin@braunschweiger.com",
+        "confidence": "highest",
+        "source_url": "https://braunschweiger.com/meet-the-team",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "adam@braunschweiger.com",
+      "brian@braunschweiger.com",
+      "caitlin@braunschweiger.com",
+      "christina@braunschweiger.com",
+      "crysnel@braunschweiger.com",
+      "danielle@braunschweiger.com",
+      "gretchen@braunschweiger.com",
+      "info@braunschweiger.com",
+      "jazmin@braunschweiger.com",
+      "jeremy@braunschweiger.com",
+      "joanna@braunschweiger.com",
+      "kimberly@braunschweiger.com",
+      "lorie@braunschweiger.com",
+      "luis.bucaro@braunschweiger.com",
+      "luis@braunschweiger.com",
+      "mariana@braunschweiger.com",
+      "mary@braunschweiger.com",
+      "robin@braunschweiger.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://braunschweiger.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://braunschweiger.com/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://braunschweiger.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://braunschweiger.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://braunschweiger.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://braunschweiger.com/pages/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://braunschweiger.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://braunschweiger.com/contact",
+        "action": "/contact#ContactForm-template--20217106825442__6eeab8e8-f35f-4684-9ee4-b0228fc8184a",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://braunschweiger.com/pages/contact",
+        "action": "/contact#ContactForm-template--20217106825442__6eeab8e8-f35f-4684-9ee4-b0228fc8184a",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Braunschweiger  Jewelers",
+    "source_urls": [
+      "https://braunschweiger.com/meet-the-team",
+      "https://braunschweiger.com/contact",
+      "https://braunschweiger.com/pages/contact",
+      "https://braunschweiger.com/pages/meet-the-team"
+    ],
+    "reason": null,
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "bravadospice.com",
+    "company_name": "Bravado Spice",
+    "website": "https://bravadospice.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@bravadospice.com",
+        "confidence": "highest",
+        "source_url": "https://bravadospice.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2023-03-30",
+        "context_snippet": ""
+      },
+      {
+        "address": "hello@bravadospice.com",
+        "confidence": "high",
+        "source_url": "https://bravadospice.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ", STE. 200 Houston, TX 77041 Phone: (832) 798-4668 Email: hello@bravadospice.com Fill the form out and we will be get back to you with in 1"
+      }
+    ],
+    "role_emails": [
+      "hello@bravadospice.com",
+      "info@bravadospice.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bravadospice.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bravadospice.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2023-03-30"
+      },
+      {
+        "url": "https://bravadospice.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bravadospice.com/pages/contact-us",
+        "action": "/contact#ecom-contact-form-ecom-uikuy09qmtp",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Bravado Spice crafts incredible hot sauces, margarita mixes and mexican seasonings that are undeniably daring, delicious, and sometimes featured on Hot Ones.",
+    "source_urls": [
+      "https://bravadospice.com/about",
+      "https://bravadospice.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "braveandkindbooks.com",
+    "company_name": "Brave + Kind Bookshop",
+    "website": "https://www.braveandkindbooks.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.braveandkindbooks.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.braveandkindbooks.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Independent Childrens Bookstore",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "bravebooks.us",
+    "company_name": "bravebooks.us",
+    "website": "https://bravebooks.us",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://bravebooks.us/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2022-01-18"
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Discover our monthly children\u2019s book subscription teaching biblical values through engaging stories, activities & family discussion\u2014join Freedom Island today!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "bravelittleones.com",
+    "company_name": "Brave Little Ones",
+    "website": "https://bravelittleones.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@bravelittleones.com",
+        "confidence": "highest",
+        "source_url": "https://bravelittleones.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "rs. Please fill out the contact form below or e mail us at support@bravelittleones.com"
+      }
+    ],
+    "role_emails": [
+      "support@bravelittleones.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bravelittleones.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bravelittleones.com/pages/about-us-new",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bravelittleones.com/pages/retail-locations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bravelittleones.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bravelittleones.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Discover ultra-soft baby pajamas, toddler clothes, and cozy loungewear for kids and adults. Made from breathable, eco-friendly bamboo for ultimate comfort.",
+    "source_urls": [
+      "https://bravelittleones.com/pages/contact-us",
+      "https://bravelittleones.com/policies/contact-information"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "bravestarselvage.com",
+    "company_name": "Brave Star Selvage",
+    "website": "https://bravestarselvage.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customerservice@bravestarselvage.com",
+        "confidence": "highest",
+        "source_url": "https://bravestarselvage.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "jobs@bravestarselvage.com",
+        "confidence": "high",
+        "source_url": "https://bravestarselvage.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "service@bravestarselvage.com For Job Opportunities: jobs@bravestarselvage.com Brave Star Selvage HQ 11018 Washington Blvd Culve"
+      }
+    ],
+    "role_emails": [
+      "customerservice@bravestarselvage.com",
+      "jobs@bravestarselvage.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bravestarselvage.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bravestarselvage.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bravestarselvage.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Affordable American made extra heavy raw selvage denim from Cone Mills USA and Japan starting under $100 Made In The USA. Unmatched value in heritage denim.",
+    "source_urls": [
+      "https://bravestarselvage.com",
+      "https://bravestarselvage.com/pages/about-us",
+      "https://bravestarselvage.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "braveststudios.com",
+    "company_name": "Bravest Studios",
+    "website": "https://braveststudios.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "detailed email",
+        "title": null,
+        "email": "orders@braveststudios.com",
+        "source_url": "https://braveststudios.com/pages/about"
+      }
+    ],
+    "people": [
+      {
+        "name": "detailed email",
+        "title": null,
+        "email": "orders@braveststudios.com",
+        "source_url": "https://braveststudios.com/pages/about"
+      }
+    ],
+    "emails": [
+      {
+        "address": "orders@braveststudios.com",
+        "confidence": "highest",
+        "source_url": "https://braveststudios.com/pages/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://braveststudios.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://braveststudios.com/products/gospel-team-tee-cream",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://braveststudios.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://braveststudios.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://braveststudios.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "BRAVEST STUDIOS NY - EST. 2019.",
+    "source_urls": [
+      "https://braveststudios.com/pages/about"
+    ],
+    "reason": null,
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "bravesurf.com",
+    "company_name": "Brave New World",
+    "website": "https://www.bravesurf.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.bravesurf.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bravesurf.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2024-06-19"
+      },
+      {
+        "url": "https://www.bravesurf.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bravesurf.com/pages/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bravesurf.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bravesurf.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.bravesurf.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Providing the Essentials Since 1974",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "bravewolf.us",
+    "company_name": "Brave Wolf Customs",
+    "website": "https://bravewolf.us",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Jason Dement",
+        "title": "Owner",
+        "email": "jason@bravewolf.us",
+        "source_url": "https://bravewolf.us/pages/meet-the-team"
+      }
+    ],
+    "people": [
+      {
+        "name": "Jason Dement",
+        "title": "Owner",
+        "email": "jason@bravewolf.us",
+        "source_url": "https://bravewolf.us/pages/meet-the-team"
+      }
+    ],
+    "emails": [
+      {
+        "address": "jason@bravewolf.us",
+        "confidence": "high",
+        "source_url": "https://bravewolf.us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "questions or concerns please contact Brave Wolf Customs at jason@bravewolf.us Powered by Shopify Join our mailing list"
+      },
+      {
+        "address": "support@bravewolf.us",
+        "confidence": "high",
+        "source_url": "https://bravewolf.us/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "t the following links Facebook Instagram email: support@bravewolf.us Brave Wolf Customs 2049 Hugo Street Bay ST Lo"
+      }
+    ],
+    "role_emails": [
+      "jason@bravewolf.us",
+      "support@bravewolf.us"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bravewolf.us",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bravewolf.us/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bravewolf.us/pages/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bravewolf.us/pages/about-our-materials",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bravewolf.us",
+        "action": "/contact#contact-7797645049904-7797645049904",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://bravewolf.us",
+        "action": "/contact#contact-7792279027760-7792279027760",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://bravewolf.us",
+        "action": "/contact#contact-7797645606960-7797645606960",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://bravewolf.us",
+        "action": "/contact#contact-7797645377584-7797645377584",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://bravewolf.us",
+        "action": "/contact#contact-7797643608112-7797643608112",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://bravewolf.us",
+        "action": "/contact#contact-7302975619120-7302975619120",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://bravewolf.us",
+        "action": "/contact#contact-7302976077872-7302976077872",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://bravewolf.us",
+        "action": "/contact#contact-7302058672176-7302058672176",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://bravewolf.us",
+        "action": "/contact#contact-7302974930992-7302974930992",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Beautiful motorcycle artwork and custom decals for your Indian Motorcycle. We have a variety of fuel tank warbonnets, tees, stickers, art and more. Our custom decals are self-adhesive hi-tack weatherproof vinyl that covers up your existing tank logos, making for easy installation! They can also be e",
+    "source_urls": [
+      "https://bravewolf.us",
+      "https://bravewolf.us/pages/contact-us",
+      "https://bravewolf.us/pages/meet-the-team",
+      "https://bravewolf.us/pages/about-our-materials"
+    ],
+    "reason": null,
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "bravewriter.com",
+    "company_name": "Brave Writer",
+    "website": "https://store.bravewriter.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://store.bravewriter.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Writing and language arts products for homeschool families.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "bravobelt.com",
+    "company_name": "BravoBelt",
+    "website": "https://bravobelt.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@bravobelt.com",
+        "confidence": "highest",
+        "source_url": "https://bravobelt.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2018-08-23",
+        "context_snippet": "ong the way. Have a question? Feel free to send an email. hello@bravobelt.com Copyright 2017 \u00a9 Woodward Red LLC"
+      },
+      {
+        "address": "support@bravobelt.com",
+        "confidence": "highest",
+        "source_url": "https://bravobelt.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ility Statement Need Help? Need a Hug? support@bravobelt.com Unlock Insider Access Enter your email"
+      }
+    ],
+    "role_emails": [
+      "hello@bravobelt.com",
+      "support@bravobelt.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bravobelt.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bravobelt.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2018-08-23"
+      },
+      {
+        "url": "https://bravobelt.com/blogs/bravobelt-blogs/5-myths-about-belly-band-holsters-and-what-you-should-know-instead",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bravobelt.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bravobelt.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bravobelt.com/about",
+        "action": "/about/#wpcf7-f10-p92-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://bravobelt.com/blogs/bravobelt-blogs/5-myths-about-belly-band-holsters-and-what-you-should-know-instead",
+        "action": "/blogs/bravobelt-blogs/5-myths-about-belly-band-holsters-and-what-you-should-know-instead/comments#comment_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://bravobelt.com/pages/contact-us",
+        "action": "/contact#ContactForm-template--21520343990430__contact-form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "We offer most comfortable belly band holsters for all your firearms. Find our traditional belly band holster for men and women both with premium quality. Shop online for free shipping.",
+    "source_urls": [
+      "https://bravobelt.com",
+      "https://bravobelt.com/about",
+      "https://bravobelt.com/blogs/bravobelt-blogs/5-myths-about-belly-band-holsters-and-what-you-should-know-instead",
+      "https://bravobelt.com/pages/about-us",
+      "https://bravobelt.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "bravoconcealment.com",
+    "company_name": "Bravo Concealment",
+    "website": "https://www.bravoconcealment.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.bravoconcealment.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bravoconcealment.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bravoconcealment.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bravoconcealment.com/blogs/training/why-i-press-check-my-semi-auto-and-why-it-sometimes-doesn-t-matter",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.bravoconcealment.com/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.bravoconcealment.com/blogs/training/why-i-press-check-my-semi-auto-and-why-it-sometimes-doesn-t-matter",
+        "action": "/blogs/training/why-i-press-check-my-semi-auto-and-why-it-sometimes-doesn-t-matter/comments#comment_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Dramatically change the way you carry... Forever! Bravo Concealment Kydex style holsters are designed around concealed carry. Whether you run an IWB or OWB our gun holsters are comfortable and affordable. Free Shipping orders over $99 - 30 Day Test Drive - Unlimited Lifetime Warranty!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bravofarms.com",
+    "company_name": "Bravo Farms",
+    "website": "https://bravofarms.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "contact@bravofarms.com",
+        "confidence": "highest",
+        "source_url": "https://bravofarms.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "(559) 897-5762 contact@bravofarms.com Facebook Instagram Twi"
+      },
+      {
+        "address": "office@bravofarms.com",
+        "confidence": "highest",
+        "source_url": "https://bravofarms.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2020-11-26",
+        "context_snippet": "Contact Us office@bravofarms.com Create"
+      }
+    ],
+    "role_emails": [
+      "contact@bravofarms.com",
+      "office@bravofarms.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bravofarms.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bravofarms.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2020-11-26"
+      },
+      {
+        "url": "https://bravofarms.com/press",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2020-11-24"
+      },
+      {
+        "url": "https://bravofarms.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2020-11-26"
+      },
+      {
+        "url": "https://bravofarms.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bravofarms.com/contact",
+        "action": "/contact/#wpcf7-f10546-p37147-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://bravofarms.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Experience Bravo Farms - family-friendly roadside attractions, farm-to-table dining, and unique products in California's Central Valley.",
+    "source_urls": [
+      "https://bravofarms.com",
+      "https://bravofarms.com/about",
+      "https://bravofarms.com/press",
+      "https://bravofarms.com/contact",
+      "https://bravofarms.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "bravosierra.com",
+    "company_name": "Bravo Sierra",
+    "website": "https://www.bravosierra.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hq@bravosierra.com",
+        "confidence": "highest",
+        "source_url": "https://www.bravosierra.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "T HQ@BRAVOSIERRA.COM FAQ"
+      }
+    ],
+    "role_emails": [
+      "hq@bravosierra.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.bravosierra.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Bravo Sierra creates performance body care products for the most active individuals. Every formula undergoes rigorous field-testing to meet strict standards of quality and efficacy. Designed and manufactured in the U.S.A, a portion of every purchase directly supports military veterans and their fami",
+    "source_urls": [
+      "https://www.bravosierra.com"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "bravus.com",
+    "company_name": "Bravus Brewing Company",
+    "website": "https://www.bravus.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "help@bravus.com",
+        "confidence": "highest",
+        "source_url": "https://www.bravus.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Search Contact (800) 958-7085 help@bravus.com Facebook Twitter Instag"
+      }
+    ],
+    "role_emails": [
+      "help@bravus.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.bravus.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bravus.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bravus.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bravus.com/pages/recent-news-press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.bravus.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Welcome to the world's first non-alcoholic (\"NA\") craft beer that actually tastes good. We brew Bravus like a craft beer so it tastes like a craft beer.",
+    "source_urls": [
+      "https://www.bravus.com",
+      "https://www.bravus.com/pages/about-us",
+      "https://www.bravus.com/pages/contact-us",
+      "https://www.bravus.com/pages/recent-news-press"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "braxleybands.com",
+    "company_name": "Braxley Bands",
+    "website": "https://braxleybands.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@braxleybands.com",
+        "confidence": "highest",
+        "source_url": "https://braxleybands.com/pages/customer-support",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "support@braxleybands.com",
+        "confidence": "highest",
+        "source_url": "https://braxleybands.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "x. Braxley Bands Email support@braxleybands.com Hours 9am \u2013 5pm CST, Mon\u2013Fri Add"
+      }
+    ],
+    "role_emails": [
+      "info@braxleybands.com",
+      "support@braxleybands.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://braxleybands.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://braxleybands.com/pages/about-braxley-bands",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://braxleybands.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://braxleybands.com/pages/customer-support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://braxleybands.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Shop from a variety of Apple Watch Bands and straps at Braxley Bands. Find stylish, comfortable, and non-toxic Apple Watch Bands today!",
+    "source_urls": [
+      "https://braxleybands.com",
+      "https://braxleybands.com/pages/about-braxley-bands",
+      "https://braxleybands.com/pages/contact-us",
+      "https://braxleybands.com/pages/customer-support"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "braxtonbrewing.com",
+    "company_name": "Braxton Brewing Company",
+    "website": "https://braxtonbrewing.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://braxtonbrewing.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://braxtonbrewing.com/team",
+        "page_type": "team",
+        "source_type": "archived",
+        "snapshot_date": "2021-12-07"
+      },
+      {
+        "url": "https://braxtonbrewing.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2022-01-17"
+      },
+      {
+        "url": "https://braxtonbrewing.com/pages/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://braxtonbrewing.com/pages/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://braxtonbrewing.com/blogs/news/braxton-brewing-company-named-official-craft-beer-partner-of-the-cincinnati-reds",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Shop Braxton Brewing Company gear and Lift One to Life in style!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "brazenfirearms.com",
+    "company_name": "Brazen Firearms",
+    "website": "https://www.brazenfirearms.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.brazenfirearms.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brazenfirearms.com/pages/have-questions-concerns-contact-us-here",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.brazenfirearms.com/pages/have-questions-concerns-contact-us-here",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "We are a husband and wife owned and operated small business that specializes in TiN coatings, Cerakote, Stippling, Silicon Carbide Grip Texturing, and Optic Cuts. We pride ourselves in customer service and quality work.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "brazibites.com",
+    "company_name": "Brazi Bites",
+    "website": "https://shop.brazibites.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://shop.brazibites.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.brazibites.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.brazibites.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.brazibites.com/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.brazibites.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.brazibites.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.brazibites.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.brazibites.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.brazibites.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Incredibly delicious naturally gluten-free foods. Learn more.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "brazilbronze.com",
+    "company_name": "Brazil Bronze NYC",
+    "website": "https://brazilbronze.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "orders@brazilbronze.com",
+        "confidence": "highest",
+        "source_url": "https://brazilbronze.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "OHO BOOK ONLINE For Information on Products Email Orders@BrazilBronze.com Your Name: Email: Phone Number: Messa"
+      }
+    ],
+    "role_emails": [
+      "orders@brazilbronze.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://brazilbronze.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brazilbronze.com/pages/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brazilbronze.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brazilbronze.com/pages/about-brazil-bronze",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://brazilbronze.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Get that golden glow without any of the harsh ingredients! Brazil Bronze has a NYC tanning salon and organic, natural tanning products. Shop here.",
+    "source_urls": [
+      "https://brazilbronze.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "brazilcarnivalshop.com",
+    "company_name": "BrazilCarnivalShop",
+    "website": "https://www.brazilcarnivalshop.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@brazilcarnivalshop.com",
+        "confidence": "high",
+        "source_url": "https://www.brazilcarnivalshop.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@brazilcarnivalshop.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.brazilcarnivalshop.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brazilcarnivalshop.com/pages/return-policy-privacy-general-information-contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Brazil Carnival Shop sells samba shoes, samba bikini costumes, carnival costumes, carnival shoes, Brazil samba shoes, Brazil carnival samba gladiators, Rio samba shoes, carnival outfits, carnival outfit, samba costumes,",
+    "source_urls": [
+      "https://www.brazilcarnivalshop.com",
+      "https://www.brazilcarnivalshop.com/pages/return-policy-privacy-general-information-contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "brazilgems.com",
+    "company_name": "Brazil Gems",
+    "website": "https://brazilgems.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@brazilgems.com",
+        "confidence": "highest",
+        "source_url": "https://brazilgems.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Phone: +1-951-215-6455 Customer Service: support@brazilgems.com Sales & Info: info@brazilgems.com Location: 26211 Jeffe"
+      },
+      {
+        "address": "info@brazilgems.com",
+        "confidence": "high",
+        "source_url": "https://brazilgems.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "26211 Jefferson Ave, Murrieta, Ca 92562 info@brazilgems.com Phone: (951) 215-6455 Facebook YouTube Inst"
+      }
+    ],
+    "role_emails": [
+      "info@brazilgems.com",
+      "support@brazilgems.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://brazilgems.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brazilgems.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brazilgems.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://brazilgems.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "At Brazil Gems\u00ae we import crystals & geodes straight from Brazil to our warehouse in California. Over 1,400 items w/ Free Shipping in the USA and we ship worldwide.",
+    "source_urls": [
+      "https://brazilgems.com",
+      "https://brazilgems.com/pages/about",
+      "https://brazilgems.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "brazilianblowout.com",
+    "company_name": "Brazilian Blowout",
+    "website": "https://www.brazilianblowout.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@brazilianblowout.com",
+        "confidence": "highest",
+        "source_url": "https://www.brazilianblowout.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2023-03-24",
+        "context_snippet": "osed Saturday and Sunday PHONE: 1-877-779-7706 EMAIL: info@brazilianblowout.com"
+      },
+      {
+        "address": "press@brazilianblowout.com",
+        "confidence": "highest",
+        "source_url": "https://www.brazilianblowout.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Email Us info@brazilianblowout.com Press Inquiries press@brazilianblowout.com You are now leaving the Brazilian Blowout P"
+      }
+    ],
+    "role_emails": [
+      "info@brazilianblowout.com",
+      "press@brazilianblowout.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.brazilianblowout.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brazilianblowout.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2023-03-24"
+      },
+      {
+        "url": "https://www.brazilianblowout.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2012-11-27"
+      },
+      {
+        "url": "https://www.brazilianblowout.com/press",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2010-09-17"
+      },
+      {
+        "url": "https://www.brazilianblowout.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2012-11-27"
+      },
+      {
+        "url": "https://www.brazilianblowout.com/pages/about-us-professional",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brazilianblowout.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brazilianblowout.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.brazilianblowout.com/contact",
+        "action": "default.aspx",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Brazilian Blowout | Professional Hair Smoothing Treatment",
+    "source_urls": [
+      "https://www.brazilianblowout.com",
+      "https://www.brazilianblowout.com/about",
+      "https://www.brazilianblowout.com/pages/about-us-professional",
+      "https://www.brazilianblowout.com/pages/about-us",
+      "https://www.brazilianblowout.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "brazos-walking-sticks.com",
+    "company_name": "Brazos Walking Sticks",
+    "website": "https://www.brazos-walking-sticks.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.brazos-walking-sticks.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brazos-walking-sticks.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brazos-walking-sticks.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brazos-walking-sticks.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.brazos-walking-sticks.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "We offer high-quality, American-made walking sticks, walking canes and hiking sticks. Our wooden canes and walking sticks for sale are attractive and affordable. Shop here now!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  }
+]
