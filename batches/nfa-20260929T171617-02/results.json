@@ -1,0 +1,1356 @@
+[
+  {
+    "company_domain": "botaniesoap.com",
+    "company_name": "Botanie Soap",
+    "website": "https://botaniesoap.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://botaniesoap.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://botaniesoap.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://botaniesoap.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://botaniesoap.com/pages/all-about-organic",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Soap company manufacturing all-natural bar soap and liquid soap for private label use. Please choose from our portfolio or request custom manufacturing!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "botanika.life",
+    "company_name": "BOTANIKA LIFE",
+    "website": "https://botanika.life",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@botanika.life",
+        "confidence": "high",
+        "source_url": "https://botanika.life/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Us Contact Info: Phone Number: 866-268-2645 Email: info@botanika.life If you have questions about our products, we\u2019re here to h"
+      }
+    ],
+    "role_emails": [
+      "info@botanika.life"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://botanika.life",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://botanika.life/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://botanika.life/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://botanika.life/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://botanika.life/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://botanika.life/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Discover luxury wellness products for pain relief, sleep, recovery, and skincare. Trusted by luxury hotels, spas, wellness professionals, and customers seeking premium self-care. Shop Botanika Life online.",
+    "source_urls": [
+      "https://botanika.life/contact",
+      "https://botanika.life/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "botanyfarms.com",
+    "company_name": "Botany Farms",
+    "website": "https://www.botanyfarms.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "team@botanyfarms.com",
+        "confidence": "high",
+        "source_url": "https://www.botanyfarms.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "team@botanyfarms.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.botanyfarms.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.botanyfarms.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.botanyfarms.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.botanyfarms.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.botanyfarms.com/pages/contact",
+        "action": "/contact#contact-form-template--25025351090458__contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "We grow cannabis with a reverence for all its complex capabilities. For those who want to enjoy its benefits while remaining clear-headed and present.",
+    "source_urls": [
+      "https://www.botanyfarms.com"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "botasrojerowesternwear.com",
+    "company_name": "Botas Rojero",
+    "website": "https://www.botasrojerowesternwear.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.botasrojerowesternwear.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Great deals on a wide variety of brands. High Quality Boots and Hats for a great price.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "boteboard.com",
+    "company_name": "BOTE",
+    "website": "https://www.boteboard.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@boteboard.com",
+        "confidence": "highest",
+        "source_url": "https://www.boteboard.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "o help. Call us at 888-855-4450 , contact us via email at support@boteboard.com , or click on the chat icon in the bottom right-hand corner"
+      }
+    ],
+    "role_emails": [
+      "support@boteboard.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.boteboard.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.boteboard.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.boteboard.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Shop BOTE for premium stand up paddle boards, inflatable kayaks, hangout docks, paddle gear and more built for every water adventure, from lakes to open coast.",
+    "source_urls": [
+      "https://www.boteboard.com/contact",
+      "https://www.boteboard.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "bothandapparel.com",
+    "company_name": "Both& Apparel",
+    "website": "https://www.bothandapparel.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.bothandapparel.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bothandapparel.com/products/support-us",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Shop the world's best clothing for masc of center folks. Designed using a totally new fit system for anyone who was assigned female at birth and wants a masculine silhouette, Both& makes high quality, stylish garments that look and feel good.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "boticario.com",
+    "company_name": "www.boticario.com",
+    "website": "https://www.boticario.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.boticario.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2021-10-26"
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Find amazing gifts and treat yourself with our fragrances, bath & body and hair care products. Shop Nativa SPA, Lily, Malbec and more.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "botinescharros.com",
+    "company_name": "Botines Charros LLC",
+    "website": "https://botinescharros.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://botinescharros.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://botinescharros.com/en/pages/contacto",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://botinescharros.com/en/collections/botas-mas-vendidas/products/bota-vaquera-misterio-de-media-noche-negra",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://botinescharros.com/en/pages/contacto",
+        "action": "/en/contact#template--21115434631354__form-contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "From Mexico for you \u2705 The most wanted Charro Ankle Boots of the brand El Canelo. More than 40 styles of Western Ankle Boots with square toe from the best brands (Los Altos Boots, El Canelo, ARIAT). Shop now!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "botkier.com",
+    "company_name": "Botkier",
+    "website": "https://www.botkier.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.botkier.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.botkier.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.botkier.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.botkier.com/home/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "botld.com",
+    "company_name": "BOTLD",
+    "website": "https://botld.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "help@botld.com",
+        "confidence": "high",
+        "source_url": "https://botld.com/pages/locations",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Road, King of Prussia, PA 19406 By Appointment - email help@botld.com Phone: 445-776-7000 Quick l"
+      }
+    ],
+    "role_emails": [
+      "help@botld.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://botld.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://botld.com/pages/locations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "BOTLD works directly with innovative premium distillers around our great country and the world to offer Pennsylvania a wider, deeper, more adventurous selection of spirits. By removing the middleman, we can bring great quality, value, and convenience to your doorstep.",
+    "source_urls": [
+      "https://botld.com/pages/locations"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "botniaskincare.com",
+    "company_name": "Botniaskincare",
+    "website": "https://www.botniaskincare.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@botniaskincare.com",
+        "confidence": "highest",
+        "source_url": "https://www.botniaskincare.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Don't be shy Let us help info@botniaskincare.com BOTNIA Inc. 449A Coloma St. Sausalito, Califor"
+      }
+    ],
+    "role_emails": [
+      "info@botniaskincare.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.botniaskincare.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.botniaskincare.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.botniaskincare.com/pages/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.botniaskincare.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.botniaskincare.com",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.botniaskincare.com/pages/about",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.botniaskincare.com/pages/press",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.botniaskincare.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.botniaskincare.com/pages/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Experience the holistic synergy of aesthetics, science, and expertise with Botnia Skincare. Explore our exquisite range of sustainable products crafted with botanical ingredients. Trusted by holistic estheticians for visible results, elevate your skincare routine with Botnia. Shop now and embrace th",
+    "source_urls": [
+      "https://www.botniaskincare.com",
+      "https://www.botniaskincare.com/pages/about",
+      "https://www.botniaskincare.com/pages/press",
+      "https://www.botniaskincare.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "bottango.com",
+    "company_name": "Shop Bottango",
+    "website": "https://www.bottango.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "contact@bottango.com",
+        "confidence": "high",
+        "source_url": "https://www.bottango.com/policies/contact-information",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ut to Bottango via e-mail with questions about products at Contact@Bottango.com . Order Support If there is a problem with your order,"
+      },
+      {
+        "address": "support@bottango.com",
+        "confidence": "high",
+        "source_url": "https://www.bottango.com/policies/contact-information",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "hnical support question, Bottango LLC can be contacted at Support@Bottango.com . Bottango LLC does not however guarantee technical support"
+      }
+    ],
+    "role_emails": [
+      "contact@bottango.com",
+      "support@bottango.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.bottango.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bottango.com/pages/about-bottango",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bottango.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Bottango is free robot and animatronic animation software. Create DIY animatronics and animate them with our powerful, intuitive animation tools. Check out our animatronic kits for everything you need to build your own animatronic.",
+    "source_urls": [
+      "https://www.bottango.com/policies/contact-information"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bottegadellanonna.com",
+    "company_name": "La Bottega della Nonna",
+    "website": "https://bottegadellanonna.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://bottegadellanonna.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bottegadellanonna.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bottegadellanonna.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bottegadellanonna.com/pages/contact-us",
+        "action": "/contact#contact--form__template--20494504984797__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Shop authentic Italian food, reusable Italian design canvas shopping totes and bags, imported kitchen tools, family apparel t-shirts, sweatshirts, aprons, and unique gifts curated by Rossella Rago from Cooking with Nonna. Cookbooks by Rossella Rago. Free shipping available",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bottegalouie.com",
+    "company_name": "Bottega Louie",
+    "website": "https://www.bottegalouie.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "dtla@bottegalouie.com",
+        "confidence": "high",
+        "source_url": "https://www.bottegalouie.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "frontdesk@bottegalouie.com",
+        "confidence": "high",
+        "source_url": "https://www.bottegalouie.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "sales@bottegalouie.com",
+        "confidence": "high",
+        "source_url": "https://www.bottegalouie.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "weho@bottegalouie.com",
+        "confidence": "high",
+        "source_url": "https://www.bottegalouie.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "dtla@bottegalouie.com",
+      "frontdesk@bottegalouie.com",
+      "sales@bottegalouie.com",
+      "weho@bottegalouie.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.bottegalouie.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Welcome to Bottega Louie. Experience our Italian restaurant, gourmet market, and patisserie in Downtown Los Angeles and West Hollywood.",
+    "source_urls": [
+      "https://www.bottegalouie.com"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "bottegausa.com",
+    "company_name": "BOTTEGA USA",
+    "website": "https://bottegausa.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://bottegausa.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bottegausa.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bottegausa.com/pages/contact",
+        "action": "/contact#contact-template--19815914995765__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "BOTTEGA USA",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "botticellifoods.com",
+    "company_name": "Botticelli Foods",
+    "website": "https://botticellifoods.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@botticellifoods.com",
+        "confidence": "high",
+        "source_url": "https://botticellifoods.com/products/espresso-ground-coffee",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "rench Press HAVE A QUESTION? Please email us at info@botticellifoods.com or use our contact form . FROM"
+      }
+    ],
+    "role_emails": [
+      "info@botticellifoods.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://botticellifoods.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://botticellifoods.com/products/espresso-ground-coffee",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://botticellifoods.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://botticellifoods.com/pages/press-releases",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://botticellifoods.com/pages/contact",
+        "action": "/contact#ContactForm__template--21135622373412__contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "We are an Italian specialty food brand bringing the quality, authenticity, and tradition of Italian food to your dinner table. We offer premium pasta sauces, olive oils, vinegars, coffees, and more!",
+    "source_urls": [
+      "https://botticellifoods.com/products/espresso-ground-coffee",
+      "https://botticellifoods.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "bottlebarn.com",
+    "company_name": "Buy Online\u2013 Bottle Barn",
+    "website": "https://bottlebarn.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "buywines@bottlebarn.com",
+        "confidence": "highest",
+        "source_url": "https://bottlebarn.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2018-10-04",
+        "context_snippet": "pm Sunday 9:00am \u2013 6:00pm Contact (707) 528-1161 buywines@bottlebarn.com We will ship any wine purchased at"
+      },
+      {
+        "address": "support@bottlebarn.com",
+        "confidence": "highest",
+        "source_url": "https://bottlebarn.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2025-12-04",
+        "context_snippet": "Rosa Store 3331-A Industrial Dr. Santa Rosa, CA 95403 support@bottlebarn.com Business Hours: 10:00am \u2013 6:00pm (Mon\u2013Sun) Get Directi"
+      }
+    ],
+    "role_emails": [
+      "buywines@bottlebarn.com",
+      "support@bottlebarn.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bottlebarn.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bottlebarn.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2018-10-04"
+      },
+      {
+        "url": "https://bottlebarn.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2015-11-06"
+      },
+      {
+        "url": "https://bottlebarn.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2025-12-04"
+      },
+      {
+        "url": "https://bottlebarn.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bottlebarn.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bottlebarn.com/contact",
+        "action": "https://bottlebarn.com/contact/index/post/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Shop for wine, spirits, beer at Bottle Barn, your trusted store for premium drinks at affordable prices. Order online for doorstep delivery or in-store pickup!",
+    "source_urls": [
+      "https://bottlebarn.com",
+      "https://bottlebarn.com/about",
+      "https://bottlebarn.com/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bottlebuzz.com",
+    "company_name": "BottleBuzz",
+    "website": "https://bottlebuzz.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "help@bottlebuzz.com",
+        "confidence": "high",
+        "source_url": "https://bottlebuzz.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "BottleBuzz.com 3086 Fairmount Ave San Diego, CA 92105 help@bottlebuzz.com"
+      },
+      {
+        "address": "info@bottlebuzz.com",
+        "confidence": "high",
+        "source_url": "https://bottlebuzz.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "help@bottlebuzz.com",
+      "info@bottlebuzz.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bottlebuzz.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bottlebuzz.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bottlebuzz.com/pages/contact-us",
+        "action": "/contact#contact-template--17299690586209__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "BottleBuzz is your #1 online liquor store. Shop rare bourbon, tequila, vodka, and premium spirits. Authenticity guaranteed. Ships nationwide.",
+    "source_urls": [
+      "https://bottlebuzz.com",
+      "https://bottlebuzz.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "bottleengraving.com",
+    "company_name": "Bottle Engraving",
+    "website": "https://bottleengraving.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@bottleengraving.com",
+        "confidence": "highest",
+        "source_url": "https://bottleengraving.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "lacement, please feel free to reach out to us via email at support@bottleengraving.com . Be sure to include the bottle name and your custom messag"
+      }
+    ],
+    "role_emails": [
+      "support@bottleengraving.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bottleengraving.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bottleengraving.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bottleengraving.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "We engrave wine and spirits bottles for personalized gifts, pairing custom accessories with engraved bottles for a unique touch.",
+    "source_urls": [
+      "https://bottleengraving.com",
+      "https://bottleengraving.com/pages/about",
+      "https://bottleengraving.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bottlefillingstations.com",
+    "company_name": "BottleFillingStations.com",
+    "website": "https://bottlefillingstations.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@bottlefillingstations.com",
+        "confidence": "high",
+        "source_url": "https://bottlefillingstations.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Buying more than 2? Email us for a discount: support@bottlefillingstations.com Contact us now for a Bulk Order!"
+      }
+    ],
+    "role_emails": [
+      "support@bottlefillingstations.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bottlefillingstations.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bottlefillingstations.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bottlefillingstations.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bottlefillingstations.com",
+        "action": "/contact#template--17714269782079__contact_form_mBjeah-contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://bottlefillingstations.com/pages/contact-us",
+        "action": "/contact#template--17714269847615__form-contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Shop at BottleFillingStations.com - your Specialty Store for Water Bottle Filling Stations & Water Filters. Best prices on Elkay, Halsey Taylor, Oasis, & Murdock. Free shipping!",
+    "source_urls": [
+      "https://bottlefillingstations.com",
+      "https://bottlefillingstations.com/pages/about-us",
+      "https://bottlefillingstations.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bottleneckgallery.com",
+    "company_name": "Bottleneck Gallery",
+    "website": "https://bottleneckgallery.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "admin@bottleneckgallery.com",
+        "confidence": "high",
+        "source_url": "https://bottleneckgallery.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "pictures to your contact form, please email us directly via admin@bottleneckgallery.com Name Email * Comme"
+      }
+    ],
+    "role_emails": [
+      "admin@bottleneckgallery.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bottleneckgallery.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bottleneckgallery.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2012-09-05"
+      },
+      {
+        "url": "https://bottleneckgallery.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bottleneckgallery.com/collections/oni-press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bottleneckgallery.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bottleneckgallery.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Contemporary art space located in the heart of Bushwick, Brooklyn specializing in limited edition pop-culture, gig and alternative movie posters, vinyl toys, collectibles, vinyl records and enamel pins.",
+    "source_urls": [
+      "https://bottleneckgallery.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "bottlesandburps.com",
+    "company_name": "Bottles & Burps",
+    "website": "https://www.bottlesandburps.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@bottlesandburps.com",
+        "confidence": "highest",
+        "source_url": "https://www.bottlesandburps.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "hello@bottlesandburps.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.bottlesandburps.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bottlesandburps.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bottlesandburps.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "HiPP, Holle and Kendamil organic infant formula shipped from Europe in 2 to 5 days. Free shipping on multi-packs, $9.99 on single boxes.",
+    "source_urls": [
+      "https://www.bottlesandburps.com",
+      "https://www.bottlesandburps.com/pages/about",
+      "https://www.bottlesandburps.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bottlesfinewine.com",
+    "company_name": "Bottles Fine Wine",
+    "website": "https://bottlesfinewine.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@bottlesfinewine.com",
+        "confidence": "highest",
+        "source_url": "https://bottlesfinewine.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ne. We'll do our best to get back to you as soon as we can. info@bottlesfinewine.com 141 Pitman St, Providence, RI 02906 | (401) 372-2030"
+      }
+    ],
+    "role_emails": [
+      "info@bottlesfinewine.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bottlesfinewine.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bottlesfinewine.com/our-team",
+        "page_type": "team",
+        "source_type": "archived",
+        "snapshot_date": "2013-06-24"
+      },
+      {
+        "url": "https://bottlesfinewine.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bottlesfinewine.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bottlesfinewine.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bottlesfinewine.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bottlesfinewine.com/pages/staff-picks",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Bottles is a wine, beer and liquor store in Providence, RI. We offer delivery services, custom engraved bottles, gift baskets, free weekly events, and more!",
+    "source_urls": [
+      "https://bottlesfinewine.com",
+      "https://bottlesfinewine.com/about",
+      "https://bottlesfinewine.com/contact",
+      "https://bottlesfinewine.com/pages/contact",
+      "https://bottlesfinewine.com/pages/about-us",
+      "https://bottlesfinewine.com/pages/staff-picks"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "bottleshopcolumbus.com",
+    "company_name": "The Bottle Shop",
+    "website": "https://bottleshopcolumbus.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://bottleshopcolumbus.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Cordial",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "bottomofthecup.com",
+    "company_name": "Bottom of the Cup",
+    "website": "https://www.bottomofthecup.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.bottomofthecup.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bottomofthecup.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Since 1929, Bottom of the Cup Tea Room has offered psychic readings, metaphysical gifts, and fine tea.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  }
+]
