@@ -1,0 +1,1601 @@
+[
+  {
+    "company_domain": "bestbuymetals.com",
+    "company_name": "Best Buy Metals",
+    "website": "https://shop.bestbuymetals.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://shop.bestbuymetals.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://shop.bestbuymetals.com",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Metal roofing store from Best Buy Metals. Purchase snow guards, metal roofing tools and accessories in just a few clicks.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "bestbuysoccer.com",
+    "company_name": "Best Buy Soccer",
+    "website": "https://www.bestbuysoccer.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "custserv@bestbuysoccer.com",
+        "confidence": "highest",
+        "source_url": "https://www.bestbuysoccer.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2023-04-27",
+        "context_snippet": "tact Us 1723 Webb Drive Norcross GA 30093-1214 custserv@bestbuysoccer.com (+1) 678-892-6221 Quick Link My account"
+      },
+      {
+        "address": "support@bestbuysoccer.com",
+        "confidence": "high",
+        "source_url": "https://www.bestbuysoccer.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "custserv@bestbuysoccer.com",
+      "support@bestbuysoccer.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.bestbuysoccer.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bestbuysoccer.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2023-04-27"
+      },
+      {
+        "url": "https://www.bestbuysoccer.com/collections/team-apparel-training-tops",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bestbuysoccer.com/collections/team-packs-soccer-balls",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bestbuysoccer.com/collections/braces-supports",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bestbuysoccer.com/collections/national-teams",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bestbuysoccer.com/collections/austria-national-football-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bestbuysoccer.com/collections/costa-rica-national-football-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bestbuysoccer.com/collections/england-national-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bestbuysoccer.com/collections/netherlands-national-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.bestbuysoccer.com/contact",
+        "action": "https://www.bestbuysoccer.com/contact/index/post/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Shop specialty soccer gear at Best Buy Soccer\u2014cleats, teamwear, goalkeeper gear, and supporter apparel. Trusted expertise, fast shipping, and stores across the Southeast.",
+    "source_urls": [
+      "https://www.bestbuysoccer.com",
+      "https://www.bestbuysoccer.com/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 17
+  },
+  {
+    "company_domain": "bestchoiceproducts.com",
+    "company_name": "Best Choice Products",
+    "website": "https://bestchoiceproducts.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://bestchoiceproducts.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestchoiceproducts.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2014-08-05"
+      },
+      {
+        "url": "https://bestchoiceproducts.com/pages/about-us-best-choice-products",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestchoiceproducts.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestchoiceproducts.com/products/6-piece-enameled-cast-iron-cookware-set-6qt-dutch-oven-w-lid-2qt-skillet-w-lid-grill-pan-grill-press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bestchoiceproducts.com/pages/contact-us",
+        "action": "/contact#ContactForm-template--21698091450554__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Best Choice Products offers a catalog that\u2019s developed in-house with home furniture, toys, outdoor and seasonal products, all at value prices. FREE SHIPPING is always on us.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "bestclippers.com",
+    "company_name": "Best Clippers",
+    "website": "https://bestclippers.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "sales@bestclippers.com",
+        "confidence": "high",
+        "source_url": "https://bestclippers.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "eturn policy Need to contact us ? Just send us an e-mail at sales@BestClippers.com Go to slide 1 Go to slide 2 Go to slide 3 Go"
+      }
+    ],
+    "role_emails": [
+      "sales@bestclippers.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bestclippers.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestclippers.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestclippers.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bestclippers.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Welcome to BestClippers.com. We carry a huge selection of barber supplies, hair clippers and trimmers including Cocco, Oster, Andis, Wahl, Babyliss, Gamma, Stylecraft at unbeatable prices for barbers and general public.",
+    "source_urls": [
+      "https://bestclippers.com",
+      "https://bestclippers.com/pages/about-us",
+      "https://bestclippers.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bestcrawfishllc.com",
+    "company_name": "bestcrawfishllc.com",
+    "website": "https://bestcrawfishllc.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://bestcrawfishllc.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestcrawfishllc.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Order Sacks of Crawfish LIve or Boiled, Local Reservation for Pickup or Delivery to your door and nearest airport",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "bestcustom.co",
+    "company_name": "Best Custom",
+    "website": "https://bestcustom.co",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@bestcustom.co",
+        "confidence": "high",
+        "source_url": "https://bestcustom.co",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Contact Us Support Time: 9 AM to 5 PM, Mon-Sat Email : support@bestcustom.co Business Address : 1776, 701 Tillery Street Unit 12, Austin"
+      }
+    ],
+    "role_emails": [
+      "support@bestcustom.co"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bestcustom.co",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestcustom.co/collections/pajamas/products/personalized-soccer-pajama-soccer-pajama-gift-gift-for-soccer-player-soccer-gift-soccer-team-gift-1728446462746442",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestcustom.co/collections/pajamas/products/personalized-volleyball-pajama-volleyball-pajama-gift-gift-for-volleyball-player-volleyball-gift-volleyball-team-gift-1728444753990412",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestcustom.co/collections/pajamas/products/personalized-softball-pajama-with-your-name-sports-gift-softball-gift-gift-for-softball-player-team-gift-softball-team-gift-1728445243557813",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestcustom.co/collections/pajamas/products/personalized-baseball-pajama-sports-gift-baseball-pajama-gift-gift-for-baseball-player-team-gift-baseball-team-gift-custom-pajama-1728445752719377",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestcustom.co/collections/graduation-banner/products/baseball-team-banner-sports-team-banner-softball-team-banner-little-league-banner-team-poster-custom-photo-banners-full-color-team-banner-1740553670806336",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestcustom.co/collections/graduation-banner/products/custom-printed-vinyl-volleyball-banner-weatherproof-high-school-senior-night-poster-personalized-team-photo-banners-sports-legends-1741856737352774",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestcustom.co/collections/graduation-embroidered-shirt/products/embroidered-personalized-senior-sweatshirt-senior-cheer-gift-coquette-senior-team-shirt-senior-night-cheer-team-shirt-class-of-2026-1760688795381528",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestcustom.co/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestcustom.co/pages/contact-us-1",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Best Custom provides the most creative personalized gifts for Family, couple , friends , dog lovers, cat lovers. Create the best unique customized gifts for all occasions and recipients. We also offer memorial gifts for your loved ones.",
+    "source_urls": [
+      "https://bestcustom.co",
+      "https://bestcustom.co/collections/pajamas/products/personalized-soccer-pajama-soccer-pajama-gift-gift-for-soccer-player-soccer-gift-soccer-team-gift-1728446462746442",
+      "https://bestcustom.co/collections/pajamas/products/personalized-volleyball-pajama-volleyball-pajama-gift-gift-for-volleyball-player-volleyball-gift-volleyball-team-gift-1728444753990412",
+      "https://bestcustom.co/collections/pajamas/products/personalized-softball-pajama-with-your-name-sports-gift-softball-gift-gift-for-softball-player-team-gift-softball-team-gift-1728445243557813",
+      "https://bestcustom.co/collections/pajamas/products/personalized-baseball-pajama-sports-gift-baseball-pajama-gift-gift-for-baseball-player-team-gift-baseball-team-gift-custom-pajama-1728445752719377",
+      "https://bestcustom.co/collections/graduation-banner/products/baseball-team-banner-sports-team-banner-softball-team-banner-little-league-banner-team-poster-custom-photo-banners-full-color-team-banner-1740553670806336",
+      "https://bestcustom.co/collections/graduation-banner/products/custom-printed-vinyl-volleyball-banner-weatherproof-high-school-senior-night-poster-personalized-team-photo-banners-sports-legends-1741856737352774",
+      "https://bestcustom.co/collections/graduation-embroidered-shirt/products/embroidered-personalized-senior-sweatshirt-senior-cheer-gift-coquette-senior-team-shirt-senior-night-cheer-team-shirt-class-of-2026-1760688795381528",
+      "https://bestcustom.co/pages/about-us",
+      "https://bestcustom.co/pages/contact-us-1"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 18
+  },
+  {
+    "company_domain": "bestdaybrewing.com",
+    "company_name": "Best Day Brewing",
+    "website": "https://bestdaybrewing.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "pr@bestdaybrewing.com",
+        "confidence": "high",
+        "source_url": "https://bestdaybrewing.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Sales Inquiries: sales@bestdaybrewing.com Press Inquiries: pr@bestdaybrewing.com This site is prote"
+      },
+      {
+        "address": "sales@bestdaybrewing.com",
+        "confidence": "high",
+        "source_url": "https://bestdaybrewing.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "r other inquiries, please reach out here: Sales Inquiries: sales@bestdaybrewing.com Press Inquiries: pr@bestdaybrewing.com"
+      }
+    ],
+    "role_emails": [
+      "pr@bestdaybrewing.com",
+      "sales@bestdaybrewing.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bestdaybrewing.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestdaybrewing.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bestdaybrewing.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "We are dedicated to making the best non-alcoholic beers so you can stay committed to doing what you love without ever slowing down. Shop NA beer now!",
+    "source_urls": [
+      "https://bestdaybrewing.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "bestdollsforkids.com",
+    "company_name": "Best Dolls For Kids",
+    "website": "https://bestdollsforkids.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "thedollhouse@bestdollsforkids.com",
+        "confidence": "medium",
+        "source_url": "https://bestdollsforkids.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "thedollhouse@bestdollsforkids.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bestdollsforkids.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Grandparents! Find your kids their Perfect Dolls! Dolls for Girls and Dolls for Boys. Black Dolls, Asian Dolls, Hispanic, Biracial and Multicultural Dolls. Dolls for all ages from Newborn to Toddlers, or for Pre-school and older. All at BestDollsForKids.com",
+    "source_urls": [
+      "https://bestdollsforkids.com"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "bestercaviarstore.com",
+    "company_name": "Bester Caviar",
+    "website": "https://bestercaviarstore.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://bestercaviarstore.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestercaviarstore.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Buy caviar online and get premium quality caviar at best prices \u27a4 Online Caviar Store \u27a4 Order caviar online with free overnight delivery in the US \u27a4 Call now! +1 (813) 510-9892 - Your Favorite Caviar Shop",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "bestflag.com",
+    "company_name": "BestFlag",
+    "website": "https://bestflag.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "connect@bestflag.com",
+        "confidence": "highest",
+        "source_url": "https://bestflag.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "& Displays Home Decor 877.312.1105 connect@bestflag.com Stay in the loop with our newsletter Ente"
+      },
+      {
+        "address": "sales@bestflag.com",
+        "confidence": "high",
+        "source_url": "https://bestflag.com/products/custom-spirit-team-flag",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "u003esales@bestflag.com",
+        "confidence": "high",
+        "source_url": "https://bestflag.com/products/custom-spirit-team-flag",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "connect@bestflag.com",
+      "sales@bestflag.com",
+      "u003esales@bestflag.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bestflag.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestflag.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestflag.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestflag.com/products/custom-spirit-team-flag",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestflag.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bestflag.com/contact",
+        "action": "/contact#ContactForm-template--27141123833929__contact-form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://bestflag.com/products/custom-spirit-team-flag",
+        "action": "/contact#ContactForm-template--27141124751433__faq",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://bestflag.com/pages/contact",
+        "action": "/contact#ContactForm-template--27141123833929__contact-form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "BestFlag is your Custom Flags and Feather Flags Specialist! Design your own flag or contact us to help. No minimum orders & free shipping - order online.",
+    "source_urls": [
+      "https://bestflag.com",
+      "https://bestflag.com/about",
+      "https://bestflag.com/contact",
+      "https://bestflag.com/products/custom-spirit-team-flag",
+      "https://bestflag.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bestfriendmobility.net",
+    "company_name": "Best Friend Mobility",
+    "website": "https://bestfriendmobility.net",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "sales@bestfriendmobility.net",
+        "confidence": "highest",
+        "source_url": "https://bestfriendmobility.net",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "d Mobility 279 Hwy 57 S STE4 Little River SC 29566, USA sales@bestfriendmobility.net +1 (843) 492-5283 Follow on Facebook Follow on Instagra"
+      }
+    ],
+    "role_emails": [
+      "sales@bestfriendmobility.net"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bestfriendmobility.net",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestfriendmobility.net/collections/rear-support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestfriendmobility.net/collections/pro-rear-support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestfriendmobility.net/collections/quad-support-full-support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestfriendmobility.net/collections/front-support-wheelchair",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestfriendmobility.net/products/updog-hind-leg-support-sling-lifting-harness-l",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestfriendmobility.net/pages/contact_us-php",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestfriendmobility.net/collections/rear-support/products/standard-rear-support-dog-wheelchair-factory-refurbished",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestfriendmobility.net/collections/rear-support/products/rear-support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestfriendmobility.net/collections/rear-support/products/standard-rear-support-wheelchair-2-0-large",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bestfriendmobility.net/pages/contact_us-php",
+        "action": "/contact#contact_form_page",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Best Friend Mobility proudly offers high-quality wheelchairs for dogs at great prices. Explore our products to find the best solution for your best friend.",
+    "source_urls": [
+      "https://bestfriendmobility.net",
+      "https://bestfriendmobility.net/collections/rear-support",
+      "https://bestfriendmobility.net/collections/pro-rear-support",
+      "https://bestfriendmobility.net/collections/quad-support-full-support",
+      "https://bestfriendmobility.net/collections/front-support-wheelchair",
+      "https://bestfriendmobility.net/products/updog-hind-leg-support-sling-lifting-harness-l",
+      "https://bestfriendmobility.net/pages/contact_us-php",
+      "https://bestfriendmobility.net/collections/rear-support/products/standard-rear-support-dog-wheelchair-factory-refurbished",
+      "https://bestfriendmobility.net/collections/rear-support/products/rear-support",
+      "https://bestfriendmobility.net/collections/rear-support/products/standard-rear-support-wheelchair-2-0-large"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 18
+  },
+  {
+    "company_domain": "bestfriendsbysheri.com",
+    "company_name": "Best Friends by Sheri",
+    "website": "https://bestfriendsbysheri.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://bestfriendsbysheri.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestfriendsbysheri.com/pages/best-friends-by-sheri-in-the-press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestfriendsbysheri.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bestfriendsbysheri.com/pages/contact",
+        "action": "/contact#contact-form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Calming dog beds, donut cuddlers, and plush accessories are crafted with high-quality, vegan faux fur for a cozy and restful experience for your pet. Shop Machine washable Luxury Dog Beds at Best Friends By Sheri.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bestfriendsconsignment.com",
+    "company_name": "bestfriendsconsignment.com",
+    "website": "https://bestfriendsconsignment.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@bestfriendsconsignment.com",
+        "confidence": "high",
+        "source_url": "https://bestfriendsconsignment.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "include your name, phone number, pictures & information to: info@bestfriendsconsignment.com Back to the top N"
+      }
+    ],
+    "role_emails": [
+      "info@bestfriendsconsignment.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bestfriendsconsignment.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestfriendsconsignment.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Best Friend's Consignment Algonquin IL \u2022 Consignment Shop & Online Consignment! \u2022 (847) 458-9530 \u2022 3955 W Algonquin Rd.",
+    "source_urls": [
+      "https://bestfriendsconsignment.com",
+      "https://bestfriendsconsignment.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "bestglide.com",
+    "company_name": "Best Glide ASE",
+    "website": "https://www.bestglide.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customer.service@bestglide.com",
+        "confidence": "highest",
+        "source_url": "https://www.bestglide.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "-834-9971 International: 254-662-5266 Fax: 254-662-9097 customer.service@bestglide.com We are proud to offer numerous survival solutions to the"
+      }
+    ],
+    "role_emails": [
+      "customer.service@bestglide.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.bestglide.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bestglide.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bestglide.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bestglide.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.bestglide.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Best Glide ASE provides high quality survival equipment, survival gear and survival kits to the U.S. Military, U.S. Government, rescue agencies, corporations, individuals and adventurers that require the highest quality survival equipment & survival kits available. We offer military issue & military",
+    "source_urls": [
+      "https://www.bestglide.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bestier.net",
+    "company_name": "Bestier",
+    "website": "https://bestier.net",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "service@bestier.net",
+        "confidence": "high",
+        "source_url": "https://bestier.net",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "service@bestier.net"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bestier.net",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestier.net/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestier.net/pages/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestier.net/pages/about-us-1",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bestier.net/pages/contact-information",
+        "action": "/contact#contact-form-template--19059106349195__contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Bestier covers all your needs for stylish,modern home design. Shop and Browse the L shaped desk, gaming desk, and other furniture. Get Fast & Free Shipping!",
+    "source_urls": [
+      "https://bestier.net",
+      "https://bestier.net/about",
+      "https://bestier.net/pages/contact-information",
+      "https://bestier.net/pages/about-us-1"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bestiespets.com",
+    "company_name": "Besties",
+    "website": "https://bestiespets.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@bestiespets.com",
+        "confidence": "high",
+        "source_url": "https://bestiespets.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ckly as we can, usually within 1 business day. Email us at support@bestiespets.com, or drop us a message below. Name *"
+      }
+    ],
+    "role_emails": [
+      "support@bestiespets.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bestiespets.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestiespets.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestiespets.com/products/pine-tree-car-air-freshener-for-dog-people",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestiespets.com/pages/about-besties",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestiespets.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bestiespets.com/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://bestiespets.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Shop silicone dog tags + pet ID tags made to be jingle-free and easy to read. Explore pet gear, dog hats and bandanas designed for pets with big personalities.",
+    "source_urls": [
+      "https://bestiespets.com/contact",
+      "https://bestiespets.com/products/pine-tree-car-air-freshener-for-dog-people",
+      "https://bestiespets.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "bestiesveganparadise.com",
+    "company_name": "BESTIES Vegan Paradise",
+    "website": "https://bestiesveganparadise.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "holler@bestiesveganparadise.com",
+        "confidence": "highest",
+        "source_url": "https://bestiesveganparadise.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "K +1 (929) 456-4882 holler@bestiesveganparadise.com z Search"
+      }
+    ],
+    "role_emails": [
+      "holler@bestiesveganparadise.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bestiesveganparadise.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestiesveganparadise.com/pages/press-1",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestiesveganparadise.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestiesveganparadise.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bestiesveganparadise.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "BESTIES Vegan Paradise is proud to be the first and only vegan marketplace in the country to sell products exclusively from 100% vegan brands - all of the products we sell are from independent companies that do not use any animal ingredients in anything that they make and never conduct any animal te",
+    "source_urls": [
+      "https://bestiesveganparadise.com",
+      "https://bestiesveganparadise.com/pages/press-1",
+      "https://bestiesveganparadise.com/pages/about",
+      "https://bestiesveganparadise.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "bestma.us",
+    "company_name": "bestma.us",
+    "website": "https://bestma.us",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@bestma.us",
+        "confidence": "high",
+        "source_url": "https://bestma.us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "MOOTO USA 7120 Alondra Blvd., Paramount, CA 90723 Email: info@bestma.us Tel: (800) 346-3116, (877) 666-8662"
+      },
+      {
+        "address": "james@bestma.us",
+        "confidence": "high",
+        "source_url": "https://bestma.us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@bestma.us",
+      "james@bestma.us"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bestma.us",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestma.us/search?q=TEAM+DUFFLE",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestma.us/pages/team-registration-form",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bestma.us/pages/team-registration-form",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": null,
+    "source_urls": [
+      "https://bestma.us",
+      "https://bestma.us/search?q=TEAM+DUFFLE",
+      "https://bestma.us/pages/team-registration-form"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bestmadeco.com",
+    "company_name": "Best Made Company",
+    "website": "https://www.bestmadeco.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.bestmadeco.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bestmadeco.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bestmadeco.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bestmadeco.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bestmadeco.com/pages/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bestmadeco.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.bestmadeco.com/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.bestmadeco.com/pages/support",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.bestmadeco.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "We are an independent, designer-led product company at the intersection of work, adventure, and reinvention.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "bestmapsever.com",
+    "company_name": "Best Maps Ever",
+    "website": "https://bestmapsever.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "%20info@bestmapsever.com",
+        "confidence": "highest",
+        "source_url": "https://bestmapsever.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "info@bestmapsever.com",
+        "confidence": "highest",
+        "source_url": "https://bestmapsever.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "%20info@bestmapsever.com",
+      "info@bestmapsever.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bestmapsever.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestmapsever.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestmapsever.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bestmapsever.com/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://bestmapsever.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Stylish posters that map out locations related to a specific hobby. Use them to track your adventures and decorate your walls.",
+    "source_urls": [
+      "https://bestmapsever.com",
+      "https://bestmapsever.com/contact",
+      "https://bestmapsever.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "bestmarineandoutdoors.com",
+    "company_name": "Best Marine & Outdoors",
+    "website": "https://bestmarineandoutdoors.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@bestmarineandoutdoors.com",
+        "confidence": "highest",
+        "source_url": "https://bestmarineandoutdoors.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@bestmarineandoutdoors.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bestmarineandoutdoors.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestmarineandoutdoors.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bestmarineandoutdoors.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Help people find inner peace, purpose and better health through kayaking",
+    "source_urls": [
+      "https://bestmarineandoutdoors.com",
+      "https://bestmarineandoutdoors.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "bestnestbox.com",
+    "company_name": "bestnestbox.com",
+    "website": "https://bestnestbox.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@bestnestbox.com",
+        "confidence": "high",
+        "source_url": "https://bestnestbox.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "n in Contact Us Email - support@bestnestbox.com Phone - (330) 558-1120 Find us on Facebook - www.faceb"
+      }
+    ],
+    "role_emails": [
+      "support@bestnestbox.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bestnestbox.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestnestbox.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bestnestbox.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "We are Best Nest Box and we provide you with the best quality rollout chicken nest boxes to make protecting and collecting eggs easy.",
+    "source_urls": [
+      "https://bestnestbox.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "bestnestwellness.com",
+    "company_name": "Best Nest Wellness",
+    "website": "https://www.bestnestwellness.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.bestnestwellness.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bestnestwellness.com/pages/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "We create brain-first nutrition for the First 1000 Days and beyond - empowering families to reach their full potential through better brain health.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "bestofbritishnbpt.com",
+    "company_name": "Best of British NBPT",
+    "website": "https://www.bestofbritishnbpt.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@bestofbritishnbpt.com",
+        "confidence": "highest",
+        "source_url": "https://www.bestofbritishnbpt.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "s at 22 State Street, Newburyport, MA, 01950. info@bestofbritishnbpt.com +1 (978) 465-6976 In-store Shop"
+      }
+    ],
+    "role_emails": [
+      "info@bestofbritishnbpt.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.bestofbritishnbpt.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bestofbritishnbpt.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bestofbritishnbpt.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.bestofbritishnbpt.com/pages/contact-us",
+        "action": "/contact#ContactForm-template--29520273866918__contact_form_H9GQED",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Authentic British gifts, Barbour clothing, Dunoon mugs and UK imports. Our shop at 22 State Street, Newburyport, ships across the USA.",
+    "source_urls": [
+      "https://www.bestofbritishnbpt.com",
+      "https://www.bestofbritishnbpt.com/pages/about-us",
+      "https://www.bestofbritishnbpt.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bestoftimesusa.com",
+    "company_name": "Best of Times USA",
+    "website": "https://bestoftimesusa.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://bestoftimesusa.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bestoftimesusa.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2013-01-29"
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Shop By Design Solid Colors Tiki Bars Margaritaville Classic Colors Game Day Happy Hour Flags & Military Organic Elements Original Designs Auto Racing Birthday Baby Wedding Fun Patterns Holiday Seasonal Accessories Replacement Parts Gift Cards",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  }
+]
