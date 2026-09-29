@@ -1,0 +1,1360 @@
+[
+  {
+    "company_domain": "bunnycorset.com",
+    "company_name": "Bunny Corset",
+    "website": "https://www.bunnycorset.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "robots_disallowed",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "bunnyeyez.com",
+    "company_name": "Bunny Eyez",
+    "website": "https://bunnyeyez.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customer.service@bunnyeyez.com",
+        "confidence": "high",
+        "source_url": "https://bunnyeyez.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "customer.service@bunnyeyez.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bunnyeyez.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bunnyeyez.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bunnyeyez.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bunnyeyez.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Simply the most flippable, tiltable, adjustable high quality reading glasses available. Bunny Eyez combines style, function and affordability to create the perfect readers.",
+    "source_urls": [
+      "https://bunnyeyez.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bunnyhopkinstoys.com",
+    "company_name": "Bunny Hopkins",
+    "website": "https://bunnyhopkinstoys.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@bunnyhopkinstoys.com",
+        "confidence": "high",
+        "source_url": "https://bunnyhopkinstoys.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ually get back to you the same day. Email Us anytime at hello@bunnyhopkinstoys.com . DM Us on Instagram at @bunnyhopkinstoys . Use the C"
+      }
+    ],
+    "role_emails": [
+      "hello@bunnyhopkinstoys.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bunnyhopkinstoys.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bunnyhopkinstoys.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bunnyhopkinstoys.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bunnyhopkinstoys.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Handcrafted wooden playsets made in Georgia, USA. Shop wobble boards, climbers, arches, balance beams, and active play equipment that encourage movement, confidence, and screen-free play.",
+    "source_urls": [
+      "https://bunnyhopkinstoys.com/pages/contact-us",
+      "https://bunnyhopkinstoys.com/policies/contact-information"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bunnyjamesboxes.com",
+    "company_name": "Bunny James Boxes",
+    "website": "https://bunnyjamesboxes.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@bunnyjamesboxes.com",
+        "confidence": "high",
+        "source_url": "https://bunnyjamesboxes.com/pages/press",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Press Press Inquires: Email Info@bunnyjamesboxes.com RESOURCES & FAQ"
+      }
+    ],
+    "role_emails": [
+      "info@bunnyjamesboxes.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bunnyjamesboxes.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bunnyjamesboxes.com/pages/about-us-1",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bunnyjamesboxes.com/pages/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bunnyjamesboxes.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bunnyjamesboxes.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Experience the joy of snacking with Bunny James Boxes! Our deliciously thoughtful selection features the best snacks for every preference, handpicked to satisfy your cravings and match your taste buds.",
+    "source_urls": [
+      "https://bunnyjamesboxes.com/pages/press"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "bunnyknots.co",
+    "company_name": "Bunny Knots",
+    "website": "https://bunnyknots.co",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://bunnyknots.co",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bunnyknots.co/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Home of the world famous Bunny Knots Headwraps and Velveteen Modal & Bamboo Loungewear and Pajamas. From babies to adults, we got you covered!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "bunnyshoppe.com",
+    "company_name": "Bunny Shoppe",
+    "website": "https://bunnyshoppe.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": "We\u2019re pressing pause for now and our shop is currently closed.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "bunnywilliamshome.com",
+    "company_name": "Bunny Williams",
+    "website": "https://www.bunnywilliamshome.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "contact@bunnywilliamshome.com",
+        "confidence": "highest",
+        "source_url": "https://www.bunnywilliamshome.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "212-935-5930 Email - contact@bunnywilliamshome.com Bunny Williams Home Showroom Inte"
+      }
+    ],
+    "role_emails": [
+      "contact@bunnywilliamshome.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.bunnywilliamshome.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bunnywilliamshome.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bunnywilliamshome.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.bunnywilliamshome.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Bunny Williams Home is a collection of side tables, lamps, chairs, case pieces, upholstery, mirrors, coffee and drinks tables as well as unusual accessories.",
+    "source_urls": [
+      "https://www.bunnywilliamshome.com",
+      "https://www.bunnywilliamshome.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bunstersworldwide.com",
+    "company_name": "Bunsters Worldwide",
+    "website": "https://www.bunstersworldwide.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@bunstersworldwide.com",
+        "confidence": "highest",
+        "source_url": "https://www.bunstersworldwide.com/pages/contact-faqs",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "rtificial sweeteners. Get in touch Email hello@bunstersworldwide.com or drop us a message. We read every one. Backed by our L"
+      }
+    ],
+    "role_emails": [
+      "hello@bunstersworldwide.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.bunstersworldwide.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bunstersworldwide.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bunstersworldwide.com/pages/contact-faqs",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.bunstersworldwide.com/pages/contact-faqs",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "More Flavour with every bite. And sip. Backed with a hassle-free Love it or It's Free Guarantee. The Home of Shit The Bed Hot Sauce. Hot Ones Season 6.",
+    "source_urls": [
+      "https://www.bunstersworldwide.com/pages/contact-faqs"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "buoyantwinestorage.com",
+    "company_name": "Buoyant Wine Storage",
+    "website": "https://buoyantwinestorage.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@buoyantwinestorage.com",
+        "confidence": "high",
+        "source_url": "https://buoyantwinestorage.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "vice Toll Free Number: 404.901.5901 Customer Service Email: info@buoyantwinestorage.com Trade Programs Sign up for our Designer, Arc"
+      },
+      {
+        "address": "mc@buoyantwinestorage.com",
+        "confidence": "high",
+        "source_url": "https://buoyantwinestorage.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@buoyantwinestorage.com",
+      "mc@buoyantwinestorage.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://buoyantwinestorage.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buoyantwinestorage.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buoyantwinestorage.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://buoyantwinestorage.com/pages/contact-us",
+        "action": "/contact#contact-form-template--15205078204518__contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "The patented BUOYANT\u00ae system is an aesthetic suspended cable wine racking system. Various installation units available including wall brackets & frames.",
+    "source_urls": [
+      "https://buoyantwinestorage.com",
+      "https://buoyantwinestorage.com/pages/about-us",
+      "https://buoyantwinestorage.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "burbankcards.com",
+    "company_name": "Burbank Cards",
+    "website": "https://burbankcards.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://burbankcards.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://burbankcards.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2024-08-14"
+      },
+      {
+        "url": "https://burbankcards.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://burbankcards.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://burbankcards.com/pages/contact-us",
+        "action": "/contact#bscContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Shop thousands of trading card singles and sealed boxes! Basketball, Hockey, Baseball, Football, Pokemon and more! Local pickup available, as well as lightning fast shipping.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "burbvus.us",
+    "company_name": "burbvus.us",
+    "website": "https://burbvus.us",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@burbvus.us",
+        "confidence": "highest",
+        "source_url": "https://burbvus.us/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Write to us For detailed questions and order support hello@burbvus.us Call us USA & Canada toll free 1 (800) 401-7212 Message"
+      }
+    ],
+    "role_emails": [
+      "hello@burbvus.us"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://burbvus.us",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://burbvus.us/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://burbvus.us/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://burbvus.us/pages/contact-us",
+        "action": "/contact#BurbvusContactForm-template--21513872867526__burbvus_contact_2026",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Discover the silk christening gowns collection for your baby\u2019s baptism. We also have head accesories, candles and bracelets for Christening. Free national shipping.",
+    "source_urls": [
+      "https://burbvus.us",
+      "https://burbvus.us/pages/contact-us",
+      "https://burbvus.us/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "burchfieldpenney.org",
+    "company_name": "Burchfield Penney Museum Store",
+    "website": "https://shop.burchfieldpenney.org",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://shop.burchfieldpenney.org",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.burchfieldpenney.org/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.burchfieldpenney.org/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://shop.burchfieldpenney.org/pages/contact",
+        "action": "/contact#contact-us-page",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Shop the Burchfield Penney Art Center Museum Store for one-of-a-kind gifts by local artisans, as well as merchandise that celebrates Buffalo, Western New York and Charles E. Burchfield.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "burchsshoes.com",
+    "company_name": "Burch's Shoes",
+    "website": "https://burchsshoes.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@burchsshoes.com",
+        "confidence": "highest",
+        "source_url": "https://burchsshoes.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2014-10-11",
+        "context_snippet": "ene OR 97401 phone: 541.683.4115 | fax: 541.338.0644 info@burchsshoes.com main store hours: Monday-Friday 10-8 | Saturday 10-"
+      }
+    ],
+    "role_emails": [
+      "info@burchsshoes.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://burchsshoes.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://burchsshoes.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2014-10-11"
+      },
+      {
+        "url": "https://burchsshoes.com/pages/locations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://burchsshoes.com/pages/locations/shoe-mill-at-bridgeport-village",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://burchsshoes.com/pages/locations/shoe-mill-at-cascade-station",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://burchsshoes.com/pages/locations/shoe-mill-at-clackamas-promenade",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://burchsshoes.com/pages/locations/shoe-mill-at-clackamas-town-center",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://burchsshoes.com/pages/locations/shoe-mill-at-gresham-station",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://burchsshoes.com/pages/locations/shoe-mill-at-salem-center",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://burchsshoes.com/pages/locations/shoe-mill-at-washington-square",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Come visit the finest retail shoe stores throughout Portland OR. Shoe Mill has been making customers happy for over 40 years with our products.",
+    "source_urls": [
+      "https://burchsshoes.com/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 17
+  },
+  {
+    "company_domain": "burchstoretractors.com",
+    "company_name": "BURCH STORE TRACTORS",
+    "website": "https://burchstoretractors.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://burchstoretractors.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://burchstoretractors.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Farm equipment company selling NEW AND USED IH Farmall cultivator, fertilizer units, implements, planter and tractor parts, also 1 Point Fast Hitch equipment.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "burchsupply.com",
+    "company_name": "Burch Supply Co.",
+    "website": "https://burchsupply.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "burdaclothing.com",
+    "company_name": "Burdaclothing",
+    "website": "https://burdaclothing.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@burdaclothing.com",
+        "confidence": "high",
+        "source_url": "https://burdaclothing.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "For wholesale inquiries and corporate information, contact info@burdaclothing.com Location We are located in Pisc"
+      },
+      {
+        "address": "support@burdaclothing.com",
+        "confidence": "high",
+        "source_url": "https://burdaclothing.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "0.00 Location&Hours: support@burdaclothing.com 1030 Stelton Road #203, Piscataway, New Jersey, 08854 (Abov"
+      }
+    ],
+    "role_emails": [
+      "info@burdaclothing.com",
+      "support@burdaclothing.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://burdaclothing.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://burdaclothing.com/collections/prayer-rug-1/products/family-prayer-mat-3-5-people",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://burdaclothing.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Islamic clothing including Thobes, Kufis, Vests, Shawls, Wudu Socks, Abayas, Hijabs, Prayer mats, books, etc;",
+    "source_urls": [
+      "https://burdaclothing.com",
+      "https://burdaclothing.com/collections/prayer-rug-1/products/family-prayer-mat-3-5-people",
+      "https://burdaclothing.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "burdeens.com",
+    "company_name": "Burdeen's Jewelry",
+    "website": "https://burdeens.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "evan@burdeens.com",
+        "confidence": "high",
+        "source_url": "https://burdeens.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "info@burdeens.com",
+        "confidence": "high",
+        "source_url": "https://burdeens.com/pages/team-burdeen-charity",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "sales@burdeens.com",
+        "confidence": "high",
+        "source_url": "https://burdeens.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "shopify@burdeens.com",
+        "confidence": "high",
+        "source_url": "https://burdeens.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "u003ersvp@burdeens.com",
+        "confidence": "high",
+        "source_url": "https://burdeens.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "u003esales@burdeens.com",
+        "confidence": "high",
+        "source_url": "https://burdeens.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "evan@burdeens.com",
+      "info@burdeens.com",
+      "sales@burdeens.com",
+      "shopify@burdeens.com",
+      "u003ersvp@burdeens.com",
+      "u003esales@burdeens.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://burdeens.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://burdeens.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://burdeens.com/pages/locations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://burdeens.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://burdeens.com/pages/team-burdeen-charity",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://burdeens.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://burdeens.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Shop luxury watches, fine jewelry, engagement rings and designer collections from renowned brands at Burdeen\u2019s Jewelry. Browse the collection today.",
+    "source_urls": [
+      "https://burdeens.com",
+      "https://burdeens.com/about",
+      "https://burdeens.com/pages/locations",
+      "https://burdeens.com/pages/about-us",
+      "https://burdeens.com/pages/team-burdeen-charity",
+      "https://burdeens.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "burdeenschicago.com",
+    "company_name": "Burdeens Chicago",
+    "website": "https://burdeenschicago.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://burdeenschicago.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://burdeenschicago.com/collections/hounds-team-store",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Burdeens Chicago - New Era Authorized Dealer. 59Fifty, 9Fifty, 49Forty, 39Thirty, 9Twenty.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "burga.com",
+    "company_name": "Burga",
+    "website": "https://www.burga.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "press@burga.com",
+        "confidence": "highest",
+        "source_url": "https://www.burga.com/pages/press",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "media inquiries and gifting requests please contact us at press@burga.com Featured in Premium quality"
+      },
+      {
+        "address": "collab@burga.com",
+        "confidence": "high",
+        "source_url": "https://www.burga.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "hello@burga.com",
+        "confidence": "high",
+        "source_url": "https://www.burga.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "wholesale@burga.com",
+        "confidence": "high",
+        "source_url": "https://www.burga.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "RGA products we are open for partnerships, contact us at: wholesale@burga.com Our Address for Correspondence & Returns: UAB Hautica"
+      }
+    ],
+    "role_emails": [
+      "collab@burga.com",
+      "hello@burga.com",
+      "press@burga.com",
+      "wholesale@burga.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.burga.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.burga.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.burga.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.burga.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.burga.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.burga.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.burga.com/pages/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Stand out from the crowd with unique daily essentials from BURGA. Shop now for stylish phone cases, statement eyewear, elegant drinkware & more.",
+    "source_urls": [
+      "https://www.burga.com",
+      "https://www.burga.com/our-team",
+      "https://www.burga.com/about-us",
+      "https://www.burga.com/media",
+      "https://www.burga.com/pages/contact",
+      "https://www.burga.com/pages/press"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "burgeonbeer.com",
+    "company_name": "Burgeon Beer Company",
+    "website": "https://burgeonbeer.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "taproom@burgeonbeer.com",
+        "confidence": "highest",
+        "source_url": "https://burgeonbeer.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "taproom@burgeonbeer.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://burgeonbeer.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://burgeonbeer.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2019-12-09"
+      },
+      {
+        "url": "https://burgeonbeer.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2019-12-09"
+      },
+      {
+        "url": "https://burgeonbeer.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://burgeonbeer.com/products/juice-press-hazy-ipa-4-pack",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://burgeonbeer.com/contact",
+        "action": "/contact/#cntctfrm_contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://burgeonbeer.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Burgeon Beer Company is a craft beer brewery and taproom rooted in Carlsbad with branches open in Escondido, Downtown San Diego, and Vista.",
+    "source_urls": [
+      "https://burgeonbeer.com",
+      "https://burgeonbeer.com/contact",
+      "https://burgeonbeer.com/pages/contact",
+      "https://burgeonbeer.com/products/juice-press-hazy-ipa-4-pack"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "burgeonoutdoor.com",
+    "company_name": "Burgeon Outdoor",
+    "website": "https://www.burgeonoutdoor.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.burgeonoutdoor.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.burgeonoutdoor.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.burgeonoutdoor.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Burgeon Outdoor manufactures premium alpine apparel in the heart of the White Mountains. EST 2019 | Lincoln, New Hampshire",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "burgerhouse.com",
+    "company_name": "burgerhouse",
+    "website": "https://store.burgerhouse.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://store.burgerhouse.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "burgerhouse",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "burgershewrote.com",
+    "company_name": "Burger She Wrote",
+    "website": "https://burgershewrote.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@burgershewrote.com",
+        "confidence": "high",
+        "source_url": "https://burgershewrote.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "barriers or have suggestions, please contact us: Email: info@burgershewrote.com Contact form: Available on our website In person: At an"
+      }
+    ],
+    "role_emails": [
+      "info@burgershewrote.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://burgershewrote.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://burgershewrote.com",
+        "action": "https://burgershewrote.com/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Burger She Wrote is a no-fuss smashburger joint co-founded by pro skater Don \u201cThe Nuge\u201d Nguyen, serving up 100% American Wagyu beef on King\u2019s Hawaiian buns. With locations in Hollywood and Venice, our menu keeps it simple and classic\u2014just fresh, bold flavor without the gimmicks. Order online now and",
+    "source_urls": [
+      "https://burgershewrote.com"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "burgersmashers.com",
+    "company_name": "Burger Iron",
+    "website": "https://burgersmashers.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://burgersmashers.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://burgersmashers.com/products/the-sasquash-cheese-melting-dome-steam-cover",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://burgersmashers.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://burgersmashers.com/products/sasquash-bigfoot-burger-smasher-professional-grade-burger-press-monster-8-wide-3-pound-welded-stainless-steel-smashed-burger-grill-tool-blackstone-griddle-steak-weight-and-flat-top-press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://burgersmashers.com/pages/contact-us",
+        "action": "/contact#contact-form-template--15775203229753__contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Sasquash offers the ultimate tools for making gourmet burgers. Our range of burger presses are obsessively over engineered to ensure a perfect smash every time. Whether you're on a blackstone griddle, grill or cast iron skillet, we have the burger spatulas, smashers and accessories to enhance your g",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "burgertokens.com",
+    "company_name": "Burger Tokens",
+    "website": "https://burgertokens.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "andrew@burgertokens.com",
+        "confidence": "high",
+        "source_url": "https://burgertokens.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "andrew@burgertokens.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://burgertokens.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://burgertokens.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://burgertokens.com/collections/kill-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Our tokens are made with a near-invincible epoxy, ultra-strong 3M adhesive, and a top of the line full-color offset print. Place a \"bun\" on each side of a penny, and you get a luxury token that will last you a lifetime. Free shipping in the USA.",
+    "source_urls": [
+      "https://burgertokens.com",
+      "https://burgertokens.com/contact",
+      "https://burgertokens.com/collections/kill-team"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  }
+]
