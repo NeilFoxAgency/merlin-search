@@ -1,0 +1,1451 @@
+[
+  {
+    "company_domain": "bloomnu.com",
+    "company_name": "Bloom Nutrition",
+    "website": "https://bloomnu.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://bloomnu.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bloomnu.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bloomnu.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bloomnu.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Bloom Nutrition provides health and wellness supplements for women, with high quality ingredients to support energy, gut health and hormone balance. Shop our greens, beauty and fitness supplements.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bloomplanners.com",
+    "company_name": "bloom daily planners",
+    "website": "https://bloomplanners.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "bloom@bloomplanners.com",
+        "confidence": "highest",
+        "source_url": "https://bloomplanners.com/pages/meettheteam",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Office Manager Katy If you've ever emailed bloom@bloomplanners.com you may have talked to me there.\ud83d\ude42 I handle a lot of our cu"
+      },
+      {
+        "address": "wholesale@bloomplanners.com",
+        "confidence": "highest",
+        "source_url": "https://bloomplanners.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "MAIL General Inquires: bloom@bloomplanners.com Wholesale: wholesale@bloomplanners.com ADDRESS 800 Creek View Road, Suite 105 Newark, DE 19711 PH"
+      }
+    ],
+    "role_emails": [
+      "bloom@bloomplanners.com",
+      "wholesale@bloomplanners.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bloomplanners.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bloomplanners.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bloomplanners.com/pages/meettheteam",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bloomplanners.com/pages/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bloomplanners.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bloomplanners.com/pages/press",
+        "action": "/contact#contact-template--21611639046338__0b9a4b23-4564-418f-b118-f71b2b320eef",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://bloomplanners.com/pages/contact-us",
+        "action": "/contact#contact-template--21611638161602__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "bloom's 2027 planners are here, and 2026-27 academic planners are still in stock. Pick calendar year, academic year, or undated \u2014 plus stickers & more.",
+    "source_urls": [
+      "https://bloomplanners.com/pages/meettheteam",
+      "https://bloomplanners.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "bloomqueenlv.com",
+    "company_name": "bloomqueenlv",
+    "website": "https://bloomqueenlv.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "bloomsake.com",
+    "company_name": "Bloomsake Flower Preservation",
+    "website": "https://bloomsake.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@bloomsake.com",
+        "confidence": "highest",
+        "source_url": "https://bloomsake.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "02B Highway 6 N, Houston, TX 77084 | 832-819-0385 | hello@bloomsake.com Custom Preservations Flower Frames Resin Keep"
+      }
+    ],
+    "role_emails": [
+      "hello@bloomsake.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bloomsake.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bloomsake.com/products/natural-pressed-flower-frame",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bloomsake.com/products/pressed-flower-coaster-set-of-4",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bloomsake.com/pages/resinorpressedframe",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bloomsake.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bloomsake.com/pages/locations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bloomsake.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Bloomsake specializes in wedding flower preservation, transforming bridal bouquets and memorial flowers into timeless resin and pressed floral keepsakes. From pressed floral frames and trays to coasters and jewelry, each piece is handcrafted to preserve your flowers beautifully and naturally.",
+    "source_urls": [
+      "https://bloomsake.com",
+      "https://bloomsake.com/products/natural-pressed-flower-frame",
+      "https://bloomsake.com/products/pressed-flower-coaster-set-of-4",
+      "https://bloomsake.com/pages/resinorpressedframe",
+      "https://bloomsake.com/pages/contact",
+      "https://bloomsake.com/pages/locations"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 14
+  },
+  {
+    "company_domain": "bloomsburypdx.com",
+    "company_name": "BLOOMSBURY FINE ART & ANTIQUES",
+    "website": "https://bloomsburypdx.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@bloomsburypdx.com",
+        "confidence": "high",
+        "source_url": "https://bloomsburypdx.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@bloomsburypdx.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bloomsburypdx.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bloomsburypdx.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bloomsburypdx.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bloomsburypdx.com/products/french-modernist-impressionist-paris-street-scene-oil-on-canvas-painting-1969",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Explore our collections, find your treasure: The Pacific Northwest's premier dealer in Antiques, Mid-Century Modern Furniture, curated Fine Art, Decorative Arts, Rugs, Ceramics and Glass, and much more from around the globe and throughout history.",
+    "source_urls": [
+      "https://bloomsburypdx.com",
+      "https://bloomsburypdx.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "bloomscape.com",
+    "company_name": "Bloomscape",
+    "website": "https://bloomscape.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://bloomscape.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bloomscape.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bloomscape.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bloomscape.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bloomscape.com/talk-to-grow-how-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bloomscape.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bloomscape.com/talk-to-grow-how-team/",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bloomscape.com/talk-to-grow-how-team",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://bloomscape.com/talk-to-grow-how-team/",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Healthy, expertly-grown houseplants delivered to your door with the care advice you need to help them thrive.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "bloomsofhawaii.com",
+    "company_name": "www.bloomsofhawaii.com",
+    "website": "https://www.bloomsofhawaii.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@bloomsofhawaii.com",
+        "confidence": "highest",
+        "source_url": "https://www.bloomsofhawaii.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Need help? Call us 808-388-8703 info@bloomsofhawaii.com Follow Us Facebook Twitter"
+      }
+    ],
+    "role_emails": [
+      "info@bloomsofhawaii.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.bloomsofhawaii.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bloomsofhawaii.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bloomsofhawaii.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Fresh Hawaiian Flowers and Leis for your Graduation, Wedding or Birthday. Hawaiian Orchid leis shipped from Hawaii and delivered on time. Cheap bulk prices and free shipping available! Fast Nationwide Fedex shipping. Excellent quality of tropical flowers delivered to your door. 100% freshness guaran",
+    "source_urls": [
+      "https://www.bloomsofhawaii.com",
+      "https://www.bloomsofhawaii.com/pages/about-us",
+      "https://www.bloomsofhawaii.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bloomspaday.com",
+    "company_name": "Bloom Wellness Spa",
+    "website": "https://bloomspaday.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@bloomspaday.com",
+        "confidence": "highest",
+        "source_url": "https://bloomspaday.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "I Call: 734-436-8492 Text: 734-215-5175 Open 10a\u20137p hello@bloomspaday.com \ud83c\udf81 Gift Cards"
+      }
+    ],
+    "role_emails": [
+      "hello@bloomspaday.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bloomspaday.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bloomspaday.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Bloom Wellness Spa in Ann Arbor. Enjoy massage, sauna, and float therapy packages for singles or couples. Book a premium spa day for ultimate relaxation!",
+    "source_urls": [
+      "https://bloomspaday.com",
+      "https://bloomspaday.com/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "bloomstall.com",
+    "company_name": "Bloomstall Flower Boutique",
+    "website": "https://www.bloomstall.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@bloomstall.com",
+        "confidence": "highest",
+        "source_url": "https://www.bloomstall.com/pages/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "angements or bouquets please contact Michelle directly at hello@bloomstall.com with your flower needs. Or call 931-398-4633 You can f"
+      }
+    ],
+    "role_emails": [
+      "hello@bloomstall.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.bloomstall.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bloomstall.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bloomstall.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bloomstall.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Bloomstall Flowers & Plants - Columbia Tennessee Local Florist. Bloomstall offers same day flower and plant delivery to any address in Columbia, Mount Pleasant, or Spring Hill, Tennessee. Visit the shop for gifts, accessories, dried flowers, perfume, cards, and plants. We flower weddings and events!",
+    "source_urls": [
+      "https://www.bloomstall.com/pages/about",
+      "https://www.bloomstall.com/pages/contact-us",
+      "https://www.bloomstall.com/policies/contact-information"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "bloomsybox.com",
+    "company_name": "BloomsyBox",
+    "website": "https://www.bloomsybox.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "pr@bloomsybox.com",
+        "confidence": "highest",
+        "source_url": "https://www.bloomsybox.com/press",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "st Updates BloomsyBox Press Please send media inquiries to pr@bloomsybox.com May , 2024 The 14 Trendiest Houseplants of 2024: Shop Best"
+      },
+      {
+        "address": "info@bloomsybox.com",
+        "confidence": "high",
+        "source_url": "https://www.bloomsybox.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "u003epr@bloomsybox.com",
+        "confidence": "high",
+        "source_url": "https://www.bloomsybox.com/press",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@bloomsybox.com",
+      "pr@bloomsybox.com",
+      "u003epr@bloomsybox.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.bloomsybox.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bloomsybox.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bloomsybox.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bloomsybox.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bloomsybox.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Send farm-to-door flowers for any occasion. From stunning one-time gift bouquets to flexible flower subscriptions, our fresh blooms are guaranteed to last.",
+    "source_urls": [
+      "https://www.bloomsybox.com",
+      "https://www.bloomsybox.com/press",
+      "https://www.bloomsybox.com/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "bloomwholesale.com",
+    "company_name": "Bloom Wholesale",
+    "website": "https://bloomwholesale.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@bloomwholesale.com",
+        "confidence": "medium",
+        "source_url": "https://bloomwholesale.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@bloomwholesale.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bloomwholesale.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bloomwholesale.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bloomwholesale.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bloomwholesale.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bloomwholesale.com/pages/contact-us",
+        "action": "/contact#contact-page-contact-template-0",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Boutique supplier with unmatchable prices. Trending wholesale women's tops, dresses, bags, earrings and more! Bloom is also a market leading dropshipper, helping hundreds of women boutiques flourish in a cost effective strategy!",
+    "source_urls": [
+      "https://bloomwholesale.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bloomwolfstudio.com",
+    "company_name": "Bloomwolf Studio",
+    "website": "https://bloomwolfstudio.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "contact@bloomwolfstudio.com",
+        "confidence": "highest",
+        "source_url": "https://bloomwolfstudio.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Contact Us contact@bloomwolfstudio.com Question, comment or just want to say hi? We'd love"
+      }
+    ],
+    "role_emails": [
+      "contact@bloomwolfstudio.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bloomwolfstudio.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bloomwolfstudio.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bloomwolfstudio.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bloomwolfstudio.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bloomwolfstudio.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bloomwolfstudio.com/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://bloomwolfstudio.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Colorful greeting cards, stickers, bookmarks and gifts designed to celebrate culture, connection and everyday joy.",
+    "source_urls": [
+      "https://bloomwolfstudio.com/contact",
+      "https://bloomwolfstudio.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bloonsy.com",
+    "company_name": "Bloonsy - Balloon Stuffing",
+    "website": "https://bloonsy.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "contact@bloonsy.com",
+        "confidence": "highest",
+        "source_url": "https://bloonsy.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "contact@bloonsy.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bloonsy.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bloonsy.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bloonsy.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bloonsy.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bloonsy.com/contact-us/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bloonsy.com/about-us/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bloonsy.com/contact",
+        "action": "/contact-sales/#wpcf7-f4088-p4086-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Discover the Bloonsy Balloon Stuffing Machine and all the accessories you need for creative balloon gifts. Everything for fun, easy balloon crafting!",
+    "source_urls": [
+      "https://bloonsy.com",
+      "https://bloonsy.com/about",
+      "https://bloonsy.com/about-us",
+      "https://bloonsy.com/contact",
+      "https://bloonsy.com/contact-us/",
+      "https://bloonsy.com/about-us/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bloquv.com",
+    "company_name": "BloqUV",
+    "website": "https://bloquv.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customerservice@bloquv.com",
+        "confidence": "highest",
+        "source_url": "https://bloquv.com/pages/team-discount",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "nterested in purchasing BloqUV for your team, please email customerservice@bloquv.com with the following information: Team Name Em"
+      },
+      {
+        "address": "u003ecustomerservice@bloquv.com",
+        "confidence": "high",
+        "source_url": "https://bloquv.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "customerservice@bloquv.com",
+      "u003ecustomerservice@bloquv.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bloquv.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bloquv.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2019-02-28"
+      },
+      {
+        "url": "https://bloquv.com/press",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2019-07-17"
+      },
+      {
+        "url": "https://bloquv.com/pages/about-bloquv",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bloquv.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bloquv.com/pages/team-discount",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bloquv.com/about-us",
+        "action": "/pages.php?action=sendContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://bloquv.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "BloqUV sun-protective clothing keeps your family protected from the first run to the last beach day.",
+    "source_urls": [
+      "https://bloquv.com",
+      "https://bloquv.com/pages/about-bloquv",
+      "https://bloquv.com/pages/contact",
+      "https://bloquv.com/pages/team-discount"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "blossombeauty.com",
+    "company_name": "Blossom\u00ae",
+    "website": "https://www.blossombeauty.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.blossombeauty.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.blossombeauty.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.blossombeauty.com/pages/media-kit",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.blossombeauty.com/pages/media-kit-international",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.blossombeauty.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.blossombeauty.com/pages/contact-us",
+        "action": "/contact#contact-form-template--25184515359042__contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Shop beauty and personal care products made by Blossom. Shop our best-selling collection of lip glosses, perfume oils, lip balms, face oil, nail care, and more. Look your best and feel great when you use our favorites and best sellers at a great savings. Every product is infused with real flowers. S",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "blossomboxjewelry.com",
+    "company_name": "BLOSSOM BOX JEWELRY",
+    "website": "https://blossomboxjewelry.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "media@blossomboxjewelry.com",
+        "confidence": "high",
+        "source_url": "https://blossomboxjewelry.com/pages/press",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "following media For all press & media inquires please email media@blossomboxjewelry.com"
+      }
+    ],
+    "role_emails": [
+      "media@blossomboxjewelry.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://blossomboxjewelry.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blossomboxjewelry.com/pages/about-the-designer",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blossomboxjewelry.com/pages/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Be Bold. Be Daring. Be Different. Designer Handcrafted Semi-Precious Jewelry.",
+    "source_urls": [
+      "https://blossomboxjewelry.com/pages/press"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "blossomcoffeeroasters.com",
+    "company_name": "Blossom Coffee Roasters",
+    "website": "https://blossomcoffeeroasters.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://blossomcoffeeroasters.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blossomcoffeeroasters.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blossomcoffeeroasters.com/products/espresso-velluto",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://blossomcoffeeroasters.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Blossom Coffee Roasters carefully selects fine tasting and sustainably grown coffees and skillfully roasts them to bring clarity and transparency to their flavors. We roast on Vashon Island and serve numerous cafes and grocery in the Seattle area.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "blossomfootwear.com",
+    "company_name": "blossomfootwear.com",
+    "website": "https://blossomfootwear.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": "Shop wholesale women's shoes & handbags from De Blossom Collection and more. We offer shoes for weddings, pageants, proms, quinceaneras, resorts , and even kids!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "blowmoldstore.com",
+    "company_name": "Blow Mold Store",
+    "website": "https://blowmoldstore.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://blowmoldstore.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blowmoldstore.com/pages/learn-about-blow-molds-faqs",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blowmoldstore.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blowmoldstore.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://blowmoldstore.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Blow Mold accessories and replacement parts. 3D printed replacement parts for common blow molds, blowmolds, christmas and other holiday indoor and outdoor plastic lighted or light-up decorations.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "blowpro.com",
+    "company_name": "BlowPro",
+    "website": "https://www.blowpro.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.blowpro.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.blowpro.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.blowpro.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.blowpro.com/pages/contact-us",
+        "action": "/pages/contact-us",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "We are a lifestyle brand that is established on the foundation of confidence, glam, and being unapologetically you. Not afraid to disrupt the norms of society if needed, no matter what we do, it's with a good blowout.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "blowsion.com",
+    "company_name": "Blowsion",
+    "website": "https://blowsion.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@blowsion.com",
+        "confidence": "highest",
+        "source_url": "https://blowsion.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2010-10-18",
+        "context_snippet": "Contact Blowsion U.S. Headquarters: info@blowsion.com PHONE: 503.625.3616 FAX: 503.625.1501 MAIL: PO"
+      },
+      {
+        "address": "orders@blowsion.com",
+        "confidence": "highest",
+        "source_url": "https://blowsion.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ite 120 Sherwood, OR 97140 Mon\u2013Fri, 9am\u20135pm PT 503-625-3616 orders@blowsion.com Subscribe to our emails No spam."
+      }
+    ],
+    "role_emails": [
+      "info@blowsion.com",
+      "orders@blowsion.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://blowsion.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blowsion.com/team",
+        "page_type": "team",
+        "source_type": "archived",
+        "snapshot_date": "2024-06-17"
+      },
+      {
+        "url": "https://blowsion.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2024-06-18"
+      },
+      {
+        "url": "https://blowsion.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2010-10-18"
+      },
+      {
+        "url": "https://blowsion.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://blowsion.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Blowsion offers a full line of OEM and aftermarket performance stand up jet ski parts & accessories. Established in 1989 to serve the true purists of Jet Ski Freeride, Freestyle and Racing! Free Shipping on orders over $150 in the USA. International shipping experts. Yamaha SuperJet, Kawasaki SXR, R",
+    "source_urls": [
+      "https://blowsion.com",
+      "https://blowsion.com/contact",
+      "https://blowsion.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "bloxboom.com",
+    "company_name": "bloxboom.com",
+    "website": "https://bloxboom.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@bloxboom.com",
+        "confidence": "highest",
+        "source_url": "https://bloxboom.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "icy Refund Policy Contact 24/7 support on live chat or support@bloxboom.com BLACK ROCKER LLC Phone : +1 (203) 651-8697 (No Phone Suppo"
+      }
+    ],
+    "role_emails": [
+      "support@bloxboom.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bloxboom.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bloxboom.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bloxboom.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Instantly Buy Your Favorite MM2 Knives, TTD Items, Adopt Me Pets, and more! Bloxboom \u2013 Your One-Stop Roblox Items Store.",
+    "source_urls": [
+      "https://bloxboom.com",
+      "https://bloxboom.com/about",
+      "https://bloxboom.com/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "bloxels.com",
+    "company_name": "Bloxels",
+    "website": "https://www.bloxels.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.bloxels.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Anyone can build a video game. At home or school, Bloxels is a simple yet powerful way to create characters, art, and stories to share with the world.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "bloxracing.com",
+    "company_name": "BLOX Racing",
+    "website": "https://bloxracing.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "orders@bloxracing.com",
+        "confidence": "highest",
+        "source_url": "https://bloxracing.com",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-11",
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "orders@bloxracing.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bloxracing.com",
+        "page_type": "home",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-11"
+      },
+      {
+        "url": "https://bloxracing.com/pages/contactus",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2025-06-16"
+      },
+      {
+        "url": "https://bloxracing.com/pages/about-us-flex-test",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2026-04-11"
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bloxracing.com/pages/contactus",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Shop at BLOX Racing for high-quality racing parts, auto and car racing performance parts, and performance parts for cars. Upgrade your ride with top-notch gear.",
+    "source_urls": [
+      "https://bloxracing.com",
+      "https://bloxracing.com/pages/contactus",
+      "https://bloxracing.com/pages/about-us-flex-test"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "blpkosher.com",
+    "company_name": "BLP Kosher",
+    "website": "https://blpkosher.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://blpkosher.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  }
+]
