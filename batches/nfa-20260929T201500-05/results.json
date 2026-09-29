@@ -1,0 +1,1871 @@
+[
+  {
+    "company_domain": "brightgirl.com",
+    "company_name": "Bright Girl by Angela Casey MD",
+    "website": "https://brightgirl.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://brightgirl.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brightgirl.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brightgirl.com/pages/retail-locations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brightgirl.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brightgirl.com/blogs/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://brightgirl.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Bright Girl is the first brand of its kind to market...created by a dermatologist, specifically for young skin.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "brightideaegress.com",
+    "company_name": "Bright Idea Egress",
+    "website": "https://brightideaegress.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "//hello@brightideaegress.com",
+        "confidence": "highest",
+        "source_url": "https://brightideaegress.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "hello@brightideaegress.com",
+        "confidence": "highest",
+        "source_url": "https://brightideaegress.com/pages/contact-egress-window-kits",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ip and related options. Phone: 303-761-3730 Email: hello@brightideaegress.com Local Pick-Up and Deliveries: 3971 S Decatur St. Unit"
+      },
+      {
+        "address": "nhello@brightideaegress.com",
+        "confidence": "high",
+        "source_url": "https://brightideaegress.com/pages/contact-egress-window-kits",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "//hello@brightideaegress.com",
+      "hello@brightideaegress.com",
+      "nhello@brightideaegress.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://brightideaegress.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brightideaegress.com/pages/about-bright-idea-egress",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brightideaegress.com/pages/contact-egress-window-kits",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "We engineered a better basement egress window kit, using the patented steel ExoFrame\u2122 to increase structural integrity & save installation time & money for DIY installers.",
+    "source_urls": [
+      "https://brightideaegress.com",
+      "https://brightideaegress.com/pages/about-bright-idea-egress",
+      "https://brightideaegress.com/pages/contact-egress-window-kits"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "brightinstar.com",
+    "company_name": "BrightinStar Camera Lens",
+    "website": "https://brightinstar.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://brightinstar.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brightinstar.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brightinstar.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brightinstar.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brightinstar.com/pages/about-us-1",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brightinstar.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://brightinstar.com/pages/contact-us",
+        "action": "/contact#ContactForm-template--27257164792124__contact-form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Manual & AF full-frame/APS-C lenses for Sony E, Nikon Z, Fuji X, Canon RF/EOS-M, Leica M/L, M43. Only for mirrorless. Up to 50% off + free shipping over $55!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "brightland.co",
+    "company_name": "Brightland",
+    "website": "https://brightland.co",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "goodday@brightland.co",
+        "confidence": "highest",
+        "source_url": "https://brightland.co/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ", press inquiries, partnership opportunities? Please email goodday@brightland.co and a member of our team will be with you shortly."
+      }
+    ],
+    "role_emails": [
+      "goodday@brightland.co"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://brightland.co",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brightland.co/pages/about-brightland-olive-oil",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brightland.co/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Over 3,000 5-Star Reviews. Discover flavor-first pantry essentials made with intention from California's finest harvests. Complete your kitchen with cold-pressed olive oils, craft vinegars, beautiful gift sets and more. Pour generously.",
+    "source_urls": [
+      "https://brightland.co",
+      "https://brightland.co/pages/about-brightland-olive-oil",
+      "https://brightland.co/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "brightlifedirect.com",
+    "company_name": "BrightLife Direct",
+    "website": "https://www.brightlifedirect.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "custserv@brightlifedirect.com",
+        "confidence": "high",
+        "source_url": "https://www.brightlifedirect.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "custserv@brightlifedirect.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.brightlifedirect.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brightlifedirect.com/collections/8-15-compression-pantyhose/women",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brightlifedirect.com/collections/cotton-wool-compression-socks/women",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brightlifedirect.com/collections/cotton-wool-compression-socks/men",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brightlifedirect.com/pages/compression-level-guide",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brightlifedirect.com/collections/8-15-compression-pantyhose/panythose",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brightlifedirect.com/collections/8-15-mmhg-compression-leggings",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brightlifedirect.com/collections/cep-athletic-compression-socks",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brightlifedirect.com/collections/duomed-compression-stockings",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brightlifedirect.com/collections/compression-for-nightwear",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Shop compression stockings, compression hosiery, and compression socks by Jobst, Mediven, Juzo, Sigvaris, Allegro, and Therafirm. Free shipping on purchases over $100, discount prices, and the best customer service. Compression stockings and armsleeves for travel, lymphedema, varicose veins, edema, ",
+    "source_urls": [
+      "https://www.brightlifedirect.com",
+      "https://www.brightlifedirect.com/collections/8-15-compression-pantyhose/women",
+      "https://www.brightlifedirect.com/collections/cotton-wool-compression-socks/women",
+      "https://www.brightlifedirect.com/collections/cotton-wool-compression-socks/men",
+      "https://www.brightlifedirect.com/pages/compression-level-guide",
+      "https://www.brightlifedirect.com/collections/8-15-compression-pantyhose/panythose",
+      "https://www.brightlifedirect.com/collections/8-15-mmhg-compression-leggings",
+      "https://www.brightlifedirect.com/collections/cep-athletic-compression-socks",
+      "https://www.brightlifedirect.com/collections/duomed-compression-stockings",
+      "https://www.brightlifedirect.com/collections/compression-for-nightwear"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 18
+  },
+  {
+    "company_domain": "brightlinkav.com",
+    "company_name": "Brightlink AV LTD",
+    "website": "https://brightlinkav.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "sales@brightlinkav.com",
+        "confidence": "highest",
+        "source_url": "https://brightlinkav.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "usses Need help? 855-449-4733 sales@brightlinkav.com Follow Us YouTube Country/region"
+      },
+      {
+        "address": "support@brightlinkav.com",
+        "confidence": "highest",
+        "source_url": "https://brightlinkav.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Send message Contact Details (855)-449-4733 support@brightlinkav.com sales@brightlinkav.com Be the first to know"
+      }
+    ],
+    "role_emails": [
+      "sales@brightlinkav.com",
+      "support@brightlinkav.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://brightlinkav.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brightlinkav.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brightlinkav.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brightlinkav.com/products/brightlink-new-4x2-hdmi-matrix-1080p-3d-support-model-bl-4x2",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brightlinkav.com/products/brightlink-new-4x2-hdmi-matrix-1080p-3d-support-model-bl-4x2#product-reviews",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brightlinkav.com/products/brightlink-new-4x4-hdmi-matrix-support-4k-60hz-4-4-4-downscaler-model-bl-4x4-hd20-a",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brightlinkav.com/products/brightlink-new-4x4-hdmi-matrix-support-4k-60hz-4-4-4-downscaler-model-bl-4x4-hd20-a#product-reviews",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brightlinkav.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brightlinkav.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://brightlinkav.com/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://brightlinkav.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Brightlink is the one-stop platform you can count on to purchase high-quality Large Scale LED & LCD Video Walls and AV Distribution Equipment.",
+    "source_urls": [
+      "https://brightlinkav.com",
+      "https://brightlinkav.com/about-us",
+      "https://brightlinkav.com/contact",
+      "https://brightlinkav.com/products/brightlink-new-4x2-hdmi-matrix-1080p-3d-support-model-bl-4x2",
+      "https://brightlinkav.com/products/brightlink-new-4x2-hdmi-matrix-1080p-3d-support-model-bl-4x2#product-reviews",
+      "https://brightlinkav.com/products/brightlink-new-4x4-hdmi-matrix-support-4k-60hz-4-4-4-downscaler-model-bl-4x4-hd20-a",
+      "https://brightlinkav.com/products/brightlink-new-4x4-hdmi-matrix-support-4k-60hz-4-4-4-downscaler-model-bl-4x4-hd20-a#product-reviews",
+      "https://brightlinkav.com/pages/about-us",
+      "https://brightlinkav.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 15
+  },
+  {
+    "company_domain": "brighton.com",
+    "company_name": "Brighton",
+    "website": "https://www.brighton.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "consumercare@brighton.com",
+        "confidence": "highest",
+        "source_url": "https://www.brighton.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "0) 628-7687 Monday-Friday 7:00AM \u2013 5:00PM PT Email consumercare@brighton.com Enjoy the many pe"
+      }
+    ],
+    "role_emails": [
+      "consumercare@brighton.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.brighton.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brighton.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brighton.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brighton.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brighton.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brighton.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brighton.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brighton.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brighton.com/pages/about-brighton",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.brighton.com/team",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.brighton.com/our-team",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.brighton.com/about",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.brighton.com/about-us",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.brighton.com/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.brighton.com/pages/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.brighton.com/pages/about-brighton",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Brighton is known for its exquisitely crafted women's handbags, jewelry, and charms for bracelets, along with many other stylish accessories.",
+    "source_urls": [
+      "https://www.brighton.com/contact",
+      "https://www.brighton.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "brightonbeautysupply.com",
+    "company_name": "Brighton Beauty Supply",
+    "website": "https://brightonbeautysupply.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@brightonbeautysupply.com",
+        "confidence": "high",
+        "source_url": "https://brightonbeautysupply.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "y 419 Brighton Beach Ave Brooklyn, New York 11235 E-mail: info@brightonbeautysupply.com Connect Exclusive beauty discount"
+      }
+    ],
+    "role_emails": [
+      "info@brightonbeautysupply.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://brightonbeautysupply.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brightonbeautysupply.com/collections/keratin-express",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brightonbeautysupply.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brightonbeautysupply.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://brightonbeautysupply.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "We carry a variety of beauty products: shampoos, conditioners, hair masks, hair treatments, styling products, nail polishes, hair color, hair dyes, keratin treatments, as well as hair dryers, flat irons & more.",
+    "source_urls": [
+      "https://brightonbeautysupply.com/pages/about-us",
+      "https://brightonbeautysupply.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "brightoncutters.com",
+    "company_name": "Brighton Cutters LLC",
+    "website": "https://brightoncutters.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@brightoncutters.com",
+        "confidence": "highest",
+        "source_url": "https://brightoncutters.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Brighton Cutters: Cookie Cutters info@brightoncutters.com \ud83d\udce6 Printed to Order in 2-4 business days \u26a1\ufe0f Next Day R"
+      },
+      {
+        "address": "requests@brightoncutters.com",
+        "confidence": "high",
+        "source_url": "https://brightoncutters.com/pages/about-our-cutter",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "terested in a size not currently listed, please email me at requests@brightoncutters.com . Footer ENTER YOUR EMAIL TO RECEIV"
+      }
+    ],
+    "role_emails": [
+      "info@brightoncutters.com",
+      "requests@brightoncutters.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://brightoncutters.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brightoncutters.com/pages/about-our-cutter",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Shop 1,000+ cookie cutter designs for holidays, birthdays, weddings, and every celebration. High-quality cookie cutters for decorated sugar cookies and royal icing.",
+    "source_urls": [
+      "https://brightoncutters.com",
+      "https://brightoncutters.com/pages/about-our-cutter"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "brightown.com",
+    "company_name": "Brightown Decor",
+    "website": "https://www.brightown.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@brightown.com",
+        "confidence": "highest",
+        "source_url": "https://www.brightown.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "10 United States Call us: +1 (888) 550-1319 Email: support@brightown.com About Blogs About Us Terms of Use Warranty & Ex"
+      },
+      {
+        "address": "info@brightown.com",
+        "confidence": "high",
+        "source_url": "https://www.brightown.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "marketing@brightown.com",
+        "confidence": "high",
+        "source_url": "https://www.brightown.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "u003emarketing@brightown.com",
+        "confidence": "high",
+        "source_url": "https://www.brightown.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@brightown.com",
+      "marketing@brightown.com",
+      "support@brightown.com",
+      "u003emarketing@brightown.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.brightown.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brightown.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brightown.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brightown.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.brightown.com/pages/contact-us",
+        "action": "/contact#ContactForm-template--22113948172543__main",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Founded in 2014, Brightown has been serving the US market for 9 years. Brightown's lighting products have lit up 600,000+ American homes. Brightown was founded over our team's desire to bring families and friends closer together.",
+    "source_urls": [
+      "https://www.brightown.com",
+      "https://www.brightown.com/about-us",
+      "https://www.brightown.com/pages/about-us",
+      "https://www.brightown.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "brightpathkids.com",
+    "company_name": "BrightPath Kids",
+    "website": "https://shop.brightpathkids.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "robots_disallowed",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "brightstarts.com",
+    "company_name": "Bright Starts",
+    "website": "https://www.brightstarts.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.brightstarts.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brightstarts.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brightstarts.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brightstarts.com/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brightstarts.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brightstarts.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brightstarts.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brightstarts.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brightstarts.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brightstarts.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Discover parent favorites like Baby Einstein play gyms and toy pianos, Bright Starts activity tables, Oball, Ingenuity baby gear & more direct from the brand.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "brightstripes.co",
+    "company_name": "Bright Stripes",
+    "website": "https://brightstripes.co",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "andy@brightstripes.co",
+        "confidence": "high",
+        "source_url": "https://brightstripes.co",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "andy@brightstripes.co"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://brightstripes.co",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brightstripes.co/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2019-09-17"
+      },
+      {
+        "url": "https://brightstripes.co/pages/about-bright-stripes",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brightstripes.co/collections/summer-picks/products/fluttering-impressions-jewelry-1",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brightstripes.co/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://brightstripes.co/collections/summer-picks/products/fluttering-impressions-jewelry-1",
+        "action": "/contact#contact-contact8869689524276",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://brightstripes.co/pages/contact",
+        "action": "/contact#contact-template--21198685536308__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Discover creative DIY and craft kits for kids and adults at Bright Stripes! Spark imagination with unique, high-quality art projects and activities.",
+    "source_urls": [
+      "https://brightstripes.co",
+      "https://brightstripes.co/pages/about-bright-stripes",
+      "https://brightstripes.co/collections/summer-picks/products/fluttering-impressions-jewelry-1",
+      "https://brightstripes.co/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "brightz.com",
+    "company_name": "Brightz",
+    "website": "https://brightz.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@brightz.com",
+        "confidence": "highest",
+        "source_url": "https://brightz.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "B2B Login Log in info@brightz.com Shop All USA Patri"
+      },
+      {
+        "address": "brittany@brightz.com",
+        "confidence": "high",
+        "source_url": "https://brightz.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "brittany@brightz.com",
+      "info@brightz.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://brightz.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brightz.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brightz.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brightz.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Brightz designs fun & cool LED light products, transforming everyday experiences into extraordinary adventures. Shop now!",
+    "source_urls": [
+      "https://brightz.com",
+      "https://brightz.com/about",
+      "https://brightz.com/contact",
+      "https://brightz.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "brigztattoos.com",
+    "company_name": "Brigz Tattoos",
+    "website": "https://brigztattoos.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "robots_disallowed",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "brik.co",
+    "company_name": "Brik",
+    "website": "https://www.brik.co",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@brik.co",
+        "confidence": "highest",
+        "source_url": "https://www.brik.co/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Contact Us Email: support@brik.co Phone: (866) 505-BRIK Wholesale: If you're look"
+      }
+    ],
+    "role_emails": [
+      "support@brik.co"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.brik.co",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brik.co/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brik.co/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brik.co/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Compatible with all major building bricks! As seen on ABC, Oprah, Wired and Vanity Fair. Build your imagination! For the LEGO\u00ae enthusiast who also enjoys mosaic art.",
+    "source_urls": [
+      "https://www.brik.co",
+      "https://www.brik.co/press",
+      "https://www.brik.co/pages/contact-us",
+      "https://www.brik.co/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "brilliancenewyork.com",
+    "company_name": "Brilliance New York Online",
+    "website": "https://www.brilliancenewyork.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@brilliancenewyork.com",
+        "confidence": "highest",
+        "source_url": "https://www.brilliancenewyork.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Brilliance New York \u00ae Direct: (646) 980-6862 info@brilliancenewyork.com Be the first to receive updates on new arrivals"
+      }
+    ],
+    "role_emails": [
+      "info@brilliancenewyork.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.brilliancenewyork.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brilliancenewyork.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2019-07-19"
+      },
+      {
+        "url": "https://www.brilliancenewyork.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brilliancenewyork.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brilliancenewyork.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.brilliancenewyork.com/about-us",
+        "action": "https://brilliancenewyork.com/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Brilliance NYC offers Salon Quality Titanium or Ceramic flat irons, Curling Irons, Blow Dryers,Hair Brushes & Hair Care For Your Hair Type.Free 2 day Shipping.  Brilliance New York Online",
+    "source_urls": [
+      "https://www.brilliancenewyork.com",
+      "https://www.brilliancenewyork.com/contact",
+      "https://www.brilliancenewyork.com/pages/contact-us",
+      "https://www.brilliancenewyork.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "brilliant-editions.com",
+    "company_name": "Brilliant Editions",
+    "website": "https://brilliant-editions.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://brilliant-editions.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brilliant-editions.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://brilliant-editions.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Brilliant Editions, a prestigious publisher of fine art books, showcases masterful art in stunning detail. Each handpicked collection is a testament to the art form's power to inspire and evoke. Experience the beauty of world-class publishing.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "brilliant.co",
+    "company_name": "Brilliant Bicycle Co.",
+    "website": "https://www.brilliant.co",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@brilliant.co",
+        "confidence": "highest",
+        "source_url": "https://www.brilliant.co",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "For our fastest response, seven days a week: email us: hello@brilliant.co text us: (310) 853-1337 Weekday wor"
+      }
+    ],
+    "role_emails": [
+      "hello@brilliant.co"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.brilliant.co",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brilliant.co/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://brilliant.co/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Our commuter bikes and hybrid cruisers are custom made for city riding. High quality bikes for sale. Great prices. Risk-free trial. Shop now!",
+    "source_urls": [
+      "https://www.brilliant.co"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "brilliant.tech",
+    "company_name": "Brilliant",
+    "website": "https://www.brilliant.tech",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "EMAIL US",
+        "title": null,
+        "email": "press@brilliant.tech",
+        "source_url": "https://www.brilliant.tech/pages/press"
+      },
+      {
+        "name": "Email Us",
+        "title": null,
+        "email": "marketing@brilliant.tech",
+        "source_url": "https://www.brilliant.tech/media"
+      }
+    ],
+    "people": [
+      {
+        "name": "EMAIL US",
+        "title": null,
+        "email": "press@brilliant.tech",
+        "source_url": "https://www.brilliant.tech/pages/press"
+      },
+      {
+        "name": "Email Us",
+        "title": null,
+        "email": "marketing@brilliant.tech",
+        "source_url": "https://www.brilliant.tech/media"
+      }
+    ],
+    "emails": [
+      {
+        "address": "marketing@brilliant.tech",
+        "confidence": "highest",
+        "source_url": "https://www.brilliant.tech/media",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "can't find something you need, please contact marketing@brilliant.tech Email Us"
+      },
+      {
+        "address": "press@brilliant.tech",
+        "confidence": "highest",
+        "source_url": "https://www.brilliant.tech/pages/press",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "he press and can't find something you need, please contact press@brilliant.tech EMAIL US"
+      },
+      {
+        "address": "sales@brilliant.tech",
+        "confidence": "highest",
+        "source_url": "https://www.brilliant.tech/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Inquiries: support@brilliant.tech B2B Sales Inquiries: sales@brilliant.tech Press/Media Inquiries: marketing@brilliant.tech"
+      },
+      {
+        "address": "support@brilliant.tech",
+        "confidence": "highest",
+        "source_url": "https://www.brilliant.tech/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "E-mail Us Support Inquiries: support@brilliant.tech B2B Sales Inquiries: sales@brilliant.tech Press/Media In"
+      }
+    ],
+    "role_emails": [
+      "marketing@brilliant.tech",
+      "sales@brilliant.tech",
+      "support@brilliant.tech"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.brilliant.tech",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brilliant.tech/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brilliant.tech/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brilliant.tech/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brilliant.tech/pages/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brilliant.tech/pages/media-assets",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brilliant.tech/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.brilliant.tech/pages/contact-us",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Brilliant NextGen offers advanced smart home automation systems for lighting, security, and whole-home control. Experience smarter living, contact us today.",
+    "source_urls": [
+      "https://www.brilliant.tech",
+      "https://www.brilliant.tech/press",
+      "https://www.brilliant.tech/media",
+      "https://www.brilliant.tech/pages/about-us",
+      "https://www.brilliant.tech/pages/press",
+      "https://www.brilliant.tech/pages/media-assets",
+      "https://www.brilliant.tech/pages/contact-us"
+    ],
+    "reason": null,
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "brilliantk9.com",
+    "company_name": "BrilliantK9",
+    "website": "https://brilliantk9.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Use Chat",
+        "title": null,
+        "email": "jeanne@brilliantk9.com",
+        "source_url": "https://brilliantk9.com/pages/about-us",
+        "association": "proximity"
+      }
+    ],
+    "people": [
+      {
+        "name": "Use Chat",
+        "title": null,
+        "email": "jeanne@brilliantk9.com",
+        "source_url": "https://brilliantk9.com/pages/about-us",
+        "association": "proximity"
+      }
+    ],
+    "emails": [
+      {
+        "address": "jeanne@brilliantk9.com",
+        "confidence": "high",
+        "source_url": "https://brilliantk9.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Shop Info 3524 Sylvan Dr Lucas, OH 44843 jeanne@brilliantk9.com Use Chat for the quickest response from a Real Human! Made"
+      }
+    ],
+    "role_emails": [
+      "jeanne@brilliantk9.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://brilliantk9.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brilliantk9.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brilliantk9.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brilliantk9.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brilliantk9.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brilliantk9.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brilliantk9.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Our custom dog harnesses are made with your dog's comfort and unrestricted movement in mind. Made to order in Lucas, Ohio upon your order. 7 year guarantee on our quality dog harnesses. We offer many colors and patterns to choose from. Purchase durable ergonomic dog harnesses from BrilliantK9!",
+    "source_urls": [
+      "https://brilliantk9.com",
+      "https://brilliantk9.com/team",
+      "https://brilliantk9.com/our-team",
+      "https://brilliantk9.com/about",
+      "https://brilliantk9.com/about-us",
+      "https://brilliantk9.com/contact",
+      "https://brilliantk9.com/pages/about-us"
+    ],
+    "reason": null,
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "brilliantpad.com",
+    "company_name": "BrilliantPad",
+    "website": "https://www.brilliantpad.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Business Inquiries",
+        "title": null,
+        "email": "info@brilliantpad.com",
+        "source_url": "https://www.brilliantpad.com/contact"
+      },
+      {
+        "name": "Customer Support Email",
+        "title": null,
+        "email": "help@brilliantpad.com",
+        "source_url": "https://www.brilliantpad.com/contact"
+      },
+      {
+        "name": "Press Contact Email",
+        "title": null,
+        "email": "press@brilliantpad.com",
+        "source_url": "https://www.brilliantpad.com/contact"
+      }
+    ],
+    "people": [
+      {
+        "name": "Business Inquiries",
+        "title": null,
+        "email": "info@brilliantpad.com",
+        "source_url": "https://www.brilliantpad.com/contact"
+      },
+      {
+        "name": "Customer Support Email",
+        "title": null,
+        "email": "help@brilliantpad.com",
+        "source_url": "https://www.brilliantpad.com/contact"
+      },
+      {
+        "name": "Press Contact Email",
+        "title": null,
+        "email": "press@brilliantpad.com",
+        "source_url": "https://www.brilliantpad.com/contact"
+      }
+    ],
+    "emails": [
+      {
+        "address": "help@brilliantpad.com",
+        "confidence": "highest",
+        "source_url": "https://www.brilliantpad.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2017-04-07",
+        "context_snippet": "antpad.com Customer Support Email help@brilliantpad.com Business Inquiries info@brilliant"
+      },
+      {
+        "address": "info@brilliantpad.com",
+        "confidence": "highest",
+        "source_url": "https://www.brilliantpad.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2017-04-07",
+        "context_snippet": "illiantpad.com Business Inquiries info@brilliantpad.com Sign Up for B"
+      },
+      {
+        "address": "press@brilliantpad.com",
+        "confidence": "highest",
+        "source_url": "https://www.brilliantpad.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2017-04-07",
+        "context_snippet": "us an email: Press Contact Email press@brilliantpad.com Customer Support Email help@brill"
+      },
+      {
+        "address": "support@brilliantpad.com",
+        "confidence": "high",
+        "source_url": "https://www.brilliantpad.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "support@brilliantpad.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.brilliantpad.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brilliantpad.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2017-04-07"
+      },
+      {
+        "url": "https://www.brilliantpad.com/pages/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brilliantpad.com/pages/support#setup",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brilliantpad.com/pages/support#pro",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brilliantpad.com/pages/support#app",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brilliantpad.com/pages/support#maintain",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brilliantpad.com/pages/support#help",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brilliantpad.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brilliantpad.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "BrilliantPad is the first automatic, self-cleaning dog potty. Train your puppy or small dog to use BrilliantPad so they have the freedom to go potty whenever.",
+    "source_urls": [
+      "https://www.brilliantpad.com",
+      "https://www.brilliantpad.com/contact"
+    ],
+    "reason": null,
+    "pages_fetched": 17
+  },
+  {
+    "company_domain": "brimckoy.com",
+    "company_name": "Bri McKoy",
+    "website": "https://brimckoy.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://brimckoy.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brimckoy.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brimckoy.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Bri McKoy is here to give you the recipes and skills you need in the kitchen with The Cooks Book.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "brimonfifth.com",
+    "company_name": "Brim on Fifth",
+    "website": "https://www.brimonfifth.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.brimonfifth.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brimonfifth.com/our-team",
+        "page_type": "team",
+        "source_type": "archived",
+        "snapshot_date": "2018-02-26"
+      },
+      {
+        "url": "https://www.brimonfifth.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2018-02-26"
+      },
+      {
+        "url": "https://www.brimonfifth.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brimonfifth.com/pages/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.brimonfifth.com/contact",
+        "action": "https://amelia-odowd.squarespace.com",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.brimonfifth.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Serving Dayton, Columbus, and Cincinnati with hats and accessories for her, him, and them.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "brindilletwig.com",
+    "company_name": "Brindille & Twig",
+    "website": "https://brindilletwig.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://brindilletwig.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brindilletwig.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://brindilletwig.com",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://brindilletwig.com/pages/about-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Scandinavian inspired PDF sewing patterns for baby, toddler and kids clothing. Preemie, Newborn, Baby and Toddler sizes. Designed for knit fabrics. Projector files and Layers included.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  }
+]
