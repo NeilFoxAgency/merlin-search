@@ -1,0 +1,1590 @@
+[
+  {
+    "company_domain": "angotasks.com",
+    "company_name": "Ango Tasks",
+    "website": "https://angotasks.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://angotasks.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://angotasks.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://angotasks.com/contact.html",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Ango Tasks - AI-powered task management for iOS & Web. Extract tasks from text, images, and voice. Let AI plan your day.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "blessedisshe.net",
+    "company_name": "Blessed Is She",
+    "website": "https://blessedisshe.net",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Jenna Guizar",
+        "title": "Founder",
+        "email": "jenna@blessedisshe.net",
+        "source_url": "https://blessedisshe.net/about"
+      }
+    ],
+    "people": [
+      {
+        "name": "Jenna Guizar",
+        "title": "Founder",
+        "email": "jenna@blessedisshe.net",
+        "source_url": "https://blessedisshe.net/about"
+      }
+    ],
+    "emails": [
+      {
+        "address": "info@blessedisshe.net",
+        "confidence": "highest",
+        "source_url": "https://blessedisshe.net",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "sed Is She info@blessedisshe.net Instagram social TikTok"
+      },
+      {
+        "address": "hello@blessedisshe.net",
+        "confidence": "high",
+        "source_url": "https://blessedisshe.net",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "jenna@blessedisshe.net",
+        "confidence": "high",
+        "source_url": "https://blessedisshe.net",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "u003ejenna@blessedisshe.net",
+        "confidence": "high",
+        "source_url": "https://blessedisshe.net",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "hello@blessedisshe.net",
+      "info@blessedisshe.net",
+      "jenna@blessedisshe.net",
+      "u003ejenna@blessedisshe.net"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://blessedisshe.net",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blessedisshe.net/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blessedisshe.net/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blessedisshe.net/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blessedisshe.net/pages/staff",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blessedisshe.net/blogs/blog/what-mary-s-name-teaches-us-about-ours",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blessedisshe.net/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://blessedisshe.net/contact",
+        "action": "/contact#contact_faq",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://blessedisshe.net/pages/contact-us",
+        "action": "/contact#contact_faq",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Blessed is She is a daily devotional prayer community for women who want to grow their relationship with Jesus Christ by offering resources, products, & more. From Catholic Liturgical Planners to Advent and Lent devotionals, Blessed is She is committed to provide tools to equip you for sainthood in ",
+    "source_urls": [
+      "https://blessedisshe.net",
+      "https://blessedisshe.net/about",
+      "https://blessedisshe.net/contact",
+      "https://blessedisshe.net/pages/about",
+      "https://blessedisshe.net/pages/staff",
+      "https://blessedisshe.net/blogs/blog/what-mary-s-name-teaches-us-about-ours",
+      "https://blessedisshe.net/pages/contact-us"
+    ],
+    "reason": null,
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "bleuetgirl.com",
+    "company_name": "Bleuet",
+    "website": "https://bleuetgirl.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "pr@bleuetgirl.com",
+        "confidence": "high",
+        "source_url": "https://bleuetgirl.com/pages/press-1",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "For all press inquires, please contact us at pr@bleuetgirl.com 10,000+ Five Star Reviews"
+      }
+    ],
+    "role_emails": [
+      "pr@bleuetgirl.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bleuetgirl.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bleuetgirl.com/pages/press-1",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bleuetgirl.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bleuetgirl.com/pages/contact-us",
+        "action": "/contact#contact-template--27819184292076__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Elevate girls' comfort and confidence with Bleuet's first bras and everyday apparel. Designed for an active lifestyle. Age-appropriate and responsibly manufactured.",
+    "source_urls": [
+      "https://bleuetgirl.com/pages/press-1"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bleurodbeattie.com",
+    "company_name": "Bleu Rod Beattie",
+    "website": "https://bleurodbeattie.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://bleurodbeattie.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bleurodbeattie.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bleurodbeattie.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bleurodbeattie.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bleurodbeattie.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bleurodbeattie.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Bleu Rod Beattie swimwear for women. Shop designer swimsuits, the perfect fit swimwear, one piece, bikinis, tankinis, swimsuits by bra size. Shop Bleu. Bleu Rod Beattie figure flattering women's swimsuits are true to size.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "bleusalt.com",
+    "company_name": "Bleusalt",
+    "website": "https://bleusalt.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Email us",
+        "title": null,
+        "email": "customercare@bleusalt.com",
+        "source_url": "https://bleusalt.com/pages/contact"
+      },
+      {
+        "name": "Wholesale Inquiries",
+        "title": null,
+        "email": "inquire@bleusalt.com",
+        "source_url": "https://bleusalt.com"
+      }
+    ],
+    "people": [
+      {
+        "name": "Email us",
+        "title": null,
+        "email": "customercare@bleusalt.com",
+        "source_url": "https://bleusalt.com/pages/contact"
+      },
+      {
+        "name": "Wholesale Inquiries",
+        "title": null,
+        "email": "inquire@bleusalt.com",
+        "source_url": "https://bleusalt.com"
+      }
+    ],
+    "emails": [
+      {
+        "address": "customercare@bleusalt.com",
+        "confidence": "highest",
+        "source_url": "https://bleusalt.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "inquire@bleusalt.com",
+        "confidence": "highest",
+        "source_url": "https://bleusalt.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "customercare@bleusalt.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bleusalt.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bleusalt.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bleusalt.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bleusalt.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bleusalt.com/blogs/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Bleusalt is a seasonless line of luxurious elevated basics made sustainably from the Softest Fibers on Earth.",
+    "source_urls": [
+      "https://bleusalt.com",
+      "https://bleusalt.com/press",
+      "https://bleusalt.com/contact",
+      "https://bleusalt.com/pages/contact",
+      "https://bleusalt.com/blogs/press"
+    ],
+    "reason": null,
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "blickenstaffs.com",
+    "company_name": "Blickenstaffs Toy Store",
+    "website": "https://blickenstaffs.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@blickenstaffs.com",
+        "confidence": "high",
+        "source_url": "https://blickenstaffs.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "provo@blickenstaffs.com",
+        "confidence": "high",
+        "source_url": "https://blickenstaffs.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2019-10-13",
+        "context_snippet": "CONTACT US provo@blickenstaffs.com 4801 N University Ave Provo, UT 84604 10am-9pm Mon-Sat 801."
+      }
+    ],
+    "role_emails": [
+      "info@blickenstaffs.com",
+      "provo@blickenstaffs.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://blickenstaffs.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blickenstaffs.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2013-11-07"
+      },
+      {
+        "url": "https://blickenstaffs.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2019-10-13"
+      },
+      {
+        "url": "https://blickenstaffs.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blickenstaffs.com/account",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blickenstaffs.com/customer_authentication/redirect?locale=en\u00aeion_country=US",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blickenstaffs.com/cart",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blickenstaffs.com/collections/trending-now-1",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blickenstaffs.com/collections/blickenstaffs-originals",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blickenstaffs.com/collections/pretend-play",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://blickenstaffs.com/contact",
+        "action": "https://patrick-livingston.squarespace.com",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Blickenstaffs toy store is focused on creating meaningful experiences for both children and their parents. We have a variety of unique product like Jellycat Stuffed Animals, Lou Lou Co, sour candy, books, and toys. Our buying team works meticulously to bring in products that are unique and fun for a",
+    "source_urls": [
+      "https://blickenstaffs.com",
+      "https://blickenstaffs.com/contact",
+      "https://blickenstaffs.com/",
+      "https://blickenstaffs.com/cart",
+      "https://blickenstaffs.com/collections/trending-now-1",
+      "https://blickenstaffs.com/collections/blickenstaffs-originals",
+      "https://blickenstaffs.com/collections/pretend-play"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 16
+  },
+  {
+    "company_domain": "blientele.com",
+    "company_name": "Blientele",
+    "website": "https://www.blientele.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.blientele.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "For all things Blientele and Westside Gunn new CD release Supreme Blientele",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "blindbarber.com",
+    "company_name": "Blind Barber",
+    "website": "https://blindbarber.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "general.inquiry@blindbarber.com",
+        "confidence": "high",
+        "source_url": "https://blindbarber.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2013-10-04",
+        "context_snippet": ""
+      },
+      {
+        "address": "press@blindbarber.com",
+        "confidence": "high",
+        "source_url": "https://blindbarber.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2013-10-04",
+        "context_snippet": ""
+      },
+      {
+        "address": "sales@blindbarber.com",
+        "confidence": "high",
+        "source_url": "https://blindbarber.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2013-10-04",
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "general.inquiry@blindbarber.com",
+      "press@blindbarber.com",
+      "sales@blindbarber.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://blindbarber.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blindbarber.com/press",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2017-04-15"
+      },
+      {
+        "url": "https://blindbarber.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2013-10-04"
+      },
+      {
+        "url": "https://blindbarber.com/blogs/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blindbarber.com/pages/help?hcUrl=%2Fen-US%2Fcontact",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blindbarber.com/pages/locations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://blindbarber.com",
+        "action": "https://submit-form.com/tgb1HSP7",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://blindbarber.com/contact",
+        "action": "/contact?__v%3Aformmail=32c2d03ee1540c5be4a05a2638b1ca07",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://blindbarber.com/blogs/press",
+        "action": "https://submit-form.com/tgb1HSP7",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://blindbarber.com/pages/help?hcUrl=%2Fen-US%2Fcontact",
+        "action": "https://submit-form.com/tgb1HSP7",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://blindbarber.com/pages/locations",
+        "action": "https://submit-form.com/tgb1HSP7",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Blind Barber is a neighborhood barbershop and lounge born in NYC. From handcrafted cocktails to the best pomade on the block, our shop has you covered.",
+    "source_urls": [
+      "https://blindbarber.com/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "blindskateboards.com",
+    "company_name": "blindskateboards",
+    "website": "https://blindskateboards.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "robots_disallowed",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "blindtigerspiritfree.com",
+    "company_name": "Blind Tiger Spirit-Free",
+    "website": "https://blindtigerspiritfree.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://blindtigerspiritfree.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blindtigerspiritfree.com/pages/locations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Blind Tiger transforms classic cocktails into bold, zero proof beverages that deliver the same depth and complexity as their spirited counterparts.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "bling2o.com",
+    "company_name": "Bling2o",
+    "website": "https://bling2o.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customerservice@bling2o.com",
+        "confidence": "highest",
+        "source_url": "https://bling2o.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "cess started contact us using the form below or email us at customerservice@bling2o.com. Outside of this window? No problem, email us anyway! We wa"
+      },
+      {
+        "address": "info@bling2o.com",
+        "confidence": "highest",
+        "source_url": "https://bling2o.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2017-02-10",
+        "context_snippet": "104 | Melville, NY 11747 516-223-5020 | fax 516-223-5026 info@bling2o.com"
+      }
+    ],
+    "role_emails": [
+      "customerservice@bling2o.com",
+      "info@bling2o.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bling2o.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bling2o.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2017-02-10"
+      },
+      {
+        "url": "https://bling2o.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2017-09-25"
+      },
+      {
+        "url": "https://bling2o.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bling2o.com/contact",
+        "action": "/contact/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Make every splash fun with the original novelty swim goggles by Bling2o\u00ae \u2014 designed for kids 3+, teens & adults. Sparkles, sharks & style for pool-ready fun!",
+    "source_urls": [
+      "https://bling2o.com",
+      "https://bling2o.com/about",
+      "https://bling2o.com/contact",
+      "https://bling2o.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "bling3t.com",
+    "company_name": "Bling3t",
+    "website": "https://bling3t.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://bling3t.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bling3t.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "TURN AROUND TIME IS 7-10 BUSINESS DAYS. FREE SHIPPING ON ORDERS OVER $100!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "blingcartel.com",
+    "company_name": "Bling Cartel",
+    "website": "https://www.blingcartel.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "contact@blingcartel.com",
+        "confidence": "high",
+        "source_url": "https://www.blingcartel.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Ave, Unit 547 Fillmore, CA 93016 USA \u200b Questions? Email us! contact@blingcartel.com SIGN UP FOR OUR NEWSLET"
+      }
+    ],
+    "role_emails": [
+      "contact@blingcartel.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.blingcartel.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.blingcartel.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.blingcartel.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.blingcartel.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Get deals on grillz and hip hop jewelry. Real custom grillz, pre-made grills, chains, pendants and more. Give yourself the beautiful bling you deserve.",
+    "source_urls": [
+      "https://www.blingcartel.com",
+      "https://www.blingcartel.com/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "blingchemicals.com",
+    "company_name": "Bling Chemicals",
+    "website": "https://www.blingchemicals.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@blingchemicals.com",
+        "confidence": "high",
+        "source_url": "https://www.blingchemicals.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "esentative will get back to you within 24-48 hours. Email : support@blingchemicals.com Name E-mail Message Send message Contac"
+      }
+    ],
+    "role_emails": [
+      "support@blingchemicals.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.blingchemicals.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.blingchemicals.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.blingchemicals.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Detailing Chemicals & Products Built to Perform. Designed By Tenured Detailers For Strong Applications On Rough Surfaces including Cars, Trucks, Semi's, Haulers, Bikes & More. We take pride in our quality & performance. See for yourself today.",
+    "source_urls": [
+      "https://www.blingchemicals.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "blingdup.com",
+    "company_name": "Bling'd Up",
+    "website": "https://www.blingdup.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@blingdup.com",
+        "confidence": "highest",
+        "source_url": "https://www.blingdup.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ystal Loose Stones info@blingdup.com Login /"
+      }
+    ],
+    "role_emails": [
+      "info@blingdup.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.blingdup.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.blingdup.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2019-11-18"
+      },
+      {
+        "url": "https://www.blingdup.com/pages/contact-faq",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Pose Shopify Template with multiple layouts and styles allows you to create different structures and satisfies any specific requirements for different kinds of business.",
+    "source_urls": [
+      "https://www.blingdup.com",
+      "https://www.blingdup.com/pages/contact-faq"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "blinger.com",
+    "company_name": "blinger\u00ae",
+    "website": "https://blinger.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customerservice@blinger.com",
+        "confidence": "high",
+        "source_url": "https://blinger.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "customerservice@blinger.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://blinger.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Discover blinger\u00ae hair gems and the original hair gem stamper. Load, Click, Bling genuine crystals into your hair, then brush out with ease today.",
+    "source_urls": [
+      "https://blinger.com"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "blingjewelry.com",
+    "company_name": "Bling Jewelry",
+    "website": "https://www.blingjewelry.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "contact@blingjewelry.com",
+        "confidence": "highest",
+        "source_url": "https://www.blingjewelry.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Start Return Contact Info Email: contact@blingjewelry.com USA Call 800-434-9905 Mon -Fri 9am-6pm SAT 10am-5pm ES"
+      }
+    ],
+    "role_emails": [
+      "contact@blingjewelry.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.blingjewelry.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.blingjewelry.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.blingjewelry.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.blingjewelry.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.blingjewelry.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.blingjewelry.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.blingjewelry.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.blingjewelry.com/pages/contact",
+        "action": "/contact#contact-template--16456447164471__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Discover affordable luxury at Bling Jewelry. Explore our vast collection of sterling silver, CZ, and gold-plated fashion jewelry. Enjoy free shipping, returns, and unbeatable prices on stunning rings, necklaces, and more. Elevate your style today!",
+    "source_urls": [
+      "https://www.blingjewelry.com",
+      "https://www.blingjewelry.com/about",
+      "https://www.blingjewelry.com/about-us",
+      "https://www.blingjewelry.com/press",
+      "https://www.blingjewelry.com/media",
+      "https://www.blingjewelry.com/contact",
+      "https://www.blingjewelry.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "blingsauce.com",
+    "company_name": "Bling Sauce",
+    "website": "https://blingsauce.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "sales@blingsauce.com",
+        "confidence": "highest",
+        "source_url": "https://blingsauce.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ". We'll get back to you fast. Phone: 800-846-4899 Email: sales@blingsauce.com 875 E Covey Ln, Suite 101, Phoenix, AZ 85024 Name E-mai"
+      }
+    ],
+    "role_emails": [
+      "sales@blingsauce.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://blingsauce.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blingsauce.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blingsauce.com/pages/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blingsauce.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blingsauce.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://blingsauce.com/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://blingsauce.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Our simple, spray-on wipe-off cleaning products show proven results... guaranteed! Try Bling Sauce, one of the fastest-growing brands for boat and auto cleaning.",
+    "source_urls": [
+      "https://blingsauce.com/contact",
+      "https://blingsauce.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "blingsting.com",
+    "company_name": "www.blingsting.com",
+    "website": "https://www.blingsting.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@blingsting.com",
+        "confidence": "highest",
+        "source_url": "https://www.blingsting.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "tear. If you need to initiate a return, please email us at info@blingsting.com and we\u2019ll get it going. WHY CAN'T YOU FULFILL MY PEPPER SP"
+      }
+    ],
+    "role_emails": [
+      "info@blingsting.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.blingsting.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.blingsting.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.blingsting.com/pages/faq-about-pepper-spray-stun-guns-oc-spray-bear-spray-mace",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.blingsting.com/blogs/news/the-truth-about-personal-safety-alarms-effectiveness-use",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.blingsting.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.blingsting.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.blingsting.com/blogs/news/the-truth-about-personal-safety-alarms-effectiveness-use",
+        "action": "/blogs/news/the-truth-about-personal-safety-alarms-effectiveness-use/comments#comment_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Shop Blingsting for cute self-defense products for women - pepper spray, stun guns, safety alarms & emergency kits. Trusted by millions of women since 2013.",
+    "source_urls": [
+      "https://www.blingsting.com",
+      "https://www.blingsting.com/media",
+      "https://www.blingsting.com/pages/faq-about-pepper-spray-stun-guns-oc-spray-bear-spray-mace",
+      "https://www.blingsting.com/blogs/news/the-truth-about-personal-safety-alarms-effectiveness-use",
+      "https://www.blingsting.com/pages/contact-us",
+      "https://www.blingsting.com/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "blingyourcake.com",
+    "company_name": "Bling Your Cake",
+    "website": "https://www.blingyourcake.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "bling@blingyourcake.com",
+        "confidence": "highest",
+        "source_url": "https://www.blingyourcake.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ipping. Contact Us: \ud83d\udcde (205) 285-3184 (Call or Text) \ud83d\udce7 bling@blingyourcake.com Due to high call volume, text messages are preferred so"
+      }
+    ],
+    "role_emails": [
+      "bling@blingyourcake.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.blingyourcake.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.blingyourcake.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.blingyourcake.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "**Add sparkle to your celebration with cake toppers, cupcake rings, edible icing sheets & party supplies from Bling Your Cake! Fun finds for every event.** \u2728\ud83c\udf82",
+    "source_urls": [
+      "https://www.blingyourcake.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bliniofficial.com",
+    "company_name": "Blini Fashion House",
+    "website": "https://www.bliniofficial.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "REQUEST PRESS KIT",
+        "title": null,
+        "email": "info@bliniofficial.com",
+        "source_url": "https://www.bliniofficial.com/press"
+      }
+    ],
+    "people": [
+      {
+        "name": "REQUEST PRESS KIT",
+        "title": null,
+        "email": "info@bliniofficial.com",
+        "source_url": "https://www.bliniofficial.com/press"
+      }
+    ],
+    "emails": [
+      {
+        "address": "info@bliniofficial.com",
+        "confidence": "highest",
+        "source_url": "https://www.bliniofficial.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "SALE CONTACT US FIND US BOOK APPOINTMENT SHIPPING & RETURNS info@bliniofficial.com +1 (213) 584-8724 BLINI Official - Luxury Fashion House Ten"
+      }
+    ],
+    "role_emails": [
+      "info@bliniofficial.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.bliniofficial.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bliniofficial.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bliniofficial.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.bliniofficial.com/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Discover handcrafted luxury couture evening gowns, designer bridal dresses, and red carpet fashion by BLINI Fashion House. Headquartered in Los Angeles \u2014 shipped worldwide. Shop exclusive collections now.",
+    "source_urls": [
+      "https://www.bliniofficial.com",
+      "https://www.bliniofficial.com/press",
+      "https://www.bliniofficial.com/contact"
+    ],
+    "reason": null,
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "blink182merch.com",
+    "company_name": "blink-182",
+    "website": "https://blink182merch.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://blink182merch.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Shop the Blink-182 Official Store for exclusive merch, accessories, music, & more.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "blinkcharging.com",
+    "company_name": "Blink Charging Store",
+    "website": "https://shop.blinkcharging.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://shop.blinkcharging.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.blinkcharging.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.blinkcharging.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.blinkcharging.com/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.blinkcharging.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.blinkcharging.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.blinkcharging.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.blinkcharging.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.blinkcharging.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.blinkcharging.com/company/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Smart L2 and DC fast EV Charging Solutions for reliable and efficient charging, ready to install at your business or your home.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "blippo.com",
+    "company_name": "Blippo",
+    "website": "https://www.blippo.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@blippo.com",
+        "confidence": "highest",
+        "source_url": "https://www.blippo.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "& service. Your comments are important to us! E-mail: hello@blippo.com WhatsApp: +15673646678 SMS: +1 (567) 364-6678 Face"
+      }
+    ],
+    "role_emails": [
+      "hello@blippo.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.blippo.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.blippo.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.blippo.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.blippo.com/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Shop kawaii plushies, cute stationery & more kawaii things directly from Japan! Merch from Sanrio Characters, Chiikawa, Mofusand & more! We offer FREE SHIPPING from Tokyo to your door!",
+    "source_urls": [
+      "https://www.blippo.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "blipshift.com",
+    "company_name": "blipshift",
+    "website": "https://www.blipshift.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.blipshift.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.blipshift.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Crowdsourced car shirts, apparel, and accessories created by fellow auto enthusiasts. New tee designs available every day, only for a limited time.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  }
+]
