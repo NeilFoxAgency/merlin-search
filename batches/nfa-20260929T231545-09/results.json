@@ -1,0 +1,1565 @@
+[
+  {
+    "company_domain": "bullhidebelts.com",
+    "company_name": "BullhideBelts.com",
+    "website": "https://www.bullhidebelts.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.bullhidebelts.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bullhidebelts.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bullhidebelts.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Bullhide Belts has a wide selection of leather belts made by hand in the USA. Made of full grain leather, it will last you for years to come.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bullhug.com",
+    "company_name": "thebullhug.com",
+    "website": "https://bullhug.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "bullmoose.com",
+    "company_name": "Bull Moose",
+    "website": "https://www.bullmoose.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.bullmoose.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bullmoose.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bullmoose.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bullmoose.com/locations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bullmoose.com/content/locations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Your Employee-Owned Entertainment Destination in Maine & New Hampshire",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bulls.com",
+    "company_name": "Official Chicago Bulls Store",
+    "website": "https://shop.bulls.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://shop.bulls.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Shop the Official Chicago Bulls Store for the largest selection of Bulls merchandise, apparel and Bulls NBA gear, including Michael Jordan jerseys.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "bullsballs.com",
+    "company_name": "Bulls Balls",
+    "website": "https://bullsballs.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@bullsballs.com",
+        "confidence": "highest",
+        "source_url": "https://bullsballs.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Shopping cart (909) 381-4497 | info@bullsballs.com Free shipping on all orders over $99 shop Now!"
+      },
+      {
+        "address": "orders@bullsballs.com",
+        "confidence": "highest",
+        "source_url": "https://bullsballs.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2021-03-07",
+        "context_snippet": "(951) 255-9642 Orders@bullsballs.com Facebook Facebook My"
+      }
+    ],
+    "role_emails": [
+      "info@bullsballs.com",
+      "orders@bullsballs.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bullsballs.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bullsballs.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2021-03-07"
+      },
+      {
+        "url": "https://bullsballs.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2021-01-22"
+      },
+      {
+        "url": "https://bullsballs.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2021-01-27"
+      },
+      {
+        "url": "https://bullsballs.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bullsballs.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bullsballs.com/contact",
+        "action": "https://bullsballs.com/contact/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://bullsballs.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Bulls Balls",
+    "source_urls": [
+      "https://bullsballs.com",
+      "https://bullsballs.com/about",
+      "https://bullsballs.com/about-us",
+      "https://bullsballs.com/contact",
+      "https://bullsballs.com/pages/about",
+      "https://bullsballs.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bullsbikesusa.com",
+    "company_name": "BULLS Bikes USA",
+    "website": "https://bullsbikesusa.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "contact@bullsbikesusa.com",
+        "confidence": "highest",
+        "source_url": "https://bullsbikesusa.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "14 day returns 1-844-44BULLS (28557) contact@bullsbikesusa.com EBIKES"
+      },
+      {
+        "address": "fulfillment@bullsbikesusa.com",
+        "confidence": "high",
+        "source_url": "https://bullsbikesusa.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "contact@bullsbikesusa.com",
+      "fulfillment@bullsbikesusa.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bullsbikesusa.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bullsbikesusa.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2024-09-18"
+      },
+      {
+        "url": "https://bullsbikesusa.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bullsbikesusa.com/pages/team-bulls",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bullsbikesusa.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bullsbikesusa.com/contact",
+        "action": "https://www.bullsbikesusa.com/contact/index/post/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://bullsbikesusa.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Explore top-quality eBikes at BULLS Bikes USA\u2014a trusted supplier of powerful, innovative electric bikes for every adventure. Buy online today!",
+    "source_urls": [
+      "https://bullsbikesusa.com",
+      "https://bullsbikesusa.com/contact",
+      "https://bullsbikesusa.com/pages/about-us",
+      "https://bullsbikesusa.com/pages/team-bulls",
+      "https://bullsbikesusa.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "bullseyesb.com",
+    "company_name": "Bullseye Sneaker Boutique",
+    "website": "https://bullseyesb.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "help@bullseyesb.com",
+        "confidence": "highest",
+        "source_url": "https://bullseyesb.com/pages/locations",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "8 Sat 10-8 Sun 11-6 Phone: +1 (267) 889-6237 Email: help@bullseyesb.com Shop Directions CHRISTIANA MALL"
+      }
+    ],
+    "role_emails": [
+      "help@bullseyesb.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bullseyesb.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bullseyesb.com/pages/locations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bullseyesb.com/products/nike-air-force-1-low-patent-leather-dark-team-red-safety-orange",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bullseyesb.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bullseyesb.com/pages/contact-bullseye",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bullseyesb.com/pages/contact-bullseye",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "One-Stop-Shop for Pre-Authenticated Sneakers, Clothing, and Accessories. Shop Now and Pay in Installments! Ships FREE 1-3 Day Delivery and No Order Fees!",
+    "source_urls": [
+      "https://bullseyesb.com/pages/locations",
+      "https://bullseyesb.com/pages/about-us",
+      "https://bullseyesb.com/pages/contact-bullseye"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "bullshad.com",
+    "company_name": "Bull Shad Swimbaits",
+    "website": "https://bullshad.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "chris@bullshad.com",
+        "confidence": "high",
+        "source_url": "https://bullshad.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "cworth, GA 30101 Contact: Mbucca@comcast.net or chris@bullshad.com"
+      }
+    ],
+    "role_emails": [
+      "chris@bullshad.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bullshad.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bullshad.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bullshad.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Welcome to Bull Shad Swimbaits, Home of the original Bull Shad and Burrito Swimbaits by Mike Bucca. We specialize in affordable, custom-made hard and soft swimbaits for Trophy Bass and Stripers. We are the swimbaits the Bass Tournament Pros use.",
+    "source_urls": [
+      "https://bullshad.com",
+      "https://bullshad.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "bullsheathleather.com",
+    "company_name": "Bull Sheath Leather",
+    "website": "https://bullsheathleather.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "contact@bullsheathleather.com",
+        "confidence": "highest",
+        "source_url": "https://bullsheathleather.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ther, cut, sewn, and finished by craftsmen in our workshop. contact@bullsheathleather.com Come Look Around Handmade Leather Wallets Men's"
+      }
+    ],
+    "role_emails": [
+      "contact@bullsheathleather.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bullsheathleather.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bullsheathleather.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bullsheathleather.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bullsheathleather.com/contact",
+        "action": "/contact#bsl-cform-template--23010904441059__bsl_contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://bullsheathleather.com/pages/contact",
+        "action": "/contact#bsl-cform-template--23010904441059__bsl_contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Handmade in Mansfield, Texas from full-grain American leather. Wallets, belts, badge wallets, and knife sheaths. Free U.S. shipping. No Bull Guarantee.",
+    "source_urls": [
+      "https://bullsheathleather.com",
+      "https://bullsheathleather.com/contact",
+      "https://bullsheathleather.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "bullstrap.co",
+    "company_name": "Bullstrap",
+    "website": "https://bullstrap.co",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://bullstrap.co",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bullstrap.co/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bullstrap.co/pages/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Discover Bullstrap's premium leather goods, designed to elevate your everyday carry. From iPhone cases to wallets, watch straps & bags, experience unmatched quality, innovation, and timeless style.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "bullstrap.com",
+    "company_name": "Bullstrap",
+    "website": "https://www.bullstrap.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@bullstrap.com",
+        "confidence": "highest",
+        "source_url": "https://www.bullstrap.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "us All Products CONTACT US CONTACT US info@bullstrap.com 951.319.4008 \u00a9 2"
+      }
+    ],
+    "role_emails": [
+      "info@bullstrap.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.bullstrap.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bullstrap.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bullstrap.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bullstrap.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bullstrap.com/collections/vehicle-management",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bullstrap.com/collections/pressure-plates",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bullstrap.com/collections/license-plate-relocation",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bullstrap.com/collections/turbo-compressor-covers",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bullstrap.com/collections/fuel-pressure-regulators",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bullstrap.com/collections/air-compressor-systems",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.bullstrap.com/pages/contact",
+        "action": "/contact#contact_form_page",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Bull Strap Bartact Trek Armor Ultimate Limiting Straps Heavy Duty Ratchet Tie Downs Jeep Wrangler Storage Gladiator Fire Extinguisher Mounts/Holders MOLLE Accessories MOLLE Seat Covers Paracord Grab Handles Vehicle Tie Downs Recovery Shackles Suspension Limit Straps Made in USA Limit Straps Jeep JL ",
+    "source_urls": [
+      "https://www.bullstrap.com",
+      "https://www.bullstrap.com/about-us",
+      "https://www.bullstrap.com/contact",
+      "https://www.bullstrap.com/pages/contact",
+      "https://www.bullstrap.com/collections/vehicle-management",
+      "https://www.bullstrap.com/collections/pressure-plates",
+      "https://www.bullstrap.com/collections/license-plate-relocation",
+      "https://www.bullstrap.com/collections/turbo-compressor-covers",
+      "https://www.bullstrap.com/collections/fuel-pressure-regulators",
+      "https://www.bullstrap.com/collections/air-compressor-systems"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 16
+  },
+  {
+    "company_domain": "bullybeds.com",
+    "company_name": "Bullybeds.com",
+    "website": "https://bullybeds.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@bullybeds.com",
+        "confidence": "highest",
+        "source_url": "https://bullybeds.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "happy to help! Call Us or Text Us: 321-272-8114 Email: support@bullybeds.com Bully Beds was na"
+      }
+    ],
+    "role_emails": [
+      "support@bullybeds.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bullybeds.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bullybeds.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bullybeds.com/products/bully-bites-ultra-complete-joint-support-soft-chews",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bullybeds.com/products/urinary-support-soft-chews",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bullybeds.com/products/anal-gland-and-bowel-function-support-chews",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bullybeds.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Bully Beds provides water & chewproof dog beds for large dogs at great prices. Made with memory foam & high-end mattresses. Easy to clean & wash. Order now!",
+    "source_urls": [
+      "https://bullybeds.com/contact",
+      "https://bullybeds.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "bullybrewcoffeehouse.com",
+    "company_name": "Bully Brew Coffee",
+    "website": "https://bullybrewcoffeehouse.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://bullybrewcoffeehouse.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bullybrewcoffeehouse.com/meet-the-team",
+        "page_type": "team",
+        "source_type": "archived",
+        "snapshot_date": "2018-05-29"
+      },
+      {
+        "url": "https://bullybrewcoffeehouse.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2019-12-15"
+      },
+      {
+        "url": "https://bullybrewcoffeehouse.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bullybrewcoffeehouse.com/pages/location-hours",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bullybrewcoffeehouse.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bullybrewcoffeehouse.com/collections/dark-roast/products/espresso",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bullybrewcoffeehouse.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "North Dakota's original coffee house since 2010. Fresh roasted coffee, flavored beans, subscriptions & K-Cups shipped to your door. 100% woman owned. Order Bully Brew Coffee today  Bully Brew Coffee",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "bullybunches.com",
+    "company_name": "Bully Bunches",
+    "website": "https://bullybunches.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@bullybunches.com",
+        "confidence": "high",
+        "source_url": "https://bullybunches.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "gram Our Story Log in support@bullybunches.com Cart Search"
+      }
+    ],
+    "role_emails": [
+      "support@bullybunches.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bullybunches.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bullybunches.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bullybunches.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bullybunches.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bullybunches.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bullybunches.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Looking for the best chews for dogs and bully sticks in the industry? Browse our selection of treats and safe chews at Bully Bunches! Happy chewing!",
+    "source_urls": [
+      "https://bullybunches.com",
+      "https://bullybunches.com/about",
+      "https://bullybunches.com/contact",
+      "https://bullybunches.com/pages/about-us",
+      "https://bullybunches.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bullymax.com",
+    "company_name": "Bully Max",
+    "website": "https://shop.bullymax.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://shop.bullymax.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.bullymax.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.bullymax.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.bullymax.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.bullymax.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "All-natural, high-quality, & filler-free dog food & advanced nutrition to improve dogs' growth and vitality. Healthy dog food made with high protein for lean muscles and healthy coat.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "bullypulpitgames.com",
+    "company_name": "Bully Pulpit Games",
+    "website": "https://bullypulpitgames.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://bullypulpitgames.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bullypulpitgames.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2022-10-07"
+      },
+      {
+        "url": "https://bullypulpitgames.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bullypulpitgames.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bullypulpitgames.com/pages/convention-support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bullypulpitgames.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "The home of Innovative tabletop gaming publisher Bully Pulpit Games! We make Fiasco, Star Crossed, Ghost Court, The Warren, Night Witches, and many other great games!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "bullystick.com",
+    "company_name": "BullyStick.com",
+    "website": "https://www.bullystick.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.bullystick.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bullystick.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bullystick.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.bullystick.com/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.bullystick.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Shop premium odor-free bully sticks for dogs. 100% natural, highly digestible, safer than rawhide. Free shipping over $65. Subscribe and save.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "bullystickscentral.com",
+    "company_name": "Bully Sticks Central",
+    "website": "https://bullystickscentral.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@bullystickscentral.com",
+        "confidence": "highest",
+        "source_url": "https://bullystickscentral.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ty Packs Reviews Take our quiz Need help? support@bullystickscentral.com Follow Us Facebook Instagram"
+      },
+      {
+        "address": "info@bullystickscentral.com",
+        "confidence": "high",
+        "source_url": "https://bullystickscentral.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Contact Us For any requests please send us an email at info@bullystickscentral.com using the form below. We are also available via chat Monday"
+      }
+    ],
+    "role_emails": [
+      "info@bullystickscentral.com",
+      "support@bullystickscentral.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bullystickscentral.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bullystickscentral.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bullystickscentral.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "The best natural dog treats, bully sticks, cow and pig ears, beef tendon, gullet sticks, chicken feet, and much more. 100% high-quality guaranteed. Shop now!",
+    "source_urls": [
+      "https://bullystickscentral.com",
+      "https://bullystickscentral.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "bullzerk.com",
+    "company_name": "Bullzerk",
+    "website": "https://www.bullzerk.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customerservice@bullzerk.com",
+        "confidence": "highest",
+        "source_url": "https://www.bullzerk.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "972-677-7705 customerservice@bullzerk.com Log in"
+      },
+      {
+        "address": "customprint@bullzerk.com",
+        "confidence": "highest",
+        "source_url": "https://www.bullzerk.com/pages/locations",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "screen prints every single shirt by hand. Send an email to customprint@bullzerk.com to schedule a time for you or a group to visit and see whe"
+      },
+      {
+        "address": "dave.bradley@bullzerk.com",
+        "confidence": "high",
+        "source_url": "https://www.bullzerk.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "customerservice@bullzerk.com",
+      "customprint@bullzerk.com",
+      "dave.bradley@bullzerk.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.bullzerk.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bullzerk.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bullzerk.com/collections/new-hot-off-the-press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bullzerk.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bullzerk.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bullzerk.com/pages/locations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bullzerk.com/collections/north-texas-giving-day-collection/products/support-local",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.bullzerk.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Bullzerk is Dallas's home for funny and bold Texas shirts, hats, and accessories, screen-printed in Dallas, TX.  Shop unique Texas gifts & Dallas apparel.",
+    "source_urls": [
+      "https://www.bullzerk.com",
+      "https://www.bullzerk.com/about",
+      "https://www.bullzerk.com/collections/new-hot-off-the-press",
+      "https://www.bullzerk.com/pages/contact-us",
+      "https://www.bullzerk.com/pages/about-us",
+      "https://www.bullzerk.com/pages/locations",
+      "https://www.bullzerk.com/collections/north-texas-giving-day-collection/products/support-local"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 14
+  },
+  {
+    "company_domain": "bum.com",
+    "company_name": "B.U.M. Equipment Clothing",
+    "website": "https://www.bum.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "bumbleberryfarms.com",
+    "company_name": "Bumbleberry Farms",
+    "website": "https://bumbleberryfarms.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Bumbleberry Farms",
+        "title": "Founder",
+        "email": "hello@bumbleberryfarms.com",
+        "source_url": "https://bumbleberryfarms.com/pages/about",
+        "association": "proximity"
+      }
+    ],
+    "people": [
+      {
+        "name": "Bumbleberry Farms",
+        "title": "Founder",
+        "email": "hello@bumbleberryfarms.com",
+        "source_url": "https://bumbleberryfarms.com/pages/about",
+        "association": "proximity"
+      }
+    ],
+    "emails": [
+      {
+        "address": "hello@bumbleberryfarms.com",
+        "confidence": "highest",
+        "source_url": "https://bumbleberryfarms.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "i: 9-4p Videophone: 412.763.1778 Office: 814.279.8083 hello@bumbleberryfarms.com Bumbleberry Farms 6901 Lynn Way, Ste #312 Pittsburgh, Penns"
+      },
+      {
+        "address": "u003ehello@bumbleberryfarms.com",
+        "confidence": "high",
+        "source_url": "https://bumbleberryfarms.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "hello@bumbleberryfarms.com",
+      "u003ehello@bumbleberryfarms.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bumbleberryfarms.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bumbleberryfarms.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2021-08-04"
+      },
+      {
+        "url": "https://bumbleberryfarms.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bumbleberryfarms.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bumbleberryfarms.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bumbleberryfarms.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bumbleberryfarms.com/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://bumbleberryfarms.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Handcrafted honey cream spreads and raw honey from Pittsburgh, PA. 2023 sofi Gold winner for Chocolate Raspberry. Free shipping on orders $80+.",
+    "source_urls": [
+      "https://bumbleberryfarms.com",
+      "https://bumbleberryfarms.com/press",
+      "https://bumbleberryfarms.com/contact",
+      "https://bumbleberryfarms.com/pages/about",
+      "https://bumbleberryfarms.com/pages/contact"
+    ],
+    "reason": null,
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bumblelane.com",
+    "company_name": "www.bumblelane.com",
+    "website": "https://www.bumblelane.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": "Helping Baton Rouge unwind since 2001. Let us pamper you with a rejuvenating facial, invigorating body scrub, therapeutic massage or luxurious nail service.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "bumbleplants.com",
+    "company_name": "Bumble Plants",
+    "website": "https://www.bumbleplants.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@bumbleplants.com",
+        "confidence": "highest",
+        "source_url": "https://www.bumbleplants.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "NY 10013, United States. Phone: +1 (646) 208-6647 Email: info@bumbleplants.com Please fill the form below and we will get back to you wi"
+      }
+    ],
+    "role_emails": [
+      "info@bumbleplants.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.bumbleplants.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bumbleplants.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bumbleplants.com/pages/contact-us111",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.bumbleplants.com/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Shop rare tropical houseplants shipped nationwide. Monsteras, Alocasias, Philodendrons &amp; more \u2014 curated for plant lovers of every level.",
+    "source_urls": [
+      "https://www.bumbleplants.com/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "bumbleride.com",
+    "company_name": "Bumbleride",
+    "website": "https://bumbleride.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "marketing@bumbleride.com",
+        "confidence": "highest",
+        "source_url": "https://bumbleride.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "phil@bumbleride.com",
+        "confidence": "high",
+        "source_url": "https://bumbleride.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "mail.com Bumbleride Germany, Austria & Switzerland email:phil@bumbleride.com Bumbleride Denmark, Sweden and Norway distributed by Im"
+      }
+    ],
+    "role_emails": [
+      "marketing@bumbleride.com",
+      "phil@bumbleride.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bumbleride.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bumbleride.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bumbleride.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bumbleride.com/pages/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bumbleride.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Shop Bumbleride for eco-friendly strollers. We make gear for you to get out and do what you love while doing our best to preserve the planet we all share.",
+    "source_urls": [
+      "https://bumbleride.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bumbousa.com",
+    "company_name": "bumbousa",
+    "website": "https://bumbousa.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@bumbousa.com",
+        "confidence": "high",
+        "source_url": "https://bumbousa.com/policies/contact-information",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Trade name: bumbousa Phone number: 888-737-8925 Email: info@bumbousa.com Physical address: 312 West 2nd Street, #2200, Casper WY 8"
+      }
+    ],
+    "role_emails": [
+      "info@bumbousa.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bumbousa.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bumbousa.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bumbousa.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bumbousa.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bumbousa.com/pages/contact",
+        "action": "/contact#ContactForm-AZnJDejdrNnVBMEFha__contact_form_UwiCkQ",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Discover why millions of families trust Bumbo for safe, ergonomic baby seats and thoughtful products designed to support every milestone from birth to toddlerhood. Backed by experts, built for parents.",
+    "source_urls": [
+      "https://bumbousa.com/policies/contact-information"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  }
+]
