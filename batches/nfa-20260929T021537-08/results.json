@@ -1,0 +1,1459 @@
+[
+  {
+    "company_domain": "beesteamstore.com",
+    "company_name": "Salt Lake Bees Team Store",
+    "website": "https://beesteamstore.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://beesteamstore.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beesteamstore.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beesteamstore.com/account",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beesteamstore.com/cart",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beesteamstore.com/collections/all",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beesteamstore.com/collections/headwear",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beesteamstore.com/collections/2025-on-field-jerseys",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beesteamstore.com/collections/apparel-1",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beesteamstore.com/collections/novelties",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beesteamstore.com/collections/markdowns",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "The official online home for Salt Lake Bees gear. Browse a premium selection of unique hats, jerseys, clothing, and fan merchandise for the ultimate Bees fan experience.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 18
+  },
+  {
+    "company_domain": "beestsnacks.com",
+    "company_name": "Beest Snacks",
+    "website": "https://beestsnacks.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Press Good Morning",
+        "title": null,
+        "email": "hello@beestsnacks.com",
+        "source_url": "https://beestsnacks.com/press",
+        "association": "proximity"
+      }
+    ],
+    "people": [
+      {
+        "name": "Press Good Morning",
+        "title": null,
+        "email": "hello@beestsnacks.com",
+        "source_url": "https://beestsnacks.com/press",
+        "association": "proximity"
+      }
+    ],
+    "emails": [
+      {
+        "address": "hello@beestsnacks.com",
+        "confidence": "highest",
+        "source_url": "https://beestsnacks.com/press",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "and charts: beestsnacks.com/press-assets Press contact: hello@beestsnacks.com \u00b7 (512) 903-5939 In the Press Good Morning America"
+      }
+    ],
+    "role_emails": [
+      "hello@beestsnacks.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://beestsnacks.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beestsnacks.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beestsnacks.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beestsnacks.com/pages/press-room",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beestsnacks.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://beestsnacks.com/pages/contact",
+        "action": "/contact#ContactForm-AbmErRURvOGVQd3lja__contact_form_jWxXkm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "High protein snacks made from real food: Charcuterie Trail Mix, Beef Jerky Chips and Pork Jerky Chips. Real Food. Real Crunch. Unreal Macros.",
+    "source_urls": [
+      "https://beestsnacks.com",
+      "https://beestsnacks.com/press",
+      "https://beestsnacks.com/pages/about-us",
+      "https://beestsnacks.com/pages/press-room",
+      "https://beestsnacks.com/pages/contact"
+    ],
+    "reason": null,
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "beeswrap.com",
+    "company_name": "Bee's Wrap",
+    "website": "https://www.beeswrap.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@beeswrap.com",
+        "confidence": "highest",
+        "source_url": "https://www.beeswrap.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Send us a note! For general inquires, contact info@beeswrap.com For wholesale inquiries, contact sales@beeswrap.com 802-64"
+      },
+      {
+        "address": "sales@beeswrap.com",
+        "confidence": "highest",
+        "source_url": "https://www.beeswrap.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ontact info@beeswrap.com For wholesale inquiries, contact sales@beeswrap.com 802-643-2132 383 Exchange Street Middlebury, VT 05753"
+      }
+    ],
+    "role_emails": [
+      "info@beeswrap.com",
+      "sales@beeswrap.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.beeswrap.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beeswrap.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2013-01-16"
+      },
+      {
+        "url": "https://www.beeswrap.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beeswrap.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beeswrap.com/pages/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beeswrap.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.beeswrap.com/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.beeswrap.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "America's #1 rated reusable beeswax wrap, Bee\u2019s Wrap is the trusted natural alternative to plastic wrap and bags. Enjoy free U.S. shipping on orders over $40.",
+    "source_urls": [
+      "https://www.beeswrap.com/contact",
+      "https://www.beeswrap.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "beet-it.us",
+    "company_name": "Beet It",
+    "website": "https://www.beet-it.us",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.beet-it.us",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beet-it.us/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2020-09-22"
+      },
+      {
+        "url": "https://www.beet-it.us/press",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2020-09-23"
+      },
+      {
+        "url": "https://www.beet-it.us/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2016-12-01"
+      },
+      {
+        "url": "https://www.beet-it.us/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.beet-it.us/about",
+        "action": "https://beet-it.us/about/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.beet-it.us/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Discover Beet It - your go-to source for top-quality beet juice products. Perfect for athletes and health enthusiasts, our organic beet juice range is crafted to boost sports performance and support a healthy lifestyle. Experience the natural power of beets today!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "beetandyarrow.com",
+    "company_name": "Beet & Yarrow Florist",
+    "website": "https://www.beetandyarrow.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.beetandyarrow.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beetandyarrow.com/pages/about-beet-and-yarrow",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.beetandyarrow.com/pages/about-beet-and-yarrow",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Beet and Yarrow flowers for weddings, funerals, birthdays, Valentine\u2019s Day, or\u2026 just because. Visit our online flower shop to order now.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "beetronicsfx.com",
+    "company_name": "Beetronics",
+    "website": "https://www.beetronicsfx.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "artists@beetronicsfx.com",
+        "confidence": "highest",
+        "source_url": "https://www.beetronicsfx.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ECOME A DEALER dealers@beetronicsfx.com ARTIST RELATIONS artists@beetronicsfx.com tech support \u2022 REPAIRS support@beetronicsfx.com Follo"
+      },
+      {
+        "address": "dealers@beetronicsfx.com",
+        "confidence": "highest",
+        "source_url": "https://www.beetronicsfx.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "icy and Terms of Service apply. BEECOME A DEALER dealers@beetronicsfx.com ARTIST RELATIONS artists@beetronicsfx.com tech suppor"
+      },
+      {
+        "address": "support@beetronicsfx.com",
+        "confidence": "highest",
+        "source_url": "https://www.beetronicsfx.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ELATIONS artists@beetronicsfx.com tech support \u2022 REPAIRS support@beetronicsfx.com Follow us Facebook Instagram"
+      },
+      {
+        "address": "contact@beetronicsfx.com",
+        "confidence": "high",
+        "source_url": "https://www.beetronicsfx.com/policies/contact-information",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Trade name: Beetronics Phone number: 8184486883 Email: contact@beetronicsfx.com Physical address: Beetronics LLC, 14823 1/2 Oxnard Street"
+      }
+    ],
+    "role_emails": [
+      "artists@beetronicsfx.com",
+      "contact@beetronicsfx.com",
+      "dealers@beetronicsfx.com",
+      "support@beetronicsfx.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.beetronicsfx.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beetronicsfx.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beetronicsfx.com/pages/about-us-1",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beetronicsfx.com/pages/tech-support-repair",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beetronicsfx.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.beetronicsfx.com/pages/contact-us",
+        "action": "/contact#ContactForm-template--19600954786034__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.beetronicsfx.com/pages/tech-support-repair",
+        "action": "/contact#ContactForm-template--19600955212018__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Custom guitar effects made by a swarm of bees in Los Angeles, California. Beetronics pedals are as unique as it gets! Your next favorite Fuzz pedals are here.",
+    "source_urls": [
+      "https://www.beetronicsfx.com/pages/contact-us",
+      "https://www.beetronicsfx.com/pages/tech-support-repair",
+      "https://www.beetronicsfx.com/policies/contact-information"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "beevitality.co",
+    "company_name": "BeeVitality",
+    "website": "https://beevitality.co",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": "The original Bee Vitality unlocks the full potency of bee-derived nutrients through bioavailable natural supplements. Bee Vitality also promotes structural hair, skin and nail growth while reinforcing immune health. Experience the buzz of Bee Vitality and unlock your full potential.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "beeyouorganics.com",
+    "company_name": "Bee You Organics",
+    "website": "https://beeyouorganics.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customerservice@beeyouorganics.com",
+        "confidence": "high",
+        "source_url": "https://beeyouorganics.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "customerservice@beeyouorganics.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://beeyouorganics.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beeyouorganics.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beeyouorganics.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beeyouorganics.com/blogs/media-press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Waterless, Organic, Zero-Waste skincare & makeup for sensitive skin. Get concentrated, non-toxic formulas that enhance your natural glow. Ditch the plastic, embrace transparency and live more sustainably. Feel good about what you're putting on your skin. Small, family and woman owned business. Made ",
+    "source_urls": [
+      "https://beeyouorganics.com",
+      "https://beeyouorganics.com/pages/about-us",
+      "https://beeyouorganics.com/pages/contact-us",
+      "https://beeyouorganics.com/blogs/media-press"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "beezcombatsystems.com",
+    "company_name": "Beez Combat Systems",
+    "website": "https://www.beezcombatsystems.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "beez@beezcombatsystems.com",
+        "confidence": "highest",
+        "source_url": "https://www.beezcombatsystems.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "info@beezcombatsystems.com",
+        "confidence": "high",
+        "source_url": "https://www.beezcombatsystems.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Cart Get in touch Email Us : info@beezcombatsystems.com Beez Combat Systems 2223 S Highland Dr. E6-214 SLC, Ut 84"
+      }
+    ],
+    "role_emails": [
+      "beez@beezcombatsystems.com",
+      "info@beezcombatsystems.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.beezcombatsystems.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beezcombatsystems.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beezcombatsystems.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.beezcombatsystems.com/pages/contact",
+        "action": "/contact#contact-template--15585433256183__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Beez Combat Systems",
+    "source_urls": [
+      "https://www.beezcombatsystems.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "beezeeart.com",
+    "company_name": "BeeZeeArt",
+    "website": "https://www.beezeeart.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.beezeeart.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beezeeart.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beezeeart.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.beezeeart.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "BeeZeeArt is the studio of artist Brittany Zerkle who specializes in creating cute, quirky, and cuddly products for all ages.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "befashionablygreek.com",
+    "company_name": "Fashionably Greek",
+    "website": "https://www.befashionablygreek.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.befashionablygreek.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.befashionablygreek.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2018-12-23"
+      },
+      {
+        "url": "https://www.befashionablygreek.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.befashionablygreek.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.befashionablygreek.com/pages/contact-us",
+        "action": "/contact#contact-template--16842719821998__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Fashionably Greek is the Ivy League of custom Greek apparel. Fashionably Greek offers Greek paraphernalia that can be worn for any occasion. We are authorized vendors for Alpha Kappa Alpha, Delta Sigma Theta, Zeta Phi Beta, Sigma Gamma Rho, Kappa Alpha PSi, Omega Psi Phi, and Iota Phi Theta.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "befreebydaniellefishel.com",
+    "company_name": "Be Free by Danielle Fishel",
+    "website": "https://befreebydaniellefishel.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "contact@befreebydaniellefishel.com",
+        "confidence": "high",
+        "source_url": "https://befreebydaniellefishel.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ries only*** 1108 Tamarind Ave. Los Angeles, CA 90038 contact@befreebydaniellefishel.com Contact form Name Email"
+      }
+    ],
+    "role_emails": [
+      "contact@befreebydaniellefishel.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://befreebydaniellefishel.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://befreebydaniellefishel.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://befreebydaniellefishel.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://befreebydaniellefishel.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Be Free by Danielle Fishel. Vegan, Cruelty-Free, and Color Safe Hair Care. Free of sulfate, sodium chloride, phosphate, gluten, parabens and phthalates.",
+    "source_urls": [
+      "https://befreebydaniellefishel.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "beggsfamilyfarm.com",
+    "company_name": "Beggs Family Farm",
+    "website": "https://beggsfamilyfarm.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://beggsfamilyfarm.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beggsfamilyfarm.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "\ud83e\udde1\ud83c\udf83 Fall is in the air at Beggs Family Farm! Enjoy over 50 fun-filled farm-themed activities and games for all ages. Come celebrate the season, make memories, and enjoy a day full of autumn fun! \ud83c\udf42",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "beginagaintoys.com",
+    "company_name": "BeginAgain",
+    "website": "https://beginagaintoys.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": "n",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "beginhealth.com",
+    "company_name": "Begin Health, Inc.",
+    "website": "https://www.beginhealth.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Wholesale Ordering",
+        "title": null,
+        "email": "karen@beginhealth.com",
+        "source_url": "https://www.beginhealth.com"
+      }
+    ],
+    "people": [
+      {
+        "name": "Wholesale Ordering",
+        "title": null,
+        "email": "karen@beginhealth.com",
+        "source_url": "https://www.beginhealth.com"
+      }
+    ],
+    "emails": [
+      {
+        "address": "karen@beginhealth.com",
+        "confidence": "highest",
+        "source_url": "https://www.beginhealth.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.beginhealth.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beginhealth.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Pediatrician-formulated HMO prebiotics & probiotics for babies & kids. End constipation, boost immunity & support healthy digestion. Clean ingredients. Shop Begin Health.",
+    "source_urls": [
+      "https://www.beginhealth.com",
+      "https://www.beginhealth.com/pages/about-us"
+    ],
+    "reason": null,
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "beginningboutique.com",
+    "company_name": "Beginning Boutique US",
+    "website": "https://www.beginningboutique.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.beginningboutique.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beginningboutique.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beginningboutique.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beginningboutique.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.beginningboutique.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Enjoy next day delivery, super-friendly customer support, and 4.8-star Google-rated service you can trust. Plus, we cover all customs charges so no surprises at checkout. From head-turning summer and hoco dresses to must-have bikinis, we design outfits you'll actually want to wear.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "begoldish.com",
+    "company_name": "Goldish",
+    "website": "https://begoldish.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@begoldish.com",
+        "confidence": "high",
+        "source_url": "https://begoldish.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "support@begoldish.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://begoldish.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://begoldish.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://begoldish.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://begoldish.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Body Jewelry handmade in New York. Talismans to Awaken the Senses. A Celebration of the Sensual. Made of 14k Gold-Filled, Gemstones, Pearls and Unique Stones.",
+    "source_urls": [
+      "https://begoldish.com",
+      "https://begoldish.com/about",
+      "https://begoldish.com/about-us",
+      "https://begoldish.com/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "begreenbathandbody.com",
+    "company_name": "Be Green Bath and Body, LLC",
+    "website": "https://begreenbathandbody.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@begreenbathandbody.com",
+        "confidence": "high",
+        "source_url": "https://begreenbathandbody.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "support@begreenbathandbody.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://begreenbathandbody.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://begreenbathandbody.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://begreenbathandbody.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://begreenbathandbody.com/pages/press-media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://begreenbathandbody.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://begreenbathandbody.com/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://begreenbathandbody.com/pages/about-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://begreenbathandbody.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Be Green Bath and Body, LLC offers natural, non-toxic skincare handcrafted in small batches. Our eco-friendly, plant-based products are made for sensitive skin using organic ingredients. Woman-owned and sustainable, we\u2019re committed to healthy skin and a cleaner planet. EWG Verified. No added fragran",
+    "source_urls": [
+      "https://begreenbathandbody.com",
+      "https://begreenbathandbody.com/contact",
+      "https://begreenbathandbody.com/pages/about-us",
+      "https://begreenbathandbody.com/pages/press-media",
+      "https://begreenbathandbody.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "behappysnacks.com",
+    "company_name": "Be Happy Snacks",
+    "website": "https://behappysnacks.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://behappysnacks.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Our mission is to turn everyday snacking into an experience full of flavor and delight. Snacking should be more than just a quick bite-it should be an experience of discovery and delight. full of unique flavors and memories. We're here to help you celebrate the simple joys and share unique experienc",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "behavebras.com",
+    "company_name": "Behave Bras",
+    "website": "https://behavebras.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "momsquad@behavebras.com",
+        "confidence": "highest",
+        "source_url": "https://behavebras.com/pages/press",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "r press inquiries please reach out to: momsquad@behavebras.com About Behave Bras is"
+      }
+    ],
+    "role_emails": [
+      "momsquad@behavebras.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://behavebras.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://behavebras.com/pages/about-stayz",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://behavebras.com/pages/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://behavebras.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Let's get your boobs to behave. The comfiest bra for DD-I Cups & 30-38 Bands.",
+    "source_urls": [
+      "https://behavebras.com",
+      "https://behavebras.com/pages/press",
+      "https://behavebras.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "behealthyusa.net",
+    "company_name": "Be Healthy",
+    "website": "https://behealthyusa.net",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@behealthyusa.net",
+        "confidence": "highest",
+        "source_url": "https://behealthyusa.net/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "* Be Healthy! Information Email: info@behealthyusa.net Customer Service: Monday to Friday: 9am - 5pm EST"
+      }
+    ],
+    "role_emails": [
+      "info@behealthyusa.net"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://behealthyusa.net",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://behealthyusa.net/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://behealthyusa.net/blogs/news/behealthyusa-launches-share-the-love-donation-drive-to-support-immunocompromised-individuals-with-kf94-masks-during-long-covid-and-provide-allergy-relief",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://behealthyusa.net/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://behealthyusa.net/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "KF94 Masks, Premium Korean Health Products - Official distributor. certified KF94 face masks. Fast U.S. shipping, trusted quality, and authentic",
+    "source_urls": [
+      "https://behealthyusa.net",
+      "https://behealthyusa.net/pages/contact-us",
+      "https://behealthyusa.net/blogs/news/behealthyusa-launches-share-the-love-donation-drive-to-support-immunocompromised-individuals-with-kf94-masks-during-long-covid-and-provide-allergy-relief",
+      "https://behealthyusa.net/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "behindthechair.com",
+    "company_name": "Behindthechair",
+    "website": "https://shop.behindthechair.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://shop.behindthechair.com",
+        "page_type": "home",
+        "source_type": "archived",
+        "snapshot_date": "2026-05-03"
+      },
+      {
+        "url": "https://shop.behindthechair.com/collections/btc-pins-patches/products/support-your-hairstylist-trucker-hat",
+        "page_type": "support",
+        "source_type": "archived",
+        "snapshot_date": "2026-06-14"
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Find Balayage Boards, Hot Tools, Hairdresser Apparel, Hairdresser Swag, Hairstylists Gifts, YS Park Combs, YS Park Brushes.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "beholdisrael.org",
+    "company_name": "Behold Israel",
+    "website": "https://shop.beholdisrael.org",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://shop.beholdisrael.org",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.beholdisrael.org/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://shop.beholdisrael.org/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Behold Israel is a non-profit organization led by native Israeli Amir Tsarfati. Our mission is to provide reliable and accurate reporting on developments in Israel and the region. Amir\u2019s live updates and teachings, based on God\u2019s Written Word, sift out the truth on current events amidst global media",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "behome.com",
+    "company_name": "Be Home",
+    "website": "https://behome.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@behome.com",
+        "confidence": "high",
+        "source_url": "https://behome.com/en-ca/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Us We look forward to hearing from you! Email: hello@behome.com Phone: 866-775-3466 Address: 1065 Broadway Ave San"
+      },
+      {
+        "address": "info@behome.com",
+        "confidence": "high",
+        "source_url": "https://behome.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2021-01-15",
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "hello@behome.com",
+      "info@behome.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://behome.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://behome.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2021-01-15"
+      },
+      {
+        "url": "https://behome.com/press",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2021-01-15"
+      },
+      {
+        "url": "https://behome.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2021-01-15"
+      },
+      {
+        "url": "https://behome.com/en-ca/collections/media-consoles",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://behome.com/en-ca/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Handcrafted home goods from around the world. Discover our collection of beautiful, eco-friendly home & lifestyle products at behome.com.",
+    "source_urls": [
+      "https://behome.com/about",
+      "https://behome.com/press",
+      "https://behome.com/contact",
+      "https://behome.com/en-ca/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "behringmade.com",
+    "company_name": "Behring Made",
+    "website": "https://www.behringmade.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "elle@behringmade.com",
+        "confidence": "high",
+        "source_url": "https://www.behringmade.com/pages/gdpr-contact-and-data-rights-eu-residents",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "nformation, contact our Data Protection Contact: Email: elle@behringmade.com Subject line: GDPR Request We respond to GDPR-related re"
+      }
+    ],
+    "role_emails": [
+      "elle@behringmade.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.behringmade.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.behringmade.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.behringmade.com/pages/gdpr-contact-and-data-rights-eu-residents",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.behringmade.com/pages/business-contact-and-inquiries",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.behringmade.com/pages/questions-about-your-order",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Behring Made Knives creates top quality custom handmade knives. We specialize in hunting knives, EDC knives, kitchen cutlery, and more custom knives.",
+    "source_urls": [
+      "https://www.behringmade.com/pages/gdpr-contact-and-data-rights-eu-residents"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  }
+]
