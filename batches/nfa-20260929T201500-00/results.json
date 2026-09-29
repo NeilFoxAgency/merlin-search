@@ -1,0 +1,1690 @@
+[
+  {
+    "company_domain": "brdiamonds.com",
+    "company_name": "Buchroeders Jewelers",
+    "website": "https://brdiamonds.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "breacherrustics.com",
+    "company_name": "Breacher Rustics- Stand For Something \u2122",
+    "website": "https://breacherrustics.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@breacherrustics.com",
+        "confidence": "highest",
+        "source_url": "https://breacherrustics.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Contact Us Email info@breacherrustics.com Address 495 Cuttle Road Marysville, MI 48040 Unit"
+      }
+    ],
+    "role_emails": [
+      "info@breacherrustics.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://breacherrustics.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://breacherrustics.com/products/we-the-people-eagle-cornhole-set-red-natural-blue-colors?_pos=5&_sid=565aa264c&_ss=r",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://breacherrustics.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://breacherrustics.com/pages/about-us",
+        "action": "/contact#ContactForm-AWmdjWDduK1J6ZmM2Q__contact_form_pKmDXq",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Handmade patriotic woodworking and apparel custom designed by LEO / Military veterans and supporters. Made right here in the USA! All of our products are custom designed. Giving back to those that protect our country and communities.",
+    "source_urls": [
+      "https://breacherrustics.com",
+      "https://breacherrustics.com/products/we-the-people-eagle-cornhole-set-red-natural-blue-colors?_pos=5&_sid=565aa264c&_ss=r",
+      "https://breacherrustics.com/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bread-story.com",
+    "company_name": "Bread Story",
+    "website": "https://bread-story.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://bread-story.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bread-story.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bread-story.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Authentic French Bakery. Bread Story's mission is to serve the StuyTown, New York community of with freshly baked French delights for the pleasure of families and those seeking to enjoy a taste of the French heritage and \u201csavoir-faire\u201d.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "breadfarm.com",
+    "company_name": "Breadfarm",
+    "website": "https://www.breadfarm.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@breadfarm.com",
+        "confidence": "high",
+        "source_url": "https://www.breadfarm.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@breadfarm.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.breadfarm.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.breadfarm.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2016-09-24"
+      },
+      {
+        "url": "https://www.breadfarm.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.breadfarm.com/contact",
+        "action": "/contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.breadfarm.com/pages/contact-us",
+        "action": "/contact#contact-template--34590365778173__contact-form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Breadfarm makes hand crafted bread & pastries from scratch using the highest quality ingredients, supporting local commerce. We're a passionate bunch of bakers changing the world, one loaf at a time!",
+    "source_urls": [
+      "https://www.breadfarm.com",
+      "https://www.breadfarm.com/contact",
+      "https://www.breadfarm.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "breadsrsly.com",
+    "company_name": "Bread SRSLY",
+    "website": "https://breadsrsly.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Sadie Scheffer",
+        "title": "Owner",
+        "email": "sadie@breadsrsly.com",
+        "source_url": "https://breadsrsly.com/contact"
+      },
+      {
+        "name": "Juan Rodriguez",
+        "title": null,
+        "email": "sales@breadsrsly.com",
+        "source_url": "https://breadsrsly.com/contact",
+        "association": "proximity"
+      },
+      {
+        "name": "Melissa Lopez",
+        "title": null,
+        "email": "orders@breadsrsly.com",
+        "source_url": "https://breadsrsly.com/contact",
+        "association": "proximity"
+      },
+      {
+        "name": "Partnerships Contact",
+        "title": null,
+        "email": "melissa@breadsrsly.com",
+        "source_url": "https://breadsrsly.com/contact",
+        "association": "proximity"
+      },
+      {
+        "name": "Product Info",
+        "title": null,
+        "email": "hello@breadsrsly.com",
+        "source_url": "https://breadsrsly.com/contact",
+        "association": "proximity"
+      }
+    ],
+    "people": [
+      {
+        "name": "Sadie Scheffer",
+        "title": "Owner",
+        "email": "sadie@breadsrsly.com",
+        "source_url": "https://breadsrsly.com/contact"
+      },
+      {
+        "name": "Juan Rodriguez",
+        "title": null,
+        "email": "sales@breadsrsly.com",
+        "source_url": "https://breadsrsly.com/contact",
+        "association": "proximity"
+      },
+      {
+        "name": "Melissa Lopez",
+        "title": null,
+        "email": "orders@breadsrsly.com",
+        "source_url": "https://breadsrsly.com/contact",
+        "association": "proximity"
+      },
+      {
+        "name": "Partnerships Contact",
+        "title": null,
+        "email": "melissa@breadsrsly.com",
+        "source_url": "https://breadsrsly.com/contact",
+        "association": "proximity"
+      },
+      {
+        "name": "Product Info",
+        "title": null,
+        "email": "hello@breadsrsly.com",
+        "source_url": "https://breadsrsly.com/contact",
+        "association": "proximity"
+      }
+    ],
+    "emails": [
+      {
+        "address": "hello@breadsrsly.com",
+        "confidence": "highest",
+        "source_url": "https://breadsrsly.com/pages/copy-of-contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "a reply the same day. Email customer care Customer Care hello@breadsrsly.com Open Monday - Thursday Wholesale/Retail orders@breadsrsly."
+      },
+      {
+        "address": "melissa@breadsrsly.com",
+        "confidence": "highest",
+        "source_url": "https://breadsrsly.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2020-05-05",
+        "context_snippet": "Partnerships Contact for press inquiries and collaborations melissa@breadsrsly.com"
+      },
+      {
+        "address": "orders@breadsrsly.com",
+        "confidence": "highest",
+        "source_url": "https://breadsrsly.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2020-05-05",
+        "context_snippet": "z, Account Manager Contact for existing wholesale accounts orders@breadsrsly.com Melissa Lopez, Marketing and Partnerships Contact for press"
+      },
+      {
+        "address": "sadie@breadsrsly.com",
+        "confidence": "highest",
+        "source_url": "https://breadsrsly.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2020-05-05",
+        "context_snippet": "srsly.com 844-GF-BREAD (844) 432-7323 Sadie Scheffer, Owner sadie@breadsrsly.com Tony Intal, Sales Manager Contact for new wholesale accoun"
+      },
+      {
+        "address": "sales@breadsrsly.com",
+        "confidence": "highest",
+        "source_url": "https://breadsrsly.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2020-05-05",
+        "context_snippet": "ny Intal, Sales Manager Contact for new wholesale accounts sales@breadsrsly.com Juan Rodriguez, Account Manager Contact for existing whole"
+      },
+      {
+        "address": "marketing@breadsrsly.com",
+        "confidence": "high",
+        "source_url": "https://breadsrsly.com/pages/copy-of-contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "nd Food Service Customer Service & Inquiries Partnerships marketing@breadsrsly.com Existing Wholesale Retailers, New Retailer and Food Service"
+      }
+    ],
+    "role_emails": [
+      "hello@breadsrsly.com",
+      "marketing@breadsrsly.com",
+      "orders@breadsrsly.com",
+      "sadie@breadsrsly.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://breadsrsly.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://breadsrsly.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://breadsrsly.com/press",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2020-05-05"
+      },
+      {
+        "url": "https://breadsrsly.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2020-05-05"
+      },
+      {
+        "url": "https://breadsrsly.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://breadsrsly.com/pages/copy-of-contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.breadsrsly.com/about/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Artisan gluten-free sourdough, slow-fermented from organic flours and free from the top 9 allergens. Vegan, celiac-safe, and shipped fresh nationwide.",
+    "source_urls": [
+      "https://breadsrsly.com",
+      "https://breadsrsly.com/about",
+      "https://breadsrsly.com/press",
+      "https://breadsrsly.com/contact",
+      "https://breadsrsly.com/pages/about-us",
+      "https://breadsrsly.com/pages/copy-of-contact-us",
+      "http://www.breadsrsly.com/about/"
+    ],
+    "reason": null,
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "breakawaymatcha.com",
+    "company_name": "Breakaway Matcha",
+    "website": "https://breakawaymatcha.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "eric@breakawaymatcha.com",
+        "confidence": "highest",
+        "source_url": "https://breakawaymatcha.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2019-11-12",
+        "context_snippet": "\u2019ll reply as promptly as we can. Email Us Anytime eric@breakawaymatcha.com Phone 415-462-3313 Or, you may contact us using our"
+      },
+      {
+        "address": "hello@breakawaymatcha.com",
+        "confidence": "high",
+        "source_url": "https://breakawaymatcha.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "eric@breakawaymatcha.com",
+      "hello@breakawaymatcha.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://breakawaymatcha.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://breakawaymatcha.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://breakawaymatcha.com/press",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2019-11-12"
+      },
+      {
+        "url": "https://breakawaymatcha.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2019-11-12"
+      },
+      {
+        "url": "https://breakawaymatcha.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://breakawaymatcha.com/pages/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "We're different from all other tea purveyors in that we are ultraspecialized. We go narrow and we go deep with a single focus: young-growth, extraordinary matcha. Once you try it, it's hard to drink anything else.",
+    "source_urls": [
+      "https://breakawaymatcha.com",
+      "https://breakawaymatcha.com/about",
+      "https://breakawaymatcha.com/contact",
+      "https://breakawaymatcha.com/pages/about",
+      "https://breakawaymatcha.com/pages/press"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "breakerhunters.com",
+    "company_name": "Breaker Hunters, Inc.",
+    "website": "https://breakerhunters.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Email websales@breakerhunters.com",
+        "title": null,
+        "email": "websales@breakerhunters.com",
+        "source_url": "https://breakerhunters.com"
+      }
+    ],
+    "people": [
+      {
+        "name": "Email websales@breakerhunters.com",
+        "title": null,
+        "email": "websales@breakerhunters.com",
+        "source_url": "https://breakerhunters.com"
+      }
+    ],
+    "emails": [
+      {
+        "address": "websales@breakerhunters.com",
+        "confidence": "highest",
+        "source_url": "https://breakerhunters.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ent Free Economy Shipping Available! | websales@breakerhunters.com | 877-963-4543 Country/region United States"
+      }
+    ],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://breakerhunters.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://breakerhunters.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://breakerhunters.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://breakerhunters.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Breaker Hunters supplies circuit breakers, motor controls, & electrical products for industrial, commercial, and mining needs. Shop online or contact us today!",
+    "source_urls": [
+      "https://breakerhunters.com",
+      "https://breakerhunters.com/pages/about-us",
+      "https://breakerhunters.com/pages/contact-us"
+    ],
+    "reason": null,
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "breakfastcriminals.com",
+    "company_name": "Breakfast Criminals",
+    "website": "https://www.breakfastcriminals.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.breakfastcriminals.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.breakfastcriminals.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.breakfastcriminals.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.breakfastcriminals.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.breakfastcriminals.com/about/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.breakfastcriminals.com/about/press/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.breakfastcriminals.com/contact/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.breakfastcriminals.com",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.breakfastcriminals.com/about",
+        "action": "https://www.breakfastcriminals.com/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.breakfastcriminals.com/about",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.breakfastcriminals.com/press",
+        "action": "https://www.breakfastcriminals.com/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.breakfastcriminals.com/press",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.breakfastcriminals.com/contact",
+        "action": "/contact/#wpcf7-f7885-p16-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.breakfastcriminals.com/contact",
+        "action": "https://www.breakfastcriminals.com/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.breakfastcriminals.com/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.breakfastcriminals.com/about/",
+        "action": "https://www.breakfastcriminals.com/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.breakfastcriminals.com/about/",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.breakfastcriminals.com/about/press/",
+        "action": "https://www.breakfastcriminals.com/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.breakfastcriminals.com/about/press/",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.breakfastcriminals.com/contact/",
+        "action": "/contact/#wpcf7-f7885-p16-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.breakfastcriminals.com/contact/",
+        "action": "https://www.breakfastcriminals.com/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.breakfastcriminals.com/contact/",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "How you start your day is how you live your life. Superfood recipes and morning rituals from around the world curated by Ksenia Avdulova.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "breakingbadstore.com",
+    "company_name": "Breaking Bad Store",
+    "website": "https://www.breakingbadstore.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.breakingbadstore.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.breakingbadstore.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Find Breaking Bad shirts, figures, collectibles, phone cases, home decor, and more. Visit the official shop of Breaking Bad today!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "breakingbenjamin.com",
+    "company_name": "Breaking Benjamin",
+    "website": "https://store.breakingbenjamin.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "dns_failure",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "breakinggames.com",
+    "company_name": "Breaking Games",
+    "website": "https://breakinggames.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "press@breakinggames.com",
+        "confidence": "highest",
+        "source_url": "https://breakinggames.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "sales@breakinggames.com",
+        "confidence": "highest",
+        "source_url": "https://breakinggames.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ic 125 Main Street Netcong, New Jersey, USA 07857 Email: sales@breakinggames.com Game Submissions Does your game have what it takes to"
+      }
+    ],
+    "role_emails": [
+      "press@breakinggames.com",
+      "sales@breakinggames.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://breakinggames.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://breakinggames.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://breakinggames.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://breakinggames.com/pages/retail-locations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://breakinggames.com/pages/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://breakinggames.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Breaking Games is an Indie tabletop game and board game publishing and promotion division of game printer AdMagic Games.",
+    "source_urls": [
+      "https://breakinggames.com/pages/contact-us",
+      "https://breakinggames.com/pages/retail-locations",
+      "https://breakinggames.com/pages/press"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "breakingintodevice.com",
+    "company_name": "Breaking Into Device",
+    "website": "https://www.breakingintodevice.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "robots_disallowed",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "breakingt.com",
+    "company_name": "BreakingT",
+    "website": "https://breakingt.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "contact@breakingt.com",
+        "confidence": "highest",
+        "source_url": "https://breakingt.com/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "WITH US Shop All Products Questions? contact@breakingt.com Quick links About Us FAQ Shipping &"
+      }
+    ],
+    "role_emails": [
+      "contact@breakingt.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://breakingt.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://breakingt.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://breakingt.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://breakingt.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://breakingt.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "BreakingT offers high-quality, real-time sports fan gear with original designs. Products include T-shirts, hoodies, mugs, masks, prints and more. Officially licensed by MLB Players, USWNT Players, WNBA Players, MLS Players and more. Wear The Moment.",
+    "source_urls": [
+      "https://breakingt.com/about",
+      "https://breakingt.com/pages/about-us",
+      "https://breakingt.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "breakoutbras.com",
+    "company_name": "Breakout Bras",
+    "website": "https://www.breakoutbras.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "service@breakoutbras.com",
+        "confidence": "highest",
+        "source_url": "https://www.breakoutbras.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "it 525 Haywood Rd Greenville, SC 29607 1-864-627-0200 service@breakoutbras.com Retail Store Hours (EST): Monday-Thursday 12-7 Friday and"
+      }
+    ],
+    "role_emails": [
+      "service@breakoutbras.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.breakoutbras.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.breakoutbras.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.breakoutbras.com/collections/sports/compression-bras",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.breakoutbras.com/products/goddess-keira-support-underwire-bra-6090-fawn",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.breakoutbras.com/products/goddess-non-wire-side-support-sports-bra-6912-black-snake",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.breakoutbras.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.breakoutbras.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.breakoutbras.com/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.breakoutbras.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Breakout Bras is committed to truth in sizing and full customer support. Shop bras from A to O cups and 28 to 54 bands. Contact our fully trained customer service team for bra fitting and style help. Get free shipping on all US orders when you order online at Breakout Bras.",
+    "source_urls": [
+      "https://www.breakoutbras.com",
+      "https://www.breakoutbras.com/contact",
+      "https://www.breakoutbras.com/collections/sports/compression-bras",
+      "https://www.breakoutbras.com/products/goddess-keira-support-underwire-bra-6090-fawn",
+      "https://www.breakoutbras.com/products/goddess-non-wire-side-support-sports-bra-6912-black-snake",
+      "https://www.breakoutbras.com/pages/about-us",
+      "https://www.breakoutbras.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 14
+  },
+  {
+    "company_domain": "breakoutedu.com",
+    "company_name": "Breakout EDU",
+    "website": "https://store.breakoutedu.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://store.breakoutedu.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "The Breakout EDU Store",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "breakthrough.photography",
+    "company_name": "Breakthrough Filters",
+    "website": "https://breakthrough.photography",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://breakthrough.photography",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://breakthrough.photography/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://breakthrough.photography/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://breakthrough.photography/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://breakthrough.photography/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://breakthrough.photography/pages/team-breakthrough-filters",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "World's Sharpest & Most Color Neutral CPL and ND Filters. Guaranteed.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "breathablebaby.com",
+    "company_name": "BreathableBaby",
+    "website": "https://breathablebaby.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customercare@breathablebaby.com",
+        "confidence": "highest",
+        "source_url": "https://breathablebaby.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2019-05-24",
+        "context_snippet": "nka, MN 55305 Call Toll-Free: (877) 827-4442 Email Us: customercare@breathablebaby.com Drop us a note!"
+      },
+      {
+        "address": "rachelle.harel@breathablebaby.com",
+        "confidence": "highest",
+        "source_url": "https://breathablebaby.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2019-05-24",
+        "context_snippet": "72, Bushey WD23 9FU Sales Contact: Rachelle Harel Email: rachelle.harel@breathablebaby.com Skype: rachelle_harel Canada"
+      },
+      {
+        "address": "sales@breathablebaby.com",
+        "confidence": "highest",
+        "source_url": "https://breathablebaby.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2019-05-24",
+        "context_snippet": "Sales Contacts: Mark Pater & Caroline Larkin Email: sales@breathablebaby.com Phone: (763) 277-8480 Fax: (763) 277-8481"
+      },
+      {
+        "address": "contact@breathablebaby.com",
+        "confidence": "high",
+        "source_url": "https://breathablebaby.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2022-05-18",
+        "context_snippet": "ng, or you want to speak with someone, please contact us at contact@breathablebaby.com. Press Kit 2021 Press Kit Press Releases The"
+      }
+    ],
+    "role_emails": [
+      "contact@breathablebaby.com",
+      "customercare@breathablebaby.com",
+      "rachelle.harel@breathablebaby.com",
+      "sales@breathablebaby.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://breathablebaby.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2022-11-30"
+      },
+      {
+        "url": "https://breathablebaby.com/press",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2022-05-18"
+      },
+      {
+        "url": "https://breathablebaby.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2019-05-24"
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://breathablebaby.com/contact",
+        "action": "/contact/#wpcf7-f7-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Safer sleep baby essentials from the #1 choice of hospitals nationwide. Shop the original SleepSack, Swaddle, BassiNest with 360\u00b0 swivel, Baby Cribs, Crib Ma...",
+    "source_urls": [
+      "https://breathablebaby.com/press",
+      "https://breathablebaby.com/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "breatheb12.com",
+    "company_name": "Breathe B12",
+    "website": "https://breatheb12.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@breatheb12.com",
+        "confidence": "highest",
+        "source_url": "https://breatheb12.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "rovide feedback or just want to say \u201chello\u201d, contact us at support@breatheb12.com Free shipping on orders over $75"
+      }
+    ],
+    "role_emails": [
+      "support@breatheb12.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://breatheb12.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://breatheb12.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://breatheb12.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "The standard in methylated vitamin B12 diffusers. All ingredients sourced and mixed in ISO clean rooms here in the USA!",
+    "source_urls": [
+      "https://breatheb12.com/contact",
+      "https://breatheb12.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "breathedegrees.com",
+    "company_name": "Breathe Degrees",
+    "website": "https://breathedegrees.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "admin@breathedegrees.com",
+        "confidence": "high",
+        "source_url": "https://breathedegrees.com/our-team",
+        "source_type": "archived",
+        "snapshot_date": "2023-10-23",
+        "context_snippet": ""
+      },
+      {
+        "address": "events@breathedegrees.com",
+        "confidence": "high",
+        "source_url": "https://breathedegrees.com/blogs/blog/team-building",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "vision. Contact me directly for a custom consultation: events@breathedegrees.com Shira Shane"
+      }
+    ],
+    "role_emails": [
+      "admin@breathedegrees.com",
+      "events@breathedegrees.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://breathedegrees.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://breathedegrees.com/our-team",
+        "page_type": "team",
+        "source_type": "archived",
+        "snapshot_date": "2023-10-23"
+      },
+      {
+        "url": "https://breathedegrees.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://breathedegrees.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://breathedegrees.com/blogs/blog/team-building",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://breathedegrees.com/blogs/blog/the-truth-about-meditation-why-breathwork-is-the-easiest-way-to-get-out-of-your-mind",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Welcome to Breathe Degrees, a holistic wellness studio offering breathwork, yoga, cold plunge, hot plunge, and sauna sessions. Discover our modalities to enhance well-being.",
+    "source_urls": [
+      "https://breathedegrees.com/our-team",
+      "https://breathedegrees.com/blogs/blog/team-building"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "breathingcolor.com",
+    "company_name": "Breathing Color",
+    "website": "https://www.breathingcolor.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "email us here",
+        "title": null,
+        "email": "distributor@breathingcolor.com",
+        "source_url": "https://www.breathingcolor.com/about-us"
+      }
+    ],
+    "people": [
+      {
+        "name": "email us here",
+        "title": null,
+        "email": "distributor@breathingcolor.com",
+        "source_url": "https://www.breathingcolor.com/about-us"
+      }
+    ],
+    "emails": [
+      {
+        "address": "distributor@breathingcolor.com",
+        "confidence": "highest",
+        "source_url": "https://www.breathingcolor.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2019-11-17",
+        "context_snippet": ""
+      },
+      {
+        "address": "sales@breathingcolor.com",
+        "confidence": "highest",
+        "source_url": "https://www.breathingcolor.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "TX 78753 USA 1 (833) 320-1187 sales@breathingcolor.com Shop Papers Canvas Varnish Access"
+      },
+      {
+        "address": "support@breathingcolor.com",
+        "confidence": "highest",
+        "source_url": "https://www.breathingcolor.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "appe Standard 1.25\" system . For more information, contact support@breathingcolor.com . $48.49 $60.49 Easy Wrappe Pro is the beefed up"
+      },
+      {
+        "address": "u003esupport@breathingcolor.com",
+        "confidence": "high",
+        "source_url": "https://www.breathingcolor.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "sales@breathingcolor.com",
+      "support@breathingcolor.com",
+      "u003esupport@breathingcolor.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.breathingcolor.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.breathingcolor.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.breathingcolor.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2019-11-17"
+      },
+      {
+        "url": "https://www.breathingcolor.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.breathingcolor.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.breathingcolor.com/collections/solvent-latex-media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.breathingcolor.com/pages/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.breathingcolor.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Breathing Color is an inkjet media manufacturer of inkjet canvas, fine art paper, varnishes, photo paper, artist canvas, wall coverings, stretcher bars, and fine art metal.",
+    "source_urls": [
+      "https://www.breathingcolor.com",
+      "https://www.breathingcolor.com/about",
+      "https://www.breathingcolor.com/about-us",
+      "https://www.breathingcolor.com/contact",
+      "https://www.breathingcolor.com/pages/contact-us",
+      "https://www.breathingcolor.com/collections/solvent-latex-media",
+      "https://www.breathingcolor.com/pages/meet-the-team"
+    ],
+    "reason": null,
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "breathofyouth.com",
+    "company_name": "Breath of Youth",
+    "website": "https://www.breathofyouth.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.breathofyouth.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.breathofyouth.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.breathofyouth.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.breathofyouth.com/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.breathofyouth.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.breathofyouth.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.breathofyouth.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.breathofyouth.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.breathofyouth.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "breckbrew.com",
+    "company_name": "Breckenridge Brewery",
+    "website": "https://shop.breckbrew.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "breckenridgedistillery.com",
+    "company_name": "Breckenridge Distillery Store",
+    "website": "https://store.breckenridgedistillery.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "robots_disallowed",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "brecks.com",
+    "company_name": "Brecks",
+    "website": "https://www.brecks.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "service@brecks.com",
+        "confidence": "highest",
+        "source_url": "https://www.brecks.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "service@brecks.com Follow us"
+      }
+    ],
+    "role_emails": [
+      "service@brecks.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.brecks.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brecks.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brecks.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brecks.com/pages/about_us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brecks.com/pages/contact_us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.brecks.com/contact",
+        "action": "/contact#ContactForm-template--23455413567803__6eeab8e8-f35f-4684-9ee4-b0228fc8184a",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Breck's flower bulbs, perennials, and bareroots come straight from Holland. Shop premium daffodils, tulips, iris, daylilies, roses & more!",
+    "source_urls": [
+      "https://www.brecks.com",
+      "https://www.brecks.com/about-us",
+      "https://www.brecks.com/contact",
+      "https://www.brecks.com/pages/about_us",
+      "https://www.brecks.com/pages/contact_us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "breda.com",
+    "company_name": "BREDA",
+    "website": "https://www.breda.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.breda.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.breda.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Artful accessorizing\u2014designed for everyday wear. Discover a new way to shop for watches. Unisex Watches. Original & Simple Designs. Worldwide Shipping. Two-Year Warranty. Easy Returns. Types: Metal Styles, Leather Styles, Best-Selling, Sale Styles.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  }
+]
