@@ -1,0 +1,1640 @@
+[
+  {
+    "company_domain": "brutusbroth.com",
+    "company_name": "BrutusBroth.com",
+    "website": "https://brutusbroth.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": "Brutus Bone Broth for Dogs is masterfully crafted with the purest dog food ingredients, fortified with powerful joint supplements, and processed in a human-grade facility to bring your pet only the highest quality product. Spend more time with your dog and family.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "brutusmonroe.com",
+    "company_name": "Brutus Monroe",
+    "website": "https://www.brutusmonroe.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Email Brutus Monroe",
+        "title": null,
+        "email": "orders@brutusmonroe.com",
+        "source_url": "https://www.brutusmonroe.com"
+      }
+    ],
+    "people": [
+      {
+        "name": "Email Brutus Monroe",
+        "title": null,
+        "email": "orders@brutusmonroe.com",
+        "source_url": "https://www.brutusmonroe.com"
+      }
+    ],
+    "emails": [
+      {
+        "address": "orders@brutusmonroe.com",
+        "confidence": "highest",
+        "source_url": "https://www.brutusmonroe.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.brutusmonroe.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brutusmonroe.com/products/nevermore-mixed-media-stencil",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brutusmonroe.com/products/birchwood-mixed-media-layering-stencil",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brutusmonroe.com/products/need-a-hand-mixed-media-stencil",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.brutusmonroe.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.brutusmonroe.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Brutus Monroe",
+    "source_urls": [
+      "https://www.brutusmonroe.com",
+      "https://www.brutusmonroe.com/products/nevermore-mixed-media-stencil",
+      "https://www.brutusmonroe.com/products/birchwood-mixed-media-layering-stencil",
+      "https://www.brutusmonroe.com/products/need-a-hand-mixed-media-stencil",
+      "https://www.brutusmonroe.com/pages/contact-us"
+    ],
+    "reason": null,
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "bruvi.com",
+    "company_name": "Bruvi",
+    "website": "https://bruvi.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@bruvi.com",
+        "confidence": "highest",
+        "source_url": "https://bruvi.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "email Get in Touch hello@bruvi.com 855-701-1792"
+      }
+    ],
+    "role_emails": [
+      "hello@bruvi.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bruvi.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bruvi.com/collections/espresso",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bruvi.com/blogs/articles/tagged/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bruvi.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bruvi.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bruvi.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Meet Bruvi\u00ae. Remarkably tastier coffee, coffee house variety, Guilt Free Toss\u00ae B-Pods and single-serve convenience. Make life tastier.",
+    "source_urls": [
+      "https://bruvi.com",
+      "https://bruvi.com/collections/espresso",
+      "https://bruvi.com/blogs/articles/tagged/press",
+      "https://bruvi.com/pages/contact-us",
+      "https://bruvi.com/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "bruxnightguard.com",
+    "company_name": "Brux Night Guard",
+    "website": "https://www.bruxnightguard.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@bruxnightguard.com",
+        "confidence": "high",
+        "source_url": "https://www.bruxnightguard.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@bruxnightguard.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.bruxnightguard.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bruxnightguard.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bruxnightguard.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Brux Night Guard is the best mouth guard for teeth grinding and clenching to buy instead of a dental night guard for sleeping with bruxism. Learn more...",
+    "source_urls": [
+      "https://www.bruxnightguard.com",
+      "https://www.bruxnightguard.com/pages/contact",
+      "https://www.bruxnightguard.com/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bryananthonys.com",
+    "company_name": "Bryan Anthonys",
+    "website": "https://www.bryananthonys.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customersupport@bryananthonys.com",
+        "confidence": "highest",
+        "source_url": "https://www.bryananthonys.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Contact us EMAIL: You can email us at: customersupport@bryananthonys.com . Please include your order number and how we can help an"
+      },
+      {
+        "address": "u003ecustomersupport@bryananthonys.com",
+        "confidence": "high",
+        "source_url": "https://www.bryananthonys.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "customersupport@bryananthonys.com",
+      "u003ecustomersupport@bryananthonys.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.bryananthonys.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bryananthonys.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bryananthonys.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.bryananthonys.com/contact",
+        "action": "/contact#contact-us-page",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.bryananthonys.com/pages/contact",
+        "action": "/contact#contact-us-page",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Jewelry for her layered with meaning. We design dainty necklaces, earrings, rings and bracelets for women. Designed with love in the USA. Shop Bryan Anthonys!",
+    "source_urls": [
+      "https://www.bryananthonys.com",
+      "https://www.bryananthonys.com/contact",
+      "https://www.bryananthonys.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "bryanjohnson.com",
+    "company_name": "Blueprint Bryan Johnson",
+    "website": "https://blueprint.bryanjohnson.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://blueprint.bryanjohnson.com",
+        "page_type": "home",
+        "source_type": "archived",
+        "snapshot_date": "2026-09-22"
+      },
+      {
+        "url": "https://blueprint.bryanjohnson.com/collections/energy-stress-support",
+        "page_type": "support",
+        "source_type": "archived",
+        "snapshot_date": "2026-07-08"
+      },
+      {
+        "url": "https://blueprint.bryanjohnson.com/collections/nutritional-support",
+        "page_type": "support",
+        "source_type": "archived",
+        "snapshot_date": "2026-07-08"
+      },
+      {
+        "url": "https://blueprint.bryanjohnson.com/collections/gut-immune-support",
+        "page_type": "support",
+        "source_type": "archived",
+        "snapshot_date": "2026-08-30"
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "On the surface, Blueprint may seem something about health, wellness and aging. It's really a system to make tomorrow better for you, me, the planet and our shared future with AI.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 14
+  },
+  {
+    "company_domain": "bryanslawnmaintenance.com",
+    "company_name": "Bryan's Lawn Maintenance",
+    "website": "https://bryanslawnmaintenance.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://bryanslawnmaintenance.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bryanslawnmaintenance.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bryanslawnmaintenance.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bryanslawnmaintenance.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bryanslawnmaintenance.com/pages/contact-us-1",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bryanslawnmaintenance.com/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Bryan's Lawn Maintenance",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "brycesdice.com",
+    "company_name": "BrycesDice",
+    "website": "https://brycesdice.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "sales@brycesdice.com",
+        "confidence": "high",
+        "source_url": "https://brycesdice.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Satisfaction Guaranteed Upset? Lets talk about it! Sales@BrycesDice.com Top-notch support Bryce is happy to talk di"
+      }
+    ],
+    "role_emails": [
+      "sales@brycesdice.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://brycesdice.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brycesdice.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Add spice to dice at BrycesDice, a para-dice for D&D dice, roleplay dice, & Bunco dice. As for price, we're twice as nice. So our advice? Don't think twice!",
+    "source_urls": [
+      "https://brycesdice.com",
+      "https://brycesdice.com/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "brycevine.com",
+    "company_name": "Bryce Vine",
+    "website": "https://www.brycevine.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.brycevine.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "brynmawrjewelry.com",
+    "company_name": "Bryn Mawr Jewelry",
+    "website": "https://brynmawrjewelry.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://brynmawrjewelry.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brynmawrjewelry.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://brynmawrjewelry.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Your trusted jewelry store in Chicago. Explore our collection for the best custom-designed diamond, gold, and platinum jewelry in Chicago for your special day.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "bryrstudio.com",
+    "company_name": "Bryr Studio",
+    "website": "https://www.bryrstudio.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@bryrstudio.com",
+        "confidence": "high",
+        "source_url": "https://www.bryrstudio.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "press@bryrstudio.com",
+        "confidence": "high",
+        "source_url": "https://www.bryrstudio.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "******* For all press inquiries, please contact us at press@bryrstudio.com If you're an influencer and interested in collaborating,"
+      },
+      {
+        "address": "returns@bryrstudio.com",
+        "confidence": "high",
+        "source_url": "https://www.bryrstudio.com/products/everyday-cotton-socks-in-cypress",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "nt to us. To start a return or exchange, please email us at returns@bryrstudio.com and someone in our team will help you with the process. We"
+      }
+    ],
+    "role_emails": [
+      "hello@bryrstudio.com",
+      "press@bryrstudio.com",
+      "returns@bryrstudio.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.bryrstudio.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bryrstudio.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bryrstudio.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bryrstudio.com/products/everyday-cotton-socks-in-cypress",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bryrstudio.com/products/chonk-clog-in-espresso",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bryrstudio.com/products/tegan-clog-in-espresso",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bryrstudio.com/products/lila-worker-in-espresso",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "We are Bryr studio, and we take pride in the beautiful clogs we make every day in our workshop in the San Francisco. We hand-made our clogs and offer ready-to-ship clogs and made-to-order clogs. We have been in business for over 10 years and we are an independent, woman and queer owned company. Than",
+    "source_urls": [
+      "https://www.bryrstudio.com",
+      "https://www.bryrstudio.com/contact",
+      "https://www.bryrstudio.com/products/everyday-cotton-socks-in-cypress",
+      "https://www.bryrstudio.com/products/chonk-clog-in-espresso",
+      "https://www.bryrstudio.com/products/tegan-clog-in-espresso",
+      "https://www.bryrstudio.com/products/lila-worker-in-espresso"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 14
+  },
+  {
+    "company_domain": "bsaelectronics.com",
+    "company_name": "BSA Electronics",
+    "website": "https://www.bsaelectronics.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.bsaelectronics.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bsaelectronics.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bsaelectronics.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.bsaelectronics.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Custom built Level 2 Electric Vehicle Charging Station's for less than half of comparable units from large corporations! Rainproof, portable, customizable!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bscstoreusa.com",
+    "company_name": "BSC Store USA",
+    "website": "https://bscstoreusa.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@bscstoreusa.com",
+        "confidence": "high",
+        "source_url": "https://bscstoreusa.com/en/policies/contact-information",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ade name: BSC Store USA Phone number: 2038984739 Email: info@bscstoreusa.com Physical address: BSC Store USA, 500 Bic Drive, Ste 204,"
+      }
+    ],
+    "role_emails": [
+      "info@bscstoreusa.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bscstoreusa.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bscstoreusa.com/en/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Shop the ultimate collection of official Barcelona Sporting Club merchandise and authentic gear from the Ecuador National Football Team. Find your favorite jerseys, apparel, and fan essentials. Fast shipping for true fans in the USA.",
+    "source_urls": [
+      "https://bscstoreusa.com/en/policies/contact-information"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "bseid.com",
+    "company_name": "BSEID",
+    "website": "https://www.bseid.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@bseid.com",
+        "confidence": "highest",
+        "source_url": "https://www.bseid.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2010-11-06",
+        "context_snippet": "530 W Sample Rd Coral Springs, FL 33065, USA E-mail: info@bseid.com Phone: 954-341-1401 ext.210 Fax: 954-341-4714"
+      },
+      {
+        "address": "support@bseid.com",
+        "confidence": "high",
+        "source_url": "https://www.bseid.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@bseid.com",
+      "support@bseid.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.bseid.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bseid.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bseid.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bseid.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2010-11-06"
+      },
+      {
+        "url": "https://www.bseid.com/collections/unique-media-console-tables",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bseid.com/collections/media-units",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bseid.com/collections/10-off-staff-faves-dynamic-drop-zones",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bseid.com/collections/bseid-staff-faves-collections",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bseid.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bseid.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "We offer indoor and outdoor furniture & home decor online. Shop our diverse selection of designer furniture where trendy meets function & classic meets comfort.",
+    "source_urls": [
+      "https://www.bseid.com",
+      "https://www.bseid.com/about",
+      "https://www.bseid.com/about-us",
+      "https://www.bseid.com/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 15
+  },
+  {
+    "company_domain": "bsewinn.com",
+    "company_name": "Bsewinn",
+    "website": "https://www.bsewinn.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "bsi@bsewinn.com",
+        "confidence": "highest",
+        "source_url": "https://www.bsewinn.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "fayetteville@bsewinn.com",
+        "confidence": "high",
+        "source_url": "https://www.bsewinn.com/pages/b-sew-inn-store-locations",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "humble@bsewinn.com",
+        "confidence": "high",
+        "source_url": "https://www.bsewinn.com/pages/b-sew-inn-store-locations",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "oklahomacity@bsewinn.com",
+        "confidence": "high",
+        "source_url": "https://www.bsewinn.com/pages/b-sew-inn-store-locations",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "schools@bsewinn.com",
+        "confidence": "high",
+        "source_url": "https://www.bsewinn.com/pages/b-sew-inn-store-locations",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "springfield@bsewinn.com",
+        "confidence": "high",
+        "source_url": "https://www.bsewinn.com/pages/b-sew-inn-store-locations",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "tulsa@bsewinn.com",
+        "confidence": "high",
+        "source_url": "https://www.bsewinn.com/pages/b-sew-inn-store-locations",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "bsi@bsewinn.com",
+      "fayetteville@bsewinn.com",
+      "humble@bsewinn.com",
+      "oklahomacity@bsewinn.com",
+      "schools@bsewinn.com",
+      "springfield@bsewinn.com",
+      "tulsa@bsewinn.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.bsewinn.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bsewinn.com/pages/b-sew-inn-store-locations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bsewinn.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "B-Sew Inn, established in Muskogee, Oklahoma in 1985, is a leading retailer specializing in Baby Lock sewing, embroidery, and quilting machines. We offer sales, repairs, and extensive education through classes and clubs for all skill levels. Known for inspiring creativity, B-Sew Inn focuses on user-",
+    "source_urls": [
+      "https://www.bsewinn.com",
+      "https://www.bsewinn.com/pages/b-sew-inn-store-locations",
+      "https://www.bsewinn.com/policies/contact-information"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "bsgeneralstore.com",
+    "company_name": "Bitter Southerner General Store",
+    "website": "https://bsgeneralstore.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://bsgeneralstore.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bsgeneralstore.com/products/vote-trucker-cypress?variant=54964550992238",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bsgeneralstore.com/products/ordinary-people-extraordinary-times-skye-perryman?variant=54611369623918",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bsgeneralstore.com/pages/customer-support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bsgeneralstore.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "A beacon from the American South and a bellwether for the nation, The Bitter Southerner is an Athens, Ga.-based independent media company, founded in 2013, that connects an activated and vocal global community working to make the South, and America, a better place.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "bsidesjeans.com",
+    "company_name": "B Sides Jeans",
+    "website": "https://bsidesjeans.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "%20appts@bsidesjeans.com",
+        "confidence": "highest",
+        "source_url": "https://bsidesjeans.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "appts@bsidesjeans.com",
+        "confidence": "highest",
+        "source_url": "https://bsidesjeans.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "onday - Wednesday: by Appointment Sunday: Closed appts@bsidesjeans.com Info"
+      },
+      {
+        "address": "halle@bsidesjeans.com",
+        "confidence": "highest",
+        "source_url": "https://bsidesjeans.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "fo@bsidesjeans.com Online Orders and Client Services | halle@bsidesjeans.com Global Wholesale | rachel@ric-nyc.com Press | gregory"
+      },
+      {
+        "address": "info@bsidesjeans.com",
+        "confidence": "highest",
+        "source_url": "https://bsidesjeans.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Contact General Inquiries | info@bsidesjeans.com Online Orders and Client Services | halle@bsidesjeans."
+      },
+      {
+        "address": "orders@bsidesjeans.com",
+        "confidence": "high",
+        "source_url": "https://bsidesjeans.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "stacy@bsidesjeans.com",
+        "confidence": "high",
+        "source_url": "https://bsidesjeans.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "%20appts@bsidesjeans.com",
+      "appts@bsidesjeans.com",
+      "halle@bsidesjeans.com",
+      "info@bsidesjeans.com",
+      "orders@bsidesjeans.com",
+      "stacy@bsidesjeans.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bsidesjeans.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bsidesjeans.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bsidesjeans.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bsidesjeans.com/pages/contact",
+        "action": "/contact#ContactForm-AQ2MrUWpMcGJob0RRb__contact_form_UwiCkQ",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Official home of B Sides Jeans. Shop the collection of American made originals and re-works.",
+    "source_urls": [
+      "https://bsidesjeans.com",
+      "https://bsidesjeans.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bstreetshoes.com",
+    "company_name": "B Street Shoes",
+    "website": "https://bstreetshoes.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@bstreetshoes.com",
+        "confidence": "highest",
+        "source_url": "http://bstreetshoes.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "For Questions or Concerns, send us an email! info@bstreetshoes.com CUSTOM ORDER F.A.Q. A"
+      }
+    ],
+    "role_emails": [
+      "info@bstreetshoes.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bstreetshoes.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bstreetshoes.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2013-08-21"
+      },
+      {
+        "url": "https://bstreetshoes.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bstreetshoes.com/blogs/news/custom-jordans-for-engine-data-science-company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://bstreetshoes.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bstreetshoes.com/blogs/news/custom-jordans-for-engine-data-science-company",
+        "action": "/blogs/news/custom-jordans-for-engine-data-science-company/comments#comment_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Over 10,000 pairs of custom shoes sold and counting! Welcome to B Street Shoes where I offer my custom hand-painted Nike, Adidas, Jordans and many more.",
+    "source_urls": [
+      "http://bstreetshoes.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "btartboxnails.com",
+    "company_name": "BTArtbox Nails",
+    "website": "https://btartboxnails.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "challenge_page",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "btblosangeles.com",
+    "company_name": "BTB Los Angeles",
+    "website": "https://btblosangeles.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "avery@btblosangeles.com",
+        "confidence": "highest",
+        "source_url": "https://btblosangeles.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "emma@btblosangeles.com",
+        "confidence": "highest",
+        "source_url": "https://btblosangeles.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "info@btblosangeles.com",
+        "confidence": "highest",
+        "source_url": "https://btblosangeles.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "avery@btblosangeles.com",
+      "emma@btblosangeles.com",
+      "info@btblosangeles.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://btblosangeles.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://btblosangeles.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://btblosangeles.com/pages/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://btblosangeles.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://btblosangeles.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "BTB Los Angeles",
+    "source_urls": [
+      "https://btblosangeles.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "bteamjj.shop",
+    "company_name": "B Team Jiu Jitsu",
+    "website": "https://bteamjj.shop",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://bteamjj.shop",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bteamjj.shop/collections/all",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bteamjj.shop/collections/tees",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bteamjj.shop/collections/rash-guards",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bteamjj.shop/collections/bjj-shorts",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bteamjj.shop/collections/hoodies-and-jumpers",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bteamjj.shop/collections/hats-beanies",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bteamjj.shop/collections/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bteamjj.shop/collections/miscellaneous",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bteamjj.shop/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bteamjj.shop/pages/contact",
+        "action": "/contact#ContactForm-AdDEwUGVoY1NXVHhCS__contact_form_UwiCkQ",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Shop official B-Team merch: Mexican Ground Karate drops, limited collections, no-gi essentials and everyday wear.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 18
+  },
+  {
+    "company_domain": "btfurnishings.com",
+    "company_name": "BT Furnishings (old)",
+    "website": "https://btfurnishings.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://btfurnishings.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2019-05-11"
+      },
+      {
+        "url": "https://btfurnishings.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2019-05-11"
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://btfurnishings.com/contact",
+        "action": "/contacts/index/post",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Celebrating 36 Years of Community and Comfort After 36 wonderful years Bargain Town Furniture has permanently closed its doors. Thank you for letting us be part of your homes, memories, and families.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "bthelightboutique.net",
+    "company_name": "B The Light Boutique",
+    "website": "https://bthelightboutique.net",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://bthelightboutique.net",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bthelightboutique.net/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bthelightboutique.net/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bthelightboutique.net/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bthelightboutique.net/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Shining Light into Darkness - shop for men's, women's and kids Christian apparel and gifts",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bthemethod.com",
+    "company_name": "B the Method",
+    "website": "https://bthemethod.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Private Sessions",
+        "title": null,
+        "email": "hello@bthemethod.com",
+        "source_url": "https://bthemethod.com"
+      }
+    ],
+    "people": [
+      {
+        "name": "Private Sessions",
+        "title": null,
+        "email": "hello@bthemethod.com",
+        "source_url": "https://bthemethod.com"
+      }
+    ],
+    "emails": [
+      {
+        "address": "hello@bthemethod.com",
+        "confidence": "highest",
+        "source_url": "https://bthemethod.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "lia@bthemethod.com",
+        "confidence": "high",
+        "source_url": "https://bthemethod.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "lia@bthemethod.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://bthemethod.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bthemethod.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bthemethod.com/blogs/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bthemethod.com",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://bthemethod.com/contact",
+        "action": "/contact/support",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://bthemethod.com/blogs/press",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "B the Method is a carefully curated program of Pilates-based exercises that leaves you feeling strong, supported and connected both physically and mentally.",
+    "source_urls": [
+      "https://bthemethod.com",
+      "https://bthemethod.com/contact",
+      "https://bthemethod.com/blogs/press"
+    ],
+    "reason": null,
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "btleighs.com",
+    "company_name": "B.T. Leigh's Sauces and Rubs",
+    "website": "https://btleighs.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@btleighs.com",
+        "confidence": "highest",
+        "source_url": "https://btleighs.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "270.883.2207 info@btleighs.com facebook instagram"
+      }
+    ],
+    "role_emails": [
+      "info@btleighs.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://btleighs.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://btleighs.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://btleighs.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://btleighs.com/pages/btleighs_about_us_story",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://btleighs.com/blogs/lets-talk-about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://btleighs.com/blogs/retail-locations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://btleighs.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://btleighs.com/collections/gourmet-spice-blends-seasonings-bbq-rubs/products/somethin-to-cry-about-sweet-spicy-barbecue-rub",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://btleighs.com/collections/gourmet-spice-blends-seasonings-bbq-rubs/products/somethin-to-beef-about-savory-umami-steak-blend",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://btleighs.com/collections/gourmet-spice-blends-seasonings-bbq-rubs/products/somethin-to-cluck-about-aromatic-citrus-herb-blend",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://btleighs.com/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://btleighs.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "B.T. Leigh's creates award-winning barbecue sauces, gourmet seasonings, and artisanal finishing salts in small batches using our own tested recipes. Each batch is created by hand using the finest quality ingredients sourced with care and consideration and are made right here in Kentucky.",
+    "source_urls": [
+      "https://btleighs.com",
+      "https://btleighs.com/about",
+      "https://btleighs.com/contact",
+      "https://btleighs.com/pages/btleighs_about_us_story",
+      "https://btleighs.com/blogs/lets-talk-about",
+      "https://btleighs.com/blogs/retail-locations",
+      "https://btleighs.com/pages/contact-us",
+      "https://btleighs.com/collections/gourmet-spice-blends-seasonings-bbq-rubs/products/somethin-to-cry-about-sweet-spicy-barbecue-rub",
+      "https://btleighs.com/collections/gourmet-spice-blends-seasonings-bbq-rubs/products/somethin-to-beef-about-savory-umami-steak-blend",
+      "https://btleighs.com/collections/gourmet-spice-blends-seasonings-bbq-rubs/products/somethin-to-cluck-about-aromatic-citrus-herb-blend"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 16
+  }
+]
