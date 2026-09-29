@@ -1,0 +1,1478 @@
+[
+  {
+    "company_domain": "blackopsautoworks.com",
+    "company_name": "Black Ops Auto Works",
+    "website": "https://www.blackopsautoworks.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "sales@blackopsautoworks.com",
+        "confidence": "highest",
+        "source_url": "https://www.blackopsautoworks.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "sales@blackopsautoworks.com"
+      }
+    ],
+    "role_emails": [
+      "sales@blackopsautoworks.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.blackopsautoworks.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.blackopsautoworks.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.blackopsautoworks.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.blackopsautoworks.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.blackopsautoworks.com/pages/contact-info",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.blackopsautoworks.com/collections/wheels-tires?category/Wheels-Tires%3ETire-Pressure-Sensors",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.blackopsautoworks.com/about",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.blackopsautoworks.com/pages/contact-info",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Shop carbon fiber hoods, body kits, spoilers, exterior upgrades, and performance parts for Jeep, Dodge, RAM, Porsche, McLaren, Corvette, Mustang, and more.",
+    "source_urls": [
+      "https://www.blackopsautoworks.com",
+      "https://www.blackopsautoworks.com/about",
+      "https://www.blackopsautoworks.com/about-us",
+      "https://www.blackopsautoworks.com/contact",
+      "https://www.blackopsautoworks.com/pages/contact-info",
+      "https://www.blackopsautoworks.com/collections/wheels-tires?category/Wheels-Tires%3ETire-Pressure-Sensors"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "blackopstoys.com",
+    "company_name": "BlackOpsToys",
+    "website": "https://www.blackopstoys.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.blackopstoys.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.blackopstoys.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.blackopstoys.com/collections/direct-ship/products/sdu-assault-team-chronology-2023-2024-version-a-mint-in-box",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.blackopstoys.com/collections/direct-ship/products/macv-sog-recon-team-leader-mint-in-box",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.blackopstoys.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Shop the largest and best selection of 1:6 scale military action figure loose gear, including MSE, Easy & Simple, Dam Toys, Hot Toys, Soldier Story, Sideshow Collectibles, BBI, Dragon, and more on Black Ops Toys.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "blackoptical.com",
+    "company_name": "Black Optical",
+    "website": "https://blackoptical.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Email Nichole",
+        "title": null,
+        "email": "nichole.aubuchon@blackoptical.com",
+        "source_url": "https://blackoptical.com/about"
+      },
+      {
+        "name": "FIND THIS FRAME",
+        "title": null,
+        "email": "stylist@blackoptical.com",
+        "source_url": "https://blackoptical.com"
+      }
+    ],
+    "people": [
+      {
+        "name": "Email Nichole",
+        "title": null,
+        "email": "nichole.aubuchon@blackoptical.com",
+        "source_url": "https://blackoptical.com/about"
+      },
+      {
+        "name": "FIND THIS FRAME",
+        "title": null,
+        "email": "stylist@blackoptical.com",
+        "source_url": "https://blackoptical.com"
+      }
+    ],
+    "emails": [
+      {
+        "address": "clearfork@blackoptical.com",
+        "confidence": "highest",
+        "source_url": "https://blackoptical.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "onahans Ave, Unit F220A Fort Worth, TX 76109 (469) 942-6688 clearfork@blackoptical.com Get the latest on Black Opt"
+      },
+      {
+        "address": "cs@blackoptical.com",
+        "confidence": "highest",
+        "source_url": "https://blackoptical.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "n Optical Her Sun Optical Contact cs@blackoptical.com 844-568-5558 Locations Search:"
+      },
+      {
+        "address": "dallas@blackoptical.com",
+        "confidence": "highest",
+        "source_url": "https://blackoptical.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "4525 Cole Avenue Suite 150 Dallas, TX 75205 (469) 899-7559 dallas@blackoptical.com St. Louis"
+      },
+      {
+        "address": "nichole.aubuchon@blackoptical.com",
+        "confidence": "highest",
+        "source_url": "https://blackoptical.com/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "okc@blackoptical.com",
+        "confidence": "highest",
+        "source_url": "https://blackoptical.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "N. Classen BLVD #2 Oklahoma City, OK 73118 (405) 879-6776 okc@blackoptical.com Dallas"
+      },
+      {
+        "address": "stylist@blackoptical.com",
+        "confidence": "highest",
+        "source_url": "https://blackoptical.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "vice Accessibility Contact Appointments stylist@blackoptical.com Locations Instagram Facebook Tumblr"
+      },
+      {
+        "address": "tulsa@blackoptical.com",
+        "confidence": "highest",
+        "source_url": "https://blackoptical.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Contact 3524 S Peoria Ave Tulsa, OK 74105 (918) 794-0383 tulsa@blackoptical.com Oklahoma Cit"
+      },
+      {
+        "address": "clayton@blackoptical.com",
+        "confidence": "high",
+        "source_url": "https://blackoptical.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "act 169 Carondelet Plaza St. Louis, MO 63105 (314) 696-2337 clayton@blackoptical.com Fort Worth Hours"
+      },
+      {
+        "address": "cwe@blackoptical.com",
+        "confidence": "high",
+        "source_url": "https://blackoptical.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Contact 401 N Euclid Ave St. Louis, MO 63108 (314) 696-2310 cwe@blackoptical.com Clayton"
+      }
+    ],
+    "role_emails": [
+      "clayton@blackoptical.com",
+      "clearfork@blackoptical.com",
+      "cs@blackoptical.com",
+      "cwe@blackoptical.com",
+      "dallas@blackoptical.com",
+      "okc@blackoptical.com",
+      "tulsa@blackoptical.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://blackoptical.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blackoptical.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blackoptical.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blackoptical.com/collections/oliver-peoples",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blackoptical.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blackoptical.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Black Optical offers sophisticated luxury eyewear for men and women. Discover your perfect fit in our designer eyewear online store or in one of our 6 retail locations.",
+    "source_urls": [
+      "https://blackoptical.com",
+      "https://blackoptical.com/about",
+      "https://blackoptical.com/contact",
+      "https://blackoptical.com/collections/oliver-peoples",
+      "https://blackoptical.com/pages/about",
+      "https://blackoptical.com/pages/contact"
+    ],
+    "reason": null,
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "blackoutbakingco.com",
+    "company_name": "Blackout Baking Co.",
+    "website": "https://blackoutbakingco.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@blackoutbakingco.com",
+        "confidence": "high",
+        "source_url": "https://blackoutbakingco.com/pages/join-our-team",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "tal for full-time employees available Please email, info@blackoutbakingco.com, telling us why you would be the best candidate for the pos"
+      }
+    ],
+    "role_emails": [
+      "info@blackoutbakingco.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://blackoutbakingco.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blackoutbakingco.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blackoutbakingco.com/pages/join-our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blackoutbakingco.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blackoutbakingco.com/pages/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://blackoutbakingco.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Blackout Baking Co. is a bakery specializing in bite-size gourmet cookies. Perfect for gifting and events! We strive to create BLACKOUT-worthy cookies that bring us back to our childhood, but push boundaries with new flavors, textures, and forms. We are bakers who make fresh cookies without preserva",
+    "source_urls": [
+      "https://blackoutbakingco.com/pages/join-our-team",
+      "https://blackoutbakingco.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "blackoutcoffee.com",
+    "company_name": "Blackout Coffee Co",
+    "website": "https://www.blackoutcoffee.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@blackoutcoffee.com",
+        "confidence": "highest",
+        "source_url": "https://www.blackoutcoffee.com/pages/contact-us",
+        "source_type": "archived",
+        "snapshot_date": "2026-05-02",
+        "context_snippet": "For a quicker response, please email us directly! Email: info@blackoutcoffee.com Name Email Message Se"
+      }
+    ],
+    "role_emails": [
+      "info@blackoutcoffee.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.blackoutcoffee.com",
+        "page_type": "home",
+        "source_type": "archived",
+        "snapshot_date": "2026-09-04"
+      },
+      {
+        "url": "https://www.blackoutcoffee.com/pages/about-blackout-coffee",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2026-05-02"
+      },
+      {
+        "url": "https://www.blackoutcoffee.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2026-05-02"
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.blackoutcoffee.com/pages/contact-us",
+        "action": "/contact#contact-template--26879002181999__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Premium coffee roasted fresh in America. Shop bold whole bean, ground coffee, pods, instant coffee, and gear. Fast shipping from Blackout Coffee Co.",
+    "source_urls": [
+      "https://www.blackoutcoffee.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 24
+  },
+  {
+    "company_domain": "blackowned19xx.com",
+    "company_name": "BlaCk OWned OuterWear",
+    "website": "https://blackowned19xx.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@blackowned19xx.com",
+        "confidence": "high",
+        "source_url": "https://blackowned19xx.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@blackowned19xx.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://blackowned19xx.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blackowned19xx.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blackowned19xx.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://blackowned19xx.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Since 2011 \u2022 The Family Reunion \u2022 State of Mind #BlaCkOWned",
+    "source_urls": [
+      "https://blackowned19xx.com",
+      "https://blackowned19xx.com/pages/contact",
+      "https://blackowned19xx.com/policies/contact-information"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "blackownedeverything.co",
+    "company_name": "Black Owned Everything",
+    "website": "https://blackownedeverything.co",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@blackownedeverything.co",
+        "confidence": "high",
+        "source_url": "https://blackownedeverything.co",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@blackownedeverything.co"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://blackownedeverything.co",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Black Owned Everything\u2122 is much more than a platform or a marketplace. It is a medium for creating meaningful and long lasting participation for black-owned businesses in global commerce with a focus on fashion, beauty, design, and lifestyle brands.",
+    "source_urls": [
+      "https://blackownedeverything.co"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "blackpaperparty.com",
+    "company_name": "Black Paper Party",
+    "website": "https://www.blackpaperparty.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customerservice@blackpaperparty.com",
+        "confidence": "highest",
+        "source_url": "https://www.blackpaperparty.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ou must be able to provide receipt or proof of purchase to customerservice@blackpaperparty.com . Eligible returns will be refunded the purchase price (min"
+      }
+    ],
+    "role_emails": [
+      "customerservice@blackpaperparty.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.blackpaperparty.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.blackpaperparty.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.blackpaperparty.com/pages/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.blackpaperparty.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.blackpaperparty.com/pages/contact",
+        "action": "/contact#contact-us-page",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Gifting Solutions for the Culture",
+    "source_urls": [
+      "https://www.blackpaperparty.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "blackpinkmusic.com",
+    "company_name": "BLACKPINK | SHOP",
+    "website": "https://shop.blackpinkmusic.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://shop.blackpinkmusic.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Shop exclusive merch and apparel from the BLACKPINK Official Shop. Hoodies, tees, vinyl, accessories, and more.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "blackravenbrewing.com",
+    "company_name": "blackravenbrewing.com",
+    "website": "https://blackravenbrewing.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@blackravenbrewing.com",
+        "confidence": "high",
+        "source_url": "https://blackravenbrewing.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "BLACK RAVEN BREWING 425-881-3020 General Info: info@blackravenbrewing.com Events & Party Info: Click Here Join"
+      }
+    ],
+    "role_emails": [
+      "info@blackravenbrewing.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://blackravenbrewing.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Born and raised in the Pacific Northwest. We make beer we we want to drink.",
+    "source_urls": [
+      "https://blackravenbrewing.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "blackriflecoffee.com",
+    "company_name": "Black Rifle Coffee Company",
+    "website": "https://blackriflecoffee.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "challenge_page",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "blackriverbysummit.com",
+    "company_name": "Black River",
+    "website": "https://blackriverbysummit.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@blackriverbysummit.com",
+        "confidence": "highest",
+        "source_url": "https://blackriverbysummit.com/pages/support",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "sales@blackriverbysummit.com",
+        "confidence": "high",
+        "source_url": "https://blackriverbysummit.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "u003esales@blackriverbysummit.com",
+        "confidence": "high",
+        "source_url": "https://blackriverbysummit.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@blackriverbysummit.com",
+      "sales@blackriverbysummit.com",
+      "u003esales@blackriverbysummit.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://blackriverbysummit.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blackriverbysummit.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blackriverbysummit.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blackriverbysummit.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blackriverbysummit.com/pages/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blackriverbysummit.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Durable utility products built for real-world use including truck toppers, camper van accessories, roof racks, UTV accessories, and storage systems.",
+    "source_urls": [
+      "https://blackriverbysummit.com",
+      "https://blackriverbysummit.com/about-us",
+      "https://blackriverbysummit.com/contact",
+      "https://blackriverbysummit.com/pages/about",
+      "https://blackriverbysummit.com/pages/support",
+      "https://blackriverbysummit.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "blacksabbathapparelshop.com",
+    "company_name": "Black Sabbath",
+    "website": "https://blacksabbathapparelshop.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://blacksabbathapparelshop.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Shop exclusive merch and apparel from the Official Black Sabbath Store. Hoodies, tees, CDs, accessories, and more.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "blacksands.com",
+    "company_name": "Black Sands",
+    "website": "https://blacksands.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://blacksands.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blacksands.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2018-08-21"
+      },
+      {
+        "url": "https://blacksands.com/blogs/press/breaking-barriers-for-black-comic-book-creators",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blacksands.com/blogs/press/black-sands-entertainment-makes-front-page-of-birmingham-christian-family",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blacksands.com/blogs/press/tagged/african-history",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blacksands.com/blogs/press/tagged/black-anime",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blacksands.com/blogs/press/tagged/black-business",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blacksands.com/blogs/press/tagged/black-comic-books",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blacksands.com/blogs/press/tagged/black-history",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blacksands.com/blogs/press/tagged/black-stories",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "official store of Black Sands , the Seven Kingdoms, Cosmic Girls, Mori's Family Adventures and more. The most trusted publishers in the black community, Black Sands Entertainment.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 17
+  },
+  {
+    "company_domain": "blackscorpiongear.com",
+    "company_name": "Black Scorpion Gear",
+    "website": "https://www.blackscorpiongear.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.blackscorpiongear.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.blackscorpiongear.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.blackscorpiongear.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Competition holsters, belts, and mag pouches built in-house in Sunrise, FL. 3D-scanned fit for 400+ guns. IPSC, USPSA, and IDPA legal. Lifetime warranty.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "blackshagvintage.com",
+    "company_name": "Black Shag Vintage",
+    "website": "https://blackshagvintage.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://blackshagvintage.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blackshagvintage.com/pages/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blackshagvintage.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Black Shag Vintage is Nashville\u2019s destination for rare vintage band tees, leather, denim, and authentic 1960s, 70s, 80s, and 90s rock & roll fashion. Shop these authentic vintage pieces online.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "blacksheepskateshop.com",
+    "company_name": "Black Sheep Skate Shop",
+    "website": "https://blacksheepskateshop.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://blacksheepskateshop.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blacksheepskateshop.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://blacksheepskateshop.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Black Sheep is a specialty skateboard shop located in Charlotte, North Carolina established in 2003. Features full selection of Nike SB, Vans, Adidas, Converse, and New Balance Numeric sneakers; premium clothing; and area\u2019s largest selection of skateboards and accessories. Skater owned & operated.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "blacksitestudio.com",
+    "company_name": "Black Site Studios",
+    "website": "https://blacksitestudio.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://blacksitestudio.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blacksitestudio.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2021-12-26"
+      },
+      {
+        "url": "https://blacksitestudio.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2021-12-24"
+      },
+      {
+        "url": "https://blacksitestudio.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blacksitestudio.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://blacksitestudio.com/contact",
+        "action": "/contact/#wpcf7-f2077-p307-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "The home for US made Indie gaming products!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "blacksmithbolt.com",
+    "company_name": "Blacksmith Bolt & Rivet Supply",
+    "website": "https://blacksmithbolt.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@blacksmithbolt.com",
+        "confidence": "high",
+        "source_url": "https://blacksmithbolt.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "urs are a little haphazard; email is generally preferred. info@blacksmithbolt.com 503 245 4054 Subscribe and get 10% of"
+      }
+    ],
+    "role_emails": [
+      "info@blacksmithbolt.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://blacksmithbolt.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blacksmithbolt.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blacksmithbolt.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://blacksmithbolt.com/pages/contact-us",
+        "action": "/contact#contact-template--16699217117397__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "The supplier of choice for specialty fasteners in the Blacksmithing, Metalworking and Woodworking communities. In Portland, Oregon since 2007.",
+    "source_urls": [
+      "https://blacksmithbolt.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "blacksmithsource.com",
+    "company_name": "Blacksmith Source Tool Company",
+    "website": "https://blacksmithsource.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://blacksmithsource.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blacksmithsource.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blacksmithsource.com/pages/about-blacksmith-source-tool-company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Highest quality metal working tools on the market today. Blacksmith forge hammers and hot metal blacksmith tongs. We are an Authorized North American Dealer for Anyang ST Power Hammers. Picard blacksmith, automotive bumping and panel beating tools. Tinsmith and fine metalsmithing tools. \"Premium Qua",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "blackstarboots.com",
+    "company_name": "Black Star Boots",
+    "website": "https://blackstarboots.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@blackstarboots.com",
+        "confidence": "high",
+        "source_url": "https://blackstarboots.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "REACH US DIRECTLY: Phone: (833) 280-5663 Email: support@blackstarboots.com Monday-Friday 8:00 AM - 5:00 PM (CST) Nam"
+      }
+    ],
+    "role_emails": [
+      "support@blackstarboots.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://blackstarboots.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blackstarboots.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blackstarboots.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://blackstarboots.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Created for those with the cowboy spirit, the Black Star boots collection is an elevated take on a timeless classic. Crafted by blending luxurious leathers, intricate stitching, and unparalleled comfort technology, our collection of traditional cowboy boots honors our western heritage and those who ",
+    "source_urls": [
+      "https://blackstarboots.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "blackstationery.com",
+    "company_name": "Black Stationery",
+    "website": "https://blackstationery.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@blackstationery.com",
+        "confidence": "high",
+        "source_url": "https://blackstationery.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "hello@blackstationery.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://blackstationery.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blackstationery.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blackstationery.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Shop African American Greeting Cards at the Black Stationery online store. Buy ethnic greeting cards, Valentine's Day cards, Birthday cards and even more holiday cards for all occasions.",
+    "source_urls": [
+      "https://blackstationery.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "blackstockandweber.com",
+    "company_name": "Blackstock & Weber",
+    "website": "https://www.blackstockandweber.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "holla@blackstockandweber.com",
+        "confidence": "high",
+        "source_url": "https://www.blackstockandweber.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "er service team. Additionally, you can contact by emailing holla@blackstockandweber.com For press enquiries, please email press@blackstockandweber"
+      },
+      {
+        "address": "press@blackstockandweber.com",
+        "confidence": "high",
+        "source_url": "https://www.blackstockandweber.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "a@blackstockandweber.com For press enquiries, please email press@blackstockandweber.com Select Reason* My Account Orders Returns an"
+      }
+    ],
+    "role_emails": [
+      "holla@blackstockandweber.com",
+      "press@blackstockandweber.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.blackstockandweber.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.blackstockandweber.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.blackstockandweber.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.blackstockandweber.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "\u201cIt\u2019s fair to say B&W is making loafers for prepsters, sneakerheads and everyone in-between.\u201d",
+    "source_urls": [
+      "https://www.blackstockandweber.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "blackstonelabs.com",
+    "company_name": "Blackstone Labs",
+    "website": "https://blackstonelabs.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "%20cs@blackstonelabs.com",
+        "confidence": "highest",
+        "source_url": "https://blackstonelabs.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "advice@blackstonelabs.com",
+        "confidence": "high",
+        "source_url": "https://blackstonelabs.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Call or Text: 561-476-9230 advice@blackstonelabs.com Mon-Fri 10am-10pm EST If you are disabled and require"
+      },
+      {
+        "address": "wholesale@blackstonelabs.com",
+        "confidence": "high",
+        "source_url": "https://blackstonelabs.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Wholesale Inquiries Call/WhatsApp: (954) 292-4825 wholesale@blackstonelabs.com \u00a9 2026 Fitness Supplements, LLC."
+      }
+    ],
+    "role_emails": [
+      "%20cs@blackstonelabs.com",
+      "advice@blackstonelabs.com",
+      "wholesale@blackstonelabs.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://blackstonelabs.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blackstonelabs.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blackstonelabs.com/pages/about-us-1",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Blackstone Labs makes the most hardcore supplements for gaining mass, building muscle, lean gains, cutting, and getting big.",
+    "source_urls": [
+      "https://blackstonelabs.com",
+      "https://blackstonelabs.com/pages/contact-us",
+      "https://blackstonelabs.com/pages/about-us-1"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "blackstoneproducts.com",
+    "company_name": "Blackstone Products",
+    "website": "https://blackstoneproducts.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "mailto:support@blackstoneproducts.com",
+        "confidence": "highest",
+        "source_url": "https://blackstoneproducts.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2016-11-23",
+        "context_snippet": ""
+      },
+      {
+        "address": "support@blackstoneproducts.com",
+        "confidence": "highest",
+        "source_url": "https://blackstoneproducts.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2016-11-23",
+        "context_snippet": "N Logan, UT 84341 Ph. 435-252-3030 Fax. 435-252-3031 support@blackstoneproducts.com Send us an email If"
+      },
+      {
+        "address": "websales@blackstoneproducts.com",
+        "confidence": "highest",
+        "source_url": "https://blackstoneproducts.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "swer your product questions! +1 (435) 252-3030 Ext. 2 websales@blackstoneproducts.com Need to place a bulk order for company gifting and corpor"
+      }
+    ],
+    "role_emails": [
+      "mailto:support@blackstoneproducts.com",
+      "support@blackstoneproducts.com",
+      "websales@blackstoneproducts.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://blackstoneproducts.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blackstoneproducts.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2019-11-20"
+      },
+      {
+        "url": "https://blackstoneproducts.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2016-11-23"
+      },
+      {
+        "url": "https://blackstoneproducts.com/pages/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blackstoneproducts.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blackstoneproducts.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Our Products are Made of Solid Rolled Steel & Were Created to be Versatile and Durable. Outdoor Cooking Without the Compromise. Tackle Any Great Outdoor Event with the Blackstone family of Griddles & Cookware. Free Shipping. Full Cookout Experience. Replacement parts.",
+    "source_urls": [
+      "https://blackstoneproducts.com/contact",
+      "https://blackstoneproducts.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  }
+]
