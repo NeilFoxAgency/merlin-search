@@ -1,0 +1,1297 @@
+[
+  {
+    "company_domain": "40boxes.com",
+    "company_name": "40 Boxes",
+    "website": "https://40boxes.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "privacy@40boxes.com",
+        "confidence": "highest",
+        "source_url": "https://40boxes.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "privacy@40boxes.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://40boxes.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Your one-stop shop for hand-picked deals from today's most beloved brands. 40 Boxes, things you'll want at prices you'll love.",
+    "source_urls": [
+      "https://40boxes.com"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "40sandshorties.com",
+    "company_name": "40s & Shorties",
+    "website": "https://40sandshorties.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "contact@40sandshorties.com",
+        "confidence": "highest",
+        "source_url": "https://40sandshorties.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "40s Gallery Log in contact@40sandshorties.com Instagram TikTok"
+      },
+      {
+        "address": "orders@40sandshorties.com",
+        "confidence": "high",
+        "source_url": "https://40sandshorties.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "contact@40sandshorties.com",
+      "orders@40sandshorties.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://40sandshorties.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://40sandshorties.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://40sandshorties.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://40sandshorties.com/pages/contact-us",
+        "action": "/contact#template--18889107538097__form-contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "40s & Shorties // LOS ANGELES // WORLDWIDE",
+    "source_urls": [
+      "https://40sandshorties.com",
+      "https://40sandshorties.com/pages/about-us",
+      "https://40sandshorties.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "415clothing.com",
+    "company_name": "415 Clothing, Inc.",
+    "website": "https://415clothing.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "sales@415clothing.com",
+        "confidence": "highest",
+        "source_url": "https://415clothing.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "sales@415clothing.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://415clothing.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://415clothing.com/collections/support-81",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://415clothing.com/products/415-team-crewnecks",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://415clothing.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://415clothing.com/pages/store-hours-location",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://415clothing.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://415clothing.com",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://415clothing.com",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://415clothing.com/collections/support-81",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://415clothing.com/products/415-team-crewnecks",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://415clothing.com/pages/about-us",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://415clothing.com/pages/store-hours-location",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://415clothing.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://415clothing.com/pages/contact-us",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "415 Clothing is a premier San Francisco clothing brand. Representing the local pride of Bay Area folks. This company focuses on their attention to customer service as well as their edgy line of clothing.",
+    "source_urls": [
+      "https://415clothing.com",
+      "https://415clothing.com/collections/support-81",
+      "https://415clothing.com/products/415-team-crewnecks",
+      "https://415clothing.com/pages/about-us",
+      "https://415clothing.com/pages/store-hours-location",
+      "https://415clothing.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 14
+  },
+  {
+    "company_domain": "420packaging.com",
+    "company_name": "420 Packaging",
+    "website": "https://420packaging.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customerservice@420packaging.com",
+        "confidence": "highest",
+        "source_url": "https://420packaging.com/collections/pressure-heat-seal-tamper-cap-lid-liners",
+        "source_type": "archived",
+        "snapshot_date": "2025-10-18",
+        "context_snippet": "20PACKAGING.COM, NOW MARIJUANAPACKAGING.COM! customerservice@420packaging.com 888.315.2453 Open account page My Accou"
+      }
+    ],
+    "role_emails": [
+      "customerservice@420packaging.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://420packaging.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://420packaging.com/collections/pressure-heat-seal-tamper-cap-lid-liners",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2025-10-18"
+      },
+      {
+        "url": "https://420packaging.com/products/145mm-slim-recyclable-black-cardboard-child-resistant-joint-case-containers-with-press-button-100-box",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2025-08-14"
+      },
+      {
+        "url": "https://420packaging.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2025-11-05"
+      },
+      {
+        "url": "https://420packaging.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2025-11-18"
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://420packaging.com",
+        "action": "/contact#contact-form-template--28638816174450__contact_hU878r",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://420packaging.com/pages/contact-us",
+        "action": "/contact#contact-form-template--24174123352434__contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Marijuana Packaging is the #1 supplier of wholesale cannabis packaging, dispensary supplies, and branding services for marijuana brands and businesses.",
+    "source_urls": [
+      "https://420packaging.com/collections/pressure-heat-seal-tamper-cap-lid-liners",
+      "https://420packaging.com/products/145mm-slim-recyclable-black-cardboard-child-resistant-joint-case-containers-with-press-button-100-box",
+      "https://420packaging.com/pages/about-us",
+      "https://420packaging.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 14
+  },
+  {
+    "company_domain": "420science.com",
+    "company_name": "420 Science",
+    "website": "https://www.420science.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.420science.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.420science.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.420science.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.420science.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.420science.com/collections/steamrollers",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.420science.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.420science.com/products/erth-wellness-10mg-thc-pineapple-express",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.420science.com/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.420science.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "We're the Most Trusted Online Headshop with the highest quality products, the most competitive pricing, and amazing customer service you would expect to find in the Best Online Headshop.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "42technologies.com",
+    "company_name": "42",
+    "website": "https://42technologies.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "44steaks.com",
+    "company_name": "44 Steaks",
+    "website": "https://www.44steaks.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "orders@44steaks.com",
+        "confidence": "high",
+        "source_url": "https://www.44steaks.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2015-09-24",
+        "context_snippet": "Us General Info PHONE (713) 650-0791 EMAIL orders@44steaks.com ADDRESS PR 44 Cameron, TX 76520 View Shipping Rul"
+      }
+    ],
+    "role_emails": [
+      "orders@44steaks.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.44steaks.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.44steaks.com/press",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2015-10-04"
+      },
+      {
+        "url": "https://www.44steaks.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2015-09-24"
+      },
+      {
+        "url": "https://www.44steaks.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.44steaks.com",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.44steaks.com/contact",
+        "action": "http://www.44steaks.com/contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.44steaks.com/pages/contact-us",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Online steak delivery from 44 Farms\u2014USDA Prime & Choice Black Angus beef from a trusted working ranch. Get premium steaks shipped to your door. Order now.",
+    "source_urls": [
+      "https://www.44steaks.com/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "44tackle.com",
+    "company_name": "44 Tackle Co.",
+    "website": "https://www.44tackle.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "robots_disallowed",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "4505meats.com",
+    "company_name": "4505 Meats",
+    "website": "https://4505meats.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "meats@4505meats.com",
+        "confidence": "highest",
+        "source_url": "https://4505meats.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2012-01-29",
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "meats@4505meats.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://4505meats.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://4505meats.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2012-01-29"
+      },
+      {
+        "url": "https://4505meats.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "4505 Meats makes irresistibly delicious meaty snacks sourced from all natural ingredients and responsibly raised meats. Our all natural pork rinds are keto certified and perfect low carb, no carb lifestyles. Meet better meat. Meet 4505.",
+    "source_urls": [
+      "https://4505meats.com/about"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "45books.com",
+    "company_name": "Winning Team Publishing",
+    "website": "https://45books.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "46spruce.com",
+    "company_name": "www.46spruce.com",
+    "website": "https://www.46spruce.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@46spruce.com",
+        "confidence": "high",
+        "source_url": "https://www.46spruce.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "riday 8:30am to 4:30pm EST Phone: (855) 447-6892 Email: info@46spruce.com Contact form Name Email"
+      }
+    ],
+    "role_emails": [
+      "info@46spruce.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.46spruce.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.46spruce.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Get inspired and create beautiful custom flower arrangements for every occasion with carefully curated pieces from 46 & Spruce\u2019s wholesale floral supplies.",
+    "source_urls": [
+      "https://www.46spruce.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "475.supply",
+    "company_name": "475.supply",
+    "website": "https://475.supply",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Email Us",
+        "title": null,
+        "email": "info@475.supply",
+        "source_url": "https://475.supply/pages/support"
+      }
+    ],
+    "people": [
+      {
+        "name": "Email Us",
+        "title": null,
+        "email": "info@475.supply",
+        "source_url": "https://475.supply/pages/support"
+      }
+    ],
+    "emails": [
+      {
+        "address": "info@475.supply",
+        "confidence": "highest",
+        "source_url": "https://475.supply/pages/support",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "products Search 800-995-6329 info@475.supply Log in Open mini cart"
+      }
+    ],
+    "role_emails": [
+      "info@475.supply"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://475.supply",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://475.supply/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://475.supply/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://475.supply/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://475.supply/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://475.supply/pages/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://475.supply/pages/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://475.supply/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://475.supply/pages/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "475 is a trusted source of free knowledge, and an easy-to-use platform for purchasing high quality envelope solutions that help maximize the positive impact of your building projects.",
+    "source_urls": [
+      "https://475.supply",
+      "https://475.supply/our-team",
+      "https://475.supply/about-us",
+      "https://475.supply/press",
+      "https://475.supply/pages/about-us",
+      "https://475.supply/pages/our-team",
+      "https://475.supply/pages/press",
+      "https://475.supply/pages/contact-us",
+      "https://475.supply/pages/support"
+    ],
+    "reason": null,
+    "pages_fetched": 14
+  },
+  {
+    "company_domain": "47brand.com",
+    "company_name": "'47",
+    "website": "https://www.47brand.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "48longstems.com",
+    "company_name": "48LongStems.com",
+    "website": "https://www.48longstems.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@48longstems.com",
+        "confidence": "highest",
+        "source_url": "https://www.48longstems.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@48longstems.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.48longstems.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.48longstems.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.48longstems.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "48LongStems is a Wholesale Florist that delivers Wholesale Flowers, Wedding Flowers, and Bulk Flowers from farms that use earth friendly sustainable practices. Delivery anywhere in he USA.",
+    "source_urls": [
+      "https://www.48longstems.com",
+      "https://www.48longstems.com/about",
+      "https://www.48longstems.com/pages/about"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "49ercommunications.com",
+    "company_name": "49er Communications",
+    "website": "https://49ercommunications.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://49ercommunications.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://49ercommunications.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2023-06-02"
+      },
+      {
+        "url": "https://49ercommunications.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://49ercommunications.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2023-09-23"
+      },
+      {
+        "url": "https://49ercommunications.com/collections/parks-land-management",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://49ercommunications.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://49ercommunications.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://49ercommunications.com/contact",
+        "action": "https://www.49ercommunications.com/contact/index/post/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://49ercommunications.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Elevate your communication capabilities with 49er Communications - the largest single-site dealer for mission-critical communications products, solutions, and services. Discover our comprehensive range of solutions for public safety and businesses and take your communication to the next level. Learn",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "49sqmi.com",
+    "company_name": "49 Square Miles",
+    "website": "https://49sqmi.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "4ad.com",
+    "company_name": "4AD",
+    "website": "https://www.4ad.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "4amskin.com",
+    "company_name": "4AM",
+    "website": "https://4amskin.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "4batz.com",
+    "company_name": "4batz",
+    "website": "https://4batz.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://4batz.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "u made me a st4r OUT NOW. The official website of 4batz. Shop official 4batz t-shirts, hoodies, music, and more.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "4conly.com",
+    "company_name": "4C ONLY",
+    "website": "https://4conly.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://4conly.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://4conly.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://4conly.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://4conly.com/pages/contact-us",
+        "action": "/contact#contact-us-page",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "first-ever brand dedicated exclusively to 4C hair and if you don't love it, you'll get store credit. we are here to disrupt. to boldly stand out and stand up. to simply be. too loud. too strong. too happy. too much. too kinky. too coily. too tight. too Black. the revolution will be moisturized.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "4dgaming.com",
+    "company_name": "4D Gaming",
+    "website": "https://4dgaming.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://4dgaming.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://4dgaming.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Experience the next dimension of performance. 4D Gaming creates custom mousepads built for champions and designed for you -- premium materials, effortless precision, and endless personalization. Printed in the USA and trusted worldwide by pros and creators.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "4for4.com",
+    "company_name": "4for4.com",
+    "website": "https://store.4for4.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://store.4for4.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Online store for the fantasy football website 4for4.com",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "4frnt.com",
+    "company_name": "4FRNT Skis",
+    "website": "https://4frnt.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@4frnt.com",
+        "confidence": "high",
+        "source_url": "https://4frnt.com/pages/support-2025",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "customer support Email: info@4frnt.com Call: 801-975-9500 Chat with a Skier: Bubble at bottom of p"
+      }
+    ],
+    "role_emails": [
+      "info@4frnt.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://4frnt.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://4frnt.com/team",
+        "page_type": "team",
+        "source_type": "archived",
+        "snapshot_date": "2013-05-09"
+      },
+      {
+        "url": "https://4frnt.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://4frnt.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2013-05-09"
+      },
+      {
+        "url": "https://4frnt.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://4frnt.com/pages/support-2025",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://4frnt.com/blogs/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://4frnt.com/blogs/blog/team-4frnt-goes-wild-in-newschoolers-brand-battle-video-challenge",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://4frnt.com/blogs/blog/team-4frnt-goes-wild-in-newschoolers-brand-battle-video-challenge",
+        "action": "/blogs/blog/team-4frnt-goes-wild-in-newschoolers-brand-battle-video-challenge/comments#NewComment",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Handcrafted freeride, powder, and all-mountain skis\u2014built by skiers, for skiers since 2002. Shop our award-winning gear with a 100% Guarantee and 3-Year Warranty.",
+    "source_urls": [
+      "https://4frnt.com/pages/support-2025"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "4gauge.com",
+    "company_name": "4 Gauge",
+    "website": "https://www.4gauge.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@4gauge.com",
+        "confidence": "high",
+        "source_url": "https://www.4gauge.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "connected Questions? Email us: support@4gauge.com Real people. Fast replies. No nonsense. Newsletter"
+      }
+    ],
+    "role_emails": [
+      "support@4gauge.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.4gauge.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.4gauge.com/products/premium-testosterone-support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.4gauge.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.4gauge.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.4gauge.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.4gauge.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.4gauge.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "4 Gauge is a premium pre-workout designed for smooth energy, clean focus, and powerful performance \u2014 without the crash, jitters, or overstimulation common in many pre-workouts. Clinically dosed. Fully transparent. Built to help you train hard and still feel good afterward.",
+    "source_urls": [
+      "https://www.4gauge.com",
+      "https://www.4gauge.com/products/premium-testosterone-support",
+      "https://www.4gauge.com/pages/contact-us",
+      "https://www.4gauge.com/pages/about-us",
+      "https://www.4gauge.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "4gfarm.store",
+    "company_name": "Four Gaura Farm",
+    "website": "https://4gfarm.store",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://4gfarm.store",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://4gfarm.store/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Family center, first generation farm. We believe in working hard, loving our animals, and protecting our environment. We want our kids to grow up in a healthy future.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  }
+]
