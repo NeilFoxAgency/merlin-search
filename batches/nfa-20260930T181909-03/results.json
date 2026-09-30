@@ -1,0 +1,2558 @@
+[
+  {
+    "company_domain": "airplanthub.com",
+    "company_name": "Air Plant Hub",
+    "website": "https://airplanthub.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customerservice@airplanthub.com",
+        "confidence": "high",
+        "source_url": "https://airplanthub.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "24 hours. Alternatively, you can send us an email directly: customerservice@airplanthub.com Thanks and have a great visit to our site! Love, Air"
+      }
+    ],
+    "role_emails": [
+      "customerservice@airplanthub.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://airplanthub.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://airplanthub.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://airplanthub.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://airplanthub.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://airplanthub.com/pages/contact-us",
+        "action": "/contact#contact_form_template--19377508352244__1632180071f18cee62",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Discover rare Tillandsia air plants cultivated in our greenhouse by our expert growers. Wholesale & retail. Free shipping options available. Shop beginner to rare varieties, corporate gifts/marketing, weddings, and displays.",
+    "source_urls": [
+      "https://airplanthub.com/pages/contact-us",
+      "https://airplanthub.com/policies/contact-information"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "airplantman.com",
+    "company_name": "Airplantman",
+    "website": "https://www.airplantman.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "josh@airplantman.com",
+        "confidence": "high",
+        "source_url": "https://www.airplantman.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "josh@airplantman.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.airplantman.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.airplantman.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2012-06-30"
+      },
+      {
+        "url": "https://www.airplantman.com/blogs/blog/tagged/about-air-plants",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.airplantman.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.airplantman.com/pages/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.airplantman.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.airplantman.com",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.airplantman.com/blogs/blog/tagged/about-air-plants",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.airplantman.com/pages/about",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.airplantman.com/pages/press",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.airplantman.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "We offer high quality Air Plants & Tillandsia sourced from the South, holders, terrariums, and vessels handmade in California, as well as custom projects!",
+    "source_urls": [
+      "https://www.airplantman.com",
+      "https://www.airplantman.com/contact",
+      "https://www.airplantman.com/blogs/blog/tagged/about-air-plants",
+      "https://www.airplantman.com/pages/about",
+      "https://www.airplantman.com/pages/press",
+      "https://www.airplantman.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "airplantshop.com",
+    "company_name": "Air Plant Shop",
+    "website": "https://airplantshop.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "service@airplantshop.com",
+        "confidence": "high",
+        "source_url": "https://airplantshop.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "service@airplantshop.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://airplantshop.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://airplantshop.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://airplantshop.com/collections/wood-media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://airplantshop.com/collections/wholesale-wood-media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://airplantshop.com/pages/more-about-wholesale-price-breaks",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://airplantshop.com/pages/meet-our-team-shipping-your-tillandsia",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://airplantshop.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://airplantshop.com/contact-us",
+        "action": "/contact#contact-template--20776758706218__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://airplantshop.com/pages/contact-us",
+        "action": "/contact#contact-template--20776758706218__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Air Plants | Tillandsia | Wholesale | Events | Bromeliads for home decor and resale. We offer hundreds of air plant species, containers, blown glass terrariums, driftwood, grapewood roots, ceramic and a large wholesale and bulk selection for your business.",
+    "source_urls": [
+      "https://airplantshop.com",
+      "https://airplantshop.com/contact-us",
+      "https://airplantshop.com/collections/wood-media",
+      "https://airplantshop.com/collections/wholesale-wood-media",
+      "https://airplantshop.com/pages/more-about-wholesale-price-breaks",
+      "https://airplantshop.com/pages/meet-our-team-shipping-your-tillandsia",
+      "https://airplantshop.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "airplantsupplyco.com",
+    "company_name": "Air Plant Supply Co.",
+    "website": "https://www.airplantsupplyco.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@airplantsupplyco.com",
+        "confidence": "highest",
+        "source_url": "https://www.airplantsupplyco.com/pages/contact-us-1",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "31-7611 Monday - Friday 9:00 A.M. \u2013 5:00 P.M. (EST) Email: Info@AirPlantSupplyCo.com Contact us Name"
+      }
+    ],
+    "role_emails": [
+      "info@airplantsupplyco.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.airplantsupplyco.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.airplantsupplyco.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.airplantsupplyco.com/pages/contact-us-1",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.airplantsupplyco.com/pages/contact-us-1",
+        "action": "/contact#contact-template--21151858655421__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Your Premier Source for Air Plants & Tillandsias, offering Air Plants, Gifts, Terrariums, and Wholesale Air Plants with Over-The-Top Customer Service! Fast shipping throughout the United States. Decorate your home or grow your business with Air Plant Supply Co.!",
+    "source_urls": [
+      "https://www.airplantsupplyco.com",
+      "https://www.airplantsupplyco.com/pages/contact-us",
+      "https://www.airplantsupplyco.com/pages/contact-us-1"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "airportag.com",
+    "company_name": "Airportag",
+    "website": "https://airportag.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://airportag.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://airportag.com/collections/flight-management-computer",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://airportag.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Travel gifts and Aviation themed products with airport codes and other travel-themed products to turn your travel memories into awesome mementos. We ship worldwide, from pillows to passport covers.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "airscapefans.com",
+    "company_name": "AirScape Whole House Fans",
+    "website": "https://airscapefans.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Email Us",
+        "title": null,
+        "email": "experts@airscapefans.com",
+        "source_url": "https://airscapefans.com"
+      }
+    ],
+    "people": [
+      {
+        "name": "Email Us",
+        "title": null,
+        "email": "experts@airscapefans.com",
+        "source_url": "https://airscapefans.com"
+      }
+    ],
+    "emails": [
+      {
+        "address": "experts@airscapefans.com",
+        "confidence": "highest",
+        "source_url": "https://airscapefans.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://airscapefans.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://airscapefans.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2007-10-17"
+      },
+      {
+        "url": "https://airscapefans.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://airscapefans.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Save energy with natural ventilation cooling. AirScape makes the world's most highly engineered whole house fan systems.",
+    "source_urls": [
+      "https://airscapefans.com",
+      "https://airscapefans.com/pages/about-us",
+      "https://airscapefans.com/pages/contact-us"
+    ],
+    "reason": null,
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "airsdirectory.com",
+    "company_name": "AIRS Training",
+    "website": "https://airsdirectory.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://airsdirectory.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://airsdirectory.com/pages/premiere-team-training",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://airsdirectory.com/pages/about-airs-training",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://airsdirectory.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Advance your professional recruiting skills with AIRS training and certifications. Learn AI sourcing, Boolean search, and modern recruiting strategies used by top companies. Learn the most current Hiring & Interviewing techniques with AIRS Hiring Manager Academy. Support your employees with Job Sear",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "airshipcoffee.com",
+    "company_name": "Airship Coffee",
+    "website": "https://airshipcoffee.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "bray@airshipcoffee.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mark Bray",
+        "person_title": "Founder",
+        "source_url": "https://airshipcoffee.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "m.bray@airshipcoffee.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mark Bray",
+        "person_title": "Founder",
+        "source_url": "https://airshipcoffee.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mark.bray@airshipcoffee.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mark Bray",
+        "person_title": "Founder",
+        "source_url": "https://airshipcoffee.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mark@airshipcoffee.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mark Bray",
+        "person_title": "Founder",
+        "source_url": "https://airshipcoffee.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mark_bray@airshipcoffee.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mark Bray",
+        "person_title": "Founder",
+        "source_url": "https://airshipcoffee.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "markb@airshipcoffee.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mark Bray",
+        "person_title": "Founder",
+        "source_url": "https://airshipcoffee.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://airshipcoffee.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://airshipcoffee.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://airshipcoffee.com/contact-us",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2014-03-15"
+      },
+      {
+        "url": "https://airshipcoffee.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://airshipcoffee.com/locations/coler",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://airshipcoffee.com/locations/pumphouse",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://airshipcoffee.com/locations/the-porch",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://airshipcoffee.com/locations/5th-street",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://airshipcoffee.com/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://airshipcoffee.com/contact-us",
+        "action": "/contact-us/#wpcf7-f106-p12-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Quality coffee from farm to cup. Shop freshly roasted beans, subscribe for convenient delivery, or visit our cafes. Elevate your coffee experience.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "airslamit.com",
+    "company_name": "airslamit",
+    "website": "https://airslamit.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "travis@airslamit.com",
+        "confidence": "high",
+        "source_url": "https://airslamit.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "sales@airslamit.com",
+        "confidence": "medium",
+        "source_url": "https://airslamit.com/contact-us",
+        "source_type": "archived",
+        "snapshot_date": "2019-10-14",
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "sales@airslamit.com",
+      "travis@airslamit.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://airslamit.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://airslamit.com/contact-us",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2019-10-14"
+      },
+      {
+        "url": "https://airslamit.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2023-03-29"
+      },
+      {
+        "url": "https://airslamit.com/collections/air-management",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://airslamit.com/pages/air-compressors",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://airslamit.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://airslamit.com/products/air-compressor-wiring-kit-airmaxxx",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://airslamit.com",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://airslamit.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Shop now for bolt-on air ride kits, air suspension bags & brackets for classic cars & trucks. Cadillac, Chevy, Ford, Dodge & more\u2014AirSlamIt has you covered.",
+    "source_urls": [
+      "https://airslamit.com",
+      "https://airslamit.com/contact-us",
+      "https://airslamit.com/collections/air-management",
+      "https://airslamit.com/pages/air-compressors",
+      "https://airslamit.com/pages/contact-us",
+      "https://airslamit.com/products/air-compressor-wiring-kit-airmaxxx"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "airsoftatlanta.com",
+    "company_name": "Airsoft Atlanta",
+    "website": "https://www.airsoftatlanta.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customer_service@airsoftatlanta.com",
+        "confidence": "high",
+        "source_url": "https://www.airsoftatlanta.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Sat, Sun: 12 - 6 EST Store Phone: (470) 605-6186 Email: customer_service@airsoftatlanta.com Newsletter Sign Up Sign up for ex"
+      }
+    ],
+    "role_emails": [
+      "customer_service@airsoftatlanta.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.airsoftatlanta.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.airsoftatlanta.com/collections/flash-hiders-suppressors-tracer-units",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.airsoftatlanta.com/products/g-g-o-t-s-qd-suppressor-14mm-ccw",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.airsoftatlanta.com/products/g-g-ss-100-suppressor-black-14mm-ccw",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.airsoftatlanta.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.airsoftatlanta.com/pages/about-us-2",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Explore a wide selection of airsoft guns, pistols, and custom options at Airsoft Atlanta. Georgia's premier airsoft retailer offering top-quality products online.",
+    "source_urls": [
+      "https://www.airsoftatlanta.com/pages/contact",
+      "https://www.airsoftatlanta.com/pages/about-us-2"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "airsofttulsa.com",
+    "company_name": "Airsoft Tulsa",
+    "website": "https://www.airsofttulsa.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customerservice@airsofttulsa.com",
+        "confidence": "highest",
+        "source_url": "https://www.airsofttulsa.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "St. Tulsa, OK 74135 Phone: (539)525-0883 E-mail: customerservice@airsofttulsa.com Store Hours: Monday: 12pm - 8pm Tuesday: 12pm - 8p"
+      }
+    ],
+    "role_emails": [
+      "customerservice@airsofttulsa.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.airsofttulsa.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.airsofttulsa.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.airsofttulsa.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.airsofttulsa.com/collections/support-weapons",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.airsofttulsa.com/collections/airsoft-flash-hiders-mock-suppressors",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.airsofttulsa.com/collections/all-products/support-weapons",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "MIDWEST'S LARGEST & FINEST AIRSOFT, TACTICAL GEAR, & FIREARM ACCESSORIES RETAILER! Guns, Sniper Rifles, Gas Blowbacks, Pistols, AEG's, Swords, Knives, Protect",
+    "source_urls": [
+      "https://www.airsofttulsa.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "airspade.com",
+    "company_name": "www.airspade.com",
+    "website": "https://www.airspade.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@airspade.com",
+        "confidence": "highest",
+        "source_url": "https://www.airspade.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "800-482-7324 Mon - Fri 8AM ET - 5PM ET info@airspade.com Live Chat Visit our contact us page"
+      },
+      {
+        "address": "productsupport@airspade.com",
+        "confidence": "highest",
+        "source_url": "https://www.airspade.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "es Requests: Info@airspade.com Technical Questions: ProductSupport@airspade.com Product Returns: Returns@airspade.com Live C"
+      },
+      {
+        "address": "returns@airspade.com",
+        "confidence": "highest",
+        "source_url": "https://www.airspade.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "tions: ProductSupport@airspade.com Product Returns: Returns@airspade.com Live Chat Customer Service Hours: Monday - Fr"
+      },
+      {
+        "address": "connect@airspade.com",
+        "confidence": "high",
+        "source_url": "https://www.airspade.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "insidesales@airspade.com",
+        "confidence": "high",
+        "source_url": "https://www.airspade.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "u003econnect@airspade.com",
+        "confidence": "high",
+        "source_url": "https://www.airspade.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "connect@airspade.com",
+      "info@airspade.com",
+      "insidesales@airspade.com",
+      "productsupport@airspade.com",
+      "returns@airspade.com",
+      "u003econnect@airspade.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.airspade.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.airspade.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.airspade.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.airspade.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.airspade.com/pages/compressed-air-requirements",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.airspade.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "AirSpade is the premier manufacturer of air-powered, soil excavation tools for arboreal, landscaping, and utility applications around the world.",
+    "source_urls": [
+      "https://www.airspade.com",
+      "https://www.airspade.com/contact",
+      "https://www.airspade.com/about",
+      "https://www.airspade.com/about-us",
+      "https://www.airspade.com/pages/compressed-air-requirements",
+      "https://www.airspade.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "airspeedjunkie.com",
+    "company_name": "Airspeed Junkie",
+    "website": "https://airspeedjunkie.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Aviation Designs",
+        "title": null,
+        "email": "sales@airspeedjunkie.com",
+        "source_url": "https://airspeedjunkie.com"
+      }
+    ],
+    "people": [
+      {
+        "name": "Aviation Designs",
+        "title": null,
+        "email": "sales@airspeedjunkie.com",
+        "source_url": "https://airspeedjunkie.com"
+      }
+    ],
+    "emails": [
+      {
+        "address": "sales@airspeedjunkie.com",
+        "confidence": "highest",
+        "source_url": "https://airspeedjunkie.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "sales@airspeedjunkie.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "florida@airspeedjunkie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Orlando Florida",
+        "person_title": "Owner",
+        "source_url": "https://airspeedjunkie.com/pages/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2026-02-07"
+      },
+      {
+        "address": "o.florida@airspeedjunkie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Orlando Florida",
+        "person_title": "Owner",
+        "source_url": "https://airspeedjunkie.com/pages/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2026-02-07"
+      },
+      {
+        "address": "orlando.florida@airspeedjunkie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Orlando Florida",
+        "person_title": "Owner",
+        "source_url": "https://airspeedjunkie.com/pages/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2026-02-07"
+      },
+      {
+        "address": "orlando@airspeedjunkie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Orlando Florida",
+        "person_title": "Owner",
+        "source_url": "https://airspeedjunkie.com/pages/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2026-02-07"
+      },
+      {
+        "address": "orlando_florida@airspeedjunkie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Orlando Florida",
+        "person_title": "Owner",
+        "source_url": "https://airspeedjunkie.com/pages/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2026-02-07"
+      },
+      {
+        "address": "orlandof@airspeedjunkie.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Orlando Florida",
+        "person_title": "Owner",
+        "source_url": "https://airspeedjunkie.com/pages/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2026-02-07"
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://airspeedjunkie.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://airspeedjunkie.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://airspeedjunkie.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2022-01-21"
+      },
+      {
+        "url": "https://airspeedjunkie.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2026-02-07"
+      },
+      {
+        "url": "https://airspeedjunkie.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://airspeedjunkie.com/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://airspeedjunkie.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Gifts for pilots, flight attendants and crews is the main focus for pilot store Airspeed Junkie. We manufacture great gifts for your favorite pilot or crew.",
+    "source_urls": [
+      "https://airspeedjunkie.com",
+      "https://airspeedjunkie.com/contact",
+      "https://airspeedjunkie.com/about-us",
+      "https://airspeedjunkie.com/pages/about-us",
+      "https://airspeedjunkie.com/pages/contact-us"
+    ],
+    "reason": null,
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "airstreamsupplycompany.com",
+    "company_name": "Airstream Supply Company",
+    "website": "https://airstreamsupplycompany.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "all@airstreamsupplycompany.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Shop All",
+        "person_title": "Owner",
+        "source_url": "https://airstreamsupplycompany.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2023-06-03"
+      },
+      {
+        "address": "m.y@airstreamsupplycompany.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Molly Y.",
+        "person_title": null,
+        "source_url": "https://airstreamsupplycompany.com/products/airstream-supply-company-gift-card",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "molly.y@airstreamsupplycompany.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Molly Y.",
+        "person_title": null,
+        "source_url": "https://airstreamsupplycompany.com/products/airstream-supply-company-gift-card",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "molly@airstreamsupplycompany.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Molly Y.",
+        "person_title": null,
+        "source_url": "https://airstreamsupplycompany.com/products/airstream-supply-company-gift-card",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "molly_y@airstreamsupplycompany.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Molly Y.",
+        "person_title": null,
+        "source_url": "https://airstreamsupplycompany.com/products/airstream-supply-company-gift-card",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mollyy@airstreamsupplycompany.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Molly Y.",
+        "person_title": null,
+        "source_url": "https://airstreamsupplycompany.com/products/airstream-supply-company-gift-card",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.all@airstreamsupplycompany.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Shop All",
+        "person_title": "Owner",
+        "source_url": "https://airstreamsupplycompany.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2023-06-03"
+      },
+      {
+        "address": "shop.all@airstreamsupplycompany.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Shop All",
+        "person_title": "Owner",
+        "source_url": "https://airstreamsupplycompany.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2023-06-03"
+      },
+      {
+        "address": "shop@airstreamsupplycompany.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Shop All",
+        "person_title": "Owner",
+        "source_url": "https://airstreamsupplycompany.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2023-06-03"
+      },
+      {
+        "address": "shop_all@airstreamsupplycompany.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Shop All",
+        "person_title": "Owner",
+        "source_url": "https://airstreamsupplycompany.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2023-06-03"
+      },
+      {
+        "address": "shopa@airstreamsupplycompany.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Shop All",
+        "person_title": "Owner",
+        "source_url": "https://airstreamsupplycompany.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2023-06-03"
+      },
+      {
+        "address": "y@airstreamsupplycompany.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Molly Y.",
+        "person_title": null,
+        "source_url": "https://airstreamsupplycompany.com/products/airstream-supply-company-gift-card",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://airstreamsupplycompany.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://airstreamsupplycompany.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2023-06-03"
+      },
+      {
+        "url": "https://airstreamsupplycompany.com/collections/new-fall-holiday-apparel-gifts",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://airstreamsupplycompany.com/pages/shipping-delivery",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://airstreamsupplycompany.com/products/airstream-supply-company-gift-card",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://airstreamsupplycompany.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://airstreamsupplycompany.com/search",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://airstreamsupplycompany.com/cart",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://airstreamsupplycompany.com/products/airstream-supply-company-gift-card",
+        "action": "/cart/add",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Official Outfitter of Airstream\u00ae",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 15
+  },
+  {
+    "company_domain": "airsupplymusic.com",
+    "company_name": "Air Supply Music",
+    "website": "https://shop.airsupplymusic.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://shop.airsupplymusic.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.airsupplymusic.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.airsupplymusic.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.airsupplymusic.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.airsupplymusic.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.airsupplymusic.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.airsupplymusic.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Air Supply Music",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "airsuspension.com",
+    "company_name": "AirSuspension.com",
+    "website": "https://www.airsuspension.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@airsuspension.com",
+        "confidence": "high",
+        "source_url": "https://www.airsuspension.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Email: info@airsuspension.com"
+      }
+    ],
+    "role_emails": [
+      "info@airsuspension.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.airsuspension.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.airsuspension.com/collections/compressors",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.airsuspension.com/collections/air-management",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.airsuspension.com/collections/air-management-packages",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.airsuspension.com/collections/air-management-controllers",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.airsuspension.com/collections/pressure-switches",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.airsuspension.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.airsuspension.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.airsuspension.com",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.airsuspension.com/collections/compressors",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.airsuspension.com/collections/air-management",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.airsuspension.com/collections/air-management-packages",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.airsuspension.com/collections/air-management-controllers",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.airsuspension.com/collections/pressure-switches",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.airsuspension.com/pages/about-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.airsuspension.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.airsuspension.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "AirSuspension.com is the premiere source for Air Suspension parts and Air Management Systems. Whether you are looking for replacement Air Springs, Struts, Bags, Compressors or Air Management Controllers, we have it all.",
+    "source_urls": [
+      "https://www.airsuspension.com",
+      "https://www.airsuspension.com/collections/compressors",
+      "https://www.airsuspension.com/collections/air-management",
+      "https://www.airsuspension.com/collections/air-management-packages",
+      "https://www.airsuspension.com/collections/air-management-controllers",
+      "https://www.airsuspension.com/collections/pressure-switches",
+      "https://www.airsuspension.com/pages/about-us",
+      "https://www.airsuspension.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 14
+  },
+  {
+    "company_domain": "airtaccustoms.com",
+    "company_name": "AirTac Customs",
+    "website": "https://airtaccustoms.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "cs@airtaccustoms.com",
+        "confidence": "high",
+        "source_url": "https://airtaccustoms.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Blog Contact cs@airtaccustoms.com Newsletter Subscribe"
+      }
+    ],
+    "role_emails": [
+      "cs@airtaccustoms.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://airtaccustoms.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://airtaccustoms.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://airtaccustoms.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Shop the AirTac catalog of innovative HPA products to stand out on the field, or explore unique AirTac Custom builds to compete at the highest level.",
+    "source_urls": [
+      "https://airtaccustoms.com",
+      "https://airtaccustoms.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "airthereal.com",
+    "company_name": "Airthereal",
+    "website": "https://airthereal.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "\u2709\ufe0f support@airthereal.com",
+        "title": null,
+        "email": "support@airthereal.com",
+        "source_url": "https://airthereal.com/pages/support"
+      }
+    ],
+    "people": [
+      {
+        "name": "\u2709\ufe0f support@airthereal.com",
+        "title": null,
+        "email": "support@airthereal.com",
+        "source_url": "https://airthereal.com/pages/support"
+      }
+    ],
+    "emails": [
+      {
+        "address": "support@airthereal.com",
+        "confidence": "highest",
+        "source_url": "https://airthereal.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Days 1-725-333-0437 9am \u2013 6pm EST, Mon\u2013Fri Call support support@airthereal.com \u2709\ufe0f Contact Us \u2192 \ud83d\udcf1 AIR.ai App Contro"
+      }
+    ],
+    "role_emails": [
+      "support@airthereal.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://airthereal.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://airthereal.com/pages/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://airthereal.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Live cleaner at home. Airthereal makes HEPA air purifiers, ozone generators, kitchen composters, and water care products \u2014 for people who take their home seriously.",
+    "source_urls": [
+      "https://airthereal.com",
+      "https://airthereal.com/pages/support",
+      "https://airthereal.com/pages/contact"
+    ],
+    "reason": null,
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "airturn.com",
+    "company_name": "AirTurn",
+    "website": "https://www.airturn.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Email: support@airturn.com",
+        "title": null,
+        "email": "<b>email: </b>support@airturn.com",
+        "source_url": "https://www.airturn.com"
+      }
+    ],
+    "people": [
+      {
+        "name": "Email: support@airturn.com",
+        "title": null,
+        "email": "<b>email: </b>support@airturn.com",
+        "source_url": "https://www.airturn.com"
+      }
+    ],
+    "emails": [
+      {
+        "address": "<b>email: </b>support@airturn.com",
+        "confidence": "highest",
+        "source_url": "https://www.airturn.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "support@airturn.com",
+        "confidence": "highest",
+        "source_url": "https://www.airturn.com/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Unit G Boulder, CO 80301 Phone: 888-247-1223 Email: support@airturn.com JOIN US @ AIRTURN VIP! Sign up to receive the lat"
+      },
+      {
+        "address": "customerservice@airturn.com",
+        "confidence": "high",
+        "source_url": "https://www.airturn.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "customerservice@airturn.com",
+      "support@airturn.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.airturn.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.airturn.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.airturn.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2017-01-01"
+      },
+      {
+        "url": "https://www.airturn.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.airturn.com/blogs/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.airturn.com/blogs/support/warranty-registration",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Enhance your app control with solutions to mount and control your Bluetooth device hands free. airturn bluetooth pedal page turner app controller midi daw tablet holder mount",
+    "source_urls": [
+      "https://www.airturn.com",
+      "https://www.airturn.com/contact-us",
+      "https://www.airturn.com/pages/about",
+      "https://www.airturn.com/blogs/support",
+      "https://www.airturn.com/blogs/support/warranty-registration"
+    ],
+    "reason": null,
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "airvapeusa.com",
+    "company_name": "AirVape Official \u2013 Apollo",
+    "website": "https://airvapeusa.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "cs@airvapeusa.com",
+        "confidence": "highest",
+        "source_url": "https://airvapeusa.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Get In Touch cs@airvapeusa.com Apollo Design & Tech Inc. 16133 V"
+      },
+      {
+        "address": "hello@airvapeusa.com",
+        "confidence": "high",
+        "source_url": "https://airvapeusa.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "cs@airvapeusa.com",
+      "hello@airvapeusa.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://airvapeusa.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://airvapeusa.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Shop AirVape dry herb vaporizers, wax pens, and replacement accessories in the USA. Premium design, fast shipping, and device-specific parts.",
+    "source_urls": [
+      "https://airvapeusa.com",
+      "https://airvapeusa.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "airwaav.com",
+    "company_name": "AIRWAAV",
+    "website": "https://airwaav.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customerservice@airwaav.com",
+        "confidence": "high",
+        "source_url": "https://airwaav.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "allow 1-2 business days for a response. We recommend adding customerservice@airwaav.com to your email contacts or allow-list to ensure you get our"
+      }
+    ],
+    "role_emails": [
+      "customerservice@airwaav.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://airwaav.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://airwaav.com/pages/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://airwaav.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://airwaav.com/pages/contact",
+        "action": "/contact#ContactForm-AdmhmRWJySUdLall5b__contact_form_UwiCkQ",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "INTRODUCING AIRWAAV. A performance mouthpiece engineered for serious athletes who demand serious results.",
+    "source_urls": [
+      "https://airwaav.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "airwaterice.com",
+    "company_name": "AirWaterIce.com",
+    "website": "https://airwaterice.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Email: sales@airwaterice.com",
+        "title": null,
+        "email": "sales@airwaterice.com",
+        "source_url": "https://airwaterice.com"
+      }
+    ],
+    "people": [
+      {
+        "name": "Email: sales@airwaterice.com",
+        "title": null,
+        "email": "sales@airwaterice.com",
+        "source_url": "https://airwaterice.com"
+      }
+    ],
+    "emails": [
+      {
+        "address": "sales@airwaterice.com",
+        "confidence": "highest",
+        "source_url": "https://airwaterice.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "0 (772) 461-0256 sales@airwaterice.com SIGN IN SPECIAL OFFERS REEFKEEPER"
+      }
+    ],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "a.water@airwaterice.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Air Water",
+        "person_title": "Founder",
+        "source_url": "https://airwaterice.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "air.water@airwaterice.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Air Water",
+        "person_title": "Founder",
+        "source_url": "https://airwaterice.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "air@airwaterice.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Air Water",
+        "person_title": "Founder",
+        "source_url": "https://airwaterice.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "air_water@airwaterice.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Air Water",
+        "person_title": "Founder",
+        "source_url": "https://airwaterice.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "airw@airwaterice.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Air Water",
+        "person_title": "Founder",
+        "source_url": "https://airwaterice.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "water@airwaterice.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Air Water",
+        "person_title": "Founder",
+        "source_url": "https://airwaterice.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://airwaterice.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://airwaterice.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://airwaterice.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://airwaterice.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://airwaterice.com/collections/pumps/products/pressure-switch-for-booster-pump",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://airwaterice.com/collections/pumps/products/aquatec-high-pressure-switches",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://airwaterice.com/collections/di-deionization/products/di-resin-mixed-bed-color-changing-bulk-media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://airwaterice.com/collections/di-deionization/products/anion-di-resin-color-changing-bulk-media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://airwaterice.com/pages/contact",
+        "action": "/contact#contact-template--15314275893411__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "RODI systems for Reefkeepers since 1982. Shop 17+ water systems offering the worlds #1 rated filmtec membranes, coconut-shell carbon filters and premium always fresh resintech di resin.",
+    "source_urls": [
+      "https://airwaterice.com",
+      "https://airwaterice.com/about-us",
+      "https://airwaterice.com/pages/about-us",
+      "https://airwaterice.com/pages/contact",
+      "https://airwaterice.com/collections/pumps/products/pressure-switch-for-booster-pump",
+      "https://airwaterice.com/collections/pumps/products/aquatec-high-pressure-switches",
+      "https://airwaterice.com/collections/di-deionization/products/di-resin-mixed-bed-color-changing-bulk-media",
+      "https://airwaterice.com/collections/di-deionization/products/anion-di-resin-color-changing-bulk-media"
+    ],
+    "reason": null,
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "airwaysmag.com",
+    "company_name": "Airways Magazine Store",
+    "website": "https://shop.airwaysmag.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://shop.airwaysmag.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.airwaysmag.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Airways Magazine Store",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "airweave.com",
+    "company_name": "airweave",
+    "website": "https://airweave.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "a.inc@airweave.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Airweave Inc",
+        "person_title": "Ceo",
+        "source_url": "https://airweave.com/pages/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "a.matsuhisa@airweave.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "About Nobu Matsuhisa",
+        "person_title": "Founder",
+        "source_url": "https://airweave.com/pages/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "about.matsuhisa@airweave.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "About Nobu Matsuhisa",
+        "person_title": "Founder",
+        "source_url": "https://airweave.com/pages/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "about@airweave.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "About Nobu Matsuhisa",
+        "person_title": "Founder",
+        "source_url": "https://airweave.com/pages/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "about_matsuhisa@airweave.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "About Nobu Matsuhisa",
+        "person_title": "Founder",
+        "source_url": "https://airweave.com/pages/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "aboutm@airweave.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "About Nobu Matsuhisa",
+        "person_title": "Founder",
+        "source_url": "https://airweave.com/pages/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "airweave.inc@airweave.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Airweave Inc",
+        "person_title": "Ceo",
+        "source_url": "https://airweave.com/pages/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "airweave@airweave.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Airweave Inc",
+        "person_title": "Ceo",
+        "source_url": "https://airweave.com/pages/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "airweave_inc@airweave.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Airweave Inc",
+        "person_title": "Ceo",
+        "source_url": "https://airweave.com/pages/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "airweavei@airweave.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Airweave Inc",
+        "person_title": "Ceo",
+        "source_url": "https://airweave.com/pages/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "athletes@airweave.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Olympic Athletes",
+        "person_title": "Ceo",
+        "source_url": "https://airweave.com/pages/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "inc@airweave.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Airweave Inc",
+        "person_title": "Ceo",
+        "source_url": "https://airweave.com/pages/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "m.takaoka@airweave.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Motokuni Takaoka",
+        "person_title": "Founder",
+        "source_url": "https://airweave.com/pages/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "malibu@airweave.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nobu Ryokan Malibu",
+        "person_title": "Founder",
+        "source_url": "https://airweave.com/pages/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "matsuhisa@airweave.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nobu Matsuhisa",
+        "person_title": "Founder",
+        "source_url": "https://airweave.com/pages/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "motokuni.takaoka@airweave.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Motokuni Takaoka",
+        "person_title": "Founder",
+        "source_url": "https://airweave.com/pages/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "motokuni@airweave.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Motokuni Takaoka",
+        "person_title": "Founder",
+        "source_url": "https://airweave.com/pages/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "motokuni_takaoka@airweave.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Motokuni Takaoka",
+        "person_title": "Founder",
+        "source_url": "https://airweave.com/pages/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "motokunit@airweave.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Motokuni Takaoka",
+        "person_title": "Founder",
+        "source_url": "https://airweave.com/pages/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "n.malibu@airweave.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nobu Ryokan Malibu",
+        "person_title": "Founder",
+        "source_url": "https://airweave.com/pages/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "n.matsuhisa@airweave.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nobu Matsuhisa",
+        "person_title": "Founder",
+        "source_url": "https://airweave.com/pages/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "nobu.malibu@airweave.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nobu Ryokan Malibu",
+        "person_title": "Founder",
+        "source_url": "https://airweave.com/pages/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "nobu.matsuhisa@airweave.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nobu Matsuhisa",
+        "person_title": "Founder",
+        "source_url": "https://airweave.com/pages/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "nobu@airweave.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nobu Matsuhisa",
+        "person_title": "Founder",
+        "source_url": "https://airweave.com/pages/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "nobu_malibu@airweave.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nobu Ryokan Malibu",
+        "person_title": "Founder",
+        "source_url": "https://airweave.com/pages/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "nobu_matsuhisa@airweave.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nobu Matsuhisa",
+        "person_title": "Founder",
+        "source_url": "https://airweave.com/pages/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "nobum@airweave.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nobu Matsuhisa",
+        "person_title": "Founder",
+        "source_url": "https://airweave.com/pages/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "o.athletes@airweave.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Olympic Athletes",
+        "person_title": "Ceo",
+        "source_url": "https://airweave.com/pages/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "olympic.athletes@airweave.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Olympic Athletes",
+        "person_title": "Ceo",
+        "source_url": "https://airweave.com/pages/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "olympic@airweave.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Olympic Athletes",
+        "person_title": "Ceo",
+        "source_url": "https://airweave.com/pages/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "olympic_athletes@airweave.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Olympic Athletes",
+        "person_title": "Ceo",
+        "source_url": "https://airweave.com/pages/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "olympica@airweave.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Olympic Athletes",
+        "person_title": "Ceo",
+        "source_url": "https://airweave.com/pages/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "takaoka@airweave.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Motokuni Takaoka",
+        "person_title": "Founder",
+        "source_url": "https://airweave.com/pages/press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://airweave.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://airweave.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://airweave.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://airweave.com/pages/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "The Japanese mattress brand offering firm mattresses, Japanese futon, mattress toppers, travel accessories and duvet blankets. Our mattresses are firm, supportive, and cooling to give you the best sleep. The best mattress for back pains & aches and athletes. Free shipping & returns. Try it risk-free",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "aisle50.com",
+    "company_name": "Aisle50",
+    "website": "http://aisle50.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  }
+]
