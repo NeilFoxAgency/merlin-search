@@ -1,0 +1,2729 @@
+[
+  {
+    "company_domain": "actandacre.com",
+    "company_name": "Act+Acre",
+    "website": "https://actandacre.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@actandacre.com",
+        "confidence": "highest",
+        "source_url": "https://actandacre.com/pages/contact-faq",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "to all subsequent instalments of said subscription. Contact hello@actandacre.com or phone 347-970-5761 to speak with our customer experience"
+      },
+      {
+        "address": "press@actandacre.com",
+        "confidence": "high",
+        "source_url": "https://actandacre.com/pages/contact-faq",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "andacre.com + Press Why yes, we\u2019d love to talk to you: press@actandacre.com --- Oh, also - have you taken a look at our FAQs? We\u2019"
+      },
+      {
+        "address": "retail@actandacre.com",
+        "confidence": "high",
+        "source_url": "https://actandacre.com/pages/contact-faq",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "interested in a wholesale partnership, please reach out to retail@actandacre.com + Press Why yes, we\u2019d love to talk to you: press@actan"
+      }
+    ],
+    "role_emails": [
+      "hello@actandacre.com",
+      "press@actandacre.com",
+      "retail@actandacre.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "a.reavey@actandacre.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Acre Helen Reavey",
+        "person_title": "Founder",
+        "source_url": "https://actandacre.com/pages/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "a.reavy@actandacre.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Acre Helen Reavy",
+        "person_title": "Founder",
+        "source_url": "https://actandacre.com/pages/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "acre.reavey@actandacre.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Acre Helen Reavey",
+        "person_title": "Founder",
+        "source_url": "https://actandacre.com/pages/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "acre.reavy@actandacre.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Acre Helen Reavy",
+        "person_title": "Founder",
+        "source_url": "https://actandacre.com/pages/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "acre@actandacre.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Acre Helen Reavy",
+        "person_title": "Founder",
+        "source_url": "https://actandacre.com/pages/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "acre_reavey@actandacre.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Acre Helen Reavey",
+        "person_title": "Founder",
+        "source_url": "https://actandacre.com/pages/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "acre_reavy@actandacre.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Acre Helen Reavy",
+        "person_title": "Founder",
+        "source_url": "https://actandacre.com/pages/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "acrer@actandacre.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Acre Helen Reavy",
+        "person_title": "Founder",
+        "source_url": "https://actandacre.com/pages/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "article@actandacre.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Read Full Article",
+        "person_title": "Co-Founder",
+        "source_url": "https://actandacre.com/pages/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "c.processed@actandacre.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Cold Processed",
+        "person_title": "Founder",
+        "source_url": "https://actandacre.com/pages/about-actandacre",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "cold.processed@actandacre.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Cold Processed",
+        "person_title": "Founder",
+        "source_url": "https://actandacre.com/pages/about-actandacre",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "cold@actandacre.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Cold Processed",
+        "person_title": "Founder",
+        "source_url": "https://actandacre.com/pages/about-actandacre",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "cold_processed@actandacre.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Cold Processed",
+        "person_title": "Founder",
+        "source_url": "https://actandacre.com/pages/about-actandacre",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "coldp@actandacre.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Cold Processed",
+        "person_title": "Founder",
+        "source_url": "https://actandacre.com/pages/about-actandacre",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "h.reavey@actandacre.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Helen Reavey",
+        "person_title": "Co-Founder",
+        "source_url": "https://actandacre.com/pages/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "helen.reavey@actandacre.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Helen Reavey",
+        "person_title": "Co-Founder",
+        "source_url": "https://actandacre.com/pages/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "helen@actandacre.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Our Helen",
+        "person_title": "Founder",
+        "source_url": "https://actandacre.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "helen_reavey@actandacre.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Helen Reavey",
+        "person_title": "Co-Founder",
+        "source_url": "https://actandacre.com/pages/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "helenr@actandacre.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Helen Reavey",
+        "person_title": "Co-Founder",
+        "source_url": "https://actandacre.com/pages/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "n.york@actandacre.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "New York",
+        "person_title": "Cofounder",
+        "source_url": "https://actandacre.com/pages/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "new.york@actandacre.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "New York",
+        "person_title": "Cofounder",
+        "source_url": "https://actandacre.com/pages/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "new@actandacre.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "New York",
+        "person_title": "Cofounder",
+        "source_url": "https://actandacre.com/pages/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "new_york@actandacre.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "New York",
+        "person_title": "Cofounder",
+        "source_url": "https://actandacre.com/pages/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "newy@actandacre.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "New York",
+        "person_title": "Cofounder",
+        "source_url": "https://actandacre.com/pages/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "o.helen@actandacre.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Our Helen",
+        "person_title": "Founder",
+        "source_url": "https://actandacre.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "our.helen@actandacre.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Our Helen",
+        "person_title": "Founder",
+        "source_url": "https://actandacre.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "our@actandacre.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Our Helen",
+        "person_title": "Founder",
+        "source_url": "https://actandacre.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "our_helen@actandacre.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Our Helen",
+        "person_title": "Founder",
+        "source_url": "https://actandacre.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ourh@actandacre.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Our Helen",
+        "person_title": "Founder",
+        "source_url": "https://actandacre.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "processed@actandacre.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Cold Processed",
+        "person_title": "Founder",
+        "source_url": "https://actandacre.com/pages/about-actandacre",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "r.article@actandacre.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Read Full Article",
+        "person_title": "Co-Founder",
+        "source_url": "https://actandacre.com/pages/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "read.article@actandacre.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Read Full Article",
+        "person_title": "Co-Founder",
+        "source_url": "https://actandacre.com/pages/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "read@actandacre.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Read Full Article",
+        "person_title": "Co-Founder",
+        "source_url": "https://actandacre.com/pages/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "read_article@actandacre.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Read Full Article",
+        "person_title": "Co-Founder",
+        "source_url": "https://actandacre.com/pages/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "reada@actandacre.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Read Full Article",
+        "person_title": "Co-Founder",
+        "source_url": "https://actandacre.com/pages/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "reavey@actandacre.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Helen Reavey",
+        "person_title": "Co-Founder",
+        "source_url": "https://actandacre.com/pages/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "reavy@actandacre.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Acre Helen Reavy",
+        "person_title": "Founder",
+        "source_url": "https://actandacre.com/pages/press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "story@actandacre.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Act+Acre Story",
+        "person_title": "Founder",
+        "source_url": "https://actandacre.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "t.story@actandacre.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Act+Acre Story",
+        "person_title": "Founder",
+        "source_url": "https://actandacre.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "the.story@actandacre.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Act+Acre Story",
+        "person_title": "Founder",
+        "source_url": "https://actandacre.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "the@actandacre.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Act+Acre Story",
+        "person_title": "Founder",
+        "source_url": "https://actandacre.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "the_story@actandacre.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Act+Acre Story",
+        "person_title": "Founder",
+        "source_url": "https://actandacre.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "thes@actandacre.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Act+Acre Story",
+        "person_title": "Founder",
+        "source_url": "https://actandacre.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "york@actandacre.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "New York",
+        "person_title": "Cofounder",
+        "source_url": "https://actandacre.com/pages/press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://actandacre.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://actandacre.com/pages/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://actandacre.com/pages/about-actandacre",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://actandacre.com/pages/contact-faq",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Trichologist tested and approved. Meet scalp-positive systems to tackle all of your scalp concerns, from itchy scalp to hair loss.",
+    "source_urls": [
+      "https://actandacre.com",
+      "https://actandacre.com/pages/press",
+      "https://actandacre.com/pages/about-actandacre",
+      "https://actandacre.com/pages/contact-faq"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "actawear.com",
+    "company_name": "ACTA\u2122",
+    "website": "https://actawear.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://actawear.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Looks like you haven\u2019t added anything yet, let\u2019s get you started!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "actian.com",
+    "company_name": "Actian Corporation",
+    "website": "https://store.actian.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://store.actian.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://store.actian.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://store.actian.com/pages/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Shop Actian\u2019s AI Analyst and VectorAI DB \u2014 powerful tools for data analytics and vector search. Flexible pricing, instant access.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "actiivbrand.com",
+    "company_name": "Actiiv Hair Science",
+    "website": "https://actiivbrand.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@actiivbrand.com",
+        "confidence": "highest",
+        "source_url": "https://actiivbrand.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Reach us by email at info@actiivbrand.com , or by phone Monday-Friday (877) 690-6466 SIGN UP"
+      }
+    ],
+    "role_emails": [
+      "info@actiivbrand.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "customer@actiivbrand.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Verified Customer",
+        "person_title": null,
+        "source_url": "https://actiivbrand.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "d.science@actiivbrand.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Discover Our Science",
+        "person_title": "Founder",
+        "source_url": "https://actiivbrand.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "discover.science@actiivbrand.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Discover Our Science",
+        "person_title": "Founder",
+        "source_url": "https://actiivbrand.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "discover@actiivbrand.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Discover Our Science",
+        "person_title": "Founder",
+        "source_url": "https://actiivbrand.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "discover_science@actiivbrand.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Discover Our Science",
+        "person_title": "Founder",
+        "source_url": "https://actiivbrand.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "discovers@actiivbrand.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Discover Our Science",
+        "person_title": "Founder",
+        "source_url": "https://actiivbrand.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "j.reynolds@actiivbrand.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jared Reynolds",
+        "person_title": "Founder",
+        "source_url": "https://actiivbrand.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jared.reynolds@actiivbrand.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jared Reynolds",
+        "person_title": "Founder",
+        "source_url": "https://actiivbrand.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jared@actiivbrand.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jared Reynolds",
+        "person_title": "Founder",
+        "source_url": "https://actiivbrand.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jared_reynolds@actiivbrand.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jared Reynolds",
+        "person_title": "Founder",
+        "source_url": "https://actiivbrand.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jaredr@actiivbrand.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jared Reynolds",
+        "person_title": "Founder",
+        "source_url": "https://actiivbrand.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "reynolds@actiivbrand.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jared Reynolds",
+        "person_title": "Founder",
+        "source_url": "https://actiivbrand.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "science@actiivbrand.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Discover Our Science",
+        "person_title": "Founder",
+        "source_url": "https://actiivbrand.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "v.customer@actiivbrand.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Verified Customer",
+        "person_title": null,
+        "source_url": "https://actiivbrand.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "verified.customer@actiivbrand.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Verified Customer",
+        "person_title": null,
+        "source_url": "https://actiivbrand.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "verified@actiivbrand.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Verified Customer",
+        "person_title": null,
+        "source_url": "https://actiivbrand.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "verified_customer@actiivbrand.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Verified Customer",
+        "person_title": null,
+        "source_url": "https://actiivbrand.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "verifiedc@actiivbrand.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Verified Customer",
+        "person_title": null,
+        "source_url": "https://actiivbrand.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://actiivbrand.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://actiivbrand.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://actiivbrand.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://actiivbrand.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://actiivbrand.com/pages/about-products",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://actiivbrand.com/pages/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://actiivbrand.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://actiivbrand.com/contactus",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://actiivbrand.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Plant-powered thickening and scalp care designed to support healthier-looking, fuller hair. Salon-trusted shampoos, serums, and scalp wellness rituals.",
+    "source_urls": [
+      "https://actiivbrand.com",
+      "https://actiivbrand.com/contactus",
+      "https://actiivbrand.com/about",
+      "https://actiivbrand.com/pages/about",
+      "https://actiivbrand.com/pages/about-products",
+      "https://actiivbrand.com/pages/press",
+      "https://actiivbrand.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "actionbuildings.com",
+    "company_name": "Action Buildings",
+    "website": "https://actionbuildings.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "sales@actionbuildings.com",
+        "confidence": "highest",
+        "source_url": "https://actionbuildings.com/contact-us",
+        "source_type": "archived",
+        "snapshot_date": "2019-11-13",
+        "context_snippet": "(706)-687-2300 sales@actionbuildings.com Portable Building Solutions That Are Built To Last"
+      }
+    ],
+    "role_emails": [
+      "sales@actionbuildings.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://actionbuildings.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://actionbuildings.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://actionbuildings.com/contact-us",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2019-11-13"
+      },
+      {
+        "url": "https://actionbuildings.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://actionbuildings.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://actionbuildings.com/pages/our-locations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://actionbuildings.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://actionbuildings.com/contact-us",
+        "action": "https://actionbuildings.com/contact-us/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Action Buildings, Largest Steel Framed Portable Buildings Manufacturer in Georgia and Alabama.",
+    "source_urls": [
+      "https://actionbuildings.com/contact-us",
+      "https://actionbuildings.com/policies/contact-information"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "actionclutch.com",
+    "company_name": "Action Clutch",
+    "website": "https://actionclutch.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "general@actionclutch.com",
+        "confidence": "high",
+        "source_url": "https://actionclutch.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "12369 Barringer St South El Monte, CA 91733 (323) 269-6051 general@actionclutch.com General inquiries T"
+      },
+      {
+        "address": "sales@actionclutch.com",
+        "confidence": "high",
+        "source_url": "https://actionclutch.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "general@actionclutch.com",
+      "sales@actionclutch.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "alex@actionclutch.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "While Alex",
+        "person_title": "Ceo",
+        "source_url": "https://actionclutch.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "w.alex@actionclutch.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "While Alex",
+        "person_title": "Ceo",
+        "source_url": "https://actionclutch.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "while.alex@actionclutch.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "While Alex",
+        "person_title": "Ceo",
+        "source_url": "https://actionclutch.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "while@actionclutch.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "While Alex",
+        "person_title": "Ceo",
+        "source_url": "https://actionclutch.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "while_alex@actionclutch.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "While Alex",
+        "person_title": "Ceo",
+        "source_url": "https://actionclutch.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "whilea@actionclutch.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "While Alex",
+        "person_title": "Ceo",
+        "source_url": "https://actionclutch.com",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://actionclutch.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://actionclutch.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://actionclutch.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://actionclutch.com/pages/contact-us/?data-tab=sponsorship",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://actionclutch.com/pages/contact-us/?data-tab=tech-support",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Unleash the full potential of your vehicle with Action Clutch's high-performance clutches and flywheels. Engineered for durability and responsiveness, our products are designed to handle everything from daily driving to the rigors of racing. Experience superior control and reliability with Action Cl",
+    "source_urls": [
+      "https://actionclutch.com",
+      "https://actionclutch.com/pages/contact-us",
+      "https://actionclutch.com/pages/about",
+      "https://actionclutch.com/pages/contact-us/?data-tab=sponsorship",
+      "https://actionclutch.com/pages/contact-us/?data-tab=tech-support"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "actionfarmtoys.com",
+    "company_name": "Action Toys",
+    "website": "https://actionfarmtoys.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "lisap@actionfarmtoys.com",
+        "confidence": "highest",
+        "source_url": "https://actionfarmtoys.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "questions or comments, please contact us. ACTION TOYS LISAP@ACTIONFARMTOYS.COM 2274 SE Shiloh Rd. Billings MT 59106 ph 406-651-8199 fa"
+      }
+    ],
+    "role_emails": [
+      "lisap@actionfarmtoys.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://actionfarmtoys.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://actionfarmtoys.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://actionfarmtoys.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://actionfarmtoys.com/pages/about-scales",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://actionfarmtoys.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Looking for a toy store in Billings, MT? Action Toys offers a wide selection of farm and construction toys to scale with the real thing! Call today!",
+    "source_urls": [
+      "https://actionfarmtoys.com",
+      "https://actionfarmtoys.com/pages/about-us",
+      "https://actionfarmtoys.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "actionfiguresandcomics.com",
+    "company_name": "ACTIONFIGURESandCOMICS.com \u2013 ActionFiguresandComics",
+    "website": "https://www.actionfiguresandcomics.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.actionfiguresandcomics.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "ACTIONFIGURESandCOMICS.com over 15,000+ different action figures for sale. From star wars marvel legends dc universe transformers gi joe m.u.s.c.l.e. trek and",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "adammarcjewels.com",
+    "company_name": "Adam Marc",
+    "website": "https://adammarcjewels.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@adammarcjewels.com",
+        "confidence": "high",
+        "source_url": "https://adammarcjewels.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "tcha Privacy Policy and Terms of Service apply. Info@adammarcjewels.com 516-304-5331 83 Middle Neck Rd Great Neck NY 11021"
+      }
+    ],
+    "role_emails": [
+      "info@adammarcjewels.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "namdar@adammarcjewels.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tania Namdar",
+        "person_title": "Founder",
+        "source_url": "https://adammarcjewels.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "t.namdar@adammarcjewels.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tania Namdar",
+        "person_title": "Founder",
+        "source_url": "https://adammarcjewels.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tania.namdar@adammarcjewels.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tania Namdar",
+        "person_title": "Founder",
+        "source_url": "https://adammarcjewels.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tania@adammarcjewels.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tania Namdar",
+        "person_title": "Founder",
+        "source_url": "https://adammarcjewels.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tania_namdar@adammarcjewels.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tania Namdar",
+        "person_title": "Founder",
+        "source_url": "https://adammarcjewels.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tanian@adammarcjewels.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tania Namdar",
+        "person_title": "Founder",
+        "source_url": "https://adammarcjewels.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://adammarcjewels.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://adammarcjewels.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://adammarcjewels.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://adammarcjewels.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://adammarcjewels.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://adammarcjewels.com/pages/contact-us",
+        "action": "/contact#contact-template--21887879053537__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Discover Adam Marc Jewels - Luxury costume jewelry with a fashion forward edge. From statement necklaces and sparkling rings to everyday layers, our pieces bring confidence, style and timeless elegance to every look.",
+    "source_urls": [
+      "https://adammarcjewels.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "adamroa.com",
+    "company_name": "Adam Roa",
+    "website": "https://adamroa.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "team@adamroa.com",
+        "confidence": "high",
+        "source_url": "https://adamroa.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "t with Adam\u2019s work. Fill out the form below, or email us at team@adamroa.com. \u200d For coaching applications, click here \u200d For podcast requ"
+      }
+    ],
+    "role_emails": [
+      "team@adamroa.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://adamroa.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://adamroa.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://adamroa.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2019-10-21"
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://adamroa.com/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Adam Roa is the rare blend of world-class spoken word artist and transformational guide\u2014inviting you into a life that feels like poetry. Through deeply honest art, heart-opening experiences, and soul-aligned mentorship, Adam helps conscious creatives, seekers, and visionaries unlock their truth, emb",
+    "source_urls": [
+      "https://adamroa.com/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 7
+  },
+  {
+    "company_domain": "adamsavage.com",
+    "company_name": "Savage Industries",
+    "website": "https://adamsavage.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://adamsavage.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://adamsavage.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://adamsavage.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://adamsavage.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://adamsavage.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://adamsavage.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://adamsavage.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Adam Savage (MythBusters, Tested, ILM) has created his own line of bags, pouches, apparel and more! Each bag and pouch is made of upcycled and salvaged material, manufactured in the United States, and there are printed and digital plans available so you can make your own.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "adamsdriveshaftoffroad.com",
+    "company_name": "AdamsDriveshaft",
+    "website": "https://www.adamsdriveshaftoffroad.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "a.driveshaft@adamsdriveshaftoffroad.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Adams Driveshaft",
+        "person_title": "President",
+        "source_url": "https://www.adamsdriveshaftoffroad.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "adams.driveshaft@adamsdriveshaftoffroad.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Adams Driveshaft",
+        "person_title": "President",
+        "source_url": "https://www.adamsdriveshaftoffroad.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "adams@adamsdriveshaftoffroad.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Adams Driveshaft",
+        "person_title": "President",
+        "source_url": "https://www.adamsdriveshaftoffroad.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "adams_driveshaft@adamsdriveshaftoffroad.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Adams Driveshaft",
+        "person_title": "President",
+        "source_url": "https://www.adamsdriveshaftoffroad.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "adamsd@adamsdriveshaftoffroad.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Adams Driveshaft",
+        "person_title": "President",
+        "source_url": "https://www.adamsdriveshaftoffroad.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "c.travis@adamsdriveshaftoffroad.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Clinton Travis",
+        "person_title": null,
+        "source_url": "https://www.adamsdriveshaftoffroad.com/blogs/the-driveline-blog/matts-offroad-games-how-adams-driveshafts-supports-the-the-matts-offroad-team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "clinton.travis@adamsdriveshaftoffroad.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Clinton Travis",
+        "person_title": null,
+        "source_url": "https://www.adamsdriveshaftoffroad.com/blogs/the-driveline-blog/matts-offroad-games-how-adams-driveshafts-supports-the-the-matts-offroad-team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "clinton@adamsdriveshaftoffroad.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Clinton Travis",
+        "person_title": null,
+        "source_url": "https://www.adamsdriveshaftoffroad.com/blogs/the-driveline-blog/matts-offroad-games-how-adams-driveshafts-supports-the-the-matts-offroad-team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "clinton_travis@adamsdriveshaftoffroad.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Clinton Travis",
+        "person_title": null,
+        "source_url": "https://www.adamsdriveshaftoffroad.com/blogs/the-driveline-blog/matts-offroad-games-how-adams-driveshafts-supports-the-the-matts-offroad-team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "clintont@adamsdriveshaftoffroad.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Clinton Travis",
+        "person_title": null,
+        "source_url": "https://www.adamsdriveshaftoffroad.com/blogs/the-driveline-blog/matts-offroad-games-how-adams-driveshafts-supports-the-the-matts-offroad-team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "driveshaft@adamsdriveshaftoffroad.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Adams Driveshaft",
+        "person_title": "President",
+        "source_url": "https://www.adamsdriveshaftoffroad.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "travis@adamsdriveshaftoffroad.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Clinton Travis",
+        "person_title": null,
+        "source_url": "https://www.adamsdriveshaftoffroad.com/blogs/the-driveline-blog/matts-offroad-games-how-adams-driveshafts-supports-the-the-matts-offroad-team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.adamsdriveshaftoffroad.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.adamsdriveshaftoffroad.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.adamsdriveshaftoffroad.com/pages/company-jeeps",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.adamsdriveshaftoffroad.com/blogs/the-driveline-blog/matts-offroad-games-how-adams-driveshafts-supports-the-the-matts-offroad-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.adamsdriveshaftoffroad.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.adamsdriveshaftoffroad.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.adamsdriveshaftoffroad.com/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.adamsdriveshaftoffroad.com/blogs/the-driveline-blog/matts-offroad-games-how-adams-driveshafts-supports-the-the-matts-offroad-team",
+        "action": "/blogs/the-driveline-blog/matts-offroad-games-how-adams-driveshafts-supports-the-the-matts-offroad-team/comments#comment_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.adamsdriveshaftoffroad.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Adams Driveshaft offers premium driveshaft upgrades tailored for Jeep JK, JL, JT models, and more. Upgrade your off-road experience with our durable, high-performance driveshafts designed for the ultimate adventure. Visit now to transform your Jeep!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "adamsfootwear.com",
+    "company_name": "AdamsFootwear USA",
+    "website": "https://adamsfootwear.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://adamsfootwear.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://adamsfootwear.com/collections/sweat-support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://adamsfootwear.com/pages/about-us-contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Premium boxing shoes built for power, speed, and comfort. Whether you\u2019re a pro or just training, experience unmatched performance with Adams Footwear.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "adamsre.com",
+    "company_name": "www.adamsre.com",
+    "website": "https://www.adamsre.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": "Welcome to Adams & Company Real Estate, a forward-thinking commercial real estate firm providing brokerage, property management and consulting services in Manhattan since 1920.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "adamtrest.com",
+    "company_name": "Adam Trest Studio",
+    "website": "https://adamtrest.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@adamtrest.com",
+        "confidence": "highest",
+        "source_url": "https://adamtrest.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "320 West Oak Street Laurel, MS 39440 info@adamtrest.com Schedule a Studio Visit Loading ima"
+      }
+    ],
+    "role_emails": [
+      "info@adamtrest.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://adamtrest.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://adamtrest.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2011-09-23"
+      },
+      {
+        "url": "https://adamtrest.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://adamtrest.com/pages/contact-1",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://adamtrest.com/pages/contact-1",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Adam Trest Studio",
+    "source_urls": [
+      "https://adamtrest.com",
+      "https://adamtrest.com/pages/about",
+      "https://adamtrest.com/pages/contact-1"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "adamturman.com",
+    "company_name": "Turman Artwork Company",
+    "website": "https://www.adamturman.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@adamturman.com",
+        "confidence": "highest",
+        "source_url": "https://www.adamturman.com/pages/media-room",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "more about me, visit the About Adam page or email me at info@adamturman.com . Minnesota State Fair"
+      }
+    ],
+    "role_emails": [
+      "info@adamturman.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "art@adamturman.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Golden Valley Art",
+        "person_title": "Owner",
+        "source_url": "https://www.adamturman.com/pages/media-room",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "g.art@adamturman.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Golden Valley Art",
+        "person_title": "Owner",
+        "source_url": "https://www.adamturman.com/pages/media-room",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "golden.art@adamturman.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Golden Valley Art",
+        "person_title": "Owner",
+        "source_url": "https://www.adamturman.com/pages/media-room",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "golden@adamturman.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Golden Valley Art",
+        "person_title": "Owner",
+        "source_url": "https://www.adamturman.com/pages/media-room",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "golden_art@adamturman.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Golden Valley Art",
+        "person_title": "Owner",
+        "source_url": "https://www.adamturman.com/pages/media-room",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "goldena@adamturman.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Golden Valley Art",
+        "person_title": "Owner",
+        "source_url": "https://www.adamturman.com/pages/media-room",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.adamturman.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.adamturman.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.adamturman.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.adamturman.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.adamturman.com/pages/media-room",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.adamturman.com/pages/join-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.adamturman.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.adamturman.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Adam Turman is an Artist, Muralist, and Screen Printer from Minneapolis, Minnesota. Shop screen prints, paintings, and merch, and contact Adam about custom services.",
+    "source_urls": [
+      "https://www.adamturman.com/pages/media-room",
+      "https://www.adamturman.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "adamwest.com",
+    "company_name": "Adam West Official Website",
+    "website": "https://adamwest.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "alfred@adamwest.com",
+        "confidence": "highest",
+        "source_url": "https://adamwest.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2018-09-11",
+        "context_snippet": "West Enterprises PO Box 3477 Ketchum, ID 83340 Email: alfred@adamwest.com About Us AUTOGRAPHED PHOTOS Biography"
+      },
+      {
+        "address": "orders@adamwest.com",
+        "confidence": "highest",
+        "source_url": "https://adamwest.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "have any questions about your order, please direct them to orders@adamwest.com. Thank you. Quick links Search"
+      }
+    ],
+    "role_emails": [
+      "alfred@adamwest.com",
+      "orders@adamwest.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://adamwest.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://adamwest.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2018-09-11"
+      },
+      {
+        "url": "https://adamwest.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "The official website and store of Adam West, American icon, classic Batman \"The Bright Knight\" and TV legend. The only source for authentic Batman TV series autographed photos and memorabilia. Owned and operated by the Adam West estate and family.",
+    "source_urls": [
+      "https://adamwest.com/about-us",
+      "https://adamwest.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "adaptclothing.com",
+    "company_name": "Adapt.",
+    "website": "https://adaptclothing.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "communicate@adaptclothing.com",
+        "confidence": "highest",
+        "source_url": "https://adaptclothing.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2008-06-12",
+        "context_snippet": "site, or any other inquiries feel free to drop us a note. communicate@adaptclothing.com Myspace wire about product reta"
+      },
+      {
+        "address": "info@adaptclothing.com",
+        "confidence": "high",
+        "source_url": "https://adaptclothing.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "hoose this option at checkout). Business / Wholesale :: info@adaptclothing.com Quick Links Adapt Stores Ab"
+      },
+      {
+        "address": "support@adaptclothing.com",
+        "confidence": "high",
+        "source_url": "https://adaptclothing.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "cts, Discounts and other exclusives. Adapt Webstore :: support@adaptclothing.com Returns / exchanges can be sent to :: Adapt ATTN: Return"
+      }
+    ],
+    "role_emails": [
+      "communicate@adaptclothing.com",
+      "info@adaptclothing.com",
+      "support@adaptclothing.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://adaptclothing.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://adaptclothing.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2008-06-12"
+      },
+      {
+        "url": "https://adaptclothing.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2008-06-12"
+      },
+      {
+        "url": "https://adaptclothing.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://adaptclothing.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://adaptclothing.com/collections/asian-support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://adaptclothing.com/collections/frontpage/products/cta-low-pro-mens-cypress-a1-tee",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "The Adapt Clothing Webstore :: Adapt San Francisco :: Adapt Advancers",
+    "source_urls": [
+      "https://adaptclothing.com/contact",
+      "https://adaptclothing.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "adapted.app",
+    "company_name": "Adapted",
+    "website": "https://adapted.app",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@adapted.app",
+        "confidence": "highest",
+        "source_url": "https://adapted.app",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "hello@adapted.app"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://adapted.app",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Adapted builds evidence-based prehab and mobility programs personalized to your sport, injury history, and goals so you can stay ready.",
+    "source_urls": [
+      "https://adapted.app"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 7
+  },
+  {
+    "company_domain": "adaptivetactical.com",
+    "company_name": "Adaptive Tactical",
+    "website": "https://adaptivetactical.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@adaptivetactical.com",
+        "confidence": "highest",
+        "source_url": "https://adaptivetactical.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Contact info@adaptivetactical.com (208) 442-8000 Payment methods"
+      },
+      {
+        "address": "onlinestore@adaptivetactical.com",
+        "confidence": "high",
+        "source_url": "https://adaptivetactical.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@adaptivetactical.com",
+      "onlinestore@adaptivetactical.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://adaptivetactical.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://adaptivetactical.com/pages/contact-adaptive-tactical",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://adaptivetactical.com/pages/venom-support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://adaptivetactical.com/pages/about-adaptive-tactical",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://adaptivetactical.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://adaptivetactical.com/pages/contact-adaptive-tactical",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Adaptive Tactical designs firearm accessories which improve speed, performance, and versatility for military, law enforcement, home defense, hunting, and sport applications.",
+    "source_urls": [
+      "https://adaptivetactical.com",
+      "https://adaptivetactical.com/pages/contact-adaptive-tactical",
+      "https://adaptivetactical.com/pages/venom-support",
+      "https://adaptivetactical.com/pages/about-adaptive-tactical",
+      "https://adaptivetactical.com/policies/contact-information"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "adaptnaturals.com",
+    "company_name": "Adapt Naturals",
+    "website": "https://adaptnaturals.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@adaptnaturals.com",
+        "confidence": "highest",
+        "source_url": "https://adaptnaturals.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ently asked questions. If you still need help, email us at support@adaptnaturals.com . Contact Us"
+      }
+    ],
+    "role_emails": [
+      "support@adaptnaturals.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "c.kresser@adaptnaturals.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Chris Kresser",
+        "person_title": "Founder",
+        "source_url": "https://adaptnaturals.com/pages/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "chris.kresser@adaptnaturals.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Chris Kresser",
+        "person_title": "Founder",
+        "source_url": "https://adaptnaturals.com/pages/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "chris@adaptnaturals.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Chris Kresser",
+        "person_title": "Founder",
+        "source_url": "https://adaptnaturals.com/pages/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "chris_kresser@adaptnaturals.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Chris Kresser",
+        "person_title": "Founder",
+        "source_url": "https://adaptnaturals.com/pages/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "chrisk@adaptnaturals.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Chris Kresser",
+        "person_title": "Founder",
+        "source_url": "https://adaptnaturals.com/pages/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "clinician@adaptnaturals.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Functional Medicine Clinician",
+        "person_title": "Founder",
+        "source_url": "https://adaptnaturals.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "f.clinician@adaptnaturals.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Functional Medicine Clinician",
+        "person_title": "Founder",
+        "source_url": "https://adaptnaturals.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "functional.clinician@adaptnaturals.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Functional Medicine Clinician",
+        "person_title": "Founder",
+        "source_url": "https://adaptnaturals.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "functional@adaptnaturals.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Functional Medicine Clinician",
+        "person_title": "Founder",
+        "source_url": "https://adaptnaturals.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "functional_clinician@adaptnaturals.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Functional Medicine Clinician",
+        "person_title": "Founder",
+        "source_url": "https://adaptnaturals.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "functionalc@adaptnaturals.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Functional Medicine Clinician",
+        "person_title": "Founder",
+        "source_url": "https://adaptnaturals.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kresser@adaptnaturals.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Chris Kresser",
+        "person_title": "Founder",
+        "source_url": "https://adaptnaturals.com/pages/about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://adaptnaturals.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://adaptnaturals.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://adaptnaturals.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Supplements formulated using the principles of evolutionary biology and modern research to close the nutrient gaps we face today and help you feel and perform your best.",
+    "source_urls": [
+      "https://adaptnaturals.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "adarashmarket.com",
+    "company_name": "Adarash Market",
+    "website": "https://adarashmarket.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://adarashmarket.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://adarashmarket.com/pages/locations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://adarashmarket.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://adarashmarket.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "A wide variety of tea spices to enhance your tea drinking experience",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "adasa.com",
+    "company_name": "ADASA",
+    "website": "https://adasa.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Email Us",
+        "title": null,
+        "email": "cs@adasa.com",
+        "source_url": "https://adasa.com"
+      }
+    ],
+    "people": [
+      {
+        "name": "Email Us",
+        "title": null,
+        "email": "cs@adasa.com",
+        "source_url": "https://adasa.com"
+      }
+    ],
+    "emails": [
+      {
+        "address": "cs@adasa.com",
+        "confidence": "highest",
+        "source_url": "https://adasa.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "e B, Las Vegas, NV - 89118 USA Tel: (844) 908-2757 Email: cs@adasa.com Newsletter Newsletter Subscri"
+      }
+    ],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://adasa.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://adasa.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://adasa.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2001-10-06"
+      },
+      {
+        "url": "https://adasa.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://adasa.com/pages/about-ra",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://adasa.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://adasa.com/contact",
+        "action": "/contact#contact-template--17911651598430__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://adasa.com/pages/contact-us",
+        "action": "/contact#contact-template--17911651598430__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Find your perfect dress for your next big occasion! Pick your favorite designer dresses for prom, homecoming, weddings, cocktail parties, and events.",
+    "source_urls": [
+      "https://adasa.com",
+      "https://adasa.com/contact",
+      "https://adasa.com/pages/contact-us",
+      "https://adasa.com/pages/about-ra",
+      "https://adasa.com/pages/about"
+    ],
+    "reason": null,
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "adasigndepot.com",
+    "company_name": "ADA Sign Depot",
+    "website": "https://www.adasigndepot.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "sales@adasigndepot.com",
+        "confidence": "highest",
+        "source_url": "https://www.adasigndepot.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Mounting Guidelines PHONE: 1-858-385-9095 EMAIL: sales@adasigndepot.com Name Email Phone Nu"
+      }
+    ],
+    "role_emails": [
+      "sales@adasigndepot.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "a.admin@adasigndepot.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "ADA-Sign-Depot Admin",
+        "person_title": null,
+        "source_url": "https://www.adasigndepot.com/contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "adasigndepot.admin@adasigndepot.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "ADA-Sign-Depot Admin",
+        "person_title": null,
+        "source_url": "https://www.adasigndepot.com/contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "adasigndepot@adasigndepot.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "ADA-Sign-Depot Admin",
+        "person_title": null,
+        "source_url": "https://www.adasigndepot.com/contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "adasigndepot_admin@adasigndepot.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "ADA-Sign-Depot Admin",
+        "person_title": null,
+        "source_url": "https://www.adasigndepot.com/contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "adasigndepota@adasigndepot.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "ADA-Sign-Depot Admin",
+        "person_title": null,
+        "source_url": "https://www.adasigndepot.com/contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "admin@adasigndepot.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "ADA-Sign-Depot Admin",
+        "person_title": null,
+        "source_url": "https://www.adasigndepot.com/contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "c.miles@adasigndepot.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Carolyn Miles",
+        "person_title": "Ceo",
+        "source_url": "https://www.adasigndepot.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "carolyn.miles@adasigndepot.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Carolyn Miles",
+        "person_title": "Ceo",
+        "source_url": "https://www.adasigndepot.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "carolyn@adasigndepot.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Carolyn Miles",
+        "person_title": "Ceo",
+        "source_url": "https://www.adasigndepot.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "carolyn_miles@adasigndepot.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Carolyn Miles",
+        "person_title": "Ceo",
+        "source_url": "https://www.adasigndepot.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "carolynm@adasigndepot.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Carolyn Miles",
+        "person_title": "Ceo",
+        "source_url": "https://www.adasigndepot.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "miles@adasigndepot.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Carolyn Miles",
+        "person_title": "Ceo",
+        "source_url": "https://www.adasigndepot.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.adasigndepot.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.adasigndepot.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.adasigndepot.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.adasigndepot.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.adasigndepot.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.adasigndepot.com/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.adasigndepot.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "ADA Sign Depot is the Trusted Source for ADA Signs, Restroom Signs, Handicap Parking Signs, ADA Pads and Truncated Domes. American Made. ADA Compliant. Guaranteed. Every Order Ships Free.",
+    "source_urls": [
+      "https://www.adasigndepot.com/contact",
+      "https://www.adasigndepot.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "adcohearing.com",
+    "company_name": "adcohearing.com",
+    "website": "https://adcohearing.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": "ADCO Hearing Products is your center for your auditory enhancement needs. Browse our selection of high quality products for the deaf and hard of hearing.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  }
+]
