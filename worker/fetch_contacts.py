@@ -34,6 +34,12 @@ Output: JSON list of per-company results with:
     company_summary, source_urls, pages_fetched
     contacts: legacy alias of people (kept for the dispatcher).
 
+Iteration 2 adds: JSON-LD Person extraction (founder/employee entities),
+GitHub org public-email fallback (dev-tool companies), URL-decoded emails
+(no more %20 artifacts), person-name quality gates (org/title noise
+filtered from candidates), and an identity-check fallback for short brand
+names ("AWE", "4AM", "222") so short-name companies are not auto-rejected.
+
 status is "found" (>=1 named contact), "not_found", or "error".
 
 Extraction techniques (adapted from public research + Fox's 2026-09-25 fixes):
@@ -104,7 +110,7 @@ import re
 import sys
 import time
 from pathlib import Path
-from urllib.parse import urljoin, urlparse
+from urllib.parse import urljoin, urlparse, unquote
 from urllib.robotparser import RobotFileParser
 
 from bs4 import BeautifulSoup
@@ -419,27 +425,41 @@ def website_variants(value: str) -> list[str]:
     return variants
 
 
+def _name_key(company_name: str) -> str:
+    """Full company name, alphanumeric only, lowercase."""
+    return re.sub(r"[^a-z0-9]", "", company_name.lower())
+
+
+def _name_tokens(company_name: str) -> list[str]:
+    return [
+        t for t in re.findall(r"[a-z0-9]+", company_name.lower())
+        if len(t) >= 4 and t not in NAME_STOPWORDS
+    ]
+
+
 def company_name_matches_domain(company_name: str, url: str) -> bool:
     host = normalized_host(url)
     if not host:
         return False
-    tokens = [
-        t for t in re.findall(r"[a-z0-9]+", company_name.lower())
-        if len(t) >= 4 and t not in NAME_STOPWORDS
-    ]
     compact_host = host.replace(".", "").replace("-", "")
-    return any(token in compact_host for token in tokens)
+    # Iteration-2: short brand names ("AWE", "4AM", "222") have no >=4-char
+    # tokens, so also accept the full normalized name as a substring.
+    key = _name_key(company_name)
+    if (len(key) >= 3 and key not in NAME_STOPWORDS
+            and (key in compact_host or compact_host in key)):
+        return True
+    return any(token in compact_host for token in _name_tokens(company_name))
 
 
 def identity_matches_content(company_name: str, text: str) -> bool:
-    tokens = [
-        t for t in re.findall(r"[a-z0-9]+", company_name.lower())
-        if len(t) >= 4 and t not in NAME_STOPWORDS
-    ]
     normalized = re.sub(r"[^a-z0-9]+", " ", text.lower())
+    key = _name_key(company_name)
+    if (len(key) >= 3 and key not in NAME_STOPWORDS
+            and key in normalized.replace(" ", "")):
+        return True
     return any(
         re.search(rf"(?:^|\s){re.escape(token)}(?:\s|$)", normalized)
-        for token in tokens
+        for token in _name_tokens(company_name)
     )
 
 
@@ -470,10 +490,14 @@ def deobfuscate_emails(text: str) -> str:
 
 
 def extract_exact_emails(text: str) -> list[str]:
-    """Emails present verbatim (after HTML-entity decoding)."""
+    """Emails present verbatim (after HTML-entity decoding).
+
+    URL-encoded artifacts (mailto:%20info@example.com) are unquoted so
+    "%20info@example.com" becomes "info@example.com".
+    """
     seen: list[str] = []
     for raw in EMAIL_RE.findall(html_module.unescape(text or "")):
-        email = raw.strip().strip(".,;:").lower()
+        email = unquote(raw.strip()).strip().strip(".,;:").lower()
         if email and email not in seen and _looks_valid(email):
             seen.append(email)
     return seen
@@ -483,7 +507,7 @@ def extract_deobfuscated_emails(text: str, exact: set[str]) -> list[str]:
     """Emails only recoverable via de-obfuscation (not verbatim)."""
     seen: list[str] = []
     for raw in EMAIL_RE.findall(deobfuscate_emails(text or "")):
-        email = raw.strip().strip(".,;:").lower()
+        email = unquote(raw.strip()).strip().strip(".,;:").lower()
         if (email and email not in seen and email not in exact
                 and _looks_valid(email)):
             seen.append(email)
@@ -819,7 +843,7 @@ def find_titled_people(html: str) -> list[dict]:
             candidates += [n for n in _names_in_line(lines[i - 1])
                            if n not in candidates]
         for name in candidates:
-            if name.lower() not in seen:
+            if name.lower() not in seen and looks_like_person_name(name):
                 seen.add(name.lower())
                 people.append({"name": name, "title": keyword.title()})
                 break
@@ -835,7 +859,7 @@ def mailto_hits(html: str) -> list[dict]:
         href = str(anchor["href"]).strip()
         if not href.lower().startswith("mailto:"):
             continue
-        email = href[7:].split("?")[0].strip().lower()
+        email = unquote(href[7:].split("?")[0].strip()).strip().lower()
         if not _looks_valid(email):
             continue
         name = _clean_name(anchor.get_text(" ", strip=True))
@@ -913,6 +937,83 @@ def extra_email_sources(html: str) -> dict[str, list[str]]:
     return {"high": high, "medium": medium}
 
 
+# Tokens that mark a "name" as an organization/place, not a person
+# (iteration-2 candidate quality gate).
+ORG_NAME_TOKENS = {
+    "university", "college", "school", "academy", "institute", "hospital",
+    "clinic", "church", "temple", "mosque", "association", "society",
+    "foundation", "federation", "club", "union",
+}
+# A "name" ending in one of these is a job title, not a person.
+TITLE_TAIL_WORDS = {
+    "director", "manager", "designer", "developer", "engineer",
+    "specialist", "coordinator", "assistant", "associate", "executive",
+    "president", "officer", "founder", "owner", "partner", "lead", "head",
+    "chief", "consultant", "analyst", "strategist", "administrator",
+}
+
+
+def looks_like_person_name(name: str) -> bool:
+    """Cheap guard against org/place/title strings misread as names.
+
+    Iteration-1 produced candidates for "Presbyterian University",
+    "San Francisco" is unfixable cheaply (kept as known residual noise),
+    and "Art Director". This gate kills the org and title cases.
+    """
+    words = name.lower().split()
+    if not words:
+        return False
+    if any(word in ORG_NAME_TOKENS for word in words):
+        return False
+    if words[-1] in TITLE_TAIL_WORDS:
+        return False
+    return True
+
+
+def jsonld_people(html: str) -> list[dict]:
+    """Named people from JSON-LD structured data.
+
+    Organization schemas often publish founder/employee Person entities,
+    e.g. {"@type": "Organization", "founder": {"@type": "Person",
+    "name": "Jane Smith"}}. These are site-published names; they feed the
+    same people pipeline (and candidates when no email ties to them).
+    """
+    people: list[dict] = []
+    seen: set[str] = set()
+
+    def is_person(node) -> bool:
+        if not isinstance(node, dict):
+            return False
+        types = node.get("@type")
+        if isinstance(types, str):
+            types = [types]
+        return any(str(t).lower() == "person" for t in (types or []))
+
+    def walk(node, parent_key: str = "") -> None:
+        if isinstance(node, dict):
+            for key, value in node.items():
+                if is_person(value):
+                    name = _clean_name(str(value.get("name") or ""))
+                    if (name and name.lower() not in seen
+                            and looks_like_person_name(name)):
+                        seen.add(name.lower())
+                        title = ("Founder" if "founder" in
+                                 str(key).lower() else None)
+                        people.append({"name": name, "title": title})
+                walk(value, str(key))
+        elif isinstance(node, list):
+            for item in node:
+                walk(item, parent_key)
+
+    soup = BeautifulSoup(html, "html.parser")
+    for tag in soup.find_all("script", {"type": "application/ld+json"}):
+        try:
+            walk(json.loads(tag.string or ""))
+        except Exception:
+            continue
+    return people
+
+
 def find_team_link_people(html: str) -> list[dict]:
     """People from team/about/leadership link cards.
 
@@ -932,6 +1033,8 @@ def find_team_link_people(html: str) -> list[dict]:
             continue
         name = _clean_name(anchor.get_text(" ", strip=True))
         if not name or name.lower() in seen:
+            continue
+        if not looks_like_person_name(name):
             continue
         title: str | None = None
         parent = anchor
@@ -963,6 +1066,8 @@ def guess_email_candidates(name: str, domain: str) -> list[str]:
     company's own domain. Returned for email_candidates[] only; never
     treated as confirmed contacts.
     """
+    if not looks_like_person_name(name):
+        return []
     parts = [re.sub(r"[^a-z]", "", piece)
              for piece in name.lower().split()]
     parts = [piece for piece in parts if piece]
@@ -1015,7 +1120,7 @@ def associate_contacts(
     mailtos = mailto_hits(html)
     titled = find_titled_people(html)
     titled_names = {p["name"].lower() for p in titled}
-    for person in find_team_link_people(html):
+    for person in find_team_link_people(html) + jsonld_people(html):
         if person["name"].lower() not in titled_names:
             titled.append(person)
             titled_names.add(person["name"].lower())
@@ -1152,6 +1257,61 @@ def fetch_page_for_target(
         if archived["ok"]:
             return archived
     return result
+
+
+GITHUB_ORG_RE = re.compile(
+    r"github\.com/([A-Za-z0-9](?:[A-Za-z0-9-]{0,37}[A-Za-z0-9])?)"
+    r"(?:/|[\"'<>\s]|$)", re.IGNORECASE)
+GITHUB_NON_ORG_PATHS = {
+    "site", "collections", "topics", "trending", "marketplace",
+    "sponsors", "features", "pricing", "login", "join",
+}
+
+
+def github_org_fallback(session, page_records: list, home_url: str) -> list[dict]:
+    """Public contact email from the site's linked GitHub org.
+
+    Iteration-2 fallback for dev-tool companies: many publish a contact
+    email on their GitHub org profile (api.github.com/orgs/{org}.email).
+    Only attempted when no emails were found on the site itself. One API
+    call per domain at most; graceful on rate limits or missing email.
+
+    The GitHub API is a sanctioned programmatic interface (its own ToS),
+    not a crawled page, so the site's robots.txt does not govern it.
+    """
+    org: str | None = None
+    for _url, html, _status, _source in page_records:
+        for match in GITHUB_ORG_RE.finditer(html or ""):
+            candidate = match.group(1)
+            if candidate.lower() not in GITHUB_NON_ORG_PATHS:
+                org = candidate
+                break
+        if org:
+            break
+    if not org:
+        return []
+    try:
+        resp = session.get(f"https://api.github.com/orgs/{org}",
+                           timeout=REQUEST_TIMEOUT)
+    except Exception:
+        return []
+    if resp.status_code != 200:
+        return []
+    try:
+        email = str(resp.json().get("email") or "").strip().lower()
+    except Exception:
+        return []
+    if (email and _looks_valid(email)
+            and email_matches_website_domain(email, home_url)):
+        return [{
+            "address": email,
+            "confidence": "high",
+            "source_url": f"https://github.com/{org}",
+            "source_type": "live",
+            "snapshot_date": None,
+            "context_snippet": f"GitHub org {org} public email",
+        }]
+    return []
 
 
 def harvest_pages(
@@ -1364,6 +1524,21 @@ def discover_one(
                     for url, html, source_type, snapshot_date in pages
                 ]
                 harvest = harvest_pages(company_name, home_url, combined)
+
+        # Iteration-2 GitHub org fallback (dev-tool companies): only when
+        # no emails were found on the site itself.
+        if not harvest["emails"] and not harvest["role_emails"]:
+            for entry in github_org_fallback(session, pages, home_url):
+                known = {e["address"] for e in harvest["emails"]}
+                if entry["address"] not in known:
+                    harvest["emails"].append(entry)
+                    harvest["role_emails"].append(entry["address"])
+            harvest["emails"] = sorted(
+                harvest["emails"],
+                key=lambda h: (-CONFIDENCE_RANK[h["confidence"]],
+                               h["address"]),
+            )
+            harvest["role_emails"] = sorted(set(harvest["role_emails"]))
 
         people = harvest["people"]
         base["people"] = people
