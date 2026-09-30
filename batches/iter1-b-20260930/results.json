@@ -1,0 +1,1739 @@
+[
+  {
+    "company_domain": "apluslift.com",
+    "company_name": "APlusLift",
+    "website": "https://www.apluslift.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "help@apluslift.com",
+        "confidence": "highest",
+        "source_url": "https://www.apluslift.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "800-616-9618 Text: 425-300-2628 help@apluslift.com Free shipping to most areas in the lower 48"
+      }
+    ],
+    "role_emails": [
+      "help@apluslift.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.apluslift.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.apluslift.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.apluslift.com/pages/warehouse-locations-1",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "APlusLift sells 2-post car lifts, 4-post car lifts, scissor lifts, motorcycle lift tables, and their parts. All car lifts/auto hoists are third-party certified. Warehouses in AL, CA, FL, IL, MO, NC, OH, PA, TX, and WA.",
+    "source_urls": [
+      "https://www.apluslift.com",
+      "https://www.apluslift.com/pages/about",
+      "https://www.apluslift.com/pages/warehouse-locations-1"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "bowhunting.com",
+    "company_name": "Bowhunting.com",
+    "website": "https://shop.bowhunting.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://shop.bowhunting.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.bowhunting.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://shop.bowhunting.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Stock up on your official Bowhunting.com and Bowhunt or Die gear including hats, shirts, stickers, wristbands and much more.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "biddymurphy.com",
+    "company_name": "Biddy Murphy Irish Gifts",
+    "website": "https://www.biddymurphy.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customerservice@biddymurphy.com",
+        "confidence": "highest",
+        "source_url": "https://www.biddymurphy.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "person: 8am-9pm EST 269-639-8585 customerservice@biddymurphy.com Fb Tw Pin Ins"
+      }
+    ],
+    "role_emails": [
+      "customerservice@biddymurphy.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.biddymurphy.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.biddymurphy.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.biddymurphy.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2012-03-29"
+      },
+      {
+        "url": "https://www.biddymurphy.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.biddymurphy.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.biddymurphy.com/blogs/dia-duit/mother-s-day-memories-tough-times-shape-people-1",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.biddymurphy.com/pages/about-jewelry-hallmarking",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.biddymurphy.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.biddymurphy.com/blogs/dia-duit/mother-s-day-memories-tough-times-shape-people-1",
+        "action": "/blogs/dia-duit/mother-s-day-memories-tough-times-shape-people-1/comments#comment_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Looking for authentic Irish jewelry, tweed caps, lambswool scarves, Aran sweaters, wool blankets, home decor, blessings and other products crafted by Irish artisans? Biddy Murphy is a small business that shares the joy of Ireland through authentic Irish goods & gifts. Free shipping, exchanges and no",
+    "source_urls": [
+      "https://www.biddymurphy.com",
+      "https://www.biddymurphy.com/contact",
+      "https://www.biddymurphy.com/about-us",
+      "https://www.biddymurphy.com/pages/contact-us",
+      "https://www.biddymurphy.com/pages/about-us",
+      "https://www.biddymurphy.com/blogs/dia-duit/mother-s-day-memories-tough-times-shape-people-1",
+      "https://www.biddymurphy.com/pages/about-jewelry-hallmarking"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "asianamericangirlclub.com",
+    "company_name": "Asian American Girl Club",
+    "website": "https://asianamericangirlclub.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://asianamericangirlclub.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://asianamericangirlclub.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://asianamericangirlclub.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "At Asian American Girl Club, we\u2019re building a community where every young person sees themselves reflected, feels unstoppable, and is empowered to lead boldly. Here, no one stands alone and possibilities are limitless.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "balance7.com",
+    "company_name": "Balance7",
+    "website": "https://balance7.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "robots_disallowed",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "beautbeautyco.com",
+    "company_name": "beaut.beautyco.",
+    "website": "https://beautbeautyco.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hi@beautbeautyco.com",
+        "confidence": "highest",
+        "source_url": "https://beautbeautyco.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Contact Us Fill out the form below or email us: hi@beautbeautyco.com Name Email Phon"
+      }
+    ],
+    "role_emails": [
+      "hi@beautbeautyco.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "belleville@beautbeautyco.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Carol Belleville",
+        "person_title": "Founder",
+        "source_url": "https://beautbeautyco.com/pages/about-us-1",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "c.belleville@beautbeautyco.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Carol Belleville",
+        "person_title": "Founder",
+        "source_url": "https://beautbeautyco.com/pages/about-us-1",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "carol.belleville@beautbeautyco.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Carol Belleville",
+        "person_title": "Founder",
+        "source_url": "https://beautbeautyco.com/pages/about-us-1",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "carol@beautbeautyco.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Carol Belleville",
+        "person_title": "Founder",
+        "source_url": "https://beautbeautyco.com/pages/about-us-1",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "carol_belleville@beautbeautyco.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Carol Belleville",
+        "person_title": "Founder",
+        "source_url": "https://beautbeautyco.com/pages/about-us-1",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "carolb@beautbeautyco.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Carol Belleville",
+        "person_title": "Founder",
+        "source_url": "https://beautbeautyco.com/pages/about-us-1",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://beautbeautyco.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beautbeautyco.com/pages/about-us-1",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beautbeautyco.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://beautbeautyco.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Shop your ultimate self-care routine with beaut.beautyco's luxurious line of self care and beauty products. Our effective skincare, teeth whitening and self care essentials are designed to help you look and feel your best. \ud83d\udc97",
+    "source_urls": [
+      "https://beautbeautyco.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "arpeggiobyob.com",
+    "company_name": "Arpeggio Restaurant",
+    "website": "https://arpeggiobyob.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@arpeggiobyob.com",
+        "confidence": "highest",
+        "source_url": "https://arpeggiobyob.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Phone 215.646.5055 Email info@arpeggiobyob.com Explore"
+      },
+      {
+        "address": "mary@arpeggiobyob.com",
+        "confidence": "highest",
+        "source_url": "https://arpeggiobyob.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2019-12-08",
+        "context_snippet": "Spring House, PA 19477 Phone: 215.646.5055 Email: mary@arpeggiobyob.com HOURS Monday \u2014 Tuesday: 11am \u20143pm \u2022 4pm- 9:00"
+      }
+    ],
+    "role_emails": [
+      "info@arpeggiobyob.com",
+      "mary@arpeggiobyob.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://arpeggiobyob.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://arpeggiobyob.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://arpeggiobyob.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2019-12-08"
+      },
+      {
+        "url": "https://arpeggiobyob.com/contact-arpeggio-byob/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Enjoy homemade Mediterranean cuisine at Arpeggio BYOB in Spring House, PA. Family-owned since 1995. Dine in, order online, cater or plan a private event.",
+    "source_urls": [
+      "https://arpeggiobyob.com",
+      "https://arpeggiobyob.com/contact",
+      "https://arpeggiobyob.com/about",
+      "https://arpeggiobyob.com/contact-arpeggio-byob/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "ashedesign.com",
+    "company_name": "PHOTOSHOP TEMPLATES \u2013 AsheDesign",
+    "website": "https://ashedesign.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "a.director@ashedesign.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Art Director",
+        "person_title": "Owner",
+        "source_url": "https://ashedesign.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2016-07-15"
+      },
+      {
+        "address": "art.director@ashedesign.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Art Director",
+        "person_title": "Owner",
+        "source_url": "https://ashedesign.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2016-07-15"
+      },
+      {
+        "address": "art@ashedesign.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Art Director",
+        "person_title": "Owner",
+        "source_url": "https://ashedesign.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2016-07-15"
+      },
+      {
+        "address": "art_director@ashedesign.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Art Director",
+        "person_title": "Owner",
+        "source_url": "https://ashedesign.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2016-07-15"
+      },
+      {
+        "address": "artd@ashedesign.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Art Director",
+        "person_title": "Owner",
+        "source_url": "https://ashedesign.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2016-07-15"
+      },
+      {
+        "address": "director@ashedesign.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Art Director",
+        "person_title": "Owner",
+        "source_url": "https://ashedesign.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2016-07-15"
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://ashedesign.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ashedesign.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2016-07-15"
+      },
+      {
+        "url": "https://ashedesign.com/collections/social-media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ashedesign.com/collections/social-media-sports",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ashedesign.com/collections/team-mate",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ashedesign.com/collections/team-panos",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ashedesign.com/products/5x7-team-mate-individual-standout-football",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ashedesign.com/products/5x7-team-mate-individual-standout-volleyball",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "1000's of professionally designed Photoshop Templates, Sports Themes, amped effects, Fully Customizable Photoshop Templates. Ashe Design Photoshop Templates.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 15
+  },
+  {
+    "company_domain": "boholifestyle.com",
+    "company_name": "Boho Lifestyle",
+    "website": "https://www.boholifestyle.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.boholifestyle.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.boholifestyle.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2020-09-28"
+      },
+      {
+        "url": "https://www.boholifestyle.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "A women's fashion boutique located in downtown Napa California specializing in custom styling assistance. We update our store and website every week with new arrivals. We carry everything for a head to toe look; women's clothing, shoes, jewelry, belts and hats.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "autopainthq.com",
+    "company_name": "Auto Paint HQ",
+    "website": "https://autopainthq.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "sales@autopainthq.com",
+        "confidence": "highest",
+        "source_url": "https://autopainthq.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "customerservice@autopainthq.com",
+        "confidence": "high",
+        "source_url": "https://autopainthq.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "6) 265-8060 Hours: Mon-Fri 8am-5pm (Central Time) Email: customerservice@autopainthq.com Saint Louis, Missouri Candy Paint Ki"
+      }
+    ],
+    "role_emails": [
+      "customerservice@autopainthq.com",
+      "sales@autopainthq.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://autopainthq.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://autopainthq.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://autopainthq.com/pages/about?view=shipping",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://autopainthq.com/pages/about?view=privacy-policy-2",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://autopainthq.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Shop high-quality car paint solutions at Auto Paint HQ. Explore a wide range of options to enhance your vehicle's appearance. FREE SHIPPING on orders $75+",
+    "source_urls": [
+      "https://autopainthq.com",
+      "https://autopainthq.com/pages/contact-us",
+      "https://autopainthq.com/pages/about?view=shipping",
+      "https://autopainthq.com/pages/about?view=privacy-policy-2"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "avapresley.com",
+    "company_name": "Ava Presley Official Site",
+    "website": "https://www.avapresley.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@avapresley.com",
+        "confidence": "highest",
+        "source_url": "https://www.avapresley.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "cs@avapresley.com",
+        "confidence": "high",
+        "source_url": "https://www.avapresley.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "CUSTOMER SERVICE CALL US 469-915-5233 EMAIL cs@avapresley.com ADDRESS 200 Union Bower Court Suite #218 I"
+      }
+    ],
+    "role_emails": [
+      "cs@avapresley.com",
+      "info@avapresley.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.avapresley.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.avapresley.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.avapresley.com/pages/contact-us",
+        "action": "/contact#form-template--17317246337178__1628539090bcf511f6",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Discover stunning prom, pageant and evening dresses from Ava Presley. Elegant, bold and unforgettable styles designed to make you shine.",
+    "source_urls": [
+      "https://www.avapresley.com",
+      "https://www.avapresley.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "bellavitaluxe.com",
+    "company_name": "BellaVita Luxury US",
+    "website": "https://www.bellavitaluxe.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "care@bellavitaluxe.com",
+        "confidence": "highest",
+        "source_url": "https://www.bellavitaluxe.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "sage and our team will get back to you ASAP. Or Reach us at care@bellavitaluxe.com (10:00 AM to 7:00 PM, Monday to Sunday)"
+      }
+    ],
+    "role_emails": [
+      "care@bellavitaluxe.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.bellavitaluxe.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bellavitaluxe.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bellavitaluxe.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.bellavitaluxe.com/pages/contact",
+        "action": "/contact#ContactForm-template--22699134484757__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Shop luxury perfumes, body mists & gift sets for men and women. Find perfect gift or IFRA-certified signature scent at BellaVita Luxury. Get free shipping over $30.",
+    "source_urls": [
+      "https://www.bellavitaluxe.com",
+      "https://www.bellavitaluxe.com/pages/contact",
+      "https://www.bellavitaluxe.com/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "boxestogo.com",
+    "company_name": "Boxes To Go",
+    "website": "https://www.boxestogo.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.boxestogo.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.boxestogo.com/contact-us",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2018-04-22"
+      },
+      {
+        "url": "https://www.boxestogo.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2017-08-18"
+      },
+      {
+        "url": "https://www.boxestogo.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.boxestogo.com/contact-us",
+        "action": "http://www.boxestogo.com/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.boxestogo.com/about-us",
+        "action": "http://www.boxestogo.com/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.boxestogo.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Boxes To Go is a specialty store that carries Moving Boxes, Shipping Boxes, Specialty Boxes, Odd Size Boxes, moving supplies, and shipping supplies.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "bloomingmore.com",
+    "company_name": "Bloomingmore",
+    "website": "https://bloomingmore.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "bloomsadvisor@bloomingmore.com",
+        "confidence": "high",
+        "source_url": "https://bloomingmore.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "customerservice@bloomingmore.com",
+        "confidence": "high",
+        "source_url": "https://bloomingmore.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "et In Touch with Us! Call 855-625-6667, Text, Chat or Email customerservice@bloomingmore.com. We're Here to Help! Name * Email * Phone numbe"
+      }
+    ],
+    "role_emails": [
+      "bloomsadvisor@bloomingmore.com",
+      "customerservice@bloomingmore.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://bloomingmore.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bloomingmore.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bloomingmore.com/collections/cypress",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bloomingmore.com/collections/express-delivery",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bloomingmore.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bloomingmore.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bloomingmore.com/pages/contact-us",
+        "action": "/contact#ContactForm-template--16643738730578__contact-form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Bloomingmore is your go-to source for wholesale bulk flowers in the USA. Farm-direct fresh flowers, 100+ varieties, with free shipping within the continental United States. Trusted by florists, wedding planners, and DIY brides nationwide. No minimums. Order at bloomingmore.com.",
+    "source_urls": [
+      "https://bloomingmore.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "ancientcosmeticz.com",
+    "company_name": "Ancient Cosmetics",
+    "website": "https://ancientcosmeticz.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "contact@ancientcosmeticz.com",
+        "confidence": "high",
+        "source_url": "https://ancientcosmeticz.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ", and feedback can be emailed to our customer service team: contact@ancientcosmeticz.com. You may also contact us via phone at 910-248-3132. We can"
+      }
+    ],
+    "role_emails": [
+      "contact@ancientcosmeticz.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://ancientcosmeticz.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ancientcosmeticz.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://ancientcosmeticz.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Ancient Methods for Modern Skin",
+    "source_urls": [
+      "https://ancientcosmeticz.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "blackoutbakingco.com",
+    "company_name": "Blackout Baking Co.",
+    "website": "https://blackoutbakingco.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@blackoutbakingco.com",
+        "confidence": "high",
+        "source_url": "https://blackoutbakingco.com/pages/join-our-team",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "tal for full-time employees available Please email, info@blackoutbakingco.com, telling us why you would be the best candidate for the pos"
+      }
+    ],
+    "role_emails": [
+      "info@blackoutbakingco.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://blackoutbakingco.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blackoutbakingco.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blackoutbakingco.com/pages/join-our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blackoutbakingco.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blackoutbakingco.com/pages/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://blackoutbakingco.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Blackout Baking Co. is a bakery specializing in bite-size gourmet cookies. Perfect for gifting and events! We strive to create BLACKOUT-worthy cookies that bring us back to our childhood, but push boundaries with new flavors, textures, and forms. We are bakers who make fresh cookies without preserva",
+    "source_urls": [
+      "https://blackoutbakingco.com/pages/join-our-team",
+      "https://blackoutbakingco.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "beebuilt.com",
+    "company_name": "BeeBuilt",
+    "website": "https://beebuilt.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "chapman@beebuilt.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tara Chapman",
+        "person_title": "Founder",
+        "source_url": "https://beebuilt.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "t.chapman@beebuilt.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tara Chapman",
+        "person_title": "Founder",
+        "source_url": "https://beebuilt.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tara.chapman@beebuilt.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tara Chapman",
+        "person_title": "Founder",
+        "source_url": "https://beebuilt.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tara@beebuilt.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tara Chapman",
+        "person_title": "Founder",
+        "source_url": "https://beebuilt.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tara_chapman@beebuilt.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tara Chapman",
+        "person_title": "Founder",
+        "source_url": "https://beebuilt.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tarac@beebuilt.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tara Chapman",
+        "person_title": "Founder",
+        "source_url": "https://beebuilt.com",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://beebuilt.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://beebuilt.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2014-02-18"
+      },
+      {
+        "url": "https://beebuilt.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Top Bar, Warre, and Langstroth beehives made in the USA from premium cedar. Durable hive kits, beekeeping supplies, and equipment. BeeBuilt builds beekeeping systems designed for colony health, joy of beekeeping, and long-term performance. Shop hive kits, tools, and accessories. Free shipping over $",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "4swildlife.com",
+    "company_name": "4S Advanced Wildlife Solutions",
+    "website": "https://4swildlife.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "sales@4swildlife.com",
+        "confidence": "high",
+        "source_url": "https://4swildlife.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ct with us Connect with us 478-662-2162 Sales@4Swildlife.com M-F: 9:00am - 5:00pm SAT: 9:00am - 2:00pm Warehouse Add"
+      }
+    ],
+    "role_emails": [
+      "sales@4swildlife.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://4swildlife.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://4swildlife.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2019-04-19"
+      },
+      {
+        "url": "https://4swildlife.com/contact-us",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2015-02-03"
+      },
+      {
+        "url": "https://4swildlife.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2015-02-03"
+      },
+      {
+        "url": "https://4swildlife.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://4swildlife.com/collections/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://4swildlife.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://4swildlife.com/contact",
+        "action": "/contact/#wpcf7-f331-p1261-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://4swildlife.com/contact-us",
+        "action": "/contact-us",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://4swildlife.com/pages/about-us",
+        "action": "/contact#contact-template--15877282169059__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://4swildlife.com/collections/contact-us",
+        "action": "/contact#contact-template--15938701525219__16503262006a2abc64",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://4swildlife.com/pages/contact-us",
+        "action": "/contact#contact-template--15877282103523__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Wildlife nutrition products to attract, grow, hold & hunt big healthy deer. Premium deer pellets, feed, attractant, mineral, food plot seed & feeders for the best price. Trusted by hunters, land managers & outfitters since 2008. 2000+ retailers across the nation! Wildlife nutritionist approved. Made",
+    "source_urls": [
+      "https://4swildlife.com",
+      "https://4swildlife.com/pages/about-us",
+      "https://4swildlife.com/collections/contact-us",
+      "https://4swildlife.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "222.place",
+    "company_name": "222",
+    "website": "https://222.place",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "benchmarkrings.com",
+    "company_name": "Benchmark Rings",
+    "website": "https://www.benchmarkrings.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.benchmarkrings.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.benchmarkrings.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.benchmarkrings.com/education/supporting-local-roots",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.benchmarkrings.com/contact-us",
+        "action": "/api/form-submission",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Shop for wedding rings and wedding bands manufactured in gold, silver, titanium platinum, tungsten, and cobalt by Benchmark Rings.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "babehairextensions.com",
+    "company_name": "Babe Hair Extensions",
+    "website": "https://babehairextensions.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://babehairextensions.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://babehairextensions.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://babehairextensions.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://babehairextensions.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://babehairextensions.com",
+        "action": "/share-wishlist",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://babehairextensions.com/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://babehairextensions.com/contact-us",
+        "action": "/share-wishlist",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://babehairextensions.com/pages/about",
+        "action": "/share-wishlist",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://babehairextensions.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://babehairextensions.com/pages/contact-us",
+        "action": "/share-wishlist",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Shop Babe Hair Extensions for premium 100% Remy human hair. Tape ins, fusions, wefts, and more. Free US Shipping over $200.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "567framing.com",
+    "company_name": "567framing.com",
+    "website": "https://567framing.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": "We provide high quality Custom Framing, Giclee Printing & Canvas Stretching services with affordable price in Manhattan and Brooklyn. Call now for free quote!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "barringtonhardwoods.com",
+    "company_name": "BARRINGTON HARDWOODS",
+    "website": "https://barringtonhardwoods.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@barringtonhardwoods.com",
+        "confidence": "high",
+        "source_url": "https://barringtonhardwoods.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@barringtonhardwoods.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://barringtonhardwoods.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "We here at Barrington Hardwoods are a leading seller of domestic and exotic hardwood lumber, wood turning blanks, and 3/4\" lumber boards. Call or email us today!",
+    "source_urls": [
+      "https://barringtonhardwoods.com"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 7
+  },
+  {
+    "company_domain": "bmptuning.com",
+    "company_name": "BMP Tuning",
+    "website": "https://www.bmptuning.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "sales@bmptuning.com",
+        "confidence": "high",
+        "source_url": "https://www.bmptuning.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "sales@bmptuning.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.bmptuning.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.bmptuning.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.bmptuning.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Shop performance, accessories, OEM parts for VW, Audi, BMW, and Porsche. Exhausts, intakes, coilovers, springs, brakes, aero, wheels and more from top brands. Fast shipping from BMP Tuning.",
+    "source_urls": [
+      "https://www.bmptuning.com",
+      "https://www.bmptuning.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "atlanticradiocorp.com",
+    "company_name": "Atlantic Radio Communications Corp.",
+    "website": "https://www.atlanticradiocorp.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@atlanticradiocorp.com",
+        "confidence": "highest",
+        "source_url": "https://www.atlanticradiocorp.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Ave. Miami, FL 33122 Weekdays: 9am \u2013 5pm info@atlanticradiocorp.com Voicemail: (866) 900-6255 Sign up for our new"
+      }
+    ],
+    "role_emails": [
+      "info@atlanticradiocorp.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.atlanticradiocorp.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.atlanticradiocorp.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.atlanticradiocorp.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.atlanticradiocorp.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.atlanticradiocorp.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.atlanticradiocorp.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.atlanticradiocorp.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.atlanticradiocorp.com/contact",
+        "action": "/contact#90828800174",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.atlanticradiocorp.com/contact-us",
+        "action": "/contact#90828800174",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.atlanticradiocorp.com/contactus",
+        "action": "/contact#90828800174",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.atlanticradiocorp.com/pages/contact-us",
+        "action": "/contact#90828800174",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Atlantic Radio Communications Corp. offers professional two way radios, mobile radio systems, & accessories for seamless business communication.",
+    "source_urls": [
+      "https://www.atlanticradiocorp.com",
+      "https://www.atlanticradiocorp.com/contact",
+      "https://www.atlanticradiocorp.com/contact-us",
+      "https://www.atlanticradiocorp.com/contactus",
+      "https://www.atlanticradiocorp.com/about",
+      "https://www.atlanticradiocorp.com/about-us",
+      "https://www.atlanticradiocorp.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  }
+]
