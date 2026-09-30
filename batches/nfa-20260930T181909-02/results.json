@@ -1,0 +1,2369 @@
+[
+  {
+    "company_domain": "airbear.com",
+    "company_name": "Air Bear",
+    "website": "https://www.airbear.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@airbear.com",
+        "confidence": "high",
+        "source_url": "https://www.airbear.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "support@airbear.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.airbear.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.airbear.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.airbear.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "TRION Air Bear Residential Air Filters",
+    "source_urls": [
+      "https://www.airbear.com",
+      "https://www.airbear.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "airbnb.com",
+    "company_name": "Airbnb",
+    "website": "http://airbnb.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "b.chesky@airbnb.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Brian Chesky",
+        "person_title": "Chief Executive Officer",
+        "source_url": "http://airbnb.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "blecharczyk@airbnb.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nathan Blecharczyk",
+        "person_title": "Co-Founder",
+        "source_url": "http://airbnb.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "brian.chesky@airbnb.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Brian Chesky",
+        "person_title": "Chief Executive Officer",
+        "source_url": "http://airbnb.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "brian@airbnb.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Brian Chesky",
+        "person_title": "Chief Executive Officer",
+        "source_url": "http://airbnb.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "brian_chesky@airbnb.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Brian Chesky",
+        "person_title": "Chief Executive Officer",
+        "source_url": "http://airbnb.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "brianc@airbnb.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Brian Chesky",
+        "person_title": "Chief Executive Officer",
+        "source_url": "http://airbnb.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "chesky@airbnb.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Brian Chesky",
+        "person_title": "Chief Executive Officer",
+        "source_url": "http://airbnb.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "gebbia@airbnb.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Joe Gebbia",
+        "person_title": "Co-Founder",
+        "source_url": "http://airbnb.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "j.gebbia@airbnb.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Joe Gebbia",
+        "person_title": "Co-Founder",
+        "source_url": "http://airbnb.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "joe.gebbia@airbnb.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Joe Gebbia",
+        "person_title": "Co-Founder",
+        "source_url": "http://airbnb.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "joe@airbnb.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Joe Gebbia",
+        "person_title": "Co-Founder",
+        "source_url": "http://airbnb.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "joe_gebbia@airbnb.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Joe Gebbia",
+        "person_title": "Co-Founder",
+        "source_url": "http://airbnb.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "joeg@airbnb.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Joe Gebbia",
+        "person_title": "Co-Founder",
+        "source_url": "http://airbnb.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "n.blecharczyk@airbnb.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nathan Blecharczyk",
+        "person_title": "Co-Founder",
+        "source_url": "http://airbnb.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "nathan.blecharczyk@airbnb.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nathan Blecharczyk",
+        "person_title": "Co-Founder",
+        "source_url": "http://airbnb.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "nathan@airbnb.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nathan Blecharczyk",
+        "person_title": "Co-Founder",
+        "source_url": "http://airbnb.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "nathan_blecharczyk@airbnb.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nathan Blecharczyk",
+        "person_title": "Co-Founder",
+        "source_url": "http://airbnb.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "nathanb@airbnb.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nathan Blecharczyk",
+        "person_title": "Co-Founder",
+        "source_url": "http://airbnb.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "http://airbnb.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://airbnb.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://airbnb.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://airbnb.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Get an Airbnb for every kind of trip \u2192 8 million vacation rentals \u2192 2 million Guest Favorites \u2192 220+ countries and regions worldwide",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "airbornebicycles.com",
+    "company_name": "Airborne Bicycles",
+    "website": "https://airbornebicycles.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "i.january@airbornebicycles.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "In January",
+        "person_title": "Founder",
+        "source_url": "https://airbornebicycles.com/pages/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "in.january@airbornebicycles.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "In January",
+        "person_title": "Founder",
+        "source_url": "https://airbornebicycles.com/pages/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "in@airbornebicycles.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "In January",
+        "person_title": "Founder",
+        "source_url": "https://airbornebicycles.com/pages/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "in_january@airbornebicycles.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "In January",
+        "person_title": "Founder",
+        "source_url": "https://airbornebicycles.com/pages/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "inj@airbornebicycles.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "In January",
+        "person_title": "Founder",
+        "source_url": "https://airbornebicycles.com/pages/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "j.raddin@airbornebicycles.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jamie Raddin",
+        "person_title": "President",
+        "source_url": "https://airbornebicycles.com/pages/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jamie.raddin@airbornebicycles.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jamie Raddin",
+        "person_title": "President",
+        "source_url": "https://airbornebicycles.com/pages/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jamie@airbornebicycles.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jamie Raddin",
+        "person_title": "President",
+        "source_url": "https://airbornebicycles.com/pages/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jamie_raddin@airbornebicycles.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jamie Raddin",
+        "person_title": "President",
+        "source_url": "https://airbornebicycles.com/pages/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jamier@airbornebicycles.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jamie Raddin",
+        "person_title": "President",
+        "source_url": "https://airbornebicycles.com/pages/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "january@airbornebicycles.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "In January",
+        "person_title": "Founder",
+        "source_url": "https://airbornebicycles.com/pages/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "raddin@airbornebicycles.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jamie Raddin",
+        "person_title": "President",
+        "source_url": "https://airbornebicycles.com/pages/about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://airbornebicycles.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://airbornebicycles.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://airbornebicycles.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://airbornebicycles.com/pages/contact",
+        "action": "/contact#ContactForm-template--16344587010106__contact-form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Originally founded in 1997, Airborne was one of the first bike companies to sell direct to consumers. Our focus is on product value without sacrificing quality.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "airbossmotiondecoys.com",
+    "company_name": "Air Boss Motion Decoys",
+    "website": "https://airbossmotiondecoys.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@airbossmotiondecoys.com",
+        "confidence": "high",
+        "source_url": "https://airbossmotiondecoys.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "back with you ASAP! Call or Text: (903)721-0766 Email : info@airbossmotiondecoys.com *Messaging rates may apply"
+      }
+    ],
+    "role_emails": [
+      "info@airbossmotiondecoys.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://airbossmotiondecoys.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://airbossmotiondecoys.com/pages/about-airboss",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://airbossmotiondecoys.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "With over 45 years of duck hunting experience, Air Boss brings you a perfected product for getting ducks to the water! Our Motion Decoys give you affordability and quality.",
+    "source_urls": [
+      "https://airbossmotiondecoys.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "airbrushbrothers.com",
+    "company_name": "Airbrush Brothers",
+    "website": "https://airbrushbrothers.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "shop@airbrushbrothers.com",
+        "confidence": "highest",
+        "source_url": "https://airbrushbrothers.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "10801 Hammerly Blvd Ste 122 Houston Tx 77043 shop@airbrushbrothers.com (832) 243-6933 Useful Links About Us Sear"
+      }
+    ],
+    "role_emails": [
+      "shop@airbrushbrothers.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://airbrushbrothers.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://airbrushbrothers.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://airbrushbrothers.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://airbrushbrothers.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Airbrush Brothers creates custom airbrush shirts, hats, shoes, jackets & party favors for birthdays, events & more. Unique, vibrant designs for every celebration.",
+    "source_urls": [
+      "https://airbrushbrothers.com",
+      "https://airbrushbrothers.com/contact",
+      "https://airbrushbrothers.com/pages/contact",
+      "https://airbrushbrothers.com/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "airbrushcustoms.net",
+    "company_name": "Airbrush Customs",
+    "website": "https://airbrushcustoms.net",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@airbrushcustoms.net",
+        "confidence": "highest",
+        "source_url": "https://airbrushcustoms.net/contact",
+        "source_type": "archived",
+        "snapshot_date": "2012-04-24",
+        "context_snippet": "In God we trust, Always. Support@airbrushcustoms.net"
+      }
+    ],
+    "role_emails": [
+      "support@airbrushcustoms.net"
+    ],
+    "email_candidates": [
+      {
+        "address": "a.guy@airbrushcustoms.net",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Airbrush Guy",
+        "person_title": "Founder",
+        "source_url": "https://airbrushcustoms.net/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "airbrush.guy@airbrushcustoms.net",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Airbrush Guy",
+        "person_title": "Founder",
+        "source_url": "https://airbrushcustoms.net/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "airbrush@airbrushcustoms.net",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Airbrush Guy",
+        "person_title": "Founder",
+        "source_url": "https://airbrushcustoms.net/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "airbrush_guy@airbrushcustoms.net",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Airbrush Guy",
+        "person_title": "Founder",
+        "source_url": "https://airbrushcustoms.net/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "airbrushg@airbrushcustoms.net",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Airbrush Guy",
+        "person_title": "Founder",
+        "source_url": "https://airbrushcustoms.net/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "guy@airbrushcustoms.net",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Airbrush Guy",
+        "person_title": "Founder",
+        "source_url": "https://airbrushcustoms.net/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://airbrushcustoms.net",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://airbrushcustoms.net/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2012-04-24"
+      },
+      {
+        "url": "https://airbrushcustoms.net/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://airbrushcustoms.net/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://airbrushcustoms.net/pages/care-instructions-faqs-and-contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://airbrushcustoms.net/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Shop custom spray shirts, name shirts, logo hats, and more: Hand-painted by real artists. #1 Rated Online airbrush shop for over 15 years, with over 65,000 custom pieces painted. Trusted, fast, and made to stand out. Customize yours today!",
+    "source_urls": [
+      "https://airbrushcustoms.net/contact",
+      "https://airbrushcustoms.net/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "aircaps.com",
+    "company_name": "AirCaps",
+    "website": "https://aircaps.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://aircaps.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aircaps.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "AirCaps smart glasses show real-time captions and translate 60+ languages instantly. Designed for hearing loss, travel, and professionals. 97% accuracy, 49g lightweight. $599.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "aircommand.com",
+    "company_name": "Air Command & Skywheels",
+    "website": "https://aircommand.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "a.joe@aircommand.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Air Command Joe",
+        "person_title": "President",
+        "source_url": "https://aircommand.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "air.joe@aircommand.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Air Command Joe",
+        "person_title": "President",
+        "source_url": "https://aircommand.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "air@aircommand.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Air Command Joe",
+        "person_title": "President",
+        "source_url": "https://aircommand.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "air_joe@aircommand.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Air Command Joe",
+        "person_title": "President",
+        "source_url": "https://aircommand.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "airj@aircommand.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Air Command Joe",
+        "person_title": "President",
+        "source_url": "https://aircommand.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "joe@aircommand.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Air Command Joe",
+        "person_title": "President",
+        "source_url": "https://aircommand.com",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://aircommand.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aircommand.com/pages/social-media-channels",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aircommand.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Gyroplanes are fun to fly! Our build-to-fly kits offer bolt-together assembly with minimal fabrication to get you in the air. The high-inertia rotor blade design favors performance, safety, predictability, and forgiveness. Act on your dreams to fly!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "aircompressorservices.com",
+    "company_name": "Air Compressor Services",
+    "website": "https://aircompressorservices.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@aircompressorservices.com",
+        "confidence": "highest",
+        "source_url": "https://aircompressorservices.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Need help? Call Us 877-592-9892 Info@AirCompressorServices.com Back Filters Air Filters Air/Oil Separ"
+      },
+      {
+        "address": "support@aircompressorservices.com",
+        "confidence": "highest",
+        "source_url": "https://aircompressorservices.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "returns@aircompressorservices.com",
+        "confidence": "medium",
+        "source_url": "https://aircompressorservices.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2019-12-14",
+        "context_snippet": ""
+      },
+      {
+        "address": "shipping@aircompressorservices.com",
+        "confidence": "medium",
+        "source_url": "https://aircompressorservices.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2019-12-14",
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@aircompressorservices.com",
+      "returns@aircompressorservices.com",
+      "shipping@aircompressorservices.com",
+      "support@aircompressorservices.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://aircompressorservices.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aircompressorservices.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2019-12-14"
+      },
+      {
+        "url": "https://aircompressorservices.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2019-12-14"
+      },
+      {
+        "url": "https://aircompressorservices.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aircompressorservices.com/pages/service-request",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aircompressorservices.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aircompressorservices.com/pages/air-compressor-filters-and-separators",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aircompressorservices.com/collections/air-filters",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://aircompressorservices.com/pages/service-request",
+        "action": "/contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://aircompressorservices.com/pages/contact",
+        "action": "/contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://aircompressorservices.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Buy air compressor parts, accessories, and replacement oil at Air Compressor Services. We stock the brands you trust like Ingersoll Rand, Atlas Copco & more!",
+    "source_urls": [
+      "https://aircompressorservices.com",
+      "https://aircompressorservices.com/contact",
+      "https://aircompressorservices.com/about",
+      "https://aircompressorservices.com/about-us",
+      "https://aircompressorservices.com/pages/service-request",
+      "https://aircompressorservices.com/pages/contact",
+      "https://aircompressorservices.com/pages/air-compressor-filters-and-separators",
+      "https://aircompressorservices.com/collections/air-filters"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "airdeko.com",
+    "company_name": "AIRDEKO",
+    "website": "https://airdeko.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@airdeko.com",
+        "confidence": "high",
+        "source_url": "https://airdeko.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "support@airdeko.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://airdeko.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://airdeko.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Discover the Airdeko\u00ae decorative AC Cover - An elegant, easy-to-install solution to hide the outdoor unit of your air conditioning or heat pump system.",
+    "source_urls": [
+      "https://airdeko.com",
+      "https://airdeko.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "airdogusa.com",
+    "company_name": "Airdog USA",
+    "website": "https://airdogusa.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@airdogusa.com",
+        "confidence": "high",
+        "source_url": "https://airdogusa.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Mon-Fri, 9am- 5pm PST Office #: (800) 958-9609 Email : support@airdogusa.com Address : 1611 West San Bernardino Road, Unit 10, West Cov"
+      }
+    ],
+    "role_emails": [
+      "support@airdogusa.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "airdog@airdogusa.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Why Airdog",
+        "person_title": "Founder",
+        "source_url": "https://airdogusa.com/pages/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "w.airdog@airdogusa.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Why Airdog",
+        "person_title": "Founder",
+        "source_url": "https://airdogusa.com/pages/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "why.airdog@airdogusa.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Why Airdog",
+        "person_title": "Founder",
+        "source_url": "https://airdogusa.com/pages/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "why@airdogusa.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Why Airdog",
+        "person_title": "Founder",
+        "source_url": "https://airdogusa.com/pages/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "why_airdog@airdogusa.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Why Airdog",
+        "person_title": "Founder",
+        "source_url": "https://airdogusa.com/pages/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "whya@airdogusa.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Why Airdog",
+        "person_title": "Founder",
+        "source_url": "https://airdogusa.com/pages/about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://airdogusa.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://airdogusa.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://airdogusa.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://airdogusa.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://airdogusa.com/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://airdogusa.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Discover Airdog USA\u2019s next-gen home air purifiers powered by revolutionary TPA\u00ae green tech. Experience cleaner air with sustainable air purification.",
+    "source_urls": [
+      "https://airdogusa.com/contact",
+      "https://airdogusa.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "airesconfort.com",
+    "company_name": "airesconfortotal",
+    "website": "https://airesconfort.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "airfiltersdelivered.com",
+    "company_name": "Air Filters Delivered",
+    "website": "https://www.airfiltersdelivered.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@airfiltersdelivered.com",
+        "confidence": "highest",
+        "source_url": "https://www.airfiltersdelivered.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "nfo on shipments and order issues. Email Us support@airfiltersdelivered.com Call Us +1 866-449-5241 Dro"
+      }
+    ],
+    "role_emails": [
+      "support@airfiltersdelivered.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.airfiltersdelivered.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.airfiltersdelivered.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.airfiltersdelivered.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.airfiltersdelivered.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.airfiltersdelivered.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.airfiltersdelivered.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.airfiltersdelivered.com/contact",
+        "action": "/contact#template--28435739509102__form-contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.airfiltersdelivered.com/contactus",
+        "action": "/contact#template--28435739509102__form-contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.airfiltersdelivered.com/pages/contact",
+        "action": "/contact#template--28435739509102__form-contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Shop replacement air filters for any HVAC system. Premium pleated furnace and AC filters shipped free - find your size and replace your filter today.",
+    "source_urls": [
+      "https://www.airfiltersdelivered.com",
+      "https://www.airfiltersdelivered.com/contact",
+      "https://www.airfiltersdelivered.com/contactus",
+      "https://www.airfiltersdelivered.com/about-us",
+      "https://www.airfiltersdelivered.com/pages/contact",
+      "https://www.airfiltersdelivered.com/pages/about"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "airforcegear.com",
+    "company_name": "Air Force Gear",
+    "website": "https://www.airforcegear.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@airforcegear.com",
+        "confidence": "highest",
+        "source_url": "https://www.airforcegear.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ntent (410) 766-2600 info@airforcegear.com Extra 20% off clearance: CLRSEP26 Fr"
+      }
+    ],
+    "role_emails": [
+      "info@airforcegear.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.airforcegear.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.airforcegear.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.airforcegear.com/pages/ng-about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.airforcegear.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Air Force Gear",
+    "source_urls": [
+      "https://www.airforcegear.com",
+      "https://www.airforcegear.com/pages/contact-us",
+      "https://www.airforcegear.com/pages/ng-about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "airfort.com",
+    "company_name": "AirFort.com",
+    "website": "https://www.airfort.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.airfort.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.airfort.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.airfort.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.airfort.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.airfort.com/contact",
+        "action": "/contact#ContactForm-AVlplOHVuT3VSbjBzc__contact_form_RChxFP",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.airfort.com/pages/contact",
+        "action": "/contact#ContactForm-AVlplOHVuT3VSbjBzc__contact_form_RChxFP",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "The AirFort\u00ae is the only inflatable instant play fort that hovers off the floor. It\u2019s safe, durable, breathable and sets up in seconds. All you need is a standard box fan and you\u2019re all set for hours of family fun!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "airfryingfoodie.com",
+    "company_name": "Air Frying Foodie Shop",
+    "website": "https://shop.airfryingfoodie.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://shop.airfryingfoodie.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.airfryingfoodie.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Grab your unique items and products for the Air Fryer here at the Air Frying Foodie shop.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "airgoods.com",
+    "company_name": "Airgoods",
+    "website": "https://airgoods.com/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@airgoods.com",
+        "confidence": "highest",
+        "source_url": "https://airgoods.com/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ce Contact Us Have questions? We're here to help. Live Chat hello@airgoods.com Help Center FDA Disclaimer: These statements have not been"
+      },
+      {
+        "address": "support@airgoods.com",
+        "confidence": "highest",
+        "source_url": "https://airgoods.com/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "hello@airgoods.com",
+      "support@airgoods.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "helsby@airgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sophie Helsby",
+        "person_title": "Owner",
+        "source_url": "https://airgoods.com/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "nawaz@airgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Shahab Nawaz",
+        "person_title": "Owner",
+        "source_url": "https://airgoods.com/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.helsby@airgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sophie Helsby",
+        "person_title": "Owner",
+        "source_url": "https://airgoods.com/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.nawaz@airgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Shahab Nawaz",
+        "person_title": "Owner",
+        "source_url": "https://airgoods.com/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.shah@airgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sam Shah",
+        "person_title": "Owner",
+        "source_url": "https://airgoods.com/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sam.shah@airgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sam Shah",
+        "person_title": "Owner",
+        "source_url": "https://airgoods.com/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sam@airgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sam Shah",
+        "person_title": "Owner",
+        "source_url": "https://airgoods.com/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sam_shah@airgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sam Shah",
+        "person_title": "Owner",
+        "source_url": "https://airgoods.com/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sams@airgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sam Shah",
+        "person_title": "Owner",
+        "source_url": "https://airgoods.com/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "shah@airgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sam Shah",
+        "person_title": "Owner",
+        "source_url": "https://airgoods.com/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "shahab.nawaz@airgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Shahab Nawaz",
+        "person_title": "Owner",
+        "source_url": "https://airgoods.com/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "shahab@airgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Shahab Nawaz",
+        "person_title": "Owner",
+        "source_url": "https://airgoods.com/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "shahab_nawaz@airgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Shahab Nawaz",
+        "person_title": "Owner",
+        "source_url": "https://airgoods.com/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "shahabn@airgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Shahab Nawaz",
+        "person_title": "Owner",
+        "source_url": "https://airgoods.com/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sophie.helsby@airgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sophie Helsby",
+        "person_title": "Owner",
+        "source_url": "https://airgoods.com/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sophie@airgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sophie Helsby",
+        "person_title": "Owner",
+        "source_url": "https://airgoods.com/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sophie_helsby@airgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sophie Helsby",
+        "person_title": "Owner",
+        "source_url": "https://airgoods.com/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sophieh@airgoods.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sophie Helsby",
+        "person_title": "Owner",
+        "source_url": "https://airgoods.com/",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://airgoods.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://airgoods.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://airgoods.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://airgoods.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://airgoods.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://airgoods.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://airgoods.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://airgoods.com/product/367fd482-8285-4381-b69f-37ef1f89bf39-chocolate-covered-california-medjool-date-with-espresso",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Discover what's next, order and receive with ease, and turn new arrivals into best sellers.",
+    "source_urls": [
+      "https://airgoods.com/",
+      "https://airgoods.com/contact",
+      "https://airgoods.com/contact-us",
+      "https://airgoods.com/contactus",
+      "https://airgoods.com/about",
+      "https://airgoods.com/about-us",
+      "https://airgoods.com/team"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "airgraffix.com",
+    "company_name": "www.AirGraffix.com",
+    "website": "https://www.airgraffix.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "robots_disallowed",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "airguntactical.com",
+    "company_name": "airguntactical.com",
+    "website": "https://airguntactical.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://airguntactical.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://airguntactical.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://airguntactical.com/products/airgun-capital-eagle-suppressor",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "AirGun Tactical has the precision big bore airguns you need for hunting, defense, and survival. We specialize in high-powered semi and full-automatic air rifles! Shop top brands: AEA Precision, BinTac, Western Airguns, Evanix, Hatsan, AirForce, Seneca, Air Venturi, Skout, Umarex, Defense Innovations",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 15
+  },
+  {
+    "company_domain": "airhead.com",
+    "company_name": "Airhead",
+    "website": "https://www.airhead.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.airhead.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.airhead.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.airhead.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.airhead.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.airhead.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Airhead is your source for towable tubes, floats, wakeboards, inflatable loungers, sleds, snow tubes, and more! Browse our wide selection of products.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "airhornsoftexas.com",
+    "company_name": "Air Horns of Texas, Train Horns, Train Air Horns",
+    "website": "https://www.airhornsoftexas.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.airhornsoftexas.com",
+        "page_type": "home",
+        "source_type": "archived",
+        "snapshot_date": "2026-03-15"
+      },
+      {
+        "url": "https://www.airhornsoftexas.com/contact-us",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2012-09-17"
+      },
+      {
+        "url": "https://www.airhornsoftexas.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2012-08-13"
+      },
+      {
+        "url": "https://www.airhornsoftexas.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2026-02-09"
+      },
+      {
+        "url": "https://www.airhornsoftexas.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2026-02-08"
+      },
+      {
+        "url": "https://www.airhornsoftexas.com/collections/air-compressors",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2026-03-11"
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.airhornsoftexas.com",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.airhornsoftexas.com/contact-us",
+        "action": "http://www.airhornsoftexas.com/form/airhorns.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.airhornsoftexas.com/about-us",
+        "action": "http://www.airhornsoftexas.com/form/airhorns.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Air Horns of Texas is one the largest train horn distributors in the USA, with a full line of our Train Horns, Nathan train horns, truck horns and emergency air",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "airlineemployeeshop.com",
+    "company_name": "Airline Employee Shop",
+    "website": "https://airlineemployeeshop.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://airlineemployeeshop.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://airlineemployeeshop.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2018-09-03"
+      },
+      {
+        "url": "https://airlineemployeeshop.com/collections/compression-hosiery",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://airlineemployeeshop.com/collections/compression-socks",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://airlineemployeeshop.com/pages/about-airline-employee-shop",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://airlineemployeeshop.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://airlineemployeeshop.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Airline Employee Shop, vintage airline logos and images on items for airline crew, airline employees, retired airline employees. Ideal for flight attendants, airline pilots, gate agents and airline mechanics.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "airmark.com",
+    "company_name": "AirMark Corporation",
+    "website": "https://www.airmark.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customer.service@airmark.com",
+        "confidence": "highest",
+        "source_url": "https://www.airmark.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "25, USA Phone: (800) 527-7778 Fax: (206) 527-1046 Email: customer.service@airmark.com Hours of Operation: Monday-Friday, 8AM-5PM PST"
+      },
+      {
+        "address": "sales@airmark.com",
+        "confidence": "highest",
+        "source_url": "https://www.airmark.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Need help? Call Us (800) 527-7778 sales@airmark.com Follow Us Facebook Twitter"
+      }
+    ],
+    "role_emails": [
+      "customer.service@airmark.com",
+      "sales@airmark.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.airmark.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.airmark.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.airmark.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.airmark.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.airmark.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.airmark.com/collections/heat-presses",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.airmark.com/collections/vinyl-media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "AirMark offers the highest quality cutting machines, large format printers & sign supplies for the sign-making industry.\u00a0Visit our site or call us today!",
+    "source_urls": [
+      "https://www.airmark.com",
+      "https://www.airmark.com/contact",
+      "https://www.airmark.com/contact-us",
+      "https://www.airmark.com/about-us",
+      "https://www.airmark.com/pages/contact-us",
+      "https://www.airmark.com/collections/heat-presses",
+      "https://www.airmark.com/collections/vinyl-media"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "airoasis.com",
+    "company_name": "Air Oasis",
+    "website": "https://www.airoasis.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "a.thacker@airoasis.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ariana Thacker",
+        "person_title": "Founder",
+        "source_url": "https://www.airoasis.com",
+        "source_type": "archived",
+        "snapshot_date": "2026-09-21"
+      },
+      {
+        "address": "ariana.thacker@airoasis.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ariana Thacker",
+        "person_title": "Founder",
+        "source_url": "https://www.airoasis.com",
+        "source_type": "archived",
+        "snapshot_date": "2026-09-21"
+      },
+      {
+        "address": "ariana@airoasis.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ariana Thacker",
+        "person_title": "Founder",
+        "source_url": "https://www.airoasis.com",
+        "source_type": "archived",
+        "snapshot_date": "2026-09-21"
+      },
+      {
+        "address": "ariana_thacker@airoasis.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ariana Thacker",
+        "person_title": "Founder",
+        "source_url": "https://www.airoasis.com",
+        "source_type": "archived",
+        "snapshot_date": "2026-09-21"
+      },
+      {
+        "address": "arianat@airoasis.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ariana Thacker",
+        "person_title": "Founder",
+        "source_url": "https://www.airoasis.com",
+        "source_type": "archived",
+        "snapshot_date": "2026-09-21"
+      },
+      {
+        "address": "bennert@airoasis.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jon Bennert",
+        "person_title": "Ceo",
+        "source_url": "https://www.airoasis.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2021-10-20"
+      },
+      {
+        "address": "c.p@airoasis.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Carol p.",
+        "person_title": null,
+        "source_url": "https://www.airoasis.com/pages/about",
+        "source_type": "archived",
+        "snapshot_date": "2026-06-24"
+      },
+      {
+        "address": "carol.p@airoasis.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Carol p.",
+        "person_title": null,
+        "source_url": "https://www.airoasis.com/pages/about",
+        "source_type": "archived",
+        "snapshot_date": "2026-06-24"
+      },
+      {
+        "address": "carol@airoasis.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Carol p.",
+        "person_title": null,
+        "source_url": "https://www.airoasis.com/pages/about",
+        "source_type": "archived",
+        "snapshot_date": "2026-06-24"
+      },
+      {
+        "address": "carol_p@airoasis.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Carol p.",
+        "person_title": null,
+        "source_url": "https://www.airoasis.com/pages/about",
+        "source_type": "archived",
+        "snapshot_date": "2026-06-24"
+      },
+      {
+        "address": "carolp@airoasis.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Carol p.",
+        "person_title": null,
+        "source_url": "https://www.airoasis.com/pages/about",
+        "source_type": "archived",
+        "snapshot_date": "2026-06-24"
+      },
+      {
+        "address": "j.bennert@airoasis.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jon Bennert",
+        "person_title": "Ceo",
+        "source_url": "https://www.airoasis.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2021-10-20"
+      },
+      {
+        "address": "jon.bennert@airoasis.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jon Bennert",
+        "person_title": "Ceo",
+        "source_url": "https://www.airoasis.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2021-10-20"
+      },
+      {
+        "address": "jon@airoasis.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jon Bennert",
+        "person_title": "Ceo",
+        "source_url": "https://www.airoasis.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2021-10-20"
+      },
+      {
+        "address": "jon_bennert@airoasis.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jon Bennert",
+        "person_title": "Ceo",
+        "source_url": "https://www.airoasis.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2021-10-20"
+      },
+      {
+        "address": "jonb@airoasis.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jon Bennert",
+        "person_title": "Ceo",
+        "source_url": "https://www.airoasis.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2021-10-20"
+      },
+      {
+        "address": "p@airoasis.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Carol p.",
+        "person_title": null,
+        "source_url": "https://www.airoasis.com/pages/about",
+        "source_type": "archived",
+        "snapshot_date": "2026-06-24"
+      },
+      {
+        "address": "thacker@airoasis.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ariana Thacker",
+        "person_title": "Founder",
+        "source_url": "https://www.airoasis.com",
+        "source_type": "archived",
+        "snapshot_date": "2026-09-21"
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.airoasis.com",
+        "page_type": "home",
+        "source_type": "archived",
+        "snapshot_date": "2026-09-21"
+      },
+      {
+        "url": "https://www.airoasis.com/contact-us",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2018-07-04"
+      },
+      {
+        "url": "https://www.airoasis.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2021-10-20"
+      },
+      {
+        "url": "https://www.airoasis.com/pages/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2026-06-24"
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Poor indoor air quality can lead to health problems and a lack of freshness in your home. Air Oasis air purifiers support your well-being by reducing mold, bacteria, viruses, dust, smoke and odors.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "airplantcity.com",
+    "company_name": "Air Plant City",
+    "website": "https://www.airplantcity.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "service@airplantcity.com",
+        "confidence": "high",
+        "source_url": "https://www.airplantcity.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "service@airplantcity.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.airplantcity.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.airplantcity.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.airplantcity.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.airplantcity.com/pages/about-wholesale-price-breaks",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.airplantcity.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.airplantcity.com/contact",
+        "action": "/contact#contact-template--19319902404707__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.airplantcity.com/contact-us",
+        "action": "/contact#contact-template--19319902404707__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.airplantcity.com/pages/contact-us",
+        "action": "/contact#contact-template--19319902404707__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "The Original Source For Buying Air Plants +Tillandsias Online. Wide Selection of Air Plant Varieties. Your Wholesale + Bulk Tillandsia Specialist. Exotic bromeliads, displays and cork bark arrangements for your home or business.",
+    "source_urls": [
+      "https://www.airplantcity.com",
+      "https://www.airplantcity.com/contact",
+      "https://www.airplantcity.com/contact-us",
+      "https://www.airplantcity.com/pages/about-wholesale-price-breaks",
+      "https://www.airplantcity.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  }
+]
