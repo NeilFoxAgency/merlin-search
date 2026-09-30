@@ -1,0 +1,3025 @@
+[
+  {
+    "company_domain": "177milkstreet.com",
+    "company_name": "Christopher Kimball\u2019s Milk Street",
+    "website": "https://www.177milkstreet.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "challenge_page",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "17thst.com",
+    "company_name": "17th Street Surf Shop",
+    "website": "https://17thst.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@17thst.com",
+        "confidence": "highest",
+        "source_url": "https://17thst.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "donation requests Email us at info@17thst.com Since 1970 Facebook Instagr"
+      },
+      {
+        "address": "web@17thst.com",
+        "confidence": "highest",
+        "source_url": "https://17thst.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "r at checkout. support Email us at web@17thst.com"
+      }
+    ],
+    "role_emails": [
+      "info@17thst.com",
+      "web@17thst.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://17thst.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://17thst.com/pages/locations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://17thst.com/pages/about-17th-street-surf-shop",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://17thst.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Shop 17th Street Surf Shop for the best surf and skate apparel and gear in Virginia Beach and beyond. Quality styles since 1970, with four convenient locations.",
+    "source_urls": [
+      "https://17thst.com",
+      "https://17thst.com/pages/locations",
+      "https://17thst.com/pages/about-17th-street-surf-shop",
+      "https://17thst.com/policies/contact-information"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "1800ceiling.com",
+    "company_name": "1800ceiling",
+    "website": "https://www.1800ceiling.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "sales@1800ceiling.com",
+        "confidence": "highest",
+        "source_url": "https://www.1800ceiling.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "roducts Customer Service Contact Us Email: Sales@1800ceiling.com Shipping Information Most orders are shipped via"
+      }
+    ],
+    "role_emails": [
+      "sales@1800ceiling.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "c.diverter@1800ceiling.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ceiling Leak Diverter",
+        "person_title": "Owner",
+        "source_url": "https://www.1800ceiling.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ceiling.diverter@1800ceiling.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ceiling Leak Diverter",
+        "person_title": "Owner",
+        "source_url": "https://www.1800ceiling.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ceiling@1800ceiling.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ceiling Leak Diverter",
+        "person_title": "Owner",
+        "source_url": "https://www.1800ceiling.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ceiling_diverter@1800ceiling.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ceiling Leak Diverter",
+        "person_title": "Owner",
+        "source_url": "https://www.1800ceiling.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ceilingd@1800ceiling.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ceiling Leak Diverter",
+        "person_title": "Owner",
+        "source_url": "https://www.1800ceiling.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "diverter@1800ceiling.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ceiling Leak Diverter",
+        "person_title": "Owner",
+        "source_url": "https://www.1800ceiling.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "g.scheel@1800ceiling.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Glenn Scheel",
+        "person_title": "Owner",
+        "source_url": "https://www.1800ceiling.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "glenn.scheel@1800ceiling.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Glenn Scheel",
+        "person_title": "Owner",
+        "source_url": "https://www.1800ceiling.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "glenn@1800ceiling.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Glenn Scheel",
+        "person_title": "Owner",
+        "source_url": "https://www.1800ceiling.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "glenn_scheel@1800ceiling.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Glenn Scheel",
+        "person_title": "Owner",
+        "source_url": "https://www.1800ceiling.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "glenns@1800ceiling.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Glenn Scheel",
+        "person_title": "Owner",
+        "source_url": "https://www.1800ceiling.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "scheel@1800ceiling.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Glenn Scheel",
+        "person_title": "Owner",
+        "source_url": "https://www.1800ceiling.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.1800ceiling.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.1800ceiling.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.1800ceiling.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.1800ceiling.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.1800ceiling.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.1800ceiling.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.1800ceiling.com/pages/support-contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.1800ceiling.com/pages/support-contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Shop for plastic air vents, plastic air diffusers, ceiling air vent deflectors, led lighting replacement lenses, fluorescent light lens replacements, lighting diffusers, plastic egg crate louvers, air diverters to stay comfortable at work & all HVAC accessories and residential under cabinet lenses.",
+    "source_urls": [
+      "https://www.1800ceiling.com",
+      "https://www.1800ceiling.com/contact",
+      "https://www.1800ceiling.com/contact-us",
+      "https://www.1800ceiling.com/contactus",
+      "https://www.1800ceiling.com/about",
+      "https://www.1800ceiling.com/about-us",
+      "https://www.1800ceiling.com/pages/support-contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "1800stencil.com",
+    "company_name": "1-800-Stencil",
+    "website": "https://1800stencil.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "//info@1800stencil.com",
+        "confidence": "highest",
+        "source_url": "https://1800stencil.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "info@1800stencil.com",
+        "confidence": "highest",
+        "source_url": "https://1800stencil.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ducts Search 1-800-STENCIL info@1800Stencil.com Country/region US (USD $)"
+      },
+      {
+        "address": "jonathon@1800stencil.com",
+        "confidence": "high",
+        "source_url": "https://1800stencil.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2019-09-20",
+        "context_snippet": "Phone: 1-800-STENCIL (800-783-6245) Email: Jonathon@1800Stencil.com Shipping & Mailing Address Outline Industri"
+      },
+      {
+        "address": "quotes@1800stencil.com",
+        "confidence": "high",
+        "source_url": "https://1800stencil.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2019-09-20",
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "//info@1800stencil.com",
+      "info@1800stencil.com",
+      "jonathon@1800stencil.com",
+      "quotes@1800stencil.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "industries@1800stencil.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Outline Industries",
+        "person_title": "Co-Founder",
+        "source_url": "https://1800stencil.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2019-09-20"
+      },
+      {
+        "address": "j.thompson@1800stencil.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jonathon Thompson",
+        "person_title": "President",
+        "source_url": "https://1800stencil.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2019-09-20"
+      },
+      {
+        "address": "jonathon.thompson@1800stencil.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jonathon Thompson",
+        "person_title": "President",
+        "source_url": "https://1800stencil.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2019-09-20"
+      },
+      {
+        "address": "jonathon@1800stencil.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jonathon Thompson",
+        "person_title": "President",
+        "source_url": "https://1800stencil.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2019-09-20"
+      },
+      {
+        "address": "jonathon_thompson@1800stencil.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jonathon Thompson",
+        "person_title": "President",
+        "source_url": "https://1800stencil.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2019-09-20"
+      },
+      {
+        "address": "jonathont@1800stencil.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jonathon Thompson",
+        "person_title": "President",
+        "source_url": "https://1800stencil.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2019-09-20"
+      },
+      {
+        "address": "l.striping@1800stencil.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lyon Striping",
+        "person_title": "Owner",
+        "source_url": "https://1800stencil.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2019-09-20"
+      },
+      {
+        "address": "lyon.striping@1800stencil.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lyon Striping",
+        "person_title": "Owner",
+        "source_url": "https://1800stencil.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2019-09-20"
+      },
+      {
+        "address": "lyon@1800stencil.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lyon Striping",
+        "person_title": "Owner",
+        "source_url": "https://1800stencil.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2019-09-20"
+      },
+      {
+        "address": "lyon_striping@1800stencil.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lyon Striping",
+        "person_title": "Owner",
+        "source_url": "https://1800stencil.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2019-09-20"
+      },
+      {
+        "address": "lyons@1800stencil.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lyon Striping",
+        "person_title": "Owner",
+        "source_url": "https://1800stencil.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2019-09-20"
+      },
+      {
+        "address": "o.industries@1800stencil.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Outline Industries",
+        "person_title": "Co-Founder",
+        "source_url": "https://1800stencil.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2019-09-20"
+      },
+      {
+        "address": "outline.industries@1800stencil.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Outline Industries",
+        "person_title": "Co-Founder",
+        "source_url": "https://1800stencil.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2019-09-20"
+      },
+      {
+        "address": "outline@1800stencil.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Outline Industries",
+        "person_title": "Co-Founder",
+        "source_url": "https://1800stencil.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2019-09-20"
+      },
+      {
+        "address": "outline_industries@1800stencil.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Outline Industries",
+        "person_title": "Co-Founder",
+        "source_url": "https://1800stencil.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2019-09-20"
+      },
+      {
+        "address": "outlinei@1800stencil.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Outline Industries",
+        "person_title": "Co-Founder",
+        "source_url": "https://1800stencil.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2019-09-20"
+      },
+      {
+        "address": "psychology@1800stencil.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sport Psychology",
+        "person_title": "Co-Founder",
+        "source_url": "https://1800stencil.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2019-09-20"
+      },
+      {
+        "address": "s.psychology@1800stencil.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sport Psychology",
+        "person_title": "Co-Founder",
+        "source_url": "https://1800stencil.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2019-09-20"
+      },
+      {
+        "address": "sport.psychology@1800stencil.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sport Psychology",
+        "person_title": "Co-Founder",
+        "source_url": "https://1800stencil.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2019-09-20"
+      },
+      {
+        "address": "sport@1800stencil.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sport Psychology",
+        "person_title": "Co-Founder",
+        "source_url": "https://1800stencil.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2019-09-20"
+      },
+      {
+        "address": "sport_psychology@1800stencil.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sport Psychology",
+        "person_title": "Co-Founder",
+        "source_url": "https://1800stencil.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2019-09-20"
+      },
+      {
+        "address": "sportp@1800stencil.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sport Psychology",
+        "person_title": "Co-Founder",
+        "source_url": "https://1800stencil.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2019-09-20"
+      },
+      {
+        "address": "striping@1800stencil.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lyon Striping",
+        "person_title": "Owner",
+        "source_url": "https://1800stencil.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2019-09-20"
+      },
+      {
+        "address": "thompson@1800stencil.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jonathon Thompson",
+        "person_title": "President",
+        "source_url": "https://1800stencil.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2019-09-20"
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://1800stencil.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://1800stencil.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2019-09-20"
+      },
+      {
+        "url": "https://1800stencil.com/contact-us",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2019-11-14"
+      },
+      {
+        "url": "https://1800stencil.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2019-09-20"
+      },
+      {
+        "url": "https://1800stencil.com/pages/about-us-1800-stencil-rae-products-1800stencil",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://1800stencil.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://1800stencil.com/pages/locations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "1-800-Stencil offers a huge selection of pre-made & custom stencils for parking lot marking, pavement marking, road and highway symbols, bike & bus lanes, airport runway and taxiway markings, crosswalks, field and athletic marking stencils, and industrial safety. Shop our wide selection of parking l",
+    "source_urls": [
+      "https://1800stencil.com",
+      "https://1800stencil.com/contact",
+      "https://1800stencil.com/contact-us",
+      "https://1800stencil.com/about-us",
+      "https://1800stencil.com/pages/about-us-1800-stencil-rae-products-1800stencil",
+      "https://1800stencil.com/pages/contact",
+      "https://1800stencil.com/pages/locations"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "1804books.com",
+    "company_name": "1804 Books",
+    "website": "https://1804books.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@1804books.com",
+        "confidence": "highest",
+        "source_url": "https://1804books.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "NY 10018 Tuesday - Friday | 4PM - 9PM Saturday | 10AM - 9PM info@1804books.com (646) 685-4179 Search"
+      }
+    ],
+    "role_emails": [
+      "info@1804books.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://1804books.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://1804books.com/collections/1804-books-press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://1804books.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://1804books.com/pages/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://1804books.com/products/tricontinental-havana-1966-speeches-and-documents-of-the-first-solidarity-conference-of-the-peoples-for-africa-asia-and-latin-america",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://1804books.com/products/peoples-fair-classics-bundle",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://1804books.com/products/peoples-fair-revolutionary-children-book-bundle",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://1804books.com/products/peoples-fair-palestine-childrens-book-bundle",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "1804 Books is your home for socialist literature!",
+    "source_urls": [
+      "https://1804books.com",
+      "https://1804books.com/collections/1804-books-press",
+      "https://1804books.com/pages/about-us",
+      "https://1804books.com/pages/press",
+      "https://1804books.com/products/tricontinental-havana-1966-speeches-and-documents-of-the-first-solidarity-conference-of-the-peoples-for-africa-asia-and-latin-america",
+      "https://1804books.com/products/peoples-fair-classics-bundle",
+      "https://1804books.com/products/peoples-fair-revolutionary-children-book-bundle",
+      "https://1804books.com/products/peoples-fair-palestine-childrens-book-bundle"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 14
+  },
+  {
+    "company_domain": "180s.com",
+    "company_name": "180s USA LLC",
+    "website": "https://180s.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customerservice@180s.com",
+        "confidence": "high",
+        "source_url": "https://180s.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "e: 888 -295-1807 Mon\u2013Fri, 9:00 AM \u2013 5:00 PM EST EMAIL US customerservice@180s.com Name Email * Phone"
+      },
+      {
+        "address": "uscustomerservice@180s.com",
+        "confidence": "high",
+        "source_url": "https://180s.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "customerservice@180s.com",
+      "uscustomerservice@180s.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://180s.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://180s.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2019-11-20"
+      },
+      {
+        "url": "https://180s.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://180s.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://180s.com/pages/contact-us",
+        "action": "/contact#ContactForm-AVDJtdzdvNGwyMUlrc__contact_form_UwiCkQ",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Shop 180s ear warmers, gloves, and hats for men and women. Stay warm in style with our cozy winter accessories. Find your perfect fit today!",
+    "source_urls": [
+      "https://180s.com/about-us",
+      "https://180s.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "180snacks.com",
+    "company_name": "www.180snacks.com",
+    "website": "https://www.180snacks.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@180snacks.com",
+        "confidence": "high",
+        "source_url": "https://www.180snacks.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "r: Message: Email Us info@180snacks.com Follow Us On Social Media"
+      }
+    ],
+    "role_emails": [
+      "info@180snacks.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.180snacks.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.180snacks.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "180 Snacks, Inc. / Mareblu Naturals",
+    "source_urls": [
+      "https://www.180snacks.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "1818farms.com",
+    "company_name": "1818 Farms",
+    "website": "https://1818farms.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@1818farms.com",
+        "confidence": "high",
+        "source_url": "https://1818farms.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "stions About 1818 Farms? 1818 FARMS info@1818farms.com 256.489.0777 24889 Lauderdale Street Mooresville, AL 35649"
+      }
+    ],
+    "role_emails": [
+      "info@1818farms.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "d.g@1818farms.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Diane G.",
+        "person_title": null,
+        "source_url": "https://1818farms.com/products/pressed-flowers-for-resin-and-diy-crafts",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "diane.g@1818farms.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Diane G.",
+        "person_title": null,
+        "source_url": "https://1818farms.com/products/pressed-flowers-for-resin-and-diy-crafts",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "diane@1818farms.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Diane G.",
+        "person_title": null,
+        "source_url": "https://1818farms.com/products/pressed-flowers-for-resin-and-diy-crafts",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "diane_g@1818farms.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Diane G.",
+        "person_title": null,
+        "source_url": "https://1818farms.com/products/pressed-flowers-for-resin-and-diy-crafts",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "dianeg@1818farms.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Diane G.",
+        "person_title": null,
+        "source_url": "https://1818farms.com/products/pressed-flowers-for-resin-and-diy-crafts",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "g@1818farms.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Diane G.",
+        "person_title": null,
+        "source_url": "https://1818farms.com/products/pressed-flowers-for-resin-and-diy-crafts",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "h.h@1818farms.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Holly H.",
+        "person_title": null,
+        "source_url": "https://1818farms.com/products/patriotic-pressed-flower-ornament",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "h@1818farms.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Holly H.",
+        "person_title": null,
+        "source_url": "https://1818farms.com/products/patriotic-pressed-flower-ornament",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "holly.h@1818farms.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Holly H.",
+        "person_title": null,
+        "source_url": "https://1818farms.com/products/patriotic-pressed-flower-ornament",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "holly@1818farms.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Holly H.",
+        "person_title": null,
+        "source_url": "https://1818farms.com/products/patriotic-pressed-flower-ornament",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "holly_h@1818farms.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Holly H.",
+        "person_title": null,
+        "source_url": "https://1818farms.com/products/patriotic-pressed-flower-ornament",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "hollyh@1818farms.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Holly H.",
+        "person_title": null,
+        "source_url": "https://1818farms.com/products/patriotic-pressed-flower-ornament",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "j.o@1818farms.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jolene O.",
+        "person_title": null,
+        "source_url": "https://1818farms.com/products/pressed-flowers-for-resin-and-diy-crafts",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jolene.o@1818farms.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jolene O.",
+        "person_title": null,
+        "source_url": "https://1818farms.com/products/pressed-flowers-for-resin-and-diy-crafts",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jolene@1818farms.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jolene O.",
+        "person_title": null,
+        "source_url": "https://1818farms.com/products/pressed-flowers-for-resin-and-diy-crafts",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jolene_o@1818farms.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jolene O.",
+        "person_title": null,
+        "source_url": "https://1818farms.com/products/pressed-flowers-for-resin-and-diy-crafts",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "joleneo@1818farms.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jolene O.",
+        "person_title": null,
+        "source_url": "https://1818farms.com/products/pressed-flowers-for-resin-and-diy-crafts",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "o@1818farms.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jolene O.",
+        "person_title": null,
+        "source_url": "https://1818farms.com/products/pressed-flowers-for-resin-and-diy-crafts",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "p.h@1818farms.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "PAULA H.",
+        "person_title": null,
+        "source_url": "https://1818farms.com/products/patriotic-pressed-flower-ornament",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "paula.h@1818farms.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "PAULA H.",
+        "person_title": null,
+        "source_url": "https://1818farms.com/products/patriotic-pressed-flower-ornament",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "paula@1818farms.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "PAULA H.",
+        "person_title": null,
+        "source_url": "https://1818farms.com/products/patriotic-pressed-flower-ornament",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "paula_h@1818farms.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "PAULA H.",
+        "person_title": null,
+        "source_url": "https://1818farms.com/products/patriotic-pressed-flower-ornament",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "paulah@1818farms.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "PAULA H.",
+        "person_title": null,
+        "source_url": "https://1818farms.com/products/patriotic-pressed-flower-ornament",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://1818farms.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://1818farms.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://1818farms.com/products/pressed-flowers-for-resin-and-diy-crafts",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://1818farms.com/products/patriotic-pressed-flower-ornament",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://1818farms.com/products/pressed-flower-art-workshop",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://1818farms.com/products/pressed-flower-candle-holder-workshop",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://1818farms.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://1818farms.com/pages/1818-farms-retail-location-map",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://1818farms.com/products/pressed-flowers-for-resin-and-diy-crafts",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://1818farms.com/products/patriotic-pressed-flower-ornament",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "1818 Farms is a sustainable flower farm and award-winning lifestyle brand in historic Mooresville, Alabama, crafting small-batch skincare, home, and floral goods that celebrate \u201clife the way it used to be.\u201d Their world-famous Shea Creme is a customer favorite, renowned for its luxurious hydration an",
+    "source_urls": [
+      "https://1818farms.com",
+      "https://1818farms.com/contact-us",
+      "https://1818farms.com/products/pressed-flowers-for-resin-and-diy-crafts",
+      "https://1818farms.com/products/patriotic-pressed-flower-ornament",
+      "https://1818farms.com/products/pressed-flower-art-workshop",
+      "https://1818farms.com/products/pressed-flower-candle-holder-workshop",
+      "https://1818farms.com/pages/about-us",
+      "https://1818farms.com/pages/1818-farms-retail-location-map"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "1821manmade.com",
+    "company_name": "18.21 Man Made",
+    "website": "https://1821manmade.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@1821manmade.com",
+        "confidence": "high",
+        "source_url": "https://1821manmade.com/pages/press-and-media-inquiries",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "ninfo@1821manmade.com",
+        "confidence": "high",
+        "source_url": "https://1821manmade.com/pages/press-and-media-inquiries",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "orders@1821manmade.com",
+        "confidence": "high",
+        "source_url": "https://1821manmade.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@1821manmade.com",
+      "ninfo@1821manmade.com",
+      "orders@1821manmade.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "a.lafon@1821manmade.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "ASTON LAFON",
+        "person_title": null,
+        "source_url": "https://1821manmade.com/pages/press-and-media-inquiries",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "aston.lafon@1821manmade.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "ASTON LAFON",
+        "person_title": null,
+        "source_url": "https://1821manmade.com/pages/press-and-media-inquiries",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "aston@1821manmade.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "ASTON LAFON",
+        "person_title": null,
+        "source_url": "https://1821manmade.com/pages/press-and-media-inquiries",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "aston_lafon@1821manmade.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "ASTON LAFON",
+        "person_title": null,
+        "source_url": "https://1821manmade.com/pages/press-and-media-inquiries",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "astonl@1821manmade.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "ASTON LAFON",
+        "person_title": null,
+        "source_url": "https://1821manmade.com/pages/press-and-media-inquiries",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "lafon@1821manmade.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "ASTON LAFON",
+        "person_title": null,
+        "source_url": "https://1821manmade.com/pages/press-and-media-inquiries",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "m.made@1821manmade.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Man Made",
+        "person_title": "Founder",
+        "source_url": "https://1821manmade.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "made@1821manmade.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Man Made",
+        "person_title": "Founder",
+        "source_url": "https://1821manmade.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "man.made@1821manmade.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Man Made",
+        "person_title": "Founder",
+        "source_url": "https://1821manmade.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "man@1821manmade.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Man Made",
+        "person_title": "Founder",
+        "source_url": "https://1821manmade.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "man_made@1821manmade.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Man Made",
+        "person_title": "Founder",
+        "source_url": "https://1821manmade.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "manm@1821manmade.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Man Made",
+        "person_title": "Founder",
+        "source_url": "https://1821manmade.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://1821manmade.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://1821manmade.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://1821manmade.com/pages/press-and-media-inquiries",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://1821manmade.com/pages/press-and-media-inquiries",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Inspired by Prohibition-era bootleggers, 18.21 Man Made empowers barbers, stylists, and men with professional-grade grooming and styling products",
+    "source_urls": [
+      "https://1821manmade.com",
+      "https://1821manmade.com/pages/press-and-media-inquiries"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "1822denim.com",
+    "company_name": "1822 Denim",
+    "website": "https://1822denim.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://1822denim.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Contemporary Denim for Women. Designed in New York City. Find Your Perfect Fit. Free US Shipping on Orders $100 and Up. Shop 1822 Denim Jeans in Skinny, Cropped, High Rise and More in 1822 Denim.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "1845barndominiums.com",
+    "company_name": "1845 Barndominiums",
+    "website": "https://1845barndominiums.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "c.holloway@1845barndominiums.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Cody Holloway",
+        "person_title": "Owner",
+        "source_url": "https://1845barndominiums.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "cody.holloway@1845barndominiums.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Cody Holloway",
+        "person_title": "Owner",
+        "source_url": "https://1845barndominiums.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "cody@1845barndominiums.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Cody Holloway",
+        "person_title": "Owner",
+        "source_url": "https://1845barndominiums.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "cody_holloway@1845barndominiums.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Cody Holloway",
+        "person_title": "Owner",
+        "source_url": "https://1845barndominiums.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "codyh@1845barndominiums.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Cody Holloway",
+        "person_title": "Owner",
+        "source_url": "https://1845barndominiums.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "holloway@1845barndominiums.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Cody Holloway",
+        "person_title": "Owner",
+        "source_url": "https://1845barndominiums.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://1845barndominiums.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://1845barndominiums.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://1845barndominiums.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://1845barndominiums.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2023-09-21"
+      },
+      {
+        "url": "https://www.1845barndominiums.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.1845barndominiums.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "1845 Barndominiums designs custom barndominiums and offers kits and shells nationwide, rooted in craft, character, and thoughtful spaces made for everyday living",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "18650batterystore.com",
+    "company_name": "18650BatteryStore.com",
+    "website": "https://www.18650batterystore.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Email Support",
+        "title": null,
+        "email": "support@18650batterystore.com",
+        "source_url": "https://www.18650batterystore.com/pages/contact-us"
+      }
+    ],
+    "people": [
+      {
+        "name": "Email Support",
+        "title": null,
+        "email": "support@18650batterystore.com",
+        "source_url": "https://www.18650batterystore.com/pages/contact-us"
+      }
+    ],
+    "emails": [
+      {
+        "address": "support@18650batterystore.com",
+        "confidence": "highest",
+        "source_url": "https://www.18650batterystore.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Need help? Call us 1-800-547-3050 support@18650batterystore.com Follow Us Facebook Twitter"
+      }
+    ],
+    "role_emails": [
+      "support@18650batterystore.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.18650batterystore.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.18650batterystore.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.18650batterystore.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.18650batterystore.com/pages/about-us",
+        "action": "/contact#about-sourcing-form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.18650batterystore.com/pages/contact-us",
+        "action": "/contact#contact-form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Buy 18650 & 21700 batteries, Li\u2011ion/LiFePO4 cells & chargers. Samsung, Molicel, Panasonic. Bulk wholesale deals, fast shipping & expert support.",
+    "source_urls": [
+      "https://www.18650batterystore.com",
+      "https://www.18650batterystore.com/pages/about-us",
+      "https://www.18650batterystore.com/pages/contact-us"
+    ],
+    "reason": null,
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "187killerpads.com",
+    "company_name": "187killerpads",
+    "website": "https://187killerpads.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@187killerpads.com",
+        "confidence": "high",
+        "source_url": "https://187killerpads.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ER PADS 5115 Avenida Encinas Suite J Carlsbad, CA 92008 E: info@187killerpads.com Customer Support Hours: Monday\u2013Friday, 9:00 AM \u2013 5:00 PM"
+      }
+    ],
+    "role_emails": [
+      "info@187killerpads.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "o.pacetti@187killerpads.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Our Vinton Pacetti",
+        "person_title": "Founder",
+        "source_url": "https://187killerpads.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "our.pacetti@187killerpads.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Our Vinton Pacetti",
+        "person_title": "Founder",
+        "source_url": "https://187killerpads.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "our@187killerpads.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Our Vinton Pacetti",
+        "person_title": "Founder",
+        "source_url": "https://187killerpads.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "our_pacetti@187killerpads.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Our Vinton Pacetti",
+        "person_title": "Founder",
+        "source_url": "https://187killerpads.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ourp@187killerpads.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Our Vinton Pacetti",
+        "person_title": "Founder",
+        "source_url": "https://187killerpads.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "pacetti@187killerpads.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Our Vinton Pacetti",
+        "person_title": "Founder",
+        "source_url": "https://187killerpads.com",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://187killerpads.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://187killerpads.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://187killerpads.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://187killerpads.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://187killerpads.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://187killerpads.com/pages/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://187killerpads.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://187killerpads.com/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://187killerpads.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "If you skate, you know. 187 Killer Pads are the choice of more pro skaters than any other brand--by far. There's a reason skaters like Steve Caballero, Tony Hawk, Lizzie Armanto, Christian Hosoi, Moto Shibata and dozens of other top pros trust 187 to protect them as they push skating to new levels e",
+    "source_urls": [
+      "https://187killerpads.com/contact",
+      "https://187killerpads.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "1888mills.com",
+    "company_name": "1888 Mills, LLC",
+    "website": "https://www.1888mills.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "legal@1888mills.com",
+        "confidence": "highest",
+        "source_url": "https://www.1888mills.com/contact-us",
+        "source_type": "archived",
+        "snapshot_date": "2023-02-04",
+        "context_snippet": "marks or patents, please send the following information to legal@1888mills.com \u200b Information required: 1. A description of the alleged"
+      }
+    ],
+    "role_emails": [
+      "legal@1888mills.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.1888mills.com",
+        "page_type": "home",
+        "source_type": "archived",
+        "snapshot_date": "2025-04-26"
+      },
+      {
+        "url": "https://www.1888mills.com/contact-us",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2023-02-04"
+      },
+      {
+        "url": "https://www.1888mills.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2025-04-22"
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.1888mills.com",
+        "action": "/contact#contact-us-page",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.1888mills.com/contact-us",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.1888mills.com/pages/contact",
+        "action": "/contact#contact-us-page",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "1888 Mills, LLC",
+    "source_urls": [
+      "https://www.1888mills.com/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "18chestnuts.com",
+    "company_name": "18 CHESTNUTS",
+    "website": "https://www.18chestnuts.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@18chestnuts.com",
+        "confidence": "highest",
+        "source_url": "https://www.18chestnuts.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "icy and Terms of Service apply. Customer service support@18chestnuts.com Phone 727-919-5242 Wholesale skossoff@soupmaven.com"
+      },
+      {
+        "address": "hello@18chestnuts.com",
+        "confidence": "high",
+        "source_url": "https://www.18chestnuts.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "hello@18chestnuts.com",
+      "support@18chestnuts.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.18chestnuts.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.18chestnuts.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.18chestnuts.com/pages/contact",
+        "action": "/contact#ContactForm-template--26705070457105__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Fresh, savory vegan soups made with real, high-quality Plant-based ingredients that are ready to eat in minutes. Gourmet flavors delivered straight to your door. Taste the difference with 18 Chestnuts!",
+    "source_urls": [
+      "https://www.18chestnuts.com",
+      "https://www.18chestnuts.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "18east.co",
+    "company_name": "18 East",
+    "website": "https://18east.co",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://18east.co",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://18east.co/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://18east.co/pages/contact",
+        "action": "/contact#Form-template--16072725692498__contact-form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "18 East is a designer of handmade gear for enjoying the natural world.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "1900icecream.com",
+    "company_name": "1-900-ICE-CREAM",
+    "website": "https://1900icecream.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://1900icecream.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://1900icecream.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://1900icecream.com/locations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "WE REALLY DON\u2019T LIKE GETTING CRAP EMAILS OURSELVES, SO WE ONLY SEND EMAILS WHEN IT\u2019S ACTUALLY IMPORTANT.  YOU\u2019LL ONLY GET NOTIFIED ABOUT NEW STORE OPENINGS, MERCH DROPS, NATIONAL ICE CREAM SHIPPING, OR SOMETHING THAT IMPACTS  ACESS TO THE SHOPS (ie PIPE BURST AND WE HAVE TO CLOSE)",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "1906.shop",
+    "company_name": "1906.shop",
+    "website": "https://1906.shop",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@1906.shop",
+        "confidence": "high",
+        "source_url": "https://1906.shop",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@1906.shop"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://1906.shop",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://1906.shop/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://1906.shop/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Buy THC online at 1906! Fast-acting THC and CBD pills, gummies and more delivered to your door. Pharma-grade plant-powered products work in 20 minutes or less.",
+    "source_urls": [
+      "https://1906.shop",
+      "https://1906.shop/pages/about",
+      "https://1906.shop/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "1915farm.com",
+    "company_name": "1915 Farm",
+    "website": "https://1915farm.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "1915farm@1915farm.com",
+        "confidence": "high",
+        "source_url": "https://1915farm.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "1915farm@1915farm.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://1915farm.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://1915farm.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://1915farm.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://1915farm.com/pages/contact-us",
+        "action": "/contact#contact-us-page",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Texas Grass fed beef, pasture raised free range chicken and pork delivered from our local Texas farm! Order online for home delivery - located close to Houston, Dallas, Austin, San Antonio, and Corpus Christi! Humanely raised, pasture raised, free range, and grass fed meats! We ship custom cuts and ",
+    "source_urls": [
+      "https://1915farm.com",
+      "https://1915farm.com/pages/about-us",
+      "https://1915farm.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "1921movement.com",
+    "company_name": "1921Movement",
+    "website": "https://1921movement.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@1921movement.com",
+        "confidence": "high",
+        "source_url": "https://1921movement.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Contact Us Contact Us Email: support@1921Movement.com We strive to respond to all inquiries within 24 hours."
+      }
+    ],
+    "role_emails": [
+      "support@1921movement.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "b.street@1921movement.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Black Wall Street",
+        "person_title": "Founder",
+        "source_url": "https://1921movement.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2019-12-14"
+      },
+      {
+        "address": "black.street@1921movement.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Black Wall Street",
+        "person_title": "Founder",
+        "source_url": "https://1921movement.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2019-12-14"
+      },
+      {
+        "address": "black@1921movement.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Black Wall Street",
+        "person_title": "Founder",
+        "source_url": "https://1921movement.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2019-12-14"
+      },
+      {
+        "address": "black_street@1921movement.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Black Wall Street",
+        "person_title": "Founder",
+        "source_url": "https://1921movement.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2019-12-14"
+      },
+      {
+        "address": "blacks@1921movement.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Black Wall Street",
+        "person_title": "Founder",
+        "source_url": "https://1921movement.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2019-12-14"
+      },
+      {
+        "address": "street@1921movement.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Black Wall Street",
+        "person_title": "Founder",
+        "source_url": "https://1921movement.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2019-12-14"
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://1921movement.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://1921movement.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2019-12-14"
+      },
+      {
+        "url": "https://1921movement.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://1921movement.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://1921movement.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "1921Movement \u2014 faith-driven streetwear rooted in Black Wall Street history. Wearable art built to inspire, empower, and make a statement.",
+    "source_urls": [
+      "https://1921movement.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "1928.com",
+    "company_name": "1928 Jewelry",
+    "website": "https://www.1928.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customerservice@1928.com",
+        "confidence": "highest",
+        "source_url": "https://www.1928.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Year's Eve). Website Customer Service 818-841-1928 customerservice@1928.com 1928.com Customers Customer Service For que"
+      },
+      {
+        "address": "wholesale@1928.com",
+        "confidence": "highest",
+        "source_url": "https://www.1928.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "rtunities, click here . Phone: 818-841-1928 Email: Wholesale@1928.com Connect With Us Follow us on social media for"
+      }
+    ],
+    "role_emails": [
+      "customerservice@1928.com",
+      "wholesale@1928.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "b.tobman@1928.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Brandon Tobman",
+        "person_title": null,
+        "source_url": "https://www.1928.com/contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "bernie@1928.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mel Bernie",
+        "person_title": "Founder",
+        "source_url": "https://www.1928.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "brandon.tobman@1928.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Brandon Tobman",
+        "person_title": null,
+        "source_url": "https://www.1928.com/contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "brandon@1928.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Brandon Tobman",
+        "person_title": null,
+        "source_url": "https://www.1928.com/contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "brandon_tobman@1928.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Brandon Tobman",
+        "person_title": null,
+        "source_url": "https://www.1928.com/contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "brandont@1928.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Brandon Tobman",
+        "person_title": null,
+        "source_url": "https://www.1928.com/contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "m.bernie@1928.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mel Bernie",
+        "person_title": "Founder",
+        "source_url": "https://www.1928.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mel.bernie@1928.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mel Bernie",
+        "person_title": "Founder",
+        "source_url": "https://www.1928.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mel@1928.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mel Bernie",
+        "person_title": "Founder",
+        "source_url": "https://www.1928.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mel_bernie@1928.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mel Bernie",
+        "person_title": "Founder",
+        "source_url": "https://www.1928.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "melb@1928.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mel Bernie",
+        "person_title": "Founder",
+        "source_url": "https://www.1928.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "o.bernie@1928.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Our Mel Bernie",
+        "person_title": "Founder",
+        "source_url": "https://www.1928.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "our.bernie@1928.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Our Mel Bernie",
+        "person_title": "Founder",
+        "source_url": "https://www.1928.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "our@1928.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Our Mel Bernie",
+        "person_title": "Founder",
+        "source_url": "https://www.1928.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "our_bernie@1928.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Our Mel Bernie",
+        "person_title": "Founder",
+        "source_url": "https://www.1928.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ourb@1928.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Our Mel Bernie",
+        "person_title": "Founder",
+        "source_url": "https://www.1928.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tobman@1928.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Brandon Tobman",
+        "person_title": null,
+        "source_url": "https://www.1928.com/contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.1928.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.1928.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.1928.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.1928.com/pages/about-1928",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.1928.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "1928 Jewelry offers women's vintage-style jewelry for the chic fashionista: affordable vintage-inspired earrings, necklaces, bracelets, brooches & pins. Handcrafted in the USA since 1968 with antique gold finishes and timeless design. Shop the collection.",
+    "source_urls": [
+      "https://www.1928.com/contact",
+      "https://www.1928.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "194crafthouse.com",
+    "company_name": "194 Craft House",
+    "website": "https://194crafthouse.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "contact@194crafthouse.com",
+        "confidence": "high",
+        "source_url": "https://194crafthouse.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "r and are having problems using this website, please email contact@194crafthouse.com for assistance. Sign Up For Our Newsletter"
+      },
+      {
+        "address": "quytruong@194crafthouse.com",
+        "confidence": "high",
+        "source_url": "https://194crafthouse.com/contact-us",
+        "source_type": "archived",
+        "snapshot_date": "2021-06-14",
+        "context_snippet": "the store Wholesale Email: quytruong@194crafthouse.com Whatsapp: +84976778278"
+      }
+    ],
+    "role_emails": [
+      "contact@194crafthouse.com",
+      "quytruong@194crafthouse.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "bui@194crafthouse.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Thoai Bui",
+        "person_title": "Co-Founder",
+        "source_url": "https://194crafthouse.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2021-06-14"
+      },
+      {
+        "address": "c.house@194crafthouse.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "194 Craft House",
+        "person_title": null,
+        "source_url": "https://194crafthouse.com/contact-us",
+        "source_type": "archived",
+        "snapshot_date": "2021-06-14"
+      },
+      {
+        "address": "craft.house@194crafthouse.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "194 Craft House",
+        "person_title": null,
+        "source_url": "https://194crafthouse.com/contact-us",
+        "source_type": "archived",
+        "snapshot_date": "2021-06-14"
+      },
+      {
+        "address": "craft@194crafthouse.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "194 Craft House",
+        "person_title": null,
+        "source_url": "https://194crafthouse.com/contact-us",
+        "source_type": "archived",
+        "snapshot_date": "2021-06-14"
+      },
+      {
+        "address": "craft_house@194crafthouse.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "194 Craft House",
+        "person_title": null,
+        "source_url": "https://194crafthouse.com/contact-us",
+        "source_type": "archived",
+        "snapshot_date": "2021-06-14"
+      },
+      {
+        "address": "crafth@194crafthouse.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "194 Craft House",
+        "person_title": null,
+        "source_url": "https://194crafthouse.com/contact-us",
+        "source_type": "archived",
+        "snapshot_date": "2021-06-14"
+      },
+      {
+        "address": "house@194crafthouse.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "194 Craft House",
+        "person_title": null,
+        "source_url": "https://194crafthouse.com/contact-us",
+        "source_type": "archived",
+        "snapshot_date": "2021-06-14"
+      },
+      {
+        "address": "k.ngo@194crafthouse.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Khanh Ngo",
+        "person_title": "Co-Founder",
+        "source_url": "https://194crafthouse.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2021-06-14"
+      },
+      {
+        "address": "khanh.ngo@194crafthouse.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Khanh Ngo",
+        "person_title": "Co-Founder",
+        "source_url": "https://194crafthouse.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2021-06-14"
+      },
+      {
+        "address": "khanh@194crafthouse.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Khanh Ngo",
+        "person_title": "Co-Founder",
+        "source_url": "https://194crafthouse.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2021-06-14"
+      },
+      {
+        "address": "khanh_ngo@194crafthouse.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Khanh Ngo",
+        "person_title": "Co-Founder",
+        "source_url": "https://194crafthouse.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2021-06-14"
+      },
+      {
+        "address": "khanhn@194crafthouse.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Khanh Ngo",
+        "person_title": "Co-Founder",
+        "source_url": "https://194crafthouse.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2021-06-14"
+      },
+      {
+        "address": "ngo@194crafthouse.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Khanh Ngo",
+        "person_title": "Co-Founder",
+        "source_url": "https://194crafthouse.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2021-06-14"
+      },
+      {
+        "address": "q.truong@194crafthouse.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Quy Truong",
+        "person_title": "Co-Founder",
+        "source_url": "https://194crafthouse.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2021-06-14"
+      },
+      {
+        "address": "quy.truong@194crafthouse.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Quy Truong",
+        "person_title": "Co-Founder",
+        "source_url": "https://194crafthouse.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2021-06-14"
+      },
+      {
+        "address": "quy@194crafthouse.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Quy Truong",
+        "person_title": "Co-Founder",
+        "source_url": "https://194crafthouse.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2021-06-14"
+      },
+      {
+        "address": "quy_truong@194crafthouse.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Quy Truong",
+        "person_title": "Co-Founder",
+        "source_url": "https://194crafthouse.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2021-06-14"
+      },
+      {
+        "address": "quyt@194crafthouse.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Quy Truong",
+        "person_title": "Co-Founder",
+        "source_url": "https://194crafthouse.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2021-06-14"
+      },
+      {
+        "address": "t.bui@194crafthouse.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Thoai Bui",
+        "person_title": "Co-Founder",
+        "source_url": "https://194crafthouse.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2021-06-14"
+      },
+      {
+        "address": "thoai.bui@194crafthouse.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Thoai Bui",
+        "person_title": "Co-Founder",
+        "source_url": "https://194crafthouse.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2021-06-14"
+      },
+      {
+        "address": "thoai@194crafthouse.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Thoai Bui",
+        "person_title": "Co-Founder",
+        "source_url": "https://194crafthouse.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2021-06-14"
+      },
+      {
+        "address": "thoai_bui@194crafthouse.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Thoai Bui",
+        "person_title": "Co-Founder",
+        "source_url": "https://194crafthouse.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2021-06-14"
+      },
+      {
+        "address": "thoaib@194crafthouse.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Thoai Bui",
+        "person_title": "Co-Founder",
+        "source_url": "https://194crafthouse.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2021-06-14"
+      },
+      {
+        "address": "truong@194crafthouse.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Quy Truong",
+        "person_title": "Co-Founder",
+        "source_url": "https://194crafthouse.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2021-06-14"
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://194crafthouse.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://194crafthouse.com/contact-us",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2021-06-14"
+      },
+      {
+        "url": "https://194crafthouse.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2021-06-14"
+      },
+      {
+        "url": "https://194crafthouse.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://194crafthouse.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://194crafthouse.com/pages/about-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Check out our eco-friendly and sustainable handmade products by skilled Artisans for the very best personalized gift for for everyone for all occasions.",
+    "source_urls": [
+      "https://194crafthouse.com",
+      "https://194crafthouse.com/contact-us",
+      "https://194crafthouse.com/about-us",
+      "https://194crafthouse.com/pages/about-us",
+      "https://194crafthouse.com/policies/contact-information"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "1951coffee.com",
+    "company_name": "1951 Coffee Company",
+    "website": "https://1951coffee.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@1951coffee.com",
+        "confidence": "highest",
+        "source_url": "https://1951coffee.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@1951coffee.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://1951coffee.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://1951coffee.com/contact-us",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2020-09-03"
+      },
+      {
+        "url": "https://1951coffee.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2016-07-15"
+      },
+      {
+        "url": "https://1951coffee.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://1951coffee.com/team",
+        "page_type": "team",
+        "source_type": "archived",
+        "snapshot_date": "2019-08-21"
+      },
+      {
+        "url": "https://1951coffee.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://1951coffee.com/pages/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://1951coffee.com/products/cloud-king-espresso",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://1951coffee.com/contact-us",
+        "action": "https://tuna-pear-zhhc.squarespace.com",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "At 1951 Coffee Company, we blend the warmth of coffee with the strength of community to uplift refugees on their journey to new beginnings in the United States.",
+    "source_urls": [
+      "https://1951coffee.com",
+      "https://1951coffee.com/contact-us",
+      "https://1951coffee.com/about-us",
+      "https://1951coffee.com/team",
+      "https://1951coffee.com/pages/about",
+      "https://1951coffee.com/pages/our-team",
+      "https://1951coffee.com/products/cloud-king-espresso"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "1985games.com",
+    "company_name": "1985 Games",
+    "website": "https://1985games.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@1985games.com",
+        "confidence": "high",
+        "source_url": "https://1985games.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@1985games.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://1985games.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://1985games.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://1985games.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://1985games.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://1985games.com/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://1985games.com/pages/about",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://1985games.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "1985 Games makes D&D and TTRPG accessories, including 5E players journals, 2D terrain sets, VHS dice sets and mystery dice.",
+    "source_urls": [
+      "https://1985games.com",
+      "https://1985games.com/contact",
+      "https://1985games.com/pages/about",
+      "https://1985games.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "1999.co.jp",
+    "company_name": "HobbySearch",
+    "website": "https://www.1999.co.jp/eng/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  }
+]
