@@ -1,0 +1,2010 @@
+[
+  {
+    "company_domain": "abbiokitchen.com",
+    "company_name": "Abbio",
+    "website": "https://www.abbiokitchen.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "robots_disallowed",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "abbottlyon.com",
+    "company_name": "Abbott Lyon US",
+    "website": "https://us.abbottlyon.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://us.abbottlyon.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://us.abbottlyon.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://us.abbottlyon.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://us.abbottlyon.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://us.abbottlyon.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://us.abbottlyon.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://us.abbottlyon.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Our focus at Abbott Lyon is on stylish personal designs that you\u2019ll want to wear every day. We want your jewelry to feel special and make your inner sparkle shine.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "abbyandfinn.com",
+    "company_name": "Abby & Finn",
+    "website": "https://abbyandfinn.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "help@abbyandfinn.com",
+        "confidence": "highest",
+        "source_url": "https://www.abbyandfinn.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2019-06-07",
+        "context_snippet": "200 Quebec Street, Suite 209 Denver, CO 80230 Email: help@abbyandfinn.com Sign up for exclu"
+      }
+    ],
+    "role_emails": [
+      "help@abbyandfinn.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.abbyandfinn.com",
+        "page_type": "home",
+        "source_type": "archived",
+        "snapshot_date": "2023-12-18"
+      },
+      {
+        "url": "https://www.abbyandfinn.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2019-06-07"
+      },
+      {
+        "url": "https://www.abbyandfinn.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2023-12-16"
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.abbyandfinn.com/contact",
+        "action": "/contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.abbyandfinn.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "ABBY&FINN\u00ae revolutionizes baby comfort and design by making diapers extra soft and snug. Our Diapers are Hypoallergenic, Ultra-gentle, and Super Absorbent. Made by and for Parents. Dermatologically Tested. Free Shipping on Bundles. Bundles Ship Free.",
+    "source_urls": [
+      "https://www.abbyandfinn.com/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "abbysbetter.com",
+    "company_name": "Abby's Better",
+    "website": "https://abbysbetter.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://abbysbetter.com/contact-us",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2016-08-06"
+      },
+      {
+        "url": "https://abbysbetter.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2017-07-06"
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://abbysbetter.com/contact-us",
+        "action": "/contact-us/#wpcf7-f4-p1166-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "DEWI11 menjadi ruang digital untuk mengenal berbagai pilihan slot online dan perkembangan pola permainan terbaru dengan tampilan sederhana serta akses yang mudah dijelajahi.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "abbyson.com",
+    "company_name": "Abbyson.com",
+    "website": "https://www.abbyson.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.abbyson.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.abbyson.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.abbyson.com/contact-us",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2017-01-13"
+      },
+      {
+        "url": "https://www.abbyson.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.abbyson.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.abbyson.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.abbyson.com/products/luna-71-media-console-natural",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.abbyson.com/products/luna-71-media-console",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.abbyson.com/contact-us",
+        "action": "http://www.abbyson.com/contact-us",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.abbyson.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "For over 30 years, Abbyson has been designing stylish and expertly crafted home furniture at affordable prices. Shop with us today.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "abcam.com",
+    "company_name": "Abcam",
+    "website": "https://www.abcam.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "content@abcam.com",
+        "confidence": "high",
+        "source_url": "https://www.abcam.com/en-us/press-releases/abcam-honored-at-2026-citeab-awards",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "and his team.\u201d www.abcam.com Media Contacts: Abcam content@abcam.com About CiteAb Awards The CiteAb Awards celebrate the sup"
+      }
+    ],
+    "role_emails": [
+      "content@abcam.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "a.chalmers@abcam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Andrew Chalmers",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.abcam.com/en-us/press-releases/abcam-honored-at-2026-citeab-awards",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "andrew.chalmers@abcam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Andrew Chalmers",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.abcam.com/en-us/press-releases/abcam-honored-at-2026-citeab-awards",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "andrew@abcam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Andrew Chalmers",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.abcam.com/en-us/press-releases/abcam-honored-at-2026-citeab-awards",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "andrew_chalmers@abcam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Andrew Chalmers",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.abcam.com/en-us/press-releases/abcam-honored-at-2026-citeab-awards",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "andrewc@abcam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Andrew Chalmers",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.abcam.com/en-us/press-releases/abcam-honored-at-2026-citeab-awards",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "chalmers@abcam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Andrew Chalmers",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.abcam.com/en-us/press-releases/abcam-honored-at-2026-citeab-awards",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "j.johnson@abcam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Josh Johnson",
+        "person_title": "President",
+        "source_url": "https://www.abcam.com/en-us/press-releases/abcam-honored-at-2026-citeab-awards",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "johnson@abcam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Josh Johnson",
+        "person_title": "President",
+        "source_url": "https://www.abcam.com/en-us/press-releases/abcam-honored-at-2026-citeab-awards",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "josh.johnson@abcam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Josh Johnson",
+        "person_title": "President",
+        "source_url": "https://www.abcam.com/en-us/press-releases/abcam-honored-at-2026-citeab-awards",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "josh@abcam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Josh Johnson",
+        "person_title": "President",
+        "source_url": "https://www.abcam.com/en-us/press-releases/abcam-honored-at-2026-citeab-awards",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "josh_johnson@abcam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Josh Johnson",
+        "person_title": "President",
+        "source_url": "https://www.abcam.com/en-us/press-releases/abcam-honored-at-2026-citeab-awards",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "joshj@abcam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Josh Johnson",
+        "person_title": "President",
+        "source_url": "https://www.abcam.com/en-us/press-releases/abcam-honored-at-2026-citeab-awards",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "quality@abcam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Technical Quality",
+        "person_title": "President",
+        "source_url": "https://www.abcam.com/en-us/press-releases/abcam-honored-at-2026-citeab-awards",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "t.quality@abcam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Technical Quality",
+        "person_title": "President",
+        "source_url": "https://www.abcam.com/en-us/press-releases/abcam-honored-at-2026-citeab-awards",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "technical.quality@abcam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Technical Quality",
+        "person_title": "President",
+        "source_url": "https://www.abcam.com/en-us/press-releases/abcam-honored-at-2026-citeab-awards",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "technical@abcam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Technical Quality",
+        "person_title": "President",
+        "source_url": "https://www.abcam.com/en-us/press-releases/abcam-honored-at-2026-citeab-awards",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "technical_quality@abcam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Technical Quality",
+        "person_title": "President",
+        "source_url": "https://www.abcam.com/en-us/press-releases/abcam-honored-at-2026-citeab-awards",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "technicalq@abcam.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Technical Quality",
+        "person_title": "President",
+        "source_url": "https://www.abcam.com/en-us/press-releases/abcam-honored-at-2026-citeab-awards",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.abcam.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.abcam.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.abcam.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.abcam.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.abcam.com/en-us/press-releases/abcam-honored-at-2026-citeab-awards",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.abcam.com/en-us/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Abcam is the leading supplier of biological research tools for life scientists, offering validated antibodies, proteins, assays, cell lines and lysates.",
+    "source_urls": [
+      "https://www.abcam.com/en-us/press-releases/abcam-honored-at-2026-citeab-awards"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "ablyapparel.com",
+    "company_name": "Ably Apparel",
+    "website": "https://ablyapparel.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://ablyapparel.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ablyapparel.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ablyapparel.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ablyapparel.com/pages/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ablyapparel.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://ablyapparel.com/contact",
+        "action": "/contact#contact-us-page",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://ablyapparel.com/pages/contact-us",
+        "action": "/contact#contact-us-page",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "The largest collection of stain, sweat and odor-resistant clothing. Wear more and wash less with breathable, natural fabrics built for travel, commuting, workouts and everyday comfort. Designed to simplify your wardrobe without sacrificing style, comfort or performance.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "abmat.com",
+    "company_name": "AbMat\u00ae Custom Product Innovations",
+    "website": "https://abmat.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "awyatt@abmat.com",
+        "confidence": "highest",
+        "source_url": "https://abmat.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ommerce Dr Lebanon, IL 62254 Phone: 1-618-628-0111 Email: Awyatt@AbMat.com \u00a9 2026 AbMat Custom Pro"
+      },
+      {
+        "address": "clazo@abmat.com",
+        "confidence": "highest",
+        "source_url": "https://abmat.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ions and business opportunities please contact: Christina CLazo@abmat.com VENDOR SUPPORT For vendor questions, or to"
+      },
+      {
+        "address": "sales@abmat.com",
+        "confidence": "highest",
+        "source_url": "https://abmat.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2020-11-28",
+        "context_snippet": "mmerce Dr, Lebanon, IL 62254 Phone: 1-888-330-7080 Email: Sales@AbMat.com Contact Form:"
+      },
+      {
+        "address": "aingram@abmat.com",
+        "confidence": "high",
+        "source_url": "https://abmat.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "u003eaingram@abmat.com",
+        "confidence": "high",
+        "source_url": "https://abmat.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "aingram@abmat.com",
+      "awyatt@abmat.com",
+      "clazo@abmat.com",
+      "sales@abmat.com",
+      "u003eaingram@abmat.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://abmat.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://abmat.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2020-11-28"
+      },
+      {
+        "url": "https://abmat.com/contact-us",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2017-06-29"
+      },
+      {
+        "url": "https://abmat.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2019-11-12"
+      },
+      {
+        "url": "https://abmat.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "At AbMat we believe a problem is only a problem if you can\u2019t find a solution. We are carefully curating a portfolio of Innovative Fitness Accessories from inventors all around the World. Our goal is to be the \u201cBig Company for The Little Guy\u201d, a one-stop-shop for innovations that push the fitness ind",
+    "source_urls": [
+      "https://abmat.com",
+      "https://abmat.com/contact",
+      "https://abmat.com/contact-us",
+      "https://abmat.com/about",
+      "https://abmat.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "abnativeplants.com",
+    "company_name": "American Beauties Native Plants",
+    "website": "https://abnativeplants.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@abnativeplants.com",
+        "confidence": "highest",
+        "source_url": "https://abnativeplants.com/contact-us",
+        "source_type": "archived",
+        "snapshot_date": "2018-07-07",
+        "context_snippet": "auties, LLC 1170 Old Lancaster Pike Hockessin, DE 19707 info@abnativeplants.com STAY CONNECTED:"
+      }
+    ],
+    "role_emails": [
+      "info@abnativeplants.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://abnativeplants.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://abnativeplants.com/contact-us",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2018-07-07"
+      },
+      {
+        "url": "https://abnativeplants.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://abnativeplants.com/contact-us",
+        "action": "/index.cfm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Learn more about native plants offered at your local garden center!",
+    "source_urls": [
+      "https://abnativeplants.com/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "aboffs.com",
+    "company_name": "Aboff's",
+    "website": "https://aboffs.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://aboffs.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aboffs.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aboffs.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aboffs.com/collections/pressure-washers",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aboffs.com/pages/training-support-for-professionals",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aboffs.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aboffs.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Aboff's Paints is the largest independent Benjamin Moore Paint dealer in NY. Shop online or visit our 30+ locations on Long Island and in Northern VA.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "abor.com",
+    "company_name": "Austin Board of REALTORS\u00ae",
+    "website": "https://www.abor.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "aboutface.com",
+    "company_name": "about-face",
+    "website": "https://aboutface.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://aboutface.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aboutface.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2017-01-30"
+      },
+      {
+        "url": "https://aboutface.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aboutface.com/collections/new-1",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aboutface.com/products/ballet-beam-highlighting-pearls",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aboutface.com/products/holostick",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aboutface.com/products/the-outro-cleansing-balm",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aboutface.com/products/the-illusionist",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Multi-dimensional makeup for everyone, everywhere created by Ashley Frangipane a.k.a. Halsey. Inspired by and for our diverse and artistic community, we create makeup made with integrity and intention, for all stages of life. Always vegan, cruelty-free + cleanly formulated.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 14
+  },
+  {
+    "company_domain": "abovecategory.com",
+    "company_name": "Above Category",
+    "website": "https://abovecategory.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Email Us",
+        "title": null,
+        "email": "info@abovecategory.com",
+        "source_url": "https://abovecategory.com/pages/contact"
+      }
+    ],
+    "people": [
+      {
+        "name": "Email Us",
+        "title": null,
+        "email": "info@abovecategory.com",
+        "source_url": "https://abovecategory.com/pages/contact"
+      }
+    ],
+    "emails": [
+      {
+        "address": "info@abovecategory.com",
+        "confidence": "highest",
+        "source_url": "https://abovecategory.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "c.nordwall@abovecategory.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Chad Nordwall",
+        "person_title": "Co-Founder",
+        "source_url": "https://abovecategory.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "chad.nordwall@abovecategory.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Chad Nordwall",
+        "person_title": "Co-Founder",
+        "source_url": "https://abovecategory.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "chad@abovecategory.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Chad Nordwall",
+        "person_title": "Co-Founder",
+        "source_url": "https://abovecategory.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "chad_nordwall@abovecategory.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Chad Nordwall",
+        "person_title": "Co-Founder",
+        "source_url": "https://abovecategory.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "chadn@abovecategory.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Chad Nordwall",
+        "person_title": "Co-Founder",
+        "source_url": "https://abovecategory.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "l.shark@abovecategory.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Land Shark",
+        "person_title": "Founder",
+        "source_url": "https://abovecategory.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "land.shark@abovecategory.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Land Shark",
+        "person_title": "Founder",
+        "source_url": "https://abovecategory.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "land@abovecategory.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Land Shark",
+        "person_title": "Founder",
+        "source_url": "https://abovecategory.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "land_shark@abovecategory.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Land Shark",
+        "person_title": "Founder",
+        "source_url": "https://abovecategory.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "lands@abovecategory.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Land Shark",
+        "person_title": "Founder",
+        "source_url": "https://abovecategory.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "nordwall@abovecategory.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Chad Nordwall",
+        "person_title": "Co-Founder",
+        "source_url": "https://abovecategory.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "shark@abovecategory.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Land Shark",
+        "person_title": "Founder",
+        "source_url": "https://abovecategory.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://abovecategory.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://abovecategory.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://abovecategory.com/blogs/journal/a-second-life-for-a-richard-sachs-team-bike",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://abovecategory.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://abovecategory.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Custom bicycle builds, handpicked products and cycling culture for the discerning cyclist, from the best independent makers. Visit our showroom in California's Marin County.",
+    "source_urls": [
+      "https://abovecategory.com/pages/contact"
+    ],
+    "reason": null,
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "abqdukes.com",
+    "company_name": "ABQ Dukes",
+    "website": "https://abqdukes.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "dodgers@abqdukes.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Los Angeles Dodgers",
+        "person_title": "Owner",
+        "source_url": "https://abqdukes.com/pages/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "i.march@abqdukes.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "In March",
+        "person_title": "Owner",
+        "source_url": "https://abqdukes.com/pages/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "in.march@abqdukes.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "In March",
+        "person_title": "Owner",
+        "source_url": "https://abqdukes.com/pages/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "in@abqdukes.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "In March",
+        "person_title": "Owner",
+        "source_url": "https://abqdukes.com/pages/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "in_march@abqdukes.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "In March",
+        "person_title": "Owner",
+        "source_url": "https://abqdukes.com/pages/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "inm@abqdukes.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "In March",
+        "person_title": "Owner",
+        "source_url": "https://abqdukes.com/pages/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "l.dodgers@abqdukes.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Los Angeles Dodgers",
+        "person_title": "Owner",
+        "source_url": "https://abqdukes.com/pages/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "los.dodgers@abqdukes.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Los Angeles Dodgers",
+        "person_title": "Owner",
+        "source_url": "https://abqdukes.com/pages/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "los@abqdukes.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Los Angeles Dodgers",
+        "person_title": "Owner",
+        "source_url": "https://abqdukes.com/pages/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "los_dodgers@abqdukes.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Los Angeles Dodgers",
+        "person_title": "Owner",
+        "source_url": "https://abqdukes.com/pages/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "losd@abqdukes.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Los Angeles Dodgers",
+        "person_title": "Owner",
+        "source_url": "https://abqdukes.com/pages/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "march@abqdukes.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "In March",
+        "person_title": "Owner",
+        "source_url": "https://abqdukes.com/pages/about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://abqdukes.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://abqdukes.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://abqdukes.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://abqdukes.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "The original AAA baseball in Albuquerque. Still here, still cool.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "abracadabracoffeeco.com",
+    "company_name": "Abracadabra Coffee Company",
+    "website": "https://abracadabracoffeeco.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@abracadabracoffeeco.com",
+        "confidence": "highest",
+        "source_url": "https://abracadabracoffeeco.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2017-04-14",
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@abracadabracoffeeco.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://abracadabracoffeeco.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://abracadabracoffeeco.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2017-04-14"
+      },
+      {
+        "url": "https://abracadabracoffeeco.com/pages/contact-abracadabra-coffee",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://abracadabracoffeeco.com/pages/contact-abracadabra-coffee",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Woodstock, Vermont specialty coffee roaster focusing on single origin coffee, signature drinks, baked goods, and vibes, don't forget the vibes.",
+    "source_urls": [
+      "https://abracadabracoffeeco.com/about"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "abracadabranyc.com",
+    "company_name": "AbracadabraNYC",
+    "website": "https://abracadabranyc.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "brian@abracadabranyc.com",
+        "confidence": "high",
+        "source_url": "https://abracadabranyc.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "crentals@abracadabranyc.com",
+        "confidence": "high",
+        "source_url": "https://abracadabranyc.com/contact-us",
+        "source_type": "archived",
+        "snapshot_date": "2016-12-02",
+        "context_snippet": "info@abracadabranyc.com Costume Rental Department crentals@abracadabranyc.com Magic Department magic@abracadabranyc.com M"
+      },
+      {
+        "address": "info@abracadabranyc.com",
+        "confidence": "high",
+        "source_url": "https://abracadabranyc.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "magic@abracadabranyc.com",
+        "confidence": "high",
+        "source_url": "https://abracadabranyc.com/contact-us",
+        "source_type": "archived",
+        "snapshot_date": "2016-12-02",
+        "context_snippet": "crentals@abracadabranyc.com Magic Department magic@abracadabranyc.com Make Up Department makeup@abracadabranyc.com"
+      },
+      {
+        "address": "makeup@abracadabranyc.com",
+        "confidence": "high",
+        "source_url": "https://abracadabranyc.com/contact-us",
+        "source_type": "archived",
+        "snapshot_date": "2016-12-02",
+        "context_snippet": "t magic@abracadabranyc.com Make Up Department makeup@abracadabranyc.com Fields with * are required. Please fix th"
+      }
+    ],
+    "role_emails": [
+      "brian@abracadabranyc.com",
+      "crentals@abracadabranyc.com",
+      "info@abracadabranyc.com",
+      "magic@abracadabranyc.com",
+      "makeup@abracadabranyc.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://abracadabranyc.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://abracadabranyc.com/contact-us",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2016-12-02"
+      },
+      {
+        "url": "https://abracadabranyc.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2017-01-17"
+      },
+      {
+        "url": "https://abracadabranyc.com/collections/steampunk-costumes",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://abracadabranyc.com/collections/steampunk-hats",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://abracadabranyc.com/collections/steampunk-accessories",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://abracadabranyc.com/collections/steampunk-masks",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://abracadabranyc.com/collections/contacts",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://abracadabranyc.com/contact-us",
+        "action": "/contact-us",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "The world\u2019s #1 most unique store, located in the heart of NYC! Largest variety of magic, costumes, makeup, rentals, props, wigs & more at the lowest prices. Walk-in or order online today.",
+    "source_urls": [
+      "https://abracadabranyc.com",
+      "https://abracadabranyc.com/contact-us",
+      "https://abracadabranyc.com/about-us",
+      "https://abracadabranyc.com/collections/steampunk-costumes",
+      "https://abracadabranyc.com/collections/steampunk-hats",
+      "https://abracadabranyc.com/collections/steampunk-accessories",
+      "https://abracadabranyc.com/collections/steampunk-masks",
+      "https://abracadabranyc.com/collections/contacts"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "abrandjeans.com",
+    "company_name": "Abrand Jeans",
+    "website": "https://abrandjeans.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://abrandjeans.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://abrandjeans.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2019-11-14"
+      },
+      {
+        "url": "https://abrandjeans.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://abrandjeans.com/contact",
+        "action": "https://abrandjeans.com/contact/index/post/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Abrand is the jeans brand of generation next. Free Shipping* and easy 30 day returns available on orders. Shop now and pay later with Afterpay.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "abrandtandson.com",
+    "company_name": "A. Brandt + Son",
+    "website": "https://www.abrandtandson.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@abrandtandson.com",
+        "confidence": "high",
+        "source_url": "https://www.abrandtandson.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@abrandtandson.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "a.brandt@abrandtandson.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Annette Brandt",
+        "person_title": "Founder",
+        "source_url": "https://www.abrandtandson.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "annette.brandt@abrandtandson.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Annette Brandt",
+        "person_title": "Founder",
+        "source_url": "https://www.abrandtandson.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "annette@abrandtandson.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Annette Brandt",
+        "person_title": "Founder",
+        "source_url": "https://www.abrandtandson.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "annette_brandt@abrandtandson.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Annette Brandt",
+        "person_title": "Founder",
+        "source_url": "https://www.abrandtandson.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "annetteb@abrandtandson.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Annette Brandt",
+        "person_title": "Founder",
+        "source_url": "https://www.abrandtandson.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "brandt@abrandtandson.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Annette Brandt",
+        "person_title": "Founder",
+        "source_url": "https://www.abrandtandson.com",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.abrandtandson.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.abrandtandson.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.abrandtandson.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.abrandtandson.com/pages/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.abrandtandson.com/pages/contact-us",
+        "action": "/contact#ContactForm-template--23110169460975__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "A. Brandt + Son offers an extensive collection of Antique and Estate Jewelry, specializing in pieces from the Georgian era through the Contemporary period.",
+    "source_urls": [
+      "https://www.abrandtandson.com",
+      "https://www.abrandtandson.com/pages/about-us",
+      "https://www.abrandtandson.com/pages/contact-us",
+      "https://www.abrandtandson.com/pages/press"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "abrighteryear.com",
+    "company_name": "A Brighter Year",
+    "website": "https://abrighteryear.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://abrighteryear.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://abrighteryear.com/pages/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://abrighteryear.com/pages/about-a-brighter-year-shanti",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://abrighteryear.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://abrighteryear.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "A Brighter Year - Adult Coloring Books, that kids love! -Uncover the joy of A Brighter Year -Coloring Books for Adults, and Loved by Kids! With Bold and Simple designs crafted to inspire creativity and relaxation. Perfect for artists of all levels, explore and elevate your creative journey today!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "absautorepair.com",
+    "company_name": "ABS Auto Body",
+    "website": "https://absautorepair.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "abscent.com",
+    "company_name": "Abscent",
+    "website": "https://www.abscent.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.abscent.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.abscent.com/pages/about-abscent",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.abscent.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.abscent.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Abscent manufactures the only 100% Smell Proof Bags on the Market. All of our bags are reusable & lined with Activated Carbon to ensure they are Smell Proof. Abscent Smell Proof bags are hand made in North America using only the highest quality materials. K9 testing performed by @Blazeorbust, the on",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "absoluteautomation.com",
+    "company_name": "Absolute Automation USA",
+    "website": "https://www.absoluteautomation.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "sales@absoluteautomation.com",
+        "confidence": "highest",
+        "source_url": "https://www.absoluteautomation.com/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "k Knowledge Base Telephone: 1-888-885-9910 By email sales@absoluteautomation.com support@absoluteautomation.com Operating Hours: EST Mon"
+      },
+      {
+        "address": "support@absoluteautomation.com",
+        "confidence": "highest",
+        "source_url": "https://www.absoluteautomation.com/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "1-888-885-9910 By email sales@absoluteautomation.com support@absoluteautomation.com Operating Hours: EST Mon-Fri: 9am-5pm PST mon-Fri 6am-2pm"
+      }
+    ],
+    "role_emails": [
+      "sales@absoluteautomation.com",
+      "support@absoluteautomation.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.absoluteautomation.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.absoluteautomation.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.absoluteautomation.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.absoluteautomation.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.absoluteautomation.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Since 1995, Absolute Automation has specialized in driveway alarms, remote monitoring devices, security and smart home products. Online store with free shipping & support available. Shop online today!",
+    "source_urls": [
+      "https://www.absoluteautomation.com/contact-us",
+      "https://www.absoluteautomation.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "absolutelyfishnaturals.com",
+    "company_name": "Absolutely Fish Naturals",
+    "website": "https://absolutelyfishnaturals.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://absolutelyfishnaturals.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://absolutelyfishnaturals.com/pages/filter-media-1",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://absolutelyfishnaturals.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://absolutelyfishnaturals.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Are you looking for a Tropical fish store or Aquarium Supplies in NJ? Absolutely Fish Naturals is largest Aquarium store Clifton NJ!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "absolutelyridiculous.com",
+    "company_name": "Absolutely Ridiculous innovation for Athletes",
+    "website": "https://absolutelyridiculous.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://absolutelyridiculous.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://absolutelyridiculous.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://absolutelyridiculous.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://absolutelyridiculous.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Absolutely Ridiculous is functional art that unlocks confidence through self-expression. Premium sporting goods for athletes who dare to be different. Art led by Imagined by X.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "absolutenewyork.com",
+    "company_name": "Absolute New York",
+    "website": "https://absolutenewyork.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://absolutenewyork.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://absolutenewyork.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2017-06-23"
+      },
+      {
+        "url": "https://absolutenewyork.com/collections/kids-press-ons-glamify",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://absolutenewyork.com/products/tiptok-kids-press-on-nails",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://absolutenewyork.com/collections/tiptok-teens-press-on-nails",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://absolutenewyork.com/products/tiptok-kids-press-on-nails-copy",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://absolutenewyork.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://absolutenewyork.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://absolutenewyork.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Absolute New York is a leading beauty brand renowned for high-quality, affordable makeup products. Explore our innovative makeup that deliver premium results without breaking the bank. Discover your go-to cosmetics today!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 15
+  }
+]
