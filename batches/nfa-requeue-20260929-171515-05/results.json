@@ -1,0 +1,1540 @@
+[
+  {
+    "company_domain": "babiesrusad.com",
+    "company_name": "Babies \"R\" Us",
+    "website": "https://www.babiesrusad.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.babiesrusad.com",
+        "page_type": "home",
+        "source_type": "archived",
+        "snapshot_date": "2026-06-06"
+      },
+      {
+        "url": "https://www.babiesrusad.com/pages/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2026-03-03"
+      },
+      {
+        "url": "https://www.babiesrusad.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2026-03-03"
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.babiesrusad.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "For every stage of your parenting journey, Babies\"R\"Us will help you find all the leading brands & baby essentials. Get baby-ready today!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "babobotanicals.com",
+    "company_name": "Babo Botanicals",
+    "website": "https://www.babobotanicals.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@babobotanicals.com",
+        "confidence": "highest",
+        "source_url": "https://www.babobotanicals.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Contact Questions on Orders & General Inquiries: hello@babobotanicals.com Wholesale Inquiries: hello@babobotanicals.com Office Hours"
+      }
+    ],
+    "role_emails": [
+      "hello@babobotanicals.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.babobotanicals.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.babobotanicals.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.babobotanicals.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.babobotanicals.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.babobotanicals.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.babobotanicals.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.babobotanicals.com/media",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2010-09-17"
+      },
+      {
+        "url": "https://www.babobotanicals.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.babobotanicals.com/pages/press-praise",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.babobotanicals.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Gentle, plant-based skincare and suncare products made from natural origin ingredients for the whole family. A family-owned brand committed for a better world.",
+    "source_urls": [
+      "https://www.babobotanicals.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "baboontothemoon.com",
+    "company_name": "Baboon to the Moon",
+    "website": "https://baboontothemoon.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "press@baboontothemoon.com",
+        "confidence": "highest",
+        "source_url": "https://baboontothemoon.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "othemoon.com For all press inquiries, please contact us at press@baboontothemoon.com"
+      },
+      {
+        "address": "support@baboontothemoon.com",
+        "confidence": "highest",
+        "source_url": "https://baboontothemoon.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "For customer support and returns, please contact us at support@baboontothemoon.com For all press inquiries, please contact us at press@baboon"
+      }
+    ],
+    "role_emails": [
+      "press@baboontothemoon.com",
+      "support@baboontothemoon.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://baboontothemoon.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://baboontothemoon.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://baboontothemoon.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "BABOON TO THE MOON is an adventure brand - we make versatile, technical and radical bags. All with a lifetime warranty and free shipping in the US.",
+    "source_urls": [
+      "https://baboontothemoon.com",
+      "https://baboontothemoon.com/pages/about",
+      "https://baboontothemoon.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "babyandco.us",
+    "company_name": "Baby & Company",
+    "website": "https://babyandco.us",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@babyandco.us",
+        "confidence": "highest",
+        "source_url": "https://babyandco.us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@babyandco.us"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://babyandco.us",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://babyandco.us/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://babyandco.us/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://babyandco.us/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Shop luxury clothing, shoes and accessories for Women and Men by artisan designers. Visit our Sun Valley Store or Shop Online.",
+    "source_urls": [
+      "https://babyandco.us",
+      "https://babyandco.us/about",
+      "https://babyandco.us/contact",
+      "https://babyandco.us/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "babyanimalprints.com",
+    "company_name": "Baby Animal Prints by Suzi",
+    "website": "https://www.babyanimalprints.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.babyanimalprints.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.babyanimalprints.com/pages/about-suzi",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.babyanimalprints.com/pages/about-the-prints",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Baby Animal Prints by Suzi is the online art gallery for baby animal photography for the nursery and home decor by wildlife photographer, Suzi Eszterhas.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "babyark.com",
+    "company_name": "babyark",
+    "website": "https://babyark.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "contact@babyark.com",
+        "confidence": "highest",
+        "source_url": "https://babyark.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Email contact@babyark.com Phone (888) 922-2927"
+      },
+      {
+        "address": "u003econtact@babyark.com",
+        "confidence": "high",
+        "source_url": "https://babyark.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "contact@babyark.com",
+      "u003econtact@babyark.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://babyark.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://babyark.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://babyark.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://babyark.com/pages/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://babyark.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "The convertible car seat that redefines safety. Get The Highest Level Of Safety And Protection With Innovative Impact-Absorbing Technology. The Only Convertible Car Seat With Rigid LATCH, Anti-Rebound Bar and Supporting Front Leg",
+    "source_urls": [
+      "https://babyark.com",
+      "https://babyark.com/about",
+      "https://babyark.com/contact",
+      "https://babyark.com/pages/support",
+      "https://babyark.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "babyaspen.com",
+    "company_name": "Baby Aspen Gifts",
+    "website": "https://www.babyaspen.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.babyaspen.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.babyaspen.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.babyaspen.com/pages/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.babyaspen.com/pages/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "We are a premier designer and manufacturer of unique, high quality, and presentation ready baby gifts. Save at least 20%+ on all of our Baby Shower Gifts today! Baby Aspen strives to please both baby and parents, with quality as a top priority.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "babybarrels.com",
+    "company_name": "Baby Barrels",
+    "website": "https://www.babybarrels.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "orders@babybarrels.com",
+        "confidence": "high",
+        "source_url": "https://www.babybarrels.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Sunday from 12-6pm! 2312 NW Savier St., Portland, OR 97210 orders@babybarrels.com \u00a9Baby Barrels"
+      }
+    ],
+    "role_emails": [
+      "orders@babybarrels.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.babybarrels.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.babybarrels.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2018-08-25"
+      },
+      {
+        "url": "https://www.babybarrels.com/pages/location",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Baby Barrels are smaller barrels made for aging spirits and cocktails at bars, restaurants, and at home. They also make great planters, wedding centerpieces, card boxes, tip jars, and even marketing tools for your business. We also carry cutting boards, bar tools, bitters and more!",
+    "source_urls": [
+      "https://www.babybarrels.com",
+      "https://www.babybarrels.com/pages/location"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "babybeauandbelle.com",
+    "company_name": "Baby Beau and Belle",
+    "website": "https://babybeauandbelle.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "contact@babybeauandbelle.com",
+        "confidence": "high",
+        "source_url": "https://babybeauandbelle.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "contact@babybeauandbelle.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://babybeauandbelle.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://babybeauandbelle.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://babybeauandbelle.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://babybeauandbelle.com/pages/impressum",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://babybeauandbelle.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "We create heirloom-quality garments for the most treasured moments in your baby's life. Our handmade baby clothes have been cherished by families since 1989.",
+    "source_urls": [
+      "https://babybeauandbelle.com",
+      "https://babybeauandbelle.com/pages/about-us",
+      "https://babybeauandbelle.com/pages/contact-us",
+      "https://babybeauandbelle.com/pages/impressum"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "babybeminematernity.com",
+    "company_name": "Baby Be Mine",
+    "website": "https://babybeminematernity.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@babybeminematernity.com",
+        "confidence": "high",
+        "source_url": "https://babybeminematernity.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "support@babybeminematernity.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://babybeminematernity.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://babybeminematernity.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://babybeminematernity.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://babybeminematernity.com/pages/contact-us",
+        "action": "../contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Baby Be Mine offers a wide selection of maternity dresses, mom to be gifts, and more! Look and feel beautiful while staying comfortable from bump to baby.",
+    "source_urls": [
+      "https://babybeminematernity.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "babyblingbows.com",
+    "company_name": "Baby Bling Bows",
+    "website": "https://www.babyblingbows.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.babyblingbows.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.babyblingbows.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.babyblingbows.com/pages/contact",
+        "action": "/contact#contact-us-page",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Check our adorable collection of baby bow headbands, wraps, and accessories our selection ensures your baby is always fashion-forward. Visit & shop now!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "babybloomershome.com",
+    "company_name": "Baby Bloomers",
+    "website": "https://babybloomershome.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://babybloomershome.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://babybloomershome.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2013-08-17"
+      },
+      {
+        "url": "https://babybloomershome.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://babybloomershome.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://babybloomershome.com/pages/contact",
+        "action": "/contact#contact-page-contact-template-0",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Welcome to Baby Bloomers, your premier destination for baby products. Discover a world of joy with our nursery, gear, clothing, & gifts for your little ones.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "babyblossomco.com",
+    "company_name": "Baby Blossom Company",
+    "website": "https://babyblossomco.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@babyblossomco.com",
+        "confidence": "high",
+        "source_url": "https://babyblossomco.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "? We\u2019re here to help! You can reach us anytime by emailing hello@babyblossomco.com or by filling out the contact form below. Looking for a"
+      },
+      {
+        "address": "support@babyblossomco.com",
+        "confidence": "high",
+        "source_url": "https://babyblossomco.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "xclusively online. To ensure you don\u2019t miss our reply, add support@babyblossomco.com to your contacts and check your spam folder if you don\u2019t s"
+      }
+    ],
+    "role_emails": [
+      "hello@babyblossomco.com",
+      "support@babyblossomco.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://babyblossomco.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://babyblossomco.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2016-11-10"
+      },
+      {
+        "url": "https://babyblossomco.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2016-03-31"
+      },
+      {
+        "url": "https://babyblossomco.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://babyblossomco.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://babyblossomco.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Your go-to for baby gifts. Delivering diaper cakes, personalized baby gift baskets, newborn boxes, and baby shower sets that new parents adore since 2009!",
+    "source_urls": [
+      "https://babyblossomco.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "babybraithwaite.com",
+    "company_name": "Baby Braithwaite",
+    "website": "https://babybraithwaite.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "care@babybraithwaite.com",
+        "confidence": "high",
+        "source_url": "https://babybraithwaite.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "care@babybraithwaite.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://babybraithwaite.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://babybraithwaite.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://babybraithwaite.com/pages/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Our store is dedicated to new parents, families, and friends to gather and discover the best products for their child\u2019s early years. Shop everyday essentials that are fresh, unique, and playful from newborn to toddler. Discover our collection of clothing & gifts to treasure the moment.",
+    "source_urls": [
+      "https://babybraithwaite.com",
+      "https://babybraithwaite.com/pages/contact-us",
+      "https://babybraithwaite.com/pages/our-team"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "babybrezza.com",
+    "company_name": "Baby Brezza",
+    "website": "https://babybrezza.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://babybrezza.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://babybrezza.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://babybrezza.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://babybrezza.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Discover baby products & gear that make parenting easier. Our baby essentials make great gifts for new parents and busy moms.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "babybub.com",
+    "company_name": "babybub | Maternity & Beyond",
+    "website": "https://www.babybub.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.babybub.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.babybub.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.babybub.com/blogs/news/managing-high-blood-pressure-during-pregnancy",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.babybub.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.babybub.com/blogs/news/managing-high-blood-pressure-during-pregnancy",
+        "action": "/blogs/news/managing-high-blood-pressure-during-pregnancy/comments#comment_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Bringing mums and their bubs the tools to help them before, during and after pregnancy.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "babybuddhaproducts.com",
+    "company_name": "BabyBuddha Products",
+    "website": "https://babybuddhaproducts.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@babybuddhaproducts.com",
+        "confidence": "high",
+        "source_url": "https://babybuddhaproducts.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "please include your order number for the quickest response. support@babybuddhaproducts.com Lactation Consultant Arrange to"
+      }
+    ],
+    "role_emails": [
+      "support@babybuddhaproducts.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://babybuddhaproducts.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://babybuddhaproducts.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://babybuddhaproducts.com/pages/lactation-consultant-support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://babybuddhaproducts.com/pages/contact",
+        "action": "/contact#contact-form-template--17300872233047__contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://babybuddhaproducts.com/pages/lactation-consultant-support",
+        "action": "/contact#contact-form-template--17300872429655__f3a3484c-a755-4154-abcd-6b89be82ba5f",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "BabyBuddha breast pumps and accessories were made with moms in mind and designed to provide comfort and versatility to your breastfeeding journey.",
+    "source_urls": [
+      "https://babybuddhaproducts.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "babychelle.com",
+    "company_name": "Babychelle",
+    "website": "https://www.babychelle.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.babychelle.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.babychelle.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Home of unbeatable classic shoes for your child's shoe needs and the prettiest accessories to match. Our shoe staples are good for all year: our incredible collection of classics, vintage-inspired styles, and stylish shoes transition effortlessly from school to play and casual to dressy, from season",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "babycubby.com",
+    "company_name": "The Baby Cubby",
+    "website": "https://www.babycubby.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@babycubby.com",
+        "confidence": "high",
+        "source_url": "https://www.babycubby.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "EMAIL US hello@babycubby.com Translation missing: en.general.icons.icon_titl"
+      },
+      {
+        "address": "nhello@babycubby.com",
+        "confidence": "high",
+        "source_url": "https://www.babycubby.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "hello@babycubby.com",
+      "nhello@babycubby.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.babycubby.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.babycubby.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.babycubby.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.babycubby.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.babycubby.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.babycubby.com/products/lou-lou-company-knotted-gown-nb-3m",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.babycubby.com/products/lou-lou-company-knotted-gown-nb-3m?variant=44711894352036",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.babycubby.com/products/lou-lou-company-knotted-gown-nb-3m?variant=45886269816996",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.babycubby.com/products/lou-lou-company-knotted-gown-nb-3m?variant=46104930615460",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.babycubby.com/products/lou-lou-company-knotted-gown-nb-3m?variant=46217777184932",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.babycubby.com/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.babycubby.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Get the best strollers, car seats, clothing, furniture, baby care, diaper bags, bedding, and more from your baby experts. Get free shipping on orders over $95! Get 5% back with Cubby Rewards and a best price guarantee on products parents love! Shopping for a baby can be overwhelming--we make it easy",
+    "source_urls": [
+      "https://www.babycubby.com",
+      "https://www.babycubby.com/about-us",
+      "https://www.babycubby.com/contact",
+      "https://www.babycubby.com/pages/contact",
+      "https://www.babycubby.com/products/lou-lou-company-knotted-gown-nb-3m",
+      "https://www.babycubby.com/products/lou-lou-company-knotted-gown-nb-3m?variant=44711894352036",
+      "https://www.babycubby.com/products/lou-lou-company-knotted-gown-nb-3m?variant=45886269816996",
+      "https://www.babycubby.com/products/lou-lou-company-knotted-gown-nb-3m?variant=46104930615460",
+      "https://www.babycubby.com/products/lou-lou-company-knotted-gown-nb-3m?variant=46217777184932"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 15
+  },
+  {
+    "company_domain": "babydelight.com",
+    "company_name": "Baby Delight",
+    "website": "https://www.babydelight.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@babydelight.com",
+        "confidence": "highest",
+        "source_url": "https://www.babydelight.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2011-04-25",
+        "context_snippet": "ll Free: (877) 810-9350 Fax: (209) 368-5684 E-Mail: info@babydelight.com How Did You Hear About Us? - Advertisement Referr"
+      }
+    ],
+    "role_emails": [
+      "info@babydelight.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.babydelight.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.babydelight.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.babydelight.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.babydelight.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.babydelight.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2011-04-25"
+      },
+      {
+        "url": "https://www.babydelight.com/products/sizewise-wood-pressure-mounted-gate",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.babydelight.com/products/sizewise-metal-pressure-mounted-gate",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.babydelight.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.babydelight.com/pages/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.babydelight.com/pages/order-support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.babydelight.com/contact",
+        "action": "/contact/index.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Baby Delight, creators of the Snuggle Nest, designs baby products that provide a sense of comfort to both babies and parents.",
+    "source_urls": [
+      "https://www.babydelight.com/contact",
+      "https://www.babydelight.com/products/sizewise-wood-pressure-mounted-gate",
+      "https://www.babydelight.com/products/sizewise-metal-pressure-mounted-gate"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 14
+  },
+  {
+    "company_domain": "babydreambackdrops.com",
+    "company_name": "Baby Dream Backdrops",
+    "website": "https://babydreambackdrops.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Contact us!",
+        "title": null,
+        "email": "customersupport@babydreambackdrops.com",
+        "source_url": "https://babydreambackdrops.com"
+      }
+    ],
+    "people": [
+      {
+        "name": "Contact us!",
+        "title": null,
+        "email": "customersupport@babydreambackdrops.com",
+        "source_url": "https://babydreambackdrops.com"
+      }
+    ],
+    "emails": [
+      {
+        "address": "customersupport@babydreambackdrops.com",
+        "confidence": "highest",
+        "source_url": "https://babydreambackdrops.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Email us! customersupport@babydreambackdrops.com Top Back to top"
+      }
+    ],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://babydreambackdrops.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://babydreambackdrops.com/products/im-westcott-background-support-system-149",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://babydreambackdrops.com/pages/bdb-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://babydreambackdrops.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://babydreambackdrops.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Every studio has a dream... Specializing in fabric backdrops and floors for Newborn, Family, Senior and Fine Art Photography.",
+    "source_urls": [
+      "https://babydreambackdrops.com",
+      "https://babydreambackdrops.com/products/im-westcott-background-support-system-149",
+      "https://babydreambackdrops.com/pages/bdb-team",
+      "https://babydreambackdrops.com/pages/contact-us"
+    ],
+    "reason": null,
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "babyeinstein.com",
+    "company_name": "Baby Einstein",
+    "website": "https://www.babyeinstein.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "techsupport@babyeinstein.com",
+        "confidence": "highest",
+        "source_url": "https://www.babyeinstein.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2002-06-01",
+        "context_snippet": "Need assistance with a Baby Einstein product? Contact techsupport@babyeinstein.com"
+      },
+      {
+        "address": "webmaster@babyeinstein.com",
+        "confidence": "highest",
+        "source_url": "https://www.babyeinstein.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2002-06-01",
+        "context_snippet": "Statement Having problems with this site? Contact the webmaster@babyeinstein.com Need assistance with a Baby Einstein product? Contact"
+      }
+    ],
+    "role_emails": [
+      "techsupport@babyeinstein.com",
+      "webmaster@babyeinstein.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.babyeinstein.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.babyeinstein.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.babyeinstein.com/press",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2002-06-01"
+      },
+      {
+        "url": "https://www.babyeinstein.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.babyeinstein.com/contact-us",
+        "action": "/api/contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Shop Baby Einstein for award-winning toys that spark curiosity and foster early childhood education. Visit us for the best in developmental play!",
+    "source_urls": [
+      "https://www.babyeinstein.com/press"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "babyelaine.com",
+    "company_name": "BABY ELAINE",
+    "website": "https://babyelaine.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@babyelaine.com",
+        "confidence": "high",
+        "source_url": "https://babyelaine.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "-mail us if there is anyway we can be of assistance to you. Info@babyelaine.com RETURNS RETURN PO"
+      }
+    ],
+    "role_emails": [
+      "info@babyelaine.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://babyelaine.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://babyelaine.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://babyelaine.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://babyelaine.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "BABY ELAINE IS A LEADER IN CHILDRENS FASHION. DESIGNER BRANDS, BOBO CHOSES, TINY COTTONS CARAMEL, TAO BEAU LOVES, PAZ RODRIGUEZ, BUHO, LIVLY, CREATIVE FACTORY",
+    "source_urls": [
+      "https://babyelaine.com/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "babyelemeno.com",
+    "company_name": "Elemeno Baby",
+    "website": "https://babyelemeno.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Email Us",
+        "title": null,
+        "email": "info@babyelemeno.com",
+        "source_url": "https://babyelemeno.com"
+      }
+    ],
+    "people": [
+      {
+        "name": "Email Us",
+        "title": null,
+        "email": "info@babyelemeno.com",
+        "source_url": "https://babyelemeno.com"
+      }
+    ],
+    "emails": [
+      {
+        "address": "info@babyelemeno.com",
+        "confidence": "highest",
+        "source_url": "https://babyelemeno.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://babyelemeno.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://babyelemeno.com/pages/my-about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://babyelemeno.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "For over 12 years we have always been committed to making new motherhood a little bit easier and a lot more enjoyable. See why thousands of customers love our legendary customer service! Our large selection of the best baby gear & gifts, and our knowledgeable team is sure to give you an enjoyable sh",
+    "source_urls": [
+      "https://babyelemeno.com",
+      "https://babyelemeno.com/pages/my-about-us",
+      "https://babyelemeno.com/policies/contact-information"
+    ],
+    "reason": null,
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "babyfans.com",
+    "company_name": "babyfans",
+    "website": "https://babyfans.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "robots_disallowed",
+    "pages_fetched": 1
+  }
+]
