@@ -1,0 +1,3004 @@
+[
+  {
+    "company_domain": "globallap.com",
+    "company_name": "WISENESS GAME ONLINE INTERNATIONAL LTD",
+    "website": "https://gsupport.globallap.com/home?package=com.phs.global.ios",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "golfgenius.com",
+    "company_name": "Golf Genius Software, Inc.",
+    "website": "http://www.golfgenius.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Brian Woyt",
+        "title": "President",
+        "email": "brian.woyt@golfgenius.com",
+        "source_url": "http://www.golfgenius.com/about-us"
+      }
+    ],
+    "people": [
+      {
+        "name": "Brian Woyt",
+        "title": "President",
+        "email": "brian.woyt@golfgenius.com",
+        "source_url": "http://www.golfgenius.com/about-us"
+      }
+    ],
+    "emails": [
+      {
+        "address": "ben.addoms@golfgenius.com",
+        "confidence": "high",
+        "source_url": "http://www.golfgenius.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Ben Addoms President, Mobile Products Division ben.addoms@golfgenius.com"
+      },
+      {
+        "address": "brian.woyt@golfgenius.com",
+        "confidence": "high",
+        "source_url": "http://www.golfgenius.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Brian Woyt Vice President of Marketing brian.woyt@golfgenius.com Brian specializes in marketing & brand strategy, creative"
+      },
+      {
+        "address": "sales@golfgenius.com",
+        "confidence": "high",
+        "source_url": "http://www.golfgenius.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "ben.addoms@golfgenius.com",
+      "sales@golfgenius.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "a.tandrau@golfgenius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Alex Tandrau",
+        "person_title": "President",
+        "source_url": "http://www.golfgenius.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "alex.tandrau@golfgenius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Alex Tandrau",
+        "person_title": "President",
+        "source_url": "http://www.golfgenius.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "alex@golfgenius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Alex Tandrau",
+        "person_title": "President",
+        "source_url": "http://www.golfgenius.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "alex_tandrau@golfgenius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Alex Tandrau",
+        "person_title": "President",
+        "source_url": "http://www.golfgenius.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "alext@golfgenius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Alex Tandrau",
+        "person_title": "President",
+        "source_url": "http://www.golfgenius.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "c.kallmeyer@golfgenius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Chris Kallmeyer",
+        "person_title": "Ceo",
+        "source_url": "http://www.golfgenius.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "chris.kallmeyer@golfgenius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Chris Kallmeyer",
+        "person_title": "Ceo",
+        "source_url": "http://www.golfgenius.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "chris@golfgenius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Chris Kallmeyer",
+        "person_title": "Ceo",
+        "source_url": "http://www.golfgenius.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "chris_kallmeyer@golfgenius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Chris Kallmeyer",
+        "person_title": "Ceo",
+        "source_url": "http://www.golfgenius.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "chrisk@golfgenius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Chris Kallmeyer",
+        "person_title": "Ceo",
+        "source_url": "http://www.golfgenius.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "corporation@golfgenius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lotus Development Corporation",
+        "person_title": "Ceo",
+        "source_url": "http://www.golfgenius.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "d.marketing@golfgenius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Digital Marketing",
+        "person_title": "President",
+        "source_url": "http://www.golfgenius.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "digital.marketing@golfgenius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Digital Marketing",
+        "person_title": "President",
+        "source_url": "http://www.golfgenius.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "digital@golfgenius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Digital Marketing",
+        "person_title": "President",
+        "source_url": "http://www.golfgenius.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "digital_marketing@golfgenius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Digital Marketing",
+        "person_title": "President",
+        "source_url": "http://www.golfgenius.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "digitalm@golfgenius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Digital Marketing",
+        "person_title": "President",
+        "source_url": "http://www.golfgenius.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "division@golfgenius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mobile Products Division",
+        "person_title": "President",
+        "source_url": "http://www.golfgenius.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "f.grosan@golfgenius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Flavia Grosan",
+        "person_title": "President",
+        "source_url": "http://www.golfgenius.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "flavia.grosan@golfgenius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Flavia Grosan",
+        "person_title": "President",
+        "source_url": "http://www.golfgenius.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "flavia@golfgenius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Flavia Grosan",
+        "person_title": "President",
+        "source_url": "http://www.golfgenius.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "flavia_grosan@golfgenius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Flavia Grosan",
+        "person_title": "President",
+        "source_url": "http://www.golfgenius.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "flaviag@golfgenius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Flavia Grosan",
+        "person_title": "President",
+        "source_url": "http://www.golfgenius.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "g.software@golfgenius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Golf Genius Software",
+        "person_title": "President",
+        "source_url": "http://www.golfgenius.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "golf.software@golfgenius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Golf Genius Software",
+        "person_title": "President",
+        "source_url": "http://www.golfgenius.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "golf@golfgenius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Golf Genius Software",
+        "person_title": "President",
+        "source_url": "http://www.golfgenius.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "golf_software@golfgenius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Golf Genius Software",
+        "person_title": "President",
+        "source_url": "http://www.golfgenius.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "golfs@golfgenius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Golf Genius Software",
+        "person_title": "President",
+        "source_url": "http://www.golfgenius.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "grosan@golfgenius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Flavia Grosan",
+        "person_title": "President",
+        "source_url": "http://www.golfgenius.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kallmeyer@golfgenius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Chris Kallmeyer",
+        "person_title": "Ceo",
+        "source_url": "http://www.golfgenius.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "l.corporation@golfgenius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lotus Development Corporation",
+        "person_title": "Ceo",
+        "source_url": "http://www.golfgenius.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "l.lombardo@golfgenius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lou Lombardo",
+        "person_title": "President",
+        "source_url": "http://www.golfgenius.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "lombardo@golfgenius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lou Lombardo",
+        "person_title": "President",
+        "source_url": "http://www.golfgenius.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "lotus.corporation@golfgenius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lotus Development Corporation",
+        "person_title": "Ceo",
+        "source_url": "http://www.golfgenius.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "lotus@golfgenius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lotus Development Corporation",
+        "person_title": "Ceo",
+        "source_url": "http://www.golfgenius.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "lotus_corporation@golfgenius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lotus Development Corporation",
+        "person_title": "Ceo",
+        "source_url": "http://www.golfgenius.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "lotusc@golfgenius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lotus Development Corporation",
+        "person_title": "Ceo",
+        "source_url": "http://www.golfgenius.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "lou.lombardo@golfgenius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lou Lombardo",
+        "person_title": "President",
+        "source_url": "http://www.golfgenius.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "lou@golfgenius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lou Lombardo",
+        "person_title": "President",
+        "source_url": "http://www.golfgenius.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "lou_lombardo@golfgenius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lou Lombardo",
+        "person_title": "President",
+        "source_url": "http://www.golfgenius.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "loul@golfgenius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lou Lombardo",
+        "person_title": "President",
+        "source_url": "http://www.golfgenius.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "m.division@golfgenius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mobile Products Division",
+        "person_title": "President",
+        "source_url": "http://www.golfgenius.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "marketing@golfgenius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Digital Marketing",
+        "person_title": "President",
+        "source_url": "http://www.golfgenius.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mobile.division@golfgenius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mobile Products Division",
+        "person_title": "President",
+        "source_url": "http://www.golfgenius.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mobile@golfgenius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mobile Products Division",
+        "person_title": "President",
+        "source_url": "http://www.golfgenius.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mobile_division@golfgenius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mobile Products Division",
+        "person_title": "President",
+        "source_url": "http://www.golfgenius.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mobiled@golfgenius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mobile Products Division",
+        "person_title": "President",
+        "source_url": "http://www.golfgenius.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "n.wolfe@golfgenius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nick Wolfe",
+        "person_title": "President",
+        "source_url": "http://www.golfgenius.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "nick.wolfe@golfgenius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nick Wolfe",
+        "person_title": "President",
+        "source_url": "http://www.golfgenius.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "nick@golfgenius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nick Wolfe",
+        "person_title": "President",
+        "source_url": "http://www.golfgenius.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "nick_wolfe@golfgenius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nick Wolfe",
+        "person_title": "President",
+        "source_url": "http://www.golfgenius.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "nickw@golfgenius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nick Wolfe",
+        "person_title": "President",
+        "source_url": "http://www.golfgenius.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "software@golfgenius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Golf Genius Software",
+        "person_title": "President",
+        "source_url": "http://www.golfgenius.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tandrau@golfgenius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Alex Tandrau",
+        "person_title": "President",
+        "source_url": "http://www.golfgenius.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "wolfe@golfgenius.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nick Wolfe",
+        "person_title": "President",
+        "source_url": "http://www.golfgenius.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "http://www.golfgenius.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.golfgenius.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://golfgenius.com/about/international",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://golfgenius.com/about/international/jp",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://golfgenius.com/about/international/blog",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://golfgenius.com/about/our-mission",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://golfgenius.com/about/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://golfgenius.com/about/partners",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Golf Genius is the golf industry\u2019s leading provider of cloud solutions for golfers, golf professionals, facilities, academies, tours and associations.",
+    "source_urls": [
+      "http://www.golfgenius.com",
+      "http://www.golfgenius.com/about-us",
+      "https://golfgenius.com/about/about-us"
+    ],
+    "reason": null,
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "golfshot.com",
+    "company_name": "Golf Genius Mobile, LLC",
+    "website": "http://golfshot.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "http_202",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "greenkitchenstories.com",
+    "company_name": "Green Kitchen Stories AB",
+    "website": "http://www.greenkitchenstories.com/",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "http_403",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "lafitness.com",
+    "company_name": "Fitness International, LLC",
+    "website": "http://lafitness.com/Pages/MobileHome.aspx",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "render_error",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "littlebeanapp.com",
+    "company_name": "Little Bean App LLC",
+    "website": "https://littlebeanapp.com/",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "http_403",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "marmaladegamestudio.com",
+    "company_name": "Marmalade Game Studio Limited",
+    "website": "https://marmaladegamestudio.com/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "arts@marmaladegamestudio.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Electronic Arts",
+        "person_title": "Ceo",
+        "source_url": "https://marmaladegamestudio.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "c.mereuta@marmaladegamestudio.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Cristina Mereuta",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://marmaladegamestudio.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "cristina.mereuta@marmaladegamestudio.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Cristina Mereuta",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://marmaladegamestudio.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "cristina@marmaladegamestudio.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Cristina Mereuta",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://marmaladegamestudio.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "cristina_mereuta@marmaladegamestudio.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Cristina Mereuta",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://marmaladegamestudio.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "cristinam@marmaladegamestudio.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Cristina Mereuta",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://marmaladegamestudio.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "e.arts@marmaladegamestudio.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Electronic Arts",
+        "person_title": "Ceo",
+        "source_url": "https://marmaladegamestudio.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "electronic.arts@marmaladegamestudio.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Electronic Arts",
+        "person_title": "Ceo",
+        "source_url": "https://marmaladegamestudio.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "electronic@marmaladegamestudio.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Electronic Arts",
+        "person_title": "Ceo",
+        "source_url": "https://marmaladegamestudio.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "electronic_arts@marmaladegamestudio.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Electronic Arts",
+        "person_title": "Ceo",
+        "source_url": "https://marmaladegamestudio.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "electronica@marmaladegamestudio.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Electronic Arts",
+        "person_title": "Ceo",
+        "source_url": "https://marmaladegamestudio.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "m.willis@marmaladegamestudio.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Michael Willis",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://marmaladegamestudio.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mereuta@marmaladegamestudio.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Cristina Mereuta",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://marmaladegamestudio.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "michael.willis@marmaladegamestudio.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Michael Willis",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://marmaladegamestudio.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "michael@marmaladegamestudio.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Michael Willis",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://marmaladegamestudio.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "michael_willis@marmaladegamestudio.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Michael Willis",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://marmaladegamestudio.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "michaelw@marmaladegamestudio.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Michael Willis",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://marmaladegamestudio.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "willis@marmaladegamestudio.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Michael Willis",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://marmaladegamestudio.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://marmaladegamestudio.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://marmaladegamestudio.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://marmaladegamestudio.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://marmaladegamestudio.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://marmaladegamestudio.com/press-kits",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://marmaladegamestudio.com/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "The Marmalade Game Studio - Home page. We bring classic board games to life on mobile, PC and Nintendo Switch, including Monopoly, Clue / Cluedo and more...",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "migrainezen-app.com",
+    "company_name": "\u6995 \u9648",
+    "website": "https://migrainezen-app.com/",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "dns_failure",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "papaya.com",
+    "company_name": "Papaya Gaming LTD",
+    "website": "https://www.papaya.com/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "media@papaya.com",
+        "confidence": "highest",
+        "source_url": "https://www.papaya.com/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "contact@papaya.com",
+        "confidence": "high",
+        "source_url": "https://www.papaya.com/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "contact@papaya.com",
+      "media@papaya.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.papaya.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.papaya.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.papaya.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.papaya.com/contact-us",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Play on and jump into our world. Powered by innovative technology, we're making social tournaments an exciting part of everyday life",
+    "source_urls": [
+      "https://www.papaya.com/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 7
+  },
+  {
+    "company_domain": "peppertheapp.com",
+    "company_name": "Pepper App Inc.",
+    "website": "https://www.peppertheapp.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "ali@peppertheapp.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Saanya Ali",
+        "person_title": null,
+        "source_url": "https://www.peppertheapp.com/blog/family-style/why-you-should-care-more-about-olive-oil",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.ali@peppertheapp.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Saanya Ali",
+        "person_title": null,
+        "source_url": "https://www.peppertheapp.com/blog/family-style/why-you-should-care-more-about-olive-oil",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "saanya.ali@peppertheapp.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Saanya Ali",
+        "person_title": null,
+        "source_url": "https://www.peppertheapp.com/blog/family-style/why-you-should-care-more-about-olive-oil",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "saanya@peppertheapp.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Saanya Ali",
+        "person_title": null,
+        "source_url": "https://www.peppertheapp.com/blog/family-style/why-you-should-care-more-about-olive-oil",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "saanya_ali@peppertheapp.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Saanya Ali",
+        "person_title": null,
+        "source_url": "https://www.peppertheapp.com/blog/family-style/why-you-should-care-more-about-olive-oil",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "saanyaa@peppertheapp.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Saanya Ali",
+        "person_title": null,
+        "source_url": "https://www.peppertheapp.com/blog/family-style/why-you-should-care-more-about-olive-oil",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.peppertheapp.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.peppertheapp.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.peppertheapp.com/blog/family-style/why-you-should-care-more-about-olive-oil",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "The home for three million home cooks and over one million organized recipes.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "perfexpert-app.com",
+    "company_name": "Claude JOSEPH ANGELIQUE",
+    "website": "https://www.perfexpert-app.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "planetfitness.com",
+    "company_name": "Planet Fitness Holdings, LLC",
+    "website": "https://planetfitness.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "challenge_page",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "sanity-app.com",
+    "company_name": "Sanity LLC",
+    "website": "https://sanity-app.com/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@sanity-app.com",
+        "confidence": "medium",
+        "source_url": "https://sanity-app.com/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "support@sanity-app.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://sanity-app.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "City health department grading systems are designed for enforcement, not for consumers like us. Not only are health inspection records incredibly inaccessible and difficult to understand, places can have rats, cockroaches, food contamination, hygiene issues, etc and still receiving a surprisingly go",
+    "source_urls": [
+      "https://sanity-app.com/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 7
+  },
+  {
+    "company_domain": "scooterscoffee.com",
+    "company_name": "Scooters Coffee LLC",
+    "website": "https://scooterscoffee.com/",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "challenge_page",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "scoremediaandgaming.com",
+    "company_name": "Score Media and Gaming Inc.",
+    "website": "https://scoremediaandgaming.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://scoremediaandgaming.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://scoremediaandgaming.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://scoremediaandgaming.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://scoremediaandgaming.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://scoremediaandgaming.com/news",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://scoremediaandgaming.com/careers",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://scoremediaandgaming.com/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Score Media and Gaming Inc.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "starbucks.com",
+    "company_name": "Starbucks Coffee Company",
+    "website": "http://www.starbucks.com/coffeehouse/mobile-apps/mystarbucks",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "investorrelations@starbucks.com",
+        "confidence": "highest",
+        "source_url": "https://www.starbucks.com/contact/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ownership please submit a written inquiry through email to investorrelations@starbucks.com . Partnership and Sponsorship Requests If you have an excit"
+      },
+      {
+        "address": "partnerships@starbucks.com",
+        "confidence": "highest",
+        "source_url": "https://www.starbucks.com/contact/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "tailed overview of the opportunity and your information to partnerships@starbucks.com . About Us Our Company Our Coffee About Starbucks Starbucks"
+      },
+      {
+        "address": "press@starbucks.com",
+        "confidence": "highest",
+        "source_url": "https://www.starbucks.com/contact/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "nse to the following: Global: Phone: 206 318 7100 Email: press@starbucks.com Europe, Middle East and Africa: Phone: +44 20 3047 2656 E"
+      },
+      {
+        "address": "pressemea@starbucks.com",
+        "confidence": "highest",
+        "source_url": "https://www.starbucks.com/contact/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ", Middle East and Africa: Phone: +44 20 3047 2656 Email: PressEMEA@starbucks.com Asia or Canada: Please visit their respective Starbucks Sto"
+      },
+      {
+        "address": "u003einvestorrelations@starbucks.com",
+        "confidence": "high",
+        "source_url": "https://www.starbucks.com/contact/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "u003epartnerships@starbucks.com",
+        "confidence": "high",
+        "source_url": "https://www.starbucks.com/contact/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "u003epress@starbucks.com",
+        "confidence": "high",
+        "source_url": "https://www.starbucks.com/contact/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "u003epressemea@starbucks.com",
+        "confidence": "high",
+        "source_url": "https://www.starbucks.com/contact/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "investorrelations@starbucks.com",
+      "partnerships@starbucks.com",
+      "press@starbucks.com",
+      "pressemea@starbucks.com",
+      "u003einvestorrelations@starbucks.com",
+      "u003epartnerships@starbucks.com",
+      "u003epress@starbucks.com",
+      "u003epressemea@starbucks.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "http://www.starbucks.com/coffeehouse/mobile-apps/mystarbucks",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.starbucks.com/contact/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.starbucks.com/about-us/accessibility/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Use the Starbucks\u00ae app for iPhone\u00ae or the Starbucks\u00ae app for Android\u2122 to pay or to track the Stars and Rewards you\u2019ve earned.",
+    "source_urls": [
+      "https://www.starbucks.com/contact/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "strong.app",
+    "company_name": "Strong Fitness PTE Limited",
+    "website": "https://strong.app/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "bain@strong.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jamie Bain",
+        "person_title": "Co-Founder",
+        "source_url": "https://strong.app/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "champion@strong.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Powerlifting Champion",
+        "person_title": "Owner",
+        "source_url": "https://strong.app/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "d.go@strong.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dan Go",
+        "person_title": "Ceo",
+        "source_url": "https://strong.app/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "dan.go@strong.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dan Go",
+        "person_title": "Ceo",
+        "source_url": "https://strong.app/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "dan@strong.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dan Go",
+        "person_title": "Ceo",
+        "source_url": "https://strong.app/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "dan_go@strong.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dan Go",
+        "person_title": "Ceo",
+        "source_url": "https://strong.app/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "dang@strong.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dan Go",
+        "person_title": "Ceo",
+        "source_url": "https://strong.app/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "e.stav@strong.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Eigunn Stav",
+        "person_title": "Owner",
+        "source_url": "https://strong.app/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "eigunn.stav@strong.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Eigunn Stav",
+        "person_title": "Owner",
+        "source_url": "https://strong.app/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "eigunn@strong.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Eigunn Stav",
+        "person_title": "Owner",
+        "source_url": "https://strong.app/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "eigunn_stav@strong.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Eigunn Stav",
+        "person_title": "Owner",
+        "source_url": "https://strong.app/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "eigunns@strong.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Eigunn Stav",
+        "person_title": "Owner",
+        "source_url": "https://strong.app/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "go@strong.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dan Go",
+        "person_title": "Ceo",
+        "source_url": "https://strong.app/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "h.performance@strong.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "High Performance",
+        "person_title": "Founder",
+        "source_url": "https://strong.app/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "high.performance@strong.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "High Performance",
+        "person_title": "Founder",
+        "source_url": "https://strong.app/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "high@strong.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "High Performance",
+        "person_title": "Founder",
+        "source_url": "https://strong.app/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "high_performance@strong.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "High Performance",
+        "person_title": "Founder",
+        "source_url": "https://strong.app/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "highp@strong.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "High Performance",
+        "person_title": "Founder",
+        "source_url": "https://strong.app/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "j.bain@strong.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jamie Bain",
+        "person_title": "Co-Founder",
+        "source_url": "https://strong.app/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jamie.bain@strong.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jamie Bain",
+        "person_title": "Co-Founder",
+        "source_url": "https://strong.app/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jamie@strong.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jamie Bain",
+        "person_title": "Co-Founder",
+        "source_url": "https://strong.app/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jamie_bain@strong.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jamie Bain",
+        "person_title": "Co-Founder",
+        "source_url": "https://strong.app/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jamieb@strong.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jamie Bain",
+        "person_title": "Co-Founder",
+        "source_url": "https://strong.app/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "lavingia@strong.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sahil Lavingia",
+        "person_title": "Founder",
+        "source_url": "https://strong.app/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "p.champion@strong.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Powerlifting Champion",
+        "person_title": "Owner",
+        "source_url": "https://strong.app/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "performance@strong.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "High Performance",
+        "person_title": "Founder",
+        "source_url": "https://strong.app/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "powerlifting.champion@strong.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Powerlifting Champion",
+        "person_title": "Owner",
+        "source_url": "https://strong.app/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "powerlifting@strong.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Powerlifting Champion",
+        "person_title": "Owner",
+        "source_url": "https://strong.app/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "powerlifting_champion@strong.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Powerlifting Champion",
+        "person_title": "Owner",
+        "source_url": "https://strong.app/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "powerliftingc@strong.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Powerlifting Champion",
+        "person_title": "Owner",
+        "source_url": "https://strong.app/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "r.renegade@strong.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Rugby Renegade",
+        "person_title": "Co-Founder",
+        "source_url": "https://strong.app/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "renegade@strong.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Rugby Renegade",
+        "person_title": "Co-Founder",
+        "source_url": "https://strong.app/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "rugby.renegade@strong.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Rugby Renegade",
+        "person_title": "Co-Founder",
+        "source_url": "https://strong.app/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "rugby@strong.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Rugby Renegade",
+        "person_title": "Co-Founder",
+        "source_url": "https://strong.app/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "rugby_renegade@strong.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Rugby Renegade",
+        "person_title": "Co-Founder",
+        "source_url": "https://strong.app/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "rugbyr@strong.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Rugby Renegade",
+        "person_title": "Co-Founder",
+        "source_url": "https://strong.app/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.lavingia@strong.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sahil Lavingia",
+        "person_title": "Founder",
+        "source_url": "https://strong.app/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sahil.lavingia@strong.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sahil Lavingia",
+        "person_title": "Founder",
+        "source_url": "https://strong.app/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sahil@strong.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sahil Lavingia",
+        "person_title": "Founder",
+        "source_url": "https://strong.app/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sahil_lavingia@strong.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sahil Lavingia",
+        "person_title": "Founder",
+        "source_url": "https://strong.app/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sahill@strong.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sahil Lavingia",
+        "person_title": "Founder",
+        "source_url": "https://strong.app/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "stav@strong.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Eigunn Stav",
+        "person_title": "Owner",
+        "source_url": "https://strong.app/",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://strong.app/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Strong is an intuitive, easy to use workout tracker and strength training planner, trusted by more than 3 million people to help them stay on track in the gym.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "swingu.com",
+    "company_name": "Swing By Swing Golf, LLC",
+    "website": "http://www.swingu.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@swingu.com",
+        "confidence": "highest",
+        "source_url": "http://www.swingu.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "coaches@swingu.com",
+        "confidence": "high",
+        "source_url": "http://www.swingu.com/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "coaches@swingu.com",
+      "support@swingu.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "http://www.swingu.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.swingu.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "SwingU - #1 Game-Improvement Golf GPS App. Trusted by over 6 million golfers. Download for free on App Store + Apple Watch &amp; Google Play.",
+    "source_urls": [
+      "http://www.swingu.com",
+      "http://www.swingu.com/about"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 7
+  },
+  {
+    "company_domain": "tennischannel.com",
+    "company_name": "The Tennis Channel, Inc.",
+    "website": "https://www.tennischannel.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.tennischannel.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.tennischannel.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.tennischannel.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.tennischannel.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.tennischannel.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.tennischannel.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.tennischannel.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "The most live streaming tennis anywhere.  Stream WTA & ATP 1000 Masters, 500\u2019s, 250\u2019s, and more",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "thedoctorskitchen.com",
+    "company_name": "Doctors Kitchen Digital Ltd",
+    "website": "https://www.thedoctorskitchen.com/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "corporate@thedoctorskitchen.com",
+        "confidence": "medium",
+        "source_url": "https://www.thedoctorskitchen.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "info@thedoctorskitchen.com",
+        "confidence": "medium",
+        "source_url": "https://www.thedoctorskitchen.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "corporate@thedoctorskitchen.com",
+      "info@thedoctorskitchen.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "a.harriott@thedoctorskitchen.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ainsley Harriott",
+        "person_title": "Founder",
+        "source_url": "https://www.thedoctorskitchen.com/about/tv.php",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ainsley.harriott@thedoctorskitchen.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ainsley Harriott",
+        "person_title": "Founder",
+        "source_url": "https://www.thedoctorskitchen.com/about/tv.php",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ainsley@thedoctorskitchen.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ainsley Harriott",
+        "person_title": "Founder",
+        "source_url": "https://www.thedoctorskitchen.com/about/tv.php",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ainsley_harriott@thedoctorskitchen.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ainsley Harriott",
+        "person_title": "Founder",
+        "source_url": "https://www.thedoctorskitchen.com/about/tv.php",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ainsleyh@thedoctorskitchen.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ainsley Harriott",
+        "person_title": "Founder",
+        "source_url": "https://www.thedoctorskitchen.com/about/tv.php",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "aujla@thedoctorskitchen.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Rupy Aujla",
+        "person_title": "Founder",
+        "source_url": "https://www.thedoctorskitchen.com/about/tv.php",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "cookbooks@thedoctorskitchen.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "five cookbooks",
+        "person_title": "Founder",
+        "source_url": "https://www.thedoctorskitchen.com/about/the_doctors_kitchen.php",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "d.aujla@thedoctorskitchen.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dr Rupy Aujla",
+        "person_title": "Founder",
+        "source_url": "https://www.thedoctorskitchen.com/about/the_doctors_kitchen.php",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "doctor@thedoctorskitchen.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Doctor",
+        "person_title": "Founder",
+        "source_url": "https://www.thedoctorskitchen.com/about/tv.php",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "dr.aujla@thedoctorskitchen.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dr Rupy Aujla",
+        "person_title": "Founder",
+        "source_url": "https://www.thedoctorskitchen.com/about/the_doctors_kitchen.php",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "dr@thedoctorskitchen.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dr Rupy Aujla",
+        "person_title": "Founder",
+        "source_url": "https://www.thedoctorskitchen.com/about/the_doctors_kitchen.php",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "dr_aujla@thedoctorskitchen.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dr Rupy Aujla",
+        "person_title": "Founder",
+        "source_url": "https://www.thedoctorskitchen.com/about/the_doctors_kitchen.php",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "dra@thedoctorskitchen.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dr Rupy Aujla",
+        "person_title": "Founder",
+        "source_url": "https://www.thedoctorskitchen.com/about/the_doctors_kitchen.php",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "f.cookbooks@thedoctorskitchen.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "five cookbooks",
+        "person_title": "Founder",
+        "source_url": "https://www.thedoctorskitchen.com/about/the_doctors_kitchen.php",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "five.cookbooks@thedoctorskitchen.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "five cookbooks",
+        "person_title": "Founder",
+        "source_url": "https://www.thedoctorskitchen.com/about/the_doctors_kitchen.php",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "five@thedoctorskitchen.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "five cookbooks",
+        "person_title": "Founder",
+        "source_url": "https://www.thedoctorskitchen.com/about/the_doctors_kitchen.php",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "five_cookbooks@thedoctorskitchen.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "five cookbooks",
+        "person_title": "Founder",
+        "source_url": "https://www.thedoctorskitchen.com/about/the_doctors_kitchen.php",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "fivec@thedoctorskitchen.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "five cookbooks",
+        "person_title": "Founder",
+        "source_url": "https://www.thedoctorskitchen.com/about/the_doctors_kitchen.php",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "harriott@thedoctorskitchen.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ainsley Harriott",
+        "person_title": "Founder",
+        "source_url": "https://www.thedoctorskitchen.com/about/tv.php",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "magazine@thedoctorskitchen.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tesco Magazine",
+        "person_title": "Founder",
+        "source_url": "https://www.thedoctorskitchen.com/about/tv.php",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "r.aujla@thedoctorskitchen.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Rupy Aujla",
+        "person_title": "Founder",
+        "source_url": "https://www.thedoctorskitchen.com/about/tv.php",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "rupy.aujla@thedoctorskitchen.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Rupy Aujla",
+        "person_title": "Founder",
+        "source_url": "https://www.thedoctorskitchen.com/about/tv.php",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "rupy@thedoctorskitchen.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Rupy Aujla",
+        "person_title": "Founder",
+        "source_url": "https://www.thedoctorskitchen.com/about/tv.php",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "rupy_aujla@thedoctorskitchen.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Rupy Aujla",
+        "person_title": "Founder",
+        "source_url": "https://www.thedoctorskitchen.com/about/tv.php",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "rupya@thedoctorskitchen.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Rupy Aujla",
+        "person_title": "Founder",
+        "source_url": "https://www.thedoctorskitchen.com/about/tv.php",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "t.doctor@thedoctorskitchen.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Doctor",
+        "person_title": "Founder",
+        "source_url": "https://www.thedoctorskitchen.com/about/tv.php",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "t.magazine@thedoctorskitchen.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tesco Magazine",
+        "person_title": "Founder",
+        "source_url": "https://www.thedoctorskitchen.com/about/tv.php",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tesco.magazine@thedoctorskitchen.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tesco Magazine",
+        "person_title": "Founder",
+        "source_url": "https://www.thedoctorskitchen.com/about/tv.php",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tesco@thedoctorskitchen.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tesco Magazine",
+        "person_title": "Founder",
+        "source_url": "https://www.thedoctorskitchen.com/about/tv.php",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tesco_magazine@thedoctorskitchen.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tesco Magazine",
+        "person_title": "Founder",
+        "source_url": "https://www.thedoctorskitchen.com/about/tv.php",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tescom@thedoctorskitchen.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tesco Magazine",
+        "person_title": "Founder",
+        "source_url": "https://www.thedoctorskitchen.com/about/tv.php",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "the.doctor@thedoctorskitchen.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Doctor",
+        "person_title": "Founder",
+        "source_url": "https://www.thedoctorskitchen.com/about/tv.php",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "the@thedoctorskitchen.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Doctor",
+        "person_title": "Founder",
+        "source_url": "https://www.thedoctorskitchen.com/about/tv.php",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "the_doctor@thedoctorskitchen.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Doctor",
+        "person_title": "Founder",
+        "source_url": "https://www.thedoctorskitchen.com/about/tv.php",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "thed@thedoctorskitchen.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Doctor",
+        "person_title": "Founder",
+        "source_url": "https://www.thedoctorskitchen.com/about/tv.php",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.thedoctorskitchen.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.thedoctorskitchen.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.thedoctorskitchen.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.thedoctorskitchen.com/team",
+        "page_type": "team",
+        "source_type": "archived",
+        "snapshot_date": "2021-12-04"
+      },
+      {
+        "url": "https://www.thedoctorskitchen.com/about/tv.php",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.thedoctorskitchen.com/about/books.php",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.thedoctorskitchen.com/about/the_doctors_kitchen.php",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.thedoctorskitchen.com/about/for_work.php",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.thedoctorskitchen.com/contact",
+        "action": "/u/u_background.php?cmd=contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Food can improve your energy, reduce stress, improve hormonal health, reduce blood pressure, help you feel stronger and ultimately reverse disease.",
+    "source_urls": [
+      "https://www.thedoctorskitchen.com/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "theglacierapp.com",
+    "company_name": "Security App LLC",
+    "website": "https://theglacierapp.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "treatva.com",
+    "company_name": "Treat App Ltd",
+    "website": "http://www.treatva.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "http://www.treatva.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.treatva.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://www.treatva.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "http://www.treatva.com/contact-us",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Virtually adopt a real shelter dog, play with them, and earn real treats, meals & medical supplies to send directly to their shelter! TREAT is the first mobile game that lets you make a real-life impact while you play.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "ulta.com",
+    "company_name": "Ulta Salon, Cosmetics and Fragrance Inc.",
+    "website": "https://www.ulta.com/app",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.ulta.com/app",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ulta.com/app/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ulta.com/app/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ulta.com/app/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ulta.com/app/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ulta.com/app/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ulta.com/app/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ulta.com/shop/makeup/nails/press-on-nails",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Download Ulta Beauty\u2019s app & get Ultamate Rewards points, exclusive offers, & free beauty gifts. Plus, virtually try on thousands of beauty products with GLAMlab.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "universaltennis.com",
+    "company_name": "Universal Tennis LLC",
+    "website": "https://www.universaltennis.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "blackburn@universaltennis.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jeff Blackburn",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://www.universaltennis.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "forese@universaltennis.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kelly Forese",
+        "person_title": "Ceo",
+        "source_url": "https://www.universaltennis.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "j.blackburn@universaltennis.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jeff Blackburn",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://www.universaltennis.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "j.leschly@universaltennis.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jan Leschly",
+        "person_title": "Ceo",
+        "source_url": "https://www.universaltennis.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "j.thornton@universaltennis.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "John Thornton",
+        "person_title": "President",
+        "source_url": "https://www.universaltennis.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jan.leschly@universaltennis.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jan Leschly",
+        "person_title": "Ceo",
+        "source_url": "https://www.universaltennis.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jan@universaltennis.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jan Leschly",
+        "person_title": "Ceo",
+        "source_url": "https://www.universaltennis.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jan_leschly@universaltennis.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jan Leschly",
+        "person_title": "Ceo",
+        "source_url": "https://www.universaltennis.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "janl@universaltennis.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jan Leschly",
+        "person_title": "Ceo",
+        "source_url": "https://www.universaltennis.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jeff.blackburn@universaltennis.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jeff Blackburn",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://www.universaltennis.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jeff@universaltennis.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jeff Blackburn",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://www.universaltennis.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jeff_blackburn@universaltennis.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jeff Blackburn",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://www.universaltennis.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jeffb@universaltennis.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jeff Blackburn",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://www.universaltennis.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "john.thornton@universaltennis.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "John Thornton",
+        "person_title": "President",
+        "source_url": "https://www.universaltennis.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "john@universaltennis.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "John Thornton",
+        "person_title": "President",
+        "source_url": "https://www.universaltennis.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "john_thornton@universaltennis.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "John Thornton",
+        "person_title": "President",
+        "source_url": "https://www.universaltennis.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "johnt@universaltennis.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "John Thornton",
+        "person_title": "President",
+        "source_url": "https://www.universaltennis.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "k.forese@universaltennis.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kelly Forese",
+        "person_title": "Ceo",
+        "source_url": "https://www.universaltennis.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kelly.forese@universaltennis.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kelly Forese",
+        "person_title": "Ceo",
+        "source_url": "https://www.universaltennis.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kelly@universaltennis.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kelly Forese",
+        "person_title": "Ceo",
+        "source_url": "https://www.universaltennis.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kelly_forese@universaltennis.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kelly Forese",
+        "person_title": "Ceo",
+        "source_url": "https://www.universaltennis.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kellyf@universaltennis.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kelly Forese",
+        "person_title": "Ceo",
+        "source_url": "https://www.universaltennis.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "leschly@universaltennis.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mark Leschly",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.universaltennis.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "m.leschly@universaltennis.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mark Leschly",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.universaltennis.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mark.leschly@universaltennis.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mark Leschly",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.universaltennis.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mark@universaltennis.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mark Leschly",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.universaltennis.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mark_leschly@universaltennis.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mark Leschly",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.universaltennis.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "markl@universaltennis.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mark Leschly",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.universaltennis.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "p.tour@universaltennis.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Pro Tennis Tour",
+        "person_title": "Owner",
+        "source_url": "https://www.universaltennis.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "pro.tour@universaltennis.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Pro Tennis Tour",
+        "person_title": "Owner",
+        "source_url": "https://www.universaltennis.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "pro@universaltennis.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Pro Tennis Tour",
+        "person_title": "Owner",
+        "source_url": "https://www.universaltennis.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "pro_tour@universaltennis.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Pro Tennis Tour",
+        "person_title": "Owner",
+        "source_url": "https://www.universaltennis.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "prot@universaltennis.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Pro Tennis Tour",
+        "person_title": "Owner",
+        "source_url": "https://www.universaltennis.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "thornton@universaltennis.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "John Thornton",
+        "person_title": "President",
+        "source_url": "https://www.universaltennis.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tour@universaltennis.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Pro Tennis Tour",
+        "person_title": "Owner",
+        "source_url": "https://www.universaltennis.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.universaltennis.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.universaltennis.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.universaltennis.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.universaltennis.com/pages/junior-team-tennis",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.universaltennis.com/pages/adult-team-tennis",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.universaltennis.com/pages/team-captains",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.universaltennis.com/pages/team-tennis-manager",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.universaltennis.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Connecting tennis and pickleball players globally through level-based play, ratings, and innovative tournaments and events.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 14
+  },
+  {
+    "company_domain": "wearesovegan.com",
+    "company_name": "Plant Future 22 LTD",
+    "website": "https://www.wearesovegan.com/get-to-know-the-new-so-vegan-app/",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "http_404",
+    "pages_fetched": 2
+  }
+]
