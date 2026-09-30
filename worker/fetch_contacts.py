@@ -1443,6 +1443,7 @@ def discover_one(
     website: str,
     session: Session,
     user_agent: str,
+    identity_mode: str = "brand",
 ) -> dict:
     base = {
         "company_domain": company_domain,
@@ -1481,7 +1482,16 @@ def discover_one(
             base["status"] = "error"
             base["reason"] = home_reason or "website_unavailable"
             return base
-        if not company_name_matches_domain(company_name, home_url):
+        if identity_mode == "product":
+            # Product mode (game/product leads): the site belongs to the
+            # maker, not the product, so the domain can never match the
+            # product name. Instead require the product name to appear in
+            # the homepage content -- proving this site is about the product.
+            home_visible = BeautifulSoup(home_html, "html.parser").get_text(" ")
+            if not identity_matches_content(company_name, home_visible):
+                base["reason"] = "identity_content_mismatch"
+                return base
+        elif not company_name_matches_domain(company_name, home_url):
             base["reason"] = "identity_domain_mismatch"
             return base
         if not robots_allows(home_url, session, user_agent):
@@ -1645,6 +1655,7 @@ def main() -> int:
                         session=sessions[profile_idx],
                         user_agent=UA_PROFILES[profile_idx][
                             "headers"]["User-Agent"],
+                        identity_mode=str(target.get("identity_mode") or "brand"),
                     )
                 )
             except Exception as exc:  # never let one target kill the batch
