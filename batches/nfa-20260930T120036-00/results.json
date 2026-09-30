@@ -1,0 +1,1747 @@
+[
+  {
+    "company_domain": "999club.com",
+    "company_name": "Juice WRLD | 999 CLUB",
+    "website": "https://999club.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "robots_disallowed",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "99counties.com",
+    "company_name": "99 Counties",
+    "website": "https://99counties.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "contact@99counties.com",
+        "confidence": "high",
+        "source_url": "https://99counties.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "contact@99counties.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://99counties.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://99counties.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://99counties.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://99counties.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "99 Counties is your trusted meat source, connecting conscious consumers to regenerative farmers. With 99 Counties, you'll enjoy sustainable meat delivered from a company you can trust.",
+    "source_urls": [
+      "https://99counties.com",
+      "https://99counties.com/pages/about-us",
+      "https://99counties.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "99dresses.com",
+    "company_name": "99dresses",
+    "website": "http://99dresses.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "nikki@99dresses.com",
+        "confidence": "high",
+        "source_url": "http://99dresses.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2012-12-15",
+        "context_snippet": "bringing the concept to the US. Nikki can be contacted at nikki@99dresses.com . Pete, Co-Founder Pete is a battle harde"
+      }
+    ],
+    "role_emails": [
+      "nikki@99dresses.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "http://99dresses.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://99dresses.com/contact-us",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2012-01-05"
+      },
+      {
+        "url": "http://99dresses.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2012-12-15"
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "http://99dresses.com/contact-us",
+        "action": "/contact-us/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Sign up for our email list for updates, promotions, and more.",
+    "source_urls": [
+      "http://99dresses.com/about"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 7
+  },
+  {
+    "company_domain": "99perfume.com",
+    "company_name": "99Perfume",
+    "website": "https://99perfume.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "perfumeguru@99perfume.com",
+        "confidence": "high",
+        "source_url": "https://99perfume.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "or concerns, reach out using the form below, or email us at perfumeguru@99perfume.com You can also reach us by phone at +1 (732) 792 1383, or t"
+      }
+    ],
+    "role_emails": [
+      "perfumeguru@99perfume.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://99perfume.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://99perfume.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://99perfume.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://99perfume.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "The freshest online selection of perfume, cologne, & beauty products. Buy designer brands & niche scents. Free Shipping + Hassle Free Returns - no minimum purchase!",
+    "source_urls": [
+      "https://99perfume.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "9five.com",
+    "company_name": "9FIVE Eyewear",
+    "website": "https://9five.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "orders@9five.com",
+        "confidence": "high",
+        "source_url": "https://9five.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "orders@9five.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://9five.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://9five.com/pages/contact-us-2",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://9five.com/pages/contact-us-9five-store-locations",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://9five.com/pages/about-9five",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://9five.com/pages/contact-us-2",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Shop 9FIVE luxury sunglasses, clear lens frames, apparel & jewelry. Free shipping & returns on all orders. Visit our San Diego flagship store today!",
+    "source_urls": [
+      "https://9five.com",
+      "https://9five.com/pages/contact-us-2",
+      "https://9five.com/pages/contact-us-9five-store-locations",
+      "https://9five.com/pages/about-9five"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "9livesracing.com",
+    "company_name": "Nine Lives Racing",
+    "website": "https://9livesracing.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@9livesracing.com",
+        "confidence": "high",
+        "source_url": "https://9livesracing.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@9livesracing.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://9livesracing.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://9livesracing.com/products/express-weld-it-yourself-big-wang-kits",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Looking for race car wings? 9 Lives Racing is your go-to manufacturer for top-notch airfoils at a reasonable cost.",
+    "source_urls": [
+      "https://9livesracing.com",
+      "https://9livesracing.com/products/express-weld-it-yourself-big-wang-kits"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "9squareintheair.com",
+    "company_name": "9 Square in the Air",
+    "website": "https://www.9squareintheair.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customerservice@9squareintheair.com",
+        "confidence": "highest",
+        "source_url": "https://www.9squareintheair.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "th the form below, or Call us at 877-672-3938 Email us at customerservice@9squareintheair.com Find us on social media Name : Email: Message: Submit"
+      }
+    ],
+    "role_emails": [
+      "customerservice@9squareintheair.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "otey@9squareintheair.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Steve Otey",
+        "person_title": "President",
+        "source_url": "https://www.9squareintheair.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.otey@9squareintheair.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Steve Otey",
+        "person_title": "President",
+        "source_url": "https://www.9squareintheair.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sara.otey@9squareintheair.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sara Otey",
+        "person_title": "Vp Marketing",
+        "source_url": "https://www.9squareintheair.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sara@9squareintheair.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sara Otey",
+        "person_title": "Vp Marketing",
+        "source_url": "https://www.9squareintheair.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sara_otey@9squareintheair.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sara Otey",
+        "person_title": "Vp Marketing",
+        "source_url": "https://www.9squareintheair.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sarao@9squareintheair.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sara Otey",
+        "person_title": "Vp Marketing",
+        "source_url": "https://www.9squareintheair.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "steve.otey@9squareintheair.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Steve Otey",
+        "person_title": "President",
+        "source_url": "https://www.9squareintheair.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "steve@9squareintheair.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Steve Otey",
+        "person_title": "President",
+        "source_url": "https://www.9squareintheair.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "steve_otey@9squareintheair.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Steve Otey",
+        "person_title": "President",
+        "source_url": "https://www.9squareintheair.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "steveo@9squareintheair.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Steve Otey",
+        "person_title": "President",
+        "source_url": "https://www.9squareintheair.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.9squareintheair.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.9squareintheair.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.9squareintheair.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.9squareintheair.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.9squareintheair.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "9 Square in the Air is the best game for groups. Churches, camps, and schools love playing the original 9 Square in the Air! Fun yard game and PE game. Get 9 Square today. The perfect group game for children and youth groups.",
+    "source_urls": [
+      "https://www.9squareintheair.com",
+      "https://www.9squareintheair.com/about",
+      "https://www.9squareintheair.com/pages/contact-us",
+      "https://www.9squareintheair.com/pages/about"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "9thstreetclothingco.com",
+    "company_name": "9th Street Clothing Co",
+    "website": "https://9thstreetclothingco.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@9thstreetclothingco.com",
+        "confidence": "highest",
+        "source_url": "https://9thstreetclothingco.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "a 57078 Phone number: 605-610-8641 Email: info@9thstreetclothingco.com Location & Hours Around the Store"
+      }
+    ],
+    "role_emails": [
+      "info@9thstreetclothingco.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://9thstreetclothingco.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://9thstreetclothingco.com/pages/location-hours",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://9thstreetclothingco.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://9thstreetclothingco.com/pages/contact",
+        "action": "/contact#contact-us-page",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Shop 9th Street Clothing Co for a huge selection of men's and women's premium clothing, shoes, jewelry, sunglasses, handbags, gifts and more! Free shipping on orders over $99.",
+    "source_urls": [
+      "https://9thstreetclothingco.com",
+      "https://9thstreetclothingco.com/pages/location-hours",
+      "https://9thstreetclothingco.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "a-ipower.com",
+    "company_name": "iPower",
+    "website": "https://a-ipower.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@a-ipower.com",
+        "confidence": "highest",
+        "source_url": "https://a-ipower.com/contact-us",
+        "source_type": "archived",
+        "snapshot_date": "2021-08-01",
+        "context_snippet": "3598 Business Hours: Mon-Fri 9 AM \u2013 5 PM(PST) Email: support@a-ipower.com RESOURCES M"
+      }
+    ],
+    "role_emails": [
+      "support@a-ipower.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "j.lauerman@a-ipower.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Joseph Lauerman",
+        "person_title": null,
+        "source_url": "https://a-ipower.com/blogs/news/pressure-washing-makes-your-home-look-fresh-and-new-again",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "joseph.lauerman@a-ipower.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Joseph Lauerman",
+        "person_title": null,
+        "source_url": "https://a-ipower.com/blogs/news/pressure-washing-makes-your-home-look-fresh-and-new-again",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "joseph@a-ipower.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Joseph Lauerman",
+        "person_title": null,
+        "source_url": "https://a-ipower.com/blogs/news/pressure-washing-makes-your-home-look-fresh-and-new-again",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "joseph_lauerman@a-ipower.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Joseph Lauerman",
+        "person_title": null,
+        "source_url": "https://a-ipower.com/blogs/news/pressure-washing-makes-your-home-look-fresh-and-new-again",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "josephl@a-ipower.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Joseph Lauerman",
+        "person_title": null,
+        "source_url": "https://a-ipower.com/blogs/news/pressure-washing-makes-your-home-look-fresh-and-new-again",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "lauerman@a-ipower.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Joseph Lauerman",
+        "person_title": null,
+        "source_url": "https://a-ipower.com/blogs/news/pressure-washing-makes-your-home-look-fresh-and-new-again",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://a-ipower.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://a-ipower.com/contact-us",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2021-08-01"
+      },
+      {
+        "url": "https://a-ipower.com/collections/electric-pressure-washers",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://a-ipower.com/collections/gas-pressure-washers",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://a-ipower.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://a-ipower.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://a-ipower.com/collections/pressure-washers",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://a-ipower.com/blogs/news/pressure-washing-makes-your-home-look-fresh-and-new-again",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://a-ipower.com/pages/contact-us",
+        "action": "/contact#ContactForm-template--21177103089916__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://a-ipower.com/blogs/news/pressure-washing-makes-your-home-look-fresh-and-new-again",
+        "action": "/blogs/news/pressure-washing-makes-your-home-look-fresh-and-new-again/comments#comment_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "AiPower manufactures powerful, clean, quiet, and energy efficient generators, inverters, portable power stations, pressure washers, water pumps and accessories that are built to ensure you have power and water when you need it most.",
+    "source_urls": [
+      "https://a-ipower.com/contact-us",
+      "https://a-ipower.com/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "a-ma-maniere.com",
+    "company_name": "A Ma Mani\u00e9re",
+    "website": "https://www.a-ma-maniere.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.a-ma-maniere.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.a-ma-maniere.com/pages/about-us-1",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.a-ma-maniere.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Explore luxury Men's and Unisex apparel, footwear and accessories at A Ma Mani\u00e9re. Discover exclusive designer clothing and more curated with timeless style.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "a-schwab.com",
+    "company_name": "schwab",
+    "website": "https://www.a-schwab.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customerservice@a-schwab.com",
+        "confidence": "high",
+        "source_url": "https://www.a-schwab.com/contact-us",
+        "source_type": "archived",
+        "snapshot_date": "2021-11-29",
+        "context_snippet": "163 Beale - Memphis Need Help? Call 901-523-9782 customerservice@a-schwab.com Store Hours Sunday 11am-5pm Monday 11am-5pm Tue"
+      },
+      {
+        "address": "info@a-schwab.com",
+        "confidence": "high",
+        "source_url": "https://www.a-schwab.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2019-03-26",
+        "context_snippet": "163 Beale Street Memphis, TN 38013 (901) 523-9782 info@a-schwab.com Store Hours Monday-Wednesday 12pm-6pm Thursday"
+      }
+    ],
+    "role_emails": [
+      "customerservice@a-schwab.com",
+      "info@a-schwab.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.a-schwab.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.a-schwab.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2019-03-26"
+      },
+      {
+        "url": "https://www.a-schwab.com/contact-us",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2021-11-29"
+      },
+      {
+        "url": "https://www.a-schwab.com/pages/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.a-schwab.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.a-schwab.com/contact",
+        "action": "/contact/#wpcf7-f1074-p111-o2",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.a-schwab.com/contact-us",
+        "action": "https://a-schwab.com/contact-us/#contact-form-48",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.a-schwab.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "a-schwab",
+    "source_urls": [
+      "https://www.a-schwab.com/contact",
+      "https://www.a-schwab.com/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "a-sub.com",
+    "company_name": "A-SUB",
+    "website": "https://www.a-sub.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "service@a-sub.com",
+        "confidence": "highest",
+        "source_url": "https://www.a-sub.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Find A-SUB SHips locally from the U.S. Aftersale: service@a-sub.com Cooperation: sponsorship@a-sub.com"
+      },
+      {
+        "address": "sponsorship@a-sub.com",
+        "confidence": "highest",
+        "source_url": "https://www.a-sub.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "the U.S. Aftersale: service@a-sub.com Cooperation: sponsorship@a-sub.com About A-SU"
+      }
+    ],
+    "role_emails": [
+      "service@a-sub.com",
+      "sponsorship@a-sub.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.a-sub.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.a-sub.com/pages/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.a-sub.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.a-sub.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "A-SUB leading the way in sublimation, DTF, sticker, photo, and HTV transfer papers. High-quality materials for vibrant prints, durable results, and endless creative possibilities.",
+    "source_urls": [
+      "https://www.a-sub.com",
+      "https://www.a-sub.com/pages/support",
+      "https://www.a-sub.com/pages/about-us",
+      "https://www.a-sub.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "a-zcompanies.com",
+    "company_name": "2 Stoned Hippies",
+    "website": "https://2stonedhippies.a-zcompanies.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://2stonedhippies.a-zcompanies.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://2stonedhippies.a-zcompanies.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://2stonedhippies.a-zcompanies.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://2stonedhippies.a-zcompanies.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://2stonedhippies.a-zcompanies.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://2stonedhippies.a-zcompanies.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://2stonedhippies.a-zcompanies.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://2stonedhippies.a-zcompanies.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "2 Stoned Hippies is having a 65% off sale on all tapestries! Perfect for adding character to your home, apartment, or dorm!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "a-zdarts.com",
+    "company_name": "A-ZDarts",
+    "website": "https://a-zdarts.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@a-zdarts.com",
+        "confidence": "highest",
+        "source_url": "https://a-zdarts.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Over $50 Contact Us | 916-334-2567 | info@a-zdarts.com New Darts"
+      }
+    ],
+    "role_emails": [
+      "info@a-zdarts.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "all@a-zdarts.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "How It All",
+        "person_title": "Founder",
+        "source_url": "https://a-zdarts.com/blogs/all/welcome-to-a-z-darts-learn-all-about-us-our-story",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "cister@a-zdarts.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Heather Cister",
+        "person_title": null,
+        "source_url": "https://a-zdarts.com/blogs/all/welcome-to-a-z-darts-learn-all-about-us-our-story",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "h.all@a-zdarts.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "How It All",
+        "person_title": "Founder",
+        "source_url": "https://a-zdarts.com/blogs/all/welcome-to-a-z-darts-learn-all-about-us-our-story",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "h.cister@a-zdarts.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Heather Cister",
+        "person_title": null,
+        "source_url": "https://a-zdarts.com/blogs/all/welcome-to-a-z-darts-learn-all-about-us-our-story",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "heather.cister@a-zdarts.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Heather Cister",
+        "person_title": null,
+        "source_url": "https://a-zdarts.com/blogs/all/welcome-to-a-z-darts-learn-all-about-us-our-story",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "heather@a-zdarts.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Heather Cister",
+        "person_title": null,
+        "source_url": "https://a-zdarts.com/blogs/all/welcome-to-a-z-darts-learn-all-about-us-our-story",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "heather_cister@a-zdarts.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Heather Cister",
+        "person_title": null,
+        "source_url": "https://a-zdarts.com/blogs/all/welcome-to-a-z-darts-learn-all-about-us-our-story",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "heatherc@a-zdarts.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Heather Cister",
+        "person_title": null,
+        "source_url": "https://a-zdarts.com/blogs/all/welcome-to-a-z-darts-learn-all-about-us-our-story",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "how.all@a-zdarts.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "How It All",
+        "person_title": "Founder",
+        "source_url": "https://a-zdarts.com/blogs/all/welcome-to-a-z-darts-learn-all-about-us-our-story",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "how@a-zdarts.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "How It All",
+        "person_title": "Founder",
+        "source_url": "https://a-zdarts.com/blogs/all/welcome-to-a-z-darts-learn-all-about-us-our-story",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "how_all@a-zdarts.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "How It All",
+        "person_title": "Founder",
+        "source_url": "https://a-zdarts.com/blogs/all/welcome-to-a-z-darts-learn-all-about-us-our-story",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "howa@a-zdarts.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "How It All",
+        "person_title": "Founder",
+        "source_url": "https://a-zdarts.com/blogs/all/welcome-to-a-z-darts-learn-all-about-us-our-story",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://a-zdarts.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://a-zdarts.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://a-zdarts.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://a-zdarts.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://a-zdarts.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://a-zdarts.com/pages/contact-us.html",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://a-zdarts.com/blogs/all/welcome-to-a-z-darts-learn-all-about-us-our-story",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://a-zdarts.com/blogs/all/welcome-to-a-z-darts-learn-all-about-us-our-story",
+        "action": "/blogs/all/welcome-to-a-z-darts-learn-all-about-us-our-story/comments#comment_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "With over 30 years in business we strive to be the most knowledgable place to buy darts, dart boards, flights, shafts\u2026 well anything dart related! With our expert staff, informative blog articles and product reviews we are sure to be your one stop shop for everything darts and billiards.",
+    "source_urls": [
+      "https://a-zdarts.com",
+      "https://a-zdarts.com/about",
+      "https://a-zdarts.com/about-us",
+      "https://a-zdarts.com/team",
+      "https://a-zdarts.com/pages/contact-us",
+      "https://a-zdarts.com/pages/contact-us.html",
+      "https://a-zdarts.com/blogs/all/welcome-to-a-z-darts-learn-all-about-us-our-story"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "a11nsports.com",
+    "company_name": "A11N SPORTS",
+    "website": "https://a11nsports.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "marketing@a11nsports.com",
+        "confidence": "highest",
+        "source_url": "https://a11nsports.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ustomer Service: support@a11nsports.com Business Inquiry: marketing@a11nsports.com Name Email Please write y"
+      },
+      {
+        "address": "support@a11nsports.com",
+        "confidence": "highest",
+        "source_url": "https://a11nsports.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "n 24 hours from Mon. to Fri. Customer Service: support@a11nsports.com Business Inquiry: marketing@a11nsports.com"
+      }
+    ],
+    "role_emails": [
+      "marketing@a11nsports.com",
+      "support@a11nsports.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://a11nsports.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://a11nsports.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://a11nsports.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://a11nsports.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Discover A11N Sports pickleball nets, ball machines, and training gear designed for easy setup, reliable stability, and better performance on any court.",
+    "source_urls": [
+      "https://a11nsports.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "a1asod.com",
+    "company_name": "A1A Sod Sand Soil",
+    "website": "https://a1asod.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "a1concrete.com",
+    "company_name": "A-1 Services Corp.",
+    "website": "https://shop.a1concrete.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "a1foamandfabrics.com",
+    "company_name": "Foam Fabrics",
+    "website": "https://a1foamandfabrics.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customercare@a1foamandfabrics.com",
+        "confidence": "high",
+        "source_url": "https://a1foamandfabrics.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "u003ecustomercare@a1foamandfabrics.com",
+        "confidence": "high",
+        "source_url": "https://a1foamandfabrics.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "customercare@a1foamandfabrics.com",
+      "u003ecustomercare@a1foamandfabrics.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://a1foamandfabrics.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Discover premium foam and fabrics for all your upholstery needs at A1 Foam & Fabrics. Elevate your home decor and crafting projects - explore our selection now!",
+    "source_urls": [
+      "https://a1foamandfabrics.com"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 7
+  },
+  {
+    "company_domain": "a1supplements.com",
+    "company_name": "A1Supplements.com",
+    "website": "https://www.a1supplements.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "challenge_page",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "a1truckparts.net",
+    "company_name": "A-1 Truck Parts",
+    "website": "https://a1truckparts.net",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://a1truckparts.net",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://a1truckparts.net/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2020-08-03"
+      },
+      {
+        "url": "https://a1truckparts.net/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2020-07-27"
+      },
+      {
+        "url": "https://a1truckparts.net/collections/headsets-mobile-multi-media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://a1truckparts.net/collections/power-inverters-mobile-multi-media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://a1truckparts.net/collections/engine-oil-pressure-gauge-instrument-panel",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://a1truckparts.net/collections/multi-purpose-pressure-gauge-instrument-panel",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://a1truckparts.net/collections/air-compressors",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://a1truckparts.net/contact",
+        "action": "/contact/index.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "800-292-4529 - With 60+ years under our belts & over 110 lines of heavy duty and industrial products, it's safe to say we're the specialists with the PRODUCT KNOWLEDGE, EXPERTISE, and PROGRAMS to provide A-1 Customer Service.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "a1vacandsew.net",
+    "company_name": "A1 Vacuum & Sewing Reno",
+    "website": "https://a1vacandsew.net",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "a24films.com",
+    "company_name": "A24 Shop",
+    "website": "https://shop.a24films.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://shop.a24films.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Limited edition goods, merch, and more from A24.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "a2zid.com",
+    "company_name": "A2Z Industrial Distributor",
+    "website": "https://www.a2zid.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "a3performance.com",
+    "company_name": "A3 Performance",
+    "website": "https://www.a3performance.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@a3performance.com",
+        "confidence": "highest",
+        "source_url": "https://www.a3performance.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "oad Oconomowoc, WI 53066 Toll Free +1 888.369.7946 Email: info@a3performance.com Twitter Facebook"
+      }
+    ],
+    "role_emails": [
+      "info@a3performance.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "ryan@a3performance.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Shane Ryan",
+        "person_title": "Owner",
+        "source_url": "https://www.a3performance.com/pages/team-partnerships",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.ryan@a3performance.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Shane Ryan",
+        "person_title": "Owner",
+        "source_url": "https://www.a3performance.com/pages/team-partnerships",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "shane.ryan@a3performance.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Shane Ryan",
+        "person_title": "Owner",
+        "source_url": "https://www.a3performance.com/pages/team-partnerships",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "shane@a3performance.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Shane Ryan",
+        "person_title": "Owner",
+        "source_url": "https://www.a3performance.com/pages/team-partnerships",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "shane_ryan@a3performance.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Shane Ryan",
+        "person_title": "Owner",
+        "source_url": "https://www.a3performance.com/pages/team-partnerships",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "shaner@a3performance.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Shane Ryan",
+        "person_title": "Owner",
+        "source_url": "https://www.a3performance.com/pages/team-partnerships",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.a3performance.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.a3performance.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.a3performance.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2016-08-10"
+      },
+      {
+        "url": "https://www.a3performance.com/collections/team-apparel",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.a3performance.com/pages/customize-your-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.a3performance.com/pages/team-partnerships",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.a3performance.com/pages/about-a3",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.a3performance.com/pages/team-sponsorships",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.a3performance.com/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.a3performance.com/about-us",
+        "action": "index.php",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.a3performance.com/pages/customize-your-team",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Providing everything competitive swimming for every level of swimmer from learn-to-swim to Olympic swimming \u2013 Male and Female Competitive Swimwear, Technical Racing Swimsuits, Swimming Goggles, Swim Training Equipment, BODIMAX Compression Swim Sleeves, and Youth Swimwear!",
+    "source_urls": [
+      "https://www.a3performance.com",
+      "https://www.a3performance.com/contact-us",
+      "https://www.a3performance.com/about-us",
+      "https://www.a3performance.com/collections/team-apparel",
+      "https://www.a3performance.com/pages/customize-your-team",
+      "https://www.a3performance.com/pages/team-partnerships",
+      "https://www.a3performance.com/pages/about-a3",
+      "https://www.a3performance.com/pages/team-sponsorships"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "a4lmichigan.com",
+    "company_name": "Michigan Discount Appliances",
+    "website": "https://a4lmichigan.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@a4lmichigan.com",
+        "confidence": "high",
+        "source_url": "https://a4lmichigan.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@a4lmichigan.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://a4lmichigan.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://a4lmichigan.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://a4lmichigan.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://a4lmichigan.com/pages/contact-us",
+        "action": "/contact#89167691932",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Discount appliances store located at Shelby Township in Michigan, Scratch and Dent appliances with up to 50% off discount.",
+    "source_urls": [
+      "https://a4lmichigan.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  }
+]
