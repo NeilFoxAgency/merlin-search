@@ -285,7 +285,44 @@ NAME_BLACKLIST = {
     "customer service", "customer support", "general inquiries",
     "sales team", "support team", "marketing team", "press team",
     "contact info", "contact information", "get in touch",
+    # 2026-09-30: mailto anchor-text junk that slipped into people[]
+    # (extraction produced "Email Us"/info@ as a named contact). These are
+    # link labels, never person names. Mirrors pool_picker JUNK_NAMES.
+    "email us", "email me", "email us here", "email here", "email me here",
+    "email for quote", "send email", "send us email", "email your resume",
+    "use chat", "online form", "contact form", "message for", "message us",
+    "private sessions", "email brutus monroe", "email buce plant",
+    "email 28 collective", "email greenville location", "email biltmore location",
+    "brand partnerships", "corporate gifting", "retail enquiries",
+    "become an ambassador", "fan mail", "book appointment", "find this frame",
+    "pr inquiries", "cafe operations", "houseplant buyer", "contact pr",
+    "request samples", "contact us reach", "latin america stan",
+    "scott shih regional", "anfragen sales", "aromatique outlet store",
+    "memorial day",
 }
+
+# Local parts that mark an inbox as role-based, never a named person's
+# mailbox. A "person" whose only email is one of these is a generic inbox
+# misread as a decision-maker; it belongs in role_emails, not people[].
+# (2026-09-30: extraction emitted info@/support@/sales@ as named contacts.)
+ROLE_LOCAL_PARTS = {
+    "info", "contact", "support", "sales", "hello", "hi", "help", "admin",
+    "team", "service", "services", "enquiries", "inquiries", "office",
+    "mail", "email", "general", "customerservice", "customer-service",
+    "customersupport", "customer-support", "customersuccess", "success",
+    "marketing", "press", "media", "careers", "jobs", "hr", "legal",
+    "privacy", "billing", "orders", "order", "shipping", "returns",
+    "webmaster", "noreply", "no-reply", "donotreply", "subscribe",
+    "newsletter", "partners", "partnerships", "collab", "collabs",
+    "creator", "creators", "influencer", "influencers", "affiliate",
+    "affiliates", "wholesale", "retail", "trade", "vendors",
+}
+
+
+def is_role_inbox(email: str) -> bool:
+    """True when the address is a generic role inbox, not a person's."""
+    local = (email or "").split("@")[0].strip().lower()
+    return local in ROLE_LOCAL_PARTS
 
 TITLE_KEYWORDS = (
     "chief executive officer", "chief marketing officer",
@@ -852,7 +889,13 @@ def find_titled_people(html: str) -> list[dict]:
 
 def mailto_hits(html: str) -> list[dict]:
     """mailto anchors: highest-confidence emails, with person names when the
-    link text is a name (Fox fix #4)."""
+    link text is a name (Fox fix #4).
+
+    2026-09-30: link text goes through _clean_name() so CTA labels
+    ("Email Us", "Use Chat", "Online Form") never become person names.
+    Junk-labeled mailto addresses still return with name=None and flow to
+    role_emails via the hits table; they are never emitted as people.
+    """
     found: list[dict] = []
     soup = BeautifulSoup(html, "html.parser")
     for anchor in soup.find_all("a", href=True):
@@ -1182,6 +1225,10 @@ def associate_contacts(
     candidates: list[dict] = []
     email_domain = normalized_host(home_url)
     for key, person in people_by_name.items():
+        # 2026-09-30: mailto-derived names bypassed every quality gate.
+        # A link label is not a person, and a role inbox is not a person.
+        if not looks_like_person_name(person["name"]):
+            continue
         email = person.get("email_hint")
         if not email:
             for candidate in hits:
@@ -1190,6 +1237,10 @@ def associate_contacts(
                 if local_part_matches_name(candidate, person["name"]):
                     email = candidate
                     break
+        if email and is_role_inbox(email):
+            # Generic inbox (info@/support@/sales@...) with a label attached
+            # is not a named decision-maker. Leave it in role_emails.
+            continue
         if not email:
             # Named person, but no published first-party email we can tie
             # to them. Record pattern-guess candidates ONLY (never a
