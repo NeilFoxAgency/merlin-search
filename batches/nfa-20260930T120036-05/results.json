@@ -1,0 +1,2545 @@
+[
+  {
+    "company_domain": "adinasbridal.com",
+    "company_name": "Adinas Bridal",
+    "website": "https://www.adinasbridal.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@adinasbridal.com",
+        "confidence": "highest",
+        "source_url": "https://www.adinasbridal.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "adina@adinasbridal.com",
+        "confidence": "high",
+        "source_url": "https://www.adinasbridal.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "adina@adinasbridal.com",
+      "info@adinasbridal.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.adinasbridal.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.adinasbridal.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.adinasbridal.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.adinasbridal.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Adina's Bridal specializes in selling gorgeous bridal gowns and accessories at incredible prices. Every dress is beautiful, in great condition and a great deal",
+    "source_urls": [
+      "https://www.adinasbridal.com",
+      "https://www.adinasbridal.com/pages/about",
+      "https://www.adinasbridal.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "adinkraexpo.com",
+    "company_name": "Adinkra Expo",
+    "website": "https://adinkraexpo.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@adinkraexpo.com",
+        "confidence": "highest",
+        "source_url": "https://adinkraexpo.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Our phone number is 703-688-3126 . Shoot us an email at info@adinkraexpo.com or fill out the form. Follow Us Twitter"
+      }
+    ],
+    "role_emails": [
+      "info@adinkraexpo.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://adinkraexpo.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://adinkraexpo.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://adinkraexpo.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Modern African clothing for women, including plus size African dresses. Statement jewelry and accessories from Ghana, including African waist beads, belly chains, african hand fans, satin lined bonnets and head wraps. We use ankara wax prints, dashiki and kente to produce ethnic clothing and African",
+    "source_urls": [
+      "https://adinkraexpo.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "adirondackblankets.com",
+    "company_name": "Adirondack Beaver Blankets",
+    "website": "https://adirondackblankets.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@adirondackblankets.com",
+        "confidence": "highest",
+        "source_url": "https://adirondackblankets.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Fifth Avenue Chardon, OH 44024 440 286 1998 info@adirondackblankets.com Facebook Instagram"
+      }
+    ],
+    "role_emails": [
+      "info@adirondackblankets.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "b.scouts@adirondackblankets.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Boy Scouts",
+        "person_title": "President",
+        "source_url": "https://adirondackblankets.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "boy.scouts@adirondackblankets.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Boy Scouts",
+        "person_title": "President",
+        "source_url": "https://adirondackblankets.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "boy@adirondackblankets.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Boy Scouts",
+        "person_title": "President",
+        "source_url": "https://adirondackblankets.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "boy_scouts@adirondackblankets.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Boy Scouts",
+        "person_title": "President",
+        "source_url": "https://adirondackblankets.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "boys@adirondackblankets.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Boy Scouts",
+        "person_title": "President",
+        "source_url": "https://adirondackblankets.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "m.our@adirondackblankets.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Message From Our",
+        "person_title": "Founder",
+        "source_url": "https://adirondackblankets.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "message.our@adirondackblankets.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Message From Our",
+        "person_title": "Founder",
+        "source_url": "https://adirondackblankets.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "message@adirondackblankets.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Message From Our",
+        "person_title": "Founder",
+        "source_url": "https://adirondackblankets.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "message_our@adirondackblankets.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Message From Our",
+        "person_title": "Founder",
+        "source_url": "https://adirondackblankets.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "messageo@adirondackblankets.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Message From Our",
+        "person_title": "Founder",
+        "source_url": "https://adirondackblankets.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "our@adirondackblankets.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Message From Our",
+        "person_title": "Founder",
+        "source_url": "https://adirondackblankets.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "scouts@adirondackblankets.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Boy Scouts",
+        "person_title": "President",
+        "source_url": "https://adirondackblankets.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://adirondackblankets.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://adirondackblankets.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://adirondackblankets.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://adirondackblankets.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://adirondackblankets.com/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://adirondackblankets.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Enjoy responsible luxury with Adirondack Beaver Blankets\u00ae - Premium beaver fur products made from selectively chosen, sustainably-sourced pelts.",
+    "source_urls": [
+      "https://adirondackblankets.com",
+      "https://adirondackblankets.com/contact",
+      "https://adirondackblankets.com/pages/about-us",
+      "https://adirondackblankets.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "adivanaturals.com",
+    "company_name": "Adiva Naturals",
+    "website": "https://adivanaturals.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@adivanaturals.com",
+        "confidence": "high",
+        "source_url": "https://adivanaturals.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@adivanaturals.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://adivanaturals.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://adivanaturals.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2016-10-29"
+      },
+      {
+        "url": "https://adivanaturals.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://adivanaturals.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://adivanaturals.com/products/organic-blood-pressure-normaliser-bitters-16oz",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Shop handcrafted natural body, hair, face and beard care plus curated gifts for the entire family. Made to nourish multicultural hair and all skin types. Rooted in Richmond, Virginia. Made for everybody.",
+    "source_urls": [
+      "https://adivanaturals.com",
+      "https://adivanaturals.com/pages/about-us",
+      "https://adivanaturals.com/pages/contact-us",
+      "https://adivanaturals.com/products/organic-blood-pressure-normaliser-bitters-16oz"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "adkguitar.com",
+    "company_name": "Adirondack Guitar",
+    "website": "https://www.adkguitar.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "John Davis",
+        "title": "Owner",
+        "email": "john@adkguitar.com",
+        "source_url": "https://www.adkguitar.com/pages/about-us"
+      }
+    ],
+    "people": [
+      {
+        "name": "John Davis",
+        "title": "Owner",
+        "email": "john@adkguitar.com",
+        "source_url": "https://www.adkguitar.com/pages/about-us"
+      }
+    ],
+    "emails": [
+      {
+        "address": "john@adkguitar.com",
+        "confidence": "highest",
+        "source_url": "https://www.adkguitar.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "john@adkguitar.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "j.shore@adkguitar.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jersey Shore",
+        "person_title": "Owner",
+        "source_url": "https://www.adkguitar.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jersey.shore@adkguitar.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jersey Shore",
+        "person_title": "Owner",
+        "source_url": "https://www.adkguitar.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jersey@adkguitar.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jersey Shore",
+        "person_title": "Owner",
+        "source_url": "https://www.adkguitar.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jersey_shore@adkguitar.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jersey Shore",
+        "person_title": "Owner",
+        "source_url": "https://www.adkguitar.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jerseys@adkguitar.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jersey Shore",
+        "person_title": "Owner",
+        "source_url": "https://www.adkguitar.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "shore@adkguitar.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jersey Shore",
+        "person_title": "Owner",
+        "source_url": "https://www.adkguitar.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.adkguitar.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.adkguitar.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.adkguitar.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.adkguitar.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Lefty and Righty Guitar and Bass from Crafter Dillon Martin G&L Schecter Dangelico Reverend and more. If we don't have it in stock then we'll find a way to meet your needs.",
+    "source_urls": [
+      "https://www.adkguitar.com",
+      "https://www.adkguitar.com/pages/about-us",
+      "https://www.adkguitar.com/pages/contact-us"
+    ],
+    "reason": null,
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "adlersjewelry.com",
+    "company_name": "Adler's of New Orleans",
+    "website": "https://adlersjewelry.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "admbathroom.com",
+    "company_name": "ADM Bathroom",
+    "website": "https://admbathroom.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@admbathroom.com",
+        "confidence": "high",
+        "source_url": "https://admbathroom.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ically Responds within : 30 minutes info@admbathroom.com We are here to help! Give us a c"
+      }
+    ],
+    "role_emails": [
+      "info@admbathroom.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://admbathroom.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://admbathroom.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://admbathroom.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://admbathroom.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Contemporary style designs within our collection of Freestanding Bathtubs and Sinks | Wall/ Counter Mounted Sinks| Mirrors | Bathtub Fillers | Shower Panels",
+    "source_urls": [
+      "https://admbathroom.com",
+      "https://admbathroom.com/pages/about-us",
+      "https://admbathroom.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "administrationtuning.com",
+    "company_name": "ADMINTUNING",
+    "website": "https://administrationtuning.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "admiremyskin.com",
+    "company_name": "Admire My Skin",
+    "website": "https://www.admiremyskin.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "a.romero@admiremyskin.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Amy Romero",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.admiremyskin.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "amy.romero@admiremyskin.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Amy Romero",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.admiremyskin.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "amy@admiremyskin.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Amy Romero",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.admiremyskin.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "amy_romero@admiremyskin.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Amy Romero",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.admiremyskin.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "amyr@admiremyskin.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Amy Romero",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.admiremyskin.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "c.romero@admiremyskin.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Craig Romero",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.admiremyskin.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "corp@admiremyskin.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Search Engine Corp",
+        "person_title": "Ceo",
+        "source_url": "https://www.admiremyskin.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "craig.romero@admiremyskin.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Craig Romero",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.admiremyskin.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "craig@admiremyskin.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Craig Romero",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.admiremyskin.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "craig_romero@admiremyskin.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Craig Romero",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.admiremyskin.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "craigr@admiremyskin.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Craig Romero",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.admiremyskin.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "e.goodman@admiremyskin.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ella Goodman",
+        "person_title": null,
+        "source_url": "https://www.admiremyskin.com/blogs/learn-to-glow/is-hyaluronic-acid-worth-it-why-everyone-s-talking-about-this-hydrator",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ella.goodman@admiremyskin.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ella Goodman",
+        "person_title": null,
+        "source_url": "https://www.admiremyskin.com/blogs/learn-to-glow/is-hyaluronic-acid-worth-it-why-everyone-s-talking-about-this-hydrator",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ella@admiremyskin.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ella Goodman",
+        "person_title": null,
+        "source_url": "https://www.admiremyskin.com/blogs/learn-to-glow/is-hyaluronic-acid-worth-it-why-everyone-s-talking-about-this-hydrator",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ella_goodman@admiremyskin.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ella Goodman",
+        "person_title": null,
+        "source_url": "https://www.admiremyskin.com/blogs/learn-to-glow/is-hyaluronic-acid-worth-it-why-everyone-s-talking-about-this-hydrator",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ellag@admiremyskin.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ella Goodman",
+        "person_title": null,
+        "source_url": "https://www.admiremyskin.com/blogs/learn-to-glow/is-hyaluronic-acid-worth-it-why-everyone-s-talking-about-this-hydrator",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "goodman@admiremyskin.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ella Goodman",
+        "person_title": null,
+        "source_url": "https://www.admiremyskin.com/blogs/learn-to-glow/is-hyaluronic-acid-worth-it-why-everyone-s-talking-about-this-hydrator",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "romero@admiremyskin.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Amy Romero",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.admiremyskin.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.corp@admiremyskin.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Search Engine Corp",
+        "person_title": "Ceo",
+        "source_url": "https://www.admiremyskin.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "search.corp@admiremyskin.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Search Engine Corp",
+        "person_title": "Ceo",
+        "source_url": "https://www.admiremyskin.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "search@admiremyskin.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Search Engine Corp",
+        "person_title": "Ceo",
+        "source_url": "https://www.admiremyskin.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "search_corp@admiremyskin.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Search Engine Corp",
+        "person_title": "Ceo",
+        "source_url": "https://www.admiremyskin.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "searchc@admiremyskin.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Search Engine Corp",
+        "person_title": "Ceo",
+        "source_url": "https://www.admiremyskin.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.admiremyskin.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.admiremyskin.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.admiremyskin.com/blogs/learn-to-glow/is-hyaluronic-acid-worth-it-why-everyone-s-talking-about-this-hydrator",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.admiremyskin.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.admiremyskin.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Shop clinical skin care products w/o a prescription, brightening serum, Synovea\u00ae HR, moisturizers, retinoid cream & masks to build skin care routines that work",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "adoberock.com",
+    "company_name": "Adobe Rock Products",
+    "website": "https://adoberock.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "sales@adoberock.com",
+        "confidence": "highest",
+        "source_url": "https://adoberock.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "830-6500 sales@adoberock.com Store Hours Monday - Fri"
+      }
+    ],
+    "role_emails": [
+      "sales@adoberock.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://adoberock.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://adoberock.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://adoberock.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://adoberock.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "The website of Adobe Rock based in Tooele, Utah. Buy everything you need for your landscape from the comfort of your home. We offer local pickup and delivery from Monday to Saturday.",
+    "source_urls": [
+      "https://adoberock.com",
+      "https://adoberock.com/pages/contact",
+      "https://adoberock.com/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "adodsons.com",
+    "company_name": "A. Dodson's",
+    "website": "https://www.adodsons.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "shop@adodsons.com",
+        "confidence": "high",
+        "source_url": "https://www.adodsons.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ustomer Service & Locations Online Sales 757-692-7978 shop@adodsons.com Suffolk Location 2948 Bridge Road Suffolk, VA 23435 757-483"
+      }
+    ],
+    "role_emails": [
+      "shop@adodsons.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "a.anderson@adodsons.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Alison Dodson Anderson",
+        "person_title": "Owner",
+        "source_url": "https://www.adodsons.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2016-08-17"
+      },
+      {
+        "address": "alison.anderson@adodsons.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Alison Dodson Anderson",
+        "person_title": "Owner",
+        "source_url": "https://www.adodsons.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2016-08-17"
+      },
+      {
+        "address": "alison@adodsons.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Alison Dodson Anderson",
+        "person_title": "Owner",
+        "source_url": "https://www.adodsons.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2016-08-17"
+      },
+      {
+        "address": "alison_anderson@adodsons.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Alison Dodson Anderson",
+        "person_title": "Owner",
+        "source_url": "https://www.adodsons.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2016-08-17"
+      },
+      {
+        "address": "alisona@adodsons.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Alison Dodson Anderson",
+        "person_title": "Owner",
+        "source_url": "https://www.adodsons.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2016-08-17"
+      },
+      {
+        "address": "anderson@adodsons.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Alison Dodson Anderson",
+        "person_title": "Owner",
+        "source_url": "https://www.adodsons.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2016-08-17"
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.adodsons.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.adodsons.com/contact-us",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2016-08-18"
+      },
+      {
+        "url": "https://www.adodsons.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2016-08-17"
+      },
+      {
+        "url": "https://www.adodsons.com/collections/sports-teams",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.adodsons.com/products/stonewall-kitchen-sea-salt-espresso-martinidrink-mixer",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.adodsons.com/pages/locations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.adodsons.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.adodsons.com/contact-us",
+        "action": "/contact-us/#wpcf7-f709-p42-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "We strive to be your happy place and your shopping oasis where fashion, home decor, and gotta-have-it gifts inspire you every time you visit! Customer favorites include Nora Fleming, Happy Everything, Catstudio, Mud Pie, enewton, Jellycat, Evergreen Garden Flags, Swig Life, Hammitt Bags and Willow T",
+    "source_urls": [
+      "https://www.adodsons.com",
+      "https://www.adodsons.com/collections/sports-teams",
+      "https://www.adodsons.com/products/stonewall-kitchen-sea-salt-espresso-martinidrink-mixer",
+      "https://www.adodsons.com/pages/locations",
+      "https://www.adodsons.com/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "adonit.net",
+    "company_name": "Adonit",
+    "website": "https://www.adonit.net",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "help@adonit.net",
+        "confidence": "highest",
+        "source_url": "https://www.adonit.net/contact",
+        "source_type": "archived",
+        "snapshot_date": "2023-06-05",
+        "context_snippet": "o reach out to us. General Customer Service Inquiries help@adonit.net Media & Affiliate Inquiries media@adonit.net"
+      },
+      {
+        "address": "media@adonit.net",
+        "confidence": "highest",
+        "source_url": "https://www.adonit.net/contact",
+        "source_type": "archived",
+        "snapshot_date": "2023-06-05",
+        "context_snippet": "quiries help@adonit.net Media & Affiliate Inquiries media@adonit.net About Media Info Resellers Privac"
+      }
+    ],
+    "role_emails": [
+      "help@adonit.net",
+      "media@adonit.net"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.adonit.net",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.adonit.net/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2023-06-05"
+      },
+      {
+        "url": "https://www.adonit.net/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2012-05-01"
+      },
+      {
+        "url": "https://www.adonit.net/pages/media-info",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.adonit.net/pages/media-info",
+        "action": "/contact#ecom-contact-form-ecom-qb24lpmjdk",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Our innovative stylus pens satisfy artists & note-takers. Shop the best stylus for drawing & writing, and get your stylus pen for touch screen devices today.",
+    "source_urls": [
+      "https://www.adonit.net/contact",
+      "https://www.adonit.net/about",
+      "https://www.adonit.net/pages/media-info"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "adoorn.com",
+    "company_name": "adoorn",
+    "website": "https://www.adoorn.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@adoorn.com",
+        "confidence": "highest",
+        "source_url": "https://www.adoorn.com/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "install guides Track an order Get in touch \u2709\ufe0f hello@adoorn.com Response within one business day. Best for order changes,"
+      }
+    ],
+    "role_emails": [
+      "hello@adoorn.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.adoorn.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.adoorn.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.adoorn.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.adoorn.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.adoorn.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.adoorn.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Upgrade your curb appeal with Adoorn\u2019s modern mailboxes, locking mailboxes, house numbers, and package delivery boxes. Built to last and designed to impress. Big impact, small price\u2014Surprisingly perfect for your home.",
+    "source_urls": [
+      "https://www.adoorn.com",
+      "https://www.adoorn.com/contact-us",
+      "https://www.adoorn.com/about",
+      "https://www.adoorn.com/about-us",
+      "https://www.adoorn.com/pages/about",
+      "https://www.adoorn.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "adora.com",
+    "company_name": "www.adora.com",
+    "website": "https://www.adora.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customerservice@adora.com",
+        "confidence": "highest",
+        "source_url": "https://www.adora.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "A3, Costa Mesa 92627 Phone: 1-800-779-5335 Email: customerservice@adora.com Name Email Message"
+      },
+      {
+        "address": "mmellon@adora.com",
+        "confidence": "high",
+        "source_url": "https://www.adora.com/pages/media-contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "customerservice@adora.com",
+      "mmellon@adora.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.adora.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.adora.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.adora.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.adora.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.adora.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.adora.com/pages/media-contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.adora.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.adora.com/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.adora.com/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.adora.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Shop Adora dolls and toys - Made for Play - Machine Washable baby dolls, doll accessories, plush toys, interactive dolls, 18 inch dolls, 14 inch dolls. Adora Toys are Safety Tested & BPA Free.",
+    "source_urls": [
+      "https://www.adora.com",
+      "https://www.adora.com/contact",
+      "https://www.adora.com/contact-us",
+      "https://www.adora.com/about",
+      "https://www.adora.com/about-us",
+      "https://www.adora.com/pages/media-contact",
+      "https://www.adora.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "adorabysimona.com",
+    "company_name": "ADORA by Simona",
+    "website": "https://www.adorabysimona.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "simona@adorabysimona.com",
+        "confidence": "high",
+        "source_url": "https://www.adorabysimona.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "simona@adorabysimona.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.adorabysimona.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.adorabysimona.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2017-12-15"
+      },
+      {
+        "url": "https://www.adorabysimona.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2017-12-15"
+      },
+      {
+        "url": "https://www.adorabysimona.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.adorabysimona.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.adorabysimona.com/contact",
+        "action": "/contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.adorabysimona.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Browse our extensive collections of\u00a0bridal jewelry and accessories for a completely personalized experience to tailor your ideas to your preferences for your Wedding Day. Bridal Jewelry, Hair Accessories, Veils, Garters, Bracelets, Earrings, Tiaras, Wedding Party Jewelry Gifts and More",
+    "source_urls": [
+      "https://www.adorabysimona.com",
+      "https://www.adorabysimona.com/about",
+      "https://www.adorabysimona.com/pages/contact-us",
+      "https://www.adorabysimona.com/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "adorasupplements.com",
+    "company_name": "Adora Supplements",
+    "website": "https://www.adorasupplements.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@adorasupplements.com",
+        "confidence": "highest",
+        "source_url": "https://www.adorasupplements.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@adorasupplements.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.adorasupplements.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.adorasupplements.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.adorasupplements.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.adorasupplements.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Each piece of Adora\u00ae Supplements is made with naturally delicious, premium chocolate, using the finest ingredients. Adora products are proudly Fairtrade certified . Our proprietary formulation is lab tested and verified to ensure you are getting the nutrients you need, while enjoying a great taste y",
+    "source_urls": [
+      "https://www.adorasupplements.com",
+      "https://www.adorasupplements.com/pages/about",
+      "https://www.adorasupplements.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "adorecosmetics.com",
+    "company_name": "Adore Cosmetics",
+    "website": "https://www.adorecosmetics.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@adorecosmetics.com",
+        "confidence": "highest",
+        "source_url": "https://www.adorecosmetics.com/pages/contact-newp",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "the following business day Phone +1 (888) 807 0544 Email support@adorecosmetics.com We're social Facebook Instagram Twitter LinkedIn Your Name"
+      }
+    ],
+    "role_emails": [
+      "support@adorecosmetics.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.adorecosmetics.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.adorecosmetics.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2025-08-05"
+      },
+      {
+        "url": "https://www.adorecosmetics.com/pages/contact-newp",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.adorecosmetics.com/pages/contact-newp",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Adore Cosmetics uses a combination of naturally derived ingredients to provide products that not only feel great when using them, but also benefits the skin in the short and long-term results.",
+    "source_urls": [
+      "https://www.adorecosmetics.com",
+      "https://www.adorecosmetics.com/pages/contact-newp"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "adoredanceshoes.com",
+    "company_name": "Adore Dance Shoes",
+    "website": "https://adoredanceshoes.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "contact@adoredanceshoes.com",
+        "confidence": "high",
+        "source_url": "https://adoredanceshoes.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ointment Book an Appointment PHONE : 1-305-632-4178 EMAIL : contact@adoredanceshoes.com Directions"
+      }
+    ],
+    "role_emails": [
+      "contact@adoredanceshoes.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://adoredanceshoes.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://adoredanceshoes.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2015-01-23"
+      },
+      {
+        "url": "https://adoredanceshoes.com/contact-us",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2018-05-03"
+      },
+      {
+        "url": "https://adoredanceshoes.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2018-05-03"
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://adoredanceshoes.com/contact-us",
+        "action": "/contact-us/#wpcf7-f5-p941-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Adore Dance Shoes curates Global brands of Latin Dance, Argentine Tango, Heels Dance and Bridal shoes. Burju Shoes exclusive dealer since 2018.",
+    "source_urls": [
+      "https://adoredanceshoes.com"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 7
+  },
+  {
+    "company_domain": "adoredbeast.com",
+    "company_name": "Adored Beast Apothecary",
+    "website": "https://adoredbeast.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "questions@adoredbeast.com",
+        "confidence": "highest",
+        "source_url": "https://adoredbeast.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "terinary advice. Phone: 1-833-993-7839 . Email: questions@adoredbeast.com Name * Email * Phone"
+      }
+    ],
+    "role_emails": [
+      "questions@adoredbeast.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "a.apothecary@adoredbeast.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Adored Beast Apothecary",
+        "person_title": "Founder",
+        "source_url": "https://adoredbeast.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "adored.apothecary@adoredbeast.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Adored Beast Apothecary",
+        "person_title": "Founder",
+        "source_url": "https://adoredbeast.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "adored@adoredbeast.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Adored Beast Apothecary",
+        "person_title": "Founder",
+        "source_url": "https://adoredbeast.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "adored_apothecary@adoredbeast.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Adored Beast Apothecary",
+        "person_title": "Founder",
+        "source_url": "https://adoredbeast.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "adoreda@adoredbeast.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Adored Beast Apothecary",
+        "person_title": "Founder",
+        "source_url": "https://adoredbeast.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "apothecary@adoredbeast.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Adored Beast Apothecary",
+        "person_title": "Founder",
+        "source_url": "https://adoredbeast.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "j.lee@adoredbeast.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Julie Anne Lee",
+        "person_title": "Founder",
+        "source_url": "https://adoredbeast.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "julie.lee@adoredbeast.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Julie Anne Lee",
+        "person_title": "Founder",
+        "source_url": "https://adoredbeast.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "julie@adoredbeast.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Julie Anne Lee",
+        "person_title": "Founder",
+        "source_url": "https://adoredbeast.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "julie_lee@adoredbeast.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Julie Anne Lee",
+        "person_title": "Founder",
+        "source_url": "https://adoredbeast.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "juliel@adoredbeast.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Julie Anne Lee",
+        "person_title": "Founder",
+        "source_url": "https://adoredbeast.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "lee@adoredbeast.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Julie Anne Lee",
+        "person_title": "Founder",
+        "source_url": "https://adoredbeast.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://adoredbeast.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://adoredbeast.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://adoredbeast.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://adoredbeast.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://adoredbeast.com/collections/digestive-support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://adoredbeast.com/collections/immune-support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://adoredbeast.com/collections/joint-support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://adoredbeast.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://adoredbeast.com/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://adoredbeast.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Premium natural animal health care products. Carefully handcrafted supplements to nurture and protect, made with only the purest, sustainably sourced ingredients.",
+    "source_urls": [
+      "https://adoredbeast.com",
+      "https://adoredbeast.com/contact",
+      "https://adoredbeast.com/about",
+      "https://adoredbeast.com/pages/contact",
+      "https://adoredbeast.com/collections/digestive-support",
+      "https://adoredbeast.com/collections/immune-support",
+      "https://adoredbeast.com/collections/joint-support",
+      "https://adoredbeast.com/pages/about"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "adoredvintage.com",
+    "company_name": "Adored Vintage",
+    "website": "https://www.adoredvintage.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "service@adoredvintage.com",
+        "confidence": "highest",
+        "source_url": "https://www.adoredvintage.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "tomer Care Options 1. Direct Email Email us anytime at service@adoredvintage.com . 2. Website Chat Box Click the chat icon located at th"
+      }
+    ],
+    "role_emails": [
+      "service@adoredvintage.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.adoredvintage.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.adoredvintage.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.adoredvintage.com/pages/customer-support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.adoredvintage.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "A thoughtfully curated women's shop with effortlessly feminine clothing inspired by vintage. Discover our clothing label, At\u00e8l\u00ebtte launched in 2022, for women who seek joy in the humble pleasures of daily living.",
+    "source_urls": [
+      "https://www.adoredvintage.com",
+      "https://www.adoredvintage.com/pages/about-us",
+      "https://www.adoredvintage.com/pages/customer-support",
+      "https://www.adoredvintage.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "adorenstudio.com",
+    "company_name": "Adoren Studio",
+    "website": "https://www.adorenstudio.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@adorenstudio.com",
+        "confidence": "high",
+        "source_url": "https://www.adorenstudio.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Can't Find Your Question? No Problem. Please Email Us At hello@adorenstudio.com What will the height of my sign be? Name signs are ordered"
+      },
+      {
+        "address": "hellolove@adorenstudio.com",
+        "confidence": "high",
+        "source_url": "https://www.adorenstudio.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "hello@adorenstudio.com",
+      "hellolove@adorenstudio.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "emery@adorenstudio.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tiffany Emery",
+        "person_title": "Founder",
+        "source_url": "https://www.adorenstudio.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "love@adorenstudio.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Shoshanna Love",
+        "person_title": null,
+        "source_url": "https://www.adorenstudio.com/contact-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.love@adorenstudio.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Shoshanna Love",
+        "person_title": null,
+        "source_url": "https://www.adorenstudio.com/contact-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "shoshanna.love@adorenstudio.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Shoshanna Love",
+        "person_title": null,
+        "source_url": "https://www.adorenstudio.com/contact-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "shoshanna@adorenstudio.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Shoshanna Love",
+        "person_title": null,
+        "source_url": "https://www.adorenstudio.com/contact-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "shoshanna_love@adorenstudio.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Shoshanna Love",
+        "person_title": null,
+        "source_url": "https://www.adorenstudio.com/contact-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "shoshannal@adorenstudio.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Shoshanna Love",
+        "person_title": null,
+        "source_url": "https://www.adorenstudio.com/contact-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "t.emery@adorenstudio.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tiffany Emery",
+        "person_title": "Founder",
+        "source_url": "https://www.adorenstudio.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tiffany.emery@adorenstudio.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tiffany Emery",
+        "person_title": "Founder",
+        "source_url": "https://www.adorenstudio.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tiffany@adorenstudio.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tiffany Emery",
+        "person_title": "Founder",
+        "source_url": "https://www.adorenstudio.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tiffany_emery@adorenstudio.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tiffany Emery",
+        "person_title": "Founder",
+        "source_url": "https://www.adorenstudio.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tiffanye@adorenstudio.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tiffany Emery",
+        "person_title": "Founder",
+        "source_url": "https://www.adorenstudio.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.adorenstudio.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.adorenstudio.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.adorenstudio.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.adorenstudio.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.adorenstudio.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.adorenstudio.com/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.adorenstudio.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "At Adoren, we make it easy to personalize nurseries and kids' rooms with high-quality wooden name signs, art prints, and decor, so you can create a space as unique as they are.",
+    "source_urls": [
+      "https://www.adorenstudio.com",
+      "https://www.adorenstudio.com/contact-us",
+      "https://www.adorenstudio.com/about",
+      "https://www.adorenstudio.com/pages/about",
+      "https://www.adorenstudio.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "adorn512.com",
+    "company_name": "adorn512",
+    "website": "https://www.adorn512.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@adorn512.com",
+        "confidence": "high",
+        "source_url": "https://www.adorn512.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2013-08-10",
+        "context_snippet": "05.9321 please allow 24 hours for us to respond Email: info@adorn512.com FOR PRESS INQUIRIES: B\u2019squared Public Relations Ph"
+      }
+    ],
+    "role_emails": [
+      "info@adorn512.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "d.mitchell@adorn512.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dana Mitchell",
+        "person_title": "Founder",
+        "source_url": "https://www.adorn512.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "dana.mitchell@adorn512.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dana Mitchell",
+        "person_title": "Founder",
+        "source_url": "https://www.adorn512.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "dana@adorn512.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dana Mitchell",
+        "person_title": "Founder",
+        "source_url": "https://www.adorn512.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "dana_mitchell@adorn512.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dana Mitchell",
+        "person_title": "Founder",
+        "source_url": "https://www.adorn512.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "danam@adorn512.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dana Mitchell",
+        "person_title": "Founder",
+        "source_url": "https://www.adorn512.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mitchell@adorn512.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dana Mitchell",
+        "person_title": "Founder",
+        "source_url": "https://www.adorn512.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.adorn512.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.adorn512.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2013-08-10"
+      },
+      {
+        "url": "https://www.adorn512.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.adorn512.com/products/on-location-ear-piercing-party",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2025-10-05"
+      },
+      {
+        "url": "https://www.adorn512.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.adorn512.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.adorn512.com/pages/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.adorn512.com/contact",
+        "action": "/contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "We offer a thoughtful selection of affordable, timeless jewelry handmade in Chicago, Downers Grove, Illinois and Wheaton, Illinois that reflects your best and truest self.",
+    "source_urls": [
+      "https://www.adorn512.com/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "adornedinarmor.com",
+    "company_name": "Lynn Adorned",
+    "website": "https://adornedinarmor.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://adornedinarmor.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://adornedinarmor.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://adornedinarmor.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Tarah-Lynn Adorned is a fashionista, podcaster, and author equipping women with the resources and tools they need to grow in their journey with God.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "adornia.com",
+    "company_name": "ADORNIA",
+    "website": "https://www.adornia.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "orders@adornia.com",
+        "confidence": "high",
+        "source_url": "http://adornia.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "estions regarding your order please contact us via email at orders@adornia.com. We will respond within 24 business hours."
+      }
+    ],
+    "role_emails": [
+      "orders@adornia.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.adornia.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.adornia.com/pages/copy-of-about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "http://adornia.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Shop trendy, high-quality fashion jewelry that you can afford! Empower yourself through our unique jewelry designs competitively priced and sold directly to you. Enjoy our weekly flash sales and discounts. Buy wholesale fashion jewelry.",
+    "source_urls": [
+      "http://adornia.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "adornmonde.com",
+    "company_name": "Adornmonde",
+    "website": "https://www.adornmonde.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Niki Allworth",
+        "title": "Founder",
+        "email": "niki@adornmonde.com",
+        "source_url": "https://www.adornmonde.com/pages/about-us"
+      }
+    ],
+    "people": [
+      {
+        "name": "Niki Allworth",
+        "title": "Founder",
+        "email": "niki@adornmonde.com",
+        "source_url": "https://www.adornmonde.com/pages/about-us"
+      }
+    ],
+    "emails": [
+      {
+        "address": "customercare@adornmonde.com",
+        "confidence": "highest",
+        "source_url": "https://www.adornmonde.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Contact us You can email us at customercare@adornmonde.com Please be aware that there may be up to a 72 hour wait (M"
+      },
+      {
+        "address": "niki@adornmonde.com",
+        "confidence": "high",
+        "source_url": "https://www.adornmonde.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "customercare@adornmonde.com",
+      "niki@adornmonde.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.adornmonde.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.adornmonde.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.adornmonde.com/contact-us",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2021-09-16"
+      },
+      {
+        "url": "https://www.adornmonde.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2021-04-23"
+      },
+      {
+        "url": "https://www.adornmonde.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.adornmonde.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.adornmonde.com/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.adornmonde.com/contact-us",
+        "action": "https://www.adornmonde.com/contact/index/post/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.adornmonde.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Solid gold flat back earrings designed to stay in. Sleep, swim, and live in your jewelry. Hypoallergenic piercing jewelry for sensitive ears and curated ear stacks.",
+    "source_urls": [
+      "https://www.adornmonde.com",
+      "https://www.adornmonde.com/contact",
+      "https://www.adornmonde.com/contact-us",
+      "https://www.adornmonde.com/about",
+      "https://www.adornmonde.com/pages/about-us",
+      "https://www.adornmonde.com/pages/contact"
+    ],
+    "reason": null,
+    "pages_fetched": 9
+  }
+]
