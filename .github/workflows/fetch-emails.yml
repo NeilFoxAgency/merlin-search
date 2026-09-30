@@ -1,4 +1,5 @@
 name: Fetch lead contact emails
+run-name: Fetch emails for ${{ inputs.batch_id }}
 
 on:
   workflow_dispatch:
