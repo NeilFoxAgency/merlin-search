@@ -17,6 +17,14 @@ Output: JSON list of per-company results with:
         confidence: "highest" (mailto:) > "high" (exact page text) >
                     "medium" (de-obfuscated)
         source_type: "live" | "archived" (Wayback Machine fallback)
+    email_candidates: [{"address", "confidence", "pattern_guessed",
+              "person_name", "person_title", "source_url", "source_type",
+              "snapshot_date"}]
+        confidence is always "candidate". Addresses nobody published;
+        pattern-guessed from a named person's name (first@, first.last@,
+        f.last@, firstl@, last@, first_last@). UNVERIFIED cheap candidates
+        for the later verification pipeline; NEVER confirmed contacts and
+        never a "found" signal.
     role_emails: first-party addresses with no person attached (manual review)
     contact_pages: [{"url", "page_type", "source_type", "snapshot_date"}]
         every contact-relevant URL discovered (contact/about/team/support...)
@@ -25,6 +33,12 @@ Output: JSON list of per-company results with:
         intent; CAPTCHA-backed forms are still recorded, flagged
     company_summary, source_urls, pages_fetched
     contacts: legacy alias of people (kept for the dispatcher).
+
+Iteration 2 adds: JSON-LD Person extraction (founder/employee entities),
+GitHub org public-email fallback (dev-tool companies), URL-decoded emails
+(no more %20 artifacts), person-name quality gates (org/title noise
+filtered from candidates), and an identity-check fallback for short brand
+names ("AWE", "4AM", "222") so short-name companies are not auto-rejected.
 
 status is "found" (>=1 named contact), "not_found", or "error".
 
@@ -46,6 +60,23 @@ Extraction techniques (adapted from public research + Fox's 2026-09-25 fixes):
 - Email de-obfuscation: "info [at] example [dot] com" forms plus HTML
   entities (&#105; etc.) are normalized before regex extraction.
 - mailto: links are harvested as the highest-confidence email source.
+- Footer harvesting: <footer> blocks are scanned explicitly on every page,
+  Cloudflare email-obfuscation (data-cfemail / /cdn-cgi/l/email-protection#)
+  is decoded, and JSON-LD Organization/Person "email" fields are extracted.
+  Decoded cfemail addresses are "medium" confidence, JSON-LD/footer text
+  addresses are "high".
+- Render-on-miss: when a domain yields zero first-party emails from the
+  static passes, the homepage and the best contact/about/team page are
+  re-fetched through headless Chromium (max 2 renders per domain) to catch
+  JS-injected emails and mailto: links.
+- Team-link person discovery: anchors pointing at /team, /about, /people,
+  /leadership, /founder, /staff whose link text is a person's name are
+  recorded as people when the surrounding block carries a title keyword.
+- Pattern-guess candidates: for named people with no published email,
+  common patterns (first@, first.last@, f.last@, firstl@, last@,
+  first_last@) are recorded ONLY in email_candidates[] as low-confidence
+  candidates (pattern_guessed=true). They never enter people[], emails[],
+  or contacts[], and are never treated as a found result.
 - Headless-Chromium render tier for JS-heavy pages with a real browser UA,
   desktop viewport, and network-idle waits.
 
@@ -55,8 +86,12 @@ HARD LINES (never crossed):
   (reason=challenge_page), never solved or bypassed. The render tier is
   only for JS rendering; the Wayback tier only reads public archival
   copies. Neither defeats an access control.
-- NEVER pattern-guess emails: only addresses actually found on pages are
-  reported. First-party domain validation stays.
+- Pattern-guess policy (Fox 2026-09-30 sprint): pattern-guessed addresses
+  are recorded ONLY in email_candidates[] as low-confidence candidates for
+  later verification, never as confirmed contacts. Nothing guessed ever
+  enters people[], emails[], or contacts[], and guessed addresses are never
+  treated as a "found" result. Only addresses actually found on pages count
+  as findings. First-party domain validation stays.
 - No stealth plugins, no JS fingerprint spoofing, no proxy rotation,
   no CAPTCHA-solving services.
 
@@ -75,7 +110,7 @@ import re
 import sys
 import time
 from pathlib import Path
-from urllib.parse import urljoin, urlparse
+from urllib.parse import urljoin, urlparse, unquote
 from urllib.robotparser import RobotFileParser
 
 from bs4 import BeautifulSoup
@@ -135,20 +170,19 @@ UA_PROFILES = [
 ]
 
 REQUEST_TIMEOUT = 20.0
-MAX_PAGES = 10
+MAX_PAGES = 8
 
 # Common contact endpoints probed directly, crawled early in page order
-# (Fox addition: /about, /team, /contact, /press first).
-# Common contact endpoints probed directly, crawled early in page order.
-# Team/press/about first: that is where named people are published
-# (Fox audit 2026-09-26: named-contact yield was ~16% while ~48% of sites
-# had some first-party email; the gap was name<->email association).
+# (Fox addition: /about, /team, /contact, /press first; iteration-1 added
+# leadership/founders/people/staff/impressum and more contact variants).
 CONTACT_ENDPOINTS = (
-    "team", "our-team", "meet-the-team", "about", "about-us",
-    "press", "media", "contact", "contact-us", "company",
-    "who-we-are", "support", "help", "get-in-touch",
+    "contact", "contact-us", "contactus", "about", "about-us", "team",
+    "our-team", "meet-the-team", "leadership", "founders", "people",
+    "staff", "press", "media", "support", "help", "company",
+    "who-we-are", "our-story", "our-mission", "get-in-touch", "reach-us",
+    "enquiries", "impressum",
 )
-MAX_PROBED_ENDPOINTS = 8
+MAX_PROBED_ENDPOINTS = 6
 
 CONTACT_HINTS = (
     "contact", "about", "about-us", "team", "our-team", "people", "staff",
@@ -391,27 +425,41 @@ def website_variants(value: str) -> list[str]:
     return variants
 
 
+def _name_key(company_name: str) -> str:
+    """Full company name, alphanumeric only, lowercase."""
+    return re.sub(r"[^a-z0-9]", "", company_name.lower())
+
+
+def _name_tokens(company_name: str) -> list[str]:
+    return [
+        t for t in re.findall(r"[a-z0-9]+", company_name.lower())
+        if len(t) >= 4 and t not in NAME_STOPWORDS
+    ]
+
+
 def company_name_matches_domain(company_name: str, url: str) -> bool:
     host = normalized_host(url)
     if not host:
         return False
-    tokens = [
-        t for t in re.findall(r"[a-z0-9]+", company_name.lower())
-        if len(t) >= 4 and t not in NAME_STOPWORDS
-    ]
     compact_host = host.replace(".", "").replace("-", "")
-    return any(token in compact_host for token in tokens)
+    # Iteration-2: short brand names ("AWE", "4AM", "222") have no >=4-char
+    # tokens, so also accept the full normalized name as a substring.
+    key = _name_key(company_name)
+    if (len(key) >= 3 and key not in NAME_STOPWORDS
+            and (key in compact_host or compact_host in key)):
+        return True
+    return any(token in compact_host for token in _name_tokens(company_name))
 
 
 def identity_matches_content(company_name: str, text: str) -> bool:
-    tokens = [
-        t for t in re.findall(r"[a-z0-9]+", company_name.lower())
-        if len(t) >= 4 and t not in NAME_STOPWORDS
-    ]
     normalized = re.sub(r"[^a-z0-9]+", " ", text.lower())
+    key = _name_key(company_name)
+    if (len(key) >= 3 and key not in NAME_STOPWORDS
+            and key in normalized.replace(" ", "")):
+        return True
     return any(
         re.search(rf"(?:^|\s){re.escape(token)}(?:\s|$)", normalized)
-        for token in tokens
+        for token in _name_tokens(company_name)
     )
 
 
@@ -442,10 +490,14 @@ def deobfuscate_emails(text: str) -> str:
 
 
 def extract_exact_emails(text: str) -> list[str]:
-    """Emails present verbatim (after HTML-entity decoding)."""
+    """Emails present verbatim (after HTML-entity decoding).
+
+    URL-encoded artifacts (mailto:%20info@example.com) are unquoted so
+    "%20info@example.com" becomes "info@example.com".
+    """
     seen: list[str] = []
     for raw in EMAIL_RE.findall(html_module.unescape(text or "")):
-        email = raw.strip().strip(".,;:").lower()
+        email = unquote(raw.strip()).strip().strip(".,;:").lower()
         if email and email not in seen and _looks_valid(email):
             seen.append(email)
     return seen
@@ -455,7 +507,7 @@ def extract_deobfuscated_emails(text: str, exact: set[str]) -> list[str]:
     """Emails only recoverable via de-obfuscation (not verbatim)."""
     seen: list[str] = []
     for raw in EMAIL_RE.findall(deobfuscate_emails(text or "")):
-        email = raw.strip().strip(".,;:").lower()
+        email = unquote(raw.strip()).strip().strip(".,;:").lower()
         if (email and email not in seen and email not in exact
                 and _looks_valid(email)):
             seen.append(email)
@@ -790,11 +842,8 @@ def find_titled_people(html: str) -> list[dict]:
         if i > 0:
             candidates += [n for n in _names_in_line(lines[i - 1])
                            if n not in candidates]
-        if i + 1 < len(lines):
-            candidates += [n for n in _names_in_line(lines[i + 1])
-                           if n not in candidates]
         for name in candidates:
-            if name.lower() not in seen:
+            if name.lower() not in seen and looks_like_person_name(name):
                 seen.add(name.lower())
                 people.append({"name": name, "title": keyword.title()})
                 break
@@ -810,7 +859,7 @@ def mailto_hits(html: str) -> list[dict]:
         href = str(anchor["href"]).strip()
         if not href.lower().startswith("mailto:"):
             continue
-        email = href[7:].split("?")[0].strip().lower()
+        email = unquote(href[7:].split("?")[0].strip()).strip().lower()
         if not _looks_valid(email):
             continue
         name = _clean_name(anchor.get_text(" ", strip=True))
@@ -818,22 +867,235 @@ def mailto_hits(html: str) -> list[dict]:
     return found
 
 
+def cfemail_decode(cfemail: str) -> str | None:
+    """Decode Cloudflare's email obfuscation.
+
+    Sites publish the address XOR-encoded (data-cfemail attribute or a
+    /cdn-cgi/l/email-protection# fragment) so naive scrapers do not see it
+    in the raw HTML. Decoding reads the page's own published content; it is
+    de-obfuscation, not an access-control bypass.
+    """
+    try:
+        data = bytes.fromhex((cfemail or "").strip().lstrip("#"))
+        if len(data) < 2:
+            return None
+        key = data[0]
+        decoded = "".join(chr(byte ^ key) for byte in data[1:])
+        if _looks_valid(decoded):
+            return decoded.lower()
+    except Exception:
+        pass
+    return None
+
+
+def extra_email_sources(html: str) -> dict[str, list[str]]:
+    """One-parse extraction of footer, JSON-LD, and cfemail addresses.
+
+    Returns {"high": [...], "medium": [...]}. Footer text and JSON-LD
+    structured data (Organization/Person "email" fields) are verbatim
+    page content -> high. Cloudflare-obfuscated addresses are decoded ->
+    medium. These sources catch contact info the whole-page text scan
+    misses (encoded mailto: links, structured data blobs).
+    """
+    high: list[str] = []
+    medium: list[str] = []
+
+    def walk_jsonld(node) -> None:
+        if isinstance(node, dict):
+            for key, value in node.items():
+                if key == "email" and isinstance(value, str):
+                    email = value.strip().lower()
+                    if _looks_valid(email) and email not in high:
+                        high.append(email)
+                else:
+                    walk_jsonld(value)
+        elif isinstance(node, list):
+            for item in node:
+                walk_jsonld(item)
+
+    soup = BeautifulSoup(html, "html.parser")
+    for footer in soup.find_all("footer"):
+        for email in extract_exact_emails(footer.get_text(" ")):
+            if email not in high:
+                high.append(email)
+    for tag in soup.find_all("script", {"type": "application/ld+json"}):
+        try:
+            walk_jsonld(json.loads(tag.string or ""))
+        except Exception:
+            continue
+    obfuscated: list[str] = []
+    for tag in soup.find_all(attrs={"data-cfemail": True}):
+        obfuscated.append(str(tag.get("data-cfemail") or ""))
+    for anchor in soup.find_all("a", href=True):
+        href = str(anchor["href"])
+        if "/cdn-cgi/l/email-protection" in href and "#" in href:
+            obfuscated.append(href.split("#", 1)[1])
+    for candidate in obfuscated:
+        email = cfemail_decode(candidate)
+        if email and email not in medium:
+            medium.append(email)
+    return {"high": high, "medium": medium}
+
+
+# Tokens that mark a "name" as an organization/place, not a person
+# (iteration-2 candidate quality gate).
+ORG_NAME_TOKENS = {
+    "university", "college", "school", "academy", "institute", "hospital",
+    "clinic", "church", "temple", "mosque", "association", "society",
+    "foundation", "federation", "club", "union",
+}
+# A "name" ending in one of these is a job title, not a person.
+TITLE_TAIL_WORDS = {
+    "director", "manager", "designer", "developer", "engineer",
+    "specialist", "coordinator", "assistant", "associate", "executive",
+    "president", "officer", "founder", "owner", "partner", "lead", "head",
+    "chief", "consultant", "analyst", "strategist", "administrator",
+}
+
+
+def looks_like_person_name(name: str) -> bool:
+    """Cheap guard against org/place/title strings misread as names.
+
+    Iteration-1 produced candidates for "Presbyterian University",
+    "San Francisco" is unfixable cheaply (kept as known residual noise),
+    and "Art Director". This gate kills the org and title cases.
+    """
+    words = name.lower().split()
+    if not words:
+        return False
+    if any(word in ORG_NAME_TOKENS for word in words):
+        return False
+    if words[-1] in TITLE_TAIL_WORDS:
+        return False
+    return True
+
+
+def jsonld_people(html: str) -> list[dict]:
+    """Named people from JSON-LD structured data.
+
+    Organization schemas often publish founder/employee Person entities,
+    e.g. {"@type": "Organization", "founder": {"@type": "Person",
+    "name": "Jane Smith"}}. These are site-published names; they feed the
+    same people pipeline (and candidates when no email ties to them).
+    """
+    people: list[dict] = []
+    seen: set[str] = set()
+
+    def is_person(node) -> bool:
+        if not isinstance(node, dict):
+            return False
+        types = node.get("@type")
+        if isinstance(types, str):
+            types = [types]
+        return any(str(t).lower() == "person" for t in (types or []))
+
+    def walk(node, parent_key: str = "") -> None:
+        if isinstance(node, dict):
+            for key, value in node.items():
+                if is_person(value):
+                    name = _clean_name(str(value.get("name") or ""))
+                    if (name and name.lower() not in seen
+                            and looks_like_person_name(name)):
+                        seen.add(name.lower())
+                        title = ("Founder" if "founder" in
+                                 str(key).lower() else None)
+                        people.append({"name": name, "title": title})
+                walk(value, str(key))
+        elif isinstance(node, list):
+            for item in node:
+                walk(item, parent_key)
+
+    soup = BeautifulSoup(html, "html.parser")
+    for tag in soup.find_all("script", {"type": "application/ld+json"}):
+        try:
+            walk(json.loads(tag.string or ""))
+        except Exception:
+            continue
+    return people
+
+
+def find_team_link_people(html: str) -> list[dict]:
+    """People from team/about/leadership link cards.
+
+    Team pages often render member cards as anchors ("Jane Smith" ->
+    /team/jane) with the title in the surrounding block. When the link text
+    is a person's name and the nearby block carries a title keyword, record
+    the person.
+    """
+    soup = BeautifulSoup(html, "html.parser")
+    people: list[dict] = []
+    seen: set[str] = set()
+    for anchor in soup.find_all("a", href=True):
+        href = str(anchor["href"]).lower()
+        if not any(seg in href for seg in (
+                "/team", "/about", "/people", "/leadership", "/founder",
+                "/staff", "/our-team")):
+            continue
+        name = _clean_name(anchor.get_text(" ", strip=True))
+        if not name or name.lower() in seen:
+            continue
+        if not looks_like_person_name(name):
+            continue
+        title: str | None = None
+        parent = anchor
+        for _ in range(3):
+            parent = parent.parent
+            if parent is None:
+                break
+            block = parent.get_text(" ", strip=True)
+            keyword = next(
+                (kw for kw in TITLE_KEYWORDS
+                 if re.search(rf"\b{re.escape(kw)}\b", block,
+                              re.IGNORECASE)),
+                None,
+            )
+            if keyword:
+                title = keyword.title()
+                break
+        if not title:
+            continue
+        seen.add(name.lower())
+        people.append({"name": name, "title": title})
+    return people
+
+
+def guess_email_candidates(name: str, domain: str) -> list[str]:
+    """Pattern-guessed addresses for a named person (LOW confidence).
+
+    These are guesses, not findings: common local-part patterns on the
+    company's own domain. Returned for email_candidates[] only; never
+    treated as confirmed contacts.
+    """
+    if not looks_like_person_name(name):
+        return []
+    parts = [re.sub(r"[^a-z]", "", piece)
+             for piece in name.lower().split()]
+    parts = [piece for piece in parts if piece]
+    if len(parts) < 2 or not domain:
+        return []
+    first, last = parts[0], parts[-1]
+    patterns = [
+        first,
+        f"{first}.{last}",
+        f"{first[0]}.{last}",
+        f"{first}{last[0]}",
+        last,
+        f"{first}_{last}",
+    ]
+    candidates: list[str] = []
+    for local in patterns:
+        email = f"{local}@{domain}"
+        if _looks_valid(email) and email not in candidates:
+            candidates.append(email)
+    return candidates
+
+
 def local_part_matches_name(email: str, name: str) -> bool:
     local = email.split("@", 1)[0].lower().replace(".", "").replace("_", "").replace("-", "")
-    parts = name.split()
-    first = parts[0].lower()
-    last = parts[-1].lower()
-    if len(local) < 3:
+    first = name.split()[0].lower()
+    if len(first) < 3 or len(local) < 3:
         return False
-    # first-name prefix (jane@, janedoe@), last-name forms (jsmith@,
-    # smith@), and initial combos (js@, jd@). All evidence-based: the
-    # name is published on the page and the local part is derived
-    # from that same name; nothing is pattern-guessed.
-    candidates = {first, last, first[0] + last, first + last[0]}
-    for cand in candidates:
-        if len(cand) >= 3 and (local.startswith(cand) or cand.startswith(local)):
-            return True
-    return False
+    return local.startswith(first) or first.startswith(local)
 
 
 def associate_contacts(
@@ -842,18 +1104,26 @@ def associate_contacts(
     home_url: str,
     source_type: str = "live",
     snapshot_date: str | None = None,
-) -> tuple[list[dict], list[dict], list[str]]:
-    """Return (people, emails, role_emails) found on one page.
+) -> tuple[list[dict], list[dict], list[str], list[dict]]:
+    """Return (people, emails, role_emails, email_candidates) for one page.
 
     people: named decision-makers (name, title, email, source_url).
     emails: every first-party address with confidence, source flagging, and
         a context snippet.
     role_emails: first-party addresses with no person attached.
+    email_candidates: pattern-guessed addresses for named people with no
+        published email (pattern_guessed=true, confidence "candidate").
+        UNVERIFIED cheap candidates; never a "found" signal.
     """
     soup = BeautifulSoup(html, "html.parser")
     visible = soup.get_text(" ")
     mailtos = mailto_hits(html)
     titled = find_titled_people(html)
+    titled_names = {p["name"].lower() for p in titled}
+    for person in find_team_link_people(html) + jsonld_people(html):
+        if person["name"].lower() not in titled_names:
+            titled.append(person)
+            titled_names.add(person["name"].lower())
 
     people_by_name: dict[str, dict] = {}
     for person in titled:
@@ -899,9 +1169,18 @@ def associate_contacts(
             record(email, "high")
         for email in extract_deobfuscated_emails(blob, set(exact)):
             record(email, "medium")
+    # Iteration-1 extra sources, parsed once: footer text, JSON-LD
+    # structured data, and Cloudflare-obfuscated addresses.
+    extra = extra_email_sources(html)
+    for email in extra["high"]:
+        record(email, "high")
+    for email in extra["medium"]:
+        record(email, "medium")
 
     people: list[dict] = []
     used_emails: set[str] = set()
+    candidates: list[dict] = []
+    email_domain = normalized_host(home_url)
     for key, person in people_by_name.items():
         email = person.get("email_hint")
         if not email:
@@ -912,8 +1191,21 @@ def associate_contacts(
                     email = candidate
                     break
         if not email:
-            # Named person, but no first-party email we can tie to them.
-            # We NEVER pattern-guess; the person is dropped.
+            # Named person, but no published first-party email we can tie
+            # to them. Record pattern-guess candidates ONLY (never a
+            # confirmed contact); the person is not a "found" result.
+            for guess in guess_email_candidates(person["name"],
+                                                email_domain):
+                candidates.append({
+                    "address": guess,
+                    "confidence": "candidate",
+                    "pattern_guessed": True,
+                    "person_name": person["name"],
+                    "person_title": person.get("title"),
+                    "source_url": page_url,
+                    "source_type": source_type,
+                    "snapshot_date": snapshot_date,
+                })
             continue
         if not email_matches_website_domain(email, home_url):
             continue
@@ -925,63 +1217,13 @@ def associate_contacts(
             "source_url": page_url,
         })
 
-    # Proximity association (Fox audit 2026-09-26): for emails still
-    # unassociated, attach the nearest person-name published within
-    # PROXIMITY_WINDOW chars in the visible text. Both the name and the
-    # email are published on the page near each other; nothing is
-    # guessed. Conservative gate: the name must be a titled person
-    # found on this page, or a title keyword must appear near the email.
-    PROXIMITY_WINDOW = 300
-    titled_names = {p["name"].lower() for p in titled}
-    name_positions: list[tuple[int, str]] = []
-    for m in NAME_RE.finditer(visible):
-        nm = _clean_name(m.group(1))
-        if nm:
-            name_positions.append((m.start(), nm))
-    title_positions = []
-    for kw in TITLE_KEYWORDS:
-        for m in re.finditer(rf"\b{re.escape(kw)}\b", visible, re.IGNORECASE):
-            title_positions.append(m.start())
-    for email in sorted(hits):
-        if email in used_emails:
-            continue
-        best: tuple[int, str] | None = None
-        email_pos: int | None = None
-        for em in re.finditer(re.escape(email), visible):
-            pos = em.start()
-            if email_pos is None:
-                email_pos = pos
-            for npos, nm in name_positions:
-                dist = abs(npos - pos)
-                if dist <= PROXIMITY_WINDOW and (
-                        best is None or dist < best[0]):
-                    best = (dist, nm)
-        if not best or email_pos is None:
-            continue
-        _dist, nm = best
-        key = nm.lower()
-        if key in people_by_name and people_by_name[key].get("email_hint"):
-            continue
-        near_title = any(abs(tp - email_pos) <= PROXIMITY_WINDOW
-                         for tp in title_positions)
-        if key not in titled_names and not near_title:
-            continue
-        used_emails.add(email)
-        existing = people_by_name.get(key)
-        people.append({
-            "name": nm,
-            "title": existing.get("title") if existing else None,
-            "email": email,
-            "source_url": page_url,
-            "association": "proximity",
-        })
-
     role_emails = sorted(e for e in hits if e not in used_emails)
     emails = sorted(
         hits.values(),
         key=lambda h: (-CONFIDENCE_RANK[h["confidence"]], h["address"]),
     )
-    return people, emails, role_emails
+    candidates = sorted(candidates, key=lambda c: c["address"])
+    return people, emails, role_emails, candidates
 
 
 def fetch_page_for_target(
@@ -1017,6 +1259,132 @@ def fetch_page_for_target(
     return result
 
 
+GITHUB_ORG_RE = re.compile(
+    r"github\.com/([A-Za-z0-9](?:[A-Za-z0-9-]{0,37}[A-Za-z0-9])?)"
+    r"(?:/|[\"'<>\s]|$)", re.IGNORECASE)
+GITHUB_NON_ORG_PATHS = {
+    "site", "collections", "topics", "trending", "marketplace",
+    "sponsors", "features", "pricing", "login", "join",
+}
+
+
+def github_org_fallback(session, page_records: list, home_url: str) -> list[dict]:
+    """Public contact email from the site's linked GitHub org.
+
+    Iteration-2 fallback for dev-tool companies: many publish a contact
+    email on their GitHub org profile (api.github.com/orgs/{org}.email).
+    Only attempted when no emails were found on the site itself. One API
+    call per domain at most; graceful on rate limits or missing email.
+
+    The GitHub API is a sanctioned programmatic interface (its own ToS),
+    not a crawled page, so the site's robots.txt does not govern it.
+    """
+    org: str | None = None
+    for _url, html, _status, _source in page_records:
+        for match in GITHUB_ORG_RE.finditer(html or ""):
+            candidate = match.group(1)
+            if candidate.lower() not in GITHUB_NON_ORG_PATHS:
+                org = candidate
+                break
+        if org:
+            break
+    if not org:
+        return []
+    try:
+        resp = session.get(f"https://api.github.com/orgs/{org}",
+                           timeout=REQUEST_TIMEOUT)
+    except Exception:
+        return []
+    if resp.status_code != 200:
+        return []
+    try:
+        email = str(resp.json().get("email") or "").strip().lower()
+    except Exception:
+        return []
+    if (email and _looks_valid(email)
+            and email_matches_website_domain(email, home_url)):
+        return [{
+            "address": email,
+            "confidence": "high",
+            "source_url": f"https://github.com/{org}",
+            "source_type": "live",
+            "snapshot_date": None,
+            "context_snippet": f"GitHub org {org} public email",
+        }]
+    return []
+
+
+def harvest_pages(
+    company_name: str,
+    home_url: str,
+    page_records: list[tuple[str, str, str, str | None]],
+) -> dict:
+    """Run extraction over (url, html, source_type, snapshot_date) records.
+
+    Returns merged people/emails/role_emails/email_candidates plus
+    contact_pages/contact_forms/source_urls. Used for the static pass and
+    again over static+rendered pages on a render-on-miss second pass.
+    """
+    all_people: list[dict] = []
+    all_emails: dict[str, dict] = {}
+    all_role: list[str] = []
+    all_candidates: dict[str, dict] = {}
+    contact_pages: list[dict] = []
+    contact_forms: list[dict] = []
+    source_urls: list[str] = []
+    for page_url, html, source_type, snapshot_date in page_records:
+        visible = BeautifulSoup(html, "html.parser").get_text(" ")
+        if not identity_matches_content(company_name, visible):
+            continue
+        contact_pages.append({
+            "url": page_url,
+            "page_type": classify_page_type(page_url),
+            "source_type": source_type,
+            "snapshot_date": snapshot_date,
+        })
+        contact_forms.extend(detect_contact_forms(page_url, html))
+        people, emails, role_emails, candidates = associate_contacts(
+            page_url, html, home_url, source_type, snapshot_date)
+        if people or emails:
+            source_urls.append(page_url)
+        all_people.extend(people)
+        for entry in emails:
+            existing = all_emails.get(entry["address"])
+            if existing is None or (
+                    CONFIDENCE_RANK[entry["confidence"]]
+                    > CONFIDENCE_RANK[existing["confidence"]]):
+                all_emails[entry["address"]] = entry
+        all_role.extend(r for r in role_emails if r not in all_role)
+        for cand in candidates:
+            all_candidates.setdefault(cand["address"], cand)
+
+    # Dedupe people by email, prefer entries with a title.
+    deduped: dict[str, dict] = {}
+    for person in all_people:
+        existing = deduped.get(person["email"])
+        if existing is None or (
+                not existing.get("title") and person.get("title")):
+            deduped[person["email"]] = person
+    people = sorted(
+        deduped.values(),
+        key=lambda c: (0 if c.get("title") else 1, c["name"]),
+    )
+    return {
+        "people": people,
+        "emails": sorted(
+            all_emails.values(),
+            key=lambda h: (-CONFIDENCE_RANK[h["confidence"]],
+                           h["address"]),
+        ),
+        "role_emails": sorted(set(all_role)),
+        "email_candidates": sorted(all_candidates.values(),
+                                   key=lambda c: c["address"]),
+        "contact_pages": contact_pages,
+        "contact_forms": contact_forms,
+        "source_urls": source_urls,
+    }
+
+
 def discover_one(
     *,
     company_domain: str,
@@ -1034,6 +1402,7 @@ def discover_one(
         "people": [],
         "emails": [],
         "role_emails": [],
+        "email_candidates": [],
         "contact_pages": [],
         "contact_forms": [],
         "company_summary": None,
@@ -1123,65 +1492,71 @@ def discover_one(
             try_add_page(url)
 
         base["company_summary"] = extract_company_summary(home_html)
-        all_people: list[dict] = []
-        all_emails: dict[str, dict] = {}
-        all_role: list[str] = []
-        contact_pages: list[dict] = []
-        contact_forms: list[dict] = []
-        source_urls: list[str] = []
-        for page_url, html, source_type, snapshot_date in pages:
-            visible = BeautifulSoup(html, "html.parser").get_text(" ")
-            if not identity_matches_content(company_name, visible):
-                continue
-            contact_pages.append({
-                "url": page_url,
-                "page_type": classify_page_type(page_url),
-                "source_type": source_type,
-                "snapshot_date": snapshot_date,
-            })
-            contact_forms.extend(detect_contact_forms(page_url, html))
-            people, emails, role_emails = associate_contacts(
-                page_url, html, home_url, source_type, snapshot_date)
-            if people or emails:
-                source_urls.append(page_url)
-            all_people.extend(people)
-            for entry in emails:
-                existing = all_emails.get(entry["address"])
-                if existing is None or (
-                        CONFIDENCE_RANK[entry["confidence"]]
-                        > CONFIDENCE_RANK[existing["confidence"]]):
-                    all_emails[entry["address"]] = entry
-            all_role.extend(r for r in role_emails if r not in all_role)
+        harvest = harvest_pages(company_name, home_url, pages)
 
-        # Dedupe people by email, prefer entries with a title.
-        deduped: dict[str, dict] = {}
-        for person in all_people:
-            existing = deduped.get(person["email"])
-            if existing is None or (
-                    not existing.get("title") and person.get("title")):
-                deduped[person["email"]] = person
-        people = sorted(
-            deduped.values(),
-            key=lambda c: (0 if c.get("title") else 1, c["name"]),
-        )
+        # Render-on-miss: the static passes found zero first-party emails
+        # anywhere on the domain. Re-fetch the homepage and the best
+        # contact/about/team page through headless Chromium (max 2
+        # renders/domain) to catch JS-injected emails and mailto: links,
+        # then re-run extraction over the combined pages. Rendered records
+        # replace the static records for the same URLs.
+        if not harvest["emails"] and not harvest["role_emails"]:
+            miss_urls = [home_url]
+            for entry in harvest["contact_pages"]:
+                if (entry["page_type"] in ("contact", "about", "team")
+                        and entry["source_type"] == "live"
+                        and entry["url"] != home_url):
+                    miss_urls.append(entry["url"])
+                    break
+            rendered_by_url: dict[str, tuple] = {}
+            for url in miss_urls[:2]:
+                if not robots_allows(url, session, user_agent):
+                    continue
+                result = renderer.render(url)
+                base["pages_fetched"] += 1
+                if result["ok"]:
+                    rendered_by_url[url] = (url, result["html"], "live",
+                                            None)
+            if rendered_by_url:
+                combined = [
+                    rendered_by_url.get(url, (url, html, source_type,
+                                              snapshot_date))
+                    for url, html, source_type, snapshot_date in pages
+                ]
+                harvest = harvest_pages(company_name, home_url, combined)
+
+        # Iteration-2 GitHub org fallback (dev-tool companies): only when
+        # no emails were found on the site itself.
+        if not harvest["emails"] and not harvest["role_emails"]:
+            for entry in github_org_fallback(session, pages, home_url):
+                known = {e["address"] for e in harvest["emails"]}
+                if entry["address"] not in known:
+                    harvest["emails"].append(entry)
+                    harvest["role_emails"].append(entry["address"])
+            harvest["emails"] = sorted(
+                harvest["emails"],
+                key=lambda h: (-CONFIDENCE_RANK[h["confidence"]],
+                               h["address"]),
+            )
+            harvest["role_emails"] = sorted(set(harvest["role_emails"]))
+
+        people = harvest["people"]
         base["people"] = people
         base["contacts"] = people  # legacy alias for the dispatcher
-        base["emails"] = sorted(
-            all_emails.values(),
-            key=lambda h: (-CONFIDENCE_RANK[h["confidence"]], h["address"]),
-        )
-        base["role_emails"] = sorted(set(all_role))
-        base["contact_pages"] = contact_pages
+        base["emails"] = harvest["emails"]
+        base["role_emails"] = harvest["role_emails"]
+        base["email_candidates"] = harvest["email_candidates"]
+        base["contact_pages"] = harvest["contact_pages"]
         # Dedupe forms by (page_url, action).
         seen_forms: set[tuple[str, str]] = set()
         deduped_forms: list[dict] = []
-        for form in contact_forms:
+        for form in harvest["contact_forms"]:
             key = (form["page_url"], form["action"])
             if key not in seen_forms:
                 seen_forms.add(key)
                 deduped_forms.append(form)
         base["contact_forms"] = deduped_forms
-        base["source_urls"] = source_urls
+        base["source_urls"] = harvest["source_urls"]
         if base["people"]:
             base["status"] = "found"
         else:
@@ -1232,6 +1607,7 @@ def main() -> int:
                         "people": [],
                         "emails": [],
                         "role_emails": [],
+                        "email_candidates": [],
                         "contact_pages": [],
                         "contact_forms": [],
                         "company_summary": None,
