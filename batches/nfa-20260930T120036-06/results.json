@@ -1,0 +1,3020 @@
+[
+  {
+    "company_domain": "adozencousins.com",
+    "company_name": "A Dozen Cousins",
+    "website": "https://adozencousins.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "heyfam@adozencousins.com",
+        "confidence": "highest",
+        "source_url": "https://adozencousins.com/contact-us",
+        "source_type": "archived",
+        "snapshot_date": "2020-07-15",
+        "context_snippet": "usins.com Retailers sales@adozencousins.com Say Hello heyfam@adozencousins.com Our Story Social Impact shop Contact Us"
+      },
+      {
+        "address": "press@adozencousins.com",
+        "confidence": "highest",
+        "source_url": "https://adozencousins.com/contact-us",
+        "source_type": "archived",
+        "snapshot_date": "2020-07-15",
+        "context_snippet": "Customer Service support@adozencousins.com Press/Media press@adozencousins.com Retailers sales@adozencousins.com Say Hello heyfam@ad"
+      },
+      {
+        "address": "sales@adozencousins.com",
+        "confidence": "highest",
+        "source_url": "https://adozencousins.com/contact-us",
+        "source_type": "archived",
+        "snapshot_date": "2020-07-15",
+        "context_snippet": "ins.com Press/Media press@adozencousins.com Retailers sales@adozencousins.com Say Hello heyfam@adozencousins.com Our Sto"
+      },
+      {
+        "address": "support@adozencousins.com",
+        "confidence": "highest",
+        "source_url": "https://adozencousins.com/contact-us",
+        "source_type": "archived",
+        "snapshot_date": "2020-07-15",
+        "context_snippet": "you as soon as possible. Speak soon! Customer Service support@adozencousins.com Press/Media press@adozencousins.com Retailers sales@a"
+      }
+    ],
+    "role_emails": [
+      "heyfam@adozencousins.com",
+      "press@adozencousins.com",
+      "sales@adozencousins.com",
+      "support@adozencousins.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://adozencousins.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://adozencousins.com/contact-us",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2020-07-15"
+      },
+      {
+        "url": "https://adozencousins.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "A Dozen Cousins",
+    "source_urls": [
+      "https://adozencousins.com/contact-us",
+      "https://adozencousins.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "adp.com",
+    "company_name": "ADP Professional Certification",
+    "website": "https://education.adp.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "adrenalinercracing.com",
+    "company_name": "Adrenaline RC Racing",
+    "website": "https://www.adrenalinercracing.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@adrenalinercracing.com",
+        "confidence": "highest",
+        "source_url": "https://www.adrenalinercracing.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Sale Need help? 703-631-8820 info@adrenalinercracing.com Follow Us Facebook Twitter"
+      },
+      {
+        "address": "hannah.hardison@adrenalinercracing.com",
+        "confidence": "high",
+        "source_url": "https://www.adrenalinercracing.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "hannah.hardison@adrenalinercracing.com",
+      "info@adrenalinercracing.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.adrenalinercracing.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.adrenalinercracing.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.adrenalinercracing.com/pages/about-adrenaline",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.adrenalinercracing.com/collections/vendors?q=Team+Associated&sort_by=best-selling",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.adrenalinercracing.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Virginia's #1 RC shop \u2014 race cars, trucks, drift, aircraft & more. Two indoor race tracks in Chantilly & Winchester. Expert staff, same-day shipping, and 25,000+ happy customers. Shop online or visit us today.",
+    "source_urls": [
+      "https://www.adrenalinercracing.com",
+      "https://www.adrenalinercracing.com/pages/contact",
+      "https://www.adrenalinercracing.com/pages/about-adrenaline",
+      "https://www.adrenalinercracing.com/collections/vendors?q=Team+Associated&sort_by=best-selling"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "adrianadegreas.com",
+    "company_name": "Adriana Degreas International",
+    "website": "https://adrianadegreas.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://adrianadegreas.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://adrianadegreas.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://adrianadegreas.com/pages/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Widely recognized for our unique bikinis, swimsuits and resortwear styles, Adriana Degreas is one of the world's leading luxury beachwear brands. Contemporary pieces, unique dresses and swimwear with cool-chic prints and designs, innovative shapes and cuts.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "adriannapapell.com",
+    "company_name": "Adrianna Papell",
+    "website": "https://www.adriannapapell.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customerservice@adriannapapell.com",
+        "confidence": "highest",
+        "source_url": "https://www.adriannapapell.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "- 10:00 PM EST Email Us Please contact us at customerservice@AdriannaPapell.com 1-800-325-9450 Our customer service agents ar"
+      },
+      {
+        "address": "pr@adriannapapell.com",
+        "confidence": "high",
+        "source_url": "https://www.adriannapapell.com/pages/press-and-influencer-information",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "luencer network and press opportunities. Please email us at pr@adriannapapell.com with the following information: Name Current Dress Size Me"
+      }
+    ],
+    "role_emails": [
+      "customerservice@adriannapapell.com",
+      "pr@adriannapapell.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.adriannapapell.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.adriannapapell.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2015-03-18"
+      },
+      {
+        "url": "https://www.adriannapapell.com/contact-us",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2017-01-19"
+      },
+      {
+        "url": "https://www.adriannapapell.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.adriannapapell.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.adriannapapell.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.adriannapapell.com/pages/press-and-influencer-information",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.adriannapapell.com/pages/contact-us",
+        "action": "/contact#ContactForm-template--25643302060397__main",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Shop Adrianna Papell for the best dresses, clothes and jumpsuits - including stunning special occasion styles like bridesmaid dresses and evening gowns you\u2019ll love.",
+    "source_urls": [
+      "https://www.adriannapapell.com/pages/contact-us",
+      "https://www.adriannapapell.com/pages/press-and-influencer-information"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "adriennelandau.com",
+    "company_name": "Adrienne Landau",
+    "website": "https://adriennelandau.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "pr@adriennelandau.com",
+        "confidence": "highest",
+        "source_url": "https://adriennelandau.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2022-11-28",
+        "context_snippet": "TACT US Have questions ? You can also email us at: pr@adriennelandau.com or fill in our contact form: Success! Message received."
+      }
+    ],
+    "role_emails": [
+      "pr@adriennelandau.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://adriennelandau.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://adriennelandau.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2022-11-28"
+      },
+      {
+        "url": "https://adriennelandau.com/contact-us",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2016-03-15"
+      },
+      {
+        "url": "https://adriennelandau.com/pages/contact-al",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://adriennelandau.com/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://adriennelandau.com/pages/contact-al",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Shop the new world of Adrienne Landau. From ready to wear, fashion essentials and accessories to curated iconic faux fur fashion styles all designed with ease, elegance and timeless glamour.",
+    "source_urls": [
+      "https://adriennelandau.com/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "adro.com",
+    "company_name": "ADRO Inc",
+    "website": "https://www.adro.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@adro.com",
+        "confidence": "highest",
+        "source_url": "https://www.adro.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "-450-2068 Email support@adro.com Copyright"
+      },
+      {
+        "address": "sales@adro.com",
+        "confidence": "high",
+        "source_url": "https://www.adro.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "u are having any issues with an order, please contact us at sales@adro.com so we can determine the best course of action. Shipping"
+      }
+    ],
+    "role_emails": [
+      "sales@adro.com",
+      "support@adro.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "l.warranty@adro.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Limited Warranty",
+        "person_title": "Owner",
+        "source_url": "https://www.adro.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "limited.warranty@adro.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Limited Warranty",
+        "person_title": "Owner",
+        "source_url": "https://www.adro.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "limited@adro.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Limited Warranty",
+        "person_title": "Owner",
+        "source_url": "https://www.adro.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "limited_warranty@adro.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Limited Warranty",
+        "person_title": "Owner",
+        "source_url": "https://www.adro.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "limitedw@adro.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Limited Warranty",
+        "person_title": "Owner",
+        "source_url": "https://www.adro.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "warranty@adro.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Limited Warranty",
+        "person_title": "Owner",
+        "source_url": "https://www.adro.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.adro.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.adro.com/pages/company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.adro.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.adro.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.adro.com/pages/contact",
+        "action": "/contact#ContactFormStepTwo",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Aero that actually works. CFD-tested and engineered by former F1 and OEM designers. Carbon fiber for BMW M3/M4, GR Supra, Porsche 992 GT3, and more.",
+    "source_urls": [
+      "https://www.adro.com",
+      "https://www.adro.com/pages/company",
+      "https://www.adro.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "adropintheoceanshop.com",
+    "company_name": "A Drop in the Ocean",
+    "website": "https://adropintheoceanshop.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://adropintheoceanshop.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://adropintheoceanshop.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://adropintheoceanshop.com/pages/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://adropintheoceanshop.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://adropintheoceanshop.com/pages/contact-us",
+        "action": "/contact#contact-template--20529866080470__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Refillable home and personal care products that are safe for people and planet, zero waste and plastic-free, and actually work.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "adsumnyc.com",
+    "company_name": "Adsum",
+    "website": "https://adsumnyc.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@adsumnyc.com",
+        "confidence": "high",
+        "source_url": "https://adsumnyc.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ail address below. For customer service inquiries: info@adsumnyc.com For wholesale inquiries: sales@adsumnyc.com F"
+      },
+      {
+        "address": "press@adsumnyc.com",
+        "confidence": "high",
+        "source_url": "https://adsumnyc.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "nquiries: sales@adsumnyc.com For press inquiries: press@adsumnyc.com Newsletter Sign up to our newsletter an"
+      },
+      {
+        "address": "sales@adsumnyc.com",
+        "confidence": "high",
+        "source_url": "https://adsumnyc.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "iries: info@adsumnyc.com For wholesale inquiries: sales@adsumnyc.com For press inquiries: press@adsumnyc.com"
+      }
+    ],
+    "role_emails": [
+      "info@adsumnyc.com",
+      "press@adsumnyc.com",
+      "sales@adsumnyc.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://adsumnyc.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://adsumnyc.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://adsumnyc.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Founded in Brooklyn NY - 2015  Adsum is an American clothing company focused on high quality manufacturing and design. We make products inspired by the cities and countryside of the American Northeast. The result is a unique interpretation of traditional men's staples with a mix of technical oute...",
+    "source_urls": [
+      "https://adsumnyc.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "adtrstore.com",
+    "company_name": "ADTR",
+    "website": "https://adtrstore.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://adtrstore.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://adtrstore.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2017-04-27"
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://adtrstore.com/contact",
+        "action": "/site/contactUs",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "A Day To Remember's official online store. Shop merch, music, vinyl, posters and more.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "adultchildren.org",
+    "company_name": "ACAWSO",
+    "website": "https://shop.adultchildren.org",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "adultsandcrafts.com",
+    "company_name": "Adults & Crafts",
+    "website": "https://www.adultsandcrafts.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@adultsandcrafts.com",
+        "confidence": "high",
+        "source_url": "https://www.adultsandcrafts.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ". Have a question?? Call/Text (720) 432-8880 or email us at info@adultsandcrafts.com Contact Us Who is Adults & Crafts? Adul"
+      }
+    ],
+    "role_emails": [
+      "info@adultsandcrafts.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "co@adultsandcrafts.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Our Co",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.adultsandcrafts.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "o.co@adultsandcrafts.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Our Co",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.adultsandcrafts.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "our.co@adultsandcrafts.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Our Co",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.adultsandcrafts.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "our@adultsandcrafts.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Our Co",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.adultsandcrafts.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "our_co@adultsandcrafts.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Our Co",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.adultsandcrafts.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ourc@adultsandcrafts.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Our Co",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.adultsandcrafts.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.adultsandcrafts.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.adultsandcrafts.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.adultsandcrafts.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.adultsandcrafts.com/products/framed-pressed-flowers-kit",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.adultsandcrafts.com/products/espresso-martini-candle-kit",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.adultsandcrafts.com/pages/contact-us",
+        "action": "/contact#contact-form-template--18401213350116__contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Crafting has Never Been More Convenient! Adults & Crafts Offers a Monthly Craft Subscription Box, DIY Craft Kits & Craft Party Packs sent directly to your Door! Kits come with the Necessary Materials, Tools, and Instructions for Trendy & Engaging Craft Projects. It's like Hello Fresh but for Crafts!",
+    "source_urls": [
+      "https://www.adultsandcrafts.com",
+      "https://www.adultsandcrafts.com/pages/about-us",
+      "https://www.adultsandcrafts.com/pages/contact-us",
+      "https://www.adultsandcrafts.com/products/framed-pressed-flowers-kit",
+      "https://www.adultsandcrafts.com/products/espresso-martini-candle-kit"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "aduroproducts.com",
+    "company_name": "Aduro Products",
+    "website": "https://www.aduroproducts.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "cs@aduroproducts.com",
+        "confidence": "high",
+        "source_url": "https://www.aduroproducts.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "y other questions regarding our products please email us at cs@aduroproducts.com If you would like to become an authorized re-seller for A"
+      }
+    ],
+    "role_emails": [
+      "cs@aduroproducts.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.aduroproducts.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.aduroproducts.com/contact-us",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2016-10-30"
+      },
+      {
+        "url": "https://www.aduroproducts.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2017-01-29"
+      },
+      {
+        "url": "https://www.aduroproducts.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.aduroproducts.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.aduroproducts.com/contact-us",
+        "action": "/contacts/index/post/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.aduroproducts.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Aduro Products is the brain child of three industry veterans who wanted to create some excitement in the electronics accessories industry. Here at Aduro, we are always on the hunt for the latest and greatest in tech accessories. Our goal is not to follow but to lead through innovation and style.",
+    "source_urls": [
+      "https://www.aduroproducts.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "adushop.com",
+    "company_name": "ADUShop.com",
+    "website": "https://www.adushop.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@adushop.com",
+        "confidence": "high",
+        "source_url": "https://www.adushop.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@adushop.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.adushop.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.adushop.com/pages/salon-locations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.adushop.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Looking for the best natural hair salons in Florida? We are an expert team of multicultural hair stylists, beauty enthusiasts and natural hair product junkies! Braids and Silk Blow Outs in Orlando, Oveido, Pembroke Pines, Plantation, Tamarac, Fort Lauderdale, Miramar, Davie, Coral Springs, Margate a",
+    "source_urls": [
+      "https://www.adushop.com",
+      "https://www.adushop.com/pages/salon-locations",
+      "https://www.adushop.com/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "adv-sound.com",
+    "company_name": "ADV.",
+    "website": "https://www.adv-sound.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@adv-sound.com",
+        "confidence": "highest",
+        "source_url": "https://www.adv-sound.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2016-06-04",
+        "context_snippet": "VSOUND, Inc. 53-15 198th St 1FL Fresh Meadows, NY 11365 info@adv-sound.com"
+      },
+      {
+        "address": "sales@adv-sound.com",
+        "confidence": "highest",
+        "source_url": "https://www.adv-sound.com/pages/support",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "support@adv-sound.com",
+        "confidence": "highest",
+        "source_url": "https://www.adv-sound.com/pages/support",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "thern Blvd STE 004 Great Neck, NY 11021 Email Contact us at support@adv-sound.com ABOUT US NEWS BECOME AN ENDOR"
+      }
+    ],
+    "role_emails": [
+      "info@adv-sound.com",
+      "sales@adv-sound.com",
+      "support@adv-sound.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.adv-sound.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.adv-sound.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2016-06-04"
+      },
+      {
+        "url": "https://www.adv-sound.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2016-06-11"
+      },
+      {
+        "url": "https://www.adv-sound.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.adv-sound.com/pages/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.adv-sound.com/contact",
+        "action": "/contact/#wpcf7-f4-p116-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Fit-First Sound\u2122 delivers earphones and IEM designed for better fit, improved seal, and consistent sound in real-world use.",
+    "source_urls": [
+      "https://www.adv-sound.com",
+      "https://www.adv-sound.com/contact",
+      "https://www.adv-sound.com/pages/about",
+      "https://www.adv-sound.com/pages/support"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "advanced.gg",
+    "company_name": "ADVANCED.gg",
+    "website": "https://advanced.gg",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@advanced.gg",
+        "confidence": "high",
+        "source_url": "https://advanced.gg/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "support@advanced.gg"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://advanced.gg",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://advanced.gg/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2020-09-21"
+      },
+      {
+        "url": "https://advanced.gg/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://advanced.gg/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://advanced.gg/products/energy-dream-team-punch-jar",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://advanced.gg/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://advanced.gg/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Discover ADVANCED.gg's premium supplements designed to enhance your performance and quality of life. Explore our range of products for improved focus, energy, and overall well-being. Live better, perform at your best.\"",
+    "source_urls": [
+      "https://advanced.gg/contact",
+      "https://advanced.gg/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "advancedclinicals.com",
+    "company_name": "Advanced Clinicals",
+    "website": "https://advancedclinicals.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "partnerships@ advancedclinicals.com",
+        "title": null,
+        "email": "partnerships@advancedclinicals.com",
+        "source_url": "https://advancedclinicals.com/pages/contact-us"
+      }
+    ],
+    "people": [
+      {
+        "name": "partnerships@ advancedclinicals.com",
+        "title": null,
+        "email": "partnerships@advancedclinicals.com",
+        "source_url": "https://advancedclinicals.com/pages/contact-us"
+      }
+    ],
+    "emails": [
+      {
+        "address": "info@advancedclinicals.com",
+        "confidence": "highest",
+        "source_url": "https://advancedclinicals.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Support team is available weekdays 8AM-4PM CST. Email us: info@advancedclinicals.com For partnerships and UGC, please email partnerships@"
+      },
+      {
+        "address": "partnerships@advancedclinicals.com",
+        "confidence": "highest",
+        "source_url": "https://advancedclinicals.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@advancedclinicals.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "a.clinicals@advancedclinicals.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Advanced Clinicals",
+        "person_title": "President",
+        "source_url": "https://advancedclinicals.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2019-10-22"
+      },
+      {
+        "address": "advanced.clinicals@advancedclinicals.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Advanced Clinicals",
+        "person_title": "President",
+        "source_url": "https://advancedclinicals.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2019-10-22"
+      },
+      {
+        "address": "advanced@advancedclinicals.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Advanced Clinicals",
+        "person_title": "President",
+        "source_url": "https://advancedclinicals.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2019-10-22"
+      },
+      {
+        "address": "advanced_clinicals@advancedclinicals.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Advanced Clinicals",
+        "person_title": "President",
+        "source_url": "https://advancedclinicals.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2019-10-22"
+      },
+      {
+        "address": "advancedc@advancedclinicals.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Advanced Clinicals",
+        "person_title": "President",
+        "source_url": "https://advancedclinicals.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2019-10-22"
+      },
+      {
+        "address": "clinicals@advancedclinicals.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Advanced Clinicals",
+        "person_title": "President",
+        "source_url": "https://advancedclinicals.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2019-10-22"
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://advancedclinicals.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://advancedclinicals.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2019-10-22"
+      },
+      {
+        "url": "https://advancedclinicals.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2019-10-22"
+      },
+      {
+        "url": "https://advancedclinicals.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://advancedclinicals.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://advancedclinicals.com/contact",
+        "action": "https://nevena-kliethermes-s94l.squarespace.com",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://advancedclinicals.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "At Advanced Clinicals, we believe that advanced skincare should be available to everyone, everyday - not just those who have access to dermatologists and med-spas.",
+    "source_urls": [
+      "https://advancedclinicals.com/pages/contact-us"
+    ],
+    "reason": null,
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "advancedfoodintolerancelabs.com",
+    "company_name": "Advanced Food Intolerance Labs",
+    "website": "https://advancedfoodintolerancelabs.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "help@advancedfoodintolerancelabs.com",
+        "confidence": "highest",
+        "source_url": "https://advancedfoodintolerancelabs.com/contact-us",
+        "source_type": "archived",
+        "snapshot_date": "2021-07-29",
+        "context_snippet": ""
+      },
+      {
+        "address": "orders@advancedfoodintolerancelabs.com",
+        "confidence": "highest",
+        "source_url": "https://advancedfoodintolerancelabs.com/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2021-06-16",
+        "context_snippet": "5pm CST. Have a Question? Email us: orders@advancedfoodintolerancelabs.com Call us: 913-444-9407 Functi"
+      },
+      {
+        "address": "info@advancedfoodintolerancelabs.com",
+        "confidence": "high",
+        "source_url": "https://advancedfoodintolerancelabs.com/contact-us",
+        "source_type": "archived",
+        "snapshot_date": "2021-07-29",
+        "context_snippet": "rk, KS 66210 (913) 444-9407 info@advancedfoodintolerancelabs.com Advanced Food I"
+      }
+    ],
+    "role_emails": [
+      "help@advancedfoodintolerancelabs.com",
+      "info@advancedfoodintolerancelabs.com",
+      "orders@advancedfoodintolerancelabs.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "america@advancedfoodintolerancelabs.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Latin America",
+        "person_title": "Founder",
+        "source_url": "https://advancedfoodintolerancelabs.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "d.upchurch@advancedfoodintolerancelabs.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Darin Upchurch",
+        "person_title": "Founder",
+        "source_url": "https://advancedfoodintolerancelabs.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "darin.upchurch@advancedfoodintolerancelabs.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Darin Upchurch",
+        "person_title": "Founder",
+        "source_url": "https://advancedfoodintolerancelabs.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "darin@advancedfoodintolerancelabs.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Darin Upchurch",
+        "person_title": "Founder",
+        "source_url": "https://advancedfoodintolerancelabs.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "darin_upchurch@advancedfoodintolerancelabs.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Darin Upchurch",
+        "person_title": "Founder",
+        "source_url": "https://advancedfoodintolerancelabs.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "darinu@advancedfoodintolerancelabs.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Darin Upchurch",
+        "person_title": "Founder",
+        "source_url": "https://advancedfoodintolerancelabs.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "l.america@advancedfoodintolerancelabs.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Latin America",
+        "person_title": "Founder",
+        "source_url": "https://advancedfoodintolerancelabs.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "latin.america@advancedfoodintolerancelabs.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Latin America",
+        "person_title": "Founder",
+        "source_url": "https://advancedfoodintolerancelabs.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "latin@advancedfoodintolerancelabs.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Latin America",
+        "person_title": "Founder",
+        "source_url": "https://advancedfoodintolerancelabs.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "latin_america@advancedfoodintolerancelabs.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Latin America",
+        "person_title": "Founder",
+        "source_url": "https://advancedfoodintolerancelabs.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "latina@advancedfoodintolerancelabs.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Latin America",
+        "person_title": "Founder",
+        "source_url": "https://advancedfoodintolerancelabs.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "upchurch@advancedfoodintolerancelabs.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Darin Upchurch",
+        "person_title": "Founder",
+        "source_url": "https://advancedfoodintolerancelabs.com/pages/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://advancedfoodintolerancelabs.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://advancedfoodintolerancelabs.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://advancedfoodintolerancelabs.com/contact-us",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2021-07-29"
+      },
+      {
+        "url": "https://advancedfoodintolerancelabs.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2021-06-16"
+      },
+      {
+        "url": "https://advancedfoodintolerancelabs.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://advancedfoodintolerancelabs.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://advancedfoodintolerancelabs.com/pages/about-our-team",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Find your food triggers with our at-home Food Intolerance Test Kit. Test 1,000+ food items, including gluten, dairy & lactose. Order your kit today!",
+    "source_urls": [
+      "https://advancedfoodintolerancelabs.com/contact-us",
+      "https://advancedfoodintolerancelabs.com/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "advancedmixology.com",
+    "company_name": "Advanced Mixology",
+    "website": "https://advancedmixology.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "help@advancedmixology.com",
+        "confidence": "highest",
+        "source_url": "https://advancedmixology.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ted States Sign in Create an account 6176109826 help@advancedmixology.com Order details Track your last order View all orders"
+      },
+      {
+        "address": "info@advancedmixology.com",
+        "confidence": "high",
+        "source_url": "https://advancedmixology.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "help@advancedmixology.com",
+      "info@advancedmixology.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "a.bloomfield@advancedmixology.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "April Bloomfield",
+        "person_title": "Owner",
+        "source_url": "https://advancedmixology.com/collections/bar-media",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "a.stewart@advancedmixology.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Amy Stewart",
+        "person_title": "Cofounder",
+        "source_url": "https://advancedmixology.com/collections/bar-media",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "achatz@advancedmixology.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Grant Achatz",
+        "person_title": "Owner",
+        "source_url": "https://advancedmixology.com/collections/bar-media",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "amy.stewart@advancedmixology.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Amy Stewart",
+        "person_title": "Cofounder",
+        "source_url": "https://advancedmixology.com/collections/bar-media",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "amy@advancedmixology.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Amy Stewart",
+        "person_title": "Cofounder",
+        "source_url": "https://advancedmixology.com/collections/bar-media",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "amy_stewart@advancedmixology.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Amy Stewart",
+        "person_title": "Cofounder",
+        "source_url": "https://advancedmixology.com/collections/bar-media",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "amys@advancedmixology.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Amy Stewart",
+        "person_title": "Cofounder",
+        "source_url": "https://advancedmixology.com/collections/bar-media",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "april.bloomfield@advancedmixology.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "April Bloomfield",
+        "person_title": "Owner",
+        "source_url": "https://advancedmixology.com/collections/bar-media",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "april@advancedmixology.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "April Bloomfield",
+        "person_title": "Owner",
+        "source_url": "https://advancedmixology.com/collections/bar-media",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "april_bloomfield@advancedmixology.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "April Bloomfield",
+        "person_title": "Owner",
+        "source_url": "https://advancedmixology.com/collections/bar-media",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "aprilb@advancedmixology.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "April Bloomfield",
+        "person_title": "Owner",
+        "source_url": "https://advancedmixology.com/collections/bar-media",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "bloomfield@advancedmixology.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "April Bloomfield",
+        "person_title": "Owner",
+        "source_url": "https://advancedmixology.com/collections/bar-media",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "city@advancedmixology.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "New York City",
+        "person_title": "Founder",
+        "source_url": "https://advancedmixology.com/collections/bar-media",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "d.humm@advancedmixology.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Daniel Humm",
+        "person_title": "Owner",
+        "source_url": "https://advancedmixology.com/collections/bar-media",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "daniel.humm@advancedmixology.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Daniel Humm",
+        "person_title": "Owner",
+        "source_url": "https://advancedmixology.com/collections/bar-media",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "daniel@advancedmixology.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Daniel Humm",
+        "person_title": "Owner",
+        "source_url": "https://advancedmixology.com/collections/bar-media",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "daniel_humm@advancedmixology.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Daniel Humm",
+        "person_title": "Owner",
+        "source_url": "https://advancedmixology.com/collections/bar-media",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "danielh@advancedmixology.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Daniel Humm",
+        "person_title": "Owner",
+        "source_url": "https://advancedmixology.com/collections/bar-media",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "g.achatz@advancedmixology.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Grant Achatz",
+        "person_title": "Owner",
+        "source_url": "https://advancedmixology.com/collections/bar-media",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "grant.achatz@advancedmixology.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Grant Achatz",
+        "person_title": "Owner",
+        "source_url": "https://advancedmixology.com/collections/bar-media",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "grant@advancedmixology.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Grant Achatz",
+        "person_title": "Owner",
+        "source_url": "https://advancedmixology.com/collections/bar-media",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "grant_achatz@advancedmixology.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Grant Achatz",
+        "person_title": "Owner",
+        "source_url": "https://advancedmixology.com/collections/bar-media",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "granta@advancedmixology.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Grant Achatz",
+        "person_title": "Owner",
+        "source_url": "https://advancedmixology.com/collections/bar-media",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "h.startup@advancedmixology.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "How Swedish Startup",
+        "person_title": "Founder",
+        "source_url": "https://advancedmixology.com/blogs/art-of-mixology/tagged/People-Personalities",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "how.startup@advancedmixology.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "How Swedish Startup",
+        "person_title": "Founder",
+        "source_url": "https://advancedmixology.com/blogs/art-of-mixology/tagged/People-Personalities",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "how@advancedmixology.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "How Swedish Startup",
+        "person_title": "Founder",
+        "source_url": "https://advancedmixology.com/blogs/art-of-mixology/tagged/People-Personalities",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "how_startup@advancedmixology.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "How Swedish Startup",
+        "person_title": "Founder",
+        "source_url": "https://advancedmixology.com/blogs/art-of-mixology/tagged/People-Personalities",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "hows@advancedmixology.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "How Swedish Startup",
+        "person_title": "Founder",
+        "source_url": "https://advancedmixology.com/blogs/art-of-mixology/tagged/People-Personalities",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "humm@advancedmixology.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Daniel Humm",
+        "person_title": "Owner",
+        "source_url": "https://advancedmixology.com/collections/bar-media",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "iruku@advancedmixology.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Uday Iruku",
+        "person_title": null,
+        "source_url": "https://advancedmixology.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mule@advancedmixology.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "This Moscow Mule",
+        "person_title": "Owner",
+        "source_url": "https://advancedmixology.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "n.city@advancedmixology.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "New York City",
+        "person_title": "Founder",
+        "source_url": "https://advancedmixology.com/collections/bar-media",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "new.city@advancedmixology.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "New York City",
+        "person_title": "Founder",
+        "source_url": "https://advancedmixology.com/collections/bar-media",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "new@advancedmixology.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "New York City",
+        "person_title": "Founder",
+        "source_url": "https://advancedmixology.com/collections/bar-media",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "new_city@advancedmixology.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "New York City",
+        "person_title": "Founder",
+        "source_url": "https://advancedmixology.com/collections/bar-media",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "newc@advancedmixology.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "New York City",
+        "person_title": "Founder",
+        "source_url": "https://advancedmixology.com/collections/bar-media",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "startup@advancedmixology.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "How Swedish Startup",
+        "person_title": "Founder",
+        "source_url": "https://advancedmixology.com/blogs/art-of-mixology/tagged/People-Personalities",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "stewart@advancedmixology.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Amy Stewart",
+        "person_title": "Cofounder",
+        "source_url": "https://advancedmixology.com/collections/bar-media",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "t.mule@advancedmixology.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "This Moscow Mule",
+        "person_title": "Owner",
+        "source_url": "https://advancedmixology.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "this.mule@advancedmixology.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "This Moscow Mule",
+        "person_title": "Owner",
+        "source_url": "https://advancedmixology.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "this@advancedmixology.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "This Moscow Mule",
+        "person_title": "Owner",
+        "source_url": "https://advancedmixology.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "this_mule@advancedmixology.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "This Moscow Mule",
+        "person_title": "Owner",
+        "source_url": "https://advancedmixology.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "thism@advancedmixology.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "This Moscow Mule",
+        "person_title": "Owner",
+        "source_url": "https://advancedmixology.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "u.iruku@advancedmixology.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Uday Iruku",
+        "person_title": null,
+        "source_url": "https://advancedmixology.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "uday.iruku@advancedmixology.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Uday Iruku",
+        "person_title": null,
+        "source_url": "https://advancedmixology.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "uday@advancedmixology.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Uday Iruku",
+        "person_title": null,
+        "source_url": "https://advancedmixology.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "uday_iruku@advancedmixology.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Uday Iruku",
+        "person_title": null,
+        "source_url": "https://advancedmixology.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "udayi@advancedmixology.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Uday Iruku",
+        "person_title": null,
+        "source_url": "https://advancedmixology.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://advancedmixology.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://advancedmixology.com/blogs/art-of-mixology/tagged/People-Personalities",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://advancedmixology.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://advancedmixology.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://advancedmixology.com/collections/bar-media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://advancedmixology.com/pages/contact-us",
+        "action": "/contact#167630403",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Advanced Mixology is your source for everything related to cocktails - cocktail recipes, cocktail ingredients and trivia.",
+    "source_urls": [
+      "https://advancedmixology.com",
+      "https://advancedmixology.com/blogs/art-of-mixology/tagged/People-Personalities",
+      "https://advancedmixology.com/pages/about-us",
+      "https://advancedmixology.com/pages/contact-us",
+      "https://advancedmixology.com/collections/bar-media"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "advancedtanningsolutions.com",
+    "company_name": "Advanced Tanning Solutions",
+    "website": "https://www.advancedtanningsolutions.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@advancedtanningsolutions.com",
+        "confidence": "highest",
+        "source_url": "https://www.advancedtanningsolutions.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2021-09-28",
+        "context_snippet": "Info Phone: 303.642.3060 Fax: 303.648.6486 Email: info@advancedtanningsolutions.com"
+      }
+    ],
+    "role_emails": [
+      "info@advancedtanningsolutions.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "chavez@advancedtanningsolutions.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dylan Chavez",
+        "person_title": "Founder",
+        "source_url": "https://www.advancedtanningsolutions.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2021-09-28"
+      },
+      {
+        "address": "d.chavez@advancedtanningsolutions.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dylan Chavez",
+        "person_title": "Founder",
+        "source_url": "https://www.advancedtanningsolutions.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2021-09-28"
+      },
+      {
+        "address": "dylan.chavez@advancedtanningsolutions.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dylan Chavez",
+        "person_title": "Founder",
+        "source_url": "https://www.advancedtanningsolutions.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2021-09-28"
+      },
+      {
+        "address": "dylan@advancedtanningsolutions.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dylan Chavez",
+        "person_title": "Founder",
+        "source_url": "https://www.advancedtanningsolutions.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2021-09-28"
+      },
+      {
+        "address": "dylan_chavez@advancedtanningsolutions.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dylan Chavez",
+        "person_title": "Founder",
+        "source_url": "https://www.advancedtanningsolutions.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2021-09-28"
+      },
+      {
+        "address": "dylanc@advancedtanningsolutions.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dylan Chavez",
+        "person_title": "Founder",
+        "source_url": "https://www.advancedtanningsolutions.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2021-09-28"
+      },
+      {
+        "address": "f.hart@advancedtanningsolutions.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Forest Hart",
+        "person_title": "Founder",
+        "source_url": "https://www.advancedtanningsolutions.com/pages/our-company",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "forest.hart@advancedtanningsolutions.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Forest Hart",
+        "person_title": "Founder",
+        "source_url": "https://www.advancedtanningsolutions.com/pages/our-company",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "forest@advancedtanningsolutions.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Forest Hart",
+        "person_title": "Founder",
+        "source_url": "https://www.advancedtanningsolutions.com/pages/our-company",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "forest_hart@advancedtanningsolutions.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Forest Hart",
+        "person_title": "Founder",
+        "source_url": "https://www.advancedtanningsolutions.com/pages/our-company",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "foresth@advancedtanningsolutions.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Forest Hart",
+        "person_title": "Founder",
+        "source_url": "https://www.advancedtanningsolutions.com/pages/our-company",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "hart@advancedtanningsolutions.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Forest Hart",
+        "person_title": "Founder",
+        "source_url": "https://www.advancedtanningsolutions.com/pages/our-company",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "hudson@advancedtanningsolutions.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Leona Hudson",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.advancedtanningsolutions.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2021-09-28"
+      },
+      {
+        "address": "knapton@advancedtanningsolutions.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Peter Knapton",
+        "person_title": "Owner",
+        "source_url": "https://www.advancedtanningsolutions.com/pages/our-company",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "l.hudson@advancedtanningsolutions.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Leona Hudson",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.advancedtanningsolutions.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2021-09-28"
+      },
+      {
+        "address": "leona.hudson@advancedtanningsolutions.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Leona Hudson",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.advancedtanningsolutions.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2021-09-28"
+      },
+      {
+        "address": "leona@advancedtanningsolutions.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Leona Hudson",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.advancedtanningsolutions.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2021-09-28"
+      },
+      {
+        "address": "leona_hudson@advancedtanningsolutions.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Leona Hudson",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.advancedtanningsolutions.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2021-09-28"
+      },
+      {
+        "address": "leonah@advancedtanningsolutions.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Leona Hudson",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.advancedtanningsolutions.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2021-09-28"
+      },
+      {
+        "address": "o.story@advancedtanningsolutions.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Our Story",
+        "person_title": "Founder",
+        "source_url": "https://www.advancedtanningsolutions.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "our.story@advancedtanningsolutions.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Our Story",
+        "person_title": "Founder",
+        "source_url": "https://www.advancedtanningsolutions.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "our@advancedtanningsolutions.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Our Story",
+        "person_title": "Founder",
+        "source_url": "https://www.advancedtanningsolutions.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "our_story@advancedtanningsolutions.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Our Story",
+        "person_title": "Founder",
+        "source_url": "https://www.advancedtanningsolutions.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ours@advancedtanningsolutions.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Our Story",
+        "person_title": "Founder",
+        "source_url": "https://www.advancedtanningsolutions.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "p.knapton@advancedtanningsolutions.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Peter Knapton",
+        "person_title": "Owner",
+        "source_url": "https://www.advancedtanningsolutions.com/pages/our-company",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "peter.knapton@advancedtanningsolutions.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Peter Knapton",
+        "person_title": "Owner",
+        "source_url": "https://www.advancedtanningsolutions.com/pages/our-company",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "peter@advancedtanningsolutions.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Peter Knapton",
+        "person_title": "Owner",
+        "source_url": "https://www.advancedtanningsolutions.com/pages/our-company",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "peter_knapton@advancedtanningsolutions.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Peter Knapton",
+        "person_title": "Owner",
+        "source_url": "https://www.advancedtanningsolutions.com/pages/our-company",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "peterk@advancedtanningsolutions.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Peter Knapton",
+        "person_title": "Owner",
+        "source_url": "https://www.advancedtanningsolutions.com/pages/our-company",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "story@advancedtanningsolutions.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Our Story",
+        "person_title": "Founder",
+        "source_url": "https://www.advancedtanningsolutions.com",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.advancedtanningsolutions.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.advancedtanningsolutions.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2021-09-28"
+      },
+      {
+        "url": "https://www.advancedtanningsolutions.com/contact-us",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2021-09-28"
+      },
+      {
+        "url": "https://www.advancedtanningsolutions.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2021-09-28"
+      },
+      {
+        "url": "https://www.advancedtanningsolutions.com/pages/our-company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.advancedtanningsolutions.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.advancedtanningsolutions.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Advanced Tanning Solutions provides Made in the USA tanning products for taxidermy and fur dressing professionals. Developed by industry pioneer Dale Knobloch, our advanced formulas are carefully crafted for superior results, consistency, and safety for both hides and users.",
+    "source_urls": [
+      "https://www.advancedtanningsolutions.com/contact",
+      "https://www.advancedtanningsolutions.com/contact-us",
+      "https://www.advancedtanningsolutions.com/about",
+      "https://www.advancedtanningsolutions.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "advancedtrichology.com",
+    "company_name": "Advanced Trichology",
+    "website": "https://www.advancedtrichology.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@advancedtrichology.com",
+        "confidence": "highest",
+        "source_url": "https://www.advancedtrichology.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ith disabilities, please email our team at support@advancedtrichology.com Privacy Policy Terms of Service CA Privacy Rights"
+      }
+    ],
+    "role_emails": [
+      "support@advancedtrichology.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.advancedtrichology.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.advancedtrichology.com/products/dht-blocker-vitamin-with-immune-support-saw-palmetto-and-green-tea",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.advancedtrichology.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.advancedtrichology.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Advanced Trichology products provide the greatest results in hair regrowth for both men and women.",
+    "source_urls": [
+      "https://www.advancedtrichology.com",
+      "https://www.advancedtrichology.com/products/dht-blocker-vitamin-with-immune-support-saw-palmetto-and-green-tea",
+      "https://www.advancedtrichology.com/pages/about-us",
+      "https://www.advancedtrichology.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "advancedtruckparts.com",
+    "company_name": "ADVANCED TRUCK PARTS",
+    "website": "https://advancedtruckparts.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@advancedtruckparts.com",
+        "confidence": "highest",
+        "source_url": "https://advancedtruckparts.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Talk to a parts expert +1 (877) 795-0656 support@advancedtruckparts.com Mon\u2013Fri 8:00 AM \u2013 10:30 PM ET 4.7/5 on Google 590+"
+      },
+      {
+        "address": "john@advancedtruckparts.com",
+        "confidence": "high",
+        "source_url": "https://advancedtruckparts.com/products/k078219-k105770-genuine-bendix-atr-6-traction-relay-4-psi-crack-pressure",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "that we can not ship to your location please contact us at john@advancedtruckparts.com so that we can give you a custom shipping quote. Once you c"
+      }
+    ],
+    "role_emails": [
+      "john@advancedtruckparts.com",
+      "support@advancedtruckparts.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://advancedtruckparts.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://advancedtruckparts.com/pages/contact-advanced-truck-parts",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://advancedtruckparts.com/products/k078219-k105770-genuine-bendix-atr-6-traction-relay-4-psi-crack-pressure",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://advancedtruckparts.com/pages/advanced-truck-parts-supports-ukrainian-children",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://advancedtruckparts.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://advancedtruckparts.com/pages/contact-advanced-truck-parts",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://advancedtruckparts.com/products/k078219-k105770-genuine-bendix-atr-6-traction-relay-4-psi-crack-pressure",
+        "action": "/contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Advanced Truck Parts supplies affordable and OEM heavy-duty truck parts for semis, trailers, and fleets. Engine, drivetrain, suspension, braking, and electrical components with fast sourcing, expert support, and nationwide delivery. Next day delivery available on most parts. Verify fitment with part",
+    "source_urls": [
+      "https://advancedtruckparts.com",
+      "https://advancedtruckparts.com/pages/contact-advanced-truck-parts",
+      "https://advancedtruckparts.com/products/k078219-k105770-genuine-bendix-atr-6-traction-relay-4-psi-crack-pressure",
+      "https://advancedtruckparts.com/pages/advanced-truck-parts-supports-ukrainian-children",
+      "https://advancedtruckparts.com/policies/contact-information"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "advancetruckpartsusa.com",
+    "company_name": "Advance Truck Parts",
+    "website": "https://advancetruckpartsusa.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@advancetruckpartsusa.com",
+        "confidence": "highest",
+        "source_url": "https://advancetruckpartsusa.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "rise, FL 33313 Contact Us support@AdvanceTruckPartsUSA.com Your Heavy-Duty Electrical Parts Speciali"
+      }
+    ],
+    "role_emails": [
+      "support@advancetruckpartsusa.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://advancetruckpartsusa.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://advancetruckpartsusa.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://advancetruckpartsusa.com/products/1818119pe-atp-exhaust-gas-dpf-pressure-sensor",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://advancetruckpartsusa.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://advancetruckpartsusa.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://advancetruckpartsusa.com/products/1818119pe-atp-exhaust-gas-dpf-pressure-sensor",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Same-day worldwide shipping on premium air & electrical truck components. Shop heavy duty parts for Freightliner, International, Mack, Volvo, Kenworth & more.",
+    "source_urls": [
+      "https://advancetruckpartsusa.com",
+      "https://advancetruckpartsusa.com/contact",
+      "https://advancetruckpartsusa.com/products/1818119pe-atp-exhaust-gas-dpf-pressure-sensor",
+      "https://advancetruckpartsusa.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "advantage-supply.com",
+    "company_name": "Advantage Mechanical Supply",
+    "website": "https://advantage-supply.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hector@advantage-supply.com",
+        "confidence": "highest",
+        "source_url": "https://advantage-supply.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "7 mariane@advantage-supply.com Hector Gutierrez hector@advantage-supply.com Quick links"
+      },
+      {
+        "address": "mariane@advantage-supply.com",
+        "confidence": "highest",
+        "source_url": "https://advantage-supply.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "antage-supply.com Mariane Gacusan +1 334 822-4897 mariane@advantage-supply.com Hector Gutierrez hector@advantage-supply.com"
+      },
+      {
+        "address": "onlinesupport@advantage-supply.com",
+        "confidence": "highest",
+        "source_url": "https://advantage-supply.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "e Sales & Support +1 33 HVAC GUYS (+1 334 822-4897) onlinesupport@advantage-supply.com Mariane Gacusan +1 334 822-4897 mariane@advantage"
+      },
+      {
+        "address": "aaron@advantage-supply.com",
+        "confidence": "high",
+        "source_url": "https://advantage-supply.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Fort Worth, Texas Mon - Fri 8am - 5pm aaron@advantage-supply.com (469)-954-2401 2410 Minnis Dr Ste #230, Haltom City, TX 76"
+      },
+      {
+        "address": "isai@advantage-supply.com",
+        "confidence": "high",
+        "source_url": "https://advantage-supply.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Garland, Texas Mon - Fri, 8am-5pm isai@advantage-supply.com 214-584-9352 11320 Pagemill Rd, Dallas, TX 75243 Get Dir"
+      },
+      {
+        "address": "juan@advantage-supply.com",
+        "confidence": "high",
+        "source_url": "https://advantage-supply.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Dallas, Texas Mon - Fri, 8am-5pm juan@advantage-supply.com 972-487-5638 4656 Leston St. Dallas Texas 75247 Get Dire"
+      },
+      {
+        "address": "luis@advantage-supply.com",
+        "confidence": "high",
+        "source_url": "https://advantage-supply.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Laredo, Texas By Appointment luis@advantage-supply.com 956-444-2774 8424 Amparan Laredo Texas 78045 Get Directions"
+      }
+    ],
+    "role_emails": [
+      "aaron@advantage-supply.com",
+      "hector@advantage-supply.com",
+      "isai@advantage-supply.com",
+      "juan@advantage-supply.com",
+      "luis@advantage-supply.com",
+      "mariane@advantage-supply.com",
+      "onlinesupport@advantage-supply.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://advantage-supply.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://advantage-supply.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://advantage-supply.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://advantage-supply.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "At Advantage Mechanical Supply, we stand ready to provide HVAC supplies and parts that will get the job done right the first time in a number of fields.",
+    "source_urls": [
+      "https://advantage-supply.com",
+      "https://advantage-supply.com/contact",
+      "https://advantage-supply.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "advantagelifts.com",
+    "company_name": "Advantage Lifts",
+    "website": "https://www.advantagelifts.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "aaronh@advantagelifts.com",
+        "confidence": "highest",
+        "source_url": "https://www.advantagelifts.com/pages/about",
+        "source_type": "archived",
+        "snapshot_date": "2024-11-02",
+        "context_snippet": "ron Harpine Lift Expert & Customer Service Representative AaronH@AdvantageLifts.com (717) 688-5004 Sean Carlucci Lift Expert & Custom"
+      },
+      {
+        "address": "amiller@advantagelifts.com",
+        "confidence": "highest",
+        "source_url": "https://www.advantagelifts.com/pages/about",
+        "source_type": "archived",
+        "snapshot_date": "2024-11-02",
+        "context_snippet": "aron Miller Lift Expert & Customer Service Representative AMiller@AdvantageLifts.com (717) 451-4119 Timothy Dixon Lift Expert & Custom"
+      },
+      {
+        "address": "kyleb@advantagelifts.com",
+        "confidence": "highest",
+        "source_url": "https://www.advantagelifts.com/pages/contact",
+        "source_type": "archived",
+        "snapshot_date": "2024-10-04",
+        "context_snippet": "213 Kyle Bures Event Representative & Lift Expert KyleB@AdvantageLifts.com (704) 763-9019 Sean Carlucci Lift Expert & Custom"
+      },
+      {
+        "address": "mike@advantagelifts.com",
+        "confidence": "highest",
+        "source_url": "https://www.advantagelifts.com/pages/contact",
+        "source_type": "archived",
+        "snapshot_date": "2024-10-04",
+        "context_snippet": "ves Mike Bartholow Event Representative & Lift Expert Mike@AdvantageLifts.com (952) 258-9700 Tony Weber Event Representative &"
+      },
+      {
+        "address": "rod@advantagelifts.com",
+        "confidence": "highest",
+        "source_url": "https://www.advantagelifts.com/pages/about",
+        "source_type": "archived",
+        "snapshot_date": "2024-11-02",
+        "context_snippet": "LoriMack@BestALS.com (763) 300-5730 Rod Rager CFO Rod@AdvantageLifts.com (763) 300-5730 Lucy Director of"
+      },
+      {
+        "address": "sales@advantagelifts.com",
+        "confidence": "highest",
+        "source_url": "https://www.advantagelifts.com/pages/contact",
+        "source_type": "archived",
+        "snapshot_date": "2024-10-04",
+        "context_snippet": "dress: 773 Cherry Tree Court, Hanover, PA 17331 Email: sales@advantagelifts.com Phone: 763-300-5730 Social: Facebook Inst"
+      },
+      {
+        "address": "seanc@advantagelifts.com",
+        "confidence": "highest",
+        "source_url": "https://www.advantagelifts.com/pages/contact",
+        "source_type": "archived",
+        "snapshot_date": "2024-10-04",
+        "context_snippet": "n Carlucci Lift Expert & Customer Service Representative SeanC@AdvantageLifts.com (818) 373-9022 Name Email"
+      },
+      {
+        "address": "timd@advantagelifts.com",
+        "confidence": "highest",
+        "source_url": "https://www.advantagelifts.com/pages/about",
+        "source_type": "archived",
+        "snapshot_date": "2024-11-02",
+        "context_snippet": "mothy Dixon Lift Expert & Customer Service Representative TimD@AdvantageLifts.com (717) 326-1539 Sign-up today to"
+      },
+      {
+        "address": "tony@advantagelifts.com",
+        "confidence": "highest",
+        "source_url": "https://www.advantagelifts.com/pages/contact",
+        "source_type": "archived",
+        "snapshot_date": "2024-10-04",
+        "context_snippet": "700 Tony Weber Event Representative & Lift Expert Tony@AdvantageLifts.com (316) 648-6213 Kyle Bures Event Representative &"
+      }
+    ],
+    "role_emails": [
+      "aaronh@advantagelifts.com",
+      "amiller@advantagelifts.com",
+      "kyleb@advantagelifts.com",
+      "mike@advantagelifts.com",
+      "rod@advantagelifts.com",
+      "sales@advantagelifts.com",
+      "seanc@advantagelifts.com",
+      "timd@advantagelifts.com",
+      "tony@advantagelifts.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "b.buddy@advantagelifts.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Backyard Buddy",
+        "person_title": "Founder",
+        "source_url": "https://www.advantagelifts.com/pages/about",
+        "source_type": "archived",
+        "snapshot_date": "2024-11-02"
+      },
+      {
+        "address": "backyard.buddy@advantagelifts.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Backyard Buddy",
+        "person_title": "Founder",
+        "source_url": "https://www.advantagelifts.com/pages/about",
+        "source_type": "archived",
+        "snapshot_date": "2024-11-02"
+      },
+      {
+        "address": "backyard@advantagelifts.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Backyard Buddy",
+        "person_title": "Founder",
+        "source_url": "https://www.advantagelifts.com/pages/about",
+        "source_type": "archived",
+        "snapshot_date": "2024-11-02"
+      },
+      {
+        "address": "backyard_buddy@advantagelifts.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Backyard Buddy",
+        "person_title": "Founder",
+        "source_url": "https://www.advantagelifts.com/pages/about",
+        "source_type": "archived",
+        "snapshot_date": "2024-11-02"
+      },
+      {
+        "address": "backyardb@advantagelifts.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Backyard Buddy",
+        "person_title": "Founder",
+        "source_url": "https://www.advantagelifts.com/pages/about",
+        "source_type": "archived",
+        "snapshot_date": "2024-11-02"
+      },
+      {
+        "address": "buddy@advantagelifts.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Backyard Buddy",
+        "person_title": "Founder",
+        "source_url": "https://www.advantagelifts.com/pages/about",
+        "source_type": "archived",
+        "snapshot_date": "2024-11-02"
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.advantagelifts.com",
+        "page_type": "home",
+        "source_type": "archived",
+        "snapshot_date": "2025-01-08"
+      },
+      {
+        "url": "https://www.advantagelifts.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2024-10-04"
+      },
+      {
+        "url": "https://www.advantagelifts.com/pages/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2024-11-02"
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.advantagelifts.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Discover Advantage Lifts, your trusted source for high-quality 2 post and 4 post car lifts. Our lifts are designed for low garage ceilings, car collectors, car restoration specialists, and DIY Automotive Enthusiasts.",
+    "source_urls": [
+      "https://www.advantagelifts.com/pages/contact",
+      "https://www.advantagelifts.com/pages/about"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  }
+]
