@@ -1,0 +1,1899 @@
+[
+  {
+    "company_domain": "69golf.com",
+    "company_name": "69 Golf",
+    "website": "https://www.69golf.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "contact@69golf.com",
+        "confidence": "high",
+        "source_url": "https://www.69golf.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "69Golf 69Golf LLC 440 E Rte 66 Glendora 91740 contact@69golf.com Facebook Instagram"
+      },
+      {
+        "address": "team@69golf.com",
+        "confidence": "high",
+        "source_url": "https://www.69golf.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "contact@69golf.com",
+      "team@69golf.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.69golf.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.69golf.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.69golf.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "69Golf Home of The 69 Degree Wedge. You have to get it up, before you can get it in! 69 Golf makes products to help you get it in and is proud to present our premium 69 degree wedge. Open it up, close it down, the grind allows for the club to lie flush however you go at it.",
+    "source_urls": [
+      "https://www.69golf.com",
+      "https://www.69golf.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "6ave.com",
+    "company_name": "6ave.com",
+    "website": "https://6ave.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customercare@6ave.com",
+        "confidence": "highest",
+        "source_url": "https://6ave.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Service: Give us a call on 1-800-414-4012 or email us at customercare@6ave.com for any of the following: For any questions regarding"
+      }
+    ],
+    "role_emails": [
+      "customercare@6ave.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://6ave.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://6ave.com/collections/camera-media-storage",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://6ave.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://6ave.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Electronics, Cameras & Pro Video Equipment. Shop premium gear from top brands. Free shipping on most orders. Expert selection since 1984.",
+    "source_urls": [
+      "https://6ave.com",
+      "https://6ave.com/collections/camera-media-storage",
+      "https://6ave.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "6dhelmets.com",
+    "company_name": "6D Helmets",
+    "website": "https://www.6dhelmets.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.6dhelmets.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.6dhelmets.com/team",
+        "page_type": "team",
+        "source_type": "archived",
+        "snapshot_date": "2019-10-18"
+      },
+      {
+        "url": "https://www.6dhelmets.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2017-11-16"
+      },
+      {
+        "url": "https://www.6dhelmets.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.6dhelmets.com/press",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2019-11-20"
+      },
+      {
+        "url": "https://www.6dhelmets.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.6dhelmets.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.6dhelmets.com/blogs/headspace/6d-rider-francisco-garcia-and-the-venum-bud-racing-kawasaki-team-crowned-2026-emx250-european-champions",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.6dhelmets.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.6dhelmets.com/contact",
+        "action": "/contact#contact-template--26751277629736__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.6dhelmets.com/pages/contact",
+        "action": "/contact#contact-template--26751277629736__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "6D Helmets is committed to the relentless pursuit of brain protection. Our innovative designs utilize cutting-edge technology for superior safety. Shop now and experience the ultimate in head protection.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "6ixthsensela.com",
+    "company_name": "6ixthsensela",
+    "website": "https://6ixthsensela.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@6ixthsensela.com",
+        "confidence": "highest",
+        "source_url": "https://6ixthsensela.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Need help? (213) 924-6853 support@6ixthsensela.com Follow Us Instagram Pinterest"
+      }
+    ],
+    "role_emails": [
+      "support@6ixthsensela.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://6ixthsensela.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://6ixthsensela.com/collections/console-tables-media-consoles",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://6ixthsensela.com/collections/media-stands",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://6ixthsensela.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://6ixthsensela.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Discover curated home decor and furniture at 6ixth Sense LA. Shop warm minimalist sofas, postmodern accents, and independent global design brands in DTLA.",
+    "source_urls": [
+      "https://6ixthsensela.com",
+      "https://6ixthsensela.com/collections/console-tables-media-consoles",
+      "https://6ixthsensela.com/collections/media-stands",
+      "https://6ixthsensela.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "7pipe.com",
+    "company_name": "7pipe",
+    "website": "https://www.7pipe.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "jeffrey@7pipe.com",
+        "confidence": "highest",
+        "source_url": "https://www.7pipe.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2011-04-09",
+        "context_snippet": "Media/Analyst Contact jeffrey@7pipe.com Free Brochure Get a"
+      },
+      {
+        "address": "sales@7pipe.com",
+        "confidence": "highest",
+        "source_url": "https://www.7pipe.com/about",
+        "source_type": "archived",
+        "snapshot_date": "2011-04-09",
+        "context_snippet": "s sales@7pipe.com"
+      },
+      {
+        "address": "sean@7pipe.com",
+        "confidence": "highest",
+        "source_url": "https://www.7pipe.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Sean@7pipe.com"
+      }
+    ],
+    "role_emails": [
+      "jeffrey@7pipe.com",
+      "sales@7pipe.com",
+      "sean@7pipe.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.7pipe.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.7pipe.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2011-04-09"
+      },
+      {
+        "url": "https://www.7pipe.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2013-01-14"
+      },
+      {
+        "url": "https://www.7pipe.com/press",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2011-04-11"
+      },
+      {
+        "url": "https://www.7pipe.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2011-04-11"
+      },
+      {
+        "url": "https://www.7pipe.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.7pipe.com/pages/about-7pipe",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.7pipe.com/contact",
+        "action": "http://7pipe.com/wp-content/themes/pipetheme/sendmail.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.7pipe.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Twisty Glass Blunt by 7pipe is a reusable glass blunt that replaces cigarette papers, vapes, and dry herb vaporizers. Enjoy smooth hits with no rolling or batteries. Combines with water pipes and replaces bubblers, hand pipes, dab rigs, one hitters, and bowls. Go paperless today with 7pipe.",
+    "source_urls": [
+      "https://www.7pipe.com",
+      "https://www.7pipe.com/about",
+      "https://www.7pipe.com/press",
+      "https://www.7pipe.com/contact",
+      "https://www.7pipe.com/pages/contact-us",
+      "https://www.7pipe.com/pages/about-7pipe"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "7point62design.com",
+    "company_name": "7.62 Design",
+    "website": "https://www.7point62design.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "websales@7point62design.com",
+        "confidence": "high",
+        "source_url": "https://www.7point62design.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "websales@7point62design.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.7point62design.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.7point62design.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.7point62design.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.7point62design.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "This is the line of Military & Patriotic products that redefined the genre. Since 1997, our iconic selection of apparel is the top-shelf choice of a devoted customer base. All Our military products are officially licensed by the Army, Navy, USMC, USAF, USSF & USCG. Always on target, Celebrating the ",
+    "source_urls": [
+      "https://www.7point62design.com",
+      "https://www.7point62design.com/pages/contact-us",
+      "https://www.7point62design.com/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "7sorrowsrosaries.com",
+    "company_name": "7 Sorrows Rosaries",
+    "website": "https://7sorrowsrosaries.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "shop@7sorrowsrosaries.com",
+        "confidence": "high",
+        "source_url": "https://7sorrowsrosaries.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ingle Decade Rosary Bracelet Earring Contacts shop@7sorrowsrosaries.com New York, NY, USA"
+      }
+    ],
+    "role_emails": [
+      "shop@7sorrowsrosaries.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://7sorrowsrosaries.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://7sorrowsrosaries.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://7sorrowsrosaries.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://7sorrowsrosaries.com/pages/about-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://7sorrowsrosaries.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Our own Collection Sterling Silver Rosary Necklace, Bracelet, etc. with Semi-Precious Gems. And other manufacture Collections, precious and non-precious metals.",
+    "source_urls": [
+      "https://7sorrowsrosaries.com",
+      "https://7sorrowsrosaries.com/pages/about-us",
+      "https://7sorrowsrosaries.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "7springsfarm.com",
+    "company_name": "Seven Springs Farm Supply",
+    "website": "https://www.7springsfarm.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.7springsfarm.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.7springsfarm.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.7springsfarm.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.7springsfarm.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.7springsfarm.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.7springsfarm.com/collections/multi-purpose-pest-management-oils",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.7springsfarm.com/collections/pest-managment-spray-support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.7springsfarm.com/collections/pest-management-traps-barriers-etc",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.7springsfarm.com/collections/pest-management",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.7springsfarm.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Seven Springs Farm Supply has been working with farmers for over 30 years. We provide a comprehensive selection of approved-for-organic fertilizers, pest controls, cover crop seed, growing mixes, and more. We are committed to providing effective solutions, quality advising and superior service.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 14
+  },
+  {
+    "company_domain": "7thavenue.co",
+    "company_name": "7th Avenue",
+    "website": "https://7thavenue.co",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "challenge_page",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "7thearthstudios.com",
+    "company_name": "7thEarthStudios",
+    "website": "https://7thearthstudios.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "omama@7thearthstudios.com",
+        "confidence": "highest",
+        "source_url": "https://7thearthstudios.com/pages/contact-us?_ab=0&key=1739001987769",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "a 28376 United States Returns & Exchanges / Order updates Omama@7thearthstudios.com Wholesale & Sales Owen@7thearthstudios.com"
+      },
+      {
+        "address": "owen@7thearthstudios.com",
+        "confidence": "highest",
+        "source_url": "https://7thearthstudios.com/pages/contact-us?_ab=0&key=1739001987769",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Order updates Omama@7thearthstudios.com Wholesale & Sales Owen@7thearthstudios.com"
+      }
+    ],
+    "role_emails": [
+      "omama@7thearthstudios.com",
+      "owen@7thearthstudios.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://7thearthstudios.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://7thearthstudios.com/pages/contact-us?_ab=0&key=1739001987769",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://7thearthstudios.com/pages/about-us-1",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://7thearthstudios.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "GOTS-certified organic heavy basics. Built at the mill. Priced for real people.",
+    "source_urls": [
+      "https://7thearthstudios.com/pages/contact-us?_ab=0&key=1739001987769",
+      "https://7thearthstudios.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "7thgalaxydragons.com",
+    "company_name": "7thgalaxydragons",
+    "website": "https://www.7thgalaxydragons.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "robots_disallowed",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "7thheavenchocolate.com",
+    "company_name": "7th Heaven Chocolate",
+    "website": "https://www.7thheavenchocolate.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@7thheavenchocolate.com",
+        "confidence": "highest",
+        "source_url": "https://www.7thheavenchocolate.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Privacy Policy Terms of Use Contact info@7thheavenchocolate.com Facebook Instagram TikTok"
+      }
+    ],
+    "role_emails": [
+      "info@7thheavenchocolate.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.7thheavenchocolate.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.7thheavenchocolate.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Your search for rich, indulgent dairy-free milk chocolate has led you here. With one bite, you\u2019ll see that eating is believing.",
+    "source_urls": [
+      "https://www.7thheavenchocolate.com",
+      "https://www.7thheavenchocolate.com/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "7thstreetburger.com",
+    "company_name": "7th Street Burger MERCH",
+    "website": "https://7thstreetburger.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://7thstreetburger.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://7thstreetburger.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://7thstreetburger.com/contact",
+        "action": "https://7thstreetburger.com/contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Simple smashburgers and crispy fries. Made-to-order, high-quality, and open all day into late-night.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "7uiceshop.com",
+    "company_name": "7UICE",
+    "website": "https://7uiceshop.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://7uiceshop.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://7uiceshop.com/pages/customer-support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Shop 7uice, the sportswear and lifestyle brand created by NBA All-Star Jaylen Brown. Discover premium, comfortable and affordable streetwear, athletic apparel and everyday essentials for men, women and kids.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "800poundgorillamedia.com",
+    "company_name": "800 Pound Gorilla",
+    "website": "https://800poundgorillamedia.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://800poundgorillamedia.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://800poundgorillamedia.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://800poundgorillamedia.com/audio-releases/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://800poundgorillamedia.com/news/",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://800poundgorillamedia.com/about/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://800poundgorillamedia.com/actress-and-comedian-kerry-godliman-releases-latest-hour-of-stand-up-bandwidth-in-the-u-s-with-800-pound-gorilla/",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://800poundgorillamedia.com/comedian-leonard-ouzts-announces-debut-comedy-special-release-lil-sumn-sumn-with-800-pound-gorilla/",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://800poundgorillamedia.com/james-austin-johnson-announces-debut-stand-up-comedy-special-with-800-pound-gorilla-hell-yeah/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://800poundgorillamedia.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://800poundgorillamedia.com/support/",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "800 Pound Gorilla Media, founded in 2016, is one of the world\u2019s leading comedy media companies specializing in the production, distribution, and marketing of stand-up comedy specials.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 19
+  },
+  {
+    "company_domain": "808clothing.com",
+    "company_name": "808 Clothing Co Maui",
+    "website": "https://www.808clothing.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customerservice@808clothing.com",
+        "confidence": "high",
+        "source_url": "https://www.808clothing.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "#D-1, Kihei, HI 96753 Phone or Text: (808) 357-1988 Email: customerservice@808clothing.com Instagram: @808clothingmaui 808 Clothing Co. - Dolphin Plaz"
+      }
+    ],
+    "role_emails": [
+      "customerservice@808clothing.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.808clothing.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.808clothing.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "T-shirts and hats featuring art by local Maui Artist. Take home a piece of paradise on a tshirt or hat. Since 2006.",
+    "source_urls": [
+      "https://www.808clothing.com",
+      "https://www.808clothing.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "808deli.com",
+    "company_name": "808 DELI",
+    "website": "https://www.808deli.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.808deli.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.808deli.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2018-11-08"
+      },
+      {
+        "url": "https://www.808deli.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2018-08-05"
+      },
+      {
+        "url": "https://www.808deli.com/location--contact.html",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "808 DELI \u200b 2439 S Kihei Road #107A \u00a0Kihei, Maui",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "808pickle.com",
+    "company_name": "HONOLULU PICKLEBALL COMPANY",
+    "website": "https://808pickle.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "80acremarket.com",
+    "company_name": "80 Acre Market",
+    "website": "https://80acremarket.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@80acremarket.com",
+        "confidence": "highest",
+        "source_url": "https://80acremarket.com/pages/customer-support",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "SEND US A MESSAGE Email Customer Support: support@80acremarket.com FAQ Ema"
+      }
+    ],
+    "role_emails": [
+      "support@80acremarket.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://80acremarket.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://80acremarket.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://80acremarket.com/pages/customer-support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Our mission at 80 Acre Market is to provide an experience the community can enjoy. Shop up to 50% off online or visit in-store for gifts, d\u00e9cor, apparel, and more.",
+    "source_urls": [
+      "https://80acremarket.com/pages/customer-support"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "80eighty.com",
+    "company_name": "80Eighty",
+    "website": "https://80eighty.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "http_403",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "80stees.com",
+    "company_name": "80sTees.com, Inc.",
+    "website": "https://www.80stees.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "\u2709email us",
+        "title": null,
+        "email": "help@80stees.com",
+        "source_url": "https://www.80stees.com"
+      }
+    ],
+    "people": [
+      {
+        "name": "\u2709email us",
+        "title": null,
+        "email": "help@80stees.com",
+        "source_url": "https://www.80stees.com"
+      }
+    ],
+    "emails": [
+      {
+        "address": "help@80stees.com",
+        "confidence": "highest",
+        "source_url": "https://www.80stees.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "uestion about my order Please email us at help@80stees.com for help with any past or current orders. What is"
+      }
+    ],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.80stees.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.80stees.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2013-09-02"
+      },
+      {
+        "url": "https://www.80stees.com/collections/bad-company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.80stees.com/collections/miller-brewing-company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.80stees.com/collections/threes-company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.80stees.com/collections/a-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.80stees.com/collections/electric-company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.80stees.com/collections/polar-express",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.80stees.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.80stees.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.80stees.com/contact",
+        "action": "http://www.80stees.com/contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.80stees.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Shop authentic 80s t-shirts and retro graphic tees from classic movies, TV shows, cartoons, and wrestling. Officially licensed designs since 1999. Shop now at 80sTees.com.",
+    "source_urls": [
+      "https://www.80stees.com",
+      "https://www.80stees.com/collections/bad-company",
+      "https://www.80stees.com/collections/miller-brewing-company",
+      "https://www.80stees.com/collections/threes-company",
+      "https://www.80stees.com/collections/a-team",
+      "https://www.80stees.com/collections/electric-company",
+      "https://www.80stees.com/collections/polar-express",
+      "https://www.80stees.com/pages/about",
+      "https://www.80stees.com/pages/contact"
+    ],
+    "reason": null,
+    "pages_fetched": 17
+  },
+  {
+    "company_domain": "826boston.org",
+    "company_name": "826 Boston",
+    "website": "https://826boston.org",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Growth Manager",
+        "title": null,
+        "email": "deion@826boston.org",
+        "source_url": "https://826boston.org/about",
+        "association": "proximity"
+      }
+    ],
+    "people": [
+      {
+        "name": "Growth Manager",
+        "title": null,
+        "email": "deion@826boston.org",
+        "source_url": "https://826boston.org/about",
+        "association": "proximity"
+      }
+    ],
+    "emails": [
+      {
+        "address": "alexis@826boston.org",
+        "confidence": "highest",
+        "source_url": "https://826boston.org/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "riters\u2019 Room Program Assistant at New Mission High School alexis@826boston.org Alexis Maxwell is a writer, creator, and educator from Bo"
+      },
+      {
+        "address": "aminah@826boston.org",
+        "confidence": "highest",
+        "source_url": "https://826boston.org/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Ambush (she/her) Out-of-School Time Tutoring Manager aminah@826boston.org Aminah is a native Bostonian and long-time 826 Boston par"
+      },
+      {
+        "address": "ana@826boston.org",
+        "confidence": "highest",
+        "source_url": "https://826boston.org/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "lood (she/her) Senior Community Engagement Coordinator ana@826boston.org Ana Flood graduated from Connecticut College with a B.A."
+      },
+      {
+        "address": "andrea@826boston.org",
+        "confidence": "highest",
+        "source_url": "https://826boston.org/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "riters\u2019 Room Program Assistant at Margarita Mu\u00f1iz Academy andrea@826boston.org Andrea is a proud Latina from Venezuela who brings her pa"
+      },
+      {
+        "address": "anya@826boston.org",
+        "confidence": "highest",
+        "source_url": "https://826boston.org/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "y (she/her) Publishing Specialist / FAO Schwarz Fellow anya@826boston.org Anya is 826 Boston\u2019s inaugural FAO Schwarz Fellow. After"
+      },
+      {
+        "address": "asiyah@826boston.org",
+        "confidence": "highest",
+        "source_url": "https://826boston.org/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "(she/her) OOST Program Assistant & YLAB Teaching Artist asiyah@826boston.org Asiyah began working at 826 Boston in 2017 while still i"
+      },
+      {
+        "address": "cade@826boston.org",
+        "confidence": "highest",
+        "source_url": "https://826boston.org/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ade Giordano (they/them) Senior Operations Coordinator cade@826boston.org After growing up at the mouth of the Merrimack River, Cad"
+      },
+      {
+        "address": "carolyn@826boston.org",
+        "confidence": "highest",
+        "source_url": "https://826boston.org/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Carolyn Navikonis (she/her) Senior Deputy Director carolyn@826boston.org Carolyn (she/her) joins 826 Boston with more than ten yea"
+      },
+      {
+        "address": "catherine@826boston.org",
+        "confidence": "highest",
+        "source_url": "https://826boston.org/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "rector of People, Operations, and Program Supports (POPS) catherine@826boston.org Catherine graduated from Hollins University in 2012 with"
+      },
+      {
+        "address": "celia@826boston.org",
+        "confidence": "highest",
+        "source_url": "https://826boston.org/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Celia Mendoza (she/her) Writing Workshops Manager celia@826boston.org Celia is a proud Michigander with a passion for multiling"
+      },
+      {
+        "address": "charlie@826boston.org",
+        "confidence": "highest",
+        "source_url": "https://826boston.org/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Charlie McEnerney (he/him/his) Communications Director charlie@826boston.org Charlie McEnerney is a marketer, writer, musician, and, m"
+      },
+      {
+        "address": "chela@826boston.org",
+        "confidence": "highest",
+        "source_url": "https://826boston.org/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ant at John D. O\u2019Bryant School of Mathematics and Science chela@826boston.org Chela is a writer and editor from Eugene, Oregon, who now"
+      },
+      {
+        "address": "corey@826boston.org",
+        "confidence": "highest",
+        "source_url": "https://826boston.org/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "o. Corey Yarbrough (he/him) Executive Director corey@826boston.org Corey (he/him) brings nearly 15 years of senior managemen"
+      },
+      {
+        "address": "deion@826boston.org",
+        "confidence": "highest",
+        "source_url": "https://826boston.org/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ion Hawkins (he/him/his) Senior DEI and Growth Manager deion@826boston.org Deion S. Hawkins, Ph.D., is a staunch advocate for equity"
+      },
+      {
+        "address": "dolly@826boston.org",
+        "confidence": "highest",
+        "source_url": "https://826boston.org/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "istant at Dr. Albert D. Holland High School of Technology dolly@826boston.org Dolly grew up in San Francisco\u2019s Richmond District two bl"
+      },
+      {
+        "address": "dru@826boston.org",
+        "confidence": "highest",
+        "source_url": "https://826boston.org/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ouza (she/they) Volunteer Engagement Program Assistant dru@826boston.org Dru is a writer, photographer, and community event organi"
+      },
+      {
+        "address": "ellen@826boston.org",
+        "confidence": "highest",
+        "source_url": "https://826boston.org/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Writers\u2019 Room Program Assistant at Boston Teachers Union ellen@826boston.org Ellen has been involved in teaching and writing spaces in"
+      },
+      {
+        "address": "fatima@826boston.org",
+        "confidence": "highest",
+        "source_url": "https://826boston.org/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "at Boston International Newcomers Academy Writers\u2019 Room fatima@826boston.org Fatima is a book designer and editor who grew up in Costa"
+      },
+      {
+        "address": "gena@826boston.org",
+        "confidence": "highest",
+        "source_url": "https://826boston.org/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ire. Gena Barenholtz (she/her) Finance Manager gena@826boston.org Prior to joining 826 Boston, Gena (she/her) held position"
+      },
+      {
+        "address": "hannah@826boston.org",
+        "confidence": "highest",
+        "source_url": "https://826boston.org/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "(she/her) Digital Fundraising & Engagement Coordinator hannah@826boston.org Hannah was born and raised in Brockton and is of Haitian"
+      },
+      {
+        "address": "hodan@826boston.org",
+        "confidence": "highest",
+        "source_url": "https://826boston.org/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Hodan Abdi (she/her) Development Assistant hodan@826boston.org Hodan Abdi is a communications and marketing professional"
+      },
+      {
+        "address": "info@826boston.org",
+        "confidence": "highest",
+        "source_url": "https://826boston.org",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "826 Boston 3035 Washington Street Roxbury, MA 02119 info@826boston.org 617.442.5400 Get Directions Connect With Us"
+      },
+      {
+        "address": "isata@826boston.org",
+        "confidence": "highest",
+        "source_url": "https://826boston.org/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "sata Jalloh (she/her/hers) In-Schools Program Director isata@826boston.org Isata is a Boston native who grew up just blocks away fro"
+      },
+      {
+        "address": "jay@826boston.org",
+        "confidence": "highest",
+        "source_url": "https://826boston.org/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Jay Enciso (he/him) Senior Director of Programs jay@826boston.org Born in Cali, Colombia, Jay moved to the Greater Boston A"
+      },
+      {
+        "address": "kanyin@826boston.org",
+        "confidence": "highest",
+        "source_url": "https://826boston.org/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "om Manager at John D. O\u2019Bryant School of Math and Science kanyin@826boston.org Kanyin Olorunnisola is a writer, teacher, and administrat"
+      },
+      {
+        "address": "kassy@826boston.org",
+        "confidence": "highest",
+        "source_url": "https://826boston.org/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "e/her) Writers\u2019 Room Manager at New Mission High School kassy@826boston.org Kassy is a Bostonian, born and bred (go Patriots, Celtics"
+      },
+      {
+        "address": "keaton@826boston.org",
+        "confidence": "highest",
+        "source_url": "https://826boston.org/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ach at John D. O\u2019Bryant School of Mathematics and Science keaton@826boston.org Keaton Howl moved to Boston in 2021 after growing up in C"
+      },
+      {
+        "address": "kelly@826boston.org",
+        "confidence": "highest",
+        "source_url": "https://826boston.org/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "her) Senior Manager of Volunteer & Community Engagement kelly@826boston.org Kelly is a lifelong resident of Massachusetts who discove"
+      },
+      {
+        "address": "kristen@826boston.org",
+        "confidence": "highest",
+        "source_url": "https://826boston.org/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "(she/ella) Publishing Specialist / FAO Schwarz Fellow kristen@826boston.org Kristen St Louis is a recent graduate from Yale College w"
+      },
+      {
+        "address": "leahabraham@826boston.org",
+        "confidence": "highest",
+        "source_url": "https://826boston.org/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "braham (she/her) Major Gifts and Events Senior Manager leahabraham@826boston.org Leah Abraham is a storyteller, journalist, and communicat"
+      },
+      {
+        "address": "logan@826boston.org",
+        "confidence": "highest",
+        "source_url": "https://826boston.org/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Fez). Logan Smith (she/her) Internship Manager logan@826boston.org Logan graduated from Colorado College in 2022 with a degr"
+      },
+      {
+        "address": "loni@826boston.org",
+        "confidence": "highest",
+        "source_url": "https://826boston.org/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "n (she/her) Director of Corporate & Event Philanthropy loni@826boston.org Loni first learned of 826 Boston through a collaboration"
+      },
+      {
+        "address": "lourdes@826boston.org",
+        "confidence": "highest",
+        "source_url": "https://826boston.org/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Lourdes Ramirez (she/they) Writing Workshops Assistant lourdes@826boston.org Lourdes is a Dominican with a deep passion for education"
+      },
+      {
+        "address": "luna@826boston.org",
+        "confidence": "highest",
+        "source_url": "https://826boston.org/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "/her) Writers\u2019 Room Manager at Margarita Mu\u00f1iz Academy luna@826boston.org Luna is a Texas native who grew up in South Texas and Mex"
+      },
+      {
+        "address": "maya@826boston.org",
+        "confidence": "highest",
+        "source_url": "https://826boston.org/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "a Stroshane (she/her) Director of Foundation Relations maya@826boston.org A native Bostonian and former Boston Public School studen"
+      },
+      {
+        "address": "miranda@826boston.org",
+        "confidence": "highest",
+        "source_url": "https://826boston.org/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Mirn Burel (she/they) Publishing Senior Manager miranda@826boston.org Mirn is a Michigan native who discovered her passion for"
+      },
+      {
+        "address": "oliviaarnold@826boston.org",
+        "confidence": "highest",
+        "source_url": "https://826boston.org/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Olivia Arnold (she/her) In-Schools Program Director oliviaarnold@826boston.org Olivia is an educator originally from New Jersey. She e"
+      },
+      {
+        "address": "paloma@826boston.org",
+        "confidence": "highest",
+        "source_url": "https://826boston.org/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ela (she/her/ella) Out-of-School Time Program Director paloma@826boston.org Paloma Valenzuela is a screenwriter/filmmaker and lectu"
+      },
+      {
+        "address": "rasheeda@826boston.org",
+        "confidence": "highest",
+        "source_url": "https://826boston.org/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "a Graham (she/her) Tutoring Program Senior Coordinator rasheeda@826boston.org Rasheeda was born in Poughkeepsie, New York, and recentl"
+      },
+      {
+        "address": "richard@826boston.org",
+        "confidence": "highest",
+        "source_url": "https://826boston.org/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Senior Manager at Boston International Newcomers Academy richard@826boston.org Richie moved to Boston in 2013 after growing up in Illino"
+      },
+      {
+        "address": "sarah@826boston.org",
+        "confidence": "highest",
+        "source_url": "https://826boston.org/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "eller (she/they) Training, Learning, & Culture Manager sarah@826boston.org A proud product of Massachusetts\u2019s public school system,"
+      },
+      {
+        "address": "serge@826boston.org",
+        "confidence": "highest",
+        "source_url": "https://826boston.org/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ogram Assistant at New Mission High School Writers\u2019 Room serge@826boston.org Serge is a 26-year-old first-generation college graduate"
+      },
+      {
+        "address": "storm@826boston.org",
+        "confidence": "highest",
+        "source_url": "https://826boston.org/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Assistant at John D. O\u2019Bryant School of Math and Science storm@826boston.org Being a Boston native, Storm is intimately familiar with"
+      },
+      {
+        "address": "susanna@826boston.org",
+        "confidence": "highest",
+        "source_url": "https://826boston.org/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "anager at Dr. Albert D. Holland High School of Technology susanna@826boston.org Susanna is a Boston-area native who\u2019s back in the city"
+      },
+      {
+        "address": "tutoring@826boston.org",
+        "confidence": "highest",
+        "source_url": "https://826boston.org/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "617) 442-5400 For questions about tutoring , email tutoring@826boston.org For workshops or field trips, email workshops@826boston."
+      },
+      {
+        "address": "vanessa@826boston.org",
+        "confidence": "highest",
+        "source_url": "https://826boston.org/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "nessa Leite ((she/her)) Senior Director of Advancement vanessa@826boston.org Vanessa is a strategic executive leader dedicated to fost"
+      },
+      {
+        "address": "volunteer@826boston.org",
+        "confidence": "highest",
+        "source_url": "https://826boston.org/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "il info@826boston.org For volunteering inquiries, email volunteer@826boston.org For media inquiries, email charlie@826boston.org S"
+      },
+      {
+        "address": "workshop@826boston.org",
+        "confidence": "highest",
+        "source_url": "https://826boston.org/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Para talleres o excursiones, env\u00ede un correo electr\u00f3nico a workshop@826boston.org Para donaciones o colaboraciones, puede enviar un correo"
+      },
+      {
+        "address": "workshops@826boston.org",
+        "confidence": "highest",
+        "source_url": "https://826boston.org/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "toring@826boston.org For workshops or field trips, email workshops@826boston.org For donations or partnerships, email info@826boston.org"
+      },
+      {
+        "address": "yamira@826boston.org",
+        "confidence": "highest",
+        "source_url": "https://826boston.org/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "he/her) Data and Evaluation Fellow / FAO Schwarz Fellow yamira@826boston.org Yamira Patterson is a recent graduate from Wellesley Coll"
+      },
+      {
+        "address": "yoly@826boston.org",
+        "confidence": "highest",
+        "source_url": "https://826boston.org/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "er/ella) Writers\u2019 Room Manager at Boston Teachers Union yoly@826boston.org Yoly Cuevas has been an educator since 2011. She earned h"
+      }
+    ],
+    "role_emails": [
+      "alexis@826boston.org",
+      "aminah@826boston.org",
+      "ana@826boston.org",
+      "andrea@826boston.org",
+      "anya@826boston.org",
+      "asiyah@826boston.org",
+      "cade@826boston.org",
+      "carolyn@826boston.org",
+      "catherine@826boston.org",
+      "celia@826boston.org",
+      "charlie@826boston.org",
+      "chela@826boston.org",
+      "corey@826boston.org",
+      "dolly@826boston.org",
+      "dru@826boston.org",
+      "ellen@826boston.org",
+      "fatima@826boston.org",
+      "gena@826boston.org",
+      "hannah@826boston.org",
+      "hodan@826boston.org",
+      "info@826boston.org",
+      "isata@826boston.org",
+      "jay@826boston.org",
+      "kanyin@826boston.org",
+      "kassy@826boston.org",
+      "keaton@826boston.org",
+      "kelly@826boston.org",
+      "kristen@826boston.org",
+      "leahabraham@826boston.org",
+      "logan@826boston.org",
+      "loni@826boston.org",
+      "lourdes@826boston.org",
+      "luna@826boston.org",
+      "maya@826boston.org",
+      "miranda@826boston.org",
+      "oliviaarnold@826boston.org",
+      "paloma@826boston.org",
+      "rasheeda@826boston.org",
+      "richard@826boston.org",
+      "sarah@826boston.org",
+      "serge@826boston.org",
+      "storm@826boston.org",
+      "susanna@826boston.org",
+      "tutoring@826boston.org",
+      "vanessa@826boston.org",
+      "volunteer@826boston.org",
+      "workshop@826boston.org",
+      "workshops@826boston.org",
+      "yamira@826boston.org",
+      "yoly@826boston.org"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://826boston.org",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://826boston.org/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://826boston.org/press",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2015-04-08"
+      },
+      {
+        "url": "https://826boston.org/about/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Don\u2019t miss this magical evening where we tell (nearly) 1,000 stories! Our annual gala, Night of 1,000 Stories, [...]",
+    "source_urls": [
+      "https://826boston.org",
+      "https://826boston.org/about",
+      "https://826boston.org/about/"
+    ],
+    "reason": null,
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "828boutique.com",
+    "company_name": "8.28 Boutique",
+    "website": "https://www.828boutique.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "services@828boutique.com",
+        "confidence": "highest",
+        "source_url": "https://www.828boutique.com/pages/about-8-28",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "asy to buy as they are to wear. You can always reach us at services@828boutique.com or on Instagram for any questions you may have!"
+      }
+    ],
+    "role_emails": [
+      "services@828boutique.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.828boutique.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.828boutique.com/pages/about-8-28",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.828boutique.com/pages/about-caroline",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.828boutique.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.828boutique.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Your one-stop-shop for dresses! Helping you have fun in brands like Anna Cate Collection, Pistola, J.Marie, Buddy Love, BB Dakota, Joy Joy, Karlie Clothes, Kerisma Knits, Z-Supply, Bishop & Young and more!",
+    "source_urls": [
+      "https://www.828boutique.com",
+      "https://www.828boutique.com/pages/about-8-28",
+      "https://www.828boutique.com/pages/about-caroline",
+      "https://www.828boutique.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "86vintage.com",
+    "company_name": "86 Vintage",
+    "website": "https://www.86vintage.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "vintage@86vintage.com",
+        "confidence": "high",
+        "source_url": "https://www.86vintage.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "vintage@86vintage.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.86vintage.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.86vintage.com/pages/about-86-vintage",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.86vintage.com/pages/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.86vintage.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "vintage clothing and antique furniture, props, display pieces, mercantile items, and home decor. Items to enhance the lifestyle and provide design inspiration.",
+    "source_urls": [
+      "https://www.86vintage.com",
+      "https://www.86vintage.com/pages/about-86-vintage",
+      "https://www.86vintage.com/pages/press",
+      "https://www.86vintage.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "88acres.com",
+    "company_name": "88 Acres",
+    "website": "https://88acres.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@88acres.com",
+        "confidence": "highest",
+        "source_url": "https://88acres.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Contact Us Email: Hello@88acres.com Phone: 617-208-8651 Mailing Address: 85 John Rd, Ca"
+      }
+    ],
+    "role_emails": [
+      "hello@88acres.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://88acres.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://88acres.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://88acres.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Try 88 Acres Bars, Seed Butters, Seed'nola and our seed-based Dressings. Made in our dedicated Bakery free of peanuts, tree nuts, gluten, dairy, eggs, soy, and sesame.",
+    "source_urls": [
+      "https://88acres.com/contact",
+      "https://88acres.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  }
+]
