@@ -1,0 +1,1314 @@
+[
+  {
+    "company_domain": "88cardhouse.com",
+    "company_name": "88 Cardhouse",
+    "website": "https://www.88cardhouse.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.88cardhouse.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.88cardhouse.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.88cardhouse.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "88 Cardhouse",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "88gear.com",
+    "company_name": "88 Gear",
+    "website": "https://www.88gear.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@88gear.com",
+        "confidence": "highest",
+        "source_url": "https://www.88gear.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "1-888-317-1269 Support@88Gear.com S1428A Hwy 33 La Valle, WI"
+      }
+    ],
+    "role_emails": [
+      "support@88gear.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.88gear.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.88gear.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.88gear.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.88gear.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.88gear.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.88gear.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.88gear.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "88 Gear carries a wide variety of wake, water ski & snow sports gear from top brands. Shop the best deals on water & snow sports equipment & apparel online.",
+    "source_urls": [
+      "https://www.88gear.com",
+      "https://www.88gear.com/team",
+      "https://www.88gear.com/about",
+      "https://www.88gear.com/about-us",
+      "https://www.88gear.com/contact",
+      "https://www.88gear.com/pages/contact-us",
+      "https://www.88gear.com/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "88rotorsoffroad.com",
+    "company_name": "88 Rotors Offroad",
+    "website": "https://88rotorsoffroad.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://88rotorsoffroad.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://88rotorsoffroad.com/collections/power-management",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://88rotorsoffroad.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "88 Rotors Offroad, Specializing in Toyota Tacoma, 4Runner, Tundra, FJ Cruiser, Lexus GX460, GX470, Jeep Wrangler JK, JL, Gladiator, Bronco, and more! We carry all offroad wheel brands and suspension kits. We also have your overland accessories for all your camping needs.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "88tees.com",
+    "company_name": "88 Tees - Honolulu, Hawaii",
+    "website": "https://88tees.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "store@88tees.com",
+        "confidence": "high",
+        "source_url": "https://88tees.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Ave Honolulu, HI 96815 Tel/Fax: (808) 922-8832 Inquiry: store@88tees.com Store hours: 11am - 6pm 7 days a week Directions"
+      }
+    ],
+    "role_emails": [
+      "store@88tees.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://88tees.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://88tees.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2016-01-19"
+      },
+      {
+        "url": "https://88tees.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://88tees.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://88tees.com/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "88 Tees - Honolulu, Hawaii",
+    "source_urls": [
+      "https://88tees.com"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "89thandmadison.com",
+    "company_name": "89th + Madison",
+    "website": "https://89thandmadison.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customer.service@89thandmadison.com",
+        "confidence": "high",
+        "source_url": "https://89thandmadison.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "customer.service@89thandmadison.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://89thandmadison.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://89thandmadison.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://89thandmadison.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://89thandmadison.com/pages/contact-us",
+        "action": "/contact#Form-template--19603081167018__contact-form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Discover 89th & Madison \u2014 modern women\u2019s apparel designed for effortless everyday style. From versatile tops and cozy knits to tailored pants and denim, our collection blends comfort, quality, and timeless design for work, weekend, and everything in between. Shop the latest styles today.",
+    "source_urls": [
+      "https://89thandmadison.com",
+      "https://89thandmadison.com/pages/contact-us",
+      "https://89thandmadison.com/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "8amgolf.com",
+    "company_name": "8amgolf.com",
+    "website": "https://8amgolf.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": "8AM Golf is the leading integrated golf ecosystem\u2014uniting premium media, elite equipment, innovative digital experiences, curated events, luxury travel, and our investment platform to enhance every golfer\u2019s journey and shape the future of the game.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 18
+  },
+  {
+    "company_domain": "8and9.com",
+    "company_name": "8&9 Clothing Co.",
+    "website": "https://www.8and9.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "8billiontrees.com",
+    "company_name": "8 Billion Trees",
+    "website": "https://shop.8billiontrees.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://shop.8billiontrees.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.8billiontrees.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.8billiontrees.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.8billiontrees.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://shop.8billiontrees.com/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://shop.8billiontrees.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "8 Billion Trees protects trees and animals around the world as well as replanting trees in deforested areas. Join us today and help fight for trees!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "8bitdo.com",
+    "company_name": "8BitDo",
+    "website": "https://www.8bitdo.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.8bitdo.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.8bitdo.com/press-reviews",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.8bitdo.com/media-remote-for-xbox",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "8BitDo is an innovative technology company founded in 2013 that specializes in gaming peripherals. Our vision is to use the latest technology and distinctive design to create a range of high-quality, high-performance, high-compatibility, high-portability and affordable game controllers for gamers.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "8dio.com",
+    "company_name": "8Dio\u2013 8dio.com",
+    "website": "https://8dio.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@8dio.com",
+        "confidence": "highest",
+        "source_url": "https://8dio.com/pages/company",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "them. For non-support related inquries, please email us at info@8dio.com. Headquarters 1907 Olympic Blvd Santa Monica, CA 90"
+      },
+      {
+        "address": "support@8dio.com",
+        "confidence": "highest",
+        "source_url": "https://8dio.com/pages/company",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "tawnia@8dio.com",
+        "confidence": "high",
+        "source_url": "https://8dio.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "troels@8dio.com",
+        "confidence": "high",
+        "source_url": "https://8dio.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@8dio.com",
+      "support@8dio.com",
+      "tawnia@8dio.com",
+      "troels@8dio.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://8dio.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://8dio.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://8dio.com/pages/company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Find Sample Libraries & Virtual Instruments - Kontakt VST, AU, AAX. Big Choirs, Orchestral Strings, Pianos, Guitars, EDM, Epic Sound Design, and More.",
+    "source_urls": [
+      "https://8dio.com",
+      "https://8dio.com/contact",
+      "https://8dio.com/pages/company"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "8greens.com",
+    "company_name": "8GREENS",
+    "website": "https://8greens.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@8greens.com",
+        "confidence": "highest",
+        "source_url": "https://8greens.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2016-12-19",
+        "context_snippet": "44 BUY MY 8G For all other customer service please email info@8greens.com Dear Inte"
+      }
+    ],
+    "role_emails": [
+      "info@8greens.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://8greens.com",
+        "page_type": "home",
+        "source_type": "archived",
+        "snapshot_date": "2025-03-29"
+      },
+      {
+        "url": "https://8greens.com/press",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2016-12-19"
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "The world's first super greens powder, in an effervescent tablet, gummy, lollipops and more. Never from extract or concentrate just REAL greens*. Give your healthy diet a green boost with 8Greens Super Greens.",
+    "source_urls": [
+      "https://8greens.com/press"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "8lotus.co",
+    "company_name": "8LOTUS",
+    "website": "https://8lotus.co",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@8lotus.co",
+        "confidence": "high",
+        "source_url": "https://8lotus.co",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "hello@8lotus.co"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://8lotus.co",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://8lotus.co/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://8lotus.co/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://8lotus.co/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "8LOTUS / Shop premium stationery on the official store: Planner Inserts, Printable Inserts and Planner Accessories",
+    "source_urls": [
+      "https://8lotus.co",
+      "https://8lotus.co/pages/contact",
+      "https://8lotus.co/pages/about"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "8otherreasons.com",
+    "company_name": "8 Other Reasons",
+    "website": "https://www.8otherreasons.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "enquiries@8otherreasons.com",
+        "confidence": "high",
+        "source_url": "https://www.8otherreasons.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2016-06-21",
+        "context_snippet": "kins + many more. For a full press kit, please email enquiries@8otherreasons.com 8 OTHER REASONS SIGN UP FO"
+      },
+      {
+        "address": "nquiries@8otherreasons.com",
+        "confidence": "high",
+        "source_url": "https://www.8otherreasons.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Address: 850 S. Broadway St., Los Angeles, CA Email: enquiries@8otherreasons.com 8 OTHER REASONS HEAD OFFICE Customer Care Team E: e nquir"
+      }
+    ],
+    "role_emails": [
+      "enquiries@8otherreasons.com",
+      "nquiries@8otherreasons.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.8otherreasons.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.8otherreasons.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2016-06-21"
+      },
+      {
+        "url": "https://www.8otherreasons.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2015-02-01"
+      },
+      {
+        "url": "https://www.8otherreasons.com/press",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2016-06-21"
+      },
+      {
+        "url": "https://www.8otherreasons.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.8otherreasons.com/pages/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.8otherreasons.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.8otherreasons.com/pages/contact",
+        "action": "/contact#contact-template--22765402882302__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "8 Other Reasons \u2013 Bold cowhide bags, cow print purses, western jewelry, cowboy hats & statement accessories. Free US shipping over $50. Shop now.",
+    "source_urls": [
+      "https://www.8otherreasons.com/press",
+      "https://www.8otherreasons.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "8sheep.com",
+    "company_name": "8 Sheep Organics",
+    "website": "https://8sheep.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "contact@8sheep.com",
+        "confidence": "high",
+        "source_url": "https://8sheep.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "r you, or aren\u2019t to your liking, simply send us an email at contact@8sheep.com and we\u2019ll get you a full refund within a day!"
+      }
+    ],
+    "role_emails": [
+      "contact@8sheep.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://8sheep.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://8sheep.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://8sheep.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://8sheep.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "As the premiere shop for women looking for organic products to aid their pregnancy, 8 Sheep Organics is made to help promote sleep and relaxation for new moms.",
+    "source_urls": [
+      "https://8sheep.com",
+      "https://8sheep.com/pages/about-us",
+      "https://8sheep.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "8tenparts.com",
+    "company_name": "8TEN Parts",
+    "website": "https://8tenparts.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://8tenparts.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://8tenparts.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2020-02-10"
+      },
+      {
+        "url": "https://8tenparts.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://8tenparts.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "An industry leader in manufacturing and distributing quality replacement parts for lawn mowers & outdoor power equipment. We\u2019re proud to have a small business mentality, offering our customers highly competitive prices, lightning fast delivery, unmatched customer service and industry-leading product",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "8thandroast.com",
+    "company_name": "8th and Roast",
+    "website": "https://www.8thandroast.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@8thandroast.com",
+        "confidence": "highest",
+        "source_url": "https://www.8thandroast.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2025-07-16",
+        "context_snippet": "e, Nashville, TN, 37209, United States 615-988-4020 info@8thandroast.com Hours Mon 7am-6pm Tue 7am-6pm Wed 7am-6pm Thu"
+      }
+    ],
+    "role_emails": [
+      "info@8thandroast.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.8thandroast.com",
+        "page_type": "home",
+        "source_type": "archived",
+        "snapshot_date": "2026-09-28"
+      },
+      {
+        "url": "https://www.8thandroast.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2025-07-16"
+      },
+      {
+        "url": "https://www.8thandroast.com/pages/about/",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2026-09-28"
+      },
+      {
+        "url": "https://8thandroast.com/pages/about/",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2026-09-28"
+      },
+      {
+        "url": "https://8thandroast.com/pages/locations/",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2026-09-28"
+      },
+      {
+        "url": "https://8thandroast.com/pages/contact-us/",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2026-09-28"
+      },
+      {
+        "url": "https://www.8thandroast.com/locations/",
+        "page_type": "other",
+        "source_type": "archived",
+        "snapshot_date": "2025-07-16"
+      },
+      {
+        "url": "https://8thandroast.com/products/sunflower-espresso/",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2026-09-28"
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.8thandroast.com/contact",
+        "action": "https://violet-lizard-fsfz.squarespace.com",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://8thandroast.com/pages/contact-us/",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.8thandroast.com/locations/",
+        "action": "https://violet-lizard-fsfz.squarespace.com",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://8thandroast.com/products/sunflower-espresso/",
+        "action": "https://8thandroast.com/postreview.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "8th & Roast\u2019s sister brand provides sustainable coffee at\n                        affordable prices.",
+    "source_urls": [
+      "https://www.8thandroast.com/contact",
+      "https://8thandroast.com/pages/contact-us/",
+      "https://www.8thandroast.com/locations/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 17
+  },
+  {
+    "company_domain": "8thwndr.com",
+    "company_name": "8THWNDR",
+    "website": "https://8thwndr.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://8thwndr.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://8thwndr.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "8THWNDR's Official Online Store. EST 2017.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "90degreebyreflex.com",
+    "company_name": "90 Degree by Reflex",
+    "website": "https://www.90degreebyreflex.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "customerservice@90degreebyreflex.com",
+        "confidence": "highest",
+        "source_url": "https://www.90degreebyreflex.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "CUSTOMER SERVICE Phone: 888-373-7485 Email: customerservice@90degreebyreflex.com Hours: 9:30 AM to 5:00 PM ET, Monday through Friday, exclu"
+      }
+    ],
+    "role_emails": [
+      "customerservice@90degreebyreflex.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.90degreebyreflex.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.90degreebyreflex.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.90degreebyreflex.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.90degreebyreflex.com/pages/store-location",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.90degreebyreflex.com/pages/wholesale-contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "90 Degree by Reflex is a world leader in yoga pants, leggings, yoga capris, activewear, and yoga clothes. Combining high fashion with high performance.",
+    "source_urls": [
+      "https://www.90degreebyreflex.com",
+      "https://www.90degreebyreflex.com/pages/contact-us",
+      "https://www.90degreebyreflex.com/pages/about-us",
+      "https://www.90degreebyreflex.com/pages/store-location",
+      "https://www.90degreebyreflex.com/pages/wholesale-contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "920dcustom.com",
+    "company_name": "920D Custom",
+    "website": "https://920dcustom.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "920d@920dcustom.com",
+        "confidence": "high",
+        "source_url": "https://920dcustom.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ". Customer Service: 855-655-9203 (Mon-Thurs 6-5 CST) Email: 920D@920DCustom.com Products Products"
+      }
+    ],
+    "role_emails": [
+      "920d@920dcustom.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://920dcustom.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://920dcustom.com/pages/about-920d",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://920dcustom.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "920D Custom crafts handwired guitar wiring harnesses, loaded pickguards, control plates, and upgrade kits for your favorite single-cut, double-cut, and offset guitars. Improve your tone, feel, and reliability with pro-quality parts.",
+    "source_urls": [
+      "https://920dcustom.com",
+      "https://920dcustom.com/pages/about-920d",
+      "https://920dcustom.com/policies/contact-information"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "930.com",
+    "company_name": "9:30 Club",
+    "website": "https://merch.930.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "93brand.com",
+    "company_name": "93brand",
+    "website": "https://93brand.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "cs@93brand.com",
+        "confidence": "high",
+        "source_url": "https://93brand.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ontact Us Contact Us CONTACT INFO cs@93brand.com 93brand Jiu Jitsu 55 West Railroad Ave Garnerville, N"
+      }
+    ],
+    "role_emails": [
+      "cs@93brand.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://93brand.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://93brand.com/pages/about-the-brand",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://93brand.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Shop new and classic BJJ gear from 93brand. A New York-based Jiu Jitsu design company. Brazilian Jiu Jitsu Gis and CUSTOM Academy Uniforms. Premium athletic gear including Rashguards, Shorts, and Spats/Leggings for MMA, Nogi, Submission Wrestling. Apparel and accessories for the Martial Arts enthusi",
+    "source_urls": [
+      "https://93brand.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "93playstreet.com",
+    "company_name": "93 Play Street",
+    "website": "https://www.93playstreet.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.93playstreet.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.93playstreet.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.93playstreet.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.93playstreet.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "93 Play Street",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "95denim.com",
+    "company_name": "95 Denim",
+    "website": "https://95denim.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "robots_disallowed",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "95nutrition.com",
+    "company_name": "95 Nutrition",
+    "website": "https://95nutrition.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "department.info@95nutrition.com",
+        "confidence": "highest",
+        "source_url": "https://95nutrition.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "info@95nutrition.com",
+        "confidence": "highest",
+        "source_url": "https://95nutrition.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Call us: 716-465-1920 Email us: info@95nutrition.com Chat with us. Your Direct Line to Support"
+      }
+    ],
+    "role_emails": [
+      "department.info@95nutrition.com",
+      "info@95nutrition.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://95nutrition.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://95nutrition.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://95nutrition.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://95nutrition.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://95nutrition.com/pages/team-careers",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://95nutrition.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://95nutrition.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Providing meal prep and food delivery services throughout Buffalo and Rochester NY. Order breakfast, lunch, and dinner meals online today at 95 Nutrition!",
+    "source_urls": [
+      "https://95nutrition.com",
+      "https://95nutrition.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "98degrees.com",
+    "company_name": "98 Degrees Store",
+    "website": "https://shop.98degrees.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://shop.98degrees.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.98degrees.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://shop.98degrees.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "The official merchandise store of 98 Degrees.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  }
+]
