@@ -1,0 +1,1265 @@
+[
+  {
+    "company_domain": "4hunnid.com",
+    "company_name": "4HUNNID",
+    "website": "https://4hunnid.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://4hunnid.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://4hunnid.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "4hunnid is a lifestyle brand grass rooted in west coast street culture. Founded by artist YG, we\u2019re bringing a raw, edgy and unapologetic message.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "4knines.com",
+    "company_name": "4Knines\u00ae",
+    "website": "https://4knines.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@4knines.com",
+        "confidence": "highest",
+        "source_url": "https://4knines.com/pages/post-purchase-support",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "888-602-2509 Install guides support@4Knines.com"
+      }
+    ],
+    "role_emails": [
+      "support@4knines.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://4knines.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://4knines.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2015-02-09"
+      },
+      {
+        "url": "https://4knines.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2018-02-22"
+      },
+      {
+        "url": "https://4knines.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://4knines.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://4knines.com/pages/inthepress",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://4knines.com/pages/post-purchase-support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://4knines.com/about-us",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "At 4knines, we offer high quality car seat covers for dogs. Protect your car and seat upholstery with the best dog car seat covers and truck seat covers you need for your pooch on the go.",
+    "source_urls": [
+      "https://4knines.com/about-us",
+      "https://4knines.com/pages/post-purchase-support"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "4lifers.com",
+    "company_name": "4LIFERS",
+    "website": "https://4lifers.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://4lifers.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "4LIFERS",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "4lifetimelines.com",
+    "company_name": "4lifetimelines.com",
+    "website": "https://4lifetimelines.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@4lifetimelines.com",
+        "confidence": "highest",
+        "source_url": "https://4lifetimelines.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ns You are already subscribed Subscribe hello@4lifetimelines.com | 1 (855) 928-4024 | 251 Little Falls Drive, Wilming"
+      }
+    ],
+    "role_emails": [
+      "hello@4lifetimelines.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://4lifetimelines.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://4lifetimelines.com/collections/compression-unions",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://4lifetimelines.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://4lifetimelines.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://4lifetimelines.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Discover rust proof copper nickel brake lines, pre bent kits, fittings and tools that bend easily and install fast. Lifetime warranty and fast shipping.",
+    "source_urls": [
+      "https://4lifetimelines.com",
+      "https://4lifetimelines.com/collections/compression-unions",
+      "https://4lifetimelines.com/pages/about",
+      "https://4lifetimelines.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "4lovebirds.com",
+    "company_name": "4Lovebirds",
+    "website": "https://4lovebirds.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@4lovebirds.com",
+        "confidence": "high",
+        "source_url": "https://4lovebirds.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@4lovebirds.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://4lovebirds.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://4lovebirds.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://4lovebirds.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://4lovebirds.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Shop Matching Shirts, Hoodies, Sweaters & Tumblers for Couples Family and Friends. Check out our selection for the very best in unique or custom designs from our shop, great gifts on sale for your loved ones.",
+    "source_urls": [
+      "https://4lovebirds.com",
+      "https://4lovebirds.com/pages/contact-us",
+      "https://4lovebirds.com/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "4moms.com",
+    "company_name": "4moms.com",
+    "website": "https://www.4moms.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.4moms.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.4moms.com/press",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2015-04-01"
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "4moms\u00ae is dedicated to making innovative, easy to use baby products that make life easier for parents. Shop our selection of baby swings, portable playards, bassinets, high chairs and more.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "4mytu.com",
+    "company_name": "4MYTU",
+    "website": "https://www.4mytu.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@4mytu.com",
+        "confidence": "high",
+        "source_url": "https://www.4mytu.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "support@4mytu.com",
+        "confidence": "high",
+        "source_url": "https://www.4mytu.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "sive offers. EMAIL support@4mytu.com English Language English \u65e5\u672c\u8a9e Deut"
+      }
+    ],
+    "role_emails": [
+      "info@4mytu.com",
+      "support@4mytu.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.4mytu.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "4MYTU luggage: Smart front-opening, silent wheels, and versatile handle redefine travel. Expandable design for effortless packing. Your easy travel begins here.",
+    "source_urls": [
+      "https://www.4mytu.com"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "4ocean.com",
+    "company_name": "4ocean",
+    "website": "https://www.4ocean.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "pr@4ocean.com",
+        "confidence": "highest",
+        "source_url": "https://www.4ocean.com/press",
+        "source_type": "archived",
+        "snapshot_date": "2020-05-13",
+        "context_snippet": "For press related inquiries, please contact pr@4ocean.com Stay connected to the cause. Sign u"
+      }
+    ],
+    "role_emails": [
+      "pr@4ocean.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.4ocean.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.4ocean.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.4ocean.com/press",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2020-05-13"
+      },
+      {
+        "url": "https://www.4ocean.com/pages/contact-4ocean",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Join the movement to clean up our oceans with 4ocean. Go plastic neutral, buy a bracelet, fund a cleanup, and become a part of the solution.",
+    "source_urls": [
+      "https://www.4ocean.com/press"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "4pistonracing.com",
+    "company_name": "4 Piston Racing",
+    "website": "https://4pistonracing.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://4pistonracing.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://4pistonracing.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2020-06-28"
+      },
+      {
+        "url": "https://4pistonracing.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://4pistonracing.com/pages/race-teams",
+        "page_type": "team",
+        "source_type": "archived",
+        "snapshot_date": "2025-09-16"
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://4pistonracing.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "4 Piston Racing is your one stop shop for High Performance Cylinder Heads. We eat, sleep, and breathe Cylinder Heads, and day after day continue to push for new developments.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "4rails.com",
+    "company_name": "4Rails.com",
+    "website": "https://www.4rails.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "alexm@4rails.com",
+        "confidence": "high",
+        "source_url": "https://www.4rails.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "alexm@4rails.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.4rails.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.4rails.com/pages/about-4rails-com",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.4rails.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.4rails.com/pages/how-many-supports-for-bar-foot-rail",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "The broadest selection of complete foot rail kits , foot rail tubing, brackets, elbows and end caps. The finest quality bar foot rails in hundreds of finishes . Regardless of the size or shape of your bar, our bar foot rail experts will configure the right foot rail. Our foot rails are precision cut",
+    "source_urls": [
+      "https://www.4rails.com",
+      "https://www.4rails.com/pages/about-4rails-com",
+      "https://www.4rails.com/pages/contact",
+      "https://www.4rails.com/pages/how-many-supports-for-bar-foot-rail"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "4ritter.com",
+    "company_name": "Ritters Garden and Gift",
+    "website": "https://www.4ritter.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "4rsmokehouse.com",
+    "company_name": "4 Rivers Smokehouse",
+    "website": "https://shop.4rsmokehouse.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://shop.4rsmokehouse.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shop.4rsmokehouse.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "4 Rivers Smokehouse",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "4runnerlifestyle.com",
+    "company_name": "4Runner Lifestyle",
+    "website": "https://www.4runnerlifestyle.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://www.4runnerlifestyle.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.4runnerlifestyle.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.4runnerlifestyle.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Thousands of 4Runner Mods & Accessories. The #1 4Runner superstore with everything you need in one place to go hit the trails. Find all the 4Runner parts you need for your next adventure with fast shipping.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "4sonssauces.com",
+    "company_name": "Four Sons Sauces",
+    "website": "https://4sonssauces.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@4sonssauces.com",
+        "confidence": "high",
+        "source_url": "https://4sonssauces.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Details 121 Franklin Street Mount Airy, NC 27030 info@4sonssauces.com 336-401-6280 Contact Us Shop Product Instructions Whole"
+      },
+      {
+        "address": "support@4sonssauces.com",
+        "confidence": "high",
+        "source_url": "https://4sonssauces.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Email Us Email us at support@4sonssauces.com and we\u2019ll respond within 48 hours."
+      }
+    ],
+    "role_emails": [
+      "info@4sonssauces.com",
+      "support@4sonssauces.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://4sonssauces.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://4sonssauces.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://4sonssauces.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://4sonssauces.com/blogs/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://4sonssauces.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://4sonssauces.com/pages/contact-us",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Experience the first-of-its-kind Yum Yum Sauce in a preservative-free dry mix. Mix with mayo, water, and butter in just 30 seconds. Impress your guests with this quick and easy recipe! Japanese sauces you love from the hibachi steakhouses!",
+    "source_urls": [
+      "https://4sonssauces.com",
+      "https://4sonssauces.com/pages/contact",
+      "https://4sonssauces.com/pages/contact-us",
+      "https://4sonssauces.com/blogs/about-us",
+      "https://4sonssauces.com/policies/contact-information"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "4swildlife.com",
+    "company_name": "4S Advanced Wildlife Solutions",
+    "website": "https://4swildlife.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "sales@4swildlife.com",
+        "confidence": "high",
+        "source_url": "https://4swildlife.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ct with us Connect with us 478-662-2162 Sales@4Swildlife.com M-F: 9:00am - 5:00pm SAT: 9:00am - 2:00pm Warehouse Add"
+      }
+    ],
+    "role_emails": [
+      "sales@4swildlife.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://4swildlife.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://4swildlife.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2019-04-19"
+      },
+      {
+        "url": "https://4swildlife.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2015-02-03"
+      },
+      {
+        "url": "https://4swildlife.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2019-04-19"
+      },
+      {
+        "url": "https://4swildlife.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://4swildlife.com/collections/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://4swildlife.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://4swildlife.com/contact",
+        "action": "/contact/#wpcf7-f331-p1261-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://4swildlife.com/pages/about-us",
+        "action": "/contact#contact-template--15877282169059__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://4swildlife.com/collections/contact-us",
+        "action": "/contact#contact-template--15938701525219__16503262006a2abc64",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://4swildlife.com/pages/contact-us",
+        "action": "/contact#contact-template--15877282103523__form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Wildlife nutrition products to attract, grow, hold & hunt big healthy deer. Premium deer pellets, feed, attractant, mineral, food plot seed & feeders for the best price. Trusted by hunters, land managers & outfitters since 2008. 2000+ retailers across the nation! Wildlife nutritionist approved. Made",
+    "source_urls": [
+      "https://4swildlife.com",
+      "https://4swildlife.com/pages/about-us",
+      "https://4swildlife.com/collections/contact-us",
+      "https://4swildlife.com/pages/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "4thavemarket.com",
+    "company_name": "4thavemarket.com",
+    "website": "https://4thavemarket.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "robots_disallowed",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "4thofjulyshirts.com",
+    "company_name": "4th of July Shirts",
+    "website": "https://4thofjulyshirts.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@4thofjulyshirts.com",
+        "confidence": "highest",
+        "source_url": "https://4thofjulyshirts.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "DA 33326 UNITED STATES PHONE (954) 318-6000 EMAIL info@4thofjulyshirts.com HOURS OF OPERATION MON-FRI | 8AM - 4PM EST"
+      }
+    ],
+    "role_emails": [
+      "info@4thofjulyshirts.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://4thofjulyshirts.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://4thofjulyshirts.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://4thofjulyshirts.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://4thofjulyshirts.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "You can\u2019t go wrong with our selection of 4th of July shirts. Show everyone what a proud American looks like this memorial day, and Fourth of July. These American Flag clothes are the apparel of choice for the hottest days of summer. Patriotism and patriotic clothes never goes out of style. Go USA.",
+    "source_urls": [
+      "https://4thofjulyshirts.com",
+      "https://4thofjulyshirts.com/pages/contact-us",
+      "https://4thofjulyshirts.com/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "4ubytia.com",
+    "company_name": "4U by Tia",
+    "website": "https://4ubytia.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "4ucaps.com",
+    "company_name": "4ucaps.com",
+    "website": "https://www.4ucaps.com",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "email sales@4ucaps.com",
+        "title": null,
+        "email": "sales@4ucaps.com",
+        "source_url": "https://www.4ucaps.com"
+      }
+    ],
+    "people": [
+      {
+        "name": "email sales@4ucaps.com",
+        "title": null,
+        "email": "sales@4ucaps.com",
+        "source_url": "https://www.4ucaps.com"
+      }
+    ],
+    "emails": [
+      {
+        "address": "sales@4ucaps.com",
+        "confidence": "highest",
+        "source_url": "https://www.4ucaps.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Create Account email sales@4ucaps.com phone 718-882-5484"
+      },
+      {
+        "address": "%20sales@4ucaps.com",
+        "confidence": "high",
+        "source_url": "https://www.4ucaps.com/pages/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "%20sales@4ucaps.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.4ucaps.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.4ucaps.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2016-03-17"
+      },
+      {
+        "url": "https://www.4ucaps.com/pages/about-4uc",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.4ucaps.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.4ucaps.com/pages/about-4uc",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.4ucaps.com/pages/contact-us",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "4U Caps offers over 1,000 styles ranging from all major sports teams to independent fashion brands.",
+    "source_urls": [
+      "https://www.4ucaps.com",
+      "https://www.4ucaps.com/pages/about-4uc",
+      "https://www.4ucaps.com/pages/contact-us"
+    ],
+    "reason": null,
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "4x4colorado.com",
+    "company_name": "4x4Colorado.com",
+    "website": "https://www.4x4colorado.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "help@4x4colorado.com",
+        "confidence": "highest",
+        "source_url": "https://www.4x4colorado.com",
+        "source_type": "archived",
+        "snapshot_date": "2025-10-17",
+        "context_snippet": "directly or use the support chat feature below. EMAIL US: HELP@4X4COLORADO.COM Monday-Saturday: 10:30AM-6:30PM Sunday: CLOSED"
+      }
+    ],
+    "role_emails": [
+      "help@4x4colorado.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.4x4colorado.com",
+        "page_type": "home",
+        "source_type": "archived",
+        "snapshot_date": "2025-10-17"
+      },
+      {
+        "url": "https://www.4x4colorado.com/pages/4x4-colorado-trail-team",
+        "page_type": "team",
+        "source_type": "archived",
+        "snapshot_date": "2025-08-17"
+      },
+      {
+        "url": "https://www.4x4colorado.com/pages/support-hub-test",
+        "page_type": "support",
+        "source_type": "archived",
+        "snapshot_date": "2025-09-15"
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Experience the transformational power of nature with a 4x4 Colorado tent. At 4x4 Colorado, we offer top-quality gear and apparel for any outdoor lover.",
+    "source_urls": [
+      "https://www.4x4colorado.com",
+      "https://www.4x4colorado.com/pages/4x4-colorado-trail-team",
+      "https://www.4x4colorado.com/pages/support-hub-test"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "4xshaft.com",
+    "company_name": "Tom Wood's Custom Drive Shafts",
+    "website": "https://4xshaft.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_domain_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "4xspower.com",
+    "company_name": "XS Power",
+    "website": "https://4xspower.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://4xspower.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://4xspower.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2010-05-29"
+      },
+      {
+        "url": "https://4xspower.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2024-02-21"
+      },
+      {
+        "url": "https://4xspower.com/collections/team-titan",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://4xspower.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://4xspower.com/pages/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://4xspower.com/pages/team-xs-power",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "AGM, lithium and ultracapacitor power engineered in Knoxville, Tennessee and proven at the track, the trail, the lake and the lanes.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "500downnow.com",
+    "company_name": "500downnow",
+    "website": "https://500downnow.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [
+      {
+        "url": "https://500downnow.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://500downnow.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://500downnow.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://500downnow.com/meet-the-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://500downnow.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://500downnow.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://500downnow.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://500downnow.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://500downnow.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "You Work, You Drive! Make $10 an hour? Drive home with $500 down. Great prices & low monthly payments. We accept all credit scores.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "500friends.com",
+    "company_name": "500Friends",
+    "website": "http://500friends.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": "The next decade belongs to brands that are positioned to win on customer experience. And the competition gets more fierce every day. Let's create together.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "500level.com",
+    "company_name": "500 LEVEL",
+    "website": "https://www.500level.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "staff@500level.com",
+        "confidence": "high",
+        "source_url": "https://www.500level.com/pages/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "reach out to us via this contact form or by emailing us at staff@500level.com. Our typical response time is within 12 hours. For return"
+      }
+    ],
+    "role_emails": [
+      "staff@500level.com"
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.500level.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.500level.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2012-03-09"
+      },
+      {
+        "url": "https://www.500level.com/collections/mexico-national-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.500level.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.500level.com/pages/contact",
+        "action": "/contact#template--21606148636864__form-contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "500 LEVEL delivers ultra\u2011soft fan apparel featuring vintage\u2011inspired graphics, player tees, throwback designs, and officially licensed gear for every generation of sports fans.",
+    "source_urls": [
+      "https://www.500level.com/pages/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  }
+]
