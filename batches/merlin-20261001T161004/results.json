@@ -1,0 +1,2708 @@
+[
+  {
+    "company_domain": "jevdit.com",
+    "company_name": "Jevdit \u2013 a social network moderated by Jev",
+    "website": "https://jevdit.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://jevdit.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://jevdit.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Your favorite corners of the internet. Posts, links, and conversations moderated by Jev.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "forgehw.dev",
+    "company_name": "Forge Tools",
+    "website": "https://www.forgehw.dev/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@forgehw.dev",
+        "confidence": "highest",
+        "source_url": "https://www.forgehw.dev/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "hello@forgehw.dev"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.forgehw.dev/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.forgehw.dev/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Free practical calculators for automotive, electrical, fabrication, machining, 3D printing and workshop engineering.",
+    "source_urls": [
+      "https://www.forgehw.dev/",
+      "https://www.forgehw.dev/about"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 7
+  },
+  {
+    "company_domain": "rare-books.vercel.app",
+    "company_name": "A bookshelf of rare company documents and out-of-print tech books",
+    "website": "https://rare-books.vercel.app",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "a.morita@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Akio Morita",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "akio.morita@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Akio Morita",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "akio@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Akio Morita",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "akio_morita@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Akio Morita",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "akiom@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Akio Morita",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "b.gates@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Bill Gates",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "b.yahoo@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Brad Garlinghouse, Yahoo",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "bill.gates@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Bill Gates",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "bill@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Bill Gates",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "bill_gates@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Bill Gates",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "billg@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Bill Gates",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "brad.yahoo@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Brad Garlinghouse, Yahoo",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "brad@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Brad Garlinghouse, Yahoo",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "brad_yahoo@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Brad Garlinghouse, Yahoo",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "brady@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Brad Garlinghouse, Yahoo",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "buffett@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Warren Buffett",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "c.johnson@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Clarence \u201cKelly\u201d Johnson",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "cern@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tim Berners-Lee, CERN",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "clarence.johnson@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Clarence \u201cKelly\u201d Johnson",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "clarence@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Clarence \u201cKelly\u201d Johnson",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "clarence_johnson@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Clarence \u201cKelly\u201d Johnson",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "clarencej@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Clarence \u201cKelly\u201d Johnson",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "d.packard@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "David Packard",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "david.packard@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "David Packard",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "david@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "David Packard",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "david_packard@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "David Packard",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "davidp@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "David Packard",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "e.lauder@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Est\u00e9e Lauder",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "este.lauder@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Est\u00e9e Lauder",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "este@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Est\u00e9e Lauder",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "este_lauder@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Est\u00e9e Lauder",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "estel@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Est\u00e9e Lauder",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "farman@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Irvin Farman",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "g.roberts@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "George A. Roberts",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "gates@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Bill Gates",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "geneen@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Harold Geneen",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "george.roberts@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "George A. Roberts",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "george@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "George A. Roberts",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "george_roberts@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "George A. Roberts",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "georger@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "George A. Roberts",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "h.geneen@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Harold Geneen",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "harold.geneen@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Harold Geneen",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "harold@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Harold Geneen",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "harold_geneen@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Harold Geneen",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "haroldg@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Harold Geneen",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "hastings@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Reed Hastings",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "i.farman@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Irvin Farman",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "i.sutskever@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ilya Sutskever",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ilya.sutskever@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ilya Sutskever",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ilya@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ilya Sutskever",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ilya_sutskever@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ilya Sutskever",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ilyas@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ilya Sutskever",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "irvin.farman@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Irvin Farman",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "irvin@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Irvin Farman",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "irvin_farman@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Irvin Farman",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "irvinf@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Irvin Farman",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "iverson@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ken Iverson",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "j.kaplan@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jerry Kaplan",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "j.rockefeller@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "John D. Rockefeller",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "j.sculley@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "John Sculley",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jerry.kaplan@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jerry Kaplan",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jerry@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jerry Kaplan",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jerry_kaplan@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jerry Kaplan",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jerryk@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jerry Kaplan",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jobs@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Steve Jobs",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "john.rockefeller@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "John D. Rockefeller",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "john.sculley@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "John Sculley",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "john@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "John D. Rockefeller",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "john_rockefeller@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "John D. Rockefeller",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "john_sculley@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "John Sculley",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "johnr@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "John D. Rockefeller",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "johns@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "John Sculley",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "johnson@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Clarence \u201cKelly\u201d Johnson",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "k.iverson@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ken Iverson",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "k.matsushita@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Konosuke Matsushita",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kaplan@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jerry Kaplan",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ken.iverson@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ken Iverson",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ken@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ken Iverson",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ken_iverson@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ken Iverson",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "keni@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ken Iverson",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kierlin@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Robert A. Kierlin",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "konosuke.matsushita@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Konosuke Matsushita",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "konosuke@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Konosuke Matsushita",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "konosuke_matsushita@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Konosuke Matsushita",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "konosukem@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Konosuke Matsushita",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "lauder@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Est\u00e9e Lauder",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "m.markkula@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mike Markkula",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "m.moritz@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Michael Moritz",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "m.zuckerberg@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mark Zuckerberg",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mark.zuckerberg@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mark Zuckerberg",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mark@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mark Zuckerberg",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mark_zuckerberg@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mark Zuckerberg",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "markkula@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mike Markkula",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "markz@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mark Zuckerberg",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "matsushita@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Konosuke Matsushita",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mcelheny@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Victor K. McElheny",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "michael.moritz@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Michael Moritz",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "michael@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Michael Moritz",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "michael_moritz@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Michael Moritz",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "michaelm@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Michael Moritz",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "microsoft@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Peter Jackson, Microsoft",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mike.markkula@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mike Markkula",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mike@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mike Markkula",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mike_markkula@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mike Markkula",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mikem@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mike Markkula",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "morita@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Akio Morita",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "moritz@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Michael Moritz",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "n.microsoft@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nathan Myhrvold, Microsoft",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "nathan.microsoft@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nathan Myhrvold, Microsoft",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "nathan@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nathan Myhrvold, Microsoft",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "nathan_microsoft@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nathan Myhrvold, Microsoft",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "nathanm@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nathan Myhrvold, Microsoft",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "nokia@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Stephen Elop, Nokia",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "p.microsoft@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Peter Jackson, Microsoft",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "packard@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "David Packard",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "peter.microsoft@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Peter Jackson, Microsoft",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "peter@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Peter Jackson, Microsoft",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "peter_microsoft@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Peter Jackson, Microsoft",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "peterm@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Peter Jackson, Microsoft",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "r.hastings@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Reed Hastings",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "r.kierlin@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Robert A. Kierlin",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "r.sequoia@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Roelof Botha, Sequoia",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "reed.hastings@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Reed Hastings",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "reed@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Reed Hastings",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "reed_hastings@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Reed Hastings",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "reedh@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Reed Hastings",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "robert.kierlin@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Robert A. Kierlin",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "robert@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Robert A. Kierlin",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "robert_kierlin@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Robert A. Kierlin",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "robertk@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Robert A. Kierlin",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "roberts@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "George A. Roberts",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "rockefeller@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "John D. Rockefeller",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "roelof.sequoia@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Roelof Botha, Sequoia",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "roelof@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Roelof Botha, Sequoia",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "roelof_sequoia@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Roelof Botha, Sequoia",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "roelofs@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Roelof Botha, Sequoia",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.jobs@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Steve Jobs",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.nokia@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Stephen Elop, Nokia",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.yegge@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Steve Yegge",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sculley@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "John Sculley",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sequoia@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Roelof Botha, Sequoia",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "stephen.nokia@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Stephen Elop, Nokia",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "stephen@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Stephen Elop, Nokia",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "stephen_nokia@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Stephen Elop, Nokia",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "stephenn@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Stephen Elop, Nokia",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "steve.jobs@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Steve Jobs",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "steve.yegge@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Steve Yegge",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "steve@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Steve Jobs",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "steve_jobs@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Steve Jobs",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "steve_yegge@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Steve Yegge",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "stevej@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Steve Jobs",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "stevey@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Steve Yegge",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sutskever@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ilya Sutskever",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "t.cern@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tim Berners-Lee, CERN",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tim.cern@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tim Berners-Lee, CERN",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tim@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tim Berners-Lee, CERN",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tim_cern@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tim Berners-Lee, CERN",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "timc@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tim Berners-Lee, CERN",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "v.mcelheny@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Victor K. McElheny",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "victor.mcelheny@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Victor K. McElheny",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "victor@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Victor K. McElheny",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "victor_mcelheny@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Victor K. McElheny",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "victorm@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Victor K. McElheny",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "w.buffett@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Warren Buffett",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "warren.buffett@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Warren Buffett",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "warren@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Warren Buffett",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "warren_buffett@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Warren Buffett",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "warrenb@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Warren Buffett",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "yahoo@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Brad Garlinghouse, Yahoo",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "yegge@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Steve Yegge",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "zuckerberg@rare-books.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Mark Zuckerberg",
+        "person_title": null,
+        "source_url": "https://rare-books.vercel.app",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://rare-books.vercel.app",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Steve Jobs' Top 100 email, Sequoia's YouTube memo, Netflix's culture deck, Facebook's Little Red Book and 40 more rare memos and forgotten books. Free to read.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "outheregaming.com",
+    "company_name": "Warm",
+    "website": "https://www.outheregaming.com/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "dev@outheregaming.com",
+        "confidence": "high",
+        "source_url": "https://www.outheregaming.com/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "dev@outheregaming.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.outheregaming.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.outheregaming.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.outheregaming.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.outheregaming.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.outheregaming.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.outheregaming.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.outheregaming.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Warm is a co-op winter survival game for PC. Keep one fire alive through nights that get worse. Solo or 1-4 players on Steam.",
+    "source_urls": [
+      "https://www.outheregaming.com/",
+      "https://www.outheregaming.com/contact",
+      "https://www.outheregaming.com/contact-us",
+      "https://www.outheregaming.com/contactus",
+      "https://www.outheregaming.com/about",
+      "https://www.outheregaming.com/about-us",
+      "https://www.outheregaming.com/team"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 7
+  },
+  {
+    "company_domain": "papabazar.com",
+    "company_name": "Neon City Legends",
+    "website": "https://www.papabazar.com/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@papabazar.com",
+        "confidence": "highest",
+        "source_url": "https://www.papabazar.com/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Modern games. Old-school soul. Contact info@papabazar.com Follow Steam Site The Game Legends Feat"
+      }
+    ],
+    "role_emails": [
+      "info@papabazar.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "p.palace@papabazar.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Pixel Palace",
+        "person_title": "Owner",
+        "source_url": "https://www.papabazar.com/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "palace@papabazar.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Pixel Palace",
+        "person_title": "Owner",
+        "source_url": "https://www.papabazar.com/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "pixel.palace@papabazar.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Pixel Palace",
+        "person_title": "Owner",
+        "source_url": "https://www.papabazar.com/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "pixel@papabazar.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Pixel Palace",
+        "person_title": "Owner",
+        "source_url": "https://www.papabazar.com/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "pixel_palace@papabazar.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Pixel Palace",
+        "person_title": "Owner",
+        "source_url": "https://www.papabazar.com/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "pixelp@papabazar.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Pixel Palace",
+        "person_title": "Owner",
+        "source_url": "https://www.papabazar.com/",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.papabazar.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Modern games. Old-school soul. PapaBazar Games builds nostalgic worlds with modern systems, big personality, and one rule: they have to be fun to play. Home of Neon City Legends.",
+    "source_urls": [
+      "https://www.papabazar.com/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 7
+  },
+  {
+    "company_domain": "shangkostudio.com",
+    "company_name": "Forest Quest 88",
+    "website": "https://www.shangkostudio.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_content_mismatch",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "cathedral-studios.com",
+    "company_name": "Carry The Count",
+    "website": "https://www.cathedral-studios.com/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_content_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "enterthegamestudio.com",
+    "company_name": "Slime Trader",
+    "website": "https://www.enterthegamestudio.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.enterthegamestudio.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.enterthegamestudio.com/#about-us",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "We develop small but solid, fast, and fun games.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "sheart.mintlify.app",
+    "company_name": "My Murder",
+    "website": "https://sheart.mintlify.app/en",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://sheart.mintlify.app/en",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "All game projects by S.Heart \u2014 visual novels and mobile games.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "alerotstudio.com",
+    "company_name": "Abyss Floors",
+    "website": "https://www.alerotstudio.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://alerotstudio.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Alerot builds idle and incremental games \u2014 systems that keep running whether or not\n            you're watching. The number above is one of our worlds, counting in real time.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "altheragames.com",
+    "company_name": "Night Record: Thin Walls",
+    "website": "https://www.altheragames.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@altheragames.com",
+        "confidence": "highest",
+        "source_url": "https://www.altheragames.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "+90 506 355 40 00 E-posta info@altheragames.com Adres Dokuz Eyl\u00fcl \u00dcniversitesi T\u0131naztepe"
+      },
+      {
+        "address": "press@altheragames.com",
+        "confidence": "highest",
+        "source_url": "https://www.altheragames.com/press",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "i altheragames.com Bas\u0131n E-postas\u0131 press@altheragames.com Steam All games on Steam LinkedIn linkedin.c"
+      }
+    ],
+    "role_emails": [
+      "info@altheragames.com",
+      "press@altheragames.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.altheragames.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.altheragames.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.altheragames.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.altheragames.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.altheragames.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.altheragames.com/press-pps",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.altheragames.com/blog/steam-sayfasi-optimizasyonu",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.altheragames.com/blog/steam-wishlist-rehberi",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.altheragames.com/contact",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Althera Games, anlaml\u0131 ve s\u00fcr\u00fckleyici deneyimler yaratan ba\u011f\u0131ms\u0131z bir oyun st\u00fcdyosudur. \u0130zmir merkezli, tutkuyla geli\u015ftirilen oyunlar.",
+    "source_urls": [
+      "https://www.altheragames.com",
+      "https://www.altheragames.com/contact",
+      "https://www.altheragames.com/press",
+      "https://www.altheragames.com/press-pps"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "marcelpagnol-lejeu.fr",
+    "company_name": "Marcel Pagnol and the Secret Spring",
+    "website": "https://marcelpagnol-lejeu.fr/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://marcelpagnol-lejeu.fr/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "D\u00e9couvrez la date de lancement et les plateformes du nouveau visual novel HTML5 'MARCEL PAGNOL ET LA SOURCE SECRETE'. Plongez dans une histoire captivante.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "pohhyaa-games.hatenablog.com",
+    "company_name": "Watatuyo-ANOTHER",
+    "website": "https://pohhyaa-games.hatenablog.com/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://pohhyaa-games.hatenablog.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pohhyaa-games.hatenablog.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pohhyaa-games.hatenablog.com/archive/category/About",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "pohhyaa games",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "lekcurtsstudio.com",
+    "company_name": "CivEconomy",
+    "website": "https://lekcurtsstudio.com/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://lekcurtsstudio.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://lekcurtsstudio.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://lekcurtsstudio.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://lekcurtsstudio.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://lekcurtsstudio.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://lekcurtsstudio.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://lekcurtsstudio.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Lead a neolithic tribe from the Stone Age toward civilization using natural language. An AI-powered strategy simulation by LekCurts Studio.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "ophanimkei.com",
+    "company_name": "Meat Girl",
+    "website": "https://ophanimkei.com/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://ophanimkei.com/",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ophanimkei.com/media/logs/",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ophanimkei.com/media/logs/philosophies.php",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ophanimkei.com/media/logs/index.php#HoarfrostWires",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ophanimkei.com/media/logs/index.php#CRAVE/HERCREATOR",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ophanimkei.com/media/logs/index.php#AJumbledPuzzleofGlassShards",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ophanimkei.com/media/logs/index.php#MayfairWatcherSociety:Relapse",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "find me",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 15
+  },
+  {
+    "company_domain": "thegloriouscausegame.com",
+    "company_name": "The Glorious Cause",
+    "website": "https://thegloriouscausegame.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://thegloriouscausegame.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://thegloriouscausegame.com/About-Us.html",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://thegloriouscausegame.com/Contact.html",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://thegloriouscausegame.com/Contact.html",
+        "action": "https://service.nicepagesrv.com/form/v4/form-process",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "A historically accurate grand strategy and tactical wargame of the American Revolution",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "ninegatesstudio.com",
+    "company_name": "Ninewrought: Nine Men's Morris",
+    "website": "https://ninegatesstudio.com/ninewrought",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@ninegatesstudio.com",
+        "confidence": "highest",
+        "source_url": "https://ninegatesstudio.com/ninewrought",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "da Bas\u0131n ve i\u015f birli\u011fi i\u00e7in: info@ninegatesstudio.com Nine Gates Studio Girmeye de"
+      }
+    ],
+    "role_emails": [
+      "info@ninegatesstudio.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://ninegatesstudio.com/ninewrought",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ninegatesstudio.com/#contact",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Dokuz Ta\u015f'\u0131n modern hali. Yedi ma\u00e7l\u0131k turnuvada her zaferde daha g\u00fc\u00e7l\u00fc bir rakip; Acemi'den Efsane'ye t\u0131rmanan ustal\u0131k merdiveni. D\u00f6rt tahta temas\u0131, T\u00fcrk\u00e7e ve \u0130ngilizce.",
+    "source_urls": [
+      "https://ninegatesstudio.com/ninewrought",
+      "https://ninegatesstudio.com/#contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "meridian-strike-wiki.netlify.app",
+    "company_name": "Meridian Strike",
+    "website": "https://meridian-strike-wiki.netlify.app/wiki/HOW_TO_PLAY",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://meridian-strike-wiki.netlify.app/wiki/HOW_TO_PLAY",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://meridian-strike-wiki.netlify.app/wiki/HOW_TO_PLAY/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://meridian-strike-wiki.netlify.app/wiki/HOW_TO_PLAY/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://meridian-strike-wiki.netlify.app/wiki/HOW_TO_PLAY/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://meridian-strike-wiki.netlify.app/wiki/HOW_TO_PLAY/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://meridian-strike-wiki.netlify.app/wiki/HOW_TO_PLAY/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://meridian-strike-wiki.netlify.app/wiki/HOW_TO_PLAY/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://meridian-strike-wiki.netlify.app/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Command a mercenary company in Meridian Strike, a turn-based hex-grid mech combat game featuring localized damage, heat management, and persistent pilots.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "koeitecmoamerica.com",
+    "company_name": "DYNASTY WARRIORS 3: Complete Edition Remastered",
+    "website": "https://www.koeitecmoamerica.com/dw3-re/us/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.koeitecmoamerica.com/dw3-re/us/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "A Warrior Worth A Thousand Reforged \u201cDYNASTY WARRIORS 3\u201d and \u201cDYNASTY WARRIORS 3: Xtreme Legends\u201d, which established the foundation of the entire series, returns in striking modern detail.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "stylerfunkgames.com",
+    "company_name": "PixelPop 2087",
+    "website": "https://www.stylerfunkgames.com/games/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.stylerfunkgames.com/games/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "PixelPop 2087 is a Top-Down 2D pixel art adventure where \u201980s love meets a dystopian twist from the future!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "lumiric.studio",
+    "company_name": "Lumiric Stage",
+    "website": "https://lumiric.studio/stage",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "admin@lumiric.studio",
+        "confidence": "highest",
+        "source_url": "https://lumiric.studio/stage",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "age \u00a9 2026 Lumiric Studio. All rights reserved. admin@lumiric.studio"
+      }
+    ],
+    "role_emails": [
+      "admin@lumiric.studio"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://lumiric.studio/stage",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://lumiric.studio/index.html#about",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Lumiric Stage transforms MIDI files into cinematic 3D visuals with falling notes and Magic Piano. Built for pianists, teachers, students, and streamers.",
+    "source_urls": [
+      "https://lumiric.studio/stage",
+      "https://lumiric.studio/index.html#about"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "earlasparagus385.wixsite.com",
+    "company_name": "Project Solaris",
+    "website": "https://earlasparagus385.wixsite.com/project-solaris",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_content_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "core-interactive.com",
+    "company_name": "Protocol 86: Chernobyl",
+    "website": "https://core-interactive.com/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_content_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "game.blueboxproduction.ru",
+    "company_name": "BomberParty",
+    "website": "https://game.blueboxproduction.ru/games.html",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://game.blueboxproduction.ru/games.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "BomberParty, Full up, Cosmoground and Whisper of the dead \u2014 games by BlueBox Production. Play in a browser or get BomberParty on Steam.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "peg-dev.com",
+    "company_name": "\u7121\u540d\u304b\u3089\u4f1d\u8aac\u306e\u30a2\u30a4\u30c9\u30eb\u3078",
+    "website": "https://peg-dev.com/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_content_mismatch",
+    "pages_fetched": 1
+  }
+]
