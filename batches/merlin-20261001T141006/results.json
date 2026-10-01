@@ -1,0 +1,1589 @@
+[
+  {
+    "company_domain": "loyalisto.com",
+    "company_name": "Loyalisto - Wallet loyalty cards that spot the regulars you're losing",
+    "website": "https://www.loyalisto.com/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@loyalisto.com",
+        "confidence": "highest",
+        "source_url": "https://www.loyalisto.com/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ogle Wallet, for any business with customers worth keeping. hello@loyalisto.com Product How it works Features Get a quote Stamp cards Point"
+      }
+    ],
+    "role_emails": [
+      "hello@loyalisto.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.loyalisto.com/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.loyalisto.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.loyalisto.com/support",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "A loyalty card that lives in Apple Wallet and Google Wallet, and a dashboard that names the regulars who have stopped coming. No app to download. For cafes, salons, gyms, auto shops and retail.",
+    "source_urls": [
+      "https://www.loyalisto.com/?ref=producthunt",
+      "https://www.loyalisto.com/support"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "garagerag.app",
+    "company_name": "Garage - Your files, your Mac, your AI. Private RAG over MCP",
+    "website": "https://garagerag.app?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "markpenwell@garagerag.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Rick Mark-Penwell",
+        "person_title": null,
+        "source_url": "https://garagerag.app?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "r.markpenwell@garagerag.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Rick Mark-Penwell",
+        "person_title": null,
+        "source_url": "https://garagerag.app?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "rick.markpenwell@garagerag.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Rick Mark-Penwell",
+        "person_title": null,
+        "source_url": "https://garagerag.app?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "rick@garagerag.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Rick Mark-Penwell",
+        "person_title": null,
+        "source_url": "https://garagerag.app?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "rick_markpenwell@garagerag.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Rick Mark-Penwell",
+        "person_title": null,
+        "source_url": "https://garagerag.app?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "rickm@garagerag.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Rick Mark-Penwell",
+        "person_title": null,
+        "source_url": "https://garagerag.app?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://garagerag.app?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://garagerag.app/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://garagerag.app/support/",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://garagerag.app/about.html",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://garagerag.app/support/privacy-policy.html",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://garagerag.app/support/guide.html",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://garagerag.app/support/troubleshooting.html",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Garage is a free, open-source local RAG app for macOS. It indexes your documents, code and messages on your Mac and serves them to Claude and other AI assistants over MCP.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 14
+  },
+  {
+    "company_domain": "zumbo.app",
+    "company_name": "Zumbo - Open source local AI voice-to-text for Mac for private STT",
+    "website": "https://zumbo.app?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@zumbo.app",
+        "confidence": "highest",
+        "source_url": "https://zumbo.app?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "tes and reminders Buy once, not monthly Support hello@zumbo.app FAQ Creator bonus Privacy Terms \u00a9 2026 Zumb"
+      }
+    ],
+    "role_emails": [
+      "hello@zumbo.app"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://zumbo.app?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Open source dictation for Mac. Local AI models turn your speech into text in about a fifth of a second, with near perfect accuracy and complete privacy. Vocabulary packs, Notes, Meeting mode. Pay once.",
+    "source_urls": [
+      "https://zumbo.app?ref=producthunt"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 7
+  },
+  {
+    "company_domain": "fitnesscalendars.com",
+    "company_name": "Fitness Calendars - Plan your training on paper, not in another app",
+    "website": "https://fitnesscalendars.com/?ref=producthunt",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "challenge_page",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "databox.com",
+    "company_name": "MCP Connectors by Databox - Give your AI Analyst context to explain performance and act",
+    "website": "https://databox.com?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@databox.com",
+        "confidence": "highest",
+        "source_url": "https://databox.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "hello@databox.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "a.partners@databox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Agency Performance Partners",
+        "person_title": "Founder",
+        "source_url": "https://databox.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "agency.partners@databox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Agency Performance Partners",
+        "person_title": "Founder",
+        "source_url": "https://databox.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "agency@databox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Agency Performance Partners",
+        "person_title": "Founder",
+        "source_url": "https://databox.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "agency_partners@databox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Agency Performance Partners",
+        "person_title": "Founder",
+        "source_url": "https://databox.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "agencyp@databox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Agency Performance Partners",
+        "person_title": "Founder",
+        "source_url": "https://databox.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "branca@databox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Monise Milanese Branca",
+        "person_title": "Marketing Manager",
+        "source_url": "https://databox.com/contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "caputa@databox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Peter Caputa",
+        "person_title": "Ceo",
+        "source_url": "https://databox.com/contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "d.gabrovec@databox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Davorin Gabrovec",
+        "person_title": "Cpo",
+        "source_url": "https://databox.com/contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "davorin.gabrovec@databox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Davorin Gabrovec",
+        "person_title": "Cpo",
+        "source_url": "https://databox.com/contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "davorin@databox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Davorin Gabrovec",
+        "person_title": "Cpo",
+        "source_url": "https://databox.com/contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "davorin_gabrovec@databox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Davorin Gabrovec",
+        "person_title": "Cpo",
+        "source_url": "https://databox.com/contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "davoring@databox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Davorin Gabrovec",
+        "person_title": "Cpo",
+        "source_url": "https://databox.com/contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "gabrovec@databox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Davorin Gabrovec",
+        "person_title": "Cpo",
+        "source_url": "https://databox.com/contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "m.branca@databox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Monise Milanese Branca",
+        "person_title": "Marketing Manager",
+        "source_url": "https://databox.com/contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "monise.branca@databox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Monise Milanese Branca",
+        "person_title": "Marketing Manager",
+        "source_url": "https://databox.com/contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "monise@databox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Monise Milanese Branca",
+        "person_title": "Marketing Manager",
+        "source_url": "https://databox.com/contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "monise_branca@databox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Monise Milanese Branca",
+        "person_title": "Marketing Manager",
+        "source_url": "https://databox.com/contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "moniseb@databox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Monise Milanese Branca",
+        "person_title": "Marketing Manager",
+        "source_url": "https://databox.com/contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "p.caputa@databox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Peter Caputa",
+        "person_title": "Ceo",
+        "source_url": "https://databox.com/contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "partners@databox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Agency Performance Partners",
+        "person_title": "Founder",
+        "source_url": "https://databox.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "peter.caputa@databox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Peter Caputa",
+        "person_title": "Ceo",
+        "source_url": "https://databox.com/contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "peter@databox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Peter Caputa",
+        "person_title": "Ceo",
+        "source_url": "https://databox.com/contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "peter_caputa@databox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Peter Caputa",
+        "person_title": "Ceo",
+        "source_url": "https://databox.com/contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "peterc@databox.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Peter Caputa",
+        "person_title": "Ceo",
+        "source_url": "https://databox.com/contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://databox.com?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://databox.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://databox.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://databox.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://databox.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Databox is the agentic analytics platform that brings performance data, business context, and AI workflows together, so your team or agents act faster.",
+    "source_urls": [
+      "https://databox.com/contact",
+      "https://databox.com/about",
+      "https://databox.com/about-us",
+      "https://databox.com/team"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 7
+  },
+  {
+    "company_domain": "coldiq.com",
+    "company_name": "ColdIQ x Slack - Prompt GTM systems inside Slack",
+    "website": "https://coldiq.com?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://coldiq.com?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Search leads, find emails, and enrich contacts with a single API key. Access 40+ data providers and 700+ endpoints. Pay only for what you use. Start for free.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "pixelmorph-1.vercel.app",
+    "company_name": "PixelMorph - Instant AI image editor & mockup studio for creators",
+    "website": "https://pixelmorph-1.vercel.app/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://pixelmorph-1.vercel.app/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Upload any image, apply pro frames, adjust aspect ratios, and export instantly for your global campaigns.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "ooon.ai",
+    "company_name": "ooon.ai - AI employee that answers, books, and reminds clients",
+    "website": "https://ooon.ai/en/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "a.abdrakhmanovna@ooon.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Aina Abdrakhmanovna",
+        "person_title": "Founder",
+        "source_url": "https://ooon.ai/en/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "abdrakhmanovna@ooon.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Aina Abdrakhmanovna",
+        "person_title": "Founder",
+        "source_url": "https://ooon.ai/en/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "aina.abdrakhmanovna@ooon.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Aina Abdrakhmanovna",
+        "person_title": "Founder",
+        "source_url": "https://ooon.ai/en/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "aina@ooon.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Aina Abdrakhmanovna",
+        "person_title": "Founder",
+        "source_url": "https://ooon.ai/en/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "aina_abdrakhmanovna@ooon.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Aina Abdrakhmanovna",
+        "person_title": "Founder",
+        "source_url": "https://ooon.ai/en/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ainaa@ooon.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Aina Abdrakhmanovna",
+        "person_title": "Founder",
+        "source_url": "https://ooon.ai/en/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "astana@ooon.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Zabor Astana",
+        "person_title": "Founder",
+        "source_url": "https://ooon.ai/en/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "z.astana@ooon.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Zabor Astana",
+        "person_title": "Founder",
+        "source_url": "https://ooon.ai/en/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "zabor.astana@ooon.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Zabor Astana",
+        "person_title": "Founder",
+        "source_url": "https://ooon.ai/en/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "zabor@ooon.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Zabor Astana",
+        "person_title": "Founder",
+        "source_url": "https://ooon.ai/en/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "zabor_astana@ooon.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Zabor Astana",
+        "person_title": "Founder",
+        "source_url": "https://ooon.ai/en/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "zabora@ooon.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Zabor Astana",
+        "person_title": "Founder",
+        "source_url": "https://ooon.ai/en/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://ooon.ai/en/?ref=producthunt",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "ooon.ai replies to clients on WhatsApp, books open slots, and brings back the ones who've drifted away. Pay a percentage per booking or a flat monthly fee",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "usejisuan.com",
+    "company_name": "Jisuan - Jisuan \u2014 Calculate right where you type.",
+    "website": "https://usejisuan.com/en?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@usejisuan.com",
+        "confidence": "highest",
+        "source_url": "https://usejisuan.com/en?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "tion Jisuan \u2014 Calculate right where you type. usejisuan.com support@usejisuan.com About Privacy Terms Contact Sitemap Feedback & Partnerships"
+      }
+    ],
+    "role_emails": [
+      "support@usejisuan.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://usejisuan.com/en?ref=producthunt",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://usejisuan.com/en/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://usejisuan.com/en/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Calculate amounts, tax, dates and ratios in Chrome HTML fields and web forms, then confirm before writing back. Official site usejisuan.com.",
+    "source_urls": [
+      "https://usejisuan.com/en?ref=producthunt",
+      "https://usejisuan.com/en/about",
+      "https://usejisuan.com/en/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "imejis.io",
+    "company_name": "Imejis.io - Give your agent a design studio to automate your marketing",
+    "website": "https://www.imejis.io/agents?ref=producthunt",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "challenge_page",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "pasteapp.io",
+    "company_name": "Paste 7 - Intelligent clipboard that knows what you're about to paste",
+    "website": "https://pasteapp.io/?utm_source=producthunt&utm_campaign=paste-7&ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@pasteapp.io",
+        "confidence": "highest",
+        "source_url": "https://pasteapp.io/media-kit",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "special requests, feel free to reach out to us. Contact: hello@pasteapp.io Product Download Pricing Paste for Teams What's New Suggest"
+      }
+    ],
+    "role_emails": [
+      "hello@pasteapp.io"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://pasteapp.io/?utm_source=producthunt&utm_campaign=paste-7&ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pasteapp.io/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pasteapp.io/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pasteapp.io/teams",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pasteapp.io/media-kit",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Paste is a clipboard manager for Mac, iPhone, and iPad that remembers everything you copy and keeps it organized, searchable, and in sync across your devices.",
+    "source_urls": [
+      "https://pasteapp.io/media-kit"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "houmkey.com",
+    "company_name": "Yumza - Snap your plate, know what you eat in seconds",
+    "website": "https://houmkey.com/yumza?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@houmkey.com",
+        "confidence": "highest",
+        "source_url": "https://houmkey.com/yumza?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ilt by one person in Italy. Feedback shapes every update: hello@houmkey.com \u00a9 2026 Yumza \u00b7 Estimates, not medical advice Privacy"
+      }
+    ],
+    "role_emails": [
+      "hello@houmkey.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://houmkey.com/yumza?ref=producthunt",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Photo your plate and get calories, protein and an honest health score. Scan products, get healthier swaps, turn TikTok and Instagram videos into recipes. Free iPhone beta.",
+    "source_urls": [
+      "https://houmkey.com/yumza?ref=producthunt"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 7
+  },
+  {
+    "company_domain": "vantroc.com",
+    "company_name": "VanTroc \u2014 Appli vanlife - L'app d'entraide, troc et fermes locales pour vanlifers",
+    "website": "https://vantroc.com?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://vantroc.com?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vantroc.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vantroc.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vantroc.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vantroc.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vantroc.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vantroc.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "VanTroc, l'appli vanlife d'entraide : alertes SOS, annonces \u00e0 proximit\u00e9, communaut\u00e9 nomade et spots pour van, fourgon am\u00e9nag\u00e9 et camping-car en Europe.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "screenjoc.com",
+    "company_name": "Screenjoc - #Screenjoc \u2014 The Indie Filmmaker's Operational Backbone",
+    "website": "https://screenjoc.com?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@screenjoc.com",
+        "confidence": "highest",
+        "source_url": "https://screenjoc.com/support",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "support@screenjoc.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "n.pictures@screenjoc.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Northbound Pictures",
+        "person_title": "Founder",
+        "source_url": "https://screenjoc.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "northbound.pictures@screenjoc.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Northbound Pictures",
+        "person_title": "Founder",
+        "source_url": "https://screenjoc.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "northbound@screenjoc.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Northbound Pictures",
+        "person_title": "Founder",
+        "source_url": "https://screenjoc.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "northbound_pictures@screenjoc.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Northbound Pictures",
+        "person_title": "Founder",
+        "source_url": "https://screenjoc.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "northboundp@screenjoc.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Northbound Pictures",
+        "person_title": "Founder",
+        "source_url": "https://screenjoc.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "pictures@screenjoc.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Northbound Pictures",
+        "person_title": "Founder",
+        "source_url": "https://screenjoc.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://screenjoc.com?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://screenjoc.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://screenjoc.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://screenjoc.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://screenjoc.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://screenjoc.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://screenjoc.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://screenjoc.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://screenjoc.com/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://screenjoc.com/support",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Screenjoc \u2014 From Script To Screen. Automated. The all-in-one filmmaking platform for screenwriting, budgeting, breakdown, and pre-production.",
+    "source_urls": [
+      "https://screenjoc.com/support"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "doesheloveme.tennote.site",
+    "company_name": "Does He Love Me? - Offline AI for relationship questions, with answer scores",
+    "website": "https://doesheloveme.tennote.site/en/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://doesheloveme.tennote.site/en/?ref=producthunt",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Explore relationship questions with on-device Laya AI. Compare answer scores privately on your iPhone. Chinese-language app. No account required.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "claudefix.store",
+    "company_name": "CLAUDEFIX - Claude Pro & Max prices by country",
+    "website": "https://claudefix.store?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://claudefix.store?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://claudefix.store/en/about/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Choose a language to compare Claude Pro and Max App Store prices and Google Play in-app ranges by country.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "claude.ai",
+    "company_name": "FlyBest - The AI agent that books your hotel \u2014 with advisor perks",
+    "website": "https://claude.ai/directory/connectors/flybest?ref=producthunt",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "challenge_page",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "camera.ai.vn",
+    "company_name": "Minimal Vibe Coding Kit Premium - A ready-made rulebook for your AI coding assistant",
+    "website": "https://camera.ai.vn?ref=producthunt",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "http_404",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "suveerkh.github.io",
+    "company_name": "Driftpad - Floating Mac notes that fade away unless you pin them",
+    "website": "https://suveerkh.github.io/driftpad/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://suveerkh.github.io/driftpad/?ref=producthunt",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Driftpad is a free menu bar app for macOS. Click for a floating note above every app; it fades away on its own unless you pin it.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "seorank.doctor",
+    "company_name": "Seo Rank Doctor - Find the keyword. Create the content. Watch people arrive",
+    "website": "https://seorank.doctor/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://seorank.doctor/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "A product of emergent.sh",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "quadcode.ai",
+    "company_name": "Quadcode AI - One AI workspace instead of ten tools",
+    "website": "https://quadcode.ai/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://quadcode.ai/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "One desktop app where AI agents build code, UI, video, 3D and music in your project folder. 30+ models incl. Claude, GPT and Gemini. Free to start.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "zeku.dev",
+    "company_name": "Zeku - A calm place to write for your Astro site",
+    "website": "https://zeku.dev?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "d.kimball@zeku.dev",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "David V. Kimball",
+        "person_title": null,
+        "source_url": "https://zeku.dev?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "david.kimball@zeku.dev",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "David V. Kimball",
+        "person_title": null,
+        "source_url": "https://zeku.dev?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "david@zeku.dev",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "David V. Kimball",
+        "person_title": null,
+        "source_url": "https://zeku.dev?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "david_kimball@zeku.dev",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "David V. Kimball",
+        "person_title": null,
+        "source_url": "https://zeku.dev?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "davidk@zeku.dev",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "David V. Kimball",
+        "person_title": null,
+        "source_url": "https://zeku.dev?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kimball@zeku.dev",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "David V. Kimball",
+        "person_title": null,
+        "source_url": "https://zeku.dev?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://zeku.dev?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Zeku is a native app that opens your Astro project directly, with live-preview markdown, frontmatter that knows your schema, and a publish button.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "savantly.ai",
+    "company_name": "Savantly - One AI agent to build, market, engage & sell",
+    "website": "https://savantly.ai?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "machines@savantly.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Qualetics Data Machines",
+        "person_title": "Founder",
+        "source_url": "https://savantly.ai/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "q.machines@savantly.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Qualetics Data Machines",
+        "person_title": "Founder",
+        "source_url": "https://savantly.ai/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "qualetics.machines@savantly.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Qualetics Data Machines",
+        "person_title": "Founder",
+        "source_url": "https://savantly.ai/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "qualetics@savantly.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Qualetics Data Machines",
+        "person_title": "Founder",
+        "source_url": "https://savantly.ai/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "qualetics_machines@savantly.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Qualetics Data Machines",
+        "person_title": "Founder",
+        "source_url": "https://savantly.ai/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "qualeticsm@savantly.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Qualetics Data Machines",
+        "person_title": "Founder",
+        "source_url": "https://savantly.ai/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.vakada@savantly.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sumanth Vakada",
+        "person_title": null,
+        "source_url": "https://savantly.ai/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sumanth.vakada@savantly.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sumanth Vakada",
+        "person_title": null,
+        "source_url": "https://savantly.ai/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sumanth@savantly.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sumanth Vakada",
+        "person_title": null,
+        "source_url": "https://savantly.ai/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sumanth_vakada@savantly.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sumanth Vakada",
+        "person_title": null,
+        "source_url": "https://savantly.ai/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sumanthv@savantly.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sumanth Vakada",
+        "person_title": null,
+        "source_url": "https://savantly.ai/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "vakada@savantly.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sumanth Vakada",
+        "person_title": null,
+        "source_url": "https://savantly.ai/about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://savantly.ai?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://savantly.ai/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://savantly.ai/features/social-media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://savantly.ai/#contact",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Savantly is one AI agent that builds your customer-facing apps and sites, markets them across channels, engages every customer 24/7 (including WhatsApp), and turns them into paying customers. Free to start, no credit card required.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "restockpilot.net",
+    "company_name": "RestockPilot - Shopify low-stock alerts - Low-stock alerts that arrive as a draft purchase order",
+    "website": "https://restockpilot.net?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@restockpilot.net",
+        "confidence": "highest",
+        "source_url": "https://restockpilot.net?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "g things than checking spreadsheets. Questions or issues? support@restockpilot.net \u00b7 Privacy policy"
+      }
+    ],
+    "role_emails": [
+      "support@restockpilot.net"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://restockpilot.net?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "RestockPilot watches your Shopify inventory and drafts the purchase order before you run out. You review, you send.",
+    "source_urls": [
+      "https://restockpilot.net?ref=producthunt"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 7
+  },
+  {
+    "company_domain": "genspark.ai",
+    "company_name": "GenCode - A coding agent inside the Genspark Super App",
+    "website": "https://www.genspark.ai/gencode?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.genspark.ai/gencode?ref=producthunt",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Meet GenCode: Genspark\u2019s AI coding agent. Choose your model, keep your Claude Code skills, track your credits, and work in a desktop workspace or your terminal.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  }
+]
