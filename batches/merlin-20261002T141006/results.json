@@ -1,0 +1,1439 @@
+[
+  {
+    "company_domain": "checkerso.com",
+    "company_name": "Checkerso - Play checkers in your browser. No ads, no account",
+    "website": "https://checkerso.com?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@checkerso.com",
+        "confidence": "high",
+        "source_url": "https://checkerso.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "hello@checkerso.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://checkerso.com?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://checkerso.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Play checkers online free: a classic American checkers game against the computer or a friend. Easy, Medium, Hard. No account, no download.",
+    "source_urls": [
+      "https://checkerso.com/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 7
+  },
+  {
+    "company_domain": "buba.ai",
+    "company_name": "Buba - Personalized wellbeing practices, matched to how you feel",
+    "website": "https://buba.ai?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@buba.ai",
+        "confidence": "high",
+        "source_url": "https://buba.ai?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "hello@buba.ai"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://buba.ai?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buba.ai/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buba.ai/contact/?topic=feature&source=footer",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buba.ai/contact/?topic=bug&source=footer",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://buba.ai/contact/?source=footer",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://buba.ai/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://buba.ai/contact/?topic=feature&source=footer",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://buba.ai/contact/?topic=bug&source=footer",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://buba.ai/contact/?source=footer",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Buba is a science-backed wellbeing app. Practice breath, voice, movement and journaling, and see what actually shifts your state. Download on iOS.",
+    "source_urls": [
+      "https://buba.ai?ref=producthunt"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "koi.rest",
+    "company_name": "koi.rest - A quiet, serene internet pond to regain your balance",
+    "website": "https://koi.rest?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://koi.rest?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "A koi pond to stare at. A place to do nothing.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "badballhitter.vercel.app",
+    "company_name": "BadBallHitter - Sort the pitch \u2014 left or right \u2014 before time runs out.",
+    "website": "https://badballhitter.vercel.app?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://badballhitter.vercel.app?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Sort the pitches left or right before time runs out. How long can you keep your combo?",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "fifteen.growthlaps.com",
+    "company_name": "Fifteen for Chrome - A one minute game that ends before your agent does.",
+    "website": "https://fifteen.growthlaps.com?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://fifteen.growthlaps.com?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "A free one-minute mines game in your Chrome toolbar. Flip tiles while your agent thinks, bank the pot before you hit a mine, then get back to work.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "seo-ea.com",
+    "company_name": "SEO Evolution Analyzer - Will ChatGPT cite your site? Test it live.",
+    "website": "https://www.seo-ea.com/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "islam@seo-ea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Syful Islam",
+        "person_title": "Founder",
+        "source_url": "https://www.seo-ea.com/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.islam@seo-ea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Syful Islam",
+        "person_title": "Founder",
+        "source_url": "https://www.seo-ea.com/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "syful.islam@seo-ea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Syful Islam",
+        "person_title": "Founder",
+        "source_url": "https://www.seo-ea.com/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "syful@seo-ea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Syful Islam",
+        "person_title": "Founder",
+        "source_url": "https://www.seo-ea.com/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "syful_islam@seo-ea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Syful Islam",
+        "person_title": "Founder",
+        "source_url": "https://www.seo-ea.com/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "syfuli@seo-ea.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Syful Islam",
+        "person_title": "Founder",
+        "source_url": "https://www.seo-ea.com/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.seo-ea.com/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Score any website's readiness for AI search. Live LLM citation testing, AI Overview optimization signals, auto-generated fix packs, and scheduled monitoring.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "framenotion.com",
+    "company_name": "FrameNotion - Turn any product page into a scroll-stopping video ad",
+    "website": "https://framenotion.com?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://framenotion.com?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Paste a product link. FrameNotion analyzes your page and writes a custom, scroll-stopping 30-second vertical ad video in minutes.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "iloveimagetool.com",
+    "company_name": "GeoTag Image Tool: 100% Free - Add GPS location and EXIF metadata to photos for free",
+    "website": "https://iloveimagetool.com/geotag-images?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@iloveimagetool.com",
+        "confidence": "highest",
+        "source_url": "https://iloveimagetool.com/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ckly as possible. \ud83d\udce7 Email: info@iloveimagetool.com \ud83d\udce9 Send Us an Email Now Why Reach Out to Us?"
+      }
+    ],
+    "role_emails": [
+      "info@iloveimagetool.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://iloveimagetool.com/geotag-images?ref=producthunt",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://iloveimagetool.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://iloveimagetool.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://iloveimagetool.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://iloveimagetool.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://iloveimagetool.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://iloveimagetool.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://iloveimagetool.com/compress-image-online",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Free online GeoTag Image Tool to add GPS coordinates and edit photo metadata. Geotag JPEG or JPG images with latitude, longitude, title, subject, tags, author and visible location stamps.",
+    "source_urls": [
+      "https://iloveimagetool.com/contact",
+      "https://iloveimagetool.com/contact-us",
+      "https://iloveimagetool.com/contactus",
+      "https://iloveimagetool.com/about",
+      "https://iloveimagetool.com/about-us",
+      "https://iloveimagetool.com/team"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "getapta.in",
+    "company_name": "Apta - Trusted | Verified | Reliable - Connecting People with the Right Local Service Providers",
+    "website": "https://getapta.in?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "admin@getapta.in",
+        "confidence": "highest",
+        "source_url": "https://getapta.in/blog/contact/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Delhi, Bangalore admin@getapta.in"
+      }
+    ],
+    "role_emails": [
+      "admin@getapta.in"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://getapta.in?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getapta.in/blog/contact/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://getapta.in/blog/contact/",
+        "action": "/blog/contact/#wpcf7-f446-p63-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Apta is building a trusted platform to help people discover and connect with local service professionals. Find plumbers, electricians, appliance technicians, masons and other independent professionals near you.",
+    "source_urls": [
+      "https://getapta.in/blog/contact/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "sharecirculate.com",
+    "company_name": "ppp calculator sharecirculate - purchasing power parity calculator",
+    "website": "https://sharecirculate.com/calculators/ppp-calculator/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "linkedin@sharecirculate.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Pavan Padghan Linkedin",
+        "person_title": "Founder",
+        "source_url": "https://sharecirculate.com/about-us/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "p.linkedin@sharecirculate.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Pavan Padghan Linkedin",
+        "person_title": "Founder",
+        "source_url": "https://sharecirculate.com/about-us/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "pavan.linkedin@sharecirculate.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Pavan Padghan Linkedin",
+        "person_title": "Founder",
+        "source_url": "https://sharecirculate.com/about-us/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "pavan@sharecirculate.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Pavan Padghan Linkedin",
+        "person_title": "Founder",
+        "source_url": "https://sharecirculate.com/about-us/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "pavan_linkedin@sharecirculate.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Pavan Padghan Linkedin",
+        "person_title": "Founder",
+        "source_url": "https://sharecirculate.com/about-us/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "pavanl@sharecirculate.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Pavan Padghan Linkedin",
+        "person_title": "Founder",
+        "source_url": "https://sharecirculate.com/about-us/",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://sharecirculate.com/calculators/ppp-calculator/?ref=producthunt",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sharecirculate.com/contact-us/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sharecirculate.com/about-us/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://sharecirculate.com/contact-us/",
+        "action": "/contact-us/#wpcf7-f661-p402-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "PPP Calculator is a salary converter tool that allow to convert your salary from one currency to another using purchasing power parity (PPP) exchange rates",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "airecognizer.online",
+    "company_name": "AI Recognizer - Turn audio and video into text, subtitles, and audio",
+    "website": "https://airecognizer.online/?ref=producthunt",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "tls_error",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "hqforwork.com",
+    "company_name": "HQ - The company brain your AI runs on",
+    "website": "https://hqforwork.com?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "privacy@hqforwork.com",
+        "confidence": "highest",
+        "source_url": "https://hqforwork.com/support",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "We verify identity before making account changes. Open HQ privacy@hqforwork.com What to include Share the workflow that failed, your platfo"
+      },
+      {
+        "address": "support@hqforwork.com",
+        "confidence": "highest",
+        "source_url": "https://hqforwork.com/support",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "privacy@hqforwork.com",
+      "support@hqforwork.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "a.conversations@hqforwork.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "At Customer Conversations",
+        "person_title": "Founder",
+        "source_url": "https://hqforwork.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "at.conversations@hqforwork.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "At Customer Conversations",
+        "person_title": "Founder",
+        "source_url": "https://hqforwork.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "at@hqforwork.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "At Customer Conversations",
+        "person_title": "Founder",
+        "source_url": "https://hqforwork.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "at_conversations@hqforwork.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "At Customer Conversations",
+        "person_title": "Founder",
+        "source_url": "https://hqforwork.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "atc@hqforwork.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "At Customer Conversations",
+        "person_title": "Founder",
+        "source_url": "https://hqforwork.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "conversations@hqforwork.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "At Customer Conversations",
+        "person_title": "Founder",
+        "source_url": "https://hqforwork.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "r.rizos@hqforwork.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ryan Rizos",
+        "person_title": "Co-Founder",
+        "source_url": "https://hqforwork.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "rizos@hqforwork.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ryan Rizos",
+        "person_title": "Co-Founder",
+        "source_url": "https://hqforwork.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ryan.rizos@hqforwork.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ryan Rizos",
+        "person_title": "Co-Founder",
+        "source_url": "https://hqforwork.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ryan@hqforwork.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ryan Rizos",
+        "person_title": "Co-Founder",
+        "source_url": "https://hqforwork.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ryan_rizos@hqforwork.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ryan Rizos",
+        "person_title": "Co-Founder",
+        "source_url": "https://hqforwork.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ryanr@hqforwork.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ryan Rizos",
+        "person_title": "Co-Founder",
+        "source_url": "https://hqforwork.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://hqforwork.com?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hqforwork.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "HQ is the company brain your AI runs on \u2014 all your team's knowledge, projects, skills, and workflows in one place you own, working across Claude Code, Codex, Cursor, ChatGPT, and Claude.",
+    "source_urls": [
+      "https://hqforwork.com/support"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "comchannels.sh",
+    "company_name": "ComChannels - Publish what you know to an audience you own",
+    "website": "https://comchannels.sh?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@comchannels.sh",
+        "confidence": "highest",
+        "source_url": "https://comchannels.sh?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "hello@comchannels.sh"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://comchannels.sh?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://comchannels.sh/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://comchannels.sh/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://comchannels.sh/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://comchannels.sh/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://comchannels.sh/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://comchannels.sh/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "A knowledge-communication network. Outline what you know, agents structure it into output apps \u2014 documentation, articles, books, reports \u2014 broadcast as channels. Monetization built-in.",
+    "source_urls": [
+      "https://comchannels.sh?ref=producthunt",
+      "https://comchannels.sh/about"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 7
+  },
+  {
+    "company_domain": "getcta.store",
+    "company_name": "getcta.store - an ai teleprompter that lives under your MacBook notch",
+    "website": "https://www.getcta.store/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.getcta.store/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.getcta.store/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "A macOS teleprompter that sits under the MacBook notch, follows your voice as you read, and uses AI to help you write, tighten, and rehearse your script.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "buyflashusdt.vercel.app",
+    "company_name": "Buy Flash USDT - Fast, Transparent  Easy toUnderstand Digital Asset Solutions",
+    "website": "https://buyflashusdt.vercel.app/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://buyflashusdt.vercel.app/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Learn about Flash USDT, USDT Flash, supported networks and safe blockchain transaction verification.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "twin-gig.com",
+    "company_name": "Twin-Gig - Your AI twin that runs the business side of freelancing",
+    "website": "https://twin-gig.com?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://twin-gig.com?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://twin-gig.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://twin-gig.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://twin-gig.com/about?from=gig",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://twin-gig.com/contact?from=gig",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://twin-gig.com/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://twin-gig.com/contact?from=gig",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "An AI freelance assistant that drafts proposals and client replies in your own voice, then chases unpaid invoices until they clear \u2014 into your own Stripe.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "jimy-k4.github.io",
+    "company_name": "Bruto - A task board that lives in your repo, for you and your AI",
+    "website": "https://jimy-k4.github.io/bruto/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://jimy-k4.github.io/bruto/?ref=producthunt",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Free, open-source task board for building with AI. Notes live in your repo, so you and Claude Code, Cursor or ChatGPT work from the same tasks. No account.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "useclick.io",
+    "company_name": "useClick.io - Short links, link in bio and analytics in one dashboard",
+    "website": "https://useclick.io/?ref=producthunt",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "challenge_page",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "diskmate.xyz",
+    "company_name": "Disk Mate - Find What's Eating Your Mac Storage. Clean It Up for $5.",
+    "website": "https://www.diskmate.xyz/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.diskmate.xyz/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Disk Mate helps you find what's taking up space on your Mac, identify large files and unwanted clutter, and clean up your storage. Get a lifetime license for just $5.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "clearjournal.com",
+    "company_name": "ClearJournal - Automated crypto journal with an AI that explains you.",
+    "website": "https://clearjournal.com/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@clearjournal.com",
+        "confidence": "highest",
+        "source_url": "https://clearjournal.com/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "tions use read-only API keys. Get Started for Free Email us support@clearjournal.com 1 . Home 2 . Pricing 3 . Contact Us \u00a9 2026 Clear Jour"
+      }
+    ],
+    "role_emails": [
+      "support@clearjournal.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://clearjournal.com/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://clearjournal.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://clearjournal.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://clearjournal.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://clearjournal.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://clearjournal.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://clearjournal.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://clearjournal.com/contact-us",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Your All-In-One Platform for Crypto Futures Journaling & Analytics",
+    "source_urls": [
+      "https://clearjournal.com/?ref=producthunt",
+      "https://clearjournal.com/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 7
+  },
+  {
+    "company_domain": "nu-age.com.ng",
+    "company_name": "Nu Age - Africa's unified AI learning platform",
+    "website": "https://www.nu-age.com.ng/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "architect@nu-age.com.ng",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lead Systems Architect",
+        "person_title": "Founder",
+        "source_url": "https://www.nu-age.com.ng/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "l.architect@nu-age.com.ng",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lead Systems Architect",
+        "person_title": "Founder",
+        "source_url": "https://www.nu-age.com.ng/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "lead.architect@nu-age.com.ng",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lead Systems Architect",
+        "person_title": "Founder",
+        "source_url": "https://www.nu-age.com.ng/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "lead@nu-age.com.ng",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lead Systems Architect",
+        "person_title": "Founder",
+        "source_url": "https://www.nu-age.com.ng/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "lead_architect@nu-age.com.ng",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lead Systems Architect",
+        "person_title": "Founder",
+        "source_url": "https://www.nu-age.com.ng/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "leada@nu-age.com.ng",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lead Systems Architect",
+        "person_title": "Founder",
+        "source_url": "https://www.nu-age.com.ng/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.nu-age.com.ng/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Nu Age is an offline-ready Learning Management System built for the African learning ecosystem \u2014 featuring syllabus-grounded AI tutoring, enterprise course builder with 10+ lesson types, proctored exams, inbuilt communication channels, and verifiable certificates.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "plotstudio.ai",
+    "company_name": "PlotStudio AI - Agentic data analysis for researchers",
+    "website": "https://www.plotstudio.ai/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@plotstudio.ai",
+        "confidence": "high",
+        "source_url": "https://www.plotstudio.ai/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "support@plotstudio.ai"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.plotstudio.ai/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.plotstudio.ai/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.plotstudio.ai/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.plotstudio.ai/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.plotstudio.ai/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.plotstudio.ai/contact?option=demo",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Transform your data with agentic analytics. Upload your data and let AI agents plan, execute, and synthesize, turning questions into publication-ready analytics pages. The leading agentic analytics platform.",
+    "source_urls": [
+      "https://www.plotstudio.ai/?ref=producthunt"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "cadencepwa.vercel.app",
+    "company_name": "Cadence Habit Tracker - Offline-first habit tracker. No accounts, zero latency.",
+    "website": "https://cadencepwa.vercel.app?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://cadencepwa.vercel.app?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cadencepwa.vercel.app/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Track habits and build discipline with Cadence. A 100% offline-first PWA featuring unique moderation goals, daily routines, and zero tracking or ads.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "a2zdigitalhub.com",
+    "company_name": "https://www.a2zdigitalhub.com/ - Digital Marketing Blog | Guest Posting Services & SEO",
+    "website": "https://www.a2zdigitalhub.com/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@a2zdigitalhub.com",
+        "confidence": "high",
+        "source_url": "https://www.a2zdigitalhub.com/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ficiently. We aim to respond within 24\u201348 hours. Email: info@a2zdigitalhub.com Categories Affiliate Marketing Artifi"
+      }
+    ],
+    "role_emails": [
+      "info@a2zdigitalhub.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.a2zdigitalhub.com/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.a2zdigitalhub.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2026-06-07"
+      },
+      {
+        "url": "https://www.a2zdigitalhub.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.a2zdigitalhub.com/about",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2026-06-07"
+      },
+      {
+        "url": "https://www.a2zdigitalhub.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.a2zdigitalhub.com/company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.a2zdigitalhub.com/blog/tag/celebrity-social-media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.a2zdigitalhub.com/blog/tag/risk-management",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.a2zdigitalhub.com/contact",
+        "action": "#",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Get quality guest posting, blogger outreach, and high authority backlinks to improve SEO rankings, website traffic, and online visibility.",
+    "source_urls": [
+      "https://www.a2zdigitalhub.com/contact-us",
+      "https://www.a2zdigitalhub.com/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "trimfo.com",
+    "company_name": "Trimfo - The URL shortener that actually pays you",
+    "website": "https://trimfo.com/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@trimfo.com",
+        "confidence": "highest",
+        "source_url": "https://trimfo.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "us an email directly. We typically respond within 24 hours. support@trimfo.com"
+      }
+    ],
+    "role_emails": [
+      "support@trimfo.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://trimfo.com/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://trimfo.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://trimfo.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "The highest paying URL shortener on the planet. Shorten your links and earn up to $3.50 per 1000 views. Instant crypto payouts, social content locking, and premium analytics.",
+    "source_urls": [
+      "https://trimfo.com/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 7
+  }
+]
