@@ -1,0 +1,1378 @@
+[
+  {
+    "company_domain": "yesrelay.com",
+    "company_name": "Relay - Stop giving clients your personal number",
+    "website": "https://yesrelay.com/fr?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "sales@yesrelay.com",
+        "confidence": "high",
+        "source_url": "https://yesrelay.com/fr/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ipes Un projet d\u2019\u00e9quipe ou un volume important \u00e0 discuter ? sales@yesrelay.com Documentation Guides de mise en route et r\u00e9f\u00e9rence API. doc"
+      },
+      {
+        "address": "support@yesrelay.com",
+        "confidence": "high",
+        "source_url": "https://yesrelay.com/fr/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "uestion sur ton compte, ton fournisseur t\u00e9l\u00e9com ou un bug ? support@yesrelay.com Ventes & \u00e9quipes Un projet d\u2019\u00e9quipe ou un volume important"
+      }
+    ],
+    "role_emails": [
+      "sales@yesrelay.com",
+      "support@yesrelay.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://yesrelay.com/fr?ref=producthunt",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://yesrelay.com/fr/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://yesrelay.com/fr/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Appelle et texte avec ton num\u00e9ro d'entreprise, depuis le navigateur. Le compte t\u00e9l\u00e9com porte ton nom, alors on ne revend pas tes minutes. Une \u00e9quipe de 10 \u2248\u2026",
+    "source_urls": [
+      "https://yesrelay.com/fr/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "getlightwork.com",
+    "company_name": "Lightwork - Ask for help. Offer help. Pitch in.",
+    "website": "https://getLightwork.com?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://getLightwork.com?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getLightwork.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Lightwork is a free app for asking for help when you need a hand and offering it when you can \u2014 for churches, neighborhoods, schools, and small nonprofits.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "tocworks.com",
+    "company_name": "ToC Works - Turn notes, research, and chat logs into a book",
+    "website": "https://tocworks.com?ref=producthunt",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "challenge_page",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "convertany.net",
+    "company_name": "ConvertAny - Free online file conversion and app icon generation",
+    "website": "https://convertany.net/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@convertany.net",
+        "confidence": "high",
+        "source_url": "https://convertany.net/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Contact Information Email Address support@convertany.net We'll respond to your email within 24 hours"
+      }
+    ],
+    "role_emails": [
+      "support@convertany.net"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://convertany.net/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://convertany.net/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://convertany.net/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://convertany.net/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Files, units, text, app icons and everyday tools. Pick a converter and get straight to the result.",
+    "source_urls": [
+      "https://convertany.net/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 7
+  },
+  {
+    "company_domain": "vigxoesim.com",
+    "company_name": "vigxo - Instant travel eSIMs for seamless global data",
+    "website": "https://vigxoesim.com/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://vigxoesim.com/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vigxoesim.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://vigxoesim.com/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Travel eSIMs for 190+ destinations. The same local networks the big apps resell, the per-GB price on every plan, one-tap install by email. Full refund before install.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "brinknotch.site",
+    "company_name": "Brink - Your Notion pages and tasks, one hover away on your Mac",
+    "website": "https://brinknotch.site?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://brinknotch.site?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brinknotch.site/press/",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Brink is a black notch on your Mac's screen edge that keeps your Notion pages and tasks one hover away. Quick capture, a Notion-style editor, widgets and badges. macOS 14+.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "yourhand.wolvexai.com",
+    "company_name": "YourHand - Control multiple Windows PCs from one AI chat",
+    "website": "https://yourhand.wolvexai.com/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://yourhand.wolvexai.com/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "YourHand securely connects ChatGPT to your Windows computers so you can open apps, read the screen, click, type, manage files and run tasks.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "hometask.com.au",
+    "company_name": "HomeTask - Plan Aussie home projects with costed steps, free",
+    "website": "https://hometask.com.au?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "enquiries@hometask.com.au",
+        "confidence": "high",
+        "source_url": "https://hometask.com.au?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "hello@hometask.com.au",
+        "confidence": "high",
+        "source_url": "https://hometask.com.au/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2020-09-19",
+        "context_snippet": "Ltd hello@hometask.com.au Book Now SERVICES FAQ CONTACT US LOGIN BECOME A PRO Partner"
+      }
+    ],
+    "role_emails": [
+      "enquiries@hometask.com.au",
+      "hello@hometask.com.au"
+    ],
+    "email_candidates": [
+      {
+        "address": "hannouf@hometask.com.au",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jemanda Hannouf",
+        "person_title": "Co-Founder",
+        "source_url": "https://hometask.com.au/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2020-09-19"
+      },
+      {
+        "address": "j.hannouf@hometask.com.au",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jemanda Hannouf",
+        "person_title": "Co-Founder",
+        "source_url": "https://hometask.com.au/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2020-09-19"
+      },
+      {
+        "address": "jemanda.hannouf@hometask.com.au",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jemanda Hannouf",
+        "person_title": "Co-Founder",
+        "source_url": "https://hometask.com.au/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2020-09-19"
+      },
+      {
+        "address": "jemanda@hometask.com.au",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jemanda Hannouf",
+        "person_title": "Co-Founder",
+        "source_url": "https://hometask.com.au/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2020-09-19"
+      },
+      {
+        "address": "jemanda_hannouf@hometask.com.au",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jemanda Hannouf",
+        "person_title": "Co-Founder",
+        "source_url": "https://hometask.com.au/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2020-09-19"
+      },
+      {
+        "address": "jemandah@hometask.com.au",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jemanda Hannouf",
+        "person_title": "Co-Founder",
+        "source_url": "https://hometask.com.au/about-us",
+        "source_type": "archived",
+        "snapshot_date": "2020-09-19"
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://hometask.com.au?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hometask.com.au/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hometask.com.au/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://hometask.com.au/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2020-09-19"
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://hometask.com.au/contact",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://hometask.com.au/about-us",
+        "action": "https://hometask.com.au/wp-content/plugins/screets-cx",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Plan projects around the house, from home repairs and garden improvements to renovations. Organise your tasks and find Australian tradies with HomeTask.",
+    "source_urls": [
+      "https://hometask.com.au?ref=producthunt",
+      "https://hometask.com.au/contact",
+      "https://hometask.com.au/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 7
+  },
+  {
+    "company_domain": "rumbletraffic.com",
+    "company_name": "RumbleTraffic - Rumble Creator Studio Suite: High-Retention Video Traffic",
+    "website": "https://rumbletraffic.com?ref=producthunt",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "challenge_page",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "whysellercarry.com",
+    "company_name": "WhySellerCarry - See if your home could pay you monthly as the bank",
+    "website": "https://whysellercarry.com/score?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "vip@whysellercarry.com",
+        "confidence": "highest",
+        "source_url": "https://whysellercarry.com/press",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Media contact Patricia Cain , Founder, WhySellerCarry.com vip@whysellercarry.com \u00a9 2026 Why Seller Carry LLC. All rights reserved. Seller"
+      }
+    ],
+    "role_emails": [
+      "vip@whysellercarry.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://whysellercarry.com/score?ref=producthunt",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://whysellercarry.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Free instant check: is your home a good fit for seller financing? Get an estimated value, a suggested seller-carry structure, and what your state's law says if a buyer ever stops paying.",
+    "source_urls": [
+      "https://whysellercarry.com/score?ref=producthunt",
+      "https://whysellercarry.com/press"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "netfable.com",
+    "company_name": "NetFable - A chat-style reader for classic novels, adapted with AI",
+    "website": "https://netfable.com/?via=producthunt&ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@netfable.com",
+        "confidence": "highest",
+        "source_url": "https://netfable.com/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "s and we will look at it. Questions about anything here: hello@netfable.com . NetFable About Browse stories Blog Lega"
+      }
+    ],
+    "role_emails": [
+      "hello@netfable.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://netfable.com/?via=producthunt&ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://netfable.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://netfable.com/about/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Interactive stories where every reply is your choice \u2014 romance, mystery, gothic, and hundreds of classic novels retold. Free to read, no unlocks.",
+    "source_urls": [
+      "https://netfable.com/?via=producthunt&ref=producthunt",
+      "https://netfable.com/about",
+      "https://netfable.com/about/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "ttsforfree.com",
+    "company_name": "TTS For Free - AI Voiceovers from Text & SRT, Voice Cloning - 70+ Languages",
+    "website": "https://ttsforfree.com/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "admin@ttsforfree.com",
+        "confidence": "high",
+        "source_url": "https://ttsforfree.com/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "u003eadmin@ttsforfree.com",
+        "confidence": "high",
+        "source_url": "https://ttsforfree.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "admin@ttsforfree.com",
+      "u003eadmin@ttsforfree.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "f.free@ttsforfree.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "For Free",
+        "person_title": "Founder",
+        "source_url": "https://ttsforfree.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "for.free@ttsforfree.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "For Free",
+        "person_title": "Founder",
+        "source_url": "https://ttsforfree.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "for@ttsforfree.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "For Free",
+        "person_title": "Founder",
+        "source_url": "https://ttsforfree.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "for_free@ttsforfree.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "For Free",
+        "person_title": "Founder",
+        "source_url": "https://ttsforfree.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "forf@ttsforfree.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "For Free",
+        "person_title": "Founder",
+        "source_url": "https://ttsforfree.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "free@ttsforfree.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "For Free",
+        "person_title": "Founder",
+        "source_url": "https://ttsforfree.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "group@ttsforfree.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Zalo Group",
+        "person_title": "Owner",
+        "source_url": "https://ttsforfree.com/contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "information@ttsforfree.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Website Information",
+        "person_title": "Owner",
+        "source_url": "https://ttsforfree.com/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "n.thai@ttsforfree.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nguyen Trong Thai",
+        "person_title": "Founder",
+        "source_url": "https://ttsforfree.com/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "nguyen.thai@ttsforfree.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nguyen Trong Thai",
+        "person_title": "Founder",
+        "source_url": "https://ttsforfree.com/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "nguyen@ttsforfree.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nguyen Trong Thai",
+        "person_title": "Founder",
+        "source_url": "https://ttsforfree.com/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "nguyen_thai@ttsforfree.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nguyen Trong Thai",
+        "person_title": "Founder",
+        "source_url": "https://ttsforfree.com/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "nguyent@ttsforfree.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nguyen Trong Thai",
+        "person_title": "Founder",
+        "source_url": "https://ttsforfree.com/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "thai@ttsforfree.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nguyen Trong Thai",
+        "person_title": "Founder",
+        "source_url": "https://ttsforfree.com/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "w.information@ttsforfree.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Website Information",
+        "person_title": "Owner",
+        "source_url": "https://ttsforfree.com/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "website.information@ttsforfree.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Website Information",
+        "person_title": "Owner",
+        "source_url": "https://ttsforfree.com/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "website@ttsforfree.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Website Information",
+        "person_title": "Owner",
+        "source_url": "https://ttsforfree.com/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "website_information@ttsforfree.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Website Information",
+        "person_title": "Owner",
+        "source_url": "https://ttsforfree.com/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "websitei@ttsforfree.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Website Information",
+        "person_title": "Owner",
+        "source_url": "https://ttsforfree.com/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "z.group@ttsforfree.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Zalo Group",
+        "person_title": "Owner",
+        "source_url": "https://ttsforfree.com/contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "zalo.group@ttsforfree.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Zalo Group",
+        "person_title": "Owner",
+        "source_url": "https://ttsforfree.com/contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "zalo@ttsforfree.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Zalo Group",
+        "person_title": "Owner",
+        "source_url": "https://ttsforfree.com/contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "zalo_group@ttsforfree.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Zalo Group",
+        "person_title": "Owner",
+        "source_url": "https://ttsforfree.com/contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "zalog@ttsforfree.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Zalo Group",
+        "person_title": "Owner",
+        "source_url": "https://ttsforfree.com/contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://ttsforfree.com/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ttsforfree.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ttsforfree.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ttsforfree.com/en/about-us/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ttsforfree.com/en/contact/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Turn text or SRT subtitles into natural AI voiceovers in seconds. Google, Azure, OpenAI & Gemini voices in 85+ languages. No sign-up \u2013 try free, download MP3.",
+    "source_urls": [
+      "https://ttsforfree.com/?ref=producthunt",
+      "https://ttsforfree.com/contact",
+      "https://ttsforfree.com/about-us",
+      "https://ttsforfree.com/en/about-us/",
+      "https://ttsforfree.com/en/contact/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "homeagentguru.com",
+    "company_name": "Home Agent Guru - Navigate the power of home buying negotiation",
+    "website": "https://homeagentguru.com?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@homeagentguru.com",
+        "confidence": "highest",
+        "source_url": "https://homeagentguru.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "support@homeagentguru.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://homeagentguru.com?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homeagentguru.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "See how much room you may have to negotiate before you offer. Compare asking price, days on market, and comps to the local market. 3 free reports.",
+    "source_urls": [
+      "https://homeagentguru.com?ref=producthunt",
+      "https://homeagentguru.com/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 7
+  },
+  {
+    "company_domain": "dailychat.net",
+    "company_name": "DailyChat - Your daily AI news, in a three-minute conversation",
+    "website": "https://dailychat.net?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://dailychat.net?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dailychat.net/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Daily tech brief with a few-minute two-host podcast in English and Chinese.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "spookcraft-ai-creator.lovable.app",
+    "company_name": "SpookCraft AI - AI DIY Halloween costume, SFX, decor hacks & spooky recipes",
+    "website": "https://spookcraft-ai-creator.lovable.app/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://spookcraft-ai-creator.lovable.app/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Generate $0-budget DIY Halloween costume blueprints, safe homemade fake blood recipes, and trending spooky party decor ideas instantly with SpookCraft AI.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "subsvid.com",
+    "company_name": "SubsVid - C\u00f4ng c\u1ee5 d\u1ecbch video v\u00e0 l\u1ed3ng ti\u1ebfng AI \u0111\u1ed9 ch\u00ednh x\u00e1c cao",
+    "website": "https://subsvid.com?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@subsvid.com",
+        "confidence": "medium",
+        "source_url": "https://subsvid.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "support@subsvid.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://subsvid.com?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "T\u1ea3i video h\u1ee3p l\u1ec7 l\u00ean tr\u00ecnh duy\u1ec7t: AI t\u1ea1o ph\u1ee5 \u0111\u1ec1, d\u1ecbch theo ng\u1eef c\u1ea3nh, l\u1ed3ng ti\u1ebfng v\u00e0 xu\u1ea5t MP4 ho\u1eb7c SRT. H\u1ed7 tr\u1ee3 nhi\u1ec1u ng\u00f4n ng\u1eef, d\u00f9ng th\u1eed mi\u1ec5n ph\u00ed, kh\u00f4ng c\u00e0i app.",
+    "source_urls": [
+      "https://subsvid.com?ref=producthunt"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 7
+  },
+  {
+    "company_domain": "directorydash.io",
+    "company_name": "Directory Dash - Run your startup through 10 fake directories. Get rejected.",
+    "website": "https://directorydash.io?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "b.board@directorydash.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Burnout Board",
+        "person_title": "Founder",
+        "source_url": "https://directorydash.io?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "board@directorydash.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Burnout Board",
+        "person_title": "Founder",
+        "source_url": "https://directorydash.io?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "burnout.board@directorydash.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Burnout Board",
+        "person_title": "Founder",
+        "source_url": "https://directorydash.io?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "burnout@directorydash.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Burnout Board",
+        "person_title": "Founder",
+        "source_url": "https://directorydash.io?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "burnout_board@directorydash.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Burnout Board",
+        "person_title": "Founder",
+        "source_url": "https://directorydash.io?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "burnoutb@directorydash.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Burnout Board",
+        "person_title": "Founder",
+        "source_url": "https://directorydash.io?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://directorydash.io?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "A one-tap rage game about getting your startup listed. Run a cube through fake directories, dodge rejections, captchas and cookie popups, die a lot, share your failure card. Free, by Blastra.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "xett.dev",
+    "company_name": "XETT - Workforce attendance without dedicated hardware",
+    "website": "https://xett.dev?ref=producthunt",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "challenge_page",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "retouchly.ai",
+    "company_name": "Retouchly - Enhance, sharpen, and restore your photos in your browser.",
+    "website": "https://retouchly.ai?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "abuse@retouchly.ai",
+        "confidence": "highest",
+        "source_url": "https://retouchly.ai/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "support@retouchly.ai Report abuse or prohibited content: abuse@retouchly.ai Reports are reviewed manually. Our Terms of Service des"
+      },
+      {
+        "address": "support@retouchly.ai",
+        "confidence": "highest",
+        "source_url": "https://retouchly.ai?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "bout Changelog Pricing Partners \u00a9 2026 Retouchly Studio \u00b7 support@retouchly.ai"
+      }
+    ],
+    "role_emails": [
+      "abuse@retouchly.ai",
+      "support@retouchly.ai"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://retouchly.ai?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://retouchly.ai/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Free picture enhancer that sharpens clarity and enlarges photos online. Upload a picture, compare the before and after, and download without a watermark.",
+    "source_urls": [
+      "https://retouchly.ai?ref=producthunt",
+      "https://retouchly.ai/about"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 7
+  },
+  {
+    "company_domain": "ampian.ai",
+    "company_name": "Ampian AI - Know the true cost of a house before you commit",
+    "website": "https://www.ampian.ai/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.ampian.ai/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ampian.ai/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ampian.ai/#about",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ampian.ai/about-our-data",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.ampian.ai/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Zoning, natural-hazard, and true-cost intelligence on any US address. A full report in minutes, not weeks \u2014 the hidden costs buyers miss, before you commit.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "versuspadel.app",
+    "company_name": "Versus Padel \u2014 The Padel Scoreboard App - Scoreboard and tournament manager",
+    "website": "https://versuspadel.app/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "contact@versuspadel.app",
+        "confidence": "highest",
+        "source_url": "https://versuspadel.app/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ". Our team is always ready to talk tech and padel. Email Us contact@versuspadel.app Instagram @versuspadel Website Full Name * Email Address *"
+      }
+    ],
+    "role_emails": [
+      "contact@versuspadel.app"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://versuspadel.app/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://versuspadel.app/?ref=producthunt",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Score your padel matches effortlessly. Live sharing, voice announcements, Americano & Mexicano formats, TV cast mode, Bluetooth remote, and more. Free on iOS & Android.",
+    "source_urls": [
+      "https://versuspadel.app/?ref=producthunt"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 7
+  },
+  {
+    "company_domain": "urbanalcove.com",
+    "company_name": "Free AI Decor Prompt Builder - Build Better AI Prompts for Your Space",
+    "website": "https://urbanalcove.com/pages/ai-home-decor-prompt-builder?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@urbanalcove.com",
+        "confidence": "highest",
+        "source_url": "https://urbanalcove.com/pages/ai-home-decor-prompt-builder?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "t fits? Have feedback or need help shaping a prompt? Email support@urbanalcove.com . We\u2019re happy to help and use your ideas to improve the too"
+      }
+    ],
+    "role_emails": [
+      "support@urbanalcove.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://urbanalcove.com/pages/ai-home-decor-prompt-builder?ref=producthunt",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://urbanalcove.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://urbanalcove.com/pages/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://urbanalcove.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Create a tailored AI prompt for home decorating, room planning and shopping. Choose from 100 questions, add your style and budget, and copy it into ChatGPT or Gemini.",
+    "source_urls": [
+      "https://urbanalcove.com/pages/ai-home-decor-prompt-builder?ref=producthunt",
+      "https://urbanalcove.com/pages/contact",
+      "https://urbanalcove.com/pages/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 7
+  },
+  {
+    "company_domain": "apps.shahadat.us",
+    "company_name": "Book Shelved: Self-Hosted Audio & eBook - Personal Library for Audiobooks & EPUBs",
+    "website": "https://apps.shahadat.us/apps/bookshelved/?ref=producthunt",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "dns_failure",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "teranga-ai-1.onrender.com",
+    "company_name": "Teranga AI - Your AI travel assistant for Senegal",
+    "website": "https://teranga-ai-1.onrender.com/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://teranga-ai-1.onrender.com/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://teranga-ai-1.onrender.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://teranga-ai-1.onrender.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "vidsavenow.com",
+    "company_name": "VidSaveNow - Fast, free TikTok video downloader",
+    "website": "https://www.vidsavenow.com?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.vidsavenow.com?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "VidSaveNow is a free TikTok video downloader. Paste any TikTok link and save the video in HD MP4 \u2014 no login, no watermark, no app install.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  }
+]
