@@ -1,0 +1,1231 @@
+[
+  {
+    "company_domain": "trawise.org",
+    "company_name": "Trawise - Booking, the other way round: you ask, hotels answer",
+    "website": "https://www.trawise.org/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@trawise.org",
+        "confidence": "highest",
+        "source_url": "https://www.trawise.org/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "unt and add your hotel, guesthouse or flat, or email us at support@trawise.org and we'll set it up for you. 2 Receive requests Requests p"
+      }
+    ],
+    "role_emails": [
+      "support@trawise.org"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.trawise.org/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Set your location and budget on a map, post an accommodation request, and get offers from nearby hosts and hotels.",
+    "source_urls": [
+      "https://www.trawise.org/?ref=producthunt"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 7
+  },
+  {
+    "company_domain": "royalsproperties.in",
+    "company_name": "Royalsproperties.In - Ghaziabad and Delhi NCR with royalsproperties.in.",
+    "website": "https://Royalsproperties.In?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@royalsproperties.in",
+        "confidence": "highest",
+        "source_url": "https://Royalsproperties.In?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Info@royalsproperties.in Wishlist( 0 )"
+      }
+    ],
+    "role_emails": [
+      "info@royalsproperties.in"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://Royalsproperties.In?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://Royalsproperties.In/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://Royalsproperties.In/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://royalsproperties.in/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://royalsproperties.in/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://Royalsproperties.In/contact",
+        "action": "https://royalsproperties.in/contact/send",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://royalsproperties.in/contact",
+        "action": "https://royalsproperties.in/contact/send",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Find your favorite homes at Flex Home",
+    "source_urls": [
+      "https://Royalsproperties.In?ref=producthunt",
+      "https://Royalsproperties.In/contact",
+      "https://Royalsproperties.In/about-us",
+      "https://royalsproperties.in/contact",
+      "https://royalsproperties.in/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "blockforge.terravidhal.me",
+    "company_name": "Blockforge - Production-grade shadcn/ui blocks, forged to ship.",
+    "website": "https://blockforge.terravidhal.me/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "elame@blockforge.terravidhal.me",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Vidhal Elame",
+        "person_title": null,
+        "source_url": "https://blockforge.terravidhal.me/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "v.elame@blockforge.terravidhal.me",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Vidhal Elame",
+        "person_title": null,
+        "source_url": "https://blockforge.terravidhal.me/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "vidhal.elame@blockforge.terravidhal.me",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Vidhal Elame",
+        "person_title": null,
+        "source_url": "https://blockforge.terravidhal.me/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "vidhal@blockforge.terravidhal.me",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Vidhal Elame",
+        "person_title": null,
+        "source_url": "https://blockforge.terravidhal.me/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "vidhal_elame@blockforge.terravidhal.me",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Vidhal Elame",
+        "person_title": null,
+        "source_url": "https://blockforge.terravidhal.me/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "vidhale@blockforge.terravidhal.me",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Vidhal Elame",
+        "person_title": null,
+        "source_url": "https://blockforge.terravidhal.me/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://blockforge.terravidhal.me/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blockforge.terravidhal.me/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blockforge.terravidhal.me/blocks/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://blockforge.terravidhal.me/checkout-help?plan=team",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://blockforge.terravidhal.me/blocks/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Production-ready blocks built with shadcn/ui and Tailwind CSS. Copy, paste, ship \u2014 no boilerplate, no design debt.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "savvli.com",
+    "company_name": "Savvli - Compare cashback rates across top platforms instantly.",
+    "website": "https://savvli.com/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@savvli.com",
+        "confidence": "highest",
+        "source_url": "https://savvli.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "email you provided. Prefer email? Reach us directly at hello@savvli.com . Product Browse stores Compare platforms"
+      }
+    ],
+    "role_emails": [
+      "hello@savvli.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://savvli.com/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://savvli.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://savvli.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://savvli.com/about.html",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://savvli.com/contact.html",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://savvli.com/contact",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://savvli.com/contact.html",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Savvli - built for savvy shoppers who maximize cash back by checking who pays the most before they buy.",
+    "source_urls": [
+      "https://savvli.com/contact",
+      "https://savvli.com/contact.html"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "vyete.com",
+    "company_name": "Vyete - connecting you to the brands you love",
+    "website": "https://vyete.com?ref=producthunt",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "challenge_page",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "deskworth.fr",
+    "company_name": "Deskworth - Private agentic AI for verifiable investment research",
+    "website": "https://deskworth.fr?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://deskworth.fr?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://deskworth.fr/blog/company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Deskworth drives the provider CLIs you already pay for: named mandates, real terminals, and a thesis you can trace before you adopt it. Local-first \u2014 the server never sees your data.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "mandooist.com",
+    "company_name": "RouteMap - All your runs, rides and hikes on one map",
+    "website": "https://mandooist.com/routemap?src=ph",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@mandooist.com",
+        "confidence": "highest",
+        "source_url": "https://mandooist.com/routemap/support",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "o business days. Get in touch You can reach us by email at support@mandooist.com . Include your app version (shown at the bottom of Settings"
+      }
+    ],
+    "role_emails": [
+      "support@mandooist.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://mandooist.com/routemap?src=ph",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mandooist.com/routemap/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "RouteMap turns your Strava history into one interactive world map. Every run, ride, hike and walk as a route line. Filter it, frame it, share it.",
+    "source_urls": [
+      "https://mandooist.com/routemap/support"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "speakeasywords.com",
+    "company_name": "speakeasy. - Voice typing for Mac: emails, messages and prompts",
+    "website": "https://speakeasywords.com?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@speakeasywords.com",
+        "confidence": "highest",
+        "source_url": "https://speakeasywords.com/support",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ing, privacy, deletion, and AI-output help Support . Email support@speakeasywords.com for help, including if you cannot sign in or open the app."
+      }
+    ],
+    "role_emails": [
+      "support@speakeasywords.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://speakeasywords.com?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://speakeasywords.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://speakeasywords.com/for/teams",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Hold a key, speak, and release to write in ordinary Mac text fields. Optional Polish, five free dictations a week, and plans from $5/month. Apple Silicon, macOS 14+.",
+    "source_urls": [
+      "https://speakeasywords.com/support"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "plain-doc.vercel.app",
+    "company_name": "legal docs explained in plain English - Explain any legal document in plain English \u2014 free",
+    "website": "https://plain-doc.vercel.app/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "f.refusal@plain-doc.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "First Refusal",
+        "person_title": "Owner",
+        "source_url": "https://plain-doc.vercel.app/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "first.refusal@plain-doc.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "First Refusal",
+        "person_title": "Owner",
+        "source_url": "https://plain-doc.vercel.app/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "first@plain-doc.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "First Refusal",
+        "person_title": "Owner",
+        "source_url": "https://plain-doc.vercel.app/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "first_refusal@plain-doc.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "First Refusal",
+        "person_title": "Owner",
+        "source_url": "https://plain-doc.vercel.app/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "firstr@plain-doc.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "First Refusal",
+        "person_title": "Owner",
+        "source_url": "https://plain-doc.vercel.app/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "refusal@plain-doc.vercel.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "First Refusal",
+        "person_title": "Owner",
+        "source_url": "https://plain-doc.vercel.app/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://plain-doc.vercel.app/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://plain-doc.vercel.app/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Paste any legal document \u2014 rental agreement, medical bill, terms and conditions, employment contract \u2014 and get a free plain-English, clause-by-clause explanation in seconds.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "wangjonathan.com",
+    "company_name": "Oracle Ritual - Ancient I Ching wisdom, reimagined as a digital ritual",
+    "website": "https://wangjonathan.com?ref=producthunt",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "http_403",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "totallynotquizlet.codeberg.page",
+    "company_name": "TotallyNotQuizlet - Free Quizlet clone with no ads or data collection",
+    "website": "https://totallynotquizlet.codeberg.page/study/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://totallynotquizlet.codeberg.page/study/?ref=producthunt",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "TotallyNotQuizlet is a free, open-source study tool with Flashcards, Learn, Match, Type, and Test modes. No ads, no logins, no tracking.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "threadwarm.com",
+    "company_name": "Threadwarm - Find Reddit threads asking for what you sell",
+    "website": "https://threadwarm.com?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://threadwarm.com?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Threadwarm finds Reddit threads asking for what you sell and drafts replies in your voice with AI. Scans subreddits 24/7; you approve and post. Free plan, no card.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "piratesofbugs.com",
+    "company_name": "Captain JSON - Json Viewer & validator - Best extension for Json viewer, Json Vaidator with 20+ tools",
+    "website": "https://piratesofbugs.com/captainjson?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@piratesofbugs.com",
+        "confidence": "highest",
+        "source_url": "https://piratesofbugs.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "a message and our crew will get back to you soon. Email Us hello@piratesofbugs.com Our Headquarters Bangalore, India Built by engineers. For e"
+      }
+    ],
+    "role_emails": [
+      "hello@piratesofbugs.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://piratesofbugs.com/captainjson?ref=producthunt",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://piratesofbugs.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://piratesofbugs.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://piratesofbugs.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://piratesofbugs.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://piratesofbugs.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://piratesofbugs.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://piratesofbugs.com/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Captain JSON is a powerful JSON toolkit Chrome extension for developers, QA engineers and SDETs \u2014 view, format, validate, compare, repair, query and convert JSON with 20+ developer tools.",
+    "source_urls": [
+      "https://piratesofbugs.com/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 7
+  },
+  {
+    "company_domain": "release-assets.githubusercontent.com",
+    "company_name": "Glance - Build, evaluate, and monitor AI agents",
+    "website": "https://release-assets.githubusercontent.com/github-production-release-asset/1351171441/077516bd-b162-45f3-a99a-19ab9e6a26af?sp=r&sv=2018-11-09&sr=b&spr=https&se=2026-10-01T18%3A30%3A13Z&rscd=attachment%3B+filename%3DGlance-0.2.0-arm64.dmg&rsct=application%2Foctet-stream&skoid=96c2d410-5711-43a1-aedd-ab1947aa7ab0&sktid=398a6654-997b-47e9-b12b-9515b896b4de&skt=2026-10-01T17%3A29%3A15Z&ske=2026-10-01T18%3A30%3A13Z&sks=b&skv=2018-11-09&sig=%2FCi%2F38Uy%2B2FMCcg%2BKa8HX5OsGRr9jevISVOI%2Fvs0qio%3D&jwt=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmVsZWFzZS1hc3NldHMuZ2l0aHVidXNlcmNvbnRlbnQuY29tIiwia2V5Ijoia2V5MSIsImV4cCI6MTc5MDg3OTg2OSwibmJmIjoxNzkwODc2MjY5LCJwYXRoIjoicmVsZWFzZWFzc2V0cHJvZHVjdGlvbi5ibG9iLmNvcmUud2luZG93cy5uZXQifQ.Ofy3HbdIMwiCdQ25F9K-tGefkMViSg0vhywv5fdH8Ps&response-content-disposition=attachment%3B%20filename%3DGlance-0.2.0-arm64.dmg&response-content-type=application%2Foctet-stream",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "tls_error",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "toolshedhq.com",
+    "company_name": "The Toolshed \u2014 Everyday Tools - daily tools(QR code/PW generator, GPA calc) for everyone",
+    "website": "https://toolshedhq.com?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://toolshedhq.com?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://toolshedhq.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Mortgage, car loan, tip, BMI, age and date calculators, a QR code generator, a unit converter, and a password generator \u2014 one plain place for the everyday tools every generation reaches for. No accounts, nothing tracked.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "anitaibukic.com",
+    "company_name": "Drafto - Web Content Planner - collect, organize, and structure client content effortlessly",
+    "website": "https://www.anitaibukic.com/drafto?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.anitaibukic.com/drafto?ref=producthunt",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "You know that feeling: the web design is almost finished, but the client hasn't sent the copy yet. Or worse-they send paragraphs that break your layout, weak messaging that doesn't convert, or text full of typos.\n        That\u2019s why I created Drafto.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "potsticker.ai",
+    "company_name": "Potsticker - Turn one idea into on-brand posts, then schedule them",
+    "website": "https://www.potsticker.ai?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "founder@potsticker.ai",
+        "confidence": "high",
+        "source_url": "https://www.potsticker.ai?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "founder@potsticker.ai"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.potsticker.ai?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.potsticker.ai/for-founders",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.potsticker.ai/company/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Potsticker AI is an AI-powered social media management platform for businesses. Create, schedule, publish, manage, and analyze social media content across supported platforms from one workspace.",
+    "source_urls": [
+      "https://www.potsticker.ai?ref=producthunt",
+      "https://www.potsticker.ai/for-founders",
+      "https://www.potsticker.ai/company/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "therankingfactory.com",
+    "company_name": "Free AI SEO Audit - 14 Days Free Trial to Prove it works!",
+    "website": "https://therankingfactory.com?ref=producthunt",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "challenge_page",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "banatr.com",
+    "company_name": "BANA. \u2014 Ne laz\u0131m? BANA s\u00f6yle. - T\u00fcrkiye'nin yeni nesil i\u015fletme ve al\u0131\u015fveri\u015f platformu",
+    "website": "https://www.banatr.com/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.banatr.com/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "BANA, T\u00fcrkiye\u2019de al\u0131\u015fveri\u015ften yeme\u011fe, emlaktan araca, seyahatten hizmete kullan\u0131c\u0131larla i\u015fletmeleri bulu\u015fturan ihtiya\u00e7 platformudur.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "anonymous-listener-phi.vercel.app",
+    "company_name": "Anonymous Listener - A Safe Space to Be Heard.",
+    "website": "https://anonymous-listener-phi.vercel.app/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://anonymous-listener-phi.vercel.app/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://anonymous-listener-phi.vercel.app/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://anonymous-listener-phi.vercel.app/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Sometimes you don't need advice. You just need someone to listen.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "git-repo-agent.vercel.app",
+    "company_name": "Git Repository Agent - AI-powered GitHub repository analysis",
+    "website": "https://git-repo-agent.vercel.app/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://git-repo-agent.vercel.app/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://git-repo-agent.vercel.app/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://git-repo-agent.vercel.app/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "An agent that watches your GitHub repository, analyzes competitors and keeps telling you what to do next.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "snappycalc.com",
+    "company_name": "SnappyCalc - Free online web based tool regarding, Finance , Maths, etc",
+    "website": "https://www.snappycalc.com?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.snappycalc.com?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.snappycalc.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.snappycalc.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.snappycalc.com/contact",
+        "action": "/contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Use our free online financial calculators including SIP, EMI, FD, RD, PPF, Stock Market, and Government Scheme calculators. Plan and manage your investments smarter with accurate projections and insights.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "kit.sagarithm.in",
+    "company_name": "Sagarithm Kit - Universal Cross-Agent Governance for AI Coding Assistants",
+    "website": "https://kit.sagarithm.in?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://kit.sagarithm.in?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Engineering standards for AI coding agents. Delivering architectural governance, empirical verification gates, and living context graphs to Cursor, Antigravity, Claude Code, Copilot, and Windsurf.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "shiftcast.fr",
+    "company_name": "ShiftCast - Real-time stream delay for streamers. One click, no cuts.",
+    "website": "https://shiftcast.fr/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "contact@shiftcast.fr",
+        "confidence": "highest",
+        "source_url": "https://shiftcast.fr/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "i de stream, en temps r\u00e9el. Aide \u00e0 l'installation Support contact@shiftcast.fr Mentions l\u00e9gales CGV Twitch, YouTube, Kick, TikTok, OBS s"
+      }
+    ],
+    "role_emails": [
+      "contact@shiftcast.fr"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://shiftcast.fr/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shiftcast.fr/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://shiftcast.fr/support",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Ajoute ou retire du d\u00e9lai en plein live, sans couper ton stream. Twitch, YouTube, Kick, TikTok. OBS se branche tout seul, z\u00e9ro FPS perdu.",
+    "source_urls": [
+      "https://shiftcast.fr/?ref=producthunt",
+      "https://shiftcast.fr/support"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "getpixback.com",
+    "company_name": "PixBack - Photo & video backup to Google Photos. Mac & Windows",
+    "website": "https://getpixback.com?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "questions@getpixback.com",
+        "confidence": "medium",
+        "source_url": "https://getpixback.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "questions@getpixback.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://getpixback.com?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getpixback.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getpixback.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getpixback.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getpixback.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getpixback.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getpixback.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://getpixback.com?ref=producthunt",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://getpixback.com/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://getpixback.com/contact-us",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://getpixback.com/contactus",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://getpixback.com/about",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://getpixback.com/about-us",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://getpixback.com/team",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "PixBack automatically backs up photos and videos from your Mac or Windows computer to Google Photos in the background. Restores the desktop backup feature Google Drive discontinued in August 2026.",
+    "source_urls": [
+      "https://getpixback.com?ref=producthunt",
+      "https://getpixback.com/contact",
+      "https://getpixback.com/contact-us",
+      "https://getpixback.com/contactus",
+      "https://getpixback.com/about",
+      "https://getpixback.com/about-us",
+      "https://getpixback.com/team"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 7
+  }
+]
