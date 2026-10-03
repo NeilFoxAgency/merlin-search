@@ -1,0 +1,2171 @@
+[
+  {
+    "company_domain": "leaves.blurbee.io",
+    "company_name": "Leaves - Simple leave & PTO management inside Slack",
+    "website": "https://leaves.blurbee.io/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://leaves.blurbee.io/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://leaves.blurbee.io/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Leaves helps teams track PTO, vacations, sick leave, and employee availability directly inside Slack.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "commenti.in",
+    "company_name": "Commenti - Stay visible on LinkedIn while you build",
+    "website": "https://www.commenti.in/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hi@commenti.in",
+        "confidence": "medium",
+        "source_url": "https://www.commenti.in/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "hi@commenti.in"
+    ],
+    "email_candidates": [
+      {
+        "address": "a.project@commenti.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Apna Project",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.commenti.in/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "apna.project@commenti.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Apna Project",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.commenti.in/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "apna@commenti.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Apna Project",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.commenti.in/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "apna_project@commenti.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Apna Project",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.commenti.in/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "apnap@commenti.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Apna Project",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.commenti.in/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "d.yadav@commenti.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Deepak Yadav",
+        "person_title": "Founder",
+        "source_url": "https://www.commenti.in/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "deepak.yadav@commenti.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Deepak Yadav",
+        "person_title": "Founder",
+        "source_url": "https://www.commenti.in/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "deepak@commenti.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Deepak Yadav",
+        "person_title": "Founder",
+        "source_url": "https://www.commenti.in/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "deepak_yadav@commenti.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Deepak Yadav",
+        "person_title": "Founder",
+        "source_url": "https://www.commenti.in/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "deepaky@commenti.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Deepak Yadav",
+        "person_title": "Founder",
+        "source_url": "https://www.commenti.in/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "media@commenti.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Optivis Media",
+        "person_title": "Founder",
+        "source_url": "https://www.commenti.in/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "n.verma@commenti.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nivedita Verma",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.commenti.in/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "nivedita.verma@commenti.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nivedita Verma",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.commenti.in/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "nivedita@commenti.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nivedita Verma",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.commenti.in/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "nivedita_verma@commenti.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nivedita Verma",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.commenti.in/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "niveditav@commenti.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nivedita Verma",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.commenti.in/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "o.media@commenti.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Optivis Media",
+        "person_title": "Founder",
+        "source_url": "https://www.commenti.in/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "optivis.media@commenti.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Optivis Media",
+        "person_title": "Founder",
+        "source_url": "https://www.commenti.in/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "optivis@commenti.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Optivis Media",
+        "person_title": "Founder",
+        "source_url": "https://www.commenti.in/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "optivis_media@commenti.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Optivis Media",
+        "person_title": "Founder",
+        "source_url": "https://www.commenti.in/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "optivism@commenti.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Optivis Media",
+        "person_title": "Founder",
+        "source_url": "https://www.commenti.in/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "project@commenti.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Apna Project",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.commenti.in/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "verma@commenti.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Nivedita Verma",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.commenti.in/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "yadav@commenti.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Deepak Yadav",
+        "person_title": "Founder",
+        "source_url": "https://www.commenti.in/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.commenti.in/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Commenti helps you grow on LinkedIn by automating smart, relevant comments in your voice. Show up daily, boost visibility, and build authority without spending hours scrolling. Safe, authentic, and effortless.",
+    "source_urls": [
+      "https://www.commenti.in/?ref=producthunt"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 7
+  },
+  {
+    "company_domain": "mapdice.com",
+    "company_name": "MapDice - I replaced dice rolls with real map routing multiplayer",
+    "website": "https://mapdice.com/en?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://mapdice.com/en?ref=producthunt",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Free online board game: roll two dice and race your 4 characters along real streets to the finish. Choose your roads, overtake rivals, fire rockets and set traps. Play against robots or with friends.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "kestoai.vercel.app",
+    "company_name": "Kesto AI - Your AI social coach for real-life conversations",
+    "website": "https://kestoai.vercel.app?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://kestoai.vercel.app?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Kesto AI is an AI social coach that helps people confidently handle real-life conversations and provides context-aware conversation strategies for any situation.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "proteustech.in",
+    "company_name": "Vision ERP - AI-powered ERP for growing businesses",
+    "website": "https://www.proteustech.in/erp-software/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hr@proteustech.in",
+        "confidence": "high",
+        "source_url": "https://www.proteustech.in/erp-software/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "+91 9082548579 marketing@proteustech.in hr@proteustech.in Useful Links Home Products Blog"
+      },
+      {
+        "address": "marketing@proteustech.in",
+        "confidence": "high",
+        "source_url": "https://www.proteustech.in/erp-software/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ihar (W), Mumbai 400086, India. +91 9082548579 marketing@proteustech.in hr@proteustech.in Useful Links Hom"
+      }
+    ],
+    "role_emails": [
+      "hr@proteustech.in",
+      "marketing@proteustech.in"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.proteustech.in/erp-software/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.proteustech.in/vision-contact/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.proteustech.in/erp-software/",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.proteustech.in/vision-contact/",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Experience business management with our cloud based ERP solutions. Vision ERP is India's premier provider for your organization's success.",
+    "source_urls": [
+      "https://www.proteustech.in/erp-software/",
+      "https://www.proteustech.in/vision-contact/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "cuaderno-de-campo-digital.vercel.app",
+    "company_name": "Cuaderno de Campo Digital - Digital field logbook for pesticide applications in Chile",
+    "website": "https://cuaderno-de-campo-digital.vercel.app?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://cuaderno-de-campo-digital.vercel.app?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Registra cada aplicaci\u00f3n de agroqu\u00edmicos desde el celular, en terreno, y deja de pelear con planillas de Excel.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "vymotion.org",
+    "company_name": "Vymotion - Design a hyper-realistic AI influencer, UGC Ads, Ai human.",
+    "website": "https://vymotion.org/?ref=producthunt",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "challenge_page",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "shamaqar.net",
+    "company_name": "\u0634\u0627\u0645 \u0639\u0642\u0627\u0631 - Sham Aqar is Syria's dedicated real estate marketplace",
+    "website": "https://shamaqar.net/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://shamaqar.net/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shamaqar.net/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shamaqar.net/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://shamaqar.net/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "\u0634\u0627\u0645 \u0639\u0642\u0627\u0631: \u0645\u0646\u0635\u0629 \u0639\u0642\u0627\u0631\u064a\u0629 \u0633\u0648\u0631\u064a\u0629 \u0644\u0634\u0642\u0642 \u0648\u0641\u0644\u0644 \u0648\u0623\u0631\u0627\u0636\u064d \u0644\u0644\u0628\u064a\u0639 \u0648\u0627\u0644\u0625\u064a\u062c\u0627\u0631 \u0641\u064a \u062f\u0645\u0634\u0642 \u0648\u062d\u0644\u0628 \u0648\u0627\u0644\u0644\u0627\u0630\u0642\u064a\u0629 \u0648\u0643\u0644 \u0627\u0644\u0645\u062d\u0627\u0641\u0638\u0627\u062a \u0627\u0644\u0633\u0648\u0631\u064a\u0629. \u0623\u0633\u0639\u0627\u0631 \u0645\u062d\u062f\u064e\u0651\u062b\u0629 \u0648\u062a\u0648\u0627\u0635\u0644 \u0645\u0628\u0627\u0634\u0631 \u0645\u0639 \u0635\u0627\u062d\u0628 \u0627\u0644\u0639\u0642\u0627\u0631.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "pixmiller.com",
+    "company_name": "PixMiller - Remove backgrounds, erase objects & make ID photos with AI",
+    "website": "https://pixmiller.com?ref=producthunt",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "challenge_page",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "outify.vercel.app",
+    "company_name": "Outify - Know what you own. Find where it lives.",
+    "website": "https://outify.vercel.app/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://outify.vercel.app/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://outify.vercel.app/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://outify.vercel.app/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://outify.vercel.app/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://outify.vercel.app/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://outify.vercel.app/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://outify.vercel.app/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Organiza tus prendas y encuentra su lugar en tu armario visual y privado.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "proposalping.com",
+    "company_name": "ProposalPing - Real-time freelance job alerts with AI scoring",
+    "website": "https://www.proposalping.com/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.proposalping.com/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.proposalping.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.proposalping.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.proposalping.com/?ref=producthunt",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.proposalping.com/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.proposalping.com/about",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Get notified the moment a high-quality freelance job matches your skills. AI-powered analysis helps you apply first and win more contracts.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "peplocrm.com",
+    "company_name": "Peplo CRM - From Lead to Loyalty. All in One Place.",
+    "website": "https://peplocrm.com/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "a.dashboard@peplocrm.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Analytics Dashboard",
+        "person_title": "Owner",
+        "source_url": "https://peplocrm.com/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "a.sharma@peplocrm.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Arjun Sharma",
+        "person_title": "Ceo",
+        "source_url": "https://peplocrm.com/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "analytics.dashboard@peplocrm.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Analytics Dashboard",
+        "person_title": "Owner",
+        "source_url": "https://peplocrm.com/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "analytics@peplocrm.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Analytics Dashboard",
+        "person_title": "Owner",
+        "source_url": "https://peplocrm.com/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "analytics_dashboard@peplocrm.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Analytics Dashboard",
+        "person_title": "Owner",
+        "source_url": "https://peplocrm.com/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "analyticsd@peplocrm.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Analytics Dashboard",
+        "person_title": "Owner",
+        "source_url": "https://peplocrm.com/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "arjun.sharma@peplocrm.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Arjun Sharma",
+        "person_title": "Ceo",
+        "source_url": "https://peplocrm.com/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "arjun@peplocrm.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Arjun Sharma",
+        "person_title": "Ceo",
+        "source_url": "https://peplocrm.com/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "arjun_sharma@peplocrm.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Arjun Sharma",
+        "person_title": "Ceo",
+        "source_url": "https://peplocrm.com/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "arjuns@peplocrm.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Arjun Sharma",
+        "person_title": "Ceo",
+        "source_url": "https://peplocrm.com/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "dashboard@peplocrm.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Analytics Dashboard",
+        "person_title": "Owner",
+        "source_url": "https://peplocrm.com/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "iyer@peplocrm.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sneha Iyer",
+        "person_title": "Co-Founder",
+        "source_url": "https://peplocrm.com/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kumar@peplocrm.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Rajesh Kumar",
+        "person_title": "Founder",
+        "source_url": "https://peplocrm.com/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "r.kumar@peplocrm.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Rajesh Kumar",
+        "person_title": "Founder",
+        "source_url": "https://peplocrm.com/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "rajesh.kumar@peplocrm.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Rajesh Kumar",
+        "person_title": "Founder",
+        "source_url": "https://peplocrm.com/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "rajesh@peplocrm.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Rajesh Kumar",
+        "person_title": "Founder",
+        "source_url": "https://peplocrm.com/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "rajesh_kumar@peplocrm.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Rajesh Kumar",
+        "person_title": "Founder",
+        "source_url": "https://peplocrm.com/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "rajeshk@peplocrm.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Rajesh Kumar",
+        "person_title": "Founder",
+        "source_url": "https://peplocrm.com/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.iyer@peplocrm.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sneha Iyer",
+        "person_title": "Co-Founder",
+        "source_url": "https://peplocrm.com/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sharma@peplocrm.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Arjun Sharma",
+        "person_title": "Ceo",
+        "source_url": "https://peplocrm.com/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sneha.iyer@peplocrm.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sneha Iyer",
+        "person_title": "Co-Founder",
+        "source_url": "https://peplocrm.com/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sneha@peplocrm.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sneha Iyer",
+        "person_title": "Co-Founder",
+        "source_url": "https://peplocrm.com/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sneha_iyer@peplocrm.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sneha Iyer",
+        "person_title": "Co-Founder",
+        "source_url": "https://peplocrm.com/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "snehai@peplocrm.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sneha Iyer",
+        "person_title": "Co-Founder",
+        "source_url": "https://peplocrm.com/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://peplocrm.com/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Peplo CRM by Mindverge Software \u2014 the all-in-one Sales CRM for Indian businesses. Capture leads from Facebook, Instagram, WhatsApp, JustDial & IndiaMART, run a Kanban sales pipeline, send GST-ready quotations, auto-create customer records on Won deals, automate tasks & follow-ups, monitor your team ",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "pactsoft.ae",
+    "company_name": "Real Estate Management Software - Power Your Property Business with Smarter ERP Tools",
+    "website": "https://pactsoft.ae/real-estate-management-software-features-uae/?ref=producthunt",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "http_403",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "chainsnip.com",
+    "company_name": "ChainSnip - Accountant's Proof of the Wallet's Balance",
+    "website": "https://chainsnip.com?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@chainsnip.com",
+        "confidence": "highest",
+        "source_url": "https://chainsnip.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "egal Privacy Terms \u00a9 2026 ChainSnip. All rights reserved. hello@chainsnip.com"
+      }
+    ],
+    "role_emails": [
+      "hello@chainsnip.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://chainsnip.com?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Automatically capture and archive blockchain explorer pages with wallet balances at month-end. Timestamped, verifiable proof for crypto accountants, auditors, and financial professionals.",
+    "source_urls": [
+      "https://chainsnip.com?ref=producthunt"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 7
+  },
+  {
+    "company_domain": "pennyweight.ai",
+    "company_name": "Pennyweight - Keep your human happy. They hate bookkeeping.",
+    "website": "https://pennyweight.ai/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@pennyweight.ai",
+        "confidence": "highest",
+        "source_url": "https://pennyweight.ai/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ry message. Use the address that fits your inquiry. General hello@pennyweight.ai Security security@pennyweight.ai \u2014 vulnerability reports,"
+      },
+      {
+        "address": "privacy@pennyweight.ai",
+        "confidence": "highest",
+        "source_url": "https://pennyweight.ai/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ulnerability reports, acknowledged within 48 hours. Privacy privacy@pennyweight.ai \u2014 data access, export, or deletion requests. Mailing addr"
+      },
+      {
+        "address": "security@pennyweight.ai",
+        "confidence": "highest",
+        "source_url": "https://pennyweight.ai/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "at fits your inquiry. General hello@pennyweight.ai Security security@pennyweight.ai \u2014 vulnerability reports, acknowledged within 48 hours. Pr"
+      }
+    ],
+    "role_emails": [
+      "hello@pennyweight.ai",
+      "privacy@pennyweight.ai",
+      "security@pennyweight.ai"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://pennyweight.ai/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pennyweight.ai/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Pennyweight gives the AI you already use a memory that persists and your finances organized, categorized, and current \u2014 inside Claude, ChatGPT, Gemini, Grok, and any MCP client.",
+    "source_urls": [
+      "https://pennyweight.ai/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 7
+  },
+  {
+    "company_domain": "waivly.com",
+    "company_name": "Siena - Networking Done For You - Ask for connections, Siena will get straight to finding them",
+    "website": "https://waivly.com/siena?ref=producthunt",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "tls_error",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "ut2mp3.com",
+    "company_name": "Ut2MP3 - Free audio converter. No signup, no watermark, no ads.",
+    "website": "https://ut2mp3.com/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://ut2mp3.com/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ut2mp3.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ut2mp3.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ut2mp3.com/about/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ut2mp3.com/contact/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://ut2mp3.com/contact",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://ut2mp3.com/contact/",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Instantly convert your audio files between popular formats \u2014 free, private, and no signup required. New converters added regularly",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "twittertools.com",
+    "company_name": "TwitterTools - Free tools for X (Twitter)",
+    "website": "https://twittertools.com/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@twittertools.com",
+        "confidence": "high",
+        "source_url": "https://twittertools.com/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "hello@twittertools.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://twittertools.com/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Free tools for X (Twitter): video & image downloader, thread reader, screenshot generator, bookmark manager, character counter, tweet splitter, font generator and an advanced search builder. 100% free, no sign-up, works in your browser.",
+    "source_urls": [
+      "https://twittertools.com/?ref=producthunt"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 7
+  },
+  {
+    "company_domain": "vellumhub.app",
+    "company_name": "Vellum- a client hub - The client portal overlay",
+    "website": "https://vellumhub.app?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@vellumhub.app",
+        "confidence": "highest",
+        "source_url": "https://vellumhub.app/legal#about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "paddle.net with your order details, or contact us at info@vellumhub.app and we will help you through the process. Subscriptions c"
+      }
+    ],
+    "role_emails": [
+      "info@vellumhub.app"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://vellumhub.app?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vellumhub.app/legal#about",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://vellumhub.app/legal#contact",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://vellumhub.app/legal#about",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://vellumhub.app/legal#contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Vellum brings Drive, Slack, WhatsApp and Stripe links into one client hub, with an invoice and document workspace. External files stay with their providers.",
+    "source_urls": [
+      "https://vellumhub.app/legal#about",
+      "https://vellumhub.app/legal#contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "ghostreply.agency",
+    "company_name": "GhostReply Agency - Your personal reply guy on X, from $29 a month",
+    "website": "https://ghostreply.agency?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@ghostreply.agency",
+        "confidence": "highest",
+        "source_url": "https://ghostreply.agency?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "legram \u2014 and we answer within the hour. Get in touch Email hello@ghostreply.agency Phone +995 568 31 45 70 WhatsApp Telegram Service How it wo"
+      }
+    ],
+    "role_emails": [
+      "hello@ghostreply.agency"
+    ],
+    "email_candidates": [
+      {
+        "address": "a.gasparian@ghostreply.agency",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Artem Gasparian",
+        "person_title": "Founder",
+        "source_url": "https://ghostreply.agency?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "artem.gasparian@ghostreply.agency",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Artem Gasparian",
+        "person_title": "Founder",
+        "source_url": "https://ghostreply.agency?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "artem@ghostreply.agency",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Artem Gasparian",
+        "person_title": "Founder",
+        "source_url": "https://ghostreply.agency?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "artem_gasparian@ghostreply.agency",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Artem Gasparian",
+        "person_title": "Founder",
+        "source_url": "https://ghostreply.agency?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "artemg@ghostreply.agency",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Artem Gasparian",
+        "person_title": "Founder",
+        "source_url": "https://ghostreply.agency?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "gasparian@ghostreply.agency",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Artem Gasparian",
+        "person_title": "Founder",
+        "source_url": "https://ghostreply.agency?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://ghostreply.agency?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ghostreply.agency/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Grow on X without opening X. Daily replies from your X (Twitter) account, in your voice, under the posts your market already reads. You pick the volume. We do the work.",
+    "source_urls": [
+      "https://ghostreply.agency?ref=producthunt",
+      "https://ghostreply.agency/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 7
+  },
+  {
+    "company_domain": "expio-app.com",
+    "company_name": "Expio - Snap receipts, send your accountant one tax-ready ZIP",
+    "website": "https://expio-app.com?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://expio-app.com?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://expio-app.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://expio-app.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://expio-app.com/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Scan receipts with AI, import bank statements, track expenses in 16 currencies, set budgets and export PDF or Excel reports. Free on iOS and Android.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "matteok0711.github.io",
+    "company_name": "AuthForge Aurora - Modern Authentication UI Templates",
+    "website": "https://matteok0711.github.io/authforge-aurora/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://matteok0711.github.io/authforge-aurora/?ref=producthunt",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "AuthForge Aurora is a modern authentication UI kit built with pure HTML, CSS and JavaScript.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "notlogs.site",
+    "company_name": "notlogs \u2014 Telemetry with Tactile Swagger - Turn your application logs into something you actually want",
+    "website": "https://notlogs.site?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "a.kozlov@notlogs.site",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Alex Kozlov",
+        "person_title": "Founder",
+        "source_url": "https://notlogs.site?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "alex.kozlov@notlogs.site",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Alex Kozlov",
+        "person_title": "Founder",
+        "source_url": "https://notlogs.site?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "alex@notlogs.site",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Alex Kozlov",
+        "person_title": "Founder",
+        "source_url": "https://notlogs.site?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "alex_kozlov@notlogs.site",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Alex Kozlov",
+        "person_title": "Founder",
+        "source_url": "https://notlogs.site?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "alexk@notlogs.site",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Alex Kozlov",
+        "person_title": "Founder",
+        "source_url": "https://notlogs.site?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kozlov@notlogs.site",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Alex Kozlov",
+        "person_title": "Founder",
+        "source_url": "https://notlogs.site?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://notlogs.site?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Any engineer can debug their stack in under a minute. Just pipe what you know, see what clicks, and fix bugs fast.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "jobhoundhq.com",
+    "company_name": "JobHound - Direct ATS Jobs & 1-Click Universal Application Autofill",
+    "website": "https://www.jobhoundhq.com/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "a.direct@jobhoundhq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Apply Direct",
+        "person_title": "Business Development",
+        "source_url": "https://www.jobhoundhq.com/jobs/locations/remote",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "a.vice@jobhoundhq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Assistant Vice",
+        "person_title": "President",
+        "source_url": "https://www.jobhoundhq.com/jobs/locations/new-york",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "advisory@jobhoundhq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Strategic Advisory",
+        "person_title": "President",
+        "source_url": "https://www.jobhoundhq.com/jobs/locations/new-york",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "apply.direct@jobhoundhq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Apply Direct",
+        "person_title": "Business Development",
+        "source_url": "https://www.jobhoundhq.com/jobs/locations/remote",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "apply@jobhoundhq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Apply Direct",
+        "person_title": "Business Development",
+        "source_url": "https://www.jobhoundhq.com/jobs/locations/remote",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "apply_direct@jobhoundhq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Apply Direct",
+        "person_title": "Business Development",
+        "source_url": "https://www.jobhoundhq.com/jobs/locations/remote",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "applyd@jobhoundhq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Apply Direct",
+        "person_title": "Business Development",
+        "source_url": "https://www.jobhoundhq.com/jobs/locations/remote",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "assistant.vice@jobhoundhq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Assistant Vice",
+        "person_title": "President",
+        "source_url": "https://www.jobhoundhq.com/jobs/locations/new-york",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "assistant@jobhoundhq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Assistant Vice",
+        "person_title": "President",
+        "source_url": "https://www.jobhoundhq.com/jobs/locations/new-york",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "assistant_vice@jobhoundhq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Assistant Vice",
+        "person_title": "President",
+        "source_url": "https://www.jobhoundhq.com/jobs/locations/new-york",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "assistantv@jobhoundhq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Assistant Vice",
+        "person_title": "President",
+        "source_url": "https://www.jobhoundhq.com/jobs/locations/new-york",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "data@jobhoundhq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Senior Data",
+        "person_title": "President",
+        "source_url": "https://www.jobhoundhq.com/jobs/locations/new-york",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "direct@jobhoundhq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Apply Direct",
+        "person_title": "Business Development",
+        "source_url": "https://www.jobhoundhq.com/jobs/locations/remote",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "financials@jobhoundhq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Workday Financials",
+        "person_title": "President",
+        "source_url": "https://www.jobhoundhq.com/jobs/locations/new-york",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "h.resources@jobhoundhq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Human Resources",
+        "person_title": "President",
+        "source_url": "https://www.jobhoundhq.com/jobs/locations/new-york",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "human.resources@jobhoundhq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Human Resources",
+        "person_title": "President",
+        "source_url": "https://www.jobhoundhq.com/jobs/locations/new-york",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "human@jobhoundhq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Human Resources",
+        "person_title": "President",
+        "source_url": "https://www.jobhoundhq.com/jobs/locations/new-york",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "human_resources@jobhoundhq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Human Resources",
+        "person_title": "President",
+        "source_url": "https://www.jobhoundhq.com/jobs/locations/new-york",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "humanr@jobhoundhq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Human Resources",
+        "person_title": "President",
+        "source_url": "https://www.jobhoundhq.com/jobs/locations/new-york",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "management@jobhoundhq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Vulnerability Management",
+        "person_title": "President",
+        "source_url": "https://www.jobhoundhq.com/jobs/locations/new-york",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "p.product@jobhoundhq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Principal Technical Product",
+        "person_title": "Marketing Manager",
+        "source_url": "https://www.jobhoundhq.com/jobs/roles/product-management",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "principal.product@jobhoundhq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Principal Technical Product",
+        "person_title": "Marketing Manager",
+        "source_url": "https://www.jobhoundhq.com/jobs/roles/product-management",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "principal@jobhoundhq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Principal Technical Product",
+        "person_title": "Marketing Manager",
+        "source_url": "https://www.jobhoundhq.com/jobs/roles/product-management",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "principal_product@jobhoundhq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Principal Technical Product",
+        "person_title": "Marketing Manager",
+        "source_url": "https://www.jobhoundhq.com/jobs/roles/product-management",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "principalp@jobhoundhq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Principal Technical Product",
+        "person_title": "Marketing Manager",
+        "source_url": "https://www.jobhoundhq.com/jobs/roles/product-management",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "product@jobhoundhq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Principal Technical Product",
+        "person_title": "Marketing Manager",
+        "source_url": "https://www.jobhoundhq.com/jobs/roles/product-management",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "resources@jobhoundhq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Human Resources",
+        "person_title": "President",
+        "source_url": "https://www.jobhoundhq.com/jobs/locations/new-york",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "risk@jobhoundhq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Vendor Risk",
+        "person_title": "President",
+        "source_url": "https://www.jobhoundhq.com/jobs/locations/new-york",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.advisory@jobhoundhq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Strategic Advisory",
+        "person_title": "President",
+        "source_url": "https://www.jobhoundhq.com/jobs/locations/new-york",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.data@jobhoundhq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Senior Data",
+        "person_title": "President",
+        "source_url": "https://www.jobhoundhq.com/jobs/locations/new-york",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.vice@jobhoundhq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Senior Vice",
+        "person_title": "President",
+        "source_url": "https://www.jobhoundhq.com/jobs/locations/new-york",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "senior.data@jobhoundhq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Senior Data",
+        "person_title": "President",
+        "source_url": "https://www.jobhoundhq.com/jobs/locations/new-york",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "senior.vice@jobhoundhq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Senior Vice",
+        "person_title": "President",
+        "source_url": "https://www.jobhoundhq.com/jobs/locations/new-york",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "senior@jobhoundhq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Senior Data",
+        "person_title": "President",
+        "source_url": "https://www.jobhoundhq.com/jobs/locations/new-york",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "senior_data@jobhoundhq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Senior Data",
+        "person_title": "President",
+        "source_url": "https://www.jobhoundhq.com/jobs/locations/new-york",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "senior_vice@jobhoundhq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Senior Vice",
+        "person_title": "President",
+        "source_url": "https://www.jobhoundhq.com/jobs/locations/new-york",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "seniord@jobhoundhq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Senior Data",
+        "person_title": "President",
+        "source_url": "https://www.jobhoundhq.com/jobs/locations/new-york",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "seniorv@jobhoundhq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Senior Vice",
+        "person_title": "President",
+        "source_url": "https://www.jobhoundhq.com/jobs/locations/new-york",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "strategic.advisory@jobhoundhq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Strategic Advisory",
+        "person_title": "President",
+        "source_url": "https://www.jobhoundhq.com/jobs/locations/new-york",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "strategic@jobhoundhq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Strategic Advisory",
+        "person_title": "President",
+        "source_url": "https://www.jobhoundhq.com/jobs/locations/new-york",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "strategic_advisory@jobhoundhq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Strategic Advisory",
+        "person_title": "President",
+        "source_url": "https://www.jobhoundhq.com/jobs/locations/new-york",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "strategica@jobhoundhq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Strategic Advisory",
+        "person_title": "President",
+        "source_url": "https://www.jobhoundhq.com/jobs/locations/new-york",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "v.management@jobhoundhq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Vulnerability Management",
+        "person_title": "President",
+        "source_url": "https://www.jobhoundhq.com/jobs/locations/new-york",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "v.risk@jobhoundhq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Vendor Risk",
+        "person_title": "President",
+        "source_url": "https://www.jobhoundhq.com/jobs/locations/new-york",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "vendor.risk@jobhoundhq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Vendor Risk",
+        "person_title": "President",
+        "source_url": "https://www.jobhoundhq.com/jobs/locations/new-york",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "vendor@jobhoundhq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Vendor Risk",
+        "person_title": "President",
+        "source_url": "https://www.jobhoundhq.com/jobs/locations/new-york",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "vendor_risk@jobhoundhq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Vendor Risk",
+        "person_title": "President",
+        "source_url": "https://www.jobhoundhq.com/jobs/locations/new-york",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "vendorr@jobhoundhq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Vendor Risk",
+        "person_title": "President",
+        "source_url": "https://www.jobhoundhq.com/jobs/locations/new-york",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "vice@jobhoundhq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Assistant Vice",
+        "person_title": "President",
+        "source_url": "https://www.jobhoundhq.com/jobs/locations/new-york",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "vulnerability.management@jobhoundhq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Vulnerability Management",
+        "person_title": "President",
+        "source_url": "https://www.jobhoundhq.com/jobs/locations/new-york",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "vulnerability@jobhoundhq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Vulnerability Management",
+        "person_title": "President",
+        "source_url": "https://www.jobhoundhq.com/jobs/locations/new-york",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "vulnerability_management@jobhoundhq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Vulnerability Management",
+        "person_title": "President",
+        "source_url": "https://www.jobhoundhq.com/jobs/locations/new-york",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "vulnerabilitym@jobhoundhq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Vulnerability Management",
+        "person_title": "President",
+        "source_url": "https://www.jobhoundhq.com/jobs/locations/new-york",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "w.financials@jobhoundhq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Workday Financials",
+        "person_title": "President",
+        "source_url": "https://www.jobhoundhq.com/jobs/locations/new-york",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "workday.financials@jobhoundhq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Workday Financials",
+        "person_title": "President",
+        "source_url": "https://www.jobhoundhq.com/jobs/locations/new-york",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "workday@jobhoundhq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Workday Financials",
+        "person_title": "President",
+        "source_url": "https://www.jobhoundhq.com/jobs/locations/new-york",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "workday_financials@jobhoundhq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Workday Financials",
+        "person_title": "President",
+        "source_url": "https://www.jobhoundhq.com/jobs/locations/new-york",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "workdayf@jobhoundhq.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Workday Financials",
+        "person_title": "President",
+        "source_url": "https://www.jobhoundhq.com/jobs/locations/new-york",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.jobhoundhq.com/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.jobhoundhq.com/jobs/roles/product-management",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.jobhoundhq.com/jobs/locations/remote",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.jobhoundhq.com/jobs/locations/san-francisco",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.jobhoundhq.com/jobs/locations/new-york",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.jobhoundhq.com/jobs/locations/seattle",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.jobhoundhq.com/jobs/locations/austin",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.jobhoundhq.com/jobs/locations/london",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Bypass LinkedIn and Indeed spam. Access verified direct requisitions directly from Greenhouse, Lever, Ashby, Workday, and SmartRecruiters with AI-tailored resumes and a visual application tracker.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 16
+  },
+  {
+    "company_domain": "eitaa.com",
+    "company_name": "Eitaa - \u06a9\u0627\u0646\u0627\u0644 \u0627\u0632\u062f\u0648\u0627\u062c",
+    "website": "https://eitaa.com/ezdevajmasirsabz?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_content_mismatch",
+    "pages_fetched": 1
+  }
+]
