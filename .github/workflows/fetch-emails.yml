@@ -12,7 +12,8 @@ on:
 jobs:
   fetch:
     runs-on: ubuntu-latest
-    timeout-minutes: 60
+    # Leave 30 minutes before the dispatcher's 2-hour cadence to avoid overlapping batches.
+    timeout-minutes: 90
     permissions:
       contents: write
     steps:
