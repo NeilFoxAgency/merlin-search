@@ -1,0 +1,1258 @@
+[
+  {
+    "company_domain": "goldapps.de",
+    "company_name": "Endlich Nichtraucher - Track smoke-free time, savings and everyday triggers",
+    "website": "https://www.goldapps.de/apps/endlich-nichtraucher/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.goldapps.de/apps/endlich-nichtraucher/?ref=producthunt",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Rauchfreie Zeit, gespartes Geld und dein pers\u00f6nliches Tagebuch in einer App. Jetzt f\u00fcr iPhone entdecken.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "puzzlerplaza.com",
+    "company_name": "Puzzler Plaza - Find your next favorite online puzzle.",
+    "website": "https://puzzlerplaza.com/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "contact@puzzlerplaza.com",
+        "confidence": "highest",
+        "source_url": "https://puzzlerplaza.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "maker submissions or account and payment questions, email contact@puzzlerplaza.com . For a correction, include the game\u2019s page and what change"
+      }
+    ],
+    "role_emails": [
+      "contact@puzzlerplaza.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://puzzlerplaza.com/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://puzzlerplaza.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://puzzlerplaza.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Learn how daily word, music, geography and logic puzzle games work in a minute. Each PuzzlerPlaza guide is checked against the game's own rules, then links you to the official site to play.",
+    "source_urls": [
+      "https://puzzlerplaza.com/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 7
+  },
+  {
+    "company_domain": "melodic-studio.melodic-mind.com",
+    "company_name": "Melodic Studio - Make full tracks with instruments, audio, and automation",
+    "website": "https://melodic-studio.melodic-mind.com?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://melodic-studio.melodic-mind.com?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Compose and arrange music in a full-featured online melodic studio.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "kitchenpro.ae",
+    "company_name": "Hood maintenance and cleaning - Kitchen hood cleaning in Dubai",
+    "website": "https://kitchenpro.ae/kitchen-hood-installation/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@kitchenpro.ae",
+        "confidence": "highest",
+        "source_url": "https://kitchenpro.ae/kitchen-hood-installation/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "hello@kitchenpro.ae"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://kitchenpro.ae/kitchen-hood-installation/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kitchenpro.ae/kitchen-hood-installation/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kitchenpro.ae/kitchen-hood-installation/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://kitchenpro.ae/contact-us/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://kitchenpro.ae/kitchen-hood-installation/",
+        "action": "/kitchen-hood-installation/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://kitchenpro.ae/kitchen-hood-installation/contact",
+        "action": "/contact-us/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://kitchenpro.ae/kitchen-hood-installation/contact-us",
+        "action": "/contact-us/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://kitchenpro.ae/contact-us/",
+        "action": "/contact-us/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Maximize your restaurant kitchen efficiency with our expert kitchen exhaust , kitchen exhaust fan & range hood installation services at Kitchenpro, one of the most renowned for quality kitchen hood installation services in Dubai. Contact Us Today.",
+    "source_urls": [
+      "https://kitchenpro.ae/kitchen-hood-installation/contact",
+      "https://kitchenpro.ae/kitchen-hood-installation/contact-us",
+      "https://kitchenpro.ae/contact-us/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "xcessorieshub.com",
+    "company_name": "itel BoxParty IBS-80 Portable Thunder - itel BoxParty IBS-80 Portable Thunder Speaker",
+    "website": "https://xcessorieshub.com/product/itel-boxparty-ibs-80-portable-thunder-speaker/?ref=producthunt",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "http_403",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "cinemeet.app",
+    "company_name": "Cinemeet - Connect through cinema",
+    "website": "https://www.cinemeet.app?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@cinemeet.app",
+        "confidence": "high",
+        "source_url": "https://www.cinemeet.app?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@cinemeet.app"
+    ],
+    "email_candidates": [
+      {
+        "address": "gashi@cinemeet.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sylber Gashi",
+        "person_title": "Founder",
+        "source_url": "https://www.cinemeet.app?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.gashi@cinemeet.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sylber Gashi",
+        "person_title": "Founder",
+        "source_url": "https://www.cinemeet.app?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sylber.gashi@cinemeet.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sylber Gashi",
+        "person_title": "Founder",
+        "source_url": "https://www.cinemeet.app?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sylber@cinemeet.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sylber Gashi",
+        "person_title": "Founder",
+        "source_url": "https://www.cinemeet.app?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sylber_gashi@cinemeet.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sylber Gashi",
+        "person_title": "Founder",
+        "source_url": "https://www.cinemeet.app?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sylberg@cinemeet.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sylber Gashi",
+        "person_title": "Founder",
+        "source_url": "https://www.cinemeet.app?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.cinemeet.app?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.cinemeet.app/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.cinemeet.app/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.cinemeet.app/meet-new-people",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.cinemeet.app/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Meet people who share your taste in movies, discover local cinema screenings, and go to the movies together. Connect through cinema with Cinemeet. Free on iOS & Android.",
+    "source_urls": [
+      "https://www.cinemeet.app?ref=producthunt",
+      "https://www.cinemeet.app/contact",
+      "https://www.cinemeet.app/about",
+      "https://www.cinemeet.app/meet-new-people"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "rendervis.com",
+    "company_name": "Rendervis - Turn 3D models into sales experiences",
+    "website": "https://rendervis.com?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "emanuel@rendervis.com",
+        "confidence": "highest",
+        "source_url": "https://rendervis.com/legal/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "2, 4040 Linz, \u00d6sterreich Tel.: +43 677 62856603 Email: emanuel@rendervis.com Service Rendervis ( rendervis.com ) Alle Texte sind urheber"
+      }
+    ],
+    "role_emails": [
+      "emanuel@rendervis.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://rendervis.com?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rendervis.com/legal/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Turn architectural models or plans into AI visuals and interactive walkthroughs.",
+    "source_urls": [
+      "https://rendervis.com/legal/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "wabi.ai",
+    "company_name": "Wabi - A new kind of messenger that gets things done",
+    "website": "https://wabi.ai/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://wabi.ai/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "A new kind of messenger that gets things done.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "aiusagetracker.dev",
+    "company_name": "AI Usage Tracker - Claude, Codex, and Cursor usage limits in your Mac notch",
+    "website": "https://aiusagetracker.dev?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "tom@aiusagetracker.dev",
+        "confidence": "highest",
+        "source_url": "https://aiusagetracker.dev/support",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "n after the payment completes. If you lose the link, email tom@aiusagetracker.dev from your purchase email address and include your receipt"
+      }
+    ],
+    "role_emails": [
+      "tom@aiusagetracker.dev"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://aiusagetracker.dev?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aiusagetracker.dev/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "AI Usage Tracker for Mac keeps Claude, Codex, and Cursor usage limits, reset times, and agent activity visible in a small desktop notch.",
+    "source_urls": [
+      "https://aiusagetracker.dev/support"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "wallet-kit-pro--amazon129810.replit.app",
+    "company_name": "Cryptography Wallet Tool - https://wallet-kit-pro--amazon129810.replit.app/",
+    "website": "https://wallet-kit-pro--amazon129810.replit.app/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://wallet-kit-pro--amazon129810.replit.app/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://wallet-kit-pro--amazon129810.replit.app/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://wallet-kit-pro--amazon129810.replit.app/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://wallet-kit-pro--amazon129810.replit.app/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://wallet-kit-pro--amazon129810.replit.app/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://wallet-kit-pro--amazon129810.replit.app/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://wallet-kit-pro--amazon129810.replit.app/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Wallet Auth \u2014 built on Replit. Update this description to reflect the app.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "aevora-1jkd.onrender.com",
+    "company_name": "Aevora - An AI customer agent that tests your app like a real user",
+    "website": "https://aevora-1jkd.onrender.com?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://aevora-1jkd.onrender.com?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Paste your app's URL. Aevora's AI customer explores it like a first-time visitor and shows you what's broken, confusing or inconsistent, with screenshots and steps to reproduce. Private beta for solo builders and indie devs.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "kidspark.info",
+    "company_name": "Star Hopper \u2014 Math Adventures for Kids - Adaptive math adventures kids actually ask to play",
+    "website": "https://kidspark.info/star-hopper-math-adventures",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://kidspark.info/star-hopper-math-adventures",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Choose a Star Hopper math adventure by grade: Pre-K, K, 1st, 2nd, 3rd, 4th, and 5th. Every grade includes 20 turns with 10 free turns.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "red-zone-vancouver.pages.dev",
+    "company_name": "RedZone Vancouver - Know a neighbourhood's safety before you buy the home",
+    "website": "https://red-zone-vancouver.pages.dev/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://red-zone-vancouver.pages.dev/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://red-zone-vancouver.pages.dev/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://red-zone-vancouver.pages.dev/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://red-zone-vancouver.pages.dev/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://red-zone-vancouver.pages.dev/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://red-zone-vancouver.pages.dev/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://red-zone-vancouver.pages.dev/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Free Vancouver crime map in 3D. Search any address and see nearby SROs, supervised consumption sites, and VPD crime stats. Find the safest neighbourhoods in Vancouver before you buy or rent.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "neon-helix-drop-1.vercel.app",
+    "company_name": "Neon Helix Drop",
+    "website": "https://neon-helix-drop-1.vercel.app/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://neon-helix-drop-1.vercel.app/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Futuristic 2026 cyber-glassmorphism endless mobile-first helix drop game with dynamic platforms, revive ads, achievements, and bilingual support.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "gettexpass.com",
+    "company_name": "TexPass - Digital product passport for textiles",
+    "website": "https://gettexpass.com?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@gettexpass.com",
+        "confidence": "highest",
+        "source_url": "https://gettexpass.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "l in. Leave this empty Send message Reach us directly Email hello@gettexpass.com Offices Tiruppur and Bangalore, India We use your details o"
+      }
+    ],
+    "role_emails": [
+      "hello@gettexpass.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://gettexpass.com?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://gettexpass.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://gettexpass.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://gettexpass.com/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Free product passports for garments, fabrics and home textiles. Verify certificates and suppliers per check, order lab testing. No subscription.",
+    "source_urls": [
+      "https://gettexpass.com/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 7
+  },
+  {
+    "company_domain": "lobbyhotelai.com",
+    "company_name": "Hotel Lobby AI - Turn two photos into your own Hotel Lobby rap duo",
+    "website": "https://lobbyhotelai.com?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@lobbyhotelai.com",
+        "confidence": "highest",
+        "source_url": "https://lobbyhotelai.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "support@lobbyhotelai.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://lobbyhotelai.com?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Turn two photos into a Hotel Lobby AI rap duo in the orange studio. No prompts needed. Get a 15-second MP4 with original sound in SD or HD, with one-time video packs from $3.99.",
+    "source_urls": [
+      "https://lobbyhotelai.com?ref=producthunt"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 7
+  },
+  {
+    "company_domain": "superquest.ai",
+    "company_name": "SuperQuest - Your website. Activated.",
+    "website": "https://superquest.ai/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "conceptsmonica@superquest.ai",
+        "confidence": "high",
+        "source_url": "https://superquest.ai/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "developmentjuha@superquest.ai",
+        "confidence": "high",
+        "source_url": "https://superquest.ai/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "juha@superquest.ai",
+        "confidence": "high",
+        "source_url": "https://superquest.ai/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "cepts monica@superquest.ai J ava Technology & development juha@superquest.ai More expertise when you need it. Need extra help? Our t"
+      },
+      {
+        "address": "monica@superquest.ai",
+        "confidence": "high",
+        "source_url": "https://superquest.ai/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Get in touch. Monica Sales, collaborations & concepts monica@superquest.ai J ava Technology & development juha@superquest.ai More"
+      }
+    ],
+    "role_emails": [
+      "conceptsmonica@superquest.ai",
+      "developmentjuha@superquest.ai",
+      "juha@superquest.ai",
+      "monica@superquest.ai"
+    ],
+    "email_candidates": [
+      {
+        "address": "j.javanainen@superquest.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Juha Javanainen",
+        "person_title": "Founder",
+        "source_url": "https://superquest.ai/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "javanainen@superquest.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Juha Javanainen",
+        "person_title": "Founder",
+        "source_url": "https://superquest.ai/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "juha.javanainen@superquest.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Juha Javanainen",
+        "person_title": "Founder",
+        "source_url": "https://superquest.ai/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "juha@superquest.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Juha Javanainen",
+        "person_title": "Founder",
+        "source_url": "https://superquest.ai/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "juha_javanainen@superquest.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Juha Javanainen",
+        "person_title": "Founder",
+        "source_url": "https://superquest.ai/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "juhaj@superquest.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Juha Javanainen",
+        "person_title": "Founder",
+        "source_url": "https://superquest.ai/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://superquest.ai/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://superquest.ai/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://superquest.ai/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://superquest.ai/contact/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://superquest.ai/about-superquest/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Turn passive website visitors into active participants. Create interactive experiences that generate leads, guide customers, collect insights and more.",
+    "source_urls": [
+      "https://superquest.ai/contact",
+      "https://superquest.ai/contact/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "prism-llm-proxy.vercel.app",
+    "company_name": "Prism - One local gateway for every AI coding agent and LLM",
+    "website": "https://prism-llm-proxy.vercel.app/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://prism-llm-proxy.vercel.app/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Prism is an LLM proxy that connects any AI coding agent to any provider, translating Anthropic, OpenAI and Ollama APIs with an MCP gateway and free web search.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "nearmyhouse.co.uk",
+    "company_name": "Know what is changing around your home - Free tool that shows planning applications around your house",
+    "website": "https://nearmyhouse.co.uk?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://nearmyhouse.co.uk?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Explore nearby planning applications by postcode in England, with plain-English AI-assisted summaries. Results depend on available council data; check official records.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "realtimetyping.com",
+    "company_name": "RealTimeTyping - A competitive, gamified typing platform with 1v1 racing.",
+    "website": "https://www.realtimetyping.com/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@realtimetyping.com",
+        "confidence": "highest",
+        "source_url": "https://www.realtimetyping.com/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "\u00a9 2026 RealTimeTyping.com. All rights reserved. Contact Us info@realtimetyping.com Classic Test Neon Racer Fast Fire Twordle Balloon Pop"
+      }
+    ],
+    "role_emails": [
+      "info@realtimetyping.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.realtimetyping.com/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.realtimetyping.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.realtimetyping.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.realtimetyping.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.realtimetyping.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.realtimetyping.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.realtimetyping.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Our Classic Typing Test is designed to measure your raw typing speed and accuracy under standardized conditions. Whether you are aiming to break into the 100 WPM Club or just building fundamental muscle memory, consistent practice on this layout will physically rewire how your hands interact with th",
+    "source_urls": [
+      "https://www.realtimetyping.com/?ref=producthunt",
+      "https://www.realtimetyping.com/contact",
+      "https://www.realtimetyping.com/contact-us",
+      "https://www.realtimetyping.com/contactus",
+      "https://www.realtimetyping.com/about",
+      "https://www.realtimetyping.com/about-us",
+      "https://www.realtimetyping.com/team"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 7
+  },
+  {
+    "company_domain": "vartalang.in",
+    "company_name": "VartaLang - India's Language Bridge",
+    "website": "https://www.vartalang.in/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.vartalang.in/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.vartalang.in/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Learn languages by connecting with real people across India",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "everframe.dev",
+    "company_name": "Everframe - In-app bug reports with the context developers actually need",
+    "website": "https://everframe.dev?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@everframe.dev",
+        "confidence": "high",
+        "source_url": "https://everframe.dev?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "support@everframe.dev"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://everframe.dev?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://everframe.dev/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://everframe.dev/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://everframe.dev/about/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://everframe.dev/contact/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "In-app bug reporting for phone, web and TV apps. One signed report with the screenshot, session replay, console, network and device attached.",
+    "source_urls": [
+      "https://everframe.dev?ref=producthunt",
+      "https://everframe.dev/contact",
+      "https://everframe.dev/about",
+      "https://everframe.dev/about/",
+      "https://everframe.dev/contact/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "openink-studio.com",
+    "company_name": "OpenInk Studio - Tattoo booking software with deposits",
+    "website": "https://openink-studio.com/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@openink-studio.com",
+        "confidence": "highest",
+        "source_url": "https://openink-studio.com/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ked before you ask. If your question isn't here, email us. hello@openink-studio.com 01 Whose account do deposits go to? + Your own Stripe accou"
+      },
+      {
+        "address": "support@openink-studio.com",
+        "confidence": "high",
+        "source_url": "https://openink-studio.com/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "hello@openink-studio.com",
+      "support@openink-studio.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://openink-studio.com/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Booking software for tattoo artists and studios: inquiry forms, deposits paid into your own Stripe account, a calendar and automatic reminders. Join early access.",
+    "source_urls": [
+      "https://openink-studio.com/?ref=producthunt"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 7
+  },
+  {
+    "company_domain": "historyquest.space",
+    "company_name": "HistoryQuest - Guess the cities behind history\u2019s stories",
+    "website": "https://historyquest.space/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://historyquest.space/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://historyquest.space/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://historyquest.space/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://historyquest.space/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Guess the cities behind famous people, inventions, food, music and historical events. Play five random clues on an interactive globe. Free, with no subscription.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "easyprompter.com",
+    "company_name": "EasyPrompter - Easy for your first script. Powerful enough for a studio.",
+    "website": "https://easyprompter.com/?utm_source=producthunt&utm_medium=launch&utm_campaign=ep4_launch",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@easyprompter.com",
+        "confidence": "high",
+        "source_url": "https://easyprompter.com/app/support",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "support@easyprompter.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://easyprompter.com/?utm_source=producthunt&utm_medium=launch&utm_campaign=ep4_launch",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://easyprompter.com/app/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Prompt in any browser with no downloads. Start free, then add phone remote control, multi-screen viewer displays, and offline script editing as you grow.",
+    "source_urls": [
+      "https://easyprompter.com/app/support"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  }
+]
