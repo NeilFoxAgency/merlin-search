@@ -1,0 +1,1461 @@
+[
+  {
+    "company_domain": "usekempt.com",
+    "company_name": "Kempt: Home Maintenance - Home maintenance, on autopilot",
+    "website": "https://usekempt.com?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@usekempt.com",
+        "confidence": "highest",
+        "source_url": "https://usekempt.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "estate agents Support Privacy Terms hello@usekempt.com \u00a9 2026 Kempt. Made by people who've changed a"
+      },
+      {
+        "address": "support@usekempt.com",
+        "confidence": "highest",
+        "source_url": "https://usekempt.com/support",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "person reads every support email. Contact us support@usekempt.com If you have any trouble accessing the app, or anythi"
+      }
+    ],
+    "role_emails": [
+      "hello@usekempt.com",
+      "support@usekempt.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "b.garland@usekempt.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Brian Garland",
+        "person_title": "Founder",
+        "source_url": "https://usekempt.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "brian.garland@usekempt.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Brian Garland",
+        "person_title": "Founder",
+        "source_url": "https://usekempt.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "brian@usekempt.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Brian Garland",
+        "person_title": "Founder",
+        "source_url": "https://usekempt.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "brian_garland@usekempt.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Brian Garland",
+        "person_title": "Founder",
+        "source_url": "https://usekempt.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "briang@usekempt.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Brian Garland",
+        "person_title": "Founder",
+        "source_url": "https://usekempt.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "garland@usekempt.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Brian Garland",
+        "person_title": "Founder",
+        "source_url": "https://usekempt.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://usekempt.com?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://usekempt.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://usekempt.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Kempt tracks your house's maintenance, the filters, the water heater, the gutters, and sends a Sunday Brief before small problems get expensive.",
+    "source_urls": [
+      "https://usekempt.com?ref=producthunt",
+      "https://usekempt.com/about",
+      "https://usekempt.com/support"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "brioche.recipes",
+    "company_name": "Brioche - Recipe app for couples who cook together",
+    "website": "https://brioche.recipes?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@brioche.recipes",
+        "confidence": "medium",
+        "source_url": "https://brioche.recipes/support",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "support@brioche.recipes",
+        "confidence": "medium",
+        "source_url": "https://brioche.recipes/support",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "hello@brioche.recipes",
+      "support@brioche.recipes"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://brioche.recipes?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://brioche.recipes/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Save recipes from anywhere, swipe to agree on dinner, and shop from one shared grocery list. Free for iPhone.",
+    "source_urls": [
+      "https://brioche.recipes/support"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "onestar.sh",
+    "company_name": "OneStar - See why users love or leave any app or game",
+    "website": "https://onestar.sh?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@onestar.sh",
+        "confidence": "highest",
+        "source_url": "https://onestar.sh/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "AQ Questions, answered plainly Something missing? Write to support@onestar.sh . What is OneStar? OneStar is a review analysis tool for ap"
+      }
+    ],
+    "role_emails": [
+      "support@onestar.sh"
+    ],
+    "email_candidates": [
+      {
+        "address": "h.works@onestar.sh",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "How it works",
+        "person_title": "Owner",
+        "source_url": "https://onestar.sh?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "how.works@onestar.sh",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "How it works",
+        "person_title": "Owner",
+        "source_url": "https://onestar.sh?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "how@onestar.sh",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "How it works",
+        "person_title": "Owner",
+        "source_url": "https://onestar.sh?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "how_works@onestar.sh",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "How it works",
+        "person_title": "Owner",
+        "source_url": "https://onestar.sh?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "howw@onestar.sh",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "How it works",
+        "person_title": "Owner",
+        "source_url": "https://onestar.sh?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "works@onestar.sh",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "How it works",
+        "person_title": "Owner",
+        "source_url": "https://onestar.sh?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://onestar.sh?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://onestar.sh/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://onestar.sh/r/orm3x-spotify-how-do-listeners-feel-about-price-hikes",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://onestar.sh/?store=steam",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://onestar.sh/r/orm3x-firefox-fast-private-why-people-pick-mobile-what-makes-them",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://onestar.sh/vs/uber-vs-lyft-fees-waits-support-orm3x",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://onestar.sh/r/orm3x-arc-search-did-users-notice-browser-company-moving",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://onestar.sh/r/orm3x-claude-by-anthropic-where-does-lose-people-limits-refusals",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "See how people really feel about any app or game. OneStar reads App Store, Google Play and Steam reviews to show what users love, why they leave and what they ask for, with the quotes behind every number.",
+    "source_urls": [
+      "https://onestar.sh/about",
+      "https://onestar.sh/r/orm3x-spotify-how-do-listeners-feel-about-price-hikes",
+      "https://onestar.sh/r/orm3x-firefox-fast-private-why-people-pick-mobile-what-makes-them",
+      "https://onestar.sh/vs/uber-vs-lyft-fees-waits-support-orm3x",
+      "https://onestar.sh/r/orm3x-arc-search-did-users-notice-browser-company-moving",
+      "https://onestar.sh/r/orm3x-claude-by-anthropic-where-does-lose-people-limits-refusals"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "udon.sh",
+    "company_name": "Udon - Control deck for your Mac home server with AI sysadmin.",
+    "website": "https://www.udon.sh/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@udon.sh",
+        "confidence": "high",
+        "source_url": "https://www.udon.sh/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "support@udon.sh"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.udon.sh/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.udon.sh/alternatives/openmediavault",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Own your digital life with Udon. Turn an Apple Silicon Mac into a home server for your files, media, and apps, with an optional AI sysadmin to help you manage it.",
+    "source_urls": [
+      "https://www.udon.sh/?ref=producthunt",
+      "https://www.udon.sh/alternatives/openmediavault"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "gdmie-d474a.web.app",
+    "company_name": "GDMIE - Think clearer. Decide better.",
+    "website": "https://gdmie-d474a.web.app/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://gdmie-d474a.web.app/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "hazeglow.dev",
+    "company_name": "Hazeglow - Every AI ships the same gradient. Yours doesn't have to.",
+    "website": "https://hazeglow.dev?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@hazeglow.dev",
+        "confidence": "highest",
+        "source_url": "https://hazeglow.dev?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "hello@hazeglow.dev"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://hazeglow.dev?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Grainy, living gradient backgrounds for React, mesh gradients too. Make one, paste it in your app. Free. Zero dependencies.",
+    "source_urls": [
+      "https://hazeglow.dev?ref=producthunt"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 7
+  },
+  {
+    "company_domain": "yantra-care.in",
+    "company_name": "Yantra Care - A smarter way to get your appliances repaired",
+    "website": "https://yantra-care.in/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://yantra-care.in/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://yantra-care.in/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://yantra-care.in/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://yantra-care.in/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://yantra-care.in/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://yantra-care.in/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://yantra-care.in/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://yantra-care.in/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Doorstep home appliance repair service by Yantra Care. Book verified technicians for AC repair, refrigerator repair, washing machine repair, and TV repair across Raigarh and Chhattisgarh with upfront pricing and verified doorstep service.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "getsharpy.com",
+    "company_name": "Sharpy - To-do list that keeps itself current",
+    "website": "https://getsharpy.com?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@getsharpy.com",
+        "confidence": "highest",
+        "source_url": "https://getsharpy.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "hello@getsharpy.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://getsharpy.com?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Sharpy builds one to-do list from your chats, mail, calendar, calls and screen, and keeps it current. Download for Mac, or join the waitlist for Windows and Linux.",
+    "source_urls": [
+      "https://getsharpy.com?ref=producthunt"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 7
+  },
+  {
+    "company_domain": "trackboard.eu",
+    "company_name": "Trackboard - Take every track from first idea to release",
+    "website": "https://trackboard.eu?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "delozanne@trackboard.eu",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Henri Delozanne",
+        "person_title": null,
+        "source_url": "https://trackboard.eu?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "h.delozanne@trackboard.eu",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Henri Delozanne",
+        "person_title": null,
+        "source_url": "https://trackboard.eu?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "henri.delozanne@trackboard.eu",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Henri Delozanne",
+        "person_title": null,
+        "source_url": "https://trackboard.eu?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "henri@trackboard.eu",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Henri Delozanne",
+        "person_title": null,
+        "source_url": "https://trackboard.eu?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "henri_delozanne@trackboard.eu",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Henri Delozanne",
+        "person_title": null,
+        "source_url": "https://trackboard.eu?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "henrid@trackboard.eu",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Henri Delozanne",
+        "person_title": null,
+        "source_url": "https://trackboard.eu?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://trackboard.eu?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Music project management for producers and bands: stage-by-stage board, timestamped audio feedback, music release checklists and collaborators.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "jeuxgratuitsenligne.com",
+    "company_name": "PoliEconia - Run a real country. Every decision has a price.",
+    "website": "https://www.jeuxgratuitsenligne.com/polieconia/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.jeuxgratuitsenligne.com/polieconia/?ref=producthunt",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Jeu de gestion profond et simulation g\u00e9opolitique : dirigez un vrai pays dans le commerce mondial, entre budget, sanctions, trait\u00e9s, ministres et \u00e9lections.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "chessmasterss.in",
+    "company_name": "Chess Masterss - Understand why you loose the game",
+    "website": "https://www.chessmasterss.in/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@chessmasterss.in",
+        "confidence": "highest",
+        "source_url": "https://www.chessmasterss.in/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "vacy Policy Refund & Cancellation Policy Questions? Email info@chessmasterss.in . \u00a9 2026 Chessmasters . Chessmasters is an independent"
+      }
+    ],
+    "role_emails": [
+      "info@chessmasterss.in"
+    ],
+    "email_candidates": [
+      {
+        "address": "anand@chessmasterss.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Yatharth Anand",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.chessmasterss.in/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kaushik@chessmasterss.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Parth Kaushik",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.chessmasterss.in/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "p.kaushik@chessmasterss.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Parth Kaushik",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.chessmasterss.in/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "parth.kaushik@chessmasterss.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Parth Kaushik",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.chessmasterss.in/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "parth@chessmasterss.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Parth Kaushik",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.chessmasterss.in/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "parth_kaushik@chessmasterss.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Parth Kaushik",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.chessmasterss.in/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "parthk@chessmasterss.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Parth Kaushik",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.chessmasterss.in/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "y.anand@chessmasterss.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Yatharth Anand",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.chessmasterss.in/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "yatharth.anand@chessmasterss.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Yatharth Anand",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.chessmasterss.in/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "yatharth@chessmasterss.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Yatharth Anand",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.chessmasterss.in/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "yatharth_anand@chessmasterss.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Yatharth Anand",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.chessmasterss.in/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "yathartha@chessmasterss.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Yatharth Anand",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.chessmasterss.in/about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.chessmasterss.in/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.chessmasterss.in/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.chessmasterss.in/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "The smart AI chess game analyzer for Chess.com and Lichess. Get instant, plain-English coaching reports, uncover hidden tactical blunders, and master your opening repertoire in minutes.",
+    "source_urls": [
+      "https://www.chessmasterss.in/?ref=producthunt",
+      "https://www.chessmasterss.in/contact",
+      "https://www.chessmasterss.in/about"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 7
+  },
+  {
+    "company_domain": "wink.aicortexo.com",
+    "company_name": "Wink AI - An AI that sees your screen and points where to click.",
+    "website": "https://wink.aicortexo.com/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://wink.aicortexo.com/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Wink lives next to your cursor on Windows. Ask it anything: it sees your screen, points at what to click, or does the task for you. Free, private, and runs on your own PC.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "mapicus.app",
+    "company_name": "Mapicus - Explore travels, follow travelers, and discover the places",
+    "website": "https://www.mapicus.app/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.mapicus.app/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Mapicus is a travel photo map. Pin photos where they happened, turn each trip into a journey you can play back stop by stop, and discover places through real travelers. Free on iOS and Android.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "seosage.co",
+    "company_name": "SEOSage - Desktop SEO crawler with no page limits. Yes, really.",
+    "website": "https://seosage.co?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@seosage.co",
+        "confidence": "highest",
+        "source_url": "https://seosage.co?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Sitemap Cookie settings \u00a9 2026 SEOSage \u00b7 hello@seosage.co Cookies We use cookies"
+      },
+      {
+        "address": "billing@seosage.co",
+        "confidence": "high",
+        "source_url": "https://seosage.co/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "bugs@seosage.co",
+        "confidence": "high",
+        "source_url": "https://seosage.co/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "billing@seosage.co",
+      "bugs@seosage.co",
+      "hello@seosage.co"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://seosage.co?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://seosage.co/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://seosage.co/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://seosage.co/contact/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://seosage.co/about/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://seosage.co/contact",
+        "action": "https://seosage.co/wp-admin/admin-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://seosage.co/contact/",
+        "action": "https://seosage.co/wp-admin/admin-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Desktop SEO site audit software for anyone doing SEO. Crawl every page with no limits and export client-ready reports.",
+    "source_urls": [
+      "https://seosage.co?ref=producthunt",
+      "https://seosage.co/contact",
+      "https://seosage.co/about",
+      "https://seosage.co/contact/",
+      "https://seosage.co/about/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "flagle-fun.vercel.app",
+    "company_name": "Flagle Game - The daily flag guessing game for geography lovers.",
+    "website": "https://flagle-fun.vercel.app?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://flagle-fun.vercel.app?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://flagle-fun.vercel.app/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://flagle-fun.vercel.app/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://flagle-fun.vercel.app/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://flagle-fun.vercel.app/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://flagle-fun.vercel.app/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://flagle-fun.vercel.app/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "The ultimate flag guessing game.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "quota-ai.my",
+    "company_name": "Quota - Monitor your AI usage in one place.",
+    "website": "https://quota-ai.my/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://quota-ai.my/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Quota tracks usage limits across Claude Code, Codex, GitHub Copilot, Cursor, Antigravity, Kiro, Grok and OpenCode Go. Desktop app, VS Code extension, CLI and Herdr plugin.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "spreadout.ai",
+    "company_name": "Spread Out AI V2 - Paste a link. Get a week of on-brand videos and carousels",
+    "website": "https://spreadout.ai?ref=producthunt",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "tls_error",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "beswickstone.co.uk",
+    "company_name": "Heritage Brushed Engineered Oak Flooring - Shop Natural Stone Tiles & Wood flooring in the UK",
+    "website": "https://www.beswickstone.co.uk/classic-heritage-brushed-grey-parquet-oak-floor?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@beswickstone.co.uk",
+        "confidence": "high",
+        "source_url": "https://www.beswickstone.co.uk/classic-heritage-brushed-grey-parquet-oak-floor?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@beswickstone.co.uk"
+    ],
+    "email_candidates": [
+      {
+        "address": "s.team@beswickstone.co.uk",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sales Support Team",
+        "person_title": "Owner",
+        "source_url": "https://www.beswickstone.co.uk/about-beswick-stone",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sales.team@beswickstone.co.uk",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sales Support Team",
+        "person_title": "Owner",
+        "source_url": "https://www.beswickstone.co.uk/about-beswick-stone",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sales@beswickstone.co.uk",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sales Support Team",
+        "person_title": "Owner",
+        "source_url": "https://www.beswickstone.co.uk/about-beswick-stone",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sales_team@beswickstone.co.uk",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sales Support Team",
+        "person_title": "Owner",
+        "source_url": "https://www.beswickstone.co.uk/about-beswick-stone",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "salest@beswickstone.co.uk",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sales Support Team",
+        "person_title": "Owner",
+        "source_url": "https://www.beswickstone.co.uk/about-beswick-stone",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "team@beswickstone.co.uk",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sales Support Team",
+        "person_title": "Owner",
+        "source_url": "https://www.beswickstone.co.uk/about-beswick-stone",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.beswickstone.co.uk/classic-heritage-brushed-grey-parquet-oak-floor?ref=producthunt",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beswickstone.co.uk/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beswickstone.co.uk/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beswickstone.co.uk/contact/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.beswickstone.co.uk/about-beswick-stone",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "A refined herringbone oak floor in soft grey, bringing classic charm, warmth, and a bright, airy feel to contemporary or traditional interior designs.",
+    "source_urls": [
+      "https://www.beswickstone.co.uk/classic-heritage-brushed-grey-parquet-oak-floor?ref=producthunt",
+      "https://www.beswickstone.co.uk/contact",
+      "https://www.beswickstone.co.uk/about-us",
+      "https://www.beswickstone.co.uk/contact/",
+      "https://www.beswickstone.co.uk/about-beswick-stone"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "play.zoagames.com",
+    "company_name": "Agent Arena \u2014 Zoa Games - Build an AI agent. Put it in the game. See if it can win.",
+    "website": "https://play.zoagames.com/arena/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://play.zoagames.com/arena/?ref=producthunt",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://play.zoagames.com/arena/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://play.zoagames.com/arena/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://play.zoagames.com/arena/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://play.zoagames.com/arena/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://play.zoagames.com/arena/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://play.zoagames.com/arena/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "BattleBots for card counters. Build an agent for The Intuition Game, plug it in over Socket.IO, and climb the Agent Challenge Ladder. Agent Season 0: Oct 15 \u2013 Nov 30, $500 USDC over the top ten.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "sbox-m.vercel.app",
+    "company_name": "SBOX - Small tools for everyday phone tasks",
+    "website": "https://sbox-m.vercel.app/services/?lang=en&ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://sbox-m.vercel.app/services/?lang=en&ref=producthunt",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sbox-m.vercel.app/services/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sbox-m.vercel.app/services/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sbox-m.vercel.app/services/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sbox-m.vercel.app/services/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sbox-m.vercel.app/services/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sbox-m.vercel.app/services/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "From small everyday inconveniences to new possibilities. We make things that make life easier.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "deskkit.app",
+    "company_name": "deskkit Launches - New software, measured before it is listed",
+    "website": "https://deskkit.app/launch?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@deskkit.app",
+        "confidence": "medium",
+        "source_url": "https://deskkit.app/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "support@deskkit.app"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://deskkit.app/launch?ref=producthunt",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://deskkit.app/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://deskkit.app/launch?cat=Design%20%26%20media",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "New software products, each measured by deskkit for security headers, HTTPS, speed and trackers before it is listed.",
+    "source_urls": [
+      "https://deskkit.app/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "tilora.io",
+    "company_name": "Tilora - Your MacBook notch, now with a purpose",
+    "website": "https://tilora.io?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://tilora.io?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Music, meetings, files and more, right in your MacBook\u2019s notch. Pay once, use it on three Macs.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "moojiw.com",
+    "company_name": "Moojiw - A food diary that never judges",
+    "website": "https://moojiw.com/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://moojiw.com/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://moojiw.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "A cute AI food diary for iPhone, made in Thailand. Snap a meal, Moochi guesses the dish and its calories, and it plops into your jar as a sticker. Free to start.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "tonelab.photo",
+    "company_name": "ToneLab.photo - The photo editor that works with your Wi-Fi off",
+    "website": "https://www.tonelab.photo/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.tonelab.photo/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "A free, private photo editor that runs in your browser and even works offline \u2014 23 cinematic presets, film grain, on-camera flash and an HSL colour mixer. Nothing uploaded, no sign-up.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "homeschooltempo.com",
+    "company_name": "Homeschool Planner - Print, schedule, or save your homeschool planner",
+    "website": "https://homeschooltempo.com?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://homeschooltempo.com?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Make a homeschool planner that works for your family. Free printable planner, weekly schedule, lesson planning, and digital saving. No sign-up.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  }
+]
