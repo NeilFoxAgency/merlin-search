@@ -1,0 +1,1293 @@
+[
+  {
+    "company_domain": "openfirme.ro",
+    "company_name": "OpenFirme - check romanian companies - OpenFirme Romania - Retrieve info about romanian companies",
+    "website": "https://openfirme.ro?ref=producthunt",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "http_403",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "leanback.live",
+    "company_name": "Leanback - Personal AI assistant for managing engineering teams",
+    "website": "https://leanback.live?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "hayun@leanback.live",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Yaniv Hayun",
+        "person_title": "Co-Founder",
+        "source_url": "https://leanback.live/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "y.hayun@leanback.live",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Yaniv Hayun",
+        "person_title": "Co-Founder",
+        "source_url": "https://leanback.live/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "yaniv.hayun@leanback.live",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Yaniv Hayun",
+        "person_title": "Co-Founder",
+        "source_url": "https://leanback.live/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "yaniv@leanback.live",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Yaniv Hayun",
+        "person_title": "Co-Founder",
+        "source_url": "https://leanback.live/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "yaniv_hayun@leanback.live",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Yaniv Hayun",
+        "person_title": "Co-Founder",
+        "source_url": "https://leanback.live/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "yanivh@leanback.live",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Yaniv Hayun",
+        "person_title": "Co-Founder",
+        "source_url": "https://leanback.live/about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://leanback.live?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://leanback.live/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://leanback.live/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://leanback.live/support",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Leanback is an AI chief-of-staff for engineering managers. It reads your team's Jira/GitHub/Linear tickets, PRs, and calendar overnight and delivers a prioritized morning brief in Slack \u2014 what's blocked, what's stalling, what needs you today \u2014 so you stop chasing status across five tools.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "ephora-app.com",
+    "company_name": "Ephora - Erase text, objects and backgrounds from any photo",
+    "website": "https://ephora-app.com?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://ephora-app.com?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ephora-app.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ephora-app.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://ephora-app.com/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Remove a background in one tap, turn a selfie into a professional CV photo or add studio-quality filters. Ephora is free to download.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "journeo.ai",
+    "company_name": "Journeo - Plan a trip with AI, then travel it with your friends",
+    "website": "https://journeo.ai/en?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "legal@journeo.ai",
+        "confidence": "high",
+        "source_url": "https://journeo.ai/en?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "privacy@journeo.ai",
+        "confidence": "high",
+        "source_url": "https://journeo.ai/en?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "support@journeo.ai",
+        "confidence": "high",
+        "source_url": "https://journeo.ai/en?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "legal@journeo.ai",
+      "privacy@journeo.ai",
+      "support@journeo.ai"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://journeo.ai/en?ref=producthunt",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://journeo.ai/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://journeo.ai/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://journeo.ai/support/data-deletion",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://journeo.ai/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Yapay zeka destekli ki\u015fisel seyahat asistan\u0131n\u0131z",
+    "source_urls": [
+      "https://journeo.ai/en?ref=producthunt",
+      "https://journeo.ai/contact",
+      "https://journeo.ai/support",
+      "https://journeo.ai/support/data-deletion"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "coderblock.ai",
+    "company_name": "Coderblock - Build full-stack web apps with your own AI team.",
+    "website": "https://coderblock.ai?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@coderblock.ai",
+        "confidence": "high",
+        "source_url": "https://coderblock.ai?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "hello@coderblock.ai"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://coderblock.ai?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://coderblock.ai/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://coderblock.ai/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://coderblock.ai/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://coderblock.ai/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://coderblock.ai/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://coderblock.ai/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Build a real full-stack web app from a simple chat. Get React, backend, database and one-click deployment with Coderblock. Start free today.",
+    "source_urls": [
+      "https://coderblock.ai?ref=producthunt",
+      "https://coderblock.ai/contact",
+      "https://coderblock.ai/contact-us",
+      "https://coderblock.ai/contactus",
+      "https://coderblock.ai/about",
+      "https://coderblock.ai/about-us",
+      "https://coderblock.ai/team"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 7
+  },
+  {
+    "company_domain": "vacanto.lovable.app",
+    "company_name": "Vacanto - Turn your app idea into a real product",
+    "website": "https://vacanto.lovable.app?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://vacanto.lovable.app?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Develop, validate, plan and prepare your app idea before you build it. No code needed.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "getamancare.com",
+    "company_name": "Aman Care - The daily call that keeps families close",
+    "website": "https://getamancare.com?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://getamancare.com?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getamancare.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getamancare.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getamancare.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getamancare.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getamancare.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://getamancare.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Aman Care calls your loved one every day \u2014 a warm voice in their own language \u2014 and alerts your family the moment something seems wrong. English, Arabic, Spanish, French, Hindi, Punjabi.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "developers.google.com",
+    "company_name": "Google AI Edge Foresight - Scribbles to complete meeting notes with on-device AI",
+    "website": "https://developers.google.com/edge/foresight?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://developers.google.com/edge/foresight?ref=producthunt",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "maho-japanese.com",
+    "company_name": "Maho Japanese - Your Japanese AI tutor for photos, text and YouTube",
+    "website": "https://maho-japanese.com/en/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://maho-japanese.com/en/?ref=producthunt",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://maho-japanese.com/en/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://maho-japanese.com/en/about/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Turn textbooks, manga, magazines and YouTube subtitles into Japanese study guides with Maho. Explore an AI tutor, JLPT N5\u2013N1 lessons, natural audio and AI-generated dialogues.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "anywhereintelligence.ai",
+    "company_name": "Switchboard - Free and secure agent calls across all your AI apps",
+    "website": "https://anywhereintelligence.ai/switchboard?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@anywhereintelligence.ai",
+        "confidence": "highest",
+        "source_url": "https://anywhereintelligence.ai/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ll join us. View open roles \u2192 Read the research \u2192 Contact hello@anywhereintelligence.ai Press press@anywhereintelligence.ai Location Santa Monica,"
+      },
+      {
+        "address": "press@anywhereintelligence.ai",
+        "confidence": "highest",
+        "source_url": "https://anywhereintelligence.ai/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "the research \u2192 Contact hello@anywhereintelligence.ai Press press@anywhereintelligence.ai Location Santa Monica, California ANYWHERE INTELLIGENCE AI"
+      }
+    ],
+    "role_emails": [
+      "hello@anywhereintelligence.ai",
+      "press@anywhereintelligence.ai"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://anywhereintelligence.ai/switchboard?ref=producthunt",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://anywhereintelligence.ai/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://anywhereintelligence.ai/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Switchboard gives AI agents durable identities and a controlled way to talk across apps and organizations. You can listen in on the call and step in whenever judgment or authority is needed.",
+    "source_urls": [
+      "https://anywhereintelligence.ai/about",
+      "https://anywhereintelligence.ai/support"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "swentalk.com",
+    "company_name": "SwenTalk - Private chat found only by your full phone number",
+    "website": "https://swentalk.com?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@swentalk.com",
+        "confidence": "highest",
+        "source_url": "https://swentalk.com/support",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "6, 2026 Contact us Questions, problems or feedback? Email support@swentalk.com . For account problems, include the phone number you sign i"
+      }
+    ],
+    "role_emails": [
+      "support@swentalk.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "a.dammalapati@swentalk.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Aswani Dammalapati",
+        "person_title": "Founder",
+        "source_url": "https://swentalk.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "aswani.dammalapati@swentalk.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Aswani Dammalapati",
+        "person_title": "Founder",
+        "source_url": "https://swentalk.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "aswani@swentalk.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Aswani Dammalapati",
+        "person_title": "Founder",
+        "source_url": "https://swentalk.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "aswani_dammalapati@swentalk.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Aswani Dammalapati",
+        "person_title": "Founder",
+        "source_url": "https://swentalk.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "aswanid@swentalk.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Aswani Dammalapati",
+        "person_title": "Founder",
+        "source_url": "https://swentalk.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "dammalapati@swentalk.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Aswani Dammalapati",
+        "person_title": "Founder",
+        "source_url": "https://swentalk.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://swentalk.com?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://swentalk.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://swentalk.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://swentalk.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://swentalk.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://swentalk.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://swentalk.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://swentalk.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "SwenTalk is a fast, secure chat app for 1:1 and group conversations.",
+    "source_urls": [
+      "https://swentalk.com?ref=producthunt",
+      "https://swentalk.com/support"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "manafisto.com",
+    "company_name": "Manafisto - Free exam prep for Egypt's high-school finals, in Arabic",
+    "website": "https://manafisto.com?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_content_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "civilizationtype-ii.vercel.app",
+    "company_name": "CivilizationType II \u2014 Year 3000 - A Year 3000 social feed for people and mind\u2019s agents",
+    "website": "https://civilizationtype-ii.vercel.app/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://civilizationtype-ii.vercel.app/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "The Year 3000 mesh. People and mind\u2019s agents. Future talk only.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "dopagaki.design",
+    "company_name": "Dopagaki Atlas - Explore high-stimulation UI patterns and AI-ready prompts",
+    "website": "https://dopagaki.design/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://dopagaki.design/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dopagaki.design/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dopagaki.design/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dopagaki.design/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dopagaki.design/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dopagaki.design/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dopagaki.design/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Dopagaki Atlas classifies Dopagaki (high-stimulation) UI with 13 stimulus engines and 14 expression themes: 182 pairings, 6-second video samples, and an AI design-prompt workshop.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "portfolioos.online",
+    "company_name": "Portfolio OS - everything into one system",
+    "website": "https://www.portfolioos.online?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.portfolioos.online?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.portfolioos.online/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.portfolioos.online/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.portfolioos.online/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.portfolioos.online/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.portfolioos.online/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.portfolioos.online/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Build a portfolio website, ATS-friendly resume and cover letter free in your browser. Export HTML, PDF, Word or a full site. No sign-up, works offline.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "taipeigta.online",
+    "company_name": "Taipei GTA - Explore Taipei on foot, by scooter or car in your browser",
+    "website": "https://taipeigta.online?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://taipeigta.online?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://taipeigta.online/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Play Taipei GTA (Taipei Rush) in your browser. Explore Taipei streets, ride through the city, and learn the controls. Free, no download or account required.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "scenemint.web.app",
+    "company_name": "SceneMint - Turn a script into AI scenes, narration and captions",
+    "website": "https://scenemint.web.app?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://scenemint.web.app?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "SceneMint splits your story into scenes and turns it into a voiced video with captions.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "rapidassets.ai",
+    "company_name": "Rapid Assets - Your toolkit for faster game art",
+    "website": "https://rapidassets.ai/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "contact@rapidassets.ai",
+        "confidence": "highest",
+        "source_url": "https://rapidassets.ai/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Community & Connect Discord Community Instagram X / Twitter contact@rapidassets.ai \u00a9 2026 Rapid Assets. All rights reserved. Built for game de"
+      }
+    ],
+    "role_emails": [
+      "contact@rapidassets.ai"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://rapidassets.ai/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rapidassets.ai/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rapidassets.ai/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rapidassets.ai/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rapidassets.ai/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rapidassets.ai/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rapidassets.ai/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rapidassets.ai/blog/facial-expression-sheet",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "An AI agent that generates 2D and 3D game assets: characters, props, environments, turnaround sheets, rigged 3D models and animations. Start free with 500 credits.",
+    "source_urls": [
+      "https://rapidassets.ai/?ref=producthunt",
+      "https://rapidassets.ai/blog/facial-expression-sheet"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "aiiconcreator.com",
+    "company_name": "AI Icon Creator - AI app icon generator with 20 curated styles",
+    "website": "https://aiiconcreator.com?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@aiiconcreator.com",
+        "confidence": "highest",
+        "source_url": "https://aiiconcreator.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Pricing Resources My icons Blog Help center Contact support support@aiiconcreator.com For AI agents llms.txt llms-full.txt index.md styles.md pri"
+      }
+    ],
+    "role_emails": [
+      "support@aiiconcreator.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://aiiconcreator.com?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://aiiconcreator.com/workspace?style=S11&variant=geometric_expression_color&subject_color=%232962E2",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "AI app icon generator: describe your app, pick a curated style, change any detail, and download every iOS, Android and web size in one pack.",
+    "source_urls": [
+      "https://aiiconcreator.com?ref=producthunt"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "t.me",
+    "company_name": "UptimeAnt - Uptime monitoring that lives inside Telegram",
+    "website": "https://t.me/uptimeantbot?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://t.me/uptimeantbot?ref=producthunt",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://t.me/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://t.me/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://t.me/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://t.me/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://t.me/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://t.me/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Websites, cron jobs, SSL and servers, watched 24/7 inside Telegram. 10 monitors free, no card.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "lusor83.github.io",
+    "company_name": "LookTwist - Look closer. Search every scene. Find what others miss.",
+    "website": "https://lusor83.github.io/looktwist.html?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://lusor83.github.io/looktwist.html?ref=producthunt",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://lusor83.github.io/index.html#about",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://lusor83.github.io/press/looktwist.html",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Play LookTwist, a hidden object game for Android. Explore illustrated scenes, zoom in and find objects and details hidden in plain sight.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "gizmory.app",
+    "company_name": "Gizmory - Your gadgets, memories, and life in one timeline",
+    "website": "https://gizmory.app/en/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@gizmory.app",
+        "confidence": "highest",
+        "source_url": "https://gizmory.app/en/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "nc. \u00b7 Cloudflare, Inc. \u00a9 2026 Gizmory. All rights reserved. hello@gizmory.app \u2197 Back to top \u2191 \u00d7 Actual app screen \u00b7 Press Escape or \u00d7"
+      }
+    ],
+    "role_emails": [
+      "hello@gizmory.app"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://gizmory.app/en/?ref=producthunt",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://gizmory.app/en/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://gizmory.app/en/about/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://gizmory.app/en/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://gizmory.app/en/support/",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Record your phones, cameras and computers in a personal gadget timeline. Explore the catalog and make Studio cards. Start free on iPhone and Android, on the App Store and Google Play.",
+    "source_urls": [
+      "https://gizmory.app/en/?ref=producthunt",
+      "https://gizmory.app/en/about",
+      "https://gizmory.app/en/about/",
+      "https://gizmory.app/en/support",
+      "https://gizmory.app/en/support/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "threadsdownloader.fastinstadl.com",
+    "company_name": "Threads Downloader - Download Threads videos & MP3, no watermark, free, no signup",
+    "website": "https://threadsdownloader.fastinstadl.com/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://threadsdownloader.fastinstadl.com/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://threadsdownloader.fastinstadl.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://threadsdownloader.fastinstadl.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://threadsdownloader.fastinstadl.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://threadsdownloader.fastinstadl.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://threadsdownloader.fastinstadl.com/contact-us/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://threadsdownloader.fastinstadl.com/about-us/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Free Threads Video Downloader to save videos from Threads instantly. Download 1080p Full HD Threads videos online without watermark, app or signup.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "getspellgenie.com",
+    "company_name": "SpellGenie - Turn any word list into an audio spelling test",
+    "website": "https://getspellgenie.com?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://getspellgenie.com?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Type your word list, kids hear each word out loud and spell it. Instant grading, practice flashcards and printable tests. Free, no signup. For teachers, parents and homeschoolers.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "breakbuddy.facilest.com",
+    "company_name": "Break Buddy - Reminders that grew up \u2014 now with international payments!",
+    "website": "https://breakbuddy.facilest.com?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://breakbuddy.facilest.com?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Stay hydrated and take healthier breaks at work. Break Buddy reminds you and your team to drink water, move, and rest your eyes \u2014 with leaderboards to keep everyone motivated.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  }
+]
