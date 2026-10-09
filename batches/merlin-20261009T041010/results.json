@@ -1,0 +1,1360 @@
+[
+  {
+    "company_domain": "chatgpt.com",
+    "company_name": "ChatGPT Space - Create, collaborate, and build together with AI in Space",
+    "website": "https://chatgpt.com/features/space/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://chatgpt.com/features/space/?ref=producthunt",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://chatgpt.com/features/chatgpt-in-slack-and-teams/",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://chatgpt.com/contact-sales/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://chatgpt.com/business/ai-for-product-management/",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://chatgpt.com/contact-sales/",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Create and collaborate in ChatGPT Space. Keep project context, files, and shared pages together, and work with ChatGPT to keep projects moving.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "puffins.pnl.dev",
+    "company_name": "Puffins - look up any word anywhere in one place for language learners",
+    "website": "https://puffins.pnl.dev?ref=producthunt",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "dns_failure",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "fluffyaudio.com",
+    "company_name": "FluffyAudio FFT Spectral Audio Editor - Spectral audio editor with 50+ modules and on-device AI",
+    "website": "https://fluffyaudio.com/fft?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://fluffyaudio.com/fft?ref=producthunt",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://fluffyaudio.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://fluffyaudio.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://fluffyaudio.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://fluffyaudio.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://fluffyaudio.com/about-us/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://fluffyaudio.com/contact-us/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://fluffyaudio.com/contact",
+        "action": "/contact-us/#wpcf7-f1-p15-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://fluffyaudio.com/contact-us",
+        "action": "/contact-us/#wpcf7-f1-p15-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://fluffyaudio.com/contact-us/",
+        "action": "/contact-us/#wpcf7-f1-p15-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Repair. Rebuild. Reimagine.On your Mac. On your PC. On your terms.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "screenk9.com",
+    "company_name": "ScreenK9 - Share approved Mac apps. Keep personal windows private.",
+    "website": "https://screenk9.com/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@screenk9.com",
+        "confidence": "highest",
+        "source_url": "https://screenk9.com/support",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Try ScreenK9 \u2193 Questions or feedback? Drop me an email at support@screenk9.com . You'll get a real reply from me, usually pretty quickly."
+      }
+    ],
+    "role_emails": [
+      "support@screenk9.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://screenk9.com/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://screenk9.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "ScreenK9 is a local-first screen sharing privacy app for Mac. Share one audience window with approved apps and work Chrome profiles only.",
+    "source_urls": [
+      "https://screenk9.com/?ref=producthunt",
+      "https://screenk9.com/support"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "fennec.ludicrousdesigns.com",
+    "company_name": "Fennec - stop mac speaker crackling - Watchfox for crackling mac audio",
+    "website": "https://fennec.ludicrousdesigns.com?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://fennec.ludicrousdesigns.com?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Fennec is a free, open-source menu-bar app that listens for the Mac audio failure that leaves sound crackling, and restarts the sound service without closing your apps.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "myhalloween.link",
+    "company_name": "My Halloween Link - Haunted House 2026 - Decorate a Halloween house, visit friends and collect candy",
+    "website": "https://myhalloween.link?ref=producthunt",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "dns_failure",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "karbonized.yoss.pro",
+    "company_name": "Karbonized - The programmable image editor your AI agent can use",
+    "website": "https://karbonized.yoss.pro?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://karbonized.yoss.pro?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Design code shots, mockups and social images with blocks, with code or with your AI agent. Free, open source and offline, on the web, Windows, Linux and macOS.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "lifarcs.com",
+    "company_name": "LifArcs - Build your life story. Explore the stories behind others.",
+    "website": "https://lifarcs.com/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://lifarcs.com/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "A page for a life. Your past. Your present. Your next Arc.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "practivia.app",
+    "company_name": "Practivia - Practice smarter. Grow faster.",
+    "website": "https://practivia.app/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "a.gupta@practivia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Aditya Kumar Gupta",
+        "person_title": "Founder",
+        "source_url": "https://practivia.app/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "aditya.gupta@practivia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Aditya Kumar Gupta",
+        "person_title": "Founder",
+        "source_url": "https://practivia.app/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "aditya@practivia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Aditya Kumar Gupta",
+        "person_title": "Founder",
+        "source_url": "https://practivia.app/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "aditya_gupta@practivia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Aditya Kumar Gupta",
+        "person_title": "Founder",
+        "source_url": "https://practivia.app/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "adityag@practivia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Aditya Kumar Gupta",
+        "person_title": "Founder",
+        "source_url": "https://practivia.app/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "gupta@practivia.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Aditya Kumar Gupta",
+        "person_title": "Founder",
+        "source_url": "https://practivia.app/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://practivia.app/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://practivia.app/?ref=producthunt",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "You write the answer before you see the model one. It is scored 0 to 100 against key points a human wrote by hand, so a score in August compares to a score in March. Android first.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "snapset.co",
+    "company_name": "Snapset - Save and restore your entire Mac workspace in an instant",
+    "website": "https://snapset.co?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@snapset.co",
+        "confidence": "highest",
+        "source_url": "https://snapset.co?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "accounts to create. To pay later by bank transfer, contact support@snapset.co . Prices appear in your local currency at checkout, where t"
+      }
+    ],
+    "role_emails": [
+      "support@snapset.co"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://snapset.co?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Apps, window positions, browser tabs, even the folders you had open. A Mac menu bar app that remembers your entire workspace, and rearranges it automatically when you plug into a different display.",
+    "source_urls": [
+      "https://snapset.co?ref=producthunt"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 7
+  },
+  {
+    "company_domain": "finalwishesvault.com",
+    "company_name": "Final Wishes Vault - End of life planner",
+    "website": "https://finalwishesvault.com?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "alex@finalwishesvault.com",
+        "confidence": "high",
+        "source_url": "https://finalwishesvault.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "alex@finalwishesvault.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://finalwishesvault.com?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://finalwishesvault.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Organize wishes, documents, and trusted sharing in one $79 planner. Encrypted vault, export anytime. Not a will.",
+    "source_urls": [
+      "https://finalwishesvault.com?ref=producthunt",
+      "https://finalwishesvault.com/about"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 7
+  },
+  {
+    "company_domain": "sorcrr.com",
+    "company_name": "Sorcrr - Ai enabled bounty driven referral platform for hiring & gtm",
+    "website": "https://www.sorcrr.com?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@sorcrr.com",
+        "confidence": "high",
+        "source_url": "https://www.sorcrr.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "hello@sorcrr.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "books@sorcrr.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sorcrr Books",
+        "person_title": "Owner",
+        "source_url": "https://www.sorcrr.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "c.thinker@sorcrr.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Chief Systems Thinker",
+        "person_title": "Founder",
+        "source_url": "https://www.sorcrr.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "chaudhri@sorcrr.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jehanzeb Chaudhri",
+        "person_title": "Founder",
+        "source_url": "https://www.sorcrr.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "chief.thinker@sorcrr.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Chief Systems Thinker",
+        "person_title": "Founder",
+        "source_url": "https://www.sorcrr.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "chief@sorcrr.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Chief Systems Thinker",
+        "person_title": "Founder",
+        "source_url": "https://www.sorcrr.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "chief_thinker@sorcrr.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Chief Systems Thinker",
+        "person_title": "Founder",
+        "source_url": "https://www.sorcrr.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "chieft@sorcrr.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Chief Systems Thinker",
+        "person_title": "Founder",
+        "source_url": "https://www.sorcrr.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "j.chaudhri@sorcrr.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jehanzeb Chaudhri",
+        "person_title": "Founder",
+        "source_url": "https://www.sorcrr.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jehanzeb.chaudhri@sorcrr.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jehanzeb Chaudhri",
+        "person_title": "Founder",
+        "source_url": "https://www.sorcrr.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jehanzeb@sorcrr.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jehanzeb Chaudhri",
+        "person_title": "Founder",
+        "source_url": "https://www.sorcrr.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jehanzeb_chaudhri@sorcrr.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jehanzeb Chaudhri",
+        "person_title": "Founder",
+        "source_url": "https://www.sorcrr.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jehanzebc@sorcrr.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jehanzeb Chaudhri",
+        "person_title": "Founder",
+        "source_url": "https://www.sorcrr.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.books@sorcrr.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sorcrr Books",
+        "person_title": "Owner",
+        "source_url": "https://www.sorcrr.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sorcrr.books@sorcrr.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sorcrr Books",
+        "person_title": "Owner",
+        "source_url": "https://www.sorcrr.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sorcrr@sorcrr.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sorcrr Books",
+        "person_title": "Owner",
+        "source_url": "https://www.sorcrr.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sorcrr_books@sorcrr.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sorcrr Books",
+        "person_title": "Owner",
+        "source_url": "https://www.sorcrr.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sorcrrb@sorcrr.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sorcrr Books",
+        "person_title": "Owner",
+        "source_url": "https://www.sorcrr.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "thinker@sorcrr.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Chief Systems Thinker",
+        "person_title": "Founder",
+        "source_url": "https://www.sorcrr.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.sorcrr.com?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.sorcrr.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Sorcrr helps you hire faster with bounty referrals, structured video profiles, Trust Score, and SAI. Expand into Market, Books, company knowledge, and customer-facing AI as you grow.",
+    "source_urls": [
+      "https://www.sorcrr.com?ref=producthunt"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 7
+  },
+  {
+    "company_domain": "corespeed.io",
+    "company_name": "CoreSpeed - One MCP for everything your agents need: apps, memory, tools",
+    "website": "https://corespeed.io?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "contact@corespeed.io",
+        "confidence": "highest",
+        "source_url": "https://corespeed.io/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "where the team already spends its day. Channels Email \u2014 contact@corespeed.io Support, billing and account questions, security reports, p"
+      }
+    ],
+    "role_emails": [
+      "contact@corespeed.io"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://corespeed.io?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://corespeed.io/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://corespeed.io/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://corespeed.io/for-support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://corespeed.io/for-founders",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "One MCP endpoint that gives any agent \u2014 Claude Code, Codex, Cursor \u2014 your apps, your team's memory, and built-in tools, with spend caps and an activity log.",
+    "source_urls": [
+      "https://corespeed.io?ref=producthunt",
+      "https://corespeed.io/contact",
+      "https://corespeed.io/about",
+      "https://corespeed.io/for-support",
+      "https://corespeed.io/for-founders"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "joovoice.com",
+    "company_name": "JooVoice - AI agent that makes phone calls for you. Reliably.",
+    "website": "https://joovoice.com?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://joovoice.com?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Your AI agent can now make phone calls. Call any business: get a plumber's quote, check for last-minute seats, cancel a credit card, and more.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "atendio.co",
+    "company_name": "Atendio - WhatsApp AI assistant that answers, books and sells 24/7",
+    "website": "https://atendio.co?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://atendio.co?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Chatbot de WhatsApp con IA que atiende, agenda y vende 24/7 con tu mismo n\u00famero, con paso a tu equipo. Desde US$49/mes con IA incluida. Prueba 14 d\u00edas.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "tryfridaywork.com",
+    "company_name": "Friday Work - The multiplayer AI workspace for coding teams and agents",
+    "website": "https://www.tryfridaywork.com?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@tryfridaywork.com",
+        "confidence": "medium",
+        "source_url": "https://www.tryfridaywork.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "legal@tryfridaywork.com",
+        "confidence": "medium",
+        "source_url": "https://www.tryfridaywork.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "privacy@tryfridaywork.com",
+        "confidence": "medium",
+        "source_url": "https://www.tryfridaywork.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "security@tryfridaywork.com",
+        "confidence": "medium",
+        "source_url": "https://www.tryfridaywork.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "hello@tryfridaywork.com",
+      "legal@tryfridaywork.com",
+      "privacy@tryfridaywork.com",
+      "security@tryfridaywork.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.tryfridaywork.com?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.tryfridaywork.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.tryfridaywork.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.tryfridaywork.com/guides/continue-claude-code-session-with-your-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.tryfridaywork.com/docs/invite-your-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.tryfridaywork.com/engineering-teams",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.tryfridaywork.com/contact",
+        "action": "https://www.app.tryfridaywork.com/api/contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Friday Work is a multiplayer AI workspace where your team and AI agents share one session, one context and one record. Steer agents together and ship faster.",
+    "source_urls": [
+      "https://www.tryfridaywork.com/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "playfeed.games",
+    "company_name": "Playfeed - Find Steam games that play like ones you love",
+    "website": "https://playfeed.games/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://playfeed.games/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://playfeed.games/api/auth/steam",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Playfeed finds Steam games like the ones you already love. Search a game or describe a vibe, see every new Steam release, and get picks from your library. Free, no ads.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "ad-forge.io",
+    "company_name": "AdForge - Turn proven Meta ads into video ads for your product",
+    "website": "https://www.ad-forge.io?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.ad-forge.io?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ad-forge.io/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ad-forge.io/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ad-forge.io/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ad-forge.io/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ad-forge.io/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ad-forge.io/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Remake ads you like with your own product. Pick an ad from the library, add your product photos and message, and AdForge creates new video and image ads that follow its hook, pacing, and layout.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "tickwheel.com",
+    "company_name": "TickWheel - Spin a wheel, pick letters and split groups",
+    "website": "https://tickwheel.com?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://tickwheel.com?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tickwheel.com/random-team-generator/",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tickwheel.com/nba-team-wheel/",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tickwheel.com/nfl-team-wheel/",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tickwheel.com/mlb-team-wheel/",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tickwheel.com/nhl-team-wheel/",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Wheel of Names: paste your list, spin and get a fair random pick. Weights, elimination, sounds and fullscreen for classrooms and streams. Free, no sign-up.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 14
+  },
+  {
+    "company_domain": "onebuckvideo.com",
+    "company_name": "OneBuckVideo - Promote anything with a video, from $1. No subscription.",
+    "website": "https://onebuckvideo.com?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://onebuckvideo.com?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Create product or app promo videos with editable text, your photos and A.I narration. Get your message right. From $1, no subscription. Try a free sample.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "jotsky.app",
+    "company_name": "Jotsky - \"The TikTok of Reading\"",
+    "website": "https://jotsky.app?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://jotsky.app?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://jotsky.app/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://jotsky.app/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://jotsky.app/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://jotsky.app/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://jotsky.app/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://jotsky.app/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Jotsky is a nice place to read and write \u2014 stories, opinions, PSAs, or anything you'd like. Based in Seattle, WA. Read around the world.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "songsofglimmerwick.weki.gg",
+    "company_name": "Songs of Glimmerwick Wiki - Your data-mined guide to every corner of Glimmerwick",
+    "website": "https://songsofglimmerwick.weki.gg?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://songsofglimmerwick.weki.gg?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://songsofglimmerwick.weki.gg/locations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "The complete Songs of Glimmerwick wiki: 552 items, 44 quest walkthroughs, 48 villager schedules, fish, crops, songs, festivals and an interactive map, all\u2026",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "playnewyorkstreets.com",
+    "company_name": "New York Streets - Be the biggest criminal in New York",
+    "website": "https://playnewyorkstreets.com?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://playnewyorkstreets.com?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://playnewyorkstreets.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://playnewyorkstreets.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://playnewyorkstreets.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://playnewyorkstreets.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://playnewyorkstreets.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://playnewyorkstreets.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "New York Streets is a free browser crime RPG set in an old New York underworld. Run jobs, build a crew, take territory. Join the closed alpha waiting list for an invite.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "intent.love",
+    "company_name": "Intent Love - Wedding invites your guests walk into, in live 3D",
+    "website": "https://intent.love?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "i.team@intent.love",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Intent Love Team",
+        "person_title": null,
+        "source_url": "https://intent.love/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "intent.team@intent.love",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Intent Love Team",
+        "person_title": null,
+        "source_url": "https://intent.love/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "intent@intent.love",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Intent Love Team",
+        "person_title": null,
+        "source_url": "https://intent.love/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "intent_team@intent.love",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Intent Love Team",
+        "person_title": null,
+        "source_url": "https://intent.love/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "intentt@intent.love",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Intent Love Team",
+        "person_title": null,
+        "source_url": "https://intent.love/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "team@intent.love",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Intent Love Team",
+        "person_title": null,
+        "source_url": "https://intent.love/about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://intent.love?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://intent.love/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://intent.love/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "A place to cherish and share your love story. Create beautiful memories, share heartfelt messages, and celebrate your journey together.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "bodigi2.com",
+    "company_name": "BoDiGi 2.0 - You bring the idea and AI builds a business that you own",
+    "website": "https://BoDiGi2.com?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://BoDiGi2.com?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Describe your idea in one sentence. Nine AI agents build your full app \u2014 frontend, backend, tests, docs \u2014 plus an investor pitch, honest reality check, and marketing kit. Deploys to YOUR Vercel. Your code, your keys, no lock-in.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  }
+]
