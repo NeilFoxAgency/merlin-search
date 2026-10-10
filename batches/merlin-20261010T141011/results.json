@@ -1,0 +1,1230 @@
+[
+  {
+    "company_domain": "apps.teamzlab.com",
+    "company_name": "Voltline: Buzz Wire Arcade - A neon buzz wire game: trace the wire, don't get buzzed",
+    "website": "https://apps.teamzlab.com/voltline/?ref=producthunt",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "dns_failure",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "refkingsapp.com",
+    "company_name": "RefKings - Referral codes from real people. You pick who benefits.",
+    "website": "https://refkingsapp.com?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://refkingsapp.com?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Find and share referral codes from people you actually follow. RefKings lets you choose who your signup supports, instead of using an anonymous code.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "steady.club",
+    "company_name": "Steady Club: Journal & Planner - A private journal, planner and habit tracker in one app",
+    "website": "https://steady.club?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hi@steady.club",
+        "confidence": "highest",
+        "source_url": "https://steady.club/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "2 business days. For urgent matters, email us directly at hi@steady.club . Your message is never stored in a database \u2014 it goes stra"
+      }
+    ],
+    "role_emails": [
+      "hi@steady.club"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://steady.club?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://steady.club/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://steady.club/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "A private journal, daily planner and habit tracker. Plan your day on one timeline and track sleep, water and mood. No account, no cloud, no subscription.",
+    "source_urls": [
+      "https://steady.club/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 7
+  },
+  {
+    "company_domain": "wellnest.services",
+    "company_name": "WellNest - Track less. Understand more. Live better with WellNest",
+    "website": "https://wellnest.services?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "c.greenfield@wellnest.services",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Chris Greenfield",
+        "person_title": null,
+        "source_url": "https://wellnest.services?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "chris.greenfield@wellnest.services",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Chris Greenfield",
+        "person_title": null,
+        "source_url": "https://wellnest.services?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "chris@wellnest.services",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Chris Greenfield",
+        "person_title": null,
+        "source_url": "https://wellnest.services?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "chris_greenfield@wellnest.services",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Chris Greenfield",
+        "person_title": null,
+        "source_url": "https://wellnest.services?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "chrisg@wellnest.services",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Chris Greenfield",
+        "person_title": null,
+        "source_url": "https://wellnest.services?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "greenfield@wellnest.services",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Chris Greenfield",
+        "person_title": null,
+        "source_url": "https://wellnest.services?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://wellnest.services?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://wellnest.services/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://wellnest.services/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://wellnest.services/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://wellnest.services/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://wellnest.services/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://wellnest.services/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://wellnest.services/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "WellNest is a chronic health tracker for chronic pain, CRPS, asthma and epilepsy: log symptoms and medications, and share PDF reports with your doctor.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "mytetz.com",
+    "company_name": "Mytetz - Understand hard topics one sentence at a time",
+    "website": "https://mytetz.com?ref=producthunt",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "challenge_page",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "stridewalk.pages.dev",
+    "company_name": "Stride - Turn daily steps into walking leagues and races with friends",
+    "website": "https://stridewalk.pages.dev?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://stridewalk.pages.dev?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Stride turns the steps you already walk into a weekly competition. Join a league of 20, race friends and climb from Bronze to Diamond.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "firefox.com",
+    "company_name": "Firefox 157 - A brand new Firefox is here",
+    "website": "https://www.firefox.com/en-US/whatsnew/157/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.firefox.com/en-US/whatsnew/157/?ref=producthunt",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.firefox.com/en-US/whatsnew/157/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.firefox.com/en-US/whatsnew/157/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.firefox.com/en-US/whatsnew/157/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.firefox.com/en-US/whatsnew/157/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.firefox.com/en-US/whatsnew/157/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.firefox.com/en-US/whatsnew/157/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Say hello to a refreshed design and more ways to make it feel like home. Your bookmarks, extensions, and shortcuts are right where you left them.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "toonify.io",
+    "company_name": "Toonify - Create a custom animated mascot for your brand",
+    "website": "https://toonify.io/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://toonify.io/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Create a custom animated mascot for your brand. Describe your character, pick its moves, and export one small animation file for iOS, Android and the web. No design skills needed.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "agentdockapp.com",
+    "company_name": "AgentDock - Answer Claude Code & Codex from one Inbox, in any terminal",
+    "website": "https://www.agentdockapp.com?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.agentdockapp.com?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "A Mac app that keeps Claude Code, Codex and your other coding agents on the edge of your screen. Answer their questions from one Inbox and jump to any of them.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "quietok.app",
+    "company_name": "QuietOK \u2014 The automatic check - Peace of mind, without the daily check-in.",
+    "website": "https://quietok.app?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@quietok.app",
+        "confidence": "highest",
+        "source_url": "https://quietok.app?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ietOK. Privacy Terms of Use Support App Store support@quietok.app"
+      }
+    ],
+    "role_emails": [
+      "support@quietok.app"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://quietok.app?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://quietok.app/support/",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "QuietOK uses activity or manual check-ins to help people living alone stay connected with trusted people. Eligible new subscribers get a 7-day free trial.",
+    "source_urls": [
+      "https://quietok.app?ref=producthunt",
+      "https://quietok.app/support/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "sundry.orangedog.net",
+    "company_name": "Sundry - Track Anything - All your numbers in one place",
+    "website": "https://sundry.orangedog.net/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://sundry.orangedog.net/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sundry.orangedog.net/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sundry.orangedog.net/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sundry.orangedog.net/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sundry.orangedog.net/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sundry.orangedog.net/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sundry.orangedog.net/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Sundry is a private, on-device tracker app to log any number over time \u2014 weight, blood pressure, sleep, mood or a custom metric. Instant charts, no account.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "pnlytic.com",
+    "company_name": "Pnlytic - Online Trading Journal App for Serious Traders",
+    "website": "https://pnlytic.com/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@pnlytic.com",
+        "confidence": "highest",
+        "source_url": "https://pnlytic.com/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "rt template. Add your account email and describe the issue. support@pnlytic.com Open mail app WhatsApp Chat on WhatsApp One tap opens Whats"
+      }
+    ],
+    "role_emails": [
+      "support@pnlytic.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://pnlytic.com/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pnlytic.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Pnlytic is an online trading journal to log trades, track P&L, profit factor and expectancy, and visualize your equity curve \u2014 built for serious traders. Start your free 2-day trial.",
+    "source_urls": [
+      "https://pnlytic.com/?ref=producthunt",
+      "https://pnlytic.com/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 7
+  },
+  {
+    "company_domain": "layary.day",
+    "company_name": "Layary - Turn photos, notes, and stickers into a collage diary",
+    "website": "https://layary.day/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://layary.day/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://layary.day/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://layary.day/contact/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "\uc640\uc778\uacfc \uc704\uc2a4\ud0a4\uc758 \ud5a5\uacfc \ub9db\uc744 \uc2a4\ud2f0\ucee4\ub85c \ub0a8\uae30\uace0, \uc0ac\uc9c4\uacfc \uae00\ub85c \ucf5c\ub77c\uc8fc\ub97c \ub9cc\ub4dc\uc138\uc694. \ud5a5\u00b7\ub9db\uc73c\ub85c \uc9c0\ub09c \uae30\ub85d\uc744 \ucc3e\uc544\ubcfc \uc218 \uc788\ub294 iPhone\uacfc Android \uc571 Layary. App Store\uc640 Google Play\uc5d0\uc11c \ub2e4\uc6b4\ub85c\ub4dc\ud558\uc138\uc694.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "pilim.dev",
+    "company_name": "pilim.dev - Build websites, apps and automations without coding",
+    "website": "https://pilim.dev?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@pilim.dev",
+        "confidence": "high",
+        "source_url": "https://pilim.dev?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@pilim.dev"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://pilim.dev?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "\u0421\u043e\u0431\u0438\u0440\u0430\u0439\u0442\u0435 \u043f\u0440\u0438\u043b\u043e\u0436\u0435\u043d\u0438\u044f \u0441 Wildberries, Ozon \u0438 \u0432\u0441\u0442\u0440\u043e\u0435\u043d\u043d\u044b\u043c \u0418\u0418-\u0430\u0433\u0435\u043d\u0442\u043e\u043c \u2014 \u0438\u043d\u0442\u0435\u0433\u0440\u0430\u0446\u0438\u0438 \u0438 \u043c\u043e\u0434\u0435\u043b\u0438 \u0443\u0436\u0435 \u0432\u043d\u0443\u0442\u0440\u0438 \u043f\u0440\u043e\u0434\u0443\u043a\u0442\u0430.",
+    "source_urls": [
+      "https://pilim.dev?ref=producthunt"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 7
+  },
+  {
+    "company_domain": "saybrowse.vercel.app",
+    "company_name": "SayBrowse - Control webpages hands-free with natural voice commands",
+    "website": "https://saybrowse.vercel.app?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://saybrowse.vercel.app?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Control webpages hands-free with natural voice commands. Click, type, scroll, navigate, and manage tabs in Chrome.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "limerence.date",
+    "company_name": "Limerence \u2014 Dating & Real Connections - Stop scrolling. Start meeting real people with live video.",
+    "website": "https://limerence.date?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://limerence.date/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://limerence.date/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://limerence.date/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://limerence.date/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://limerence.date/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://limerence.date/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Limerence dating app is the best dating app to connect, chat, and meet new people worldwide. Enjoy live video calls, map match, distance search, and seamless sweep features.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "omnitrix.net.pl",
+    "company_name": "OmniTrix - Moderation, dashboard and music for your Discord server",
+    "website": "https://omnitrix.net.pl?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://omnitrix.net.pl?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Muzyka, moderacja i tickety w jednym bocie Discord. Powitania, automatyczne role i wygodny panel dla Twojej spo\u0142eczno\u015bci.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "budgetraid.com",
+    "company_name": "BudgetRaid - Meal plans built around your real grocery budget",
+    "website": "https://budgetraid.com?ref=producthunt",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Jesse Barron",
+        "title": "Founder",
+        "email": "jesse@budgetraid.com",
+        "source_url": "https://budgetraid.com/press"
+      }
+    ],
+    "people": [
+      {
+        "name": "Jesse Barron",
+        "title": "Founder",
+        "email": "jesse@budgetraid.com",
+        "source_url": "https://budgetraid.com/press"
+      }
+    ],
+    "emails": [
+      {
+        "address": "jesse@budgetraid.com",
+        "confidence": "highest",
+        "source_url": "https://budgetraid.com/press",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ws, corrections, partnerships, or additional assets, email jesse@budgetraid.com . View BudgetRaid on the App Store Contact the founder Budg"
+      },
+      {
+        "address": "team@budgetraid.com",
+        "confidence": "highest",
+        "source_url": "https://budgetraid.com/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "iler coverage, privacy, or account deletion can be sent to team@budgetraid.com . See the product in action Download BudgetRaid from the U."
+      }
+    ],
+    "role_emails": [
+      "team@budgetraid.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "a.budgetraid@budgetraid.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "About BudgetRaid",
+        "person_title": "Founder",
+        "source_url": "https://budgetraid.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "a.store@budgetraid.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "App Store",
+        "person_title": "Founder",
+        "source_url": "https://budgetraid.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "about.budgetraid@budgetraid.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "About BudgetRaid",
+        "person_title": "Founder",
+        "source_url": "https://budgetraid.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "about@budgetraid.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "About BudgetRaid",
+        "person_title": "Founder",
+        "source_url": "https://budgetraid.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "about_budgetraid@budgetraid.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "About BudgetRaid",
+        "person_title": "Founder",
+        "source_url": "https://budgetraid.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "aboutb@budgetraid.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "About BudgetRaid",
+        "person_title": "Founder",
+        "source_url": "https://budgetraid.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "app.store@budgetraid.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "App Store",
+        "person_title": "Founder",
+        "source_url": "https://budgetraid.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "app@budgetraid.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "App Store",
+        "person_title": "Founder",
+        "source_url": "https://budgetraid.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "app_store@budgetraid.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "App Store",
+        "person_title": "Founder",
+        "source_url": "https://budgetraid.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "apps@budgetraid.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "App Store",
+        "person_title": "Founder",
+        "source_url": "https://budgetraid.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "budgetraid@budgetraid.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "About BudgetRaid",
+        "person_title": "Founder",
+        "source_url": "https://budgetraid.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "store@budgetraid.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "App Store",
+        "person_title": "Founder",
+        "source_url": "https://budgetraid.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://budgetraid.com?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://budgetraid.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://budgetraid.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://budgetraid.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Build a free budget-friendly weekly meal plan and grocery list matched to current Walmart online prices or your selected Kroger store.",
+    "source_urls": [
+      "https://budgetraid.com?ref=producthunt",
+      "https://budgetraid.com/about",
+      "https://budgetraid.com/support",
+      "https://budgetraid.com/press"
+    ],
+    "reason": null,
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "rollfornames.com",
+    "company_name": "RollForNames - Fantasy names that actually sound playable.",
+    "website": "https://rollfornames.com?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "contact@rollfornames.com",
+        "confidence": "high",
+        "source_url": "https://rollfornames.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "contact@rollfornames.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://rollfornames.com?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rollfornames.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rollfornames.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rollfornames.com/about/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rollfornames.com/contact/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Create original DnD names with the DnD name generator. Choose a fantasy ancestry, sound style, and length, then copy or save a favorite for your next session.",
+    "source_urls": [
+      "https://rollfornames.com/contact",
+      "https://rollfornames.com/contact/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "opencal.link",
+    "company_name": "OpenCal - Your free time from all your calendars, on one link",
+    "website": "https://opencal.link?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@opencal.link",
+        "confidence": "highest",
+        "source_url": "https://opencal.link/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "eply by email to the address you enter. You can also email hello@opencal.link . Name Email Message Website"
+      }
+    ],
+    "role_emails": [
+      "hello@opencal.link"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://opencal.link?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://opencal.link/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://opencal.link/teams-calendar-scheduling-link",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://opencal.link/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "OpenCal shows your free time from all your calendars on one link. People see when you are free, never your events. Free to use.",
+    "source_urls": [
+      "https://opencal.link/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "grosswise.com",
+    "company_name": "GrossWise - 30 free paycheck calculators \u2014 know what you actually earn",
+    "website": "https://grosswise.com/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@grosswise.com",
+        "confidence": "medium",
+        "source_url": "https://grosswise.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "hello@grosswise.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://grosswise.com/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://grosswise.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://grosswise.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://grosswise.com/about/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://grosswise.com/contact/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Free salary and paycheck calculators with transparent math: take-home pay, overtime, tips, hourly rates and more.",
+    "source_urls": [
+      "https://grosswise.com/contact",
+      "https://grosswise.com/contact/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "vividhanzi.com",
+    "company_name": "VividHanzi - Free, open-source app to learn Chinese characters and words.",
+    "website": "https://vividhanzi.com/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://vividhanzi.com/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "VividHanzi is a free web app to learn Chinese characters (hanzi) and HSK vocabulary: flashcards, spaced repetition, pinyin, stroke-order writing practice and a full Chinese-English dictionary.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "ermolov.dev",
+    "company_name": "Clipstay - Clipboard history for Chrome that never loses your clips",
+    "website": "https://ermolov.dev/clipstay/?utm_source=producthunt&utm_medium=social&utm_campaign=launch&ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "viktor@ermolov.dev",
+        "confidence": "high",
+        "source_url": "https://ermolov.dev/#contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "viktor@ermolov.dev"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://ermolov.dev/clipstay/?utm_source=producthunt&utm_medium=social&utm_campaign=launch&ref=producthunt",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ermolov.dev/#contact",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Clipstay is a Chrome extension that keeps your clipboard history on your device: search it, pin it and copy it back in one click. No account, no servers, no analytics.",
+    "source_urls": [
+      "https://ermolov.dev/clipstay/?utm_source=producthunt&utm_medium=social&utm_campaign=launch&ref=producthunt",
+      "https://ermolov.dev/#contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "lockmark.eu",
+    "company_name": "Lockmark - Check a draft before you send it (DE / NL / EN)",
+    "website": "https://lockmark.eu?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@lockmark.eu",
+        "confidence": "highest",
+        "source_url": "https://lockmark.eu?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "For agencies Pricing FAQ Legal Terms Privacy support@lockmark.eu Lockmark \u00b7 operated by Klassifix (NL) \u00b7 advi"
+      }
+    ],
+    "role_emails": [
+      "support@lockmark.eu"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://lockmark.eu?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "EU-hosted AI-likeness and public-web overlap checks for your drafts in German, Dutch, and English. Free to try. Advisory estimates \u2014 not legal determinations.",
+    "source_urls": [
+      "https://lockmark.eu?ref=producthunt"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 7
+  },
+  {
+    "company_domain": "minemods.net",
+    "company_name": "MineMods - Minecraft mods, packs and compatibility tools in Russian",
+    "website": "https://minemods.net/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://minemods.net/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://minemods.net/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://minemods.net/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://minemods.net/editorial-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "MineMods: \u0441\u043a\u0430\u0447\u0430\u0442\u044c \u043c\u043e\u0434\u044b, \u043c\u043e\u0434\u043f\u0430\u043a\u0438, \u043f\u043b\u0430\u0433\u0438\u043d\u044b, \u0448\u0435\u0439\u0434\u0435\u0440\u044b, \u0440\u0435\u0441\u0443\u0440\u0441\u043f\u0430\u043a\u0438 \u0438 \u0434\u0430\u0442\u0430\u043f\u0430\u043a\u0438 \u0434\u043b\u044f \u041c\u0430\u0439\u043d\u043a\u0440\u0430\u0444\u0442 \u043d\u0430 \u0440\u0443\u0441\u0441\u043a\u043e\u043c \u044f\u0437\u044b\u043a\u0435.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  }
+]
