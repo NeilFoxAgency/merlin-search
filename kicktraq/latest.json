@@ -1,7 +1,16 @@
 {
-  "fetched_at": "2026-10-09T20:06:52.663810Z",
-  "count": 85,
+  "fetched_at": "2026-10-10T00:02:58.579401Z",
+  "count": 84,
   "campaigns": [
+    {
+      "source_id": "http://www.kicktraq.com/projects/plasticfreepals/how-much-plastic-is-in-our-water/",
+      "title": "How Much Plastic Is in Our Water?",
+      "kicktraq_url": "http://www.kicktraq.com/projects/plasticfreepals/how-much-plastic-is-in-our-water/",
+      "campaign_category": "Technology",
+      "campaign_subcategory": null,
+      "description_text": "Help Plastic-Free Pals launch a community-powered microplastic monitoring network in Philadelphia, with a vision to take it worldwide. - [currently $0 (0%) of $80,000 goal]",
+      "percent_funded": 0.0
+    },
     {
       "source_id": "http://www.kicktraq.com/projects/xtdpigeon/xtd-pigeon-a-conceptstage-caregiver-support-ecosystem/",
       "title": "XTD Pigeon: A Concept\u00e2\u0080\u0091Stage Caregiver Support Ecosystem",
@@ -116,7 +125,7 @@
       "kicktraq_url": "http://www.kicktraq.com/projects/1329522631/putt-press/",
       "campaign_category": "Technology",
       "campaign_subcategory": null,
-      "description_text": "Golf ball line printing tool to get straight lines every time. - [currently \u00a310 (0%) of \u00a310,000 goal]",
+      "description_text": "Golf ball line printing tool to get straight lines every time. - [currently \u00a320 (0%) of \u00a310,000 goal]",
       "percent_funded": 0.0
     },
     {
@@ -127,15 +136,6 @@
       "campaign_subcategory": null,
       "description_text": "Discover, collect and bring the world of Lumis to life. - [currently \u20ac90 (1%) of \u20ac7,500 goal]",
       "percent_funded": 1.0
-    },
-    {
-      "source_id": "http://www.kicktraq.com/projects/943637500/the-first-smart-weighing-bowl-for-birds/",
-      "title": "The First Smart Weighing Bowl for Birds",
-      "kicktraq_url": "http://www.kicktraq.com/projects/943637500/the-first-smart-weighing-bowl-for-birds/",
-      "campaign_category": "Technology",
-      "campaign_subcategory": null,
-      "description_text": "Mealtime Bird Weighing | Food Intake Tracking | Gram Portions | Wellness Trend Alerts | 14-Day Battery | Quick-Release & Easy-Clean - [currently HK$37,235 (745%) of HK$5,000 goal]",
-      "percent_funded": 745.0
     },
     {
       "source_id": "http://www.kicktraq.com/projects/symptomapp/nura-a-symptom-tracking-app/",
@@ -152,8 +152,8 @@
       "kicktraq_url": "http://www.kicktraq.com/projects/everyblockfoods/everyblock-foods-container-stores/",
       "campaign_category": "Technology",
       "campaign_subcategory": "Apps",
-      "description_text": "Micro grocery stores that fit in a single parking spot. Solving food deserts by providing access to fresh, healthy foods. - [currently $10,100 (51%) of $20,000 goal]",
-      "percent_funded": 51.0
+      "description_text": "Micro grocery stores that fit in a single parking spot. Solving food deserts by providing access to fresh, healthy foods. - [currently $10,360 (52%) of $20,000 goal]",
+      "percent_funded": 52.0
     },
     {
       "source_id": "http://www.kicktraq.com/projects/bincollection/bin-collection-bin-day-reminders-and-smarter-recycling/",
@@ -188,8 +188,8 @@
       "kicktraq_url": "http://www.kicktraq.com/projects/iyobaland/iyobaland-a-living-museum-in-spatial-computing/",
       "campaign_category": "Technology",
       "campaign_subcategory": "Apps",
-      "description_text": "Experience Nigerian art, history, and culture through immersive apps, VR, and spatial computing. - [currently $0 (0%) of $10,000 goal]",
-      "percent_funded": 0.0
+      "description_text": "Experience Nigerian art, history, and culture through immersive apps, VR, and spatial computing. - [currently $1,000 (10%) of $10,000 goal]",
+      "percent_funded": 10.0
     },
     {
       "source_id": "http://www.kicktraq.com/projects/lacistream/lacistream/",
@@ -471,13 +471,22 @@
       "percent_funded": 15.0
     },
     {
+      "source_id": "http://www.kicktraq.com/projects/943637500/the-first-smart-weighing-bowl-for-birds/",
+      "title": "The First Smart Weighing Bowl for Birds",
+      "kicktraq_url": "http://www.kicktraq.com/projects/943637500/the-first-smart-weighing-bowl-for-birds/",
+      "campaign_category": "Technology",
+      "campaign_subcategory": "Hardware",
+      "description_text": "Mealtime Bird Weighing | Food Intake Tracking | Gram Portions | Wellness Trend Alerts | 14-Day Battery | Quick-Release & Easy-Clean - [currently HK$38,607 (772%) of HK$5,000 goal]",
+      "percent_funded": 772.0
+    },
+    {
       "source_id": "http://www.kicktraq.com/projects/sipeed/slogic32u3-the-worlds-first-10gbps-usb32-logic-analyzer/",
       "title": "SLogic32U3 \u00e2\u0080\u0093 The World's First 10Gbps USB3.2 Logic Analyzer",
       "kicktraq_url": "http://www.kicktraq.com/projects/sipeed/slogic32u3-the-worlds-first-10gbps-usb32-logic-analyzer/",
       "campaign_category": "Technology",
       "campaign_subcategory": "Hardware",
-      "description_text": "1.4G@4CH,800M@8CH,400M@16CH,200M@32CH,100M ADC,AI debugging via MCP, Runs in your Browser or ngscope, Pro-grade specs at Maker price! - [currently HK$985,568 (1971%) of HK$50,000 goal]",
-      "percent_funded": 1971.0
+      "description_text": "1.4G@4CH,800M@8CH,400M@16CH,200M@32CH,100M ADC,AI debugging via MCP, Runs in your Browser or ngscope, Pro-grade specs at Maker price! - [currently HK$1,006,095 (2012%) of HK$50,000 goal]",
+      "percent_funded": 2012.0
     },
     {
       "source_id": "http://www.kicktraq.com/projects/oniricfilms/portable-smart-greenhouse-3d-printed-and-bluetooth-controlled/",
@@ -512,8 +521,8 @@
       "kicktraq_url": "http://www.kicktraq.com/projects/marvtech/anapneo-pro-professional-air-quality-monitor/",
       "campaign_category": "Technology",
       "campaign_subcategory": "Hardware",
-      "description_text": "The Unseen, Understood \u2014 built for clarity, real-time insight, control, and flexible wireless access to your air data - [currently \u00a3441 (15%) of \u00a33,000 goal]",
-      "percent_funded": 15.0
+      "description_text": "The Unseen, Understood \u2014 built for clarity, real-time insight, control, and flexible wireless access to your air data - [currently \u00a3540 (18%) of \u00a33,000 goal]",
+      "percent_funded": 18.0
     },
     {
       "source_id": "http://www.kicktraq.com/projects/youcount/bodycheck-smart-biomarker-testing-for-proactive-wellness/",
@@ -548,8 +557,8 @@
       "kicktraq_url": "http://www.kicktraq.com/projects/abxylute/abxylute-m6-m5-rethinking-mobile-gaming-controllers/",
       "campaign_category": "Technology",
       "campaign_subcategory": "Hardware",
-      "description_text": "Slim and modular controllers that bring console style controls to mobile, cloud, and handheld gaming. - [currently HK$1,119,342 (11193%) of HK$10,000 goal]",
-      "percent_funded": 11193.0
+      "description_text": "Slim and modular controllers that bring console style controls to mobile, cloud, and handheld gaming. - [currently HK$1,137,430 (11374%) of HK$10,000 goal]",
+      "percent_funded": 11374.0
     },
     {
       "source_id": "http://www.kicktraq.com/projects/ghostbed/climate-pro/",
@@ -557,17 +566,8 @@
       "kicktraq_url": "http://www.kicktraq.com/projects/ghostbed/climate-pro/",
       "campaign_category": "Technology",
       "campaign_subcategory": "Hardware",
-      "description_text": "Temperature-controlled sleep, made simpler | Dual-zone cooling and heating system | No subscription required - [currently $378,196 (1513%) of $25,000 goal]",
-      "percent_funded": 1513.0
-    },
-    {
-      "source_id": "http://www.kicktraq.com/projects/mobilepixels/prisma-your-whole-workstation-one-display/",
-      "title": "Prisma: Your whole workstation. One display.",
-      "kicktraq_url": "http://www.kicktraq.com/projects/mobilepixels/prisma-your-whole-workstation-one-display/",
-      "campaign_category": "Technology",
-      "campaign_subcategory": "Hardware",
-      "description_text": "A 40\u2033 curved 5K display, a docking station, an SSD bay, a USB hub, and a charging pad, all built directly into the display. - [currently $174,776 (1165%) of $15,000 goal]",
-      "percent_funded": 1165.0
+      "description_text": "Temperature-controlled sleep, made simpler | Dual-zone cooling and heating system | No subscription required - [currently $380,993 (1524%) of $25,000 goal]",
+      "percent_funded": 1524.0
     },
     {
       "source_id": "http://www.kicktraq.com/projects/noeljolie/noel-jolie-the-ritual-of-returning-to-yourself/",
@@ -584,8 +584,8 @@
       "kicktraq_url": "http://www.kicktraq.com/projects/arthun/voronite-titanium-bounce-ball/",
       "campaign_category": "Design",
       "campaign_subcategory": "Product Design",
-      "description_text": "A palm\u00c3\u00a2\u00c2\u0080\u00c2\u0091sized titanium desk toy built to be dropped\u2014seriously satisfying bounce, sound, and feel for play, focus, and fun. - [currently \u20ac5,387 (1077%) of \u20ac500 goal]",
-      "percent_funded": 1077.0
+      "description_text": "A palm\u00c3\u00a2\u00c2\u0080\u00c2\u0091sized titanium desk toy built to be dropped\u2014seriously satisfying bounce, sound, and feel for play, focus, and fun. - [currently \u20ac5,927 (1185%) of \u20ac500 goal]",
+      "percent_funded": 1185.0
     },
     {
       "source_id": "http://www.kicktraq.com/projects/picklebug/picklebug-a-net-mounted-pickleball-scoreboard/",
@@ -593,8 +593,8 @@
       "kicktraq_url": "http://www.kicktraq.com/projects/picklebug/picklebug-a-net-mounted-pickleball-scoreboard/",
       "campaign_category": "Design",
       "campaign_subcategory": "Product Design",
-      "description_text": "PickleBug is a double-sided, net-mounted scoreboard designed for the unique scoring of pickleball. - [currently $3,985 (27%) of $15,000 goal]",
-      "percent_funded": 27.0
+      "description_text": "PickleBug is a double-sided, net-mounted scoreboard designed for the unique scoring of pickleball. - [currently $4,457 (30%) of $15,000 goal]",
+      "percent_funded": 30.0
     },
     {
       "source_id": "http://www.kicktraq.com/projects/ensso/uno-xl-titanium-engineered-for-pilot-hi-tec-c/",
@@ -602,8 +602,8 @@
       "kicktraq_url": "http://www.kicktraq.com/projects/ensso/uno-xl-titanium-engineered-for-pilot-hi-tec-c/",
       "campaign_category": "Design",
       "campaign_subcategory": "Product Design",
-      "description_text": "A Minimalist Pen Precision-Machined from Grade 5 Titanium for the Legendary Pilot Hi-Tec-C Refill. Limited to Just 300 Pieces. - [currently $8,156 (163%) of $5,000 goal]",
-      "percent_funded": 163.0
+      "description_text": "A Minimalist Pen Precision-Machined from Grade 5 Titanium for the Legendary Pilot Hi-Tec-C Refill. Limited to Just 300 Pieces. - [currently $9,256 (185%) of $5,000 goal]",
+      "percent_funded": 185.0
     },
     {
       "source_id": "http://www.kicktraq.com/projects/471251237/bru-brew-sip-and-seal-in-one-tumbler/",
@@ -611,8 +611,8 @@
       "kicktraq_url": "http://www.kicktraq.com/projects/471251237/bru-brew-sip-and-seal-in-one-tumbler/",
       "campaign_category": "Design",
       "campaign_subcategory": "Product Design",
-      "description_text": "Pour-over. Cold brew. Full-size ice\u2014no lid removal. Pod-brewer friendly. - [currently $9,062 (906%) of $1,000 goal]",
-      "percent_funded": 906.0
+      "description_text": "Pour-over. Cold brew. Full-size ice\u2014no lid removal. Pod-brewer friendly. - [currently $9,505 (951%) of $1,000 goal]",
+      "percent_funded": 951.0
     },
     {
       "source_id": "http://www.kicktraq.com/projects/637848861/roadroam-stop-guessing-start-leveling-smarter/",
@@ -620,8 +620,8 @@
       "kicktraq_url": "http://www.kicktraq.com/projects/637848861/roadroam-stop-guessing-start-leveling-smarter/",
       "campaign_category": "Design",
       "campaign_subcategory": "Product Design",
-      "description_text": "No more guessing. No more back-and-forth. Know where to adjust and how many blocks to use, right on your phone. - [currently $6,920 (346%) of $2,000 goal]",
-      "percent_funded": 346.0
+      "description_text": "No more guessing. No more back-and-forth. Know where to adjust and how many blocks to use, right on your phone. - [currently $7,154 (358%) of $2,000 goal]",
+      "percent_funded": 358.0
     },
     {
       "source_id": "http://www.kicktraq.com/projects/preptop/mestov/",
@@ -629,8 +629,8 @@
       "kicktraq_url": "http://www.kicktraq.com/projects/preptop/mestov/",
       "campaign_category": "Design",
       "campaign_subcategory": "Product Design",
-      "description_text": "Chop, sort, sweep, and store in one modular meal prep workstation built around your cooking flow. - [currently HK$70,346 (1407%) of HK$5,000 goal]",
-      "percent_funded": 1407.0
+      "description_text": "Chop, sort, sweep, and store in one modular meal prep workstation built around your cooking flow. - [currently HK$74,159 (1483%) of HK$5,000 goal]",
+      "percent_funded": 1483.0
     },
     {
       "source_id": "http://www.kicktraq.com/projects/yamani/karatto-hero-legend-reusable-shoe-moisture-smell-absorber/",
@@ -638,8 +638,8 @@
       "kicktraq_url": "http://www.kicktraq.com/projects/yamani/karatto-hero-legend-reusable-shoe-moisture-smell-absorber/",
       "campaign_category": "Design",
       "campaign_subcategory": "Product Design",
-      "description_text": "Come home, slip them in. Reusable shoe inserts absorb moisture and odors without electricity. - [currently \u00a5394,404 (131%) of \u00a5300,000 goal]",
-      "percent_funded": 131.0
+      "description_text": "Come home, slip them in. Reusable shoe inserts absorb moisture and odors without electricity. - [currently \u00a5428,592 (143%) of \u00a5300,000 goal]",
+      "percent_funded": 143.0
     },
     {
       "source_id": "http://www.kicktraq.com/projects/arterra/the-coywolf-28l-hybrid-travel-backpack/",
@@ -647,7 +647,7 @@
       "kicktraq_url": "http://www.kicktraq.com/projects/arterra/the-coywolf-28l-hybrid-travel-backpack/",
       "campaign_category": "Design",
       "campaign_subcategory": "Product Design",
-      "description_text": "The 4 day travel bag that's also your everyday carry backpack. - [currently $46,142 (231%) of $20,000 goal]",
+      "description_text": "The 4 day travel bag that's also your everyday carry backpack. - [currently $46,258 (231%) of $20,000 goal]",
       "percent_funded": 231.0
     },
     {
@@ -674,8 +674,8 @@
       "kicktraq_url": "http://www.kicktraq.com/projects/947836796/bring-your-12-ft-skeleton-to-life/",
       "campaign_category": "Design",
       "campaign_subcategory": "Product Design",
-      "description_text": "A new lower-body articulation kit with hips, knees, ankles, and extension joints\u2014made possible through injection-molded production. - [currently $11,700 (39%) of $30,000 goal]",
-      "percent_funded": 39.0
+      "description_text": "A new lower-body articulation kit with hips, knees, ankles, and extension joints\u2014made possible through injection-molded production. - [currently $12,000 (40%) of $30,000 goal]",
+      "percent_funded": 40.0
     },
     {
       "source_id": "http://www.kicktraq.com/projects/littleinchworms/the-step-stool-that-doesnt-tip-little-inchworms/",
@@ -701,8 +701,8 @@
       "kicktraq_url": "http://www.kicktraq.com/projects/fundraiserz/zeniture-meditation-made-comfortable/",
       "campaign_category": "Design",
       "campaign_subcategory": "Product Design",
-      "description_text": "A foldable meditation chair w/structured lumbar support, a contoured seat, a retractable footrest & built from furniture-grade material - [currently $20,815 (104%) of $20,000 goal]",
-      "percent_funded": 104.0
+      "description_text": "A foldable meditation chair w/structured lumbar support, a contoured seat, a retractable footrest & built from furniture-grade material - [currently $22,239 (111%) of $20,000 goal]",
+      "percent_funded": 111.0
     },
     {
       "source_id": "http://www.kicktraq.com/projects/hologrambonsai/hologram-bonsai-the-bonsai-that-never-fades/",
@@ -710,8 +710,8 @@
       "kicktraq_url": "http://www.kicktraq.com/projects/hologrambonsai/hologram-bonsai-the-bonsai-that-never-fades/",
       "campaign_category": "Design",
       "campaign_subcategory": "Graphic Design",
-      "description_text": "A maintenance-free bonsai that brings Japanese beauty into everyday life - [currently \u00a5979,048 (326%) of \u00a5300,000 goal]",
-      "percent_funded": 326.0
+      "description_text": "A maintenance-free bonsai that brings Japanese beauty into everyday life - [currently \u00a51,012,547 (338%) of \u00a5300,000 goal]",
+      "percent_funded": 338.0
     },
     {
       "source_id": "http://www.kicktraq.com/projects/martinaturina/the-queer-arcana-12-posters-inspired-by-tarot/",
@@ -739,15 +739,6 @@
       "campaign_subcategory": "Graphic Design",
       "description_text": "A tactile postcard collection of all 50 states + USA, shaped from real elevation data and embossed so you can feel the terrain. - [currently $3,615 (24%) of $15,000 goal]",
       "percent_funded": 24.0
-    },
-    {
-      "source_id": "http://www.kicktraq.com/projects/dinemofriendstote/dinosaur-feelings-tote/",
-      "title": "Dinosaur Feelings Tote",
-      "kicktraq_url": "http://www.kicktraq.com/projects/dinemofriendstote/dinosaur-feelings-tote/",
-      "campaign_category": "Design",
-      "campaign_subcategory": "Graphic Design",
-      "description_text": "A reusable canvas tote with dinosaur feelings - [currently $1,354 (55%) of $2,450 goal]",
-      "percent_funded": 55.0
     },
     {
       "source_id": "http://www.kicktraq.com/projects/cricrimonti/piccoli-rituali-stagionali/",
