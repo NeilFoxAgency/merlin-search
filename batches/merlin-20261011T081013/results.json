@@ -1,0 +1,1621 @@
+[
+  {
+    "company_domain": "anilounge.net",
+    "company_name": "AniLounge - The alternative to MAL/Letterboxd for Animation lovers",
+    "website": "https://www.anilounge.net?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@anilounge.net",
+        "confidence": "highest",
+        "source_url": "https://www.anilounge.net/support",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "rt For the AniLounge website and iOS app Contact us Email support@anilounge.net for account help, privacy requests, or anything else. We u"
+      }
+    ],
+    "role_emails": [
+      "support@anilounge.net"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.anilounge.net?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.anilounge.net/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Find new animated series and films, track everything you've watched, and talk about it with fans around the world.",
+    "source_urls": [
+      "https://www.anilounge.net/support"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "justmorsecodetranslator.com",
+    "company_name": "Morse Code Translator Picture - Decode Morse Code from Pictures Instantly and for Free",
+    "website": "https://justmorsecodetranslator.com/morse-code-translator-picture/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://justmorsecodetranslator.com/morse-code-translator-picture/?ref=producthunt",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://justmorsecodetranslator.com/morse-code-translator-picture/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://justmorsecodetranslator.com/morse-code-translator-picture/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://justmorsecodetranslator.com/morse-code-translator-picture/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://justmorsecodetranslator.com/morse-code-translator-picture/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://justmorsecodetranslator.com/about-us/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://justmorsecodetranslator.com/contact-us/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://justmorsecodetranslator.com/morse-code-translator-picture/contact",
+        "action": "send_message.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://justmorsecodetranslator.com/morse-code-translator-picture/contact-us",
+        "action": "send_message.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://justmorsecodetranslator.com/contact-us/",
+        "action": "send_message.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Morse Code Translator Picture is a free online tool that decodes image Morse code into readable text. Just upload the document.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "pixetro.app",
+    "company_name": "pixetro/ - A retro messenger with no feed, no algorithm, just text",
+    "website": "https://pixetro.app?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://pixetro.app?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Retro-digital messaging. No feed. No algorithm. Just your people.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "linksyncsell.com",
+    "company_name": "LinkSyncSell - Multichannel management app: Shopify, Amazon, Tiktok & Faire",
+    "website": "https://linksyncsell.com/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "b.buckles@linksyncsell.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Billy Buckles",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://linksyncsell.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "billy.buckles@linksyncsell.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Billy Buckles",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://linksyncsell.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "billy@linksyncsell.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Billy Buckles",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://linksyncsell.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "billy_buckles@linksyncsell.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Billy Buckles",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://linksyncsell.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "billyb@linksyncsell.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Billy Buckles",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://linksyncsell.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "buckles@linksyncsell.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Billy Buckles",
+        "person_title": "Chief Executive Officer",
+        "source_url": "https://linksyncsell.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "doctors@linksyncsell.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Shop Doctors",
+        "person_title": "Co-Founder",
+        "source_url": "https://linksyncsell.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "t.doctors@linksyncsell.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Shop Doctors",
+        "person_title": "Co-Founder",
+        "source_url": "https://linksyncsell.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "the.doctors@linksyncsell.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Shop Doctors",
+        "person_title": "Co-Founder",
+        "source_url": "https://linksyncsell.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "the@linksyncsell.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Shop Doctors",
+        "person_title": "Co-Founder",
+        "source_url": "https://linksyncsell.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "the_doctors@linksyncsell.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Shop Doctors",
+        "person_title": "Co-Founder",
+        "source_url": "https://linksyncsell.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "thed@linksyncsell.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Shop Doctors",
+        "person_title": "Co-Founder",
+        "source_url": "https://linksyncsell.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://linksyncsell.com/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://linksyncsell.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Sync products, prices, inventory and orders across Shopify, Amazon, Etsy, eBay and more. The all-in-one multi-channel eCommerce platform.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "compassgoalpoints.com",
+    "company_name": "Compass \u2014 Every little thing counts - Points, goals and rewards for kids and teens \u2014 no nagging",
+    "website": "https://www.compassgoalpoints.com/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.compassgoalpoints.com/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Compass is a family points tracker for kids and teens. Agree on the behaviors that matter, check the days together, and watch the jar fill toward a goal they chose.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "nocloudware.com",
+    "company_name": "BrowSel - Pick the right browser/profile every time you click a link",
+    "website": "https://nocloudware.com/browsel?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://nocloudware.com/browsel?ref=producthunt",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://nocloudware.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://nocloudware.com/about.html",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "BrowSel: pick which browser and which profile opens a link on Windows. Every installed browser, every profile, the ones already running marked. Free, local, open source.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "grupyx.com",
+    "company_name": "Grupyx - Meet new people, group to group, in real life",
+    "website": "https://www.grupyx.com/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.grupyx.com/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Grupyx \u2014 la red social que desaparece cada d\u00eda. Planes reales en tiempo real, potenciados por CelestIA, la IA social de tu noche.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "thecomputergame.com",
+    "company_name": "The Computer Game - Build the best computer, from stone tools to your own chips",
+    "website": "https://thecomputergame.com/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://thecomputergame.com/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://thecomputergame.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://thecomputergame.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://thecomputergame.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://thecomputergame.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://thecomputergame.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://thecomputergame.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "A free browser strategy game. Build the best computer you can, from stone tools to processors and chips you design. Play alone or with an AI agent.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "makanapa.hakeemiridza.com",
+    "company_name": "MakanApa - What to eat today ?",
+    "website": "https://makanapa.hakeemiridza.com?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "h.ridza@makanapa.hakeemiridza.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Hakeemi Ridza",
+        "person_title": null,
+        "source_url": "https://makanapa.hakeemiridza.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "hakeemi.ridza@makanapa.hakeemiridza.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Hakeemi Ridza",
+        "person_title": null,
+        "source_url": "https://makanapa.hakeemiridza.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "hakeemi@makanapa.hakeemiridza.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Hakeemi Ridza",
+        "person_title": null,
+        "source_url": "https://makanapa.hakeemiridza.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "hakeemi_ridza@makanapa.hakeemiridza.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Hakeemi Ridza",
+        "person_title": null,
+        "source_url": "https://makanapa.hakeemiridza.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "hakeemir@makanapa.hakeemiridza.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Hakeemi Ridza",
+        "person_title": null,
+        "source_url": "https://makanapa.hakeemiridza.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ridza@makanapa.hakeemiridza.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Hakeemi Ridza",
+        "person_title": null,
+        "source_url": "https://makanapa.hakeemiridza.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://makanapa.hakeemiridza.com?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://makanapa.hakeemiridza.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://makanapa.hakeemiridza.com/privacy#location",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "What should I eat today? Tell MakanApa your mood, budget and how far you'll go. It picks one place nearby. Free on the App Store for iPhone.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "humancarei.com",
+    "company_name": "HCi - eZen 4D: Full-body relaxation, right at home",
+    "website": "https://humancarei.com/product/hci-ezen-advanced-4d-electric-massage-chair?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@humancarei.com",
+        "confidence": "highest",
+        "source_url": "https://humancarei.com/product/hci-ezen-advanced-4d-electric-massage-chair?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Reach out to us at +91 7300000739 or email us at info@humancarei.com . In clear words, describe the issue you are facing with th"
+      }
+    ],
+    "role_emails": [
+      "info@humancarei.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "chair@humancarei.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Massage Chair",
+        "person_title": "Founder",
+        "source_url": "https://humancarei.com/product/hci-ezen-advanced-4d-electric-massage-chair?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "m.chair@humancarei.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Massage Chair",
+        "person_title": "Founder",
+        "source_url": "https://humancarei.com/product/hci-ezen-advanced-4d-electric-massage-chair?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "massage.chair@humancarei.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Massage Chair",
+        "person_title": "Founder",
+        "source_url": "https://humancarei.com/product/hci-ezen-advanced-4d-electric-massage-chair?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "massage@humancarei.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Office Massage",
+        "person_title": "Founder",
+        "source_url": "https://humancarei.com/product/hci-ezen-advanced-4d-electric-massage-chair?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "massage_chair@humancarei.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Massage Chair",
+        "person_title": "Founder",
+        "source_url": "https://humancarei.com/product/hci-ezen-advanced-4d-electric-massage-chair?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "massagec@humancarei.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Massage Chair",
+        "person_title": "Founder",
+        "source_url": "https://humancarei.com/product/hci-ezen-advanced-4d-electric-massage-chair?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "p.sofa@humancarei.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Pro Massage Sofa",
+        "person_title": "Founder",
+        "source_url": "https://humancarei.com/product/hci-ezen-advanced-4d-electric-massage-chair?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "pro.sofa@humancarei.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Pro Massage Sofa",
+        "person_title": "Founder",
+        "source_url": "https://humancarei.com/product/hci-ezen-advanced-4d-electric-massage-chair?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "pro@humancarei.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Pro Massage Sofa",
+        "person_title": "Founder",
+        "source_url": "https://humancarei.com/product/hci-ezen-advanced-4d-electric-massage-chair?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "pro_sofa@humancarei.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Pro Massage Sofa",
+        "person_title": "Founder",
+        "source_url": "https://humancarei.com/product/hci-ezen-advanced-4d-electric-massage-chair?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "pros@humancarei.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Pro Massage Sofa",
+        "person_title": "Founder",
+        "source_url": "https://humancarei.com/product/hci-ezen-advanced-4d-electric-massage-chair?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sofa@humancarei.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Pro Massage Sofa",
+        "person_title": "Founder",
+        "source_url": "https://humancarei.com/product/hci-ezen-advanced-4d-electric-massage-chair?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "t.massage@humancarei.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Office Massage",
+        "person_title": "Founder",
+        "source_url": "https://humancarei.com/product/hci-ezen-advanced-4d-electric-massage-chair?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "the.massage@humancarei.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Office Massage",
+        "person_title": "Founder",
+        "source_url": "https://humancarei.com/product/hci-ezen-advanced-4d-electric-massage-chair?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "the@humancarei.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Office Massage",
+        "person_title": "Founder",
+        "source_url": "https://humancarei.com/product/hci-ezen-advanced-4d-electric-massage-chair?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "the_massage@humancarei.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Office Massage",
+        "person_title": "Founder",
+        "source_url": "https://humancarei.com/product/hci-ezen-advanced-4d-electric-massage-chair?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "them@humancarei.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Office Massage",
+        "person_title": "Founder",
+        "source_url": "https://humancarei.com/product/hci-ezen-advanced-4d-electric-massage-chair?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://humancarei.com/product/hci-ezen-advanced-4d-electric-massage-chair?ref=producthunt",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://humancarei.com/our-locations/massage-chair-in-jaipur",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://humancarei.com/our-locations/massage-chair-in-surat",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://humancarei.com/our-locations/massage-chair-in-delhi",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://humancarei.com/our-locations/massage-chair-in-chhattisgarh",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://humancarei.com/our-locations/massage-chair-in-lucknow",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://humancarei.com/our-locations/massage-chair-in-hyderabad",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://humancarei.com/our-locations/massage-chair-in-nashik",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://humancarei.com/product/hci-ezen-advanced-4d-electric-massage-chair?ref=producthunt",
+        "action": "https://humancarei.com/enquiries",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://humancarei.com/product/hci-ezen-advanced-4d-electric-massage-chair?ref=producthunt",
+        "action": "https://humancarei.com/appointments",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://humancarei.com/our-locations/massage-chair-in-jaipur",
+        "action": "https://humancarei.com/enquiries",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://humancarei.com/our-locations/massage-chair-in-jaipur",
+        "action": "https://humancarei.com/appointments",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://humancarei.com/our-locations/massage-chair-in-surat",
+        "action": "https://humancarei.com/enquiries",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://humancarei.com/our-locations/massage-chair-in-surat",
+        "action": "https://humancarei.com/appointments",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://humancarei.com/our-locations/massage-chair-in-delhi",
+        "action": "https://humancarei.com/enquiries",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://humancarei.com/our-locations/massage-chair-in-delhi",
+        "action": "https://humancarei.com/appointments",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://humancarei.com/our-locations/massage-chair-in-chhattisgarh",
+        "action": "https://humancarei.com/enquiries",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://humancarei.com/our-locations/massage-chair-in-chhattisgarh",
+        "action": "https://humancarei.com/appointments",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://humancarei.com/our-locations/massage-chair-in-lucknow",
+        "action": "https://humancarei.com/enquiries",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://humancarei.com/our-locations/massage-chair-in-lucknow",
+        "action": "https://humancarei.com/appointments",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://humancarei.com/our-locations/massage-chair-in-hyderabad",
+        "action": "https://humancarei.com/enquiries",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://humancarei.com/our-locations/massage-chair-in-hyderabad",
+        "action": "https://humancarei.com/appointments",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://humancarei.com/our-locations/massage-chair-in-nashik",
+        "action": "https://humancarei.com/enquiries",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://humancarei.com/our-locations/massage-chair-in-nashik",
+        "action": "https://humancarei.com/appointments",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Enjoy a customized full-body massage experience with the eZen Advanced 3D Electric Massage Chair, designed to deliver comfort, relaxation, and wellness at home.",
+    "source_urls": [
+      "https://humancarei.com/product/hci-ezen-advanced-4d-electric-massage-chair?ref=producthunt",
+      "https://humancarei.com/our-locations/massage-chair-in-jaipur",
+      "https://humancarei.com/our-locations/massage-chair-in-surat",
+      "https://humancarei.com/our-locations/massage-chair-in-delhi",
+      "https://humancarei.com/our-locations/massage-chair-in-chhattisgarh",
+      "https://humancarei.com/our-locations/massage-chair-in-lucknow",
+      "https://humancarei.com/our-locations/massage-chair-in-hyderabad",
+      "https://humancarei.com/our-locations/massage-chair-in-nashik"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 14
+  },
+  {
+    "company_domain": "writenative.app",
+    "company_name": "WriteNative - Correct, natural English in every Mac app",
+    "website": "https://writenative.app?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@writenative.app",
+        "confidence": "highest",
+        "source_url": "https://writenative.app?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "hello@writenative.app"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://writenative.app?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://writenative.app/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://writenative.app/team?from=home",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Typos fixed as you type, grammar and tone checked in Mail, Slack and Notion, and every suggestion explained in your own language. You can even write in your language.",
+    "source_urls": [
+      "https://writenative.app?ref=producthunt"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "localoy.ai",
+    "company_name": "Localoy AI - Ask for anything",
+    "website": "https://localoy.ai?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "chen@localoy.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Maya Chen",
+        "person_title": "Owner",
+        "source_url": "https://localoy.ai/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "m.chen@localoy.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Maya Chen",
+        "person_title": "Owner",
+        "source_url": "https://localoy.ai/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "maya.chen@localoy.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Maya Chen",
+        "person_title": "Owner",
+        "source_url": "https://localoy.ai/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "maya@localoy.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Maya Chen",
+        "person_title": "Owner",
+        "source_url": "https://localoy.ai/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "maya_chen@localoy.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Maya Chen",
+        "person_title": "Owner",
+        "source_url": "https://localoy.ai/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mayac@localoy.ai",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Maya Chen",
+        "person_title": "Owner",
+        "source_url": "https://localoy.ai/team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://localoy.ai?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://localoy.ai/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://localoy.ai/features/teams/",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "An AI that works on your computer: research, designs, websites, apps and files. It shows every step and asks first. Free for macOS, Windows and Linux.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "cleanmyapple.in",
+    "company_name": "CleanMyApple - Free up your Mac. Remove the clutter. Keep what matters.",
+    "website": "https://www.cleanmyapple.in?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.cleanmyapple.in?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.cleanmyapple.in/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.cleanmyapple.in/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.cleanmyapple.in/blog/category/app-management",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Clean junk files, uninstall Mac apps completely, remove leftovers and find large files with CleanMyApple. Scan your Mac and reclaim storage safely.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "masaka-ai.vercel.app",
+    "company_name": "Jet Browser - A portable WebKit runtime for AI agents",
+    "website": "https://masaka-ai.vercel.app/jet-browser/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://masaka-ai.vercel.app/jet-browser/?ref=producthunt",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Jet Browser is MASAKA's portable, self-contained WPE WebKit runtime for agents: a real browser, native input, screenshots, and an ordered JSONL protocol.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "pantausivik.com",
+    "company_name": "PantauSivik - Bus Arrival, MRT, Weather, Petrol and fuel prices in one app",
+    "website": "https://www.pantausivik.com/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.pantausivik.com/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.pantausivik.com/contact.html",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.pantausivik.com/contact.html",
+        "action": "api/contact.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Free Android app for live bus arrivals, MRT and LRT crowds, traffic, weather, air quality and alerts in Singapore and Malaysia. No account needed.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "boatbrothers.in",
+    "company_name": "Luit - AI tender search and ERP for construction companies",
+    "website": "https://boatbrothers.in/luit?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "admin@boatbrothers.in",
+        "confidence": "highest",
+        "source_url": "https://boatbrothers.in/luit?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "andir, Adagudam, Lal Ganesh, Guwahati, Assam 781034. Email: admin@boatbrothers.in. Phone: +91 81338 10323. GSTIN 18AAMCB7380H1Z9. Boat Br"
+      }
+    ],
+    "role_emails": [
+      "admin@boatbrothers.in"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://boatbrothers.in/luit?ref=producthunt",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://boatbrothers.in/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://boatbrothers.in/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://boatbrothers.in/contact-quote",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://boatbrothers.in/construction-management-software",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://boatbrothers.in/tender-management-software",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://boatbrothers.in/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://boatbrothers.in/contact-quote",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Luit runs a construction company from one console: AI tender search with official downloads, EMD tracking, projects, stores, accounts and geofenced attendance.",
+    "source_urls": [
+      "https://boatbrothers.in/luit?ref=producthunt",
+      "https://boatbrothers.in/contact",
+      "https://boatbrothers.in/about",
+      "https://boatbrothers.in/contact-quote",
+      "https://boatbrothers.in/construction-management-software",
+      "https://boatbrothers.in/tender-management-software"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "project-camera.vercel.app",
+    "company_name": "Project Camera - Premium and beautiful screenshot / photo editor",
+    "website": "https://project-camera.vercel.app/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://project-camera.vercel.app/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "A free, private photo studio for product shots and UI mockups. Frame screenshots with a real 3D camera, add depth blur and shadows, and export PNGs up to 4K.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "wordtiles.org",
+    "company_name": "Word Tiles - Crossword clues meet tile-fitting logic, at your own pace",
+    "website": "https://wordtiles.org?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://wordtiles.org?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://wordtiles.org/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://wordtiles.org/about/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Play Word Tiles online for free. Solve clues, fit letter tiles into a crossword, and work through 271 original levels. No account or download needed.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "adflow.live",
+    "company_name": "Adflow - Share posts, explore content, watch videos and earn rewards.",
+    "website": "https://adflow.live/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://adflow.live/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Adflow - Share posts, explore content, watch videos and earn rewards.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "ismypayright.co.uk",
+    "company_name": "IsMyPayRight - Understand your UK take-home pay and check your payslip",
+    "website": "https://www.ismypayright.co.uk?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@ismypayright.co.uk",
+        "confidence": "highest",
+        "source_url": "https://www.ismypayright.co.uk/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ooks wrong You can flag a calculation or wording issue at hello@ismypayright.co.uk . Include the page address, tax year, selected options and"
+      }
+    ],
+    "role_emails": [
+      "hello@ismypayright.co.uk"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.ismypayright.co.uk?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ismypayright.co.uk/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Free UK take-home pay calculator and payslip checker. See PAYE, NI, pension and student-loan deductions or check your payslip against HMRC rates.",
+    "source_urls": [
+      "https://www.ismypayright.co.uk/about"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 7
+  },
+  {
+    "company_domain": "kavro.pro",
+    "company_name": "Kavro \u2014 Visual Dear ImGui Designer - imgui, gui, user-interface, game-development, cpp, rust",
+    "website": "https://kavro.pro?ref=producthunt",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "http_403",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "invultra.com",
+    "company_name": "InvUltra - POS that keeps selling when the internet drops",
+    "website": "https://invultra.com?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "contact@invultra.com",
+        "confidence": "highest",
+        "source_url": "https://invultra.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ta & backups Why InvUltra Contact WhatsApp \u00b7 +923003606435 contact@invultra.com Privacy Terms Refunds \u00a9 2026 InvUltra. All rights reserve"
+      }
+    ],
+    "role_emails": [
+      "contact@invultra.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://invultra.com?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Sell, stock, and invoice without waiting on the internet. InvUltra is offline-first POS, inventory, and invoicing software for retailers who can't afford downtime.",
+    "source_urls": [
+      "https://invultra.com?ref=producthunt"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 7
+  },
+  {
+    "company_domain": "codexdesktopmanager.com",
+    "company_name": "Codex Desktop Manager - Your Mac windows follow your Codex projects",
+    "website": "https://codexdesktopmanager.com?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://codexdesktopmanager.com?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Assign windows to your Codex and Claude projects. Switch conversations to bring the right windows into view across your displays.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "scratchcat.app",
+    "company_name": "scratchcat - a scratchpad with dictation, history, markdown and more",
+    "website": "https://scratchcat.app/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://scratchcat.app/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://scratchcat.app/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Open it from any app, then type, paste or talk. It cleans up the words and keeps everything you clear.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "calcylator.com",
+    "company_name": "Calcylator - 13,000+ Calculators for Everyday Life, Work & Study",
+    "website": "https://www.calcylator.com/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.calcylator.com/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.calcylator.com/categories/quality-management",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.calcylator.com/categories/project-management",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.calcylator.com/categories/waste-management",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.calcylator.com/categories/unit-converter/pressure",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "12,000+ free online calculators and unit converters: EMI, SIP, GST, BMI, age, percentage, cm to inch and more. Instant results, no sign-up.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  }
+]
