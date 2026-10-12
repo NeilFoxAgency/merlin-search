@@ -1,0 +1,1277 @@
+[
+  {
+    "company_domain": "gochouchou.com",
+    "company_name": "Go!ChouChou - Find pet travel friends, near and far",
+    "website": "https://gochouchou.com/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://gochouchou.com/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://gochouchou.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Dream a little. Explore and travel together with your pet.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "speedbrakearmed.com",
+    "company_name": "Speed Brake Armed - Aviation music studio, first of its kind",
+    "website": "https://www.speedbrakearmed.com?ref=producthunt",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "challenge_page",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "merging.games",
+    "company_name": "Merging Games - Find game mashups, creators and download status",
+    "website": "https://merging.games?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://merging.games?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://merging.games/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://merging.games/about/#statuses",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://merging.games/about/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Discover game mashups and crossover mods, from Mario + Portal to Skyrim + Minecraft. Find original creators, requirements and download status.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "mxltvapp.com",
+    "company_name": "MXL TV - MXL TV APK Guides, Installation Tips & Troubleshooting",
+    "website": "https://mxltvapp.com?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_content_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "mymindtherapyfriend.com",
+    "company_name": "MyMindTherapyFriend AI-Mental Wellness - Your AI Wellness Companion, With Human Care at Heart.",
+    "website": "https://mymindtherapyfriend.com/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "contact@mymindtherapyfriend.com",
+        "confidence": "highest",
+        "source_url": "https://mymindtherapyfriend.com/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "support@mymindtherapyfriend.com",
+        "confidence": "highest",
+        "source_url": "https://mymindtherapyfriend.com/support",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "mymindtherapyfriend Back to Home How can we help? Email Us support@mymindtherapyfriend.com Get a response within 24 hours Send Email WhatsApp Communit"
+      }
+    ],
+    "role_emails": [
+      "contact@mymindtherapyfriend.com",
+      "support@mymindtherapyfriend.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://mymindtherapyfriend.com/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mymindtherapyfriend.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mymindtherapyfriend.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mymindtherapyfriend.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mymindtherapyfriend.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mymindtherapyfriend.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mymindtherapyfriend.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mymindtherapyfriend.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "MyMindTherapyFriend is India's AI-powered mental health platform offering Manas AI companion, CBT tools, mood tracking, and verified therapists. Private, affordable, and free to start.",
+    "source_urls": [
+      "https://mymindtherapyfriend.com/?ref=producthunt",
+      "https://mymindtherapyfriend.com/contact",
+      "https://mymindtherapyfriend.com/contact-us",
+      "https://mymindtherapyfriend.com/contactus",
+      "https://mymindtherapyfriend.com/about",
+      "https://mymindtherapyfriend.com/about-us",
+      "https://mymindtherapyfriend.com/team",
+      "https://mymindtherapyfriend.com/support"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "reppharma.com",
+    "company_name": "RepPharma - The CRM for pharma field teams, from $20 a user",
+    "website": "https://www.reppharma.com?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@reppharma.com",
+        "confidence": "highest",
+        "source_url": "https://www.reppharma.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "in DUBAI \u00b7 Licence Dubai DET trade licence no. 1557931 \u00b7 support@reppharma.com UAE hospitals, clinics & pharmacies Pharma CRM Pharma CRM U"
+      }
+    ],
+    "role_emails": [
+      "support@reppharma.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.reppharma.com?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.reppharma.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.reppharma.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.reppharma.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.reppharma.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.reppharma.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.reppharma.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.reppharma.com/customer-story-uae-pharma-field-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "RepPharma is the CRM for pharma field teams: doctor and pharmacy visits, smart monthly plans, forecasts, sales and stock. From $20 a user, 14-day free trial.",
+    "source_urls": [
+      "https://www.reppharma.com?ref=producthunt",
+      "https://www.reppharma.com/contact",
+      "https://www.reppharma.com/contact-us",
+      "https://www.reppharma.com/contactus",
+      "https://www.reppharma.com/about",
+      "https://www.reppharma.com/about-us",
+      "https://www.reppharma.com/team",
+      "https://www.reppharma.com/customer-story-uae-pharma-field-team"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "sinpros.com",
+    "company_name": "Sinpros Audio Match EQ Hub - Reference mastering and Match EQ on your Windows desktop",
+    "website": "https://sinpros.com/sinpros-audio-match-eq-hub?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://sinpros.com/sinpros-audio-match-eq-hub?ref=producthunt",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sinpros.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://sinpros.com/about-us",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2025-08-16"
+      },
+      {
+        "url": "https://sinpros.com/sinpros-entertainment-multimedia",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://sinpros.com/contact-us",
+        "action": "/contact-us/custom_forms/51210/submit",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Match your music to a reference track with automatic EQ, dynamics, loudness, and peak processing. Preview your master before paying $4.99. No subscription.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "burningbridgesai.xyz",
+    "company_name": "Burning Bridges AI - Turn one pet photo into a 15-second party video",
+    "website": "https://burningbridgesai.xyz/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@burningbridgesai.xyz",
+        "confidence": "highest",
+        "source_url": "https://burningbridgesai.xyz/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "urning Bridges AI Give your pet the main character moment. hello@burningbridgesai.xyz Explore Examples How it works FAQ Read Blog Trend guide How"
+      }
+    ],
+    "role_emails": [
+      "hello@burningbridgesai.xyz"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://burningbridgesai.xyz/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Burning Bridges AI for your dog or cat. Preview a pet photo, learn how the party-video template works, and check current generation availability.",
+    "source_urls": [
+      "https://burningbridgesai.xyz/?ref=producthunt"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 7
+  },
+  {
+    "company_domain": "repstep.app",
+    "company_name": "RepStep - A lifting log that plans your next workout for you",
+    "website": "https://repstep.app?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@repstep.app",
+        "confidence": "high",
+        "source_url": "https://repstep.app/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ghter or take a break. Find RepStep Questions or bugs go to hello@repstep.app, and they reach me."
+      }
+    ],
+    "role_emails": [
+      "hello@repstep.app"
+    ],
+    "email_candidates": [
+      {
+        "address": "hansen@repstep.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Levi Hansen",
+        "person_title": "Founder",
+        "source_url": "https://repstep.app?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "l.hansen@repstep.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Levi Hansen",
+        "person_title": "Founder",
+        "source_url": "https://repstep.app?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "levi.hansen@repstep.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Levi Hansen",
+        "person_title": "Founder",
+        "source_url": "https://repstep.app?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "levi@repstep.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Levi Hansen",
+        "person_title": "Founder",
+        "source_url": "https://repstep.app?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "levi_hansen@repstep.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Levi Hansen",
+        "person_title": "Founder",
+        "source_url": "https://repstep.app?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "levih@repstep.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Levi Hansen",
+        "person_title": "Founder",
+        "source_url": "https://repstep.app?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://repstep.app?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://repstep.app/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://repstep.app/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://repstep.app/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://repstep.app/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://repstep.app/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://repstep.app/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "A workout tracker that plans your next workout from your log: +1 rep or +5 lb, every time. Free to log; 14 days of Pro planning free.",
+    "source_urls": [
+      "https://repstep.app/about"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 7
+  },
+  {
+    "company_domain": "unimal.jp",
+    "company_name": "Simple Virtual Camera - Switch what your camera shows, from your menu bar",
+    "website": "https://unimal.jp/lab/simple-virtual-camera/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@unimal.jp",
+        "confidence": "highest",
+        "source_url": "https://unimal.jp/lab/simple-virtual-camera/support/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "0\u30fbI \u3068 1 \u3092\u53d6\u308a\u9055\u3048\u3066\u3044\u306a\u3044\u304b\u3054\u78ba\u8a8d\u304f\u3060\u3055\u3044(\u30ad\u30fc\u306b O\u30fb0\u30fbI\u30fb1 \u306f\u4f7f\u3063\u3066\u3044\u307e\u305b\u3093)\u3002 \u89e3\u6c7a\u3057\u306a\u3044\u5834\u5408\u306f support@unimal.jp \u307e\u3067\u3054\u9023\u7d61\u304f\u3060\u3055\u3044\u3002\u3054\u8cfc\u5165\u6642\u306e\u30e1\u30fc\u30eb\u30a2\u30c9\u30ec\u30b9\u3092\u6dfb\u3048\u3066\u3044\u305f\u3060\u3051\u308b\u3068\u8abf\u67fb\u304c\u30b9\u30e0\u30fc\u30ba\u3067\u3059\u3002 Simple Virtual"
+      },
+      {
+        "address": "u003esupport@unimal.jp",
+        "confidence": "high",
+        "source_url": "https://unimal.jp/lab/simple-virtual-camera/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "support@unimal.jp",
+      "u003esupport@unimal.jp"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://unimal.jp/lab/simple-virtual-camera/?ref=producthunt",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://unimal.jp/lab/simple-virtual-camera/support/",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Zoom\u30fbMeet\u30fbTeams \u306a\u3069\u30ab\u30e1\u30e9\u3092\u4f7f\u3046\u3059\u3079\u3066\u306e\u30a2\u30d7\u30ea\u306b\u6620\u308b\u6620\u50cf\u3092\u30011\u304b\u6240\u304b\u3089\u30b3\u30f3\u30c8\u30ed\u30fc\u30eb\u3067\u304d\u308b macOS \u7528\u30d0\u30fc\u30c1\u30e3\u30eb\u30ab\u30e1\u30e9\u300214\u65e5\u9593\u30d5\u30eb\u6a5f\u80fd\u3092\u7121\u6599\u3067\u8a66\u305b\u307e\u3059\u3002",
+    "source_urls": [
+      "https://unimal.jp/lab/simple-virtual-camera/?ref=producthunt",
+      "https://unimal.jp/lab/simple-virtual-camera/support/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "signalform.mbalimakeleni0.workers.dev",
+    "company_name": "SignalForm - Don't build in blindness",
+    "website": "https://signalform.mbalimakeleni0.workers.dev?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "discovery@signalform.mbalimakeleni0.workers.dev",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Problem Discovery",
+        "person_title": "Founder",
+        "source_url": "https://signalform.mbalimakeleni0.workers.dev?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "p.discovery@signalform.mbalimakeleni0.workers.dev",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Problem Discovery",
+        "person_title": "Founder",
+        "source_url": "https://signalform.mbalimakeleni0.workers.dev?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "problem.discovery@signalform.mbalimakeleni0.workers.dev",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Problem Discovery",
+        "person_title": "Founder",
+        "source_url": "https://signalform.mbalimakeleni0.workers.dev?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "problem@signalform.mbalimakeleni0.workers.dev",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Problem Discovery",
+        "person_title": "Founder",
+        "source_url": "https://signalform.mbalimakeleni0.workers.dev?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "problem_discovery@signalform.mbalimakeleni0.workers.dev",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Problem Discovery",
+        "person_title": "Founder",
+        "source_url": "https://signalform.mbalimakeleni0.workers.dev?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "problemd@signalform.mbalimakeleni0.workers.dev",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Problem Discovery",
+        "person_title": "Founder",
+        "source_url": "https://signalform.mbalimakeleni0.workers.dev?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://signalform.mbalimakeleni0.workers.dev?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://signalform.mbalimakeleni0.workers.dev/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://signalform.mbalimakeleni0.workers.dev/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://signalform.mbalimakeleni0.workers.dev/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://signalform.mbalimakeleni0.workers.dev/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://signalform.mbalimakeleni0.workers.dev/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://signalform.mbalimakeleni0.workers.dev/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "A survey and feedback pipeline with Google Forms integration and Apps Script response ingestion.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "kiwidesk.kiwicanopy.com",
+    "company_name": "KiwiDesk v2.2.0 - Peak speed meets beautiful UI.",
+    "website": "https://kiwidesk.kiwicanopy.com?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://kiwidesk.kiwicanopy.com?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "KiwiDesk keeps your Mac calm and organized \u2014 open apps by shortcut, save your favorite layouts, and let every window find its place.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "lipsynctool.com",
+    "company_name": "Rumpelstiltskin AI by LipSyncTool - Cast two portraits in a fairy-tale dance video",
+    "website": "https://lipsynctool.com/rumpelstiltskin-ai?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@lipsynctool.com",
+        "confidence": "highest",
+        "source_url": "https://lipsynctool.com/rumpelstiltskin-ai?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "support@lipsynctool.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://lipsynctool.com/rumpelstiltskin-ai?ref=producthunt",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Create a Rumpelstiltskin AI dance video from two portraits. Cast a dancer and a spectator in a 6-second barn template and download an MP4 with music.",
+    "source_urls": [
+      "https://lipsynctool.com/rumpelstiltskin-ai?ref=producthunt"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 7
+  },
+  {
+    "company_domain": "unscramblr.ai",
+    "company_name": "Unscramblr.ai - Unscramble letters in 10 languages w/ hints that don't spoil",
+    "website": "https://unscramblr.ai/en/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@unscramblr.ai",
+        "confidence": "highest",
+        "source_url": "https://unscramblr.ai/en/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "hello@unscramblr.ai"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://unscramblr.ai/en/?ref=producthunt",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://unscramblr.ai/en/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://unscramblr.ai/en/about/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Unscramble letters into words instantly. Wildcards, filters, Scrabble and Words With Friends scores, and AI hints that help you solve it yourself.",
+    "source_urls": [
+      "https://unscramblr.ai/en/?ref=producthunt",
+      "https://unscramblr.ai/en/about",
+      "https://unscramblr.ai/en/about/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "spoilerplate.com",
+    "company_name": "Spoilerplate - Call it before it happens. Social prediction for launches",
+    "website": "https://spoilerplate.com?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://spoilerplate.com?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Make free predictions on the launches shaping gaming and technology.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "kaloft.com",
+    "company_name": "Kaloft - Turn clothes, inspiration and plans into styling art",
+    "website": "https://www.kaloft.com?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@kaloft.com",
+        "confidence": "high",
+        "source_url": "https://www.kaloft.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "support@kaloft.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.kaloft.com?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.kaloft.com/press",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "An AI outfit planner for the clothes you already own: plan outfits, preview them on yourself, and see the look before you wear it. Free on Android.",
+    "source_urls": [
+      "https://www.kaloft.com?ref=producthunt",
+      "https://www.kaloft.com/press"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "misletrasbonitas.mx",
+    "company_name": "Letras Bonitas - Generador gratis de letras bonitas para copiar y pegar",
+    "website": "https://misletrasbonitas.mx/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://misletrasbonitas.mx/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://misletrasbonitas.mx/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://misletrasbonitas.mx/contacto/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://misletrasbonitas.mx/contact",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://misletrasbonitas.mx/contacto/",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Genera letras bonitas, cursivas, g\u00f3ticas y aesthetic gratis. Convierte tu texto y copia estilos para Instagram, TikTok, WhatsApp, perfiles y m\u00e1s.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "savedly.app",
+    "company_name": "Savedly - Save anything. Find it instantly.",
+    "website": "https://savedly.app?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@savedly.app",
+        "confidence": "medium",
+        "source_url": "https://savedly.app/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "support@savedly.app"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://savedly.app?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://savedly.app/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://savedly.app/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://savedly.app/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Your personal memory for the internet. Save links, notes, videos, and screenshots, and find them again with a search that understands what you meant.",
+    "source_urls": [
+      "https://savedly.app/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 7
+  },
+  {
+    "company_domain": "demucs.net",
+    "company_name": "Demucs - Separate music into stems in your browser with Demucs v4",
+    "website": "https://demucs.net/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@demucs.net",
+        "confidence": "highest",
+        "source_url": "https://demucs.net/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "by a person. There is no ticket system to fight with. Email support@demucs.net Useful things to include: your account email, roughly when"
+      }
+    ],
+    "role_emails": [
+      "support@demucs.net"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://demucs.net/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://demucs.net/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://demucs.net/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Demucs Online is a free-to-try Demucs AI app for music source separation. Upload any song and split vocals, drums, bass and other stems with Demucs v4. No install.",
+    "source_urls": [
+      "https://demucs.net/?ref=producthunt",
+      "https://demucs.net/contact",
+      "https://demucs.net/about"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 7
+  },
+  {
+    "company_domain": "altairplay.com",
+    "company_name": "Altair Play - Every game you own, every hour you\u2019ve played, in one place",
+    "website": "https://altairplay.com?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://altairplay.com?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Download the Altair Play Game Launcher and Tracker for PC. Track your playtime, organize your library and launch games from one place.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "homeenergycalculators.com",
+    "company_name": "Home Energy Calculators - Free Solar, EV & Home Energy Calculators",
+    "website": "https://homeenergycalculators.com/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://homeenergycalculators.com/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homeenergycalculators.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://homeenergycalculators.com/about/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Use free home energy calculators for solar panels, EV charging time, battery backup, generator sizing, solar payback, net metering, heat pump vs gas costs, and more.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "firantey.me",
+    "company_name": "Firantey - Leave a little trail for the next traveler.",
+    "website": "https://firantey.me?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@firantey.me",
+        "confidence": "medium",
+        "source_url": "https://firantey.me/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@firantey.me"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://firantey.me?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://firantey.me/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://firantey.me/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://firantey.me/about",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Find restaurants, stays, tours, trails, local places, and honest travel stories shared by travelers around the world.",
+    "source_urls": [
+      "https://firantey.me/about"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "sportmetrics.org",
+    "company_name": "Sportmetrics - See the shape of a game before kickoff.",
+    "website": "https://sportmetrics.org/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://sportmetrics.org/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Football analytics, live metrics, team radars, rolling form windows, and match preview signals for bettors, analysts, and serious football fans.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "techtheverge.com",
+    "company_name": "SEMRUSH TOOL XPEDIA - TheVerge | A Guide to Technology , AI",
+    "website": "https://techtheverge.com/verge-technology-news-reviews/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://techtheverge.com/verge-technology-news-reviews/?ref=producthunt",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://techtheverge.com/verge-technology-news-reviews/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://techtheverge.com/verge-technology-news-reviews/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://techtheverge.com/verge-technology-news-reviews/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://techtheverge.com/verge-technology-news-reviews/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://techtheverge.com/about-us/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://techtheverge.com/contact-us/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://techtheverge.com/verge-technology-news-reviews/?ref=producthunt",
+        "action": "https://techtheverge.com/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Explore TheVerge, its technology coverage, product reviews, AI, gadgets, software, digital culture, and the changing world of technology journalism.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "zoreset.com",
+    "company_name": "Zoreset - Asset tracking without the spreadsheet",
+    "website": "https://zoreset.com?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://zoreset.com?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Track equipment, furniture and tools with QR labels and NFC tags. Every phone scan records where an asset was and when, and a room audit takes minutes \u2014 no app to install, free for your first few assets.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  }
+]
