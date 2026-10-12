@@ -1,0 +1,1351 @@
+[
+  {
+    "company_domain": "dailyhelm.com",
+    "company_name": "DailyHelm - Turn analytics into daily revenue-boosting fixes",
+    "website": "https://dailyhelm.com/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@dailyhelm.com",
+        "confidence": "highest",
+        "source_url": "https://dailyhelm.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Aria, or pricing? Send us a note. We read everything. Email support@dailyhelm.com Name Email Message Send message DailyHelm An AI business mo"
+      }
+    ],
+    "role_emails": [
+      "support@dailyhelm.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://dailyhelm.com/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dailyhelm.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dailyhelm.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dailyhelm.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dailyhelm.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dailyhelm.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dailyhelm.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dailyhelm.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://dailyhelm.com/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "DailyHelm is your AI business reviewer for operations, ads, SEO, and store monitoring. It reads your data overnight and tells you what to fix. Starts at $49 your first month.",
+    "source_urls": [
+      "https://dailyhelm.com/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "acidcigars.shop",
+    "company_name": "Acid Cigar - acidcigars.shop We sell top quality acid cigers",
+    "website": "https://acidcigars.shop?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "anderson@acidcigars.shop",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lucy Anderson",
+        "person_title": "Founder",
+        "source_url": "https://acidcigars.shop/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "l.anderson@acidcigars.shop",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lucy Anderson",
+        "person_title": "Founder",
+        "source_url": "https://acidcigars.shop/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "lucy.anderson@acidcigars.shop",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lucy Anderson",
+        "person_title": "Founder",
+        "source_url": "https://acidcigars.shop/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "lucy@acidcigars.shop",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lucy Anderson",
+        "person_title": "Founder",
+        "source_url": "https://acidcigars.shop/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "lucy_anderson@acidcigars.shop",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lucy Anderson",
+        "person_title": "Founder",
+        "source_url": "https://acidcigars.shop/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "lucya@acidcigars.shop",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lucy Anderson",
+        "person_title": "Founder",
+        "source_url": "https://acidcigars.shop/team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://acidcigars.shop?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://acidcigars.shop/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://acidcigars.shop/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://acidcigars.shop/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://acidcigars.shop/about/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "WE SELL TOP-QUALITY ACID CIGARS AT AFFORDABLE PRICES WHICH WE SHIP TO ALL PARTS OF THE UNITED STATES AND SOME PARTS OF THE WORLD.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "freellmagents.com",
+    "company_name": "FreeLLMAgents - FreellmAgents.com \u2013 AI & LLM Agent Directory",
+    "website": "https://freellmagents.com?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://freellmagents.com?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Discover, search and explore the best free and open-source AI and LLM agent repositories on GitHub \u2014 browse by category, language and popularity.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "danyblitz-bit.github.io",
+    "company_name": "PDF MetaClean - Strip PDF metadata at byte level, no re-encoding",
+    "website": "https://danyblitz-bit.github.io/pdf-metaclean/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://danyblitz-bit.github.io/pdf-metaclean/?ref=producthunt",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Strips sensitive metadata (author, software, timestamps) from PDFs with one CLI command. Byte-level /Info removal, verified by a self-check.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "peregrineintell.com",
+    "company_name": "Open Field - Every open marketing seat, in one open field.",
+    "website": "https://Www.peregrineintell.com/open-field?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "america@peregrineintell.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "North America",
+        "person_title": "Marketing Manager",
+        "source_url": "https://Www.peregrineintell.com/open-field?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jobs@peregrineintell.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Marketing Jobs",
+        "person_title": "Cmo",
+        "source_url": "https://Www.peregrineintell.com/open-field?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "m.jobs@peregrineintell.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Marketing Jobs",
+        "person_title": "Cmo",
+        "source_url": "https://Www.peregrineintell.com/open-field?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "marketing.jobs@peregrineintell.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Marketing Jobs",
+        "person_title": "Cmo",
+        "source_url": "https://Www.peregrineintell.com/open-field?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "marketing@peregrineintell.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Marketing Jobs",
+        "person_title": "Cmo",
+        "source_url": "https://Www.peregrineintell.com/open-field?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "marketing_jobs@peregrineintell.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Marketing Jobs",
+        "person_title": "Cmo",
+        "source_url": "https://Www.peregrineintell.com/open-field?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "marketingj@peregrineintell.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Marketing Jobs",
+        "person_title": "Cmo",
+        "source_url": "https://Www.peregrineintell.com/open-field?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "n.america@peregrineintell.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "North America",
+        "person_title": "Marketing Manager",
+        "source_url": "https://Www.peregrineintell.com/open-field?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "north.america@peregrineintell.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "North America",
+        "person_title": "Marketing Manager",
+        "source_url": "https://Www.peregrineintell.com/open-field?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "north@peregrineintell.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "North America",
+        "person_title": "Marketing Manager",
+        "source_url": "https://Www.peregrineintell.com/open-field?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "north_america@peregrineintell.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "North America",
+        "person_title": "Marketing Manager",
+        "source_url": "https://Www.peregrineintell.com/open-field?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "northa@peregrineintell.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "North America",
+        "person_title": "Marketing Manager",
+        "source_url": "https://Www.peregrineintell.com/open-field?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://Www.peregrineintell.com/open-field?ref=producthunt",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Free search of marketing roles from manager to CMO at US brands, found across company career pages and job boards, with no staffing-agency reposts. Each role says what the job really is: build a team, take over from an agency, or fill an empty top seat.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "memriplace.com",
+    "company_name": "MemriPlace - An AI-assisted memory journal",
+    "website": "https://memriplace.com/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://memriplace.com/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://memriplace.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://memriplace.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://memriplace.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://memriplace.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://memriplace.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://memriplace.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Talk or type through meaningful moments. MemriPlace's gentle AI questions help you shape the details into stories you can keep in your personal night sky.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "remoteclipboard.com",
+    "company_name": "Remote Clipboard - Share text and files across devices, people and AI agents",
+    "website": "https://remoteclipboard.com?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://remoteclipboard.com?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://remoteclipboard.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://remoteclipboard.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://remoteclipboard.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://remoteclipboard.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://remoteclipboard.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://remoteclipboard.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Share text and files between devices, people and AI agents. Create a short-lived room, open the link anywhere, or use the rclip command line.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "chatwik.com",
+    "company_name": "Chatwik - All-in-one platform for customer communication.",
+    "website": "https://www.chatwik.com/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.chatwik.com/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Connect all your support channels, WhatsApp, Live Chat, Messenger, and CRM in one platform powered by AI.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "claryoo.com",
+    "company_name": "Claryoo - The AI co-host that keeps every meeting awake",
+    "website": "https://www.claryoo.com/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hi@claryoo.com",
+        "confidence": "highest",
+        "source_url": "https://www.claryoo.com/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "hi@claryoo.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.claryoo.com/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.claryoo.com/templates/team-training",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.claryoo.com/tools/team-generator",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.claryoo.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Run engaging workshops and trainings on Zoom, Meet and Teams, or in the room with people on their phones. Live polls and quizzes, a read on who\u2019s lost, and a summary the moment it ends.",
+    "source_urls": [
+      "https://www.claryoo.com/?ref=producthunt",
+      "https://www.claryoo.com/templates/team-training",
+      "https://www.claryoo.com/tools/team-generator",
+      "https://www.claryoo.com/support"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "raghurammrsd.github.io",
+    "company_name": "CodeGraph MCP - Deterministic code, DB lineage & runtime intelligence for AI",
+    "website": "https://raghurammrsd.github.io/CODE_GRAPH_MCP/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://raghurammrsd.github.io/CODE_GRAPH_MCP/?ref=producthunt",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Official website and documentation for CodeGraph MCP: deterministic local-first code intelligence with Web UI, VS Code extension, Git-aware diffs, runtime telemetry, database lineage, and 70 verified MCP tools.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "moshr.net",
+    "company_name": "moshr - A chaotic text-based anonymous forum",
+    "website": "https://moshr.net?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://moshr.net?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://moshr.net/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://moshr.net/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://moshr.net/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://moshr.net/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://moshr.net/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://moshr.net/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Moshing here is fun, but it's also fun at\n[i1] https://world2ch.net/lounge/ [/i1]\n[i2] https://world2ch.net/lounge/ [/i2]\n[i3] https://world2ch.net/lounge/ [/i3]\n\nMosh on!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "circlepanel.com",
+    "company_name": "CirclePanel - End to end User Research Platform",
+    "website": "https://circlepanel.com?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@circlepanel.com",
+        "confidence": "high",
+        "source_url": "https://circlepanel.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "support@circlepanel.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://circlepanel.com?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://circlepanel.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://circlepanel.com/en/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Plan, recruit, interview, analyze and share user research in one place. Circle Panel turns raw sessions into decision-ready insight.",
+    "source_urls": [
+      "https://circlepanel.com?ref=producthunt"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "freelance-money-toolkit.vercel.app",
+    "company_name": "Freelance Money Toolkit - Track projects, price your work, and know your income\ud83d\udc4c",
+    "website": "https://freelance-money-toolkit.vercel.app/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://freelance-money-toolkit.vercel.app/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Manage your profile, avatar, appearance, and account in one place.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "apricornsolutions.com",
+    "company_name": "Custom ERP Software Development - ERP Software, Custom ERP, ERP Development",
+    "website": "https://www.apricornsolutions.com/?ref=producthunt",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "challenge_page",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "calculadoraimportacion.com.ar",
+    "company_name": "Calculadora de Importaciones - Cotizador inteligente de importaciones",
+    "website": "https://calculadoraimportacion.com.ar/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://calculadoraimportacion.com.ar/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Calculadora de importaciones en Argentina: estim\u00e1 aranceles, IVA, flete, seguro y gastos de despacho para conocer el costo final antes de comprar o vender.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "capycom.ca",
+    "company_name": "Capycom - Send a physical letter online",
+    "website": "https://capycom.ca?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://capycom.ca?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "R\u00e9digez une lettre ou importez un PDF. Capycom l\u2019imprime, la met sous enveloppe et la poste au Canada, sans imprimante ni d\u00e9placement.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "mcp.crosswalk.to",
+    "company_name": "crosswalk - A third place for people & their agents, starting with inbox",
+    "website": "https://mcp.crosswalk.to?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "s.valley@mcp.crosswalk.to",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Silicon Valley",
+        "person_title": "Founder",
+        "source_url": "https://mcp.crosswalk.to/newsletters/best-lp-and-fund-management-newsletters",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "silicon.valley@mcp.crosswalk.to",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Silicon Valley",
+        "person_title": "Founder",
+        "source_url": "https://mcp.crosswalk.to/newsletters/best-lp-and-fund-management-newsletters",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "silicon@mcp.crosswalk.to",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Silicon Valley",
+        "person_title": "Founder",
+        "source_url": "https://mcp.crosswalk.to/newsletters/best-lp-and-fund-management-newsletters",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "silicon_valley@mcp.crosswalk.to",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Silicon Valley",
+        "person_title": "Founder",
+        "source_url": "https://mcp.crosswalk.to/newsletters/best-lp-and-fund-management-newsletters",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "siliconv@mcp.crosswalk.to",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Silicon Valley",
+        "person_title": "Founder",
+        "source_url": "https://mcp.crosswalk.to/newsletters/best-lp-and-fund-management-newsletters",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "valley@mcp.crosswalk.to",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Silicon Valley",
+        "person_title": "Founder",
+        "source_url": "https://mcp.crosswalk.to/newsletters/best-lp-and-fund-management-newsletters",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://mcp.crosswalk.to?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mcp.crosswalk.to/newsletters/best-lp-and-fund-management-newsletters",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mcp.crosswalk.to/newsletters/best-leadership-and-career-newsletters",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mcp.crosswalk.to/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Newsletters, feeds and crosswalks in one place your AI reads. Subscribe with you@crosswalk.to, follow a crosswalk, then ask Claude or ChatGPT what matters.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "neevio.in",
+    "company_name": "Neevio - Project management for agencies, from scope to delivery",
+    "website": "https://neevio.in?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "prince@neevio.in",
+        "confidence": "highest",
+        "source_url": "https://neevio.in/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "king and GST invoicing. The link opens your mail app. Email prince@neevio.in \u2192 Help with your workspace Tell us which workflow is affect"
+      }
+    ],
+    "role_emails": [
+      "prince@neevio.in"
+    ],
+    "email_candidates": [
+      {
+        "address": "o.workspace@neevio.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "One Workspace",
+        "person_title": "Owner",
+        "source_url": "https://neevio.in?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "one.workspace@neevio.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "One Workspace",
+        "person_title": "Owner",
+        "source_url": "https://neevio.in?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "one@neevio.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "One Workspace",
+        "person_title": "Owner",
+        "source_url": "https://neevio.in?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "one_workspace@neevio.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "One Workspace",
+        "person_title": "Owner",
+        "source_url": "https://neevio.in?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "onew@neevio.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "One Workspace",
+        "person_title": "Owner",
+        "source_url": "https://neevio.in?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "workspace@neevio.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "One Workspace",
+        "person_title": "Owner",
+        "source_url": "https://neevio.in?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://neevio.in?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://neevio.in/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://neevio.in/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://neevio.in/features/scope-management",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://neevio.in/features/task-management",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://neevio.in/features/claude-teammate",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Neevio helps agencies and software teams flag work outside the SOW, get client approval on the price, track time and send GST invoices with UPI details.",
+    "source_urls": [
+      "https://neevio.in?ref=producthunt",
+      "https://neevio.in/contact",
+      "https://neevio.in/about",
+      "https://neevio.in/features/scope-management",
+      "https://neevio.in/features/task-management",
+      "https://neevio.in/features/claude-teammate"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "final-draft-app.lovable.app",
+    "company_name": "Paperlead - Turn handwritten paper notes into editable docs and PDF's",
+    "website": "https://final-draft-app.lovable.app?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://final-draft-app.lovable.app?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Photograph your handwritten notes, let AI transcribe them, finish the parts you never wrote, and export a clean PDF \u2014 all saved privately to your account.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "azlfoamksa.net",
+    "company_name": "\u0634\u0631\u0643\u0629 \u0639\u0632\u0644 \u0641\u0648\u0645 \u0628\u0627\u0644\u0631\u064a\u0627\u0636 - \u0639\u0632\u0644 \u0641\u0648\u0645 \u0648\u0639\u0632\u0644 \u0645\u0627\u0626\u064a \u0627\u062d\u062a\u0631\u0627\u0641\u064a \u0644\u0644\u0623\u0633\u0637\u062d \u0641\u064a \u0627\u0644\u0631\u064a\u0627\u0636",
+    "website": "https://azlfoamksa.net?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_content_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "tuthietkeweb.com",
+    "company_name": "T\u1ef1 Thi\u1ebft K\u1ebf Web - AI landing page builder for Vietnamese businesses",
+    "website": "https://tuthietkeweb.com?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://tuthietkeweb.com?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://tuthietkeweb.com?ref=producthunt",
+        "action": "/?handler=Contact#lien-he",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "M\u00f4 t\u1ea3 doanh nghi\u1ec7p b\u1eb1ng ti\u1ebfng Vi\u1ec7t, AI t\u1ea1o landing page \u0111\u1eb9p, chu\u1ea9n SEO v\u00e0 di \u0111\u1ed9ng. Ch\u1ec9nh s\u1eeda k\u00e9o th\u1ea3, 9 giao di\u1ec7n, 41 section m\u1eabu. D\u00f9ng th\u1eed mi\u1ec5n ph\u00ed.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "wikicollector.com",
+    "company_name": "WikiCollector - Collect Wikipedia cards. Discover the unexpected.",
+    "website": "https://wikicollector.com/?ref=producthunt",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "robots_disallowed",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "dielinekit.com",
+    "company_name": "DielineKit CAD - Generate production-ready box dielines in seconds",
+    "website": "https://dielinekit.com?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@dielinekit.com",
+        "confidence": "high",
+        "source_url": "https://dielinekit.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ce Guide Compare DielineKit Privacy Policy Terms of Service support@dielinekit.com Recognized & Verified CAD Platform Community Rated Reviewed"
+      }
+    ],
+    "role_emails": [
+      "support@dielinekit.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://dielinekit.com?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dielinekit.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Free parametric packaging dieline generator with real-time 3D folding simulation. Sign up for 5 free production exports: vector PDF, DXF for Z\u00fcnd & Kongsberg cutters, and SVG.",
+    "source_urls": [
+      "https://dielinekit.com?ref=producthunt",
+      "https://dielinekit.com/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 7
+  },
+  {
+    "company_domain": "sergiowebdeveloper.com",
+    "company_name": "SWD Develop CSS Minifier - Minify CSS instantly, right in your browser",
+    "website": "https://www.sergiowebdeveloper.com/en/tools/develop/css-minifier?utm_source=producthunt&utm_medium=referral&utm_campaign=swd_css_minifier_launch&ref=producthunt",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Email contacta@sergiowebdeveloper.com",
+        "title": null,
+        "email": "contacta@sergiowebdeveloper.com",
+        "source_url": "https://www.sergiowebdeveloper.com/en/contact"
+      }
+    ],
+    "people": [
+      {
+        "name": "Email contacta@sergiowebdeveloper.com",
+        "title": null,
+        "email": "contacta@sergiowebdeveloper.com",
+        "source_url": "https://www.sergiowebdeveloper.com/en/contact"
+      }
+    ],
+    "emails": [
+      {
+        "address": "contacta@sergiowebdeveloper.com",
+        "confidence": "highest",
+        "source_url": "https://www.sergiowebdeveloper.com/en/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Send Contact me via... Email contacta@sergiowebdeveloper.com Phone +39 389 264 2838 WhatsApp +39 389 264 2838 Soci"
+      }
+    ],
+    "role_emails": [
+      "contacta@sergiowebdeveloper.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.sergiowebdeveloper.com/en/tools/develop/css-minifier?utm_source=producthunt&utm_medium=referral&utm_campaign=swd_css_minifier_launch&ref=producthunt",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.sergiowebdeveloper.com/en/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.sergiowebdeveloper.com/en/tools/image/compression",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.sergiowebdeveloper.com/en/tools/image/compression/jpg",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.sergiowebdeveloper.com/en/tools/image/compression/png",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.sergiowebdeveloper.com/en/tools/image/compression/webp",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.sergiowebdeveloper.com/en/tools/image/compression/avif",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.sergiowebdeveloper.com/en/tools/image/compression/batch",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.sergiowebdeveloper.com/en/contact",
+        "action": "/en/contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Minify and optimize CSS online directly in your browser. Reduce .css file size, process batches and download results without uploading your code.",
+    "source_urls": [
+      "https://www.sergiowebdeveloper.com/en/contact",
+      "https://www.sergiowebdeveloper.com/en/tools/image/compression",
+      "https://www.sergiowebdeveloper.com/en/tools/image/compression/jpg",
+      "https://www.sergiowebdeveloper.com/en/tools/image/compression/png",
+      "https://www.sergiowebdeveloper.com/en/tools/image/compression/webp",
+      "https://www.sergiowebdeveloper.com/en/tools/image/compression/avif",
+      "https://www.sergiowebdeveloper.com/en/tools/image/compression/batch"
+    ],
+    "reason": null,
+    "pages_fetched": 14
+  },
+  {
+    "company_domain": "solederlego8-a11y.github.io",
+    "company_name": "Akiya Check - Risk report for cheap houses in Japan",
+    "website": "https://solederlego8-a11y.github.io/akiya-check/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://solederlego8-a11y.github.io/akiya-check/?ref=producthunt",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://solederlego8-a11y.github.io/akiya-check/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://solederlego8-a11y.github.io/akiya-check/about/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://solederlego8-a11y.github.io/akiya-check/?ref=producthunt",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Paste a Japanese property listing URL and get an English risk report within 24 hours: rebuild restrictions, flood and landslide zones, septic/propane, leasehold, akiya-bank conditions, and the exact questions to ask the agent. $49 per property.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  }
+]
