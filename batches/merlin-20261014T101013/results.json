@@ -1,0 +1,1767 @@
+[
+  {
+    "company_domain": "shamois.com",
+    "company_name": "Luxury Cosy Blankets - Luxury Softness, Timeless Style & Everyday Comfort",
+    "website": "https://shamois.com/collections?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://shamois.com/collections?ref=producthunt",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shamois.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://shamois.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Buy premium soft blankets online from Shamois and choose Cloudfloss or Snuggery for picnics, cosy evenings, outdoor moments and everyday comfort at home.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "marginplace.com",
+    "company_name": "Marginplace - A private place to think, write, and share.",
+    "website": "https://marginplace.com?ref=producthunt",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "dns_failure",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "apify.com",
+    "company_name": "Supplier Catalog Change Checker - Compare supplier CSV prices and flag product changes",
+    "website": "https://apify.com/dharris289/supplier-catalog-change-checker?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@apify.com",
+        "confidence": "highest",
+        "source_url": "https://apify.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "N: CZ0355000000000027434378 SWIFT / BIC: RZBCCZPP Email: hello@apify.com Product Apify Store Integrations Proxy MCP Crawlee Develope"
+      },
+      {
+        "address": "support@apify.com",
+        "confidence": "high",
+        "source_url": "https://apify.com/dharris289/supplier-catalog-change-checker?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "hello@apify.com",
+      "support@apify.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "balada@apify.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jakub Balada",
+        "person_title": "Co-Founder",
+        "source_url": "https://apify.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "curn@apify.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jan Curn",
+        "person_title": "Founder",
+        "source_url": "https://apify.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "j.balada@apify.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jakub Balada",
+        "person_title": "Co-Founder",
+        "source_url": "https://apify.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "j.curn@apify.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jan Curn",
+        "person_title": "Founder",
+        "source_url": "https://apify.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jakub.balada@apify.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jakub Balada",
+        "person_title": "Co-Founder",
+        "source_url": "https://apify.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jakub@apify.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jakub Balada",
+        "person_title": "Co-Founder",
+        "source_url": "https://apify.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jakub_balada@apify.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jakub Balada",
+        "person_title": "Co-Founder",
+        "source_url": "https://apify.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jakubb@apify.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jakub Balada",
+        "person_title": "Co-Founder",
+        "source_url": "https://apify.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jan.curn@apify.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jan Curn",
+        "person_title": "Founder",
+        "source_url": "https://apify.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jan@apify.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jan Curn",
+        "person_title": "Founder",
+        "source_url": "https://apify.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jan_curn@apify.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jan Curn",
+        "person_title": "Founder",
+        "source_url": "https://apify.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "janc@apify.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jan Curn",
+        "person_title": "Founder",
+        "source_url": "https://apify.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "lompart@apify.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Oliver Lompart",
+        "person_title": "Head Of Marketing",
+        "source_url": "https://apify.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "o.lompart@apify.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Oliver Lompart",
+        "person_title": "Head Of Marketing",
+        "source_url": "https://apify.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "oliver.lompart@apify.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Oliver Lompart",
+        "person_title": "Head Of Marketing",
+        "source_url": "https://apify.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "oliver@apify.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Oliver Lompart",
+        "person_title": "Head Of Marketing",
+        "source_url": "https://apify.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "oliver_lompart@apify.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Oliver Lompart",
+        "person_title": "Head Of Marketing",
+        "source_url": "https://apify.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "oliverl@apify.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Oliver Lompart",
+        "person_title": "Head Of Marketing",
+        "source_url": "https://apify.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://apify.com/dharris289/supplier-catalog-change-checker?ref=producthunt",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://apify.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://apify.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://apify.com/contact-sales",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://apify.com/contact-sales",
+        "action": "#",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Supplier price comparison for procurement agents: compare two CSV catalogs by SKU. Get unit-price, packaging and product changes plus review flags in JS...",
+    "source_urls": [
+      "https://apify.com/dharris289/supplier-catalog-change-checker?ref=producthunt",
+      "https://apify.com/about",
+      "https://apify.com/contact",
+      "https://apify.com/contact-sales"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "katalystiq.io",
+    "company_name": "KatalystIQ - AI That Finds Customers While You Sell",
+    "website": "https://katalystiq.io?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "a.islands@katalystiq.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Aland Islands",
+        "person_title": "Owner",
+        "source_url": "https://katalystiq.io?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "aland.islands@katalystiq.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Aland Islands",
+        "person_title": "Owner",
+        "source_url": "https://katalystiq.io?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "aland@katalystiq.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Aland Islands",
+        "person_title": "Owner",
+        "source_url": "https://katalystiq.io?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "aland_islands@katalystiq.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Aland Islands",
+        "person_title": "Owner",
+        "source_url": "https://katalystiq.io?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "alandi@katalystiq.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Aland Islands",
+        "person_title": "Owner",
+        "source_url": "https://katalystiq.io?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "arabia@katalystiq.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Saudi Arabia",
+        "person_title": "Owner",
+        "source_url": "https://katalystiq.io?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "islands@katalystiq.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Aland Islands",
+        "person_title": "Owner",
+        "source_url": "https://katalystiq.io?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "m.ops@katalystiq.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Marketing Ops",
+        "person_title": "Owner",
+        "source_url": "https://katalystiq.io/company-vs-contact-enrichment/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "marketing.ops@katalystiq.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Marketing Ops",
+        "person_title": "Owner",
+        "source_url": "https://katalystiq.io/company-vs-contact-enrichment/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "marketing@katalystiq.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Marketing Ops",
+        "person_title": "Owner",
+        "source_url": "https://katalystiq.io/company-vs-contact-enrichment/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "marketing_ops@katalystiq.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Marketing Ops",
+        "person_title": "Owner",
+        "source_url": "https://katalystiq.io/company-vs-contact-enrichment/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "marketingo@katalystiq.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Marketing Ops",
+        "person_title": "Owner",
+        "source_url": "https://katalystiq.io/company-vs-contact-enrichment/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ops@katalystiq.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Marketing Ops",
+        "person_title": "Owner",
+        "source_url": "https://katalystiq.io/company-vs-contact-enrichment/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.arabia@katalystiq.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Saudi Arabia",
+        "person_title": "Owner",
+        "source_url": "https://katalystiq.io?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "saudi.arabia@katalystiq.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Saudi Arabia",
+        "person_title": "Owner",
+        "source_url": "https://katalystiq.io?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "saudi@katalystiq.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Saudi Arabia",
+        "person_title": "Owner",
+        "source_url": "https://katalystiq.io?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "saudi_arabia@katalystiq.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Saudi Arabia",
+        "person_title": "Owner",
+        "source_url": "https://katalystiq.io?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "saudia@katalystiq.io",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Saudi Arabia",
+        "person_title": "Owner",
+        "source_url": "https://katalystiq.io?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://katalystiq.io?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://katalystiq.io/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://katalystiq.io/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://katalystiq.io/ai-sdr-sales-development-team/",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://katalystiq.io/contact-us/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://katalystiq.io/company-vs-contact-enrichment/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://katalystiq.io/contact",
+        "action": "/contact-us/#wpcf7-f7-p45628-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://katalystiq.io/contact-us",
+        "action": "/contact-us/#wpcf7-f7-p45628-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://katalystiq.io/contact-us/",
+        "action": "/contact-us/#wpcf7-f7-p45628-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "KatalystIQ is an AI lead generation software and AI prospecting tool that helps businesses discover qualified buyers, enrich leads with AI, deploy Lead Machines, and automate personalized sales outreach across email, LinkedIn, phone, and more.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "monthru.io",
+    "company_name": "Monthru - Know what's down. Keep customers in the loop.",
+    "website": "https://monthru.io?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@monthru.io",
+        "confidence": "highest",
+        "source_url": "https://monthru.io/support",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "emos Pricing Documentation Sign in Dashboard Support Email support@monthru.io and a human answers. It is the only support address we pub"
+      }
+    ],
+    "role_emails": [
+      "support@monthru.io"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://monthru.io?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://monthru.io/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Monitor your services. Give customers one place to see what\u2019s happening.",
+    "source_urls": [
+      "https://monthru.io/support"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "getklyk.io",
+    "company_name": "Klyk - Free link shortener with analytics and dynamic QR codes",
+    "website": "https://getklyk.io?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "abuse@getklyk.io",
+        "confidence": "high",
+        "source_url": "https://getklyk.io?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "legal@getklyk.io",
+        "confidence": "high",
+        "source_url": "https://getklyk.io?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "privacy@getklyk.io",
+        "confidence": "high",
+        "source_url": "https://getklyk.io?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "abuse@getklyk.io",
+      "legal@getklyk.io",
+      "privacy@getklyk.io"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://getklyk.io?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Raccourcissez vos liens, cr\u00e9ez des QR codes et suivez chaque clic \u2014 pays, appareils, sources \u2014 sans cookies ni tra\u00e7age. Sur votre domaine, h\u00e9berg\u00e9 en UE.",
+    "source_urls": [
+      "https://getklyk.io?ref=producthunt"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 7
+  },
+  {
+    "company_domain": "jazzkissa.live",
+    "company_name": "JAZZ KISSA \u2014 BLUE HOUR - Map Japan's jazz kissas and see which ones are open now",
+    "website": "https://jazzkissa.live?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://jazzkissa.live?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "\uc77c\ubcf8 \uc7ac\uc988 \ud0b7\uc0ac\uc758 \uc815\ubcf4\uc640 \uc6b4\uc601 \uc2dc\uac04\uc744 \uc2e4\uc2dc\uac04\uc73c\ub85c \uc81c\uacf5\ud569\ub2c8\ub2e4. \ub3c4\uc2dc\ubcc4 \uc7a5\uc18c, \uc8fc\uc18c, \uc7ac\uc988\ub97c \ub4e3\ub294 \uacf5\uac04\uc758 \uc774\uc57c\uae30\uc640 \ucc38\uace0 \uc790\ub8cc\ub97c \uc0b4\ud3b4\ubcf4\uc138\uc694.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "app.usegenio.com",
+    "company_name": "Genio by Lumofy - Turn training needs into complete courses with AI",
+    "website": "https://app.usegenio.com/?utm_campaign=52679604-Genio+Early+Access+-+Sep+2026&utm_source=launch-platforms&utm_medium=producthunt&utm_content=listing&ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://app.usegenio.com/?utm_campaign=52679604-Genio+Early+Access+-+Sep+2026&utm_source=launch-platforms&utm_medium=producthunt&utm_content=listing&ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Genio turns a training need into a complete, interactive, slide-based course \u2014 content, narration, visuals and assessment \u2014 in Arabic or English.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "decant.js.org",
+    "company_name": "decant-core - The extraction layer for AI chats and the web",
+    "website": "https://decant.js.org/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://decant.js.org/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Reusable extraction, parsing, and detection infrastructure for AI conversations and regular web pages. 10+ AI platforms, one dependency, AGPL-3.0.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "soulor.app",
+    "company_name": "Soulor - Read social situations and rehearse hard conversations",
+    "website": "https://soulor.app?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@soulor.app",
+        "confidence": "highest",
+        "source_url": "https://soulor.app?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "hello@soulor.app"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://soulor.app?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://soulor.app/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Soulor helps reading social situations with multiple perspectives, and helps users rehearse hard conversations by simulating others with analyses and suggestions, there are also companions that knows the full context if users choose to share that can chat with them naturally. It can be both serious ",
+    "source_urls": [
+      "https://soulor.app?ref=producthunt",
+      "https://soulor.app/about"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 7
+  },
+  {
+    "company_domain": "mockprism.prismtechies.site",
+    "company_name": "MockPrism - Turn designs into stunning 3D mockups. Free. No sign-up",
+    "website": "https://mockprism.prismtechies.site/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://mockprism.prismtechies.site/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Create free iPhone, Android, MacBook, Laptop, Tablet, and Website mockups online.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "astronomy101.co.uk",
+    "company_name": "Astronomy 101 - Your ultimate guide to stargazing, planets, and astronomy",
+    "website": "https://astronomy101.co.uk?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "curator@astronomy101.co.uk",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lead Curator",
+        "person_title": "Founder",
+        "source_url": "https://astronomy101.co.uk?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "l.curator@astronomy101.co.uk",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lead Curator",
+        "person_title": "Founder",
+        "source_url": "https://astronomy101.co.uk?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "lead.curator@astronomy101.co.uk",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lead Curator",
+        "person_title": "Founder",
+        "source_url": "https://astronomy101.co.uk?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "lead@astronomy101.co.uk",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lead Curator",
+        "person_title": "Founder",
+        "source_url": "https://astronomy101.co.uk?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "lead_curator@astronomy101.co.uk",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lead Curator",
+        "person_title": "Founder",
+        "source_url": "https://astronomy101.co.uk?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "leadc@astronomy101.co.uk",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lead Curator",
+        "person_title": "Founder",
+        "source_url": "https://astronomy101.co.uk?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://astronomy101.co.uk?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://astronomy101.co.uk/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://astronomy101.co.uk/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://astronomy101.co.uk/about/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://astronomy101.co.uk/contact/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://astronomy101.co.uk/contact",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://astronomy101.co.uk/contact/",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Explore astronomy, planets, stars, galaxies, black holes, space missions, stargazing guides and astronomy tools with Astronomy 101.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "kagerou.glass",
+    "company_name": "Coluracetam - Markdown previews in Quick Look, Finder and a full reader",
+    "website": "https://kagerou.glass/coluracetam/?ref=producthunt",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "dns_failure",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "tradifyfx.com",
+    "company_name": "Tradify FX - Forex Backtesting Software & Trading Simulator",
+    "website": "https://www.tradifyfx.com?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@tradifyfx.com",
+        "confidence": "highest",
+        "source_url": "https://www.tradifyfx.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "y message, and we aim to answer the same working day. Email support@tradifyfx.com Registered office Suite 25, Parker House, Admirals Way, Lon"
+      }
+    ],
+    "role_emails": [
+      "support@tradifyfx.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.tradifyfx.com?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.tradifyfx.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.tradifyfx.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.tradifyfx.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.tradifyfx.com/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Backtest forex, gold and indices on real history back to 2005. Replay candle by candle with the future hidden. Practise prop-firm rules. 30 days free.",
+    "source_urls": [
+      "https://www.tradifyfx.com?ref=producthunt",
+      "https://www.tradifyfx.com/contact",
+      "https://www.tradifyfx.com/about",
+      "https://www.tradifyfx.com/support"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "makeaffairs.com",
+    "company_name": "Make Affairs - Manage affairs, tasks and money in one place",
+    "website": "https://makeaffairs.com?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@makeaffairs.com",
+        "confidence": "high",
+        "source_url": "https://makeaffairs.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "support@makeaffairs.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://makeaffairs.com?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://makeaffairs.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://makeaffairs.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://makeaffairs.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://makeaffairs.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://makeaffairs.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://makeaffairs.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Get high from planning and managing your everyday tasks, transactions, and other needs",
+    "source_urls": [
+      "https://makeaffairs.com?ref=producthunt",
+      "https://makeaffairs.com/contact",
+      "https://makeaffairs.com/contact-us",
+      "https://makeaffairs.com/contactus",
+      "https://makeaffairs.com/about",
+      "https://makeaffairs.com/about-us",
+      "https://makeaffairs.com/team"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 7
+  },
+  {
+    "company_domain": "vxu.me",
+    "company_name": "DIP - Project memory that survives your coding agent's session",
+    "website": "https://vxu.me/products/dip?ref=producthunt",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "dns_failure",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "piazzapost.vercel.app",
+    "company_name": "PiazzaPost - AI posts for your local business in 30 seconds.",
+    "website": "https://piazzapost.vercel.app?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://piazzapost.vercel.app?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Snap a photo, pick a tone, publish to Instagram, Facebook, TikTok and more. AI that writes for small businesses. 10 free posts, no credit card required.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "worthiness.net",
+    "company_name": "Worthiness - Customer credit score check, built for India's loan DSAs",
+    "website": "https://worthiness.net?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://worthiness.net?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://worthiness.net/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://worthiness.net/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://worthiness.net/about/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://worthiness.net/contact/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Worthiness is a technical service provider that helps businesses check the worthiness of a person. One consented credit check returns the customer\u2019s credit score and shows which of your own loan products they qualify for.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "usfreetemplates.com",
+    "company_name": "US Free Templates - Free US document templates with PDF and Word downloads",
+    "website": "https://usfreetemplates.com/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://usfreetemplates.com/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://usfreetemplates.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://usfreetemplates.com/about/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Free templates for everyday US paperwork. Fill detailed forms online and download blank or completed PDFs and editable Word documents. No signup.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "lastretry.com",
+    "company_name": "LastRetry - Recover failed Stripe payments. Pay only when it works.",
+    "website": "https://lastretry.com?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://lastretry.com?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Recover failed Stripe payments with decline-based retries, ML-timed retry hours, branded dunning emails and one-tap card updates. Pay only on what we recover.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "kuota.com.br",
+    "company_name": "Kuota - Sales and back-office platform for cons\u00f3rcio sellers",
+    "website": "https://kuota.com.br?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://kuota.com.br?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Plataforma para quem vende cons\u00f3rcio: simulador com 7 modalidades, funil com WhatsApp, comiss\u00f5es conferidas, cobran\u00e7a e RH do vendedor. A partir de R$ 999/m\u00eas.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "flowoapp.com",
+    "company_name": "Flowo - ADHD day planner that re-plans when your day slips",
+    "website": "https://flowoapp.com?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@flowoapp.com",
+        "confidence": "high",
+        "source_url": "https://flowoapp.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "inbox that matches your request. Email General & support: hello@flowoapp.com. Privacy: privacy@flowoapp.com. Legal: legal@flowoapp.com."
+      },
+      {
+        "address": "legal@flowoapp.com",
+        "confidence": "high",
+        "source_url": "https://flowoapp.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ": hello@flowoapp.com. Privacy: privacy@flowoapp.com. Legal: legal@flowoapp.com. Company BBMM Technologies Inc. (NS Registry ID 4825550),"
+      },
+      {
+        "address": "privacy@flowoapp.com",
+        "confidence": "high",
+        "source_url": "https://flowoapp.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "st. Email General & support: hello@flowoapp.com. Privacy: privacy@flowoapp.com. Legal: legal@flowoapp.com. Company BBMM Technologies Inc"
+      }
+    ],
+    "role_emails": [
+      "hello@flowoapp.com",
+      "legal@flowoapp.com",
+      "privacy@flowoapp.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "a.author@flowoapp.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "About the Author",
+        "person_title": "Co-Founder",
+        "source_url": "https://flowoapp.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "a.profile@flowoapp.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Author Profile",
+        "person_title": "Founder",
+        "source_url": "https://flowoapp.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "about.author@flowoapp.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "About the Author",
+        "person_title": "Co-Founder",
+        "source_url": "https://flowoapp.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "about@flowoapp.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "About the Author",
+        "person_title": "Co-Founder",
+        "source_url": "https://flowoapp.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "about_author@flowoapp.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "About the Author",
+        "person_title": "Co-Founder",
+        "source_url": "https://flowoapp.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "abouta@flowoapp.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "About the Author",
+        "person_title": "Co-Founder",
+        "source_url": "https://flowoapp.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "author.profile@flowoapp.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Author Profile",
+        "person_title": "Founder",
+        "source_url": "https://flowoapp.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "author@flowoapp.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Author Profile",
+        "person_title": "Founder",
+        "source_url": "https://flowoapp.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "author_profile@flowoapp.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Author Profile",
+        "person_title": "Founder",
+        "source_url": "https://flowoapp.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "authorp@flowoapp.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Author Profile",
+        "person_title": "Founder",
+        "source_url": "https://flowoapp.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "b.dump@flowoapp.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Brain Dump",
+        "person_title": "Founder",
+        "source_url": "https://flowoapp.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "brain.dump@flowoapp.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Brain Dump",
+        "person_title": "Founder",
+        "source_url": "https://flowoapp.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "brain@flowoapp.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Brain Dump",
+        "person_title": "Founder",
+        "source_url": "https://flowoapp.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "brain_dump@flowoapp.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Brain Dump",
+        "person_title": "Founder",
+        "source_url": "https://flowoapp.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "braind@flowoapp.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Brain Dump",
+        "person_title": "Founder",
+        "source_url": "https://flowoapp.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "dump@flowoapp.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Brain Dump",
+        "person_title": "Founder",
+        "source_url": "https://flowoapp.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ivko@flowoapp.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Maksym Bardakh Ivko",
+        "person_title": "Co-Founder",
+        "source_url": "https://flowoapp.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "m.ivko@flowoapp.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Maksym Bardakh Ivko",
+        "person_title": "Co-Founder",
+        "source_url": "https://flowoapp.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "maksym.ivko@flowoapp.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Maksym Bardakh Ivko",
+        "person_title": "Co-Founder",
+        "source_url": "https://flowoapp.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "maksym@flowoapp.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Maksym Bardakh Ivko",
+        "person_title": "Co-Founder",
+        "source_url": "https://flowoapp.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "maksym_ivko@flowoapp.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Maksym Bardakh Ivko",
+        "person_title": "Co-Founder",
+        "source_url": "https://flowoapp.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "maksymi@flowoapp.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Maksym Bardakh Ivko",
+        "person_title": "Co-Founder",
+        "source_url": "https://flowoapp.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "profile@flowoapp.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Author Profile",
+        "person_title": "Founder",
+        "source_url": "https://flowoapp.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://flowoapp.com?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://flowoapp.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://flowoapp.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://flowoapp.com/about/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://flowoapp.com/contact/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "An ADHD-friendly day planner for iPhone and Android. Flowo schedules tasks around your events and habits, then re-plans when the day changes. Account-free.",
+    "source_urls": [
+      "https://flowoapp.com/contact",
+      "https://flowoapp.com/contact/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "studyos-snowy.vercel.app",
+    "company_name": "StudyOS - The all-in-one AI study planner & homework tracker.",
+    "website": "https://studyos-snowy.vercel.app/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://studyos-snowy.vercel.app/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://studyos-snowy.vercel.app/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://studyos-snowy.vercel.app/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://studyos-snowy.vercel.app/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://studyos-snowy.vercel.app/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://studyos-snowy.vercel.app/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://studyos-snowy.vercel.app/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Transform your grades with StudyOS, the ultimate AI study planner & homework tracker. Upload notes, generate flashcards, and ace your exams. Try it free!",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "na8ve.com",
+    "company_name": "Cortex by na8ve - Cortex is an ai-native datastore for real-time memory.",
+    "website": "https://na8ve.com/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://na8ve.com/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "A memory for your product that can prove what it forgot.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "theselfshift.com",
+    "company_name": "SelfShift - Meet your desired self. Start becoming with SelfShift today.",
+    "website": "https://theselfshift.com?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@theselfshift.com",
+        "confidence": "highest",
+        "source_url": "https://theselfshift.com/support",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "support@theselfshift.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://theselfshift.com?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://theselfshift.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://theselfshift.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://theselfshift.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://theselfshift.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://theselfshift.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://theselfshift.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://theselfshift.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "SelfShift helps you see, experience, and practice the version of yourself you choose to be.",
+    "source_urls": [
+      "https://theselfshift.com/support"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  }
+]
