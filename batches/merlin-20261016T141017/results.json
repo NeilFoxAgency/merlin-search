@@ -1,0 +1,1487 @@
+[
+  {
+    "company_domain": "linker.li",
+    "company_name": "Linker - One link. Infinite possibilities.",
+    "website": "https://linker.li?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_content_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "phonable.app",
+    "company_name": "Phonable - Missed calls, handled: callers get a text, you get the gist",
+    "website": "https://phonable.app?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "frits@phonable.app",
+        "confidence": "medium",
+        "source_url": "https://phonable.app/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "hello@phonable.app",
+        "confidence": "medium",
+        "source_url": "https://phonable.app?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "frits@phonable.app",
+      "hello@phonable.app"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://phonable.app?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://phonable.app/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://phonable.app/contact",
+        "action": "https://phonable.app/contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Missed calls, handled. Phonable replaces your carrier voicemail: callers get a text back, and voicemails arrive transcribed and summarised by AI. Keep your own number.",
+    "source_urls": [
+      "https://phonable.app?ref=producthunt",
+      "https://phonable.app/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 7
+  },
+  {
+    "company_domain": "opencharm.dev",
+    "company_name": "OpenCharm - Open-source body for the AI agent you already run",
+    "website": "https://www.opencharm.dev/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@opencharm.dev",
+        "confidence": "high",
+        "source_url": "https://github.com/opencharm-labs",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "GitHub org opencharm-labs public email"
+      }
+    ],
+    "role_emails": [
+      "hello@opencharm.dev"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.opencharm.dev/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "OpenCharm is an open-source body for the AI agent you already run (Claude Code, Codex, Hermes Agent, OpenClaw or any ACP agent): a face, a voice and one key. At the top of your Mac or Windows screen today, on a small board you build next.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "yesgarage.it",
+    "company_name": "YesGarage - Connecting drivers, workshops, dealers and fleets",
+    "website": "https://yesgarage.it?ref=producthunt",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Contatti aziendali",
+        "title": null,
+        "email": "business@yesgarage.it",
+        "source_url": "https://yesgarage.it?ref=producthunt"
+      }
+    ],
+    "people": [
+      {
+        "name": "Contatti aziendali",
+        "title": null,
+        "email": "business@yesgarage.it",
+        "source_url": "https://yesgarage.it?ref=producthunt"
+      }
+    ],
+    "emails": [
+      {
+        "address": "business@yesgarage.it",
+        "confidence": "highest",
+        "source_url": "https://yesgarage.it?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "Termini e Condizioni League Contatti support@yesgarage.it business@yesgarage.it \u00a9 YesGarage. Tutti i diritti riservati."
+      },
+      {
+        "address": "support@yesgarage.it",
+        "confidence": "highest",
+        "source_url": "https://yesgarage.it?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "me usare FAQ Privacy Termini e Condizioni League Contatti support@yesgarage.it business@yesgarage.it \u00a9 YesGarage. Tutti i diritti ri"
+      }
+    ],
+    "role_emails": [
+      "support@yesgarage.it"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://yesgarage.it?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "YesGarage raccoglie manutenzioni, documenti, chilometri e interventi in un unico posto, pronti da mostrare quando conta davvero.",
+    "source_urls": [
+      "https://yesgarage.it?ref=producthunt"
+    ],
+    "reason": null,
+    "pages_fetched": 7
+  },
+  {
+    "company_domain": "postpublish.pro",
+    "company_name": "PostPublish Pro - #PostPublish #SocialMediaManagement #SocialMediaScheduler",
+    "website": "https://postpublish.pro?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "j.mar@postpublish.pro",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Joined Mar",
+        "person_title": "Owner",
+        "source_url": "https://postpublish.pro?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "joined.mar@postpublish.pro",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Joined Mar",
+        "person_title": "Owner",
+        "source_url": "https://postpublish.pro?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "joined@postpublish.pro",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Joined Mar",
+        "person_title": "Owner",
+        "source_url": "https://postpublish.pro?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "joined_mar@postpublish.pro",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Joined Mar",
+        "person_title": "Owner",
+        "source_url": "https://postpublish.pro?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "joinedm@postpublish.pro",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Joined Mar",
+        "person_title": "Owner",
+        "source_url": "https://postpublish.pro?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "mar@postpublish.pro",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Joined Mar",
+        "person_title": "Owner",
+        "source_url": "https://postpublish.pro?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://postpublish.pro?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://postpublish.pro/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://postpublish.pro/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "AI-native social publishing infrastructure for teams, developers, agencies, and AI agents. Validate, schedule, publish, and track across Facebook, Instagram, Threads, X, LinkedIn and Telegram \u2014 via MCP and REST API.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "rechnercenter.de",
+    "company_name": "Rechnercenter - Kostenlose Online-Rechner f\u00fcr Deutschland \u2013 mit Rechenweg",
+    "website": "https://rechnercenter.de?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "kontakt@rechnercenter.de",
+        "confidence": "high",
+        "source_url": "https://rechnercenter.de/impressum",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "chal Pradesh Indien So erreichen Sie uns E-Mail: kontakt@rechnercenter.de Zu den Inhalten Formeln, Werte und Texte werden sorgf\u00e4"
+      }
+    ],
+    "role_emails": [
+      "kontakt@rechnercenter.de"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://rechnercenter.de?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rechnercenter.de/staffelmiete-rechner",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rechnercenter.de/impressum",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "521 kostenlose Online-Rechner f\u00fcr Deutschland: Steuern, Rente, Geld, Wohnen, Gesundheit und Alltag \u2013 mit offenem Rechenweg, direkt im Browser.",
+    "source_urls": [
+      "https://rechnercenter.de/impressum"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "preppath.net",
+    "company_name": "PrepPath - Structured Placement Roadmaps & Courses",
+    "website": "https://www.preppath.net?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@preppath.net",
+        "confidence": "highest",
+        "source_url": "https://www.preppath.net?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "302160783 Where we are Hyderabad, Telangana, India Email us hello@preppath.net P PrepPath \u00a9 2026 PrepPath. All rights reserved. Pages Abou"
+      }
+    ],
+    "role_emails": [
+      "hello@preppath.net"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.preppath.net?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.preppath.net/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.preppath.net/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.preppath.net?ref=producthunt",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.preppath.net/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Master the complete spectrum of Computer Science & Engineering with PrepPath. In-depth programs across Artificial Intelligence & Machine Learning, Full-Stack & Mobile Development, Blockchain & Web3, Cyber Security, Cloud & DevOps, Data Structures & Algorithms, and System Design with live mentor coho",
+    "source_urls": [
+      "https://www.preppath.net?ref=producthunt",
+      "https://www.preppath.net/contact",
+      "https://www.preppath.net/about"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 7
+  },
+  {
+    "company_domain": "convert2pdf.com",
+    "company_name": "Free Online PDF Converter - Free PDF tools that keep your files on your device",
+    "website": "https://convert2pdf.com?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@convert2pdf.com",
+        "confidence": "medium",
+        "source_url": "https://convert2pdf.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "support@convert2pdf.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://convert2pdf.com?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://convert2pdf.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://convert2pdf.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://convert2pdf.com/compress-pdf",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Convert, compress, merge and organize PDFs for free. Fast PDF tools that process files directly in your browser\u2014no document uploads.",
+    "source_urls": [
+      "https://convert2pdf.com?ref=producthunt",
+      "https://convert2pdf.com/contact",
+      "https://convert2pdf.com/about",
+      "https://convert2pdf.com/compress-pdf"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "boxie.fit",
+    "company_name": "Boxie - 3d-printing, gridfinity",
+    "website": "https://boxie.fit/en?ref=producthunt",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "challenge_page",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "pokeev.com",
+    "company_name": "Pok\u00e9 EV - Rip it or keep it sealed? EV for every Pok\u00e9mon TCG set",
+    "website": "https://pokeev.com/en?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "contact@pokeev.com",
+        "confidence": "high",
+        "source_url": "https://pokeev.com/en/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "tions Found a wrong figure or an inaccurate claim? Write to contact@pokeev.com. Corrections are made on the article itself: a wrong headli"
+      }
+    ],
+    "role_emails": [
+      "contact@pokeev.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://pokeev.com/en?ref=producthunt",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pokeev.com/en/sets/ex-team-rocket-returns",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pokeev.com/en/sets/ex-team-magma-vs-team-aqua",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pokeev.com/en/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Expected Value calculator for Pok\u00e9mon TCG booster boxes, packs and ETBs. Documented pull rates \u00d7 today's TCGPlayer prices: OPEN or KEEP verdict, margin and profit probability.",
+    "source_urls": [
+      "https://pokeev.com/en/about"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "notableauthors.com",
+    "company_name": "Notable Authors - A book ghostwriting marketplace",
+    "website": "https://notableauthors.com?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@notableauthors.com",
+        "confidence": "highest",
+        "source_url": "https://notableauthors.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "us For writers Terms Privacy Book ghostwriting Questions: hello@notableauthors.com \u00a9 2026 Notable Authors"
+      }
+    ],
+    "role_emails": [
+      "hello@notableauthors.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "levin@notableauthors.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Michael Levin",
+        "person_title": "Co-Founder",
+        "source_url": "https://notableauthors.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "m.levin@notableauthors.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Michael Levin",
+        "person_title": "Co-Founder",
+        "source_url": "https://notableauthors.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "michael.levin@notableauthors.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Michael Levin",
+        "person_title": "Co-Founder",
+        "source_url": "https://notableauthors.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "michael@notableauthors.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Michael Levin",
+        "person_title": "Co-Founder",
+        "source_url": "https://notableauthors.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "michael_levin@notableauthors.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Michael Levin",
+        "person_title": "Co-Founder",
+        "source_url": "https://notableauthors.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "michaell@notableauthors.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Michael Levin",
+        "person_title": "Co-Founder",
+        "source_url": "https://notableauthors.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://notableauthors.com?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://notableauthors.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://notableauthors.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "A short, hand-read list of book ghostwriters. Reviews are anonymous, and the only way to earn one is to pay the whole contract through the platform.",
+    "source_urls": [
+      "https://notableauthors.com?ref=producthunt",
+      "https://notableauthors.com/contact",
+      "https://notableauthors.com/about"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 7
+  },
+  {
+    "company_domain": "synopedia.com",
+    "company_name": "Synopedia - Synonyms & Antonyms Grouped By Meaning, In 6 Languages",
+    "website": "https://www.synopedia.com?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.synopedia.com?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.synopedia.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.synopedia.com/contact-us",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2023-07-22"
+      },
+      {
+        "url": "https://www.synopedia.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.synopedia.com/synonym/company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.synopedia.com/contact",
+        "action": "/contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://www.synopedia.com/contact-us",
+        "action": "/contact-us/#wpcf7-f34-p64-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Synonyms and antonyms for 142,756 English words, grouped by meaning, with usage labels, US and UK spellings, definitions and example sentences.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "nohtis.com",
+    "company_name": "Nohtis - Making volunteer and fundraising tracking simple",
+    "website": "https://nohtis.com?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://nohtis.com?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://nohtis.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://nohtis.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://nohtis.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://nohtis.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://nohtis.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://nohtis.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Official website for Nohtis, the volunteer and fundraising tracking platform that helps schools, nonprofits, PTOs, and booster clubs track volunteer hours, approvals, fundraising participation, and member rewards in one platform.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "pettyhex.com",
+    "company_name": "PettyHex - Serious magic for extremely unserious problems.",
+    "website": "https://pettyhex.com/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hexdesk@pettyhex.com",
+        "confidence": "highest",
+        "source_url": "https://pettyhex.com/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "hexdesk@pettyhex.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://pettyhex.com/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Someone deserves a minor inconvenience. Send a completely fictional, highly unnecessary curse with PettyHex.",
+    "source_urls": [
+      "https://pettyhex.com/?ref=producthunt"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 7
+  },
+  {
+    "company_domain": "slarivo.com",
+    "company_name": "Slarivo Leads - Your leads, follow-ups and next steps in one workspace",
+    "website": "https://slarivo.com/leads/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "leads@slarivo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Slarivo Leads",
+        "person_title": "Owner",
+        "source_url": "https://slarivo.com/leads/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.leads@slarivo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Slarivo Leads",
+        "person_title": "Owner",
+        "source_url": "https://slarivo.com/leads/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "slarivo.leads@slarivo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Slarivo Leads",
+        "person_title": "Owner",
+        "source_url": "https://slarivo.com/leads/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "slarivo@slarivo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Slarivo Leads",
+        "person_title": "Owner",
+        "source_url": "https://slarivo.com/leads/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "slarivo_leads@slarivo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Slarivo Leads",
+        "person_title": "Owner",
+        "source_url": "https://slarivo.com/leads/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "slarivol@slarivo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Slarivo Leads",
+        "person_title": "Owner",
+        "source_url": "https://slarivo.com/leads/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://slarivo.com/leads/?ref=producthunt",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://slarivo.com/leads/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://slarivo.com/leads/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://slarivo.com/leads/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://slarivo.com/leads/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://slarivo.com/leads/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://slarivo.com/leads/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Your leads. Your next move. Free lead management for your team: capture enquiries, keep notes and plan every follow-up. No credit card required.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "diagnostics-ai.heliosconsulting.in",
+    "company_name": "Helios AI Business Value Diagnostic - Find where AI and automation value is getting stuck",
+    "website": "https://diagnostics-ai.heliosconsulting.in/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://diagnostics-ai.heliosconsulting.in/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Helios AI Value Diagnostics \u2014 find out whether your AI and operations investment is actually creating measurable business value, and what to fix first.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "retatrutideforsale.co.za",
+    "company_name": "Retatrutide Research Hub - Research-grade peptide data & COA library for SA labs",
+    "website": "https://retatrutideforsale.co.za?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@retatrutideforsale.co.za",
+        "confidence": "highest",
+        "source_url": "https://retatrutideforsale.co.za?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@retatrutideforsale.co.za"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://retatrutideforsale.co.za?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Buy Retatrutide research peptide online in South Africa. 10mg\u201360mg vials, \u226599% HPLC purity, dispatched locally. For research use only, not for human consumption.",
+    "source_urls": [
+      "https://retatrutideforsale.co.za?ref=producthunt"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 7
+  },
+  {
+    "company_domain": "rumpelstiltskin-ai.net",
+    "company_name": "RumpelstiltskinAI - Rumpelstiltskin AI: One Photo to a Tiptoe Dance Video",
+    "website": "https://rumpelstiltskin-ai.net/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@rumpelstiltskin-ai.net",
+        "confidence": "highest",
+        "source_url": "https://rumpelstiltskin-ai.net/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "support@rumpelstiltskin-ai.net"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://rumpelstiltskin-ai.net/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Upload one photo and get the Rumpelstiltskin tiptoe dance video: an 8 second vertical MP4 for TikTok, Reels and Shorts. Credits from $4.99, no subscription.",
+    "source_urls": [
+      "https://rumpelstiltskin-ai.net/?ref=producthunt"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 7
+  },
+  {
+    "company_domain": "universalpackaging.ca",
+    "company_name": "CUSTOM CHOCOLATE BOXES",
+    "website": "https://universalpackaging.ca/custom-chocolate-boxes/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "zack@universalpackaging.ca",
+        "confidence": "high",
+        "source_url": "https://universalpackaging.ca/custom-chocolate-boxes/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "______________ CONTACT US Email us ( click here ) or zack@universalpackaging.ca We accept payments option"
+      }
+    ],
+    "role_emails": [
+      "zack@universalpackaging.ca"
+    ],
+    "email_candidates": [
+      {
+        "address": "customers@universalpackaging.ca",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Indulge Your Customers",
+        "person_title": "Owner",
+        "source_url": "https://universalpackaging.ca/custom-chocolate-boxes/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "i.customers@universalpackaging.ca",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Indulge Your Customers",
+        "person_title": "Owner",
+        "source_url": "https://universalpackaging.ca/custom-chocolate-boxes/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "indulge.customers@universalpackaging.ca",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Indulge Your Customers",
+        "person_title": "Owner",
+        "source_url": "https://universalpackaging.ca/custom-chocolate-boxes/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "indulge@universalpackaging.ca",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Indulge Your Customers",
+        "person_title": "Owner",
+        "source_url": "https://universalpackaging.ca/custom-chocolate-boxes/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "indulge_customers@universalpackaging.ca",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Indulge Your Customers",
+        "person_title": "Owner",
+        "source_url": "https://universalpackaging.ca/custom-chocolate-boxes/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "indulgec@universalpackaging.ca",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Indulge Your Customers",
+        "person_title": "Owner",
+        "source_url": "https://universalpackaging.ca/custom-chocolate-boxes/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://universalpackaging.ca/custom-chocolate-boxes/?ref=producthunt",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://universalpackaging.ca/custom-chocolate-boxes/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://universalpackaging.ca/custom-chocolate-boxes/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://universalpackaging.ca/custom-chocolate-boxes/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://universalpackaging.ca/custom-chocolate-boxes/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://universalpackaging.ca/custom-chocolate-boxes/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://universalpackaging.ca/custom-chocolate-boxes/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://universalpackaging.ca/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://universalpackaging.ca/contact-us",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Get eye-catching custom chocolate boxes designs and noticeable artwork. Submit a free quote request and get a 30% discount with free shipping.",
+    "source_urls": [
+      "https://universalpackaging.ca/custom-chocolate-boxes/?ref=producthunt",
+      "https://universalpackaging.ca/custom-chocolate-boxes/contact",
+      "https://universalpackaging.ca/custom-chocolate-boxes/contact-us",
+      "https://universalpackaging.ca/custom-chocolate-boxes/contactus",
+      "https://universalpackaging.ca/custom-chocolate-boxes/about",
+      "https://universalpackaging.ca/custom-chocolate-boxes/about-us",
+      "https://universalpackaging.ca/custom-chocolate-boxes/team",
+      "https://universalpackaging.ca/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "dc.flasktoken.com",
+    "company_name": "Deals Copier - One click turns any product page into a post.",
+    "website": "https://dc.flasktoken.com/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://dc.flasktoken.com/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://dc.flasktoken.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Chrome extension that turns an Amazon, eBay, Walmart, Woot! or Flipkart product page into a ready-to-publish affiliate post \u2014 captured, affiliate-tagged, AI-written, social-ready.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "ruggedfun.xyz",
+    "company_name": "ruggedfun - Ape in. Get rugged. Lose nothing.",
+    "website": "https://ruggedfun.xyz?ref=producthunt",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "tls_error",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "jobconnects.org",
+    "company_name": "JobConnects.org - End-to-End Hiring, From Job Post to Hire",
+    "website": "https://jobconnects.org?ref=producthunt",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "challenge_page",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "slovio.ai",
+    "company_name": "Slovio - AI agents for conversations that convert",
+    "website": "https://slovio.ai?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@slovio.ai",
+        "confidence": "highest",
+        "source_url": "https://slovio.ai/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "y Email us Sales, partnerships, media or any other enquiry. hello@slovio.ai \u2192 Already a customer? Email support with your workspace nam"
+      }
+    ],
+    "role_emails": [
+      "hello@slovio.ai"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://slovio.ai?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://slovio.ai/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://slovio.ai/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://slovio.ai/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://slovio.ai/contact-us",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Slovio is the AI customer platform for businesses. AI Agents and AI Calling answer, sell and book on WhatsApp, Instagram, RCS and calls. Start free.",
+    "source_urls": [
+      "https://slovio.ai?ref=producthunt",
+      "https://slovio.ai/contact",
+      "https://slovio.ai/contact-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 7
+  },
+  {
+    "company_domain": "viptoolskit.com",
+    "company_name": "VIPToolsKit - 50+ free online tools: PDF, image & CV tools in your browser",
+    "website": "https://viptoolskit.com/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "contact@viptoolskit.com",
+        "confidence": "highest",
+        "source_url": "https://viptoolskit.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "reports, tool requests, or business inquiries, email us at: contact@viptoolskit.com Before you write Bug reports: tell us which tool you"
+      }
+    ],
+    "role_emails": [
+      "contact@viptoolskit.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://viptoolskit.com/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://viptoolskit.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://viptoolskit.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://viptoolskit.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://viptoolskit.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://viptoolskit.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://viptoolskit.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "50+ free online tools: PDF converters, image tools and a CV builder. Fast, private, no sign-up \u2014 everything runs in your browser.",
+    "source_urls": [
+      "https://viptoolskit.com/contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 7
+  },
+  {
+    "company_domain": "thienbang.vn",
+    "company_name": "Replace a Protective Mask - Replace A Protective Mask At The Right Time",
+    "website": "https://thienbang.vn/when-to-replace-a-protective-mask/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "hng@thienbang.vn",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "nguy\u1ec5n h\u1ed3ng",
+        "person_title": null,
+        "source_url": "https://thienbang.vn/when-to-replace-a-protective-mask/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "n.hng@thienbang.vn",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "nguy\u1ec5n h\u1ed3ng",
+        "person_title": null,
+        "source_url": "https://thienbang.vn/when-to-replace-a-protective-mask/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "nguyn.hng@thienbang.vn",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "nguy\u1ec5n h\u1ed3ng",
+        "person_title": null,
+        "source_url": "https://thienbang.vn/when-to-replace-a-protective-mask/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "nguyn@thienbang.vn",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "nguy\u1ec5n h\u1ed3ng",
+        "person_title": null,
+        "source_url": "https://thienbang.vn/when-to-replace-a-protective-mask/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "nguyn_hng@thienbang.vn",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "nguy\u1ec5n h\u1ed3ng",
+        "person_title": null,
+        "source_url": "https://thienbang.vn/when-to-replace-a-protective-mask/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "nguynh@thienbang.vn",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "nguy\u1ec5n h\u1ed3ng",
+        "person_title": null,
+        "source_url": "https://thienbang.vn/when-to-replace-a-protective-mask/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://thienbang.vn/when-to-replace-a-protective-mask/?ref=producthunt",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Have you ever wondered when to replace a protective mask to ensure proper respiratory protection throughout your work? If you continue using a mask that is",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  }
+]
