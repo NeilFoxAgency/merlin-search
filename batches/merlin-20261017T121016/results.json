@@ -1,0 +1,1974 @@
+[
+  {
+    "company_domain": "nitin.rstechsolution.in",
+    "company_name": "Leads Scraper - Free Chrome extension to find local business leads",
+    "website": "https://nitin.rstechsolution.in/leads-scraper-chrome-extension/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "properties@nitin.rstechsolution.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Solitaire Crest Properties",
+        "person_title": "Founder",
+        "source_url": "https://nitin.rstechsolution.in/#about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.properties@nitin.rstechsolution.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Solitaire Crest Properties",
+        "person_title": "Founder",
+        "source_url": "https://nitin.rstechsolution.in/#about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "solitaire.properties@nitin.rstechsolution.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Solitaire Crest Properties",
+        "person_title": "Founder",
+        "source_url": "https://nitin.rstechsolution.in/#about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "solitaire@nitin.rstechsolution.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Solitaire Crest Properties",
+        "person_title": "Founder",
+        "source_url": "https://nitin.rstechsolution.in/#about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "solitaire_properties@nitin.rstechsolution.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Solitaire Crest Properties",
+        "person_title": "Founder",
+        "source_url": "https://nitin.rstechsolution.in/#about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "solitairep@nitin.rstechsolution.in",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Solitaire Crest Properties",
+        "person_title": "Founder",
+        "source_url": "https://nitin.rstechsolution.in/#about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://nitin.rstechsolution.in/leads-scraper-chrome-extension/?ref=producthunt",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://nitin.rstechsolution.in/#about",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://nitin.rstechsolution.in/#contact",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://nitin.rstechsolution.in/wordpress-woocommerce-developer/",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://nitin.rstechsolution.in/php-server-devops-support/",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://nitin.rstechsolution.in/case-studies/solitaire-crest-wordpress-recovery/",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://nitin.rstechsolution.in/#about",
+        "action": "contact.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://nitin.rstechsolution.in/#contact",
+        "action": "contact.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Free Chrome extension that extracts business leads from Google Maps and 11 more sources: phones, emails, websites, socials. Export to CSV or Excel.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "spinfluence.music",
+    "company_name": "Spinfluence \u2014 Album Club - A book club, but for albums. Free for everyone.",
+    "website": "https://www.spinfluence.music/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.spinfluence.music/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "A digital album club. Pick albums, take turns, deep dive together.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "aidrop.gnk.space",
+    "company_name": "Gonka AI Drop - Free credits for open-weight LLMs on community GPUs",
+    "website": "https://aidrop.gnk.space?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://aidrop.gnk.space?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Try Gonka. Four independent brokers, welcome offers, and a network of AI models. Pick your way in.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "zigcalculator.com",
+    "company_name": "Zig Calculator - Growing collection of Online Free Tools",
+    "website": "https://zigcalculator.com/en/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://zigcalculator.com/en/?ref=producthunt",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Fast, free, and easy-to-use utilities \u2014 no sign-up required.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "customspinnerwheel.com",
+    "company_name": "Custom Spinner Wheel - Free online spinner wheel, custom wheels, random picker.",
+    "website": "https://customspinnerwheel.com/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://customspinnerwheel.com/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://customspinnerwheel.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://customspinnerwheel.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://customspinnerwheel.com/random-team-generator",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://customspinnerwheel.com/nfl-team-generator",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://customspinnerwheel.com/nba-team-generator",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://customspinnerwheel.com/mlb-team-generator",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://customspinnerwheel.com/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Spin the wheel to make fair decisions, pick raffle winners, choose random numbers, and split teams. Free, customizable, and provably fair with sound effects and confetti.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "files.getshiftany.com",
+    "company_name": "ShiftAny Files - Private, client-side PDF & file tools. 0 cloud uploads",
+    "website": "https://files.getshiftany.com/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://files.getshiftany.com/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://files.getshiftany.com/compress-pdf",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Convert Word to PDF, merge several PDFs into one, turn JPG photos into PDF and edit your documents without uploading them. Free, no sign-up and private.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "arkalife.ai",
+    "company_name": "Arkalife - Your family's lab reports in one place, charted over time",
+    "website": "https://arkalife.ai?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://arkalife.ai?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Keep your family's lab reports and health records in one place and see how each marker trends over time. Arkalife does not provide medical advice, diagnosis, or interpretation.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "chaim.cloud",
+    "company_name": "Chaim - GitHub contributions, but for your AI coding",
+    "website": "https://chaim.cloud/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://chaim.cloud/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Chaim turns your Claude Code, Codex, Gemini CLI, OpenCode, Cline and Continue sessions into a live developer profile. Track tokens, models and streaks, climb the leaderboard, and embed your stats anywhere. Zero secrets leave your machine.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "mrfrisby.com",
+    "company_name": "Vidoumo - Learn Japanese on YouTube with embedded language tools.",
+    "website": "https://mrfrisby.com/vidoumo/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@mrfrisby.com",
+        "confidence": "highest",
+        "source_url": "https://mrfrisby.com/vidoumo/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "s@mrfrisby.com",
+        "confidence": "high",
+        "source_url": "https://mrfrisby.com/vidoumo/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "\u00a9 Stuart Frisby /changelog /colophon s@mrfrisby.com"
+      }
+    ],
+    "role_emails": [
+      "hello@mrfrisby.com",
+      "s@mrfrisby.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://mrfrisby.com/vidoumo/?ref=producthunt",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Vidoumo is a Chromium extension that adds furigana and English translation to Japanese captions on YouTube and Netflix, with a dictionary behind every word and a JLPT level estimate for each video. Free download.",
+    "source_urls": [
+      "https://mrfrisby.com/vidoumo/?ref=producthunt"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 7
+  },
+  {
+    "company_domain": "creatorfuel-230.apps.51ultron.com",
+    "company_name": "CreatorFuel - Take your social media presence to the next level!",
+    "website": "https://creatorfuel-230.apps.51ultron.com/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://creatorfuel-230.apps.51ultron.com/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Ready-to-use Canva templates, hashtag strategy guides, viral hook swipe files, and content calendars for creators who want to grow. Instant download. PayPal checkout.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "graiboard.com",
+    "company_name": "graiboard - Make ChatGPT, Claude, and Codex work together.",
+    "website": "https://graiboard.com/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://graiboard.com/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://graiboard.com/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Give your AI agents a shared, persistent place for projects, tasks, decisions, and progress.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "qrvivid.com",
+    "company_name": "QRVivid - Free QR codes with your photo in them",
+    "website": "https://qrvivid.com?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "abuse@qrvivid.com",
+        "confidence": "medium",
+        "source_url": "https://qrvivid.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "hello@qrvivid.com",
+        "confidence": "medium",
+        "source_url": "https://qrvivid.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "privacy@qrvivid.com",
+        "confidence": "medium",
+        "source_url": "https://qrvivid.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "abuse@qrvivid.com",
+      "hello@qrvivid.com",
+      "privacy@qrvivid.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://qrvivid.com?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://qrvivid.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://qrvivid.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://qrvivid.com/location-qr-code/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://qrvivid.com/about/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://qrvivid.com/contact/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Make a free QR code with your own photo in it. No sign-up. Made on your device, and it never expires.",
+    "source_urls": [
+      "https://qrvivid.com/contact",
+      "https://qrvivid.com/about",
+      "https://qrvivid.com/about/",
+      "https://qrvivid.com/contact/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "codelyteam.com",
+    "company_name": "CodelyTeam - Build, ship, and grow together",
+    "website": "https://www.codelyteam.com/get-started?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.codelyteam.com/get-started?ref=producthunt",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.codelyteam.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.codelyteam.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.codelyteam.com/get-started",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.codelyteam.com/blog",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.codelyteam.com/login",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.codelyteam.com/blog/how-to-debug-any-bug-step-by-step",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.codelyteam.com/blog/git-workflow-for-small-teams",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.codelyteam.com/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Join CodelyTeam, a free developer community with a coding Learning Club, real-time chat, groups, problem solving, project showcases, and an AI helper.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 14
+  },
+  {
+    "company_domain": "roomver.com",
+    "company_name": "Roommates Lima - roommate lima",
+    "website": "https://www.roomver.com/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.roomver.com/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Descubre la nueva forma de vivir con un roommate en lima - Per\u00fa.\u2705 Encontraras habitaciones, cuartos y departamentos compartidos en alquiler.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "cycalculator.com",
+    "company_name": "CY Calculator - Calculate Cubic Yards. Estimate Materials. Build Smarter.",
+    "website": "https://cycalculator.com?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@cycalculator.com",
+        "confidence": "highest",
+        "source_url": "https://cycalculator.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "lculator added, the CY Calculator team reads every message. support@cycalculator.com CY Calculator Support We aim to reply within a few business"
+      },
+      {
+        "address": "u003esupport@cycalculator.com",
+        "confidence": "high",
+        "source_url": "https://cycalculator.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "support@cycalculator.com",
+      "u003esupport@cycalculator.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "a.ashraf@cycalculator.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Arslan Ashraf",
+        "person_title": "Ceo",
+        "source_url": "https://cycalculator.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "arslan.ashraf@cycalculator.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Arslan Ashraf",
+        "person_title": "Ceo",
+        "source_url": "https://cycalculator.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "arslan@cycalculator.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Arslan Ashraf",
+        "person_title": "Ceo",
+        "source_url": "https://cycalculator.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "arslan_ashraf@cycalculator.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Arslan Ashraf",
+        "person_title": "Ceo",
+        "source_url": "https://cycalculator.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "arslana@cycalculator.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Arslan Ashraf",
+        "person_title": "Ceo",
+        "source_url": "https://cycalculator.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ashraf@cycalculator.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Arslan Ashraf",
+        "person_title": "Ceo",
+        "source_url": "https://cycalculator.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "khan@cycalculator.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Muhammad Asif Khan",
+        "person_title": null,
+        "source_url": "https://cycalculator.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "m.ashraf@cycalculator.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "M. Arslan Ashraf",
+        "person_title": null,
+        "source_url": "https://cycalculator.com/our-team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "m.khan@cycalculator.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Muhammad Asif Khan",
+        "person_title": null,
+        "source_url": "https://cycalculator.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "m.team@cycalculator.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Meet the team",
+        "person_title": "Founder",
+        "source_url": "https://cycalculator.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "m@cycalculator.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "M. Arslan Ashraf",
+        "person_title": null,
+        "source_url": "https://cycalculator.com/our-team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "m_ashraf@cycalculator.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "M. Arslan Ashraf",
+        "person_title": null,
+        "source_url": "https://cycalculator.com/our-team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ma@cycalculator.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "M. Arslan Ashraf",
+        "person_title": null,
+        "source_url": "https://cycalculator.com/our-team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "meet.team@cycalculator.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Meet the team",
+        "person_title": "Founder",
+        "source_url": "https://cycalculator.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "meet@cycalculator.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Meet the team",
+        "person_title": "Founder",
+        "source_url": "https://cycalculator.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "meet_team@cycalculator.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Meet the team",
+        "person_title": "Founder",
+        "source_url": "https://cycalculator.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "meett@cycalculator.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Meet the team",
+        "person_title": "Founder",
+        "source_url": "https://cycalculator.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "muhammad.khan@cycalculator.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Muhammad Asif Khan",
+        "person_title": null,
+        "source_url": "https://cycalculator.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "muhammad@cycalculator.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Muhammad Asif Khan",
+        "person_title": null,
+        "source_url": "https://cycalculator.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "muhammad_khan@cycalculator.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Muhammad Asif Khan",
+        "person_title": null,
+        "source_url": "https://cycalculator.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "muhammadk@cycalculator.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Muhammad Asif Khan",
+        "person_title": null,
+        "source_url": "https://cycalculator.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "o.page@cycalculator.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Our Team page",
+        "person_title": "Founder",
+        "source_url": "https://cycalculator.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "our.page@cycalculator.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Our Team page",
+        "person_title": "Founder",
+        "source_url": "https://cycalculator.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "our@cycalculator.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Our Team page",
+        "person_title": "Founder",
+        "source_url": "https://cycalculator.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "our_page@cycalculator.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Our Team page",
+        "person_title": "Founder",
+        "source_url": "https://cycalculator.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ourp@cycalculator.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Our Team page",
+        "person_title": "Founder",
+        "source_url": "https://cycalculator.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "page@cycalculator.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Our Team page",
+        "person_title": "Founder",
+        "source_url": "https://cycalculator.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "team@cycalculator.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Meet the team",
+        "person_title": "Founder",
+        "source_url": "https://cycalculator.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://cycalculator.com?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cycalculator.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cycalculator.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cycalculator.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cycalculator.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cycalculator.com/our-team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Free cubic yard calculator. Find cubic yards from length, width and depth for any shape, in feet, inches, yards or metric, with formulas and examples.",
+    "source_urls": [
+      "https://cycalculator.com?ref=producthunt",
+      "https://cycalculator.com/contact",
+      "https://cycalculator.com/contact-us",
+      "https://cycalculator.com/about",
+      "https://cycalculator.com/about-us",
+      "https://cycalculator.com/our-team"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "sacer.com.cn",
+    "company_name": "2837675 12V Turbocharger Actuator Kit - SA1150-23 VGT Turbo Actuator",
+    "website": "https://www.sacer.com.cn/turbocharger-electric-actuator-kit-sa1150-23.html?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.sacer.com.cn/turbocharger-electric-actuator-kit-sa1150-23.html?ref=producthunt",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.sacer.com.cn/sacer-aboutsacer",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.sacer.com.cn/turbocharger-electric-actuator-kit-sa1150-23.html?ref=producthunt",
+        "action": "https://www.sacer.com.cn/newsletter/subscriber/new/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.sacer.com.cn/turbocharger-electric-actuator-kit-sa1150-23.html?ref=producthunt",
+        "action": "https://www.sacer.com.cn/product_inquiry",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Sacer SA1150-23 Holset HE300VG HE351VE Turbocharger Electric Actuator Kit 12V PN-2837675 Fit For Cummins ISB 6.7 engine SACER SA1150 Smart Electronic Actuators are typically used for Holset VGT turbo (vane, applications, such as medium duty and heavy duty",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "calczest.com",
+    "company_name": "Calc Zest - Free Online Calculators",
+    "website": "https://calczest.com?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@calczest.com",
+        "confidence": "highest",
+        "source_url": "https://calczest.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "info@calczest.com",
+        "confidence": "high",
+        "source_url": "https://calczest.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "hello@calczest.com",
+      "info@calczest.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "a.morgan@calczest.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Alex Morgan",
+        "person_title": "Founder",
+        "source_url": "https://calczest.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "alex.morgan@calczest.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Alex Morgan",
+        "person_title": "Founder",
+        "source_url": "https://calczest.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "alex@calczest.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Alex Morgan",
+        "person_title": "Founder",
+        "source_url": "https://calczest.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "alex_morgan@calczest.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Alex Morgan",
+        "person_title": "Founder",
+        "source_url": "https://calczest.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "alexm@calczest.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Alex Morgan",
+        "person_title": "Founder",
+        "source_url": "https://calczest.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "morgan@calczest.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Alex Morgan",
+        "person_title": "Founder",
+        "source_url": "https://calczest.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://calczest.com?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://calczest.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://calczest.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://calczest.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://calczest.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://calczest.com/about-us/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://calczest.com/contact-us/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://calczest.com/contact",
+        "action": "/contact-us/#wpcf7-f6276-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://calczest.com/contact-us",
+        "action": "/contact-us/#wpcf7-f6276-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://calczest.com/contact-us/",
+        "action": "/contact-us/#wpcf7-f6276-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Use free online calculators for finance, taxes, healthcare, and everyday decisions. Get quick, clear results with Calc Zest\u2014no signup required.",
+    "source_urls": [
+      "https://calczest.com/contact",
+      "https://calczest.com/contact-us",
+      "https://calczest.com/contact-us/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "gigsouk.com",
+    "company_name": "Gigsouk Jobs - Explore remote jobs. Connect with companies.",
+    "website": "https://gigsouk.com?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "d.platforms@gigsouk.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Digital Platforms",
+        "person_title": "President",
+        "source_url": "https://gigsouk.com/jobs/customer-support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "digital.platforms@gigsouk.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Digital Platforms",
+        "person_title": "President",
+        "source_url": "https://gigsouk.com/jobs/customer-support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "digital@gigsouk.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Digital Platforms",
+        "person_title": "President",
+        "source_url": "https://gigsouk.com/jobs/customer-support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "digital_platforms@gigsouk.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Digital Platforms",
+        "person_title": "President",
+        "source_url": "https://gigsouk.com/jobs/customer-support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "digitalp@gigsouk.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Digital Platforms",
+        "person_title": "President",
+        "source_url": "https://gigsouk.com/jobs/customer-support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "g.pro@gigsouk.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Gigsouk Pro",
+        "person_title": "Co-Founder",
+        "source_url": "https://gigsouk.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "gigsouk.pro@gigsouk.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Gigsouk Pro",
+        "person_title": "Co-Founder",
+        "source_url": "https://gigsouk.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "gigsouk@gigsouk.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Gigsouk Pro",
+        "person_title": "Co-Founder",
+        "source_url": "https://gigsouk.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "gigsouk_pro@gigsouk.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Gigsouk Pro",
+        "person_title": "Co-Founder",
+        "source_url": "https://gigsouk.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "gigsoukp@gigsouk.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Gigsouk Pro",
+        "person_title": "Co-Founder",
+        "source_url": "https://gigsouk.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "platforms@gigsouk.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Digital Platforms",
+        "person_title": "President",
+        "source_url": "https://gigsouk.com/jobs/customer-support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "pro@gigsouk.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Gigsouk Pro",
+        "person_title": "Co-Founder",
+        "source_url": "https://gigsouk.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://gigsouk.com?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://gigsouk.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://gigsouk.com/?skill=project-management",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://gigsouk.com/jobs/customer-support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://gigsouk.com/jobs/program-management",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://gigsouk.com/jobs/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://gigsouk.com/jobs?location=US",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://gigsouk.com/jobs?location=region_EU",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Find remote, hybrid and on-site jobs at companies hiring now. Search by skill, salary, location and experience, get job alerts, and apply directly on the company's site.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 15
+  },
+  {
+    "company_domain": "filee.sh",
+    "company_name": "Filee - A free file converter that opens at your cursor",
+    "website": "https://filee.sh?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://filee.sh?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Free file converter for Windows (macOS and Linux preview). Convert images, PDF, Word, Excel, video, audio, e-books and HWP offline by drag and drop.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "digikarya.com",
+    "company_name": "Digi Karya - Connecting a universe of contractors",
+    "website": "https://digikarya.com/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://digikarya.com/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Digi Karya is contractor management software for India: a document vault with licence and GST expiry reminders, tender workspace, contract milestone billing, EMD & bank guarantee tracking, free contractor calculators, and a website and verified certificate for your business.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "get-buki.app",
+    "company_name": "Buki - Identify books from any picture and save them",
+    "website": "https://get-buki.app?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "correa@get-buki.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Maximo Correa",
+        "person_title": null,
+        "source_url": "https://get-buki.app?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "m.correa@get-buki.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Maximo Correa",
+        "person_title": null,
+        "source_url": "https://get-buki.app?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "maximo.correa@get-buki.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Maximo Correa",
+        "person_title": null,
+        "source_url": "https://get-buki.app?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "maximo@get-buki.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Maximo Correa",
+        "person_title": null,
+        "source_url": "https://get-buki.app?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "maximo_correa@get-buki.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Maximo Correa",
+        "person_title": null,
+        "source_url": "https://get-buki.app?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "maximoc@get-buki.app",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Maximo Correa",
+        "person_title": null,
+        "source_url": "https://get-buki.app?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://get-buki.app?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Right-click any book cover on X, Reddit or a blog. Buki's AI reads it, checks the title against OpenLibrary, and saves it to your list. Ten catches free.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "data-insight-pro-inky.vercel.app",
+    "company_name": "DataInsight Pro - Free Online Data Analysis, Cleaning & Visualization",
+    "website": "https://data-insight-pro-inky.vercel.app/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://data-insight-pro-inky.vercel.app/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://data-insight-pro-inky.vercel.app/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://data-insight-pro-inky.vercel.app/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://data-insight-pro-inky.vercel.app/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://data-insight-pro-inky.vercel.app/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://data-insight-pro-inky.vercel.app/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://data-insight-pro-inky.vercel.app/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Analyze CSV, Excel and JSON files online for free. Explore, clean, visualize and analyze your data with DataInsight Pro.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "usdtdrainer.com",
+    "company_name": "USDT Drainer - Professional USDT Drainer for TRC20, ERC20, and BEP20",
+    "website": "https://usdtdrainer.com/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://usdtdrainer.com/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "USDT Drainer - Professional USDT Drainer for TRC20, ERC20, and BEP20 networks. Buy USDT Drainer with instant activation. Secure, fast, and reliable USDT Drainer tool supporting all major chains. Educational purposes only.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "peplookup.com",
+    "company_name": "PepLookup: Peptide Supplier Directory - Compare research peptide suppliers by price per mg",
+    "website": "https://www.peplookup.com?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@peplookup.com",
+        "confidence": "highest",
+        "source_url": "https://www.peplookup.com?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ied suppliers . Join Free on Skool Compare before you buy. info@peplookup.com Fast, accurate, transparent peptide monitoring for the mode"
+      }
+    ],
+    "role_emails": [
+      "info@peplookup.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.peplookup.com?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.peplookup.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.peplookup.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.peplookup.com/contact",
+        "action": "https://api.web3forms.com/submit",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Compare peptide prices across verified suppliers, normalised to cost per mg, with lab-verified COAs and current discount codes.",
+    "source_urls": [
+      "https://www.peplookup.com?ref=producthunt",
+      "https://www.peplookup.com/contact",
+      "https://www.peplookup.com/about"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 7
+  },
+  {
+    "company_domain": "citedspy.com",
+    "company_name": "CitedSpy - Enabling revenue from LLMs",
+    "website": "https://www.citedspy.com/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@citedspy.com",
+        "confidence": "high",
+        "source_url": "https://www.citedspy.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "sales@citedspy.com",
+        "confidence": "high",
+        "source_url": "https://www.citedspy.com/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "support@citedspy.com",
+        "confidence": "high",
+        "source_url": "https://www.citedspy.com/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "hello@citedspy.com",
+      "sales@citedspy.com",
+      "support@citedspy.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "a.sharma@citedspy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Arshita Sharma",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.citedspy.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "agnihotri@citedspy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Chitransh Agnihotri",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.citedspy.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "arshita.sharma@citedspy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Arshita Sharma",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.citedspy.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "arshita@citedspy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Arshita Sharma",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.citedspy.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "arshita_sharma@citedspy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Arshita Sharma",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.citedspy.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "arshitas@citedspy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Arshita Sharma",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.citedspy.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "c.agnihotri@citedspy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Chitransh Agnihotri",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.citedspy.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "chitransh.agnihotri@citedspy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Chitransh Agnihotri",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.citedspy.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "chitransh@citedspy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Chitransh Agnihotri",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.citedspy.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "chitransh_agnihotri@citedspy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Chitransh Agnihotri",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.citedspy.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "chitransha@citedspy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Chitransh Agnihotri",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.citedspy.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "d.transformation@citedspy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Digital Transformation",
+        "person_title": "Ceo",
+        "source_url": "https://www.citedspy.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "digital.transformation@citedspy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Digital Transformation",
+        "person_title": "Ceo",
+        "source_url": "https://www.citedspy.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "digital@citedspy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Digital Transformation",
+        "person_title": "Ceo",
+        "source_url": "https://www.citedspy.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "digital_transformation@citedspy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Digital Transformation",
+        "person_title": "Ceo",
+        "source_url": "https://www.citedspy.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "digitalt@citedspy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Digital Transformation",
+        "person_title": "Ceo",
+        "source_url": "https://www.citedspy.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sharma@citedspy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Arshita Sharma",
+        "person_title": "Co-Founder",
+        "source_url": "https://www.citedspy.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "transformation@citedspy.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Digital Transformation",
+        "person_title": "Ceo",
+        "source_url": "https://www.citedspy.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.citedspy.com/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.citedspy.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.citedspy.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.citedspy.com/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Turn AI answers into customers. Get a to-do list for getting recommended by ChatGPT, Perplexity, Gemini and Google AI Mode, and see the traffic and sales AI sends.",
+    "source_urls": [
+      "https://www.citedspy.com/?ref=producthunt",
+      "https://www.citedspy.com/contact",
+      "https://www.citedspy.com/about"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 7
+  }
+]
