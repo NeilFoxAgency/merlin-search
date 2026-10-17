@@ -1,0 +1,1665 @@
+[
+  {
+    "company_domain": "autosecurelogin.com",
+    "company_name": "Outside Access - Offline bilingual help and status for Outside Access",
+    "website": "https://autosecurelogin.com/products/outside-access.html?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "contact@autosecurelogin.com",
+        "confidence": "highest",
+        "source_url": "https://autosecurelogin.com/products/outside-access.html?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ". Open Outside Access \u2192 Talk to a person Prefer email? contact@autosecurelogin.com Auto Secure Login Custom software and ready-t"
+      },
+      {
+        "address": "support@autosecurelogin.com",
+        "confidence": "high",
+        "source_url": "https://autosecurelogin.com/products/outside-access.html?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ou. How do I get help? Your family on the outside can email support@autosecurelogin.com, and we do our best to reply within 48 hours. Support is by"
+      }
+    ],
+    "role_emails": [
+      "contact@autosecurelogin.com",
+      "support@autosecurelogin.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "a.login@autosecurelogin.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Auto Secure Login",
+        "person_title": "Owner",
+        "source_url": "https://autosecurelogin.com/products/support.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "auto.login@autosecurelogin.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Auto Secure Login",
+        "person_title": "Owner",
+        "source_url": "https://autosecurelogin.com/products/support.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "auto@autosecurelogin.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Auto Secure Login",
+        "person_title": "Owner",
+        "source_url": "https://autosecurelogin.com/products/support.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "auto_login@autosecurelogin.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Auto Secure Login",
+        "person_title": "Owner",
+        "source_url": "https://autosecurelogin.com/products/support.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "autol@autosecurelogin.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Auto Secure Login",
+        "person_title": "Owner",
+        "source_url": "https://autosecurelogin.com/products/support.html",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "login@autosecurelogin.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Auto Secure Login",
+        "person_title": "Owner",
+        "source_url": "https://autosecurelogin.com/products/support.html",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://autosecurelogin.com/products/outside-access.html?ref=producthunt",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://autosecurelogin.com/contact/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://autosecurelogin.com/contact/#product=outside-access",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://autosecurelogin.com/products/support.html",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://autosecurelogin.com/contact/",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://autosecurelogin.com/contact/#product=outside-access",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Outside Access supports research and document drafts for someone incarcerated. Review family-funded credits, request handling, review steps and access limits.",
+    "source_urls": [
+      "https://autosecurelogin.com/products/outside-access.html?ref=producthunt",
+      "https://autosecurelogin.com/contact/",
+      "https://autosecurelogin.com/contact/#product=outside-access",
+      "https://autosecurelogin.com/products/support.html"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "anyonecanlayafloor.com",
+    "company_name": "Anyone Can Lay A Floor - Free floor planner that tells you the size of every cut",
+    "website": "https://anyonecanlayafloor.com?ref=producthunt",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "challenge_page",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "tomato.v-ai.org",
+    "company_name": "Tomato - browser that works for you for free, with local model",
+    "website": "https://tomato.v-ai.org/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "patil@tomato.v-ai.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Vishal Patil",
+        "person_title": null,
+        "source_url": "https://tomato.v-ai.org/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "v.patil@tomato.v-ai.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Vishal Patil",
+        "person_title": null,
+        "source_url": "https://tomato.v-ai.org/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "vishal.patil@tomato.v-ai.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Vishal Patil",
+        "person_title": null,
+        "source_url": "https://tomato.v-ai.org/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "vishal@tomato.v-ai.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Vishal Patil",
+        "person_title": null,
+        "source_url": "https://tomato.v-ai.org/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "vishal_patil@tomato.v-ai.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Vishal Patil",
+        "person_title": null,
+        "source_url": "https://tomato.v-ai.org/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "vishalp@tomato.v-ai.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Vishal Patil",
+        "person_title": null,
+        "source_url": "https://tomato.v-ai.org/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://tomato.v-ai.org/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "A lighter Mac browser built on Chromium, with an assistant that stays off until you turn it on.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "glidely.site",
+    "company_name": "Glidely - Calm all-in-one workspace with boards, chat & calendar",
+    "website": "https://glidely.site?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@glidely.site",
+        "confidence": "highest",
+        "source_url": "https://glidely.site?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "14-day money-back guarantee. Still have a question? Email support@glidely.site Guides What is a kanban board? How kanban works, why teams"
+      }
+    ],
+    "role_emails": [
+      "support@glidely.site"
+    ],
+    "email_candidates": [
+      {
+        "address": "chat@glidely.site",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "team chat",
+        "person_title": "Owner",
+        "source_url": "https://glidely.site/small-teams",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "h.ishtiaq@glidely.site",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Hamza Ishtiaq",
+        "person_title": "Founder",
+        "source_url": "https://glidely.site/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "hamza.ishtiaq@glidely.site",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Hamza Ishtiaq",
+        "person_title": "Founder",
+        "source_url": "https://glidely.site/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "hamza@glidely.site",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Hamza Ishtiaq",
+        "person_title": "Founder",
+        "source_url": "https://glidely.site/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "hamza_ishtiaq@glidely.site",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Hamza Ishtiaq",
+        "person_title": "Founder",
+        "source_url": "https://glidely.site/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "hamzai@glidely.site",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Hamza Ishtiaq",
+        "person_title": "Founder",
+        "source_url": "https://glidely.site/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ishtiaq@glidely.site",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Hamza Ishtiaq",
+        "person_title": "Founder",
+        "source_url": "https://glidely.site/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "t.chat@glidely.site",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "team chat",
+        "person_title": "Owner",
+        "source_url": "https://glidely.site/small-teams",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "team.chat@glidely.site",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "team chat",
+        "person_title": "Owner",
+        "source_url": "https://glidely.site/small-teams",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "team@glidely.site",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "team chat",
+        "person_title": "Owner",
+        "source_url": "https://glidely.site/small-teams",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "team_chat@glidely.site",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "team chat",
+        "person_title": "Owner",
+        "source_url": "https://glidely.site/small-teams",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "teamc@glidely.site",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "team chat",
+        "person_title": "Owner",
+        "source_url": "https://glidely.site/small-teams",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://glidely.site?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://glidely.site/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://glidely.site/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://glidely.site/small-teams",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://glidely.site/team-calendar",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://glidely.site/team-chat",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://glidely.site/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Glidely puts your team\u2019s kanban boards, chat and calendar in one calm workspace. Free plan with no time limit and no credit card. Try the live demo.",
+    "source_urls": [
+      "https://glidely.site?ref=producthunt",
+      "https://glidely.site/contact",
+      "https://glidely.site/about",
+      "https://glidely.site/small-teams",
+      "https://glidely.site/team-calendar",
+      "https://glidely.site/team-chat",
+      "https://glidely.site/support"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "bnbconsole.com",
+    "company_name": "BnB Console - Commission-free direct bookings for short-term-rental hosts",
+    "website": "https://bnbconsole.com?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://bnbconsole.com?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bnbconsole.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bnbconsole.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bnbconsole.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bnbconsole.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bnbconsole.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://bnbconsole.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://bnbconsole.com/contact",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "BnB Console gives independent short-term-rental hosts a commission-free direct booking website, dynamic pricing, calendar sync, one guest inbox and Stripe payments \u2014 free for unlimited properties.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "accomassist.com.au",
+    "company_name": "ENVIROLUX Purifying Shampoo \u2013 30ml - Environmentally responsible packaging with luxury ingredient",
+    "website": "https://accomassist.com.au/product/envirolux-purifying-shampoo-300/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "orders@accomassist.com.au",
+        "confidence": "medium",
+        "source_url": "https://accomassist.com.au/product/envirolux-purifying-shampoo-300/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "orders@accomassist.com.au"
+    ],
+    "email_candidates": [
+      {
+        "address": "dureau@accomassist.com.au",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Richard Dureau",
+        "person_title": "Founder",
+        "source_url": "https://accomassist.com.au/product/envirolux-purifying-shampoo-300/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "r.dureau@accomassist.com.au",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Richard Dureau",
+        "person_title": "Founder",
+        "source_url": "https://accomassist.com.au/product/envirolux-purifying-shampoo-300/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "richard.dureau@accomassist.com.au",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Richard Dureau",
+        "person_title": "Founder",
+        "source_url": "https://accomassist.com.au/product/envirolux-purifying-shampoo-300/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "richard@accomassist.com.au",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Richard Dureau",
+        "person_title": "Founder",
+        "source_url": "https://accomassist.com.au/product/envirolux-purifying-shampoo-300/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "richard_dureau@accomassist.com.au",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Richard Dureau",
+        "person_title": "Founder",
+        "source_url": "https://accomassist.com.au/product/envirolux-purifying-shampoo-300/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "richardd@accomassist.com.au",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Richard Dureau",
+        "person_title": "Founder",
+        "source_url": "https://accomassist.com.au/product/envirolux-purifying-shampoo-300/about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://accomassist.com.au/product/envirolux-purifying-shampoo-300/?ref=producthunt",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://accomassist.com.au/product/envirolux-purifying-shampoo-300/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://accomassist.com.au/product/envirolux-purifying-shampoo-300/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://accomassist.com.au/product/envirolux-purifying-shampoo-300/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://accomassist.com.au/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://accomassist.com.au/about-us/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://accomassist.com.au/contact/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://accomassist.com.au/product/envirolux-purifying-shampoo-300/?ref=producthunt",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://accomassist.com.au/product/envirolux-purifying-shampoo-300/contact",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://accomassist.com.au/product/envirolux-purifying-shampoo-300/about",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://accomassist.com.au/product/envirolux-purifying-shampoo-300/about-us",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://accomassist.com.au/contact",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://accomassist.com.au/about-us/",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://accomassist.com.au/contact/",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "300 units per carton  10728238629561",
+    "source_urls": [
+      "https://accomassist.com.au/product/envirolux-purifying-shampoo-300/?ref=producthunt",
+      "https://accomassist.com.au/product/envirolux-purifying-shampoo-300/contact",
+      "https://accomassist.com.au/product/envirolux-purifying-shampoo-300/about",
+      "https://accomassist.com.au/product/envirolux-purifying-shampoo-300/about-us",
+      "https://accomassist.com.au/contact",
+      "https://accomassist.com.au/about-us/",
+      "https://accomassist.com.au/contact/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "acaseitsmycase.ae",
+    "company_name": "A-Case Amur iPhone 18 Pro Max Case - Main product link",
+    "website": "https://acaseitsmycase.ae/products/amur-genuine-leather-case-for-iphone-18-pro-max?variant=56115032358985&ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://acaseitsmycase.ae/products/amur-genuine-leather-case-for-iphone-18-pro-max?variant=56115032358985&ref=producthunt",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://acaseitsmycase.ae/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://acaseitsmycase.ae/pages/contact#faq-contact-page",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://acaseitsmycase.ae/pages/contact",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://acaseitsmycase.ae/pages/contact#faq-contact-page",
+        "action": "/contact#contact_form",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Premium Genuine Leather: Crafted from high-quality genuine leather, the Amur case delivers a refined texture that feels secure in your hand and elevates your iPhone 18 Pro Max's aesthetic. Each case is constructed with authentic leather sourced for durability and premium appearance, developing a nat",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "mrp.com.vn",
+    "company_name": "Khi MrP \u0110i T\u00ecm M\u00f9a Thu - \u0110i t\u00ecm m\u00f9a Thu, \u0111\u1ec3 t\u00ecm m\u1ed9t c\u1ea3m x\u00fac \u1edf l\u1ea1i",
+    "website": "https://mrp.com.vn/khi-mrp-di-tim-mua-thu.html?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_content_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "pinkoa.com",
+    "company_name": "PINKOA - A free pink study timer with a koala who studies with you",
+    "website": "https://pinkoa.com?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@pinkoa.com",
+        "confidence": "highest",
+        "source_url": "https://pinkoa.com/contact",
+        "source_type": "archived",
+        "snapshot_date": "2021-05-06",
+        "context_snippet": "t's Talk Phone: (781) 819-0994 Email Us hello@pinkoa.com Working Hours Mon to Fri - 9 AM to 6 PM E"
+      }
+    ],
+    "role_emails": [
+      "hello@pinkoa.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "a.lavine@pinkoa.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Andrew Lavine",
+        "person_title": "Business Development",
+        "source_url": "https://pinkoa.com/team",
+        "source_type": "archived",
+        "snapshot_date": "2018-10-02"
+      },
+      {
+        "address": "andrew.lavine@pinkoa.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Andrew Lavine",
+        "person_title": "Business Development",
+        "source_url": "https://pinkoa.com/team",
+        "source_type": "archived",
+        "snapshot_date": "2018-10-02"
+      },
+      {
+        "address": "andrew@pinkoa.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Andrew Lavine",
+        "person_title": "Business Development",
+        "source_url": "https://pinkoa.com/team",
+        "source_type": "archived",
+        "snapshot_date": "2018-10-02"
+      },
+      {
+        "address": "andrew_lavine@pinkoa.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Andrew Lavine",
+        "person_title": "Business Development",
+        "source_url": "https://pinkoa.com/team",
+        "source_type": "archived",
+        "snapshot_date": "2018-10-02"
+      },
+      {
+        "address": "andrewl@pinkoa.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Andrew Lavine",
+        "person_title": "Business Development",
+        "source_url": "https://pinkoa.com/team",
+        "source_type": "archived",
+        "snapshot_date": "2018-10-02"
+      },
+      {
+        "address": "l.laudowicz@pinkoa.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Laurens Laudowicz",
+        "person_title": "Owner",
+        "source_url": "https://pinkoa.com/policies/contact-information",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "laudowicz@pinkoa.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Laurens Laudowicz",
+        "person_title": "Owner",
+        "source_url": "https://pinkoa.com/policies/contact-information",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "laurens.laudowicz@pinkoa.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Laurens Laudowicz",
+        "person_title": "Owner",
+        "source_url": "https://pinkoa.com/policies/contact-information",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "laurens@pinkoa.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Laurens Laudowicz",
+        "person_title": "Owner",
+        "source_url": "https://pinkoa.com/policies/contact-information",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "laurens_laudowicz@pinkoa.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Laurens Laudowicz",
+        "person_title": "Owner",
+        "source_url": "https://pinkoa.com/policies/contact-information",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "laurensl@pinkoa.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Laurens Laudowicz",
+        "person_title": "Owner",
+        "source_url": "https://pinkoa.com/policies/contact-information",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "lavine@pinkoa.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Andrew Lavine",
+        "person_title": "Business Development",
+        "source_url": "https://pinkoa.com/team",
+        "source_type": "archived",
+        "snapshot_date": "2018-10-02"
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://pinkoa.com?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pinkoa.com/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2021-05-06"
+      },
+      {
+        "url": "https://pinkoa.com/team",
+        "page_type": "team",
+        "source_type": "archived",
+        "snapshot_date": "2018-10-02"
+      },
+      {
+        "url": "https://pinkoa.com/pages/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pinkoa.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://pinkoa.com/policies/contact-information",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://pinkoa.com/contact",
+        "action": "",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://pinkoa.com/pages/contact",
+        "action": "/contact#ContactForm-ALzMwMnZZMHhFMmU1Z__contact_form_UwiCkQ",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Study hard, cutely. Free study timer with Koa the pink koala, plus printable planners, coloring pages, pink wallpapers and cute study merch. Pinkoa is Finnish for to study hard.",
+    "source_urls": [
+      "https://pinkoa.com/contact",
+      "https://pinkoa.com/pages/about",
+      "https://pinkoa.com/pages/contact",
+      "https://pinkoa.com/policies/contact-information"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "contextdocksave.vercel.app",
+    "company_name": "ContextDock - Auto-save your tabs. Restore them in one click",
+    "website": "https://contextdocksave.vercel.app/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://contextdocksave.vercel.app/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Automatically save, organize, and restore your tabs, documents, and browsing sessions.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "gym-os.live",
+    "company_name": "Gym-OS - Gym management for owners, trainers, and members",
+    "website": "https://www.gym-os.live/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.gym-os.live/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.gym-os.live/demo/staff",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.gym-os.live/terms#contact",
+        "page_type": "legal",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Gym-OS runs your gym from one place \u2014 memberships, classes, check-ins and the store on desktop, with a mobile app for members and trainers.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "resollm.ai",
+    "company_name": "ReSO AI - Get discovered & recommended when customers ask AI",
+    "website": "https://www.resollm.ai?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.resollm.ai?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Stop guessing how LLMs see you. Optimizes your brand for LLM search with prompt intelligence and AISO.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "samirpatil2000.github.io",
+    "company_name": "Buffer - Search everything you copy, even text inside screenshots",
+    "website": "https://samirpatil2000.github.io/products/buffer/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://samirpatil2000.github.io/products/buffer/?ref=producthunt",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "A lightweight, privacy-focused clipboard manager for macOS with searchable history and a quick \u21e7\u2318V shortcut.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "localvert.netlify.app",
+    "company_name": "LocalVert - Convert, Resize And Rename Files Right In Your Browser.",
+    "website": "https://localvert.netlify.app?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://localvert.netlify.app?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://localvert.netlify.app/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Convert, Resize & Rename Files Right in Your Browser Before Download",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "ringbrook.com",
+    "company_name": "Ringbrook - An AI receptionist that answers when you can't",
+    "website": "https://ringbrook.com?ref=producthunt",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "http_410",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "yorishiro.me",
+    "company_name": "Yorishiro: AI CBT Journal - Write freely. See what your days add up to.",
+    "website": "https://yorishiro.me?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "profile@yorishiro.me",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Self Profile",
+        "person_title": "Owner",
+        "source_url": "https://yorishiro.me?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.profile@yorishiro.me",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Self Profile",
+        "person_title": "Owner",
+        "source_url": "https://yorishiro.me?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "self.profile@yorishiro.me",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Self Profile",
+        "person_title": "Owner",
+        "source_url": "https://yorishiro.me?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "self@yorishiro.me",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Self Profile",
+        "person_title": "Owner",
+        "source_url": "https://yorishiro.me?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "self_profile@yorishiro.me",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Self Profile",
+        "person_title": "Owner",
+        "source_url": "https://yorishiro.me?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "selfp@yorishiro.me",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Self Profile",
+        "person_title": "Owner",
+        "source_url": "https://yorishiro.me?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://yorishiro.me?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "An AI journaling app that helps you recognize your thinking patterns. Write in your own words, and AI organizes your entry into facts, emotions, thoughts, and physical condition to deepen self-understanding and metacognition. Build a self-care habit grounded in Cognitive Behavioral Therapy (CBT).",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "klupt.io",
+    "company_name": "Klupt - Recent Follows Tracker - Instagram recent follows tracker \u2014 catch every new follow",
+    "website": "https://klupt.io/recently-followed?ref=producthunt",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "challenge_page",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "historymonk.com",
+    "company_name": "History Monk - Fast History Search, Export & Bulk Delete",
+    "website": "https://historymonk.com?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://historymonk.com?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Search your browsing history by typing a word you remember, even with a typo. Reopen closed tabs, delete a site's history in one go and clear out junk pages.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "lexai-turkiye.vercel.app",
+    "company_name": "lexai-t\u00fcrkiye - hukuk yapay zeka asistan\u0131",
+    "website": "https://lexai-turkiye.vercel.app/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://lexai-turkiye.vercel.app/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Avukatlar, \u0130K uzmanlar\u0131, mali m\u00fc\u015favirler ve vatanda\u015flar i\u00e7in sayfa at\u0131fl\u0131 bilirki\u015fi raporu denetimi, HMK m. 281 itiraz dilek\u00e7esi, k\u0131dem-ihbar tazminat\u0131, kira ve ara\u00e7 de\u011fer kayb\u0131 hesaplama platformu.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "cliphou.se",
+    "company_name": "cliphou.se - Instant motion graphics for your launch",
+    "website": "https://cliphou.se?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "f.note@cliphou.se",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Founder Note",
+        "person_title": "Founder",
+        "source_url": "https://cliphou.se?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "founder.note@cliphou.se",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Founder Note",
+        "person_title": "Founder",
+        "source_url": "https://cliphou.se?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "founder@cliphou.se",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Founder Note",
+        "person_title": "Founder",
+        "source_url": "https://cliphou.se?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "founder_note@cliphou.se",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Founder Note",
+        "person_title": "Founder",
+        "source_url": "https://cliphou.se?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "foundern@cliphou.se",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Founder Note",
+        "person_title": "Founder",
+        "source_url": "https://cliphou.se?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "note@cliphou.se",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Founder Note",
+        "person_title": "Founder",
+        "source_url": "https://cliphou.se?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://cliphou.se?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cliphou.se/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cliphou.se/about/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Your coding agent turns every release into a video for your socials. It finds the selling points, picks the angle, writes the copy, and uses your brand colors and logo. Free.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "lpsignal.app",
+    "company_name": "LPSignal - Net-of-IL APR signals for concentrated-liquidity pools",
+    "website": "https://lpsignal.app?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@lpsignal.app",
+        "confidence": "highest",
+        "source_url": "https://lpsignal.app/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "nce Node.js SDK Python SDK MCP server for AI agents Contact support@lpsignal.app Telegram group Discord community X (@lpsignalhq) Privacy po"
+      }
+    ],
+    "role_emails": [
+      "support@lpsignal.app"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://lpsignal.app?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://lpsignal.app/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://lpsignal.app/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://lpsignal.app/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://lpsignal.app/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://lpsignal.app/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://lpsignal.app/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Concentrated-liquidity LP signals for Ethereum, BNB Chain, Base, Arbitrum, Optimism, Polygon and Robinhood Chain: pools and price ranges ranked by net APR after impermanent loss, from hourly backtests on exact on-chain fees. Track record, risk alerts, smart-LP wallets, API and SDKs.",
+    "source_urls": [
+      "https://lpsignal.app?ref=producthunt",
+      "https://lpsignal.app/contact",
+      "https://lpsignal.app/contact-us",
+      "https://lpsignal.app/contactus",
+      "https://lpsignal.app/about",
+      "https://lpsignal.app/about-us",
+      "https://lpsignal.app/team"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 7
+  },
+  {
+    "company_domain": "easy-qr-code.com",
+    "company_name": "Easy QR Code - Free static QR code instantly, with no account needed.",
+    "website": "https://easy-qr-code.com?ref=producthunt",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "challenge_page",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "email-permutator.blogspot.com",
+    "company_name": "Email Permutator - Free Email Permutator Tool",
+    "website": "https://email-permutator.blogspot.com/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://email-permutator.blogspot.com/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://email-permutator.blogspot.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://email-permutator.blogspot.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://email-permutator.blogspot.com/p/about-us.html",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://email-permutator.blogspot.com/p/contact-us.html",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "In this digital world, email permutator plays a vital role for communicating people. Email Permutator helps individuals, businesses and organizations.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "agentisland.in",
+    "company_name": "Agent Island - Your MacBook notch as mission control for AI coding agents",
+    "website": "https://agentisland.in/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://agentisland.in/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Agent Island turns the MacBook notch into a live dashboard for your AI coding agents. See which one is blocked, asking, or burning quota, and act without switching windows.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "chatriv.com",
+    "company_name": "Chatrive - Anonymous Online Chat and Conversations",
+    "website": "https://chatriv.com?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://chatriv.com?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://chatriv.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://chatriv.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://chatriv.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://chatriv.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://chatriv.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://chatriv.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Chatrive is the best dating platform and a private chat. Meet adults from every country, show your flag, and message people while they are online. No public feed. Free to join at chatriv.com.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  }
+]
