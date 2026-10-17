@@ -172,6 +172,13 @@ UA_PROFILES = [
 REQUEST_TIMEOUT = 20.0
 MAX_PAGES = 8
 
+# Per-site wall-clock budget. The workflow kills the whole batch at 120
+# min, and a handful of slow JS-heavy sites can burn that entire budget
+# with no result for anyone (seen 2026-10-09: two consecutive
+# cancellations of the same 25-lead batch). Once a site exceeds this,
+# fetching stops and the site keeps whatever pages were gathered.
+SITE_BUDGET_S = 300.0
+
 # Common contact endpoints probed directly, crawled early in page order
 # (Fox addition: /about, /team, /contact, /press first; iteration-1 added
 # leadership/founders/people/staff/impressum and more contact variants).
@@ -1463,6 +1470,11 @@ def discover_one(
         "pages_fetched": 0,
     }
     renderer = Renderer(user_agent)
+    site_started = time.time()
+
+    def _over_budget() -> bool:
+        return (time.time() - site_started) > SITE_BUDGET_S
+
     try:
         home_url = ""
         home_html: str | None = None
@@ -1470,6 +1482,9 @@ def discover_one(
         home_snapshot: str | None = None
         home_reason: str | None = None
         for variant in website_variants(website):
+            if _over_budget():
+                home_reason = "site_budget_exceeded"
+                break
             result = fetch_page_for_target(session, renderer, variant)
             base["pages_fetched"] += 1
             if result["ok"]:
@@ -1504,6 +1519,8 @@ def discover_one(
         home_host = normalized_host(home_url)
 
         def try_add_page(url: str) -> None:
+            if _over_budget():
+                return
             if len(pages) >= MAX_PAGES or url in seen_urls:
                 return
             if not robots_allows(url, session, user_agent):
@@ -1520,7 +1537,8 @@ def discover_one(
         #    (/contact, /about, /team, /press ...).
         probed = 0
         for endpoint in CONTACT_ENDPOINTS:
-            if len(pages) >= MAX_PAGES or probed >= MAX_PROBED_ENDPOINTS:
+            if (len(pages) >= MAX_PAGES or probed >= MAX_PROBED_ENDPOINTS
+                    or _over_budget()):
                 break
             url = urljoin(home_url.rstrip("/") + "/", endpoint)
             if url in seen_urls:
@@ -1538,7 +1556,7 @@ def discover_one(
         # 2) Follow contact-hint links discovered on the homepage.
         soup = BeautifulSoup(home_html, "html.parser")
         for anchor in soup.find_all("a", href=True):
-            if len(pages) >= MAX_PAGES:
+            if len(pages) >= MAX_PAGES or _over_budget():
                 break
             href = str(anchor["href"]).strip()
             if not href or href.startswith(("tel:", "javascript:", "#")):
@@ -1571,7 +1589,7 @@ def discover_one(
                     break
             rendered_by_url: dict[str, tuple] = {}
             for url in miss_urls[:2]:
-                if not robots_allows(url, session, user_agent):
+                if _over_budget() or not robots_allows(url, session, user_agent):
                     continue
                 result = renderer.render(url)
                 base["pages_fetched"] += 1
