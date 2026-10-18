@@ -1,7 +1,16 @@
 {
-  "fetched_at": "2026-10-18T10:32:25.126411Z",
+  "fetched_at": "2026-10-18T14:09:54.377491Z",
   "count": 83,
   "campaigns": [
+    {
+      "source_id": "http://www.kicktraq.com/projects/onitnexusos/nexusos-your-app-straight-to-the-screen/",
+      "title": "NexusOS: Your app. Straight to the screen.",
+      "kicktraq_url": "http://www.kicktraq.com/projects/onitnexusos/nexusos-your-app-straight-to-the-screen/",
+      "campaign_category": "Technology",
+      "campaign_subcategory": null,
+      "description_text": "A dedicated OS for Raspberry Pi 5 dashboards. Help build the commercial release and tools for preparing your own app images. - [currently \u20ac0 (0%) of \u20ac20,000 goal]",
+      "percent_funded": 0.0
+    },
     {
       "source_id": "http://www.kicktraq.com/projects/mintnextgenerstion/minted-youth-the-next-generation-of-financial-leaders/",
       "title": "Minted Youth: The Next Generation of Financial Leaders",
@@ -44,8 +53,8 @@
       "kicktraq_url": "http://www.kicktraq.com/projects/silverfoxtools/the-davy-torch/",
       "campaign_category": "Technology",
       "campaign_subcategory": null,
-      "description_text": "Made to honor an icon. Built to be used everyday. - [currently \u00a320,042 (668%) of \u00a33,000 goal]",
-      "percent_funded": 668.0
+      "description_text": "Made to honor an icon. Built to be used everyday. - [currently \u00a320,144 (671%) of \u00a33,000 goal]",
+      "percent_funded": 671.0
     },
     {
       "source_id": "http://www.kicktraq.com/projects/nuwavenow/pocketchef/",
@@ -127,15 +136,6 @@
       "campaign_subcategory": null,
       "description_text": "Help us build a prototype (a first version of our software) with tools to start, sustain, and grow your business. - [currently \u00a30 (0%) of \u00a360,000 goal]",
       "percent_funded": 0.0
-    },
-    {
-      "source_id": "http://www.kicktraq.com/projects/3p3r/aegis-the-ai-firewall/",
-      "title": "Aegis: The AI Firewall",
-      "kicktraq_url": "http://www.kicktraq.com/projects/3p3r/aegis-the-ai-firewall/",
-      "campaign_category": "Technology",
-      "campaign_subcategory": null,
-      "description_text": "A machine-wide firewall for AI tools - guardrails on every request and response, with zero harness setup. - [currently $65 (13%) of $500 goal]",
-      "percent_funded": 13.0
     },
     {
       "source_id": "http://www.kicktraq.com/projects/askwoodster/ask-woodstertm-turn-im-bored-into-look-what-i-did/",
@@ -305,8 +305,8 @@
       "kicktraq_url": "http://www.kicktraq.com/projects/havensocial/haven-a-social-platform-stopping-surveillance-and-ai-theft/",
       "campaign_category": "Technology",
       "campaign_subcategory": "Software",
-      "description_text": "Social media that prevents AI & Big Tech from stealing your art, your biometrics, and your privacy. We're replacing Insta and YouTube. - [currently $98,638 (986%) of $10,000 goal]",
-      "percent_funded": 986.0
+      "description_text": "Social media that prevents AI & Big Tech from stealing your art, your biometrics, and your privacy. We're replacing Insta and YouTube. - [currently $100,220 (1002%) of $10,000 goal]",
+      "percent_funded": 1002.0
     },
     {
       "source_id": "http://www.kicktraq.com/projects/63248860/kyntrix-native-os-development-builds/",
@@ -315,15 +315,6 @@
       "campaign_category": "Technology",
       "campaign_subcategory": "Software",
       "description_text": "Help turn a native OS prototype into documented PC development builds, with digital rewards and monthly progress and spending updates. - [currently $0 (0%) of $28,000 goal]",
-      "percent_funded": 0.0
-    },
-    {
-      "source_id": "http://www.kicktraq.com/projects/vcmp/skyguard-build-the-alarm-to-drone-prototype/",
-      "title": "SkyGuard: Build the Alarm-to-Drone Prototype",
-      "kicktraq_url": "http://www.kicktraq.com/projects/vcmp/skyguard-build-the-alarm-to-drone-prototype/",
-      "campaign_category": "Technology",
-      "campaign_subcategory": "Software",
-      "description_text": "Help develop and test an alarm-to-drone prototype. Aircraft and charging-dock integration remain unfinished. - [currently \u00a315 (0%) of \u00a350,000 goal]",
       "percent_funded": 0.0
     },
     {
@@ -341,7 +332,7 @@
       "kicktraq_url": "http://www.kicktraq.com/projects/outerspacd/outerspacd/",
       "campaign_category": "Technology",
       "campaign_subcategory": "Web",
-      "description_text": "The ethical social media platform inspired by the nostalgia of the early web, focused on building community, and won't sell your data! - [currently $185 (4%) of $5,000 goal]",
+      "description_text": "The ethical social media platform inspired by the nostalgia of the early web, focused on building community, and won't sell your data! - [currently $200 (4%) of $5,000 goal]",
       "percent_funded": 4.0
     },
     {
@@ -449,7 +440,7 @@
       "kicktraq_url": "http://www.kicktraq.com/projects/1123149576/help-us-leak-our-own-photos-with-faceclame/",
       "campaign_category": "Technology",
       "campaign_subcategory": "Web",
-      "description_text": "Seriously. Building a delete button for AI deepfakes & nonconsensual images. At our goal, we'll leak our own images to prove it works. - [currently $7,737 (9%) of $90,000 goal]",
+      "description_text": "Seriously. Building a delete button for AI deepfakes & nonconsensual images. At our goal, we'll leak our own images to prove it works. - [currently $7,796 (9%) of $90,000 goal]",
       "percent_funded": 9.0
     },
     {
@@ -462,12 +453,21 @@
       "percent_funded": 5.0
     },
     {
+      "source_id": "http://www.kicktraq.com/projects/3p3r/aegis-the-ai-firewall/",
+      "title": "Aegis: The AI Firewall",
+      "kicktraq_url": "http://www.kicktraq.com/projects/3p3r/aegis-the-ai-firewall/",
+      "campaign_category": "Technology",
+      "campaign_subcategory": "Hardware",
+      "description_text": "A machine-wide firewall for AI tools - guardrails on every request and response, with zero harness setup. - [currently $65 (13%) of $500 goal]",
+      "percent_funded": 13.0
+    },
+    {
       "source_id": "http://www.kicktraq.com/projects/reeveel/inkolor-the-first-paper-like-frame-that-adapts-to-you/",
       "title": "Inkolor: The First Paper-Like Frame That Adapts to You",
       "kicktraq_url": "http://www.kicktraq.com/projects/reeveel/inkolor-the-first-paper-like-frame-that-adapts-to-you/",
       "campaign_category": "Technology",
       "campaign_subcategory": "Hardware",
-      "description_text": "A new kind of frame that fits your space. Move, rotate, all while staying quietly connected, paper-like, and built to last. - [currently $20,324 (255%) of $7,980 goal]",
+      "description_text": "A new kind of frame that fits your space. Move, rotate, all while staying quietly connected, paper-like, and built to last. - [currently $20,334 (255%) of $7,980 goal]",
       "percent_funded": 255.0
     },
     {
@@ -494,8 +494,8 @@
       "kicktraq_url": "http://www.kicktraq.com/projects/tonocard/tonocard-the-ai-card-that-picks-up-calls-while-youre-busy/",
       "campaign_category": "Technology",
       "campaign_subcategory": "Hardware",
-      "description_text": "5-Second AI Takeover|Spam Filter|Important Calls Handed to You Live|3.2mm Magnetic Card|30-Day Standby|iOS & Android - [currently HK$102,077 (260%) of HK$39,217 goal]",
-      "percent_funded": 260.0
+      "description_text": "5-Second AI Takeover|Spam Filter|Important Calls Handed to You Live|3.2mm Magnetic Card|30-Day Standby|iOS & Android - [currently HK$106,133 (271%) of HK$39,217 goal]",
+      "percent_funded": 271.0
     },
     {
       "source_id": "http://www.kicktraq.com/projects/aurasystem/nebula-the-plant-powered-air-purifier/",
@@ -512,8 +512,8 @@
       "kicktraq_url": "http://www.kicktraq.com/projects/plix/plix-the-interactive-projector-for-play-and-learn/",
       "campaign_category": "Technology",
       "campaign_subcategory": "Hardware",
-      "description_text": "Turn your wall, floor, or table into an interactive playground. Affordable, kid-friendly, and open to developers. - [currently $4,928 (16%) of $30,000 goal]",
-      "percent_funded": 16.0
+      "description_text": "Turn your wall, floor, or table into an interactive playground. Affordable, kid-friendly, and open to developers. - [currently $5,127 (17%) of $30,000 goal]",
+      "percent_funded": 17.0
     },
     {
       "source_id": "http://www.kicktraq.com/projects/metaxsire/vulko-ai-stroker-with-dual-pressure-control-and-video-sync/",
@@ -530,8 +530,8 @@
       "kicktraq_url": "http://www.kicktraq.com/projects/ctrlenergy/zero-portable-battery/",
       "campaign_category": "Technology",
       "campaign_subcategory": "Hardware",
-      "description_text": "\u00c3\u00a2\u00c2\u009a\u00c2\u00a1 The last portable battery you'll ever need \u00c3\u00a2\u00c2\u0099\u00c2\u00bb\u00c3\u00af\u00c2\u00b8\u00c2\u008f - [currently \u20ac18,620 (186%) of \u20ac9,986 goal]",
-      "percent_funded": 186.0
+      "description_text": "\u00c3\u00a2\u00c2\u009a\u00c2\u00a1 The last portable battery you'll ever need \u00c3\u00a2\u00c2\u0099\u00c2\u00bb\u00c3\u00af\u00c2\u00b8\u00c2\u008f - [currently \u20ac18,714 (187%) of \u20ac9,986 goal]",
+      "percent_funded": 187.0
     },
     {
       "source_id": "http://www.kicktraq.com/projects/1122232469/aura6-the-super-8-inspired-digital-video-camera/",
@@ -539,8 +539,8 @@
       "kicktraq_url": "http://www.kicktraq.com/projects/1122232469/aura6-the-super-8-inspired-digital-video-camera/",
       "campaign_category": "Technology",
       "campaign_subcategory": "Hardware",
-      "description_text": "The video camera that makes filming easy and fun again. Nostalgic film look. Beautiful finished rolls. No editing needed. - [currently $21,186 (212%) of $10,000 goal]",
-      "percent_funded": 212.0
+      "description_text": "The video camera that makes filming easy and fun again. Nostalgic film look. Beautiful finished rolls. No editing needed. - [currently $21,393 (214%) of $10,000 goal]",
+      "percent_funded": 214.0
     },
     {
       "source_id": "http://www.kicktraq.com/projects/aqoir/aqoir-the-intelligent-water-bottle-that-measures-hydration/",
@@ -548,8 +548,8 @@
       "kicktraq_url": "http://www.kicktraq.com/projects/aqoir/aqoir-the-intelligent-water-bottle-that-measures-hydration/",
       "campaign_category": "Technology",
       "campaign_subcategory": "Hardware",
-      "description_text": "Go Beyond Thirst - [currently $41,201 (404%) of $10,200 goal]",
-      "percent_funded": 404.0
+      "description_text": "Go Beyond Thirst - [currently $41,638 (408%) of $10,200 goal]",
+      "percent_funded": 408.0
     },
     {
       "source_id": "http://www.kicktraq.com/projects/travelpiano/travel-piano/",
@@ -566,8 +566,17 @@
       "kicktraq_url": "http://www.kicktraq.com/projects/ledable/ledable-the-screen-that-helps-you-use-screens-less/",
       "campaign_category": "Technology",
       "campaign_subcategory": "Hardware",
-      "description_text": "50+ apps, create and share your own apps. See time, weather, scores, stocks, news, calendars, and more w/out unlocking your phone. - [currently $62,398 (624%) of $10,000 goal]",
-      "percent_funded": 624.0
+      "description_text": "50+ apps, create and share your own apps. See time, weather, scores, stocks, news, calendars, and more w/out unlocking your phone. - [currently $63,260 (633%) of $10,000 goal]",
+      "percent_funded": 633.0
+    },
+    {
+      "source_id": "http://www.kicktraq.com/projects/1871555701/vyloq-titanium-mini-edc-flashlight-built-for-more/",
+      "title": "VYLOQ: Titanium Mini EDC Flashlight, Built for More",
+      "kicktraq_url": "http://www.kicktraq.com/projects/1871555701/vyloq-titanium-mini-edc-flashlight-built-for-more/",
+      "campaign_category": "Design",
+      "campaign_subcategory": "Product Design",
+      "description_text": "Grade 5 titanium with white/red/395nm UV, mode memory, quick release, magnetic hands-free mounting, cap clip, and replaceable battery. - [currently $56 (9%) of $600 goal]",
+      "percent_funded": 9.0
     },
     {
       "source_id": "http://www.kicktraq.com/projects/arsenaly/lever-action-ballpoint-pens-la-b1la-b2/",
@@ -575,8 +584,8 @@
       "kicktraq_url": "http://www.kicktraq.com/projects/arsenaly/lever-action-ballpoint-pens-la-b1la-b2/",
       "campaign_category": "Design",
       "campaign_subcategory": "Product Design",
-      "description_text": "A solid-metal pen that brings the mechanical pleasure of a lever action to everyday writing - [currently \u00a53,166,002 (1266%) of \u00a5250,000 goal]",
-      "percent_funded": 1266.0
+      "description_text": "A solid-metal pen that brings the mechanical pleasure of a lever action to everyday writing - [currently \u00a53,260,002 (1304%) of \u00a5250,000 goal]",
+      "percent_funded": 1304.0
     },
     {
       "source_id": "http://www.kicktraq.com/projects/asterandpage/the-classic-a-numbered-book-lamp-by-aster-and-page/",
@@ -656,8 +665,8 @@
       "kicktraq_url": "http://www.kicktraq.com/projects/808076703/voriq-the-magnetic-phone-stand-that-spins/",
       "campaign_category": "Design",
       "campaign_subcategory": "Product Design",
-      "description_text": "Dual-sided magnetic attachment, a foldable stand, and a built-in fidget spinner\u2014all in one compact everyday accessory. - [currently $743 (124%) of $600 goal]",
-      "percent_funded": 124.0
+      "description_text": "Dual-sided magnetic attachment, a foldable stand, and a built-in fidget spinner\u2014all in one compact everyday accessory. - [currently $828 (138%) of $600 goal]",
+      "percent_funded": 138.0
     },
     {
       "source_id": "http://www.kicktraq.com/projects/324386321/sn-all-aluminum-magnetic-phone-mount-for-tesla-model-3-y/",
@@ -694,15 +703,6 @@
       "campaign_subcategory": "Product Design",
       "description_text": "Nervous about getting a dog for your family? Don't worry, Pup O'Clock has your back through education, enrichment, and entertainment! - [currently $677 (7%) of $10,000 goal]",
       "percent_funded": 7.0
-    },
-    {
-      "source_id": "http://www.kicktraq.com/projects/1642794717/usb4-80gbps-cable-with-dual-power-display/",
-      "title": "Nexdualsync: The USB4 80Gbps Cable with Dual Power Display",
-      "kicktraq_url": "http://www.kicktraq.com/projects/1642794717/usb4-80gbps-cable-with-dual-power-display/",
-      "campaign_category": "Design",
-      "campaign_subcategory": "Product Design",
-      "description_text": "Dual Smart Display \u00b7 80Gbps Data Transfer \u00b7 240W PD 3.1 Charging \u00b7 16K@60Hz Video Output - [currently HK$15,086 (302%) of HK$5,000 goal]",
-      "percent_funded": 302.0
     },
     {
       "source_id": "http://www.kicktraq.com/projects/hologrambonsai/hologram-bonsai-the-bonsai-that-never-fades/",
