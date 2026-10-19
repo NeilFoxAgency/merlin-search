@@ -177,7 +177,7 @@ MAX_PAGES = 8
 # with no result for anyone (seen 2026-10-09: two consecutive
 # cancellations of the same 25-lead batch). Once a site exceeds this,
 # fetching stops and the site keeps whatever pages were gathered.
-SITE_BUDGET_S = 300.0
+SITE_BUDGET_S = 240.0
 
 # Common contact endpoints probed directly, crawled early in page order
 # (Fox addition: /about, /team, /contact, /press first; iteration-1 added
