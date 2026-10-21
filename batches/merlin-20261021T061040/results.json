@@ -1,0 +1,1107 @@
+[
+  {
+    "company_domain": "calccompare.com",
+    "company_name": "CalcCompare - Calculate & Compare Everything",
+    "website": "https://calccompare.com?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://calccompare.com?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://calccompare.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://calccompare.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://calccompare.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://calccompare.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://calccompare.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://calccompare.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://calccompare.com/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Calculate & Compare marketplace fees for Amazon, eBay, Etsy & Walmart in seconds. Free forward & backward fee calculators + tools, guides & articles \u2014 All in One.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "themodelverse.in",
+    "company_name": "TheModelVerse-Model Catalog & Benchmarks - Every foundation model measured \u2014 benchmarks, pricing & VRAM",
+    "website": "https://www.themodelverse.in/?ref=producthunt",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Aman Kumar",
+        "title": "Founder",
+        "email": "aman@themodelverse.in",
+        "source_url": "https://www.themodelverse.in/about"
+      }
+    ],
+    "people": [
+      {
+        "name": "Aman Kumar",
+        "title": "Founder",
+        "email": "aman@themodelverse.in",
+        "source_url": "https://www.themodelverse.in/about"
+      }
+    ],
+    "emails": [
+      {
+        "address": "aman@themodelverse.in",
+        "confidence": "highest",
+        "source_url": "https://www.themodelverse.in/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "technical data curation on TheModelverse. GitHub Profile \u2022 aman@themodelverse.in TheModelverse Intelligence Board Data Engineering & Benchma"
+      },
+      {
+        "address": "contact@themodelverse.in",
+        "confidence": "highest",
+        "source_url": "https://www.themodelverse.in/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "d enterprise technology decision-makers. General Inquiries: contact@themodelverse.in Editorial & Research: editorial@themodelverse.in Correction"
+      },
+      {
+        "address": "corrections@themodelverse.in",
+        "confidence": "highest",
+        "source_url": "https://www.themodelverse.in/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "nnel: Submit corrections with supporting source links to corrections@themodelverse.in . Publisher & Contact Information TheModelverse Organizatio"
+      },
+      {
+        "address": "editorial@themodelverse.in",
+        "confidence": "highest",
+        "source_url": "https://www.themodelverse.in/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "l Inquiries: contact@themodelverse.in Editorial & Research: editorial@themodelverse.in Corrections & Data Inaccuracies: corrections@themodelverse."
+      },
+      {
+        "address": "privacy@themodelverse.in",
+        "confidence": "highest",
+        "source_url": "https://www.themodelverse.in/about",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "uracies: corrections@themodelverse.in Privacy & Compliance: privacy@themodelverse.in Benchmarking Methodology \u2192 Privacy Policy \u2192 Terms of Servic"
+      }
+    ],
+    "role_emails": [
+      "contact@themodelverse.in",
+      "corrections@themodelverse.in",
+      "editorial@themodelverse.in",
+      "privacy@themodelverse.in"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.themodelverse.in/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.themodelverse.in/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.themodelverse.in/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Explore 629+ foundation models, verified parameters, context windows, benchmark figures, and real-time AI news on The Modelverse (TheModelverse).",
+    "source_urls": [
+      "https://www.themodelverse.in/about"
+    ],
+    "reason": null,
+    "pages_fetched": 7
+  },
+  {
+    "company_domain": "pixelneon.in",
+    "company_name": "PixelNeon - \u2022 Your files. Your device. \u2022 Zero uploads. Total privacy.",
+    "website": "https://www.pixelneon.in/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.pixelneon.in/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Compress, resize, convert, and optionally increase an image file size locally in your browser. Preserve dimensions, keep originals, and download results privately.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "focusinone.com",
+    "company_name": "FocusInOne - Start focus on your computer. Your phone goes quiet.",
+    "website": "https://focusinone.com?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://focusinone.com?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "A minimal Android launcher, notification silencing and a Pomodoro timer, controlled from your computer. Join the private beta waitlist.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "42nddesign.com",
+    "company_name": "Unicom 1.1 - NOTAMs and a sectional weather map for Android pilots",
+    "website": "https://42nddesign.com/products/unicom/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "contact@42nddesign.com",
+        "confidence": "medium",
+        "source_url": "https://42nddesign.com/products/unicom/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "contact@42nddesign.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://42nddesign.com/products/unicom/?ref=producthunt",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://42nddesign.com/about/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Unicom puts every US airport's frequencies, runways, and chart supplements on your Android phone, with decoded weather that always tells you how old it is.",
+    "source_urls": [
+      "https://42nddesign.com/products/unicom/?ref=producthunt",
+      "https://42nddesign.com/about/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "idpcheck.world",
+    "company_name": "IDP Check - Know if you need an international driving permit",
+    "website": "https://idpcheck.world/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://idpcheck.world/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Italy, France and Japan require an International Driving Permit from US license holders. The UK, Germany and Spain do not. Check 190+ destinations.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "worthorpass.com",
+    "company_name": "Hidden Subscription Finder - See which offers keep charging after the first payment",
+    "website": "https://worthorpass.com/hidden-subscription-finder/?ref=producthunt",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "http_403",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "i.ngscholars.net",
+    "company_name": "NGScholars International - Free scholarship and admission tools for African students",
+    "website": "https://i.ngscholars.net?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "a.ogundimu@i.ngscholars.net",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ahmed Ogundimu",
+        "person_title": "Founder",
+        "source_url": "https://i.ngscholars.net/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ahmed.ogundimu@i.ngscholars.net",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ahmed Ogundimu",
+        "person_title": "Founder",
+        "source_url": "https://i.ngscholars.net/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ahmed@i.ngscholars.net",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ahmed Ogundimu",
+        "person_title": "Founder",
+        "source_url": "https://i.ngscholars.net/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ahmed_ogundimu@i.ngscholars.net",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ahmed Ogundimu",
+        "person_title": "Founder",
+        "source_url": "https://i.ngscholars.net/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ahmedo@i.ngscholars.net",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ahmed Ogundimu",
+        "person_title": "Founder",
+        "source_url": "https://i.ngscholars.net/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "i.technology@i.ngscholars.net",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Inknet Technology",
+        "person_title": "Founder",
+        "source_url": "https://i.ngscholars.net/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "inknet.technology@i.ngscholars.net",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Inknet Technology",
+        "person_title": "Founder",
+        "source_url": "https://i.ngscholars.net/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "inknet@i.ngscholars.net",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Inknet Technology",
+        "person_title": "Founder",
+        "source_url": "https://i.ngscholars.net/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "inknet_technology@i.ngscholars.net",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Inknet Technology",
+        "person_title": "Founder",
+        "source_url": "https://i.ngscholars.net/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "inknett@i.ngscholars.net",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Inknet Technology",
+        "person_title": "Founder",
+        "source_url": "https://i.ngscholars.net/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kaosara@i.ngscholars.net",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Muhammed Kaosara",
+        "person_title": "Business Development",
+        "source_url": "https://i.ngscholars.net/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "m.kaosara@i.ngscholars.net",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Muhammed Kaosara",
+        "person_title": "Business Development",
+        "source_url": "https://i.ngscholars.net/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "muhammed.kaosara@i.ngscholars.net",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Muhammed Kaosara",
+        "person_title": "Business Development",
+        "source_url": "https://i.ngscholars.net/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "muhammed@i.ngscholars.net",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Muhammed Kaosara",
+        "person_title": "Business Development",
+        "source_url": "https://i.ngscholars.net/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "muhammed_kaosara@i.ngscholars.net",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Muhammed Kaosara",
+        "person_title": "Business Development",
+        "source_url": "https://i.ngscholars.net/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "muhammedk@i.ngscholars.net",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Muhammed Kaosara",
+        "person_title": "Business Development",
+        "source_url": "https://i.ngscholars.net/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ogundimu@i.ngscholars.net",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ahmed Ogundimu",
+        "person_title": "Founder",
+        "source_url": "https://i.ngscholars.net/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "states@i.ngscholars.net",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "United States",
+        "person_title": "Founder",
+        "source_url": "https://i.ngscholars.net/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "technology@i.ngscholars.net",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Inknet Technology",
+        "person_title": "Founder",
+        "source_url": "https://i.ngscholars.net/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "u.states@i.ngscholars.net",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "United States",
+        "person_title": "Founder",
+        "source_url": "https://i.ngscholars.net/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "united.states@i.ngscholars.net",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "United States",
+        "person_title": "Founder",
+        "source_url": "https://i.ngscholars.net/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "united@i.ngscholars.net",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "United States",
+        "person_title": "Founder",
+        "source_url": "https://i.ngscholars.net/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "united_states@i.ngscholars.net",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "United States",
+        "person_title": "Founder",
+        "source_url": "https://i.ngscholars.net/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "uniteds@i.ngscholars.net",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "United States",
+        "person_title": "Founder",
+        "source_url": "https://i.ngscholars.net/team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://i.ngscholars.net?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://i.ngscholars.net/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://i.ngscholars.net/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://i.ngscholars.net/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://i.ngscholars.net/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://i.ngscholars.net/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://i.ngscholars.net/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://i.ngscholars.net/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Find scholarships, admission requirements, school profiles, rankings, education news and free student tools for African students.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "fluxpilot.xyz",
+    "company_name": "FluxPilot - Find Missing Amazon FBA Reimbursements",
+    "website": "https://fluxpilot.xyz/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://fluxpilot.xyz/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Audit Amazon FBA Inventory Ledger reports, surface potential lost or damaged inventory reimbursement cases, and organize recovery evidence in one secure workspace.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "tinysquish.com",
+    "company_name": "TinySquish - Compress images in your browser. Nothing is uploaded.",
+    "website": "https://tinysquish.com?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://tinysquish.com?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tinysquish.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tinysquish.com/compress-png/",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tinysquish.com/compress-jpeg/",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tinysquish.com/compress-image-to-100kb/",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tinysquish.com/bulk-image-compressor/",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://tinysquish.com/about/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Free image compressor that runs in your browser. Shrink, resize and convert PNG, JPEG and WebP in batches. Works offline; images are never uploaded.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 14
+  },
+  {
+    "company_domain": "fontavio.com",
+    "company_name": "Fontavio - Find drinking water, toilets and showers near you",
+    "website": "https://fontavio.com/?ref=producthunt",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "challenge_page",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "lingualanguage.site",
+    "company_name": "Lingua - Turn any Dutch material into your own lesson",
+    "website": "https://www.lingualanguage.site/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.lingualanguage.site/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Bring any Dutch article, transcript, or textbook page. Lingua turns it into a structured, AI-guided lesson \u2014 reading, listening, speaking, and writing \u2014 that you can finish in one focused sitting.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "randombibleversegenerator.net",
+    "company_name": "Random Bible Verse Generator - Discover fresh inspiration from the Bible\u2014anytime, anywhere",
+    "website": "https://www.randombibleversegenerator.net?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.randombibleversegenerator.net?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Random Bible verse generator: pleasant words are as an honeycomb, sweet to the soul (Prov. 16:24). Draw a verse for prayer, quiet time or daily devotion.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "spenvo.app",
+    "company_name": "Spenvo - Your bank's texts, captured. No account, no bank login.",
+    "website": "https://spenvo.app/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://spenvo.app/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Spenvo turns the texts and notifications your bank already sends into your expense list, on your iPhone. Nothing to type, no bank login, no account, no server.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "iskrit.pro",
+    "company_name": "ISKRIT Rebar Cutting Calculator - Free rebar cut lists with kerf and reusable offcuts",
+    "website": "https://iskrit.pro/en/instrument/raskroy/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://iskrit.pro/en/instrument/raskroy/?ref=producthunt",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://iskrit.pro/en/?tool=raskroy#contact",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Rebar cut list optimizer: enter stock bars and the pieces you need, get a cutting plan with minimal scrap. Kerf and reusable offcuts included.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "thephilosopherinvestor.com",
+    "company_name": "The Philosopher Investor - Nightly options flow, congress trades and dealer gamma",
+    "website": "https://thephilosopherinvestor.com?ref=producthunt",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "challenge_page",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "x10crm.com",
+    "company_name": "X10CRM - CRM, calls and AI agents in one workspace",
+    "website": "https://x10crm.com/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "admin@x10crm.com",
+        "confidence": "high",
+        "source_url": "https://x10crm.com/?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "admin@x10crm.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://x10crm.com/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "CRM \u0441\u0438\u0441\u0442\u0435\u043c\u0430 \u0434\u043b\u044f \u0432\u0456\u0434\u0434\u0456\u043b\u0443 \u043f\u0440\u043e\u0434\u0430\u0436\u0456\u0432 \u0456 \u043a\u043e\u043b-\u0446\u0435\u043d\u0442\u0440\u0443: \u0437\u0430\u044f\u0432\u043a\u0438, \u0442\u0435\u043b\u0435\u0444\u043e\u043d\u0456\u044f \u0437 \u0430\u0432\u0442\u043e\u0434\u0430\u0439\u043b\u0435\u0440\u043e\u043c, AI-\u0430\u043d\u0430\u043b\u0456\u0437 \u0434\u0437\u0432\u0456\u043d\u043a\u0456\u0432, \u0434\u043e\u0441\u0442\u0430\u0432\u043a\u0430 \u0439 \u0441\u043a\u043b\u0430\u0434 \u0432 \u043e\u0434\u043d\u043e\u043c\u0443 \u0432\u0456\u043a\u043d\u0456.",
+    "source_urls": [
+      "https://x10crm.com/?ref=producthunt"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 7
+  },
+  {
+    "company_domain": "mathquestionshub.com",
+    "company_name": "Math Questions Hub - Free math solvers for 14 topics, running in your browser",
+    "website": "https://mathquestionshub.com?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "contact@mathquestionshub.com",
+        "confidence": "medium",
+        "source_url": "https://mathquestionshub.com/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "contact@mathquestionshub.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://mathquestionshub.com?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mathquestionshub.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mathquestionshub.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mathquestionshub.com/about/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://mathquestionshub.com/contact/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Practice math questions across algebra, geometry, and more. Solve problems step by step with free calculators, quizzes, and worksheets.",
+    "source_urls": [
+      "https://mathquestionshub.com/contact",
+      "https://mathquestionshub.com/contact/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "referencechecker.ai",
+    "company_name": "Reference Checker - Verify your bibliography and catch wrong citations",
+    "website": "https://referencechecker.ai?ref=producthunt",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "dns_failure",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "captiononreel.com",
+    "company_name": "CaptionOnReel - Free animated captions for Reels & Shorts",
+    "website": "https://captiononreel.com/?ref=producthunt",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "challenge_page",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "ugcvi.com",
+    "company_name": "UGCVI - Ready-to-use reaction hooks for your product ads",
+    "website": "https://ugcvi.com/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://ugcvi.com/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ugcvi.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Ready-to-use reaction hooks for product ads. Hover a preview, pick a lifetime pack, and put a hook in front of your demo.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "magicpost.site",
+    "company_name": "MagicPost - Create, optimize, and social posts effortlessly",
+    "website": "https://www.magicpost.site/?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.magicpost.site/?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.magicpost.site/contact.html",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Upgrade to unlock unlimited AI cross-platform posts and graphic generators.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "dobro.online",
+    "company_name": "Live Anew Map - Pin your help map your impact. Help and get helped worldwide",
+    "website": "https://dobro.online?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_content_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "crypto-drainer.com",
+    "company_name": "Crypto Drainer - crypto drainer for TRC20, ERC20, and BEP20 networks",
+    "website": "https://crypto-drainer.com?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://crypto-drainer.com?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Crypto Drainer - Professional crypto drainer for TRC20, ERC20, and BEP20 networks. Buy Crypto Drainer with instant activation. Secure, fast, and reliable crypto drainer tool supporting all major chains. Educational purposes only.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "latch.chat",
+    "company_name": "Latchat - No numbers. No strangers. Contactless chat. Privacy first.",
+    "website": "https://latch.chat?ref=producthunt",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@latch.chat",
+        "confidence": "highest",
+        "source_url": "https://latch.chat?ref=producthunt",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "hello@latch.chat"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://latch.chat?ref=producthunt",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Group chat without phone numbers or accounts. It even keeps working over Bluetooth when you lose internet access. Now on Google Play.",
+    "source_urls": [
+      "https://latch.chat?ref=producthunt"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 7
+  }
+]
