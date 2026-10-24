@@ -1,0 +1,2392 @@
+[
+  {
+    "company_domain": "fascinating.news",
+    "company_name": "@fascinating-us.bsky.social - Immigrants from Ukraine and Sudan to keep deportation protections for now https://fascinating.news/r/pM7fC5WC",
+    "website": "https://fascinating.news/r/pM7fC5WC",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "contact@fascinating.news",
+        "confidence": "high",
+        "source_url": "https://fascinating.news/impressum",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ed by Ralph K\u00fcpper, Managing Director Contact E-Mail: contact@fascinating.news Registration Court of registry: Amtsgericht Hage"
+      }
+    ],
+    "role_emails": [
+      "contact@fascinating.news"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://fascinating.news/r/pM7fC5WC",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://fascinating.news/impressum",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://fascinating.news/r/pM7fC5WC",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://fascinating.news/impressum",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Immigrants from Ukraine and Sudan enrolled in Temporary Protected Status are expected to retain permission to live and work in the United States while awaiting a government decision. Their protections",
+    "source_urls": [
+      "https://fascinating.news/impressum"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "nationalsecurityjournal.org",
+    "company_name": "@trumprussiaties.bsky.social - Putin Has a Problem: Ukraine Just Launched 1,000 Drones at Russia. Saint Petersburg and Oil Refineries Were Hit Hard nationalsecurityjournal",
+    "website": "https://nationalsecurityjournal.org/putin-has-a-problem-ukraine-just-launched-1000-drones-at-russia-saint-petersburg-and-oil-refineries-were-hit-hard/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "beth@nationalsecurityjournal.org",
+        "confidence": "high",
+        "source_url": "https://nationalsecurityjournal.org/meet-the-staff-and-editorial-team/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "harry@nationalsecurityjournal.org",
+        "confidence": "high",
+        "source_url": "https://nationalsecurityjournal.org/putin-has-a-problem-ukraine-just-launched-1000-drones-at-russia-saint-petersburg-and-oil-refineries-were-hit-hard/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "beth@nationalsecurityjournal.org",
+      "harry@nationalsecurityjournal.org"
+    ],
+    "email_candidates": [
+      {
+        "address": "biden@nationalsecurityjournal.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Joe Biden",
+        "person_title": "President",
+        "source_url": "https://nationalsecurityjournal.org/putin-has-a-problem-ukraine-just-launched-1000-drones-at-russia-saint-petersburg-and-oil-refineries-were-hit-hard/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "d.driscoll@nationalsecurityjournal.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dan Driscoll",
+        "person_title": "President",
+        "source_url": "https://nationalsecurityjournal.org/meet-the-staff-and-editorial-team/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "d.trump@nationalsecurityjournal.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Donald Trump",
+        "person_title": "President",
+        "source_url": "https://nationalsecurityjournal.org/putin-has-a-problem-ukraine-just-launched-1000-drones-at-russia-saint-petersburg-and-oil-refineries-were-hit-hard/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "dan.driscoll@nationalsecurityjournal.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dan Driscoll",
+        "person_title": "President",
+        "source_url": "https://nationalsecurityjournal.org/meet-the-staff-and-editorial-team/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "dan@nationalsecurityjournal.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dan Driscoll",
+        "person_title": "President",
+        "source_url": "https://nationalsecurityjournal.org/meet-the-staff-and-editorial-team/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "dan_driscoll@nationalsecurityjournal.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dan Driscoll",
+        "person_title": "President",
+        "source_url": "https://nationalsecurityjournal.org/meet-the-staff-and-editorial-team/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "dand@nationalsecurityjournal.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dan Driscoll",
+        "person_title": "President",
+        "source_url": "https://nationalsecurityjournal.org/meet-the-staff-and-editorial-team/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "donald.trump@nationalsecurityjournal.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Donald Trump",
+        "person_title": "President",
+        "source_url": "https://nationalsecurityjournal.org/putin-has-a-problem-ukraine-just-launched-1000-drones-at-russia-saint-petersburg-and-oil-refineries-were-hit-hard/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "donald@nationalsecurityjournal.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Donald Trump",
+        "person_title": "President",
+        "source_url": "https://nationalsecurityjournal.org/putin-has-a-problem-ukraine-just-launched-1000-drones-at-russia-saint-petersburg-and-oil-refineries-were-hit-hard/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "donald_trump@nationalsecurityjournal.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Donald Trump",
+        "person_title": "President",
+        "source_url": "https://nationalsecurityjournal.org/putin-has-a-problem-ukraine-just-launched-1000-drones-at-russia-saint-petersburg-and-oil-refineries-were-hit-hard/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "donaldt@nationalsecurityjournal.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Donald Trump",
+        "person_title": "President",
+        "source_url": "https://nationalsecurityjournal.org/putin-has-a-problem-ukraine-just-launched-1000-drones-at-russia-saint-petersburg-and-oil-refineries-were-hit-hard/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "driscoll@nationalsecurityjournal.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dan Driscoll",
+        "person_title": "President",
+        "source_url": "https://nationalsecurityjournal.org/meet-the-staff-and-editorial-team/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "has@nationalsecurityjournal.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Putin Has",
+        "person_title": "President",
+        "source_url": "https://nationalsecurityjournal.org/putin-has-a-problem-ukraine-just-launched-1000-drones-at-russia-saint-petersburg-and-oil-refineries-were-hit-hard/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "house@nationalsecurityjournal.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "White House",
+        "person_title": "President",
+        "source_url": "https://nationalsecurityjournal.org/putin-has-a-problem-ukraine-just-launched-1000-drones-at-russia-saint-petersburg-and-oil-refineries-were-hit-hard/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "j.biden@nationalsecurityjournal.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Joe Biden",
+        "person_title": "President",
+        "source_url": "https://nationalsecurityjournal.org/putin-has-a-problem-ukraine-just-launched-1000-drones-at-russia-saint-petersburg-and-oil-refineries-were-hit-hard/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "joe.biden@nationalsecurityjournal.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Joe Biden",
+        "person_title": "President",
+        "source_url": "https://nationalsecurityjournal.org/putin-has-a-problem-ukraine-just-launched-1000-drones-at-russia-saint-petersburg-and-oil-refineries-were-hit-hard/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "joe@nationalsecurityjournal.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Joe Biden",
+        "person_title": "President",
+        "source_url": "https://nationalsecurityjournal.org/putin-has-a-problem-ukraine-just-launched-1000-drones-at-russia-saint-petersburg-and-oil-refineries-were-hit-hard/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "joe_biden@nationalsecurityjournal.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Joe Biden",
+        "person_title": "President",
+        "source_url": "https://nationalsecurityjournal.org/putin-has-a-problem-ukraine-just-launched-1000-drones-at-russia-saint-petersburg-and-oil-refineries-were-hit-hard/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "joeb@nationalsecurityjournal.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Joe Biden",
+        "person_title": "President",
+        "source_url": "https://nationalsecurityjournal.org/putin-has-a-problem-ukraine-just-launched-1000-drones-at-russia-saint-petersburg-and-oil-refineries-were-hit-hard/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "p.has@nationalsecurityjournal.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Putin Has",
+        "person_title": "President",
+        "source_url": "https://nationalsecurityjournal.org/putin-has-a-problem-ukraine-just-launched-1000-drones-at-russia-saint-petersburg-and-oil-refineries-were-hit-hard/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "putin.has@nationalsecurityjournal.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Putin Has",
+        "person_title": "President",
+        "source_url": "https://nationalsecurityjournal.org/putin-has-a-problem-ukraine-just-launched-1000-drones-at-russia-saint-petersburg-and-oil-refineries-were-hit-hard/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "putin@nationalsecurityjournal.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Putin Has",
+        "person_title": "President",
+        "source_url": "https://nationalsecurityjournal.org/putin-has-a-problem-ukraine-just-launched-1000-drones-at-russia-saint-petersburg-and-oil-refineries-were-hit-hard/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "putin_has@nationalsecurityjournal.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Putin Has",
+        "person_title": "President",
+        "source_url": "https://nationalsecurityjournal.org/putin-has-a-problem-ukraine-just-launched-1000-drones-at-russia-saint-petersburg-and-oil-refineries-were-hit-hard/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "putinh@nationalsecurityjournal.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Putin Has",
+        "person_title": "President",
+        "source_url": "https://nationalsecurityjournal.org/putin-has-a-problem-ukraine-just-launched-1000-drones-at-russia-saint-petersburg-and-oil-refineries-were-hit-hard/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "russia@nationalsecurityjournal.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Zelenskyy Says Russia",
+        "person_title": "President",
+        "source_url": "https://nationalsecurityjournal.org/putin-has-a-problem-ukraine-just-launched-1000-drones-at-russia-saint-petersburg-and-oil-refineries-were-hit-hard/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "trump@nationalsecurityjournal.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Donald Trump",
+        "person_title": "President",
+        "source_url": "https://nationalsecurityjournal.org/putin-has-a-problem-ukraine-just-launched-1000-drones-at-russia-saint-petersburg-and-oil-refineries-were-hit-hard/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "w.house@nationalsecurityjournal.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "White House",
+        "person_title": "President",
+        "source_url": "https://nationalsecurityjournal.org/putin-has-a-problem-ukraine-just-launched-1000-drones-at-russia-saint-petersburg-and-oil-refineries-were-hit-hard/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "white.house@nationalsecurityjournal.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "White House",
+        "person_title": "President",
+        "source_url": "https://nationalsecurityjournal.org/putin-has-a-problem-ukraine-just-launched-1000-drones-at-russia-saint-petersburg-and-oil-refineries-were-hit-hard/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "white@nationalsecurityjournal.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "White House",
+        "person_title": "President",
+        "source_url": "https://nationalsecurityjournal.org/putin-has-a-problem-ukraine-just-launched-1000-drones-at-russia-saint-petersburg-and-oil-refineries-were-hit-hard/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "white_house@nationalsecurityjournal.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "White House",
+        "person_title": "President",
+        "source_url": "https://nationalsecurityjournal.org/putin-has-a-problem-ukraine-just-launched-1000-drones-at-russia-saint-petersburg-and-oil-refineries-were-hit-hard/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "whiteh@nationalsecurityjournal.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "White House",
+        "person_title": "President",
+        "source_url": "https://nationalsecurityjournal.org/putin-has-a-problem-ukraine-just-launched-1000-drones-at-russia-saint-petersburg-and-oil-refineries-were-hit-hard/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "z.russia@nationalsecurityjournal.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Zelenskyy Says Russia",
+        "person_title": "President",
+        "source_url": "https://nationalsecurityjournal.org/putin-has-a-problem-ukraine-just-launched-1000-drones-at-russia-saint-petersburg-and-oil-refineries-were-hit-hard/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "zelenskyy.russia@nationalsecurityjournal.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Zelenskyy Says Russia",
+        "person_title": "President",
+        "source_url": "https://nationalsecurityjournal.org/putin-has-a-problem-ukraine-just-launched-1000-drones-at-russia-saint-petersburg-and-oil-refineries-were-hit-hard/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "zelenskyy@nationalsecurityjournal.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Zelenskyy Says Russia",
+        "person_title": "President",
+        "source_url": "https://nationalsecurityjournal.org/putin-has-a-problem-ukraine-just-launched-1000-drones-at-russia-saint-petersburg-and-oil-refineries-were-hit-hard/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "zelenskyy_russia@nationalsecurityjournal.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Zelenskyy Says Russia",
+        "person_title": "President",
+        "source_url": "https://nationalsecurityjournal.org/putin-has-a-problem-ukraine-just-launched-1000-drones-at-russia-saint-petersburg-and-oil-refineries-were-hit-hard/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "zelenskyyr@nationalsecurityjournal.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Zelenskyy Says Russia",
+        "person_title": "President",
+        "source_url": "https://nationalsecurityjournal.org/putin-has-a-problem-ukraine-just-launched-1000-drones-at-russia-saint-petersburg-and-oil-refineries-were-hit-hard/",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://nationalsecurityjournal.org/putin-has-a-problem-ukraine-just-launched-1000-drones-at-russia-saint-petersburg-and-oil-refineries-were-hit-hard/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://nationalsecurityjournal.org/putin-has-a-problem-ukraine-just-launched-1000-drones-at-russia-saint-petersburg-and-oil-refineries-were-hit-hard/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://nationalsecurityjournal.org/putin-has-a-problem-ukraine-just-launched-1000-drones-at-russia-saint-petersburg-and-oil-refineries-were-hit-hard/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://nationalsecurityjournal.org/putin-has-a-problem-ukraine-just-launched-1000-drones-at-russia-saint-petersburg-and-oil-refineries-were-hit-hard/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://nationalsecurityjournal.org/putin-has-a-problem-ukraine-just-launched-1000-drones-at-russia-saint-petersburg-and-oil-refineries-were-hit-hard/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://nationalsecurityjournal.org/about-us/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://nationalsecurityjournal.org/meet-the-staff-and-editorial-team/",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://nationalsecurityjournal.org/contact-us/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://nationalsecurityjournal.org/putin-has-a-problem-ukraine-just-launched-1000-drones-at-russia-saint-petersburg-and-oil-refineries-were-hit-hard/",
+        "action": "https://nationalsecurityjournal.org/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Ukraine hit St. Petersburg oil sites with one of its largest drone strikes ever, Russia says, despite Trump\u2019s push to spare refineries.",
+    "source_urls": [
+      "https://nationalsecurityjournal.org/putin-has-a-problem-ukraine-just-launched-1000-drones-at-russia-saint-petersburg-and-oil-refineries-were-hit-hard/",
+      "https://nationalsecurityjournal.org/putin-has-a-problem-ukraine-just-launched-1000-drones-at-russia-saint-petersburg-and-oil-refineries-were-hit-hard/contact",
+      "https://nationalsecurityjournal.org/putin-has-a-problem-ukraine-just-launched-1000-drones-at-russia-saint-petersburg-and-oil-refineries-were-hit-hard/contact-us",
+      "https://nationalsecurityjournal.org/putin-has-a-problem-ukraine-just-launched-1000-drones-at-russia-saint-petersburg-and-oil-refineries-were-hit-hard/about",
+      "https://nationalsecurityjournal.org/putin-has-a-problem-ukraine-just-launched-1000-drones-at-russia-saint-petersburg-and-oil-refineries-were-hit-hard/about-us",
+      "https://nationalsecurityjournal.org/about-us/",
+      "https://nationalsecurityjournal.org/meet-the-staff-and-editorial-team/",
+      "https://nationalsecurityjournal.org/contact-us/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "djleague.com",
+    "company_name": "@thumperbun.bsky.social - This shit is happening again, right now! Come support @recca.bsky.social ! www.djleague.com/live/Recca'",
+    "website": "https://www.djleague.com/live/Recca'",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_content_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "forum.openwrt.org",
+    "company_name": "@openwrt.social.tchncs.de.ap.brid.gy - OpenWrt 25.12.6 - Service Release https://forum.openwrt.org/t/openwrt-25-12-6-service-release/254604 #openwrt",
+    "website": "https://forum.openwrt.org/t/openwrt-25-12-6-service-release/254604",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://forum.openwrt.org/t/openwrt-25-12-6-service-release/254604",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://forum.openwrt.org/t/support-for-tp-link-omada-er605-v1/228241/32",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://forum.openwrt.org/t/luci-attended-sysupgrade-support-thread/230552",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Hi, \nThe OpenWrt community is proud to announce the sixth service release of the OpenWrt 25.12 stable series. \nDownload firmware images using the OpenWrt Firmware Selector: \n\nhttps://firmware-selector.openwrt.org/?versio\u2026",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "freegardner.com",
+    "company_name": "@freegardener.bsky.social - NASA's $94.1M Lunar Trailblazer went silent one day after launch, spinning beyond recovery. The lunar water map it was built to deliver is #",
+    "website": "https://freegardner.com/sci_scout/when-a-dollar94-million-moon-mapper-spins-into-the-dark.html",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://freegardner.com/sci_scout/when-a-dollar94-million-moon-mapper-spins-into-the-dark.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://freegardner.com/about.html",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Every night the Moon reflects sunlight back at Earth, and hidden in that reflected light is a question nobody has fully answered: how much water sits on...",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "extasybooks.com",
+    "company_name": "@thadd1950.bsky.social - My sci-fi ebook, \"Portal 2901, Part 1.\" Rating: 4.4 of 5 stars (Votes: 2850) www.extasybooks.com/portal-2901:... This ebook is on Amazon, to",
+    "website": "https://www.extasybooks.com/portal-2901:-part-1",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "administration@extasybooks.com",
+        "confidence": "highest",
+        "source_url": "https://www.extasybooks.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "than just romance! Tina Haveman CEO and founder Email: administration@extasybooks.com CONTACT INFORMATION: Extasy Books PO Books 2146, Garibaldi"
+      }
+    ],
+    "role_emails": [
+      "administration@extasybooks.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "haveman@extasybooks.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tina Haveman",
+        "person_title": "Founder",
+        "source_url": "https://www.extasybooks.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "t.haveman@extasybooks.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tina Haveman",
+        "person_title": "Founder",
+        "source_url": "https://www.extasybooks.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tina.haveman@extasybooks.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tina Haveman",
+        "person_title": "Founder",
+        "source_url": "https://www.extasybooks.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tina@extasybooks.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tina Haveman",
+        "person_title": "Founder",
+        "source_url": "https://www.extasybooks.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tina_haveman@extasybooks.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tina Haveman",
+        "person_title": "Founder",
+        "source_url": "https://www.extasybooks.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tinah@extasybooks.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tina Haveman",
+        "person_title": "Founder",
+        "source_url": "https://www.extasybooks.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.extasybooks.com/portal-2901:-part-1",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.extasybooks.com/portal-2901:-part-1/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.extasybooks.com/portal-2901:-part-1/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.extasybooks.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.extasybooks.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "The DNA of cloned humans, inhabitants of a dying planet, was placed aboard a spaceship. The craft landed on a small island, one located on a\u00a0 new world. Now that these refugees are older, they mu..",
+    "source_urls": [
+      "https://www.extasybooks.com/contact-us",
+      "https://www.extasybooks.com/about-us"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "msn.com",
+    "company_name": "@jacklondonbluesky.bsky.social - #slavaUkraini Putin has a problem: Ukraine just launched 1,000 drones at Russia. Saint Petersburg and oil refineries were hit hard www.msn.c",
+    "website": "https://www.msn.com/en-us/news/other/putin-has-a-problem-ukraine-just-launched-1-000-drones-at-russia-saint-petersburg-and-oil-refineries-were-hit-hard/ar-AA2evxxW",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.msn.com/en-us/news/other/putin-has-a-problem-ukraine-just-launched-1-000-drones-at-russia-saint-petersburg-and-oil-refineries-were-hit-hard/ar-AA2evxxW",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Ukraine launched one of its largest drone attacks of the war overnight, with Russia saying it downed more than a thousand drones as fires broke out at oil sites in St. Petersburg. The strikes come despite President Trump\u2019s push for both sides to spare refineries, and the Kremlin says Moscow remains ",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "trafficwatchni.com",
+    "company_name": "@wanderlib.bsky.social - Oh no, universalism, a government that is accountable to all it exercises sovereignty over, and equality under the law. Truly a horrible fat",
+    "website": "https://www.trafficwatchni.com/twni/cameras/static?id=74",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_content_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "car4ukraine.com",
+    "company_name": "@50states-4-ukraine.bsky.social - Our Wisconsin Battalion has just launched its SECOND campaign in collaboration with Car for Ukraine to buy a truck for the Ukrainian militar",
+    "website": "https://car4ukraine.com/campaigns/50forua-wi-battalion",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "challenge_page",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "365reset.com",
+    "company_name": "@catlaroche.bsky.social - Different reasons. Same membership. \"It's like no other membership I've seen. I'm a lifer.\" Paula Six parts of your life. One membership. Le",
+    "website": "https://365reset.com/go/sun-voices-bs",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://365reset.com/go/sun-voices-bs",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://365reset.com/go/sun-voices-bs/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://365reset.com/go/sun-voices-bs/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://365reset.com/go/sun-voices-bs/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://365reset.com/go/sun-voices-bs/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://365reset.com/go/sun-voices-bs/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://365reset.com/go/sun-voices-bs/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://365reset.com/go/sun-voices-bs",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://365reset.com/go/sun-voices-bs/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://365reset.com/go/sun-voices-bs/contact-us",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://365reset.com/go/sun-voices-bs/contactus",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://365reset.com/go/sun-voices-bs/about",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://365reset.com/go/sun-voices-bs/about-us",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://365reset.com/go/sun-voices-bs/team",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "365reset is a guided mentorship that creates space for busy people to do what they've always wanted to, without blowing up their lives.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "geni.us",
+    "company_name": "@nenapoma.bsky.social - Find out \u2014 Bad Daddies: Liam by @ToriSilver is LIVE now. One-click today \ud83d\udd25 geni.us/XtJl8U #DarkRomanceCommunity #OutToday #VigilanteRomance",
+    "website": "https://geni.us/XtJl8U",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://geni.us/XtJl8U",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "cloud.pieeg.com",
+    "company_name": "@rons1237.bsky.social - Today we\u2019re shipping Live Lab on PiEEG Cloud! \ud83e\udde0\u26a1 Run 15Hz JS cells on live 250Hz multichannel EEG/EMG data: \u2022 Live DSP & instant renders \u2022 L",
+    "website": "https://cloud.pieeg.com/lab",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://cloud.pieeg.com/lab",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cloud.pieeg.com/lab/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cloud.pieeg.com/lab/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cloud.pieeg.com/lab/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cloud.pieeg.com/lab/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cloud.pieeg.com/lab/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://cloud.pieeg.com/lab/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "PiEEG Dashboard is an open-source cloud platform for real-time EEG streaming, brain-computer interface experiences, mental-state monitoring, and neural data visualization from the PiEEG device.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "cpac.ca",
+    "company_name": "@calgarycanuck.bsky.social - Live now! www.cpac.ca/headline-pol...",
+    "website": "https://www.cpac.ca/headline-politics/episode/ministers-and-caf-officials-provide-update-on-cfb-wainwright-incident?id=e2d95f33-bb9e-49f5-95a3-bf8eaf0ec561",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "s.zielke@cpac.ca",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sayeh Zielke",
+        "person_title": "Ceo",
+        "source_url": "https://www.cpac.ca/headline-politics/episode/ministers-and-caf-officials-provide-update-on-cfb-wainwright-incident?id=e2d95f33-bb9e-49f5-95a3-bf8eaf0ec561",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sayeh.zielke@cpac.ca",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sayeh Zielke",
+        "person_title": "Ceo",
+        "source_url": "https://www.cpac.ca/headline-politics/episode/ministers-and-caf-officials-provide-update-on-cfb-wainwright-incident?id=e2d95f33-bb9e-49f5-95a3-bf8eaf0ec561",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sayeh@cpac.ca",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sayeh Zielke",
+        "person_title": "Ceo",
+        "source_url": "https://www.cpac.ca/headline-politics/episode/ministers-and-caf-officials-provide-update-on-cfb-wainwright-incident?id=e2d95f33-bb9e-49f5-95a3-bf8eaf0ec561",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sayeh_zielke@cpac.ca",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sayeh Zielke",
+        "person_title": "Ceo",
+        "source_url": "https://www.cpac.ca/headline-politics/episode/ministers-and-caf-officials-provide-update-on-cfb-wainwright-incident?id=e2d95f33-bb9e-49f5-95a3-bf8eaf0ec561",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sayehz@cpac.ca",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sayeh Zielke",
+        "person_title": "Ceo",
+        "source_url": "https://www.cpac.ca/headline-politics/episode/ministers-and-caf-officials-provide-update-on-cfb-wainwright-incident?id=e2d95f33-bb9e-49f5-95a3-bf8eaf0ec561",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "zielke@cpac.ca",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sayeh Zielke",
+        "person_title": "Ceo",
+        "source_url": "https://www.cpac.ca/headline-politics/episode/ministers-and-caf-officials-provide-update-on-cfb-wainwright-incident?id=e2d95f33-bb9e-49f5-95a3-bf8eaf0ec561",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.cpac.ca/headline-politics/episode/ministers-and-caf-officials-provide-update-on-cfb-wainwright-incident?id=e2d95f33-bb9e-49f5-95a3-bf8eaf0ec561",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.cpac.ca/about-cpac",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.cpac.ca/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.cpac.ca/press-releases",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Defence Minister David McGuinty, Emergency Management Minister Eleanor Olszewski, Alberta Premier Danielle Smith, Major-General Wade Rutland,",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "theglobeandmail.com",
+    "company_name": "@sophienadeau.bsky.social - Yes! This is exactly how I feel \u2764\ufe0f I\u2019ve lived all over Canada and fell in love quite unexpectedly, happily in the end. I actually wrote abou",
+    "website": "https://www.theglobeandmail.com/life/facts-and-arguments/i-never-thought-i-would-move-to-toronto-but-now-i-know-the-city-is-where-ibelong/article34831235/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "a.saunders@theglobeandmail.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Andrew Saunders",
+        "person_title": "Ceo",
+        "source_url": "https://www.theglobeandmail.com/life/facts-and-arguments/i-never-thought-i-would-move-to-toronto-but-now-i-know-the-city-is-where-ibelong/article34831235/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "andrew.saunders@theglobeandmail.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Andrew Saunders",
+        "person_title": "Ceo",
+        "source_url": "https://www.theglobeandmail.com/life/facts-and-arguments/i-never-thought-i-would-move-to-toronto-but-now-i-know-the-city-is-where-ibelong/article34831235/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "andrew@theglobeandmail.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Andrew Saunders",
+        "person_title": "Ceo",
+        "source_url": "https://www.theglobeandmail.com/life/facts-and-arguments/i-never-thought-i-would-move-to-toronto-but-now-i-know-the-city-is-where-ibelong/article34831235/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "andrew_saunders@theglobeandmail.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Andrew Saunders",
+        "person_title": "Ceo",
+        "source_url": "https://www.theglobeandmail.com/life/facts-and-arguments/i-never-thought-i-would-move-to-toronto-but-now-i-know-the-city-is-where-ibelong/article34831235/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "andrews@theglobeandmail.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Andrew Saunders",
+        "person_title": "Ceo",
+        "source_url": "https://www.theglobeandmail.com/life/facts-and-arguments/i-never-thought-i-would-move-to-toronto-but-now-i-know-the-city-is-where-ibelong/article34831235/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "saunders@theglobeandmail.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Andrew Saunders",
+        "person_title": "Ceo",
+        "source_url": "https://www.theglobeandmail.com/life/facts-and-arguments/i-never-thought-i-would-move-to-toronto-but-now-i-know-the-city-is-where-ibelong/article34831235/",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.theglobeandmail.com/life/facts-and-arguments/i-never-thought-i-would-move-to-toronto-but-now-i-know-the-city-is-where-ibelong/article34831235/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.theglobeandmail.com/about/contact/?intcmp=footer",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.theglobeandmail.com/about/contact/?intcmp=footer#tgamcontactussubmitting",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.theglobeandmail.com/about/?intcmp=footer",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.theglobeandmail.com/about/work-at-the-globe/?intcmp=footer",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.theglobeandmail.com/about/editorial-code/?intcmp=footer",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "\u200bI was the kind of Canadian who took digs at the biggest city in the country. But now I live in it, Sophie Nadeau writes\u200b",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 14
+  },
+  {
+    "company_domain": "ukfetishawards.com",
+    "company_name": "@dominasatana.bsky.social - A way to serve your Domina. Voting is now live ukfetishawards.com/2026/domina-...",
+    "website": "https://ukfetishawards.com/2026/domina-satana/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://ukfetishawards.com/2026/domina-satana/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ukfetishawards.com/categories/fetish-fashion-company/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ukfetishawards.com/categories/adult-toy-company/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ukfetishawards.com/categories/fetish-media-magazine-podcast/",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://ukfetishawards.com/contact/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://ukfetishawards.com/contact/",
+        "action": "/contact/",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Vote for Domina Satana  on UK Fetish Awards.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "theapplepost.com",
+    "company_name": "@theapplepost.com - Apple Store staff reportedly warning customers not to expect iPhone Duo walk-in stock www.theapplepost.com/2026/10/18/7...",
+    "website": "https://www.theapplepost.com/2026/10/18/73367/apple-store-staff-reportedly-warning-customers-not-to-expect-iphone-duo-walk-in-stock",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "d.joseppi@theapplepost.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "David Joseppi",
+        "person_title": null,
+        "source_url": "https://www.theapplepost.com/2026/10/18/73367/apple-store-staff-reportedly-warning-customers-not-to-expect-iphone-duo-walk-in-stock",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "david.joseppi@theapplepost.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "David Joseppi",
+        "person_title": null,
+        "source_url": "https://www.theapplepost.com/2026/10/18/73367/apple-store-staff-reportedly-warning-customers-not-to-expect-iphone-duo-walk-in-stock",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "david@theapplepost.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "David Joseppi",
+        "person_title": null,
+        "source_url": "https://www.theapplepost.com/2026/10/18/73367/apple-store-staff-reportedly-warning-customers-not-to-expect-iphone-duo-walk-in-stock",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "david_joseppi@theapplepost.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "David Joseppi",
+        "person_title": null,
+        "source_url": "https://www.theapplepost.com/2026/10/18/73367/apple-store-staff-reportedly-warning-customers-not-to-expect-iphone-duo-walk-in-stock",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "davidj@theapplepost.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "David Joseppi",
+        "person_title": null,
+        "source_url": "https://www.theapplepost.com/2026/10/18/73367/apple-store-staff-reportedly-warning-customers-not-to-expect-iphone-duo-walk-in-stock",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "joseppi@theapplepost.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "David Joseppi",
+        "person_title": null,
+        "source_url": "https://www.theapplepost.com/2026/10/18/73367/apple-store-staff-reportedly-warning-customers-not-to-expect-iphone-duo-walk-in-stock",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sykes@theapplepost.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tom Sykes",
+        "person_title": null,
+        "source_url": "https://www.theapplepost.com/2026/10/18/73367/apple-store-staff-reportedly-warning-customers-not-to-expect-iphone-duo-walk-in-stock/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "t.sykes@theapplepost.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tom Sykes",
+        "person_title": null,
+        "source_url": "https://www.theapplepost.com/2026/10/18/73367/apple-store-staff-reportedly-warning-customers-not-to-expect-iphone-duo-walk-in-stock/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tom.sykes@theapplepost.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tom Sykes",
+        "person_title": null,
+        "source_url": "https://www.theapplepost.com/2026/10/18/73367/apple-store-staff-reportedly-warning-customers-not-to-expect-iphone-duo-walk-in-stock/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tom@theapplepost.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tom Sykes",
+        "person_title": null,
+        "source_url": "https://www.theapplepost.com/2026/10/18/73367/apple-store-staff-reportedly-warning-customers-not-to-expect-iphone-duo-walk-in-stock/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tom_sykes@theapplepost.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tom Sykes",
+        "person_title": null,
+        "source_url": "https://www.theapplepost.com/2026/10/18/73367/apple-store-staff-reportedly-warning-customers-not-to-expect-iphone-duo-walk-in-stock/team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "toms@theapplepost.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tom Sykes",
+        "person_title": null,
+        "source_url": "https://www.theapplepost.com/2026/10/18/73367/apple-store-staff-reportedly-warning-customers-not-to-expect-iphone-duo-walk-in-stock/team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.theapplepost.com/2026/10/18/73367/apple-store-staff-reportedly-warning-customers-not-to-expect-iphone-duo-walk-in-stock",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.theapplepost.com/2026/10/18/73367/apple-store-staff-reportedly-warning-customers-not-to-expect-iphone-duo-walk-in-stock/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.theapplepost.com/2026/10/18/73367/apple-store-staff-reportedly-warning-customers-not-to-expect-iphone-duo-walk-in-stock/#respond",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.theapplepost.com/2026/10/18/73367/apple-store-staff-reportedly-warning-customers-not-to-expect-iphone-duo-walk-in-stock/",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Apple Store staff are reportedly warning customers not to expect iPhone Duo walk-in stock on launch day as supply remains severely constrained.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "scottcirakovic.com",
+    "company_name": "@scottcirakovic.bsky.social - Preorders are now live on my website \ud83e\udd18\ud83c\udffb release date is set for 09 March 27, head on over to scottcirakovic.com to lock in yours before they",
+    "website": "https://scottcirakovic.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://scottcirakovic.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://scottcirakovic.com",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Escape into a world of fiction - accessible scifi that makes you think about the future... you got it. Grimdark fantasy about human weakness... you bet. Sword and sorcery with a satire twist... hell yeah! Come join me in my imagination, because reality is boring anyway.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "exchange.craiccoin.com",
+    "company_name": "@craiccoin.bsky.social - Now live: exchange.craiccoin.com Buy $CRAIC through the Craic Hub Exchange: fees paid in $CRAIC go to the burn wallet; we aim to start burni",
+    "website": "https://exchange.craiccoin.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://exchange.craiccoin.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://exchange.craiccoin.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://exchange.craiccoin.com/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://exchange.craiccoin.com/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://exchange.craiccoin.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://exchange.craiccoin.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://exchange.craiccoin.com/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Craic Hub Exchange, our own swap exchange: find and swap any coin from your own wallet, or launch your own Solana coin. $CRAIC is the native coin of the Craic Hub Exchange: hold it for lower swap fees, and pay in it for 25% off launch and featured-listing fees. Fees paid in $CRAIC are burned. We aim",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "l.smartnews.com",
+    "company_name": "@jflem2.bsky.social - l.smartnews.com/p-8H5M9MdP/e...",
+    "website": "https://l.smartnews.com/p-8H5M9MdP/eBlWAF",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_content_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "shot3sports.blogspot.com",
+    "company_name": "@shot3sports.bsky.social - \ud83d\udd25 REAL MADRID VS SEVILLA \u2014 LIVE MATCH ACTION! \u26bd Real Madrid is battling Sevilla in a high-voltage La Liga clash live from the Santiago Berna",
+    "website": "https://shot3sports.blogspot.com/2026/10/real-madrid-vs-sevilla-live-match-report-updates.html",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://shot3sports.blogspot.com/2026/10/real-madrid-vs-sevilla-live-match-report-updates.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Real Madrid defeated Sevilla 4-1 at the Bernab\u00e9u as Kylian Mbapp\u00e9 scored twice and Arda G\u00fcler opened the scoring. Read full match stats, highlights, a",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "r3js.org",
+    "company_name": "@r3js.org - Every R3 account can now put one project live for free. Build a 3D scene with physics, code and sound, publish it, and share the link. No pl",
+    "website": "https://r3js.org",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@r3js.org",
+        "confidence": "highest",
+        "source_url": "https://r3js.org/impressum",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "rtner GmbH M\u00f6llendorffstra\u00dfe 49 10367 Berlin Kontakt E-Mail support@r3js.org Kontaktformular r3js.org/support Umsatzsteuer-ID Umsatzsteu"
+      }
+    ],
+    "role_emails": [
+      "support@r3js.org"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://r3js.org",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://r3js.org/impressum",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://r3js.org/showcase/tj/support",
+        "page_type": "support",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Describe a model and R3 Builder builds it in Blender, ready to edit. Then bring it to life with physics, sound and code, by hand or with AI.",
+    "source_urls": [
+      "https://r3js.org/impressum"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "urazon.com",
+    "company_name": "@urazon1.bsky.social - Build a squad through Rivals, Champs, tournaments and live events. EA Sports FC 26 for PlayStation, now \u20ac47.40 on Urazon with instant digita",
+    "website": "https://urazon.com/EA-Sports-FC-26-PlayStation-Key-EU",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "support@urazon.com",
+        "confidence": "high",
+        "source_url": "https://urazon.com/EA-Sports-FC-26-PlayStation-Key-EU",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "support@urazon.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://urazon.com/EA-Sports-FC-26-PlayStation-Key-EU",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://urazon.com/Steam",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://urazon.com/Euro-Truck-Simulator-2-PC-Steam",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://urazon.com/NBA-2K26-Standard-Edition-PC-Steam-CD-Key",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://urazon.com/rFactor-2-Steam-CD-Key",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://urazon.com/Ragnarock-PC-Steam-CD-Key",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://urazon.com/Spike-Volleyball-PC-Steam-CD-Key",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://urazon.com/DiRT-Rally-2.0-PC-Steam-CD-Key",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://urazon.com/EA-Sports-FC-26-PlayStation-Key-EU",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://urazon.com/Euro-Truck-Simulator-2-PC-Steam",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://urazon.com/NBA-2K26-Standard-Edition-PC-Steam-CD-Key",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://urazon.com/rFactor-2-Steam-CD-Key",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://urazon.com/Ragnarock-PC-Steam-CD-Key",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://urazon.com/Spike-Volleyball-PC-Steam-CD-Key",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://urazon.com/DiRT-Rally-2.0-PC-Steam-CD-Key",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Europe PlayStation key for EA Sports FC 26. Play Kick-Off, Ultimate Team, Career and Clubs on PS5 with the genuine standard football simulation.",
+    "source_urls": [
+      "https://urazon.com/EA-Sports-FC-26-PlayStation-Key-EU",
+      "https://urazon.com/Steam",
+      "https://urazon.com/Euro-Truck-Simulator-2-PC-Steam",
+      "https://urazon.com/NBA-2K26-Standard-Edition-PC-Steam-CD-Key",
+      "https://urazon.com/rFactor-2-Steam-CD-Key",
+      "https://urazon.com/Ragnarock-PC-Steam-CD-Key",
+      "https://urazon.com/Spike-Volleyball-PC-Steam-CD-Key",
+      "https://urazon.com/DiRT-Rally-2.0-PC-Steam-CD-Key"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 14
+  },
+  {
+    "company_domain": "go.whitetrafsa.com",
+    "company_name": "@alllpromolive.bsky.social - Online right now \ud83e\udef5\ud83d\udc47 go.whitetrafsa.com?userId=86224...",
+    "website": "https://go.whitetrafsa.com?userId=8622467b3a45ca59f4b65f5cf2445527dd8a0892cdd99874eb8549f0ed5ef520&path=JennasweetassX",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_content_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "screentimeplus.com",
+    "company_name": "@scribedby.social - \ud83c\udfac ScreenTime Search (Beta): We're live in the wild, folks! Our AI is caffeinated, our servers are warm, and we're officially inviting you ba",
+    "website": "http://screentimeplus.com/search",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "http_401",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "religionnews.com",
+    "company_name": "@adrianwashere.bsky.social - According to this 2024 article by @jackjenkins.me, Tommy was 20 in early 2021, making him 25 or 26 now. religionnews.com/2024/07/08/t...",
+    "website": "https://religionnews.com/2024/07/08/the-washington-insiders-helping-sean-feucht-spread-christian-nationalism-in-congress/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@religionnews.com",
+        "confidence": "high",
+        "source_url": "https://religionnews.com/press-release/",
+        "source_type": "archived",
+        "snapshot_date": "2026-09-23",
+        "context_snippet": ""
+      },
+      {
+        "address": "webhelp@religionnews.com",
+        "confidence": "medium",
+        "source_url": "https://religionnews.com/about/privacy-policy/",
+        "source_type": "archived",
+        "snapshot_date": "2026-09-23",
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@religionnews.com",
+      "webhelp@religionnews.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "a.hacker@religionnews.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Amber Hacker",
+        "person_title": "Ceo",
+        "source_url": "https://religionnews.com/2024/07/08/the-washington-insiders-helping-sean-feucht-spread-christian-nationalism-in-congress/",
+        "source_type": "archived",
+        "snapshot_date": "2025-11-07"
+      },
+      {
+        "address": "a.jindal@religionnews.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "After Jindal",
+        "person_title": "President",
+        "source_url": "https://religionnews.com/2024/07/08/the-washington-insiders-helping-sean-feucht-spread-christian-nationalism-in-congress/",
+        "source_type": "archived",
+        "snapshot_date": "2025-11-07"
+      },
+      {
+        "address": "after.jindal@religionnews.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "After Jindal",
+        "person_title": "President",
+        "source_url": "https://religionnews.com/2024/07/08/the-washington-insiders-helping-sean-feucht-spread-christian-nationalism-in-congress/",
+        "source_type": "archived",
+        "snapshot_date": "2025-11-07"
+      },
+      {
+        "address": "after@religionnews.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "After Jindal",
+        "person_title": "President",
+        "source_url": "https://religionnews.com/2024/07/08/the-washington-insiders-helping-sean-feucht-spread-christian-nationalism-in-congress/",
+        "source_type": "archived",
+        "snapshot_date": "2025-11-07"
+      },
+      {
+        "address": "after_jindal@religionnews.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "After Jindal",
+        "person_title": "President",
+        "source_url": "https://religionnews.com/2024/07/08/the-washington-insiders-helping-sean-feucht-spread-christian-nationalism-in-congress/",
+        "source_type": "archived",
+        "snapshot_date": "2025-11-07"
+      },
+      {
+        "address": "afterj@religionnews.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "After Jindal",
+        "person_title": "President",
+        "source_url": "https://religionnews.com/2024/07/08/the-washington-insiders-helping-sean-feucht-spread-christian-nationalism-in-congress/",
+        "source_type": "archived",
+        "snapshot_date": "2025-11-07"
+      },
+      {
+        "address": "amber.hacker@religionnews.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Amber Hacker",
+        "person_title": "Ceo",
+        "source_url": "https://religionnews.com/2024/07/08/the-washington-insiders-helping-sean-feucht-spread-christian-nationalism-in-congress/",
+        "source_type": "archived",
+        "snapshot_date": "2025-11-07"
+      },
+      {
+        "address": "amber@religionnews.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Amber Hacker",
+        "person_title": "Ceo",
+        "source_url": "https://religionnews.com/2024/07/08/the-washington-insiders-helping-sean-feucht-spread-christian-nationalism-in-congress/",
+        "source_type": "archived",
+        "snapshot_date": "2025-11-07"
+      },
+      {
+        "address": "amber_hacker@religionnews.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Amber Hacker",
+        "person_title": "Ceo",
+        "source_url": "https://religionnews.com/2024/07/08/the-washington-insiders-helping-sean-feucht-spread-christian-nationalism-in-congress/",
+        "source_type": "archived",
+        "snapshot_date": "2025-11-07"
+      },
+      {
+        "address": "amberh@religionnews.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Amber Hacker",
+        "person_title": "Ceo",
+        "source_url": "https://religionnews.com/2024/07/08/the-washington-insiders-helping-sean-feucht-spread-christian-nationalism-in-congress/",
+        "source_type": "archived",
+        "snapshot_date": "2025-11-07"
+      },
+      {
+        "address": "b.harder@religionnews.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Brandon Harder",
+        "person_title": "Owner",
+        "source_url": "https://religionnews.com/2024/07/08/the-washington-insiders-helping-sean-feucht-spread-christian-nationalism-in-congress/",
+        "source_type": "archived",
+        "snapshot_date": "2025-11-07"
+      },
+      {
+        "address": "b.rouge@religionnews.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Baton Rouge",
+        "person_title": "Ceo",
+        "source_url": "https://religionnews.com/2024/07/08/the-washington-insiders-helping-sean-feucht-spread-christian-nationalism-in-congress/",
+        "source_type": "archived",
+        "snapshot_date": "2025-11-07"
+      },
+      {
+        "address": "baton.rouge@religionnews.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Baton Rouge",
+        "person_title": "Ceo",
+        "source_url": "https://religionnews.com/2024/07/08/the-washington-insiders-helping-sean-feucht-spread-christian-nationalism-in-congress/",
+        "source_type": "archived",
+        "snapshot_date": "2025-11-07"
+      },
+      {
+        "address": "baton@religionnews.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Baton Rouge",
+        "person_title": "Ceo",
+        "source_url": "https://religionnews.com/2024/07/08/the-washington-insiders-helping-sean-feucht-spread-christian-nationalism-in-congress/",
+        "source_type": "archived",
+        "snapshot_date": "2025-11-07"
+      },
+      {
+        "address": "baton_rouge@religionnews.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Baton Rouge",
+        "person_title": "Ceo",
+        "source_url": "https://religionnews.com/2024/07/08/the-washington-insiders-helping-sean-feucht-spread-christian-nationalism-in-congress/",
+        "source_type": "archived",
+        "snapshot_date": "2025-11-07"
+      },
+      {
+        "address": "batonr@religionnews.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Baton Rouge",
+        "person_title": "Ceo",
+        "source_url": "https://religionnews.com/2024/07/08/the-washington-insiders-helping-sean-feucht-spread-christian-nationalism-in-congress/",
+        "source_type": "archived",
+        "snapshot_date": "2025-11-07"
+      },
+      {
+        "address": "biden@religionnews.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Joe Biden",
+        "person_title": "President",
+        "source_url": "https://religionnews.com/2024/07/08/the-washington-insiders-helping-sean-feucht-spread-christian-nationalism-in-congress/",
+        "source_type": "archived",
+        "snapshot_date": "2025-11-07"
+      },
+      {
+        "address": "brandon.harder@religionnews.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Brandon Harder",
+        "person_title": "Owner",
+        "source_url": "https://religionnews.com/2024/07/08/the-washington-insiders-helping-sean-feucht-spread-christian-nationalism-in-congress/",
+        "source_type": "archived",
+        "snapshot_date": "2025-11-07"
+      },
+      {
+        "address": "brandon@religionnews.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Brandon Harder",
+        "person_title": "Owner",
+        "source_url": "https://religionnews.com/2024/07/08/the-washington-insiders-helping-sean-feucht-spread-christian-nationalism-in-congress/",
+        "source_type": "archived",
+        "snapshot_date": "2025-11-07"
+      },
+      {
+        "address": "brandon_harder@religionnews.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Brandon Harder",
+        "person_title": "Owner",
+        "source_url": "https://religionnews.com/2024/07/08/the-washington-insiders-helping-sean-feucht-spread-christian-nationalism-in-congress/",
+        "source_type": "archived",
+        "snapshot_date": "2025-11-07"
+      },
+      {
+        "address": "brandonh@religionnews.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Brandon Harder",
+        "person_title": "Owner",
+        "source_url": "https://religionnews.com/2024/07/08/the-washington-insiders-helping-sean-feucht-spread-christian-nationalism-in-congress/",
+        "source_type": "archived",
+        "snapshot_date": "2025-11-07"
+      },
+      {
+        "address": "caldwell@religionnews.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Deborah Caldwell",
+        "person_title": "Ceo",
+        "source_url": "https://religionnews.com/2024/07/08/the-washington-insiders-helping-sean-feucht-spread-christian-nationalism-in-congress/",
+        "source_type": "archived",
+        "snapshot_date": "2025-11-07"
+      },
+      {
+        "address": "d.caldwell@religionnews.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Deborah Caldwell",
+        "person_title": "Ceo",
+        "source_url": "https://religionnews.com/2024/07/08/the-washington-insiders-helping-sean-feucht-spread-christian-nationalism-in-congress/",
+        "source_type": "archived",
+        "snapshot_date": "2025-11-07"
+      },
+      {
+        "address": "deborah.caldwell@religionnews.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Deborah Caldwell",
+        "person_title": "Ceo",
+        "source_url": "https://religionnews.com/2024/07/08/the-washington-insiders-helping-sean-feucht-spread-christian-nationalism-in-congress/",
+        "source_type": "archived",
+        "snapshot_date": "2025-11-07"
+      },
+      {
+        "address": "deborah@religionnews.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Deborah Caldwell",
+        "person_title": "Ceo",
+        "source_url": "https://religionnews.com/2024/07/08/the-washington-insiders-helping-sean-feucht-spread-christian-nationalism-in-congress/",
+        "source_type": "archived",
+        "snapshot_date": "2025-11-07"
+      },
+      {
+        "address": "deborah_caldwell@religionnews.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Deborah Caldwell",
+        "person_title": "Ceo",
+        "source_url": "https://religionnews.com/2024/07/08/the-washington-insiders-helping-sean-feucht-spread-christian-nationalism-in-congress/",
+        "source_type": "archived",
+        "snapshot_date": "2025-11-07"
+      },
+      {
+        "address": "deborahc@religionnews.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Deborah Caldwell",
+        "person_title": "Ceo",
+        "source_url": "https://religionnews.com/2024/07/08/the-washington-insiders-helping-sean-feucht-spread-christian-nationalism-in-congress/",
+        "source_type": "archived",
+        "snapshot_date": "2025-11-07"
+      },
+      {
+        "address": "hacker@religionnews.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Amber Hacker",
+        "person_title": "Ceo",
+        "source_url": "https://religionnews.com/2024/07/08/the-washington-insiders-helping-sean-feucht-spread-christian-nationalism-in-congress/",
+        "source_type": "archived",
+        "snapshot_date": "2025-11-07"
+      },
+      {
+        "address": "harder@religionnews.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Brandon Harder",
+        "person_title": "Owner",
+        "source_url": "https://religionnews.com/2024/07/08/the-washington-insiders-helping-sean-feucht-spread-christian-nationalism-in-congress/",
+        "source_type": "archived",
+        "snapshot_date": "2025-11-07"
+      },
+      {
+        "address": "i.june@religionnews.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "In June",
+        "person_title": "Ceo",
+        "source_url": "https://religionnews.com/about-rns",
+        "source_type": "archived",
+        "snapshot_date": "2026-10-17"
+      },
+      {
+        "address": "in.june@religionnews.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "In June",
+        "person_title": "Ceo",
+        "source_url": "https://religionnews.com/about-rns",
+        "source_type": "archived",
+        "snapshot_date": "2026-10-17"
+      },
+      {
+        "address": "in@religionnews.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "In June",
+        "person_title": "Ceo",
+        "source_url": "https://religionnews.com/about-rns",
+        "source_type": "archived",
+        "snapshot_date": "2026-10-17"
+      },
+      {
+        "address": "in_june@religionnews.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "In June",
+        "person_title": "Ceo",
+        "source_url": "https://religionnews.com/about-rns",
+        "source_type": "archived",
+        "snapshot_date": "2026-10-17"
+      },
+      {
+        "address": "inj@religionnews.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "In June",
+        "person_title": "Ceo",
+        "source_url": "https://religionnews.com/about-rns",
+        "source_type": "archived",
+        "snapshot_date": "2026-10-17"
+      },
+      {
+        "address": "j.biden@religionnews.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Joe Biden",
+        "person_title": "President",
+        "source_url": "https://religionnews.com/2024/07/08/the-washington-insiders-helping-sean-feucht-spread-christian-nationalism-in-congress/",
+        "source_type": "archived",
+        "snapshot_date": "2025-11-07"
+      },
+      {
+        "address": "jindal@religionnews.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "After Jindal",
+        "person_title": "President",
+        "source_url": "https://religionnews.com/2024/07/08/the-washington-insiders-helping-sean-feucht-spread-christian-nationalism-in-congress/",
+        "source_type": "archived",
+        "snapshot_date": "2025-11-07"
+      },
+      {
+        "address": "joe.biden@religionnews.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Joe Biden",
+        "person_title": "President",
+        "source_url": "https://religionnews.com/2024/07/08/the-washington-insiders-helping-sean-feucht-spread-christian-nationalism-in-congress/",
+        "source_type": "archived",
+        "snapshot_date": "2025-11-07"
+      },
+      {
+        "address": "joe@religionnews.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Joe Biden",
+        "person_title": "President",
+        "source_url": "https://religionnews.com/2024/07/08/the-washington-insiders-helping-sean-feucht-spread-christian-nationalism-in-congress/",
+        "source_type": "archived",
+        "snapshot_date": "2025-11-07"
+      },
+      {
+        "address": "joe_biden@religionnews.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Joe Biden",
+        "person_title": "President",
+        "source_url": "https://religionnews.com/2024/07/08/the-washington-insiders-helping-sean-feucht-spread-christian-nationalism-in-congress/",
+        "source_type": "archived",
+        "snapshot_date": "2025-11-07"
+      },
+      {
+        "address": "joeb@religionnews.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Joe Biden",
+        "person_title": "President",
+        "source_url": "https://religionnews.com/2024/07/08/the-washington-insiders-helping-sean-feucht-spread-christian-nationalism-in-congress/",
+        "source_type": "archived",
+        "snapshot_date": "2025-11-07"
+      },
+      {
+        "address": "june@religionnews.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "In June",
+        "person_title": "Ceo",
+        "source_url": "https://religionnews.com/about-rns",
+        "source_type": "archived",
+        "snapshot_date": "2026-10-17"
+      },
+      {
+        "address": "m.meaning@religionnews.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Money Meet Meaning",
+        "person_title": "Ceo",
+        "source_url": "https://religionnews.com/2024/07/08/the-washington-insiders-helping-sean-feucht-spread-christian-nationalism-in-congress/",
+        "source_type": "archived",
+        "snapshot_date": "2025-11-07"
+      },
+      {
+        "address": "meaning@religionnews.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Money Meet Meaning",
+        "person_title": "Ceo",
+        "source_url": "https://religionnews.com/2024/07/08/the-washington-insiders-helping-sean-feucht-spread-christian-nationalism-in-congress/",
+        "source_type": "archived",
+        "snapshot_date": "2025-11-07"
+      },
+      {
+        "address": "money.meaning@religionnews.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Money Meet Meaning",
+        "person_title": "Ceo",
+        "source_url": "https://religionnews.com/2024/07/08/the-washington-insiders-helping-sean-feucht-spread-christian-nationalism-in-congress/",
+        "source_type": "archived",
+        "snapshot_date": "2025-11-07"
+      },
+      {
+        "address": "money@religionnews.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Money Meet Meaning",
+        "person_title": "Ceo",
+        "source_url": "https://religionnews.com/2024/07/08/the-washington-insiders-helping-sean-feucht-spread-christian-nationalism-in-congress/",
+        "source_type": "archived",
+        "snapshot_date": "2025-11-07"
+      },
+      {
+        "address": "money_meaning@religionnews.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Money Meet Meaning",
+        "person_title": "Ceo",
+        "source_url": "https://religionnews.com/2024/07/08/the-washington-insiders-helping-sean-feucht-spread-christian-nationalism-in-congress/",
+        "source_type": "archived",
+        "snapshot_date": "2025-11-07"
+      },
+      {
+        "address": "moneym@religionnews.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Money Meet Meaning",
+        "person_title": "Ceo",
+        "source_url": "https://religionnews.com/2024/07/08/the-washington-insiders-helping-sean-feucht-spread-christian-nationalism-in-congress/",
+        "source_type": "archived",
+        "snapshot_date": "2025-11-07"
+      },
+      {
+        "address": "rouge@religionnews.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Baton Rouge",
+        "person_title": "Ceo",
+        "source_url": "https://religionnews.com/2024/07/08/the-washington-insiders-helping-sean-feucht-spread-christian-nationalism-in-congress/",
+        "source_type": "archived",
+        "snapshot_date": "2025-11-07"
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://religionnews.com/2024/07/08/the-washington-insiders-helping-sean-feucht-spread-christian-nationalism-in-congress/",
+        "page_type": "support",
+        "source_type": "archived",
+        "snapshot_date": "2025-11-07"
+      },
+      {
+        "url": "https://religionnews.com/press-release/",
+        "page_type": "press",
+        "source_type": "archived",
+        "snapshot_date": "2026-09-23"
+      },
+      {
+        "url": "https://religionnews.com/about-rns",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2026-10-17"
+      },
+      {
+        "url": "https://religionnews.com/wp-content/uploads/2024/12/2025_RNS_Media_Kit4.pdf",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://religionnews.com/about/privacy-policy/",
+        "page_type": "about",
+        "source_type": "archived",
+        "snapshot_date": "2026-09-23"
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "WASHINGTON (RNS) \u2014 'It is time in America that we take back territory,' Sean Feucht said in a video promoting his efforts to build a base on Capitol Hill.",
+    "source_urls": [
+      "https://religionnews.com/press-release/",
+      "https://religionnews.com/about-rns",
+      "https://religionnews.com/about/privacy-policy/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 18
+  }
+]
