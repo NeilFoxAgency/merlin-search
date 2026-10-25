@@ -1,0 +1,3425 @@
+[
+  {
+    "company_domain": "subscribestar.art",
+    "company_name": "@personalias.bsky.social - I am proud to announce that with Illusional Part 6 now posted, this makes 26 straight weeks- six whole months- of me posting weekly content!",
+    "website": "http://subscribestar.art/personalias",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "robots_disallowed",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "delish.com",
+    "company_name": "@themikeel.bsky.social - I made this last night for Souper Sunday and it was fantastic. I\u2019d add potatoes and corn in the future. www.delish.com/cooking/reci...",
+    "website": "https://www.delish.com/cooking/recipe-ideas/a40359515/jalapeno-popper-chicken-soup-recipe/",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Delish Membership Support",
+        "title": null,
+        "email": "membersupport@delish.com",
+        "source_url": "https://www.delish.com/cooking/recipe-ideas/a40359515/jalapeno-popper-chicken-soup-recipe/"
+      }
+    ],
+    "people": [
+      {
+        "name": "Delish Membership Support",
+        "title": null,
+        "email": "membersupport@delish.com",
+        "source_url": "https://www.delish.com/cooking/recipe-ideas/a40359515/jalapeno-popper-chicken-soup-recipe/"
+      }
+    ],
+    "emails": [
+      {
+        "address": "membersupport@delish.com",
+        "confidence": "highest",
+        "source_url": "https://www.delish.com/cooking/recipe-ideas/a40359515/jalapeno-popper-chicken-soup-recipe/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "spencer@delish.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Taylor Ann Spencer",
+        "person_title": null,
+        "source_url": "https://www.delish.com/cooking/recipe-ideas/a40359515/jalapeno-popper-chicken-soup-recipe/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "t.spencer@delish.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Taylor Ann Spencer",
+        "person_title": null,
+        "source_url": "https://www.delish.com/cooking/recipe-ideas/a40359515/jalapeno-popper-chicken-soup-recipe/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "taylor.spencer@delish.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Taylor Ann Spencer",
+        "person_title": null,
+        "source_url": "https://www.delish.com/cooking/recipe-ideas/a40359515/jalapeno-popper-chicken-soup-recipe/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "taylor@delish.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Taylor Ann Spencer",
+        "person_title": null,
+        "source_url": "https://www.delish.com/cooking/recipe-ideas/a40359515/jalapeno-popper-chicken-soup-recipe/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "taylor_spencer@delish.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Taylor Ann Spencer",
+        "person_title": null,
+        "source_url": "https://www.delish.com/cooking/recipe-ideas/a40359515/jalapeno-popper-chicken-soup-recipe/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "taylors@delish.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Taylor Ann Spencer",
+        "person_title": null,
+        "source_url": "https://www.delish.com/cooking/recipe-ideas/a40359515/jalapeno-popper-chicken-soup-recipe/",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.delish.com/cooking/recipe-ideas/a40359515/jalapeno-popper-chicken-soup-recipe/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.delish.com/cooking/recipe-ideas/a40359515/jalapeno-popper-chicken-soup-recipe/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.delish.com/cooking/recipe-ideas/a40359515/jalapeno-popper-chicken-soup-recipe/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.delish.com/cooking/recipe-ideas/a40359515/jalapeno-popper-chicken-soup-recipe/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.delish.com/cooking/recipe-ideas/a40359515/jalapeno-popper-chicken-soup-recipe/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.delish.com/cooking/recipe-ideas/a40359515/jalapeno-popper-chicken-soup-recipe/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.delish.com/cooking/recipe-ideas/a40359515/jalapeno-popper-chicken-soup-recipe/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.delish.com/about/a26446372/about-us-contact-information-team-masthead/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Loaded with shredded chicken, cheddar cheese, and crispy bacon, Jalape\u00f1o Popper Chicken Soup has everything we love most about the classic appetizer.",
+    "source_urls": [
+      "https://www.delish.com/cooking/recipe-ideas/a40359515/jalapeno-popper-chicken-soup-recipe/",
+      "https://www.delish.com/cooking/recipe-ideas/a40359515/jalapeno-popper-chicken-soup-recipe/contact",
+      "https://www.delish.com/cooking/recipe-ideas/a40359515/jalapeno-popper-chicken-soup-recipe/contact-us",
+      "https://www.delish.com/cooking/recipe-ideas/a40359515/jalapeno-popper-chicken-soup-recipe/contactus",
+      "https://www.delish.com/cooking/recipe-ideas/a40359515/jalapeno-popper-chicken-soup-recipe/about",
+      "https://www.delish.com/cooking/recipe-ideas/a40359515/jalapeno-popper-chicken-soup-recipe/about-us",
+      "https://www.delish.com/cooking/recipe-ideas/a40359515/jalapeno-popper-chicken-soup-recipe/team",
+      "https://www.delish.com/about/a26446372/about-us-contact-information-team-masthead/"
+    ],
+    "reason": null,
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "everythingtottenhamhotspur.com",
+    "company_name": "@everythingthfc.bsky.social - Tottenham vs Coventry LIVE - Goal and score updates, confirmed team news, live stream details #THFC everythingtottenhamhotspur.com/?a=316",
+    "website": "https://everythingtottenhamhotspur.com/?a=316",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://everythingtottenhamhotspur.com/?a=316",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://everythingtottenhamhotspur.com/?page=about",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "We're live from the Tottenham Hotspur Stadium as Roberto De Zerbi's team take on Frank Lampard's Sky Blues in the Premier League on Monday",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "developer.android.com",
+    "company_name": "@nicolaounicos.bsky.social - \ud83d\ude80 Android Dev Summit is back on October 28! Mark your calendar, tune in to the live keynote, and discover what\u2019s next for Android developers",
+    "website": "https://developer.android.com/events/dev-summit",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://developer.android.com/events/dev-summit",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://developer.android.com/media",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://developer.android.com/about/versions/17",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://developer.android.com/about/versions/16",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://developer.android.com/about/versions/15",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://developer.android.com/about/versions/14",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://developer.android.com/about/versions/13",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://developer.android.com/about/versions/12",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "We're back! Tune in October 28 for a live keynote. Learn about new products and features for developers across the Android ecosystem.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 16
+  },
+  {
+    "company_domain": "streamitter.com",
+    "company_name": "@time2chillradio.bsky.social - Time 2 Chill Radio, Now available on streamitter. Check out the link below #Chillout #lounge #Downtempo #EDM #housemusic streamitter.com/sta",
+    "website": "https://streamitter.com/station/time-2-chill-radio",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://streamitter.com/station/time-2-chill-radio",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://streamitter.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://streamitter.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://streamitter.com/contact",
+        "action": "https://streamitter.com/contact",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Stream Time 2 Chill Radio live online. Tune in to the best radio station from United Kingdom featuring live music, news, and talk radio for free on Streamitter.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 11
+  },
+  {
+    "company_domain": "newyork.winstonwachter.com",
+    "company_name": "@mattficke.bsky.social - He has a gallery show in NYC at Winston Wachter that\u2019s up until Oct 31, you should check it out if you\u2019re in the area: newyork.winstonwachte",
+    "website": "https://newyork.winstonwachter.com/exhibitions/eric-uhlir-the-long-light/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://newyork.winstonwachter.com/exhibitions/eric-uhlir-the-long-light/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://newyork.winstonwachter.com/exhibitions/eric-uhlir-the-long-light/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://newyork.winstonwachter.com/exhibitions/eric-uhlir-the-long-light/",
+        "action": "/exhibitions/eric-uhlir-the-long-light/#wpcf7-f2169-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://newyork.winstonwachter.com/exhibitions/eric-uhlir-the-long-light/about",
+        "action": "/publications/about-1789/#wpcf7-f2169-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "See the complete list of our past, present, and upcoming New York art exhibitions",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "votesolar.org",
+    "company_name": "@votesolar.bsky.social - We\u2019re excited to announce that Sean Garren DeKrey, our Chief Programs Officer will become Vote Solar\u2019s next Executive Director at the end of",
+    "website": "https://votesolar.org/vote-solar-announces-sean-garren-dekrey-as-next-executive-director-building-on-25-years-of-momentum/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "elozano@votesolar.org",
+        "confidence": "highest",
+        "source_url": "https://votesolar.org/vote-solar-announces-sean-garren-dekrey-as-next-executive-director-building-on-25-years-of-momentum/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "al inquiries to info@votesolar.org . Media inquiries to elozano@votesolar.org . Donation Inquiries Our small but mighty team is advan"
+      },
+      {
+        "address": "info@votesolar.org",
+        "confidence": "highest",
+        "source_url": "https://votesolar.org/vote-solar-announces-sean-garren-dekrey-as-next-executive-director-building-on-25-years-of-momentum/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "& Media Inquiries Please direct all general inquiries to info@votesolar.org . Media inquiries to elozano@votesolar.org . Donation"
+      },
+      {
+        "address": "meghan@votesolar.org",
+        "confidence": "highest",
+        "source_url": "https://votesolar.org/vote-solar-announces-sean-garren-dekrey-as-next-executive-director-building-on-25-years-of-momentum/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "philanthropy@votesolar.org",
+        "confidence": "highest",
+        "source_url": "https://votesolar.org/vote-solar-announces-sean-garren-dekrey-as-next-executive-director-building-on-25-years-of-momentum/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ike to update your giving information, please reach out to philanthropy@votesolar.org . If you have a question about making a donation or would"
+      },
+      {
+        "address": "donna@votesolar.org",
+        "confidence": "high",
+        "source_url": "https://votesolar.org/vote-solar-announces-sean-garren-dekrey-as-next-executive-director-building-on-25-years-of-momentum/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ing your giving information, please contact Donna Adler at donna@votesolar.org . You may also fill out the form below. L"
+      }
+    ],
+    "role_emails": [
+      "donna@votesolar.org",
+      "elozano@votesolar.org",
+      "info@votesolar.org",
+      "meghan@votesolar.org",
+      "philanthropy@votesolar.org"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://votesolar.org/vote-solar-announces-sean-garren-dekrey-as-next-executive-director-building-on-25-years-of-momentum/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://votesolar.org/vote-solar-announces-sean-garren-dekrey-as-next-executive-director-building-on-25-years-of-momentum/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://votesolar.org/vote-solar-announces-sean-garren-dekrey-as-next-executive-director-building-on-25-years-of-momentum/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://votesolar.org/vote-solar-announces-sean-garren-dekrey-as-next-executive-director-building-on-25-years-of-momentum/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://votesolar.org/vote-solar-announces-sean-garren-dekrey-as-next-executive-director-building-on-25-years-of-momentum/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://votesolar.org/about-us/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://votesolar.org/contact-us/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Leadership transition reflects Vote Solar\u2019s strong foundation, clear strategy, and commitment to expanding affordable local solar nationwide Vote Solar, a leading nonprofit organization advancing bold, state-based policy and regulatory solutions to make solar power more accessible, today announced t",
+    "source_urls": [
+      "https://votesolar.org/vote-solar-announces-sean-garren-dekrey-as-next-executive-director-building-on-25-years-of-momentum/contact",
+      "https://votesolar.org/vote-solar-announces-sean-garren-dekrey-as-next-executive-director-building-on-25-years-of-momentum/contact-us",
+      "https://votesolar.org/contact-us/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "en.wikipedia.org",
+    "company_name": "@aistock.bsky.social - $SPCX The cross-asset thesis people miss: $SPCX and $TSLA co-move on Starship news \u2014 the scanner now maps the correlation daily. \u2014 space tap",
+    "website": "https://en.wikipedia.org/wiki/SpaceX",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "april@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "On April",
+        "person_title": "President",
+        "source_url": "https://en.wikipedia.org/wiki/XAI_(company)",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "b.co@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Boring Co",
+        "person_title": "Owner",
+        "source_url": "https://en.wikipedia.org/wiki/The_Boring_Company",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "boring.co@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Boring Co",
+        "person_title": "Owner",
+        "source_url": "https://en.wikipedia.org/wiki/The_Boring_Company",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "boring@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Boring Co",
+        "person_title": "Owner",
+        "source_url": "https://en.wikipedia.org/wiki/The_Boring_Company",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "boring_co@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Boring Co",
+        "person_title": "Owner",
+        "source_url": "https://en.wikipedia.org/wiki/The_Boring_Company",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "boringc@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Boring Co",
+        "person_title": "Owner",
+        "source_url": "https://en.wikipedia.org/wiki/The_Boring_Company",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "co@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Boring Co",
+        "person_title": "Owner",
+        "source_url": "https://en.wikipedia.org/wiki/The_Boring_Company",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "committee@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Investment Committee",
+        "person_title": "Ceo",
+        "source_url": "https://en.wikipedia.org/wiki/SpaceX",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "company@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Boring Company",
+        "person_title": "Founder",
+        "source_url": "https://en.wikipedia.org/wiki/The_Boring_Company",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "d.harrison@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Donald Harrison",
+        "person_title": "President",
+        "source_url": "https://en.wikipedia.org/wiki/SpaceX",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "davis@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Steve Davis",
+        "person_title": "President",
+        "source_url": "https://en.wikipedia.org/wiki/The_Boring_Company",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "donald.harrison@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Donald Harrison",
+        "person_title": "President",
+        "source_url": "https://en.wikipedia.org/wiki/SpaceX",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "donald@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Donald Harrison",
+        "person_title": "President",
+        "source_url": "https://en.wikipedia.org/wiki/SpaceX",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "donald_harrison@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Donald Harrison",
+        "person_title": "President",
+        "source_url": "https://en.wikipedia.org/wiki/SpaceX",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "donaldh@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Donald Harrison",
+        "person_title": "President",
+        "source_url": "https://en.wikipedia.org/wiki/SpaceX",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "dragons@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Private Space Dragons",
+        "person_title": "Ceo",
+        "source_url": "https://en.wikipedia.org/wiki/SpaceX",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "e.musk@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Elon Musk",
+        "person_title": "Ceo",
+        "source_url": "https://en.wikipedia.org/wiki/SpaceX",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ehrenpreis@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ira Ehrenpreis",
+        "person_title": "Founder",
+        "source_url": "https://en.wikipedia.org/wiki/SpaceX",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "elon.musk@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Elon Musk",
+        "person_title": "Ceo",
+        "source_url": "https://en.wikipedia.org/wiki/SpaceX",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "elon@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Elon Musk",
+        "person_title": "Ceo",
+        "source_url": "https://en.wikipedia.org/wiki/SpaceX",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "elon_musk@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Elon Musk",
+        "person_title": "Ceo",
+        "source_url": "https://en.wikipedia.org/wiki/SpaceX",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "elonm@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Elon Musk",
+        "person_title": "Ceo",
+        "source_url": "https://en.wikipedia.org/wiki/SpaceX",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "f.fund@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Founders Fund",
+        "person_title": "Co-Founder",
+        "source_url": "https://en.wikipedia.org/wiki/SpaceX",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "f.ventures@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Future Ventures",
+        "person_title": "Co-Founder",
+        "source_url": "https://en.wikipedia.org/wiki/SpaceX",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "founders.fund@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Founders Fund",
+        "person_title": "Co-Founder",
+        "source_url": "https://en.wikipedia.org/wiki/SpaceX",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "founders@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Founders Fund",
+        "person_title": "Co-Founder",
+        "source_url": "https://en.wikipedia.org/wiki/SpaceX",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "founders_fund@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Founders Fund",
+        "person_title": "Co-Founder",
+        "source_url": "https://en.wikipedia.org/wiki/SpaceX",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "foundersf@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Founders Fund",
+        "person_title": "Co-Founder",
+        "source_url": "https://en.wikipedia.org/wiki/SpaceX",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "fund@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Founders Fund",
+        "person_title": "Co-Founder",
+        "source_url": "https://en.wikipedia.org/wiki/SpaceX",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "future.ventures@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Future Ventures",
+        "person_title": "Co-Founder",
+        "source_url": "https://en.wikipedia.org/wiki/SpaceX",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "future@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Future Ventures",
+        "person_title": "Co-Founder",
+        "source_url": "https://en.wikipedia.org/wiki/SpaceX",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "future_ventures@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Future Ventures",
+        "person_title": "Co-Founder",
+        "source_url": "https://en.wikipedia.org/wiki/SpaceX",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "futurev@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Future Ventures",
+        "person_title": "Co-Founder",
+        "source_url": "https://en.wikipedia.org/wiki/SpaceX",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "g.shotwell@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Gwynne Shotwell",
+        "person_title": "President",
+        "source_url": "https://en.wikipedia.org/wiki/SpaceX",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "g.zhang@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Guodong Zhang",
+        "person_title": "Co-Founder",
+        "source_url": "https://en.wikipedia.org/wiki/XAI_(company)",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "gigafactory@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Texas Gigafactory",
+        "person_title": "President",
+        "source_url": "https://en.wikipedia.org/wiki/The_Boring_Company",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "glein@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Randy Glein",
+        "person_title": "Co-Founder",
+        "source_url": "https://en.wikipedia.org/wiki/SpaceX",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "guodong.zhang@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Guodong Zhang",
+        "person_title": "Co-Founder",
+        "source_url": "https://en.wikipedia.org/wiki/XAI_(company)",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "guodong@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Guodong Zhang",
+        "person_title": "Co-Founder",
+        "source_url": "https://en.wikipedia.org/wiki/XAI_(company)",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "guodong_zhang@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Guodong Zhang",
+        "person_title": "Co-Founder",
+        "source_url": "https://en.wikipedia.org/wiki/XAI_(company)",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "guodongz@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Guodong Zhang",
+        "person_title": "Co-Founder",
+        "source_url": "https://en.wikipedia.org/wiki/XAI_(company)",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "gwynne.shotwell@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Gwynne Shotwell",
+        "person_title": "President",
+        "source_url": "https://en.wikipedia.org/wiki/SpaceX",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "gwynne@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Gwynne Shotwell",
+        "person_title": "President",
+        "source_url": "https://en.wikipedia.org/wiki/SpaceX",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "gwynne_shotwell@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Gwynne Shotwell",
+        "person_title": "President",
+        "source_url": "https://en.wikipedia.org/wiki/SpaceX",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "gwynnes@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Gwynne Shotwell",
+        "person_title": "President",
+        "source_url": "https://en.wikipedia.org/wiki/SpaceX",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "h.vice@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Hans Koeningsmann Vice",
+        "person_title": "President",
+        "source_url": "https://en.wikipedia.org/wiki/SpaceX",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "hans.vice@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Hans Koeningsmann Vice",
+        "person_title": "President",
+        "source_url": "https://en.wikipedia.org/wiki/SpaceX",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "hans@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Hans Koeningsmann Vice",
+        "person_title": "President",
+        "source_url": "https://en.wikipedia.org/wiki/SpaceX",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "hans_vice@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Hans Koeningsmann Vice",
+        "person_title": "President",
+        "source_url": "https://en.wikipedia.org/wiki/SpaceX",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "hansv@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Hans Koeningsmann Vice",
+        "person_title": "President",
+        "source_url": "https://en.wikipedia.org/wiki/SpaceX",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "harrison@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Donald Harrison",
+        "person_title": "President",
+        "source_url": "https://en.wikipedia.org/wiki/SpaceX",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "i.committee@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Investment Committee",
+        "person_title": "Ceo",
+        "source_url": "https://en.wikipedia.org/wiki/SpaceX",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "i.ehrenpreis@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ira Ehrenpreis",
+        "person_title": "Founder",
+        "source_url": "https://en.wikipedia.org/wiki/SpaceX",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "i.november@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "In November",
+        "person_title": "President",
+        "source_url": "https://en.wikipedia.org/wiki/SpaceX",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "in.november@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "In November",
+        "person_title": "President",
+        "source_url": "https://en.wikipedia.org/wiki/SpaceX",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "in@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "In November",
+        "person_title": "President",
+        "source_url": "https://en.wikipedia.org/wiki/SpaceX",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "in_november@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "In November",
+        "person_title": "President",
+        "source_url": "https://en.wikipedia.org/wiki/SpaceX",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "inn@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "In November",
+        "person_title": "President",
+        "source_url": "https://en.wikipedia.org/wiki/SpaceX",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "investment.committee@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Investment Committee",
+        "person_title": "Ceo",
+        "source_url": "https://en.wikipedia.org/wiki/SpaceX",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "investment@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Investment Committee",
+        "person_title": "Ceo",
+        "source_url": "https://en.wikipedia.org/wiki/SpaceX",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "investment_committee@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Investment Committee",
+        "person_title": "Ceo",
+        "source_url": "https://en.wikipedia.org/wiki/SpaceX",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "investmentc@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Investment Committee",
+        "person_title": "Ceo",
+        "source_url": "https://en.wikipedia.org/wiki/SpaceX",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ira.ehrenpreis@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ira Ehrenpreis",
+        "person_title": "Founder",
+        "source_url": "https://en.wikipedia.org/wiki/SpaceX",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ira@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ira Ehrenpreis",
+        "person_title": "Founder",
+        "source_url": "https://en.wikipedia.org/wiki/SpaceX",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ira_ehrenpreis@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ira Ehrenpreis",
+        "person_title": "Founder",
+        "source_url": "https://en.wikipedia.org/wiki/SpaceX",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "irae@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Ira Ehrenpreis",
+        "person_title": "Founder",
+        "source_url": "https://en.wikipedia.org/wiki/SpaceX",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "l.nosek@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Luke Nosek",
+        "person_title": "Co-Founder",
+        "source_url": "https://en.wikipedia.org/wiki/SpaceX",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "luke.nosek@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Luke Nosek",
+        "person_title": "Co-Founder",
+        "source_url": "https://en.wikipedia.org/wiki/SpaceX",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "luke@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Luke Nosek",
+        "person_title": "Co-Founder",
+        "source_url": "https://en.wikipedia.org/wiki/SpaceX",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "luke_nosek@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Luke Nosek",
+        "person_title": "Co-Founder",
+        "source_url": "https://en.wikipedia.org/wiki/SpaceX",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "luken@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Luke Nosek",
+        "person_title": "Co-Founder",
+        "source_url": "https://en.wikipedia.org/wiki/SpaceX",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "m.nicolls@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Michael Nicolls",
+        "person_title": "President",
+        "source_url": "https://en.wikipedia.org/wiki/XAI_(company)",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "michael.nicolls@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Michael Nicolls",
+        "person_title": "President",
+        "source_url": "https://en.wikipedia.org/wiki/XAI_(company)",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "michael@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Michael Nicolls",
+        "person_title": "President",
+        "source_url": "https://en.wikipedia.org/wiki/XAI_(company)",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "michael_nicolls@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Michael Nicolls",
+        "person_title": "President",
+        "source_url": "https://en.wikipedia.org/wiki/XAI_(company)",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "michaeln@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Michael Nicolls",
+        "person_title": "President",
+        "source_url": "https://en.wikipedia.org/wiki/XAI_(company)",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "musk@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Elon Musk",
+        "person_title": "Ceo",
+        "source_url": "https://en.wikipedia.org/wiki/SpaceX",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "nicolls@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Michael Nicolls",
+        "person_title": "President",
+        "source_url": "https://en.wikipedia.org/wiki/XAI_(company)",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "nosek@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Luke Nosek",
+        "person_title": "Co-Founder",
+        "source_url": "https://en.wikipedia.org/wiki/SpaceX",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "november@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "In November",
+        "person_title": "President",
+        "source_url": "https://en.wikipedia.org/wiki/SpaceX",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "o.april@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "On April",
+        "person_title": "President",
+        "source_url": "https://en.wikipedia.org/wiki/XAI_(company)",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "o.october@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "On October",
+        "person_title": "President",
+        "source_url": "https://en.wikipedia.org/wiki/XAI_(company)",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "october@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "On October",
+        "person_title": "President",
+        "source_url": "https://en.wikipedia.org/wiki/XAI_(company)",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "on.april@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "On April",
+        "person_title": "President",
+        "source_url": "https://en.wikipedia.org/wiki/XAI_(company)",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "on.october@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "On October",
+        "person_title": "President",
+        "source_url": "https://en.wikipedia.org/wiki/XAI_(company)",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "on@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "On April",
+        "person_title": "President",
+        "source_url": "https://en.wikipedia.org/wiki/XAI_(company)",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "on_april@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "On April",
+        "person_title": "President",
+        "source_url": "https://en.wikipedia.org/wiki/XAI_(company)",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "on_october@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "On October",
+        "person_title": "President",
+        "source_url": "https://en.wikipedia.org/wiki/XAI_(company)",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ona@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "On April",
+        "person_title": "President",
+        "source_url": "https://en.wikipedia.org/wiki/XAI_(company)",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ono@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "On October",
+        "person_title": "President",
+        "source_url": "https://en.wikipedia.org/wiki/XAI_(company)",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "p.dragons@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Private Space Dragons",
+        "person_title": "Ceo",
+        "source_url": "https://en.wikipedia.org/wiki/SpaceX",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "private.dragons@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Private Space Dragons",
+        "person_title": "Ceo",
+        "source_url": "https://en.wikipedia.org/wiki/SpaceX",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "private@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Private Space Dragons",
+        "person_title": "Ceo",
+        "source_url": "https://en.wikipedia.org/wiki/SpaceX",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "private_dragons@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Private Space Dragons",
+        "person_title": "Ceo",
+        "source_url": "https://en.wikipedia.org/wiki/SpaceX",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "privated@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Private Space Dragons",
+        "person_title": "Ceo",
+        "source_url": "https://en.wikipedia.org/wiki/SpaceX",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "r.glein@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Randy Glein",
+        "person_title": "Co-Founder",
+        "source_url": "https://en.wikipedia.org/wiki/SpaceX",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "randy.glein@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Randy Glein",
+        "person_title": "Co-Founder",
+        "source_url": "https://en.wikipedia.org/wiki/SpaceX",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "randy@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Randy Glein",
+        "person_title": "Co-Founder",
+        "source_url": "https://en.wikipedia.org/wiki/SpaceX",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "randy_glein@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Randy Glein",
+        "person_title": "Co-Founder",
+        "source_url": "https://en.wikipedia.org/wiki/SpaceX",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "randyg@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Randy Glein",
+        "person_title": "Co-Founder",
+        "source_url": "https://en.wikipedia.org/wiki/SpaceX",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.davis@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Steve Davis",
+        "person_title": "President",
+        "source_url": "https://en.wikipedia.org/wiki/The_Boring_Company",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.future@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Shaping Our Future",
+        "person_title": "Ceo",
+        "source_url": "https://en.wikipedia.org/wiki/SpaceX",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.gwynne@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Statement Of Gwynne",
+        "person_title": "President",
+        "source_url": "https://en.wikipedia.org/wiki/SpaceX",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "senior@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tim Hughes Senior",
+        "person_title": "President",
+        "source_url": "https://en.wikipedia.org/wiki/SpaceX",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "shaping.future@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Shaping Our Future",
+        "person_title": "Ceo",
+        "source_url": "https://en.wikipedia.org/wiki/SpaceX",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "shaping@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Shaping Our Future",
+        "person_title": "Ceo",
+        "source_url": "https://en.wikipedia.org/wiki/SpaceX",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "shaping_future@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Shaping Our Future",
+        "person_title": "Ceo",
+        "source_url": "https://en.wikipedia.org/wiki/SpaceX",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "shapingf@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Shaping Our Future",
+        "person_title": "Ceo",
+        "source_url": "https://en.wikipedia.org/wiki/SpaceX",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "shotwell@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Gwynne Shotwell",
+        "person_title": "President",
+        "source_url": "https://en.wikipedia.org/wiki/SpaceX",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "statement.gwynne@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Statement Of Gwynne",
+        "person_title": "President",
+        "source_url": "https://en.wikipedia.org/wiki/SpaceX",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "statement@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Statement Of Gwynne",
+        "person_title": "President",
+        "source_url": "https://en.wikipedia.org/wiki/SpaceX",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "statement_gwynne@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Statement Of Gwynne",
+        "person_title": "President",
+        "source_url": "https://en.wikipedia.org/wiki/SpaceX",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "statementg@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Statement Of Gwynne",
+        "person_title": "President",
+        "source_url": "https://en.wikipedia.org/wiki/SpaceX",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "steve.davis@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Steve Davis",
+        "person_title": "President",
+        "source_url": "https://en.wikipedia.org/wiki/The_Boring_Company",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "steve@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Steve Davis",
+        "person_title": "President",
+        "source_url": "https://en.wikipedia.org/wiki/The_Boring_Company",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "steve_davis@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Steve Davis",
+        "person_title": "President",
+        "source_url": "https://en.wikipedia.org/wiki/The_Boring_Company",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "steved@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Steve Davis",
+        "person_title": "President",
+        "source_url": "https://en.wikipedia.org/wiki/The_Boring_Company",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "t.company@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Boring Company",
+        "person_title": "Founder",
+        "source_url": "https://en.wikipedia.org/wiki/The_Boring_Company",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "t.gigafactory@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Texas Gigafactory",
+        "person_title": "President",
+        "source_url": "https://en.wikipedia.org/wiki/The_Boring_Company",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "t.senior@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tim Hughes Senior",
+        "person_title": "President",
+        "source_url": "https://en.wikipedia.org/wiki/SpaceX",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "texas.gigafactory@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Texas Gigafactory",
+        "person_title": "President",
+        "source_url": "https://en.wikipedia.org/wiki/The_Boring_Company",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "texas@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Texas Gigafactory",
+        "person_title": "President",
+        "source_url": "https://en.wikipedia.org/wiki/The_Boring_Company",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "texas_gigafactory@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Texas Gigafactory",
+        "person_title": "President",
+        "source_url": "https://en.wikipedia.org/wiki/The_Boring_Company",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "texasg@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Texas Gigafactory",
+        "person_title": "President",
+        "source_url": "https://en.wikipedia.org/wiki/The_Boring_Company",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "the.company@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Boring Company",
+        "person_title": "Founder",
+        "source_url": "https://en.wikipedia.org/wiki/The_Boring_Company",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "the@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Boring Company",
+        "person_title": "Founder",
+        "source_url": "https://en.wikipedia.org/wiki/The_Boring_Company",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "the_company@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Boring Company",
+        "person_title": "Founder",
+        "source_url": "https://en.wikipedia.org/wiki/The_Boring_Company",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "thec@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "The Boring Company",
+        "person_title": "Founder",
+        "source_url": "https://en.wikipedia.org/wiki/The_Boring_Company",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tim.senior@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tim Hughes Senior",
+        "person_title": "President",
+        "source_url": "https://en.wikipedia.org/wiki/SpaceX",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tim@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tim Hughes Senior",
+        "person_title": "President",
+        "source_url": "https://en.wikipedia.org/wiki/SpaceX",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tim_senior@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tim Hughes Senior",
+        "person_title": "President",
+        "source_url": "https://en.wikipedia.org/wiki/SpaceX",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "tims@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Tim Hughes Senior",
+        "person_title": "President",
+        "source_url": "https://en.wikipedia.org/wiki/SpaceX",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "v.zelensky@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Volodymyr Zelensky",
+        "person_title": "President",
+        "source_url": "https://en.wikipedia.org/wiki/SpaceX",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ventures@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Future Ventures",
+        "person_title": "Co-Founder",
+        "source_url": "https://en.wikipedia.org/wiki/SpaceX",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "vice@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Hans Koeningsmann Vice",
+        "person_title": "President",
+        "source_url": "https://en.wikipedia.org/wiki/SpaceX",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "volodymyr.zelensky@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Volodymyr Zelensky",
+        "person_title": "President",
+        "source_url": "https://en.wikipedia.org/wiki/SpaceX",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "volodymyr@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Volodymyr Zelensky",
+        "person_title": "President",
+        "source_url": "https://en.wikipedia.org/wiki/SpaceX",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "volodymyr_zelensky@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Volodymyr Zelensky",
+        "person_title": "President",
+        "source_url": "https://en.wikipedia.org/wiki/SpaceX",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "volodymyrz@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Volodymyr Zelensky",
+        "person_title": "President",
+        "source_url": "https://en.wikipedia.org/wiki/SpaceX",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "zelensky@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Volodymyr Zelensky",
+        "person_title": "President",
+        "source_url": "https://en.wikipedia.org/wiki/SpaceX",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "zhang@en.wikipedia.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Guodong Zhang",
+        "person_title": "Co-Founder",
+        "source_url": "https://en.wikipedia.org/wiki/XAI_(company)",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://en.wikipedia.org/wiki/SpaceX",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Wikipedia:About",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Wikipedia:Contact_us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Public_company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/XAI_(company)",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/The_Boring_Company",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Thud_(media_company)",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://en.wikipedia.org/wiki/Pressure_vessel",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Space Exploration Technologies Corp. , doing business as SpaceX , is an American aerospace manufacturer and provider of space transportation , telecommunications , and artificial intelligence services, headquartered at the Starbase development site in Starbase, Texas . [ 7 ] [ 8 ] The company operat",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 16
+  },
+  {
+    "company_domain": "apple.news",
+    "company_name": "@chakalkar.bsky.social - apple.news/AXppuATw_R2G... You know you\u2019re a complete bitch when you can\u2019t even fake saying something critical of Putin. Trump can\u2019t even ca",
+    "website": "https://apple.news/AXppuATw_R2Gj7KM4NPstkA",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://apple.news/AXppuATw_R2Gj7KM4NPstkA",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Ukrainian President Volodymyr Zelenskyy says Russia launched ballistic missiles and drones to attack Ukraine's energy infrastructure again.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "codrlabs.com",
+    "company_name": "@codrlabs.com - Launch day is day one, not the finish line. Users find the bugs, platforms update, the next feature is overdue. Software Care keeps your pro",
+    "website": "https://codrlabs.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@codrlabs.com",
+        "confidence": "highest",
+        "source_url": "https://codrlabs.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "back to you as soon as possible. Prefer email or a call? hello@codrlabs.com \u00b7 (587) 487-0049 FAQ We are usually asked about Can't fin"
+      }
+    ],
+    "role_emails": [
+      "hello@codrlabs.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "bendahou@codrlabs.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Eve Bendahou",
+        "person_title": "Founder",
+        "source_url": "https://codrlabs.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "e.bendahou@codrlabs.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Eve Bendahou",
+        "person_title": "Founder",
+        "source_url": "https://codrlabs.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "eve.bendahou@codrlabs.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Eve Bendahou",
+        "person_title": "Founder",
+        "source_url": "https://codrlabs.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "eve@codrlabs.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Eve Bendahou",
+        "person_title": "Founder",
+        "source_url": "https://codrlabs.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "eve_bendahou@codrlabs.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Eve Bendahou",
+        "person_title": "Founder",
+        "source_url": "https://codrlabs.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "eveb@codrlabs.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Eve Bendahou",
+        "person_title": "Founder",
+        "source_url": "https://codrlabs.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "group@codrlabs.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Pangea Growers Group",
+        "person_title": "Owner",
+        "source_url": "https://codrlabs.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "j.strauss@codrlabs.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jennifer Strauss",
+        "person_title": "Owner",
+        "source_url": "https://codrlabs.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jennifer.strauss@codrlabs.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jennifer Strauss",
+        "person_title": "Owner",
+        "source_url": "https://codrlabs.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jennifer@codrlabs.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jennifer Strauss",
+        "person_title": "Owner",
+        "source_url": "https://codrlabs.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jennifer_strauss@codrlabs.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jennifer Strauss",
+        "person_title": "Owner",
+        "source_url": "https://codrlabs.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jennifers@codrlabs.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jennifer Strauss",
+        "person_title": "Owner",
+        "source_url": "https://codrlabs.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "p.group@codrlabs.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Pangea Growers Group",
+        "person_title": "Owner",
+        "source_url": "https://codrlabs.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "pangea.group@codrlabs.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Pangea Growers Group",
+        "person_title": "Owner",
+        "source_url": "https://codrlabs.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "pangea@codrlabs.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Pangea Growers Group",
+        "person_title": "Owner",
+        "source_url": "https://codrlabs.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "pangea_group@codrlabs.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Pangea Growers Group",
+        "person_title": "Owner",
+        "source_url": "https://codrlabs.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "pangeag@codrlabs.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Pangea Growers Group",
+        "person_title": "Owner",
+        "source_url": "https://codrlabs.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "strauss@codrlabs.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jennifer Strauss",
+        "person_title": "Owner",
+        "source_url": "https://codrlabs.com",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://codrlabs.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://codrlabs.com/#contact",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Transform your business with Codrlabs custom software and web solutions, designed to increase productivity and drive growth.",
+    "source_urls": [
+      "https://codrlabs.com",
+      "https://codrlabs.com/#contact"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "amoreszine.bigcartel.com",
+    "company_name": "@amoreszine.bsky.social - \ud83c\udf6aPRE-ORDERS EXTENDED \ud83c\udf6a We're excited to announce that we are extending pre-orders until October 31st! We've almost reached our last stretch ",
+    "website": "https://amoreszine.bigcartel.com",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "tls_error",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "heyyojojo.com",
+    "company_name": "@heyyojojo.com - Now LIVE! heyyojojo.com",
+    "website": "https://heyyojojo.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://heyyojojo.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://heyyojojo.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://heyyojojo.com/pages/contact",
+        "action": "/contact#ContactForm",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "HeyyoJojo",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "aatrilogyzine.bigcartel.com",
+    "company_name": "@aatrilogyzine.bsky.social - Crossposts will be linked below when they go live. As a reminder, preorders are open now through November 22nd. Thank you for your support o",
+    "website": "https://aatrilogyzine.bigcartel.com/",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "tls_error",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "rvz.la",
+    "company_name": "@revzilla.bsky.social - Is Gen Z carrying the proverbial torch of motorcycling forward or abandoning it for more practical methods of transportation? New episode LI",
+    "website": "https://rvz.la/3UcBHEf",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://rvz.la/3UcBHEf",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rvz.la/3UcBHEf/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rvz.la/3UcBHEf/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rvz.la/3UcBHEf/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rvz.la/3UcBHEf/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rvz.la/3UcBHEf/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rvz.la/3UcBHEf/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://rvz.la/common-tread/by/19-teamzilla",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "We talk to five Gen Z riders, from Alaska to Singapore, to find out how they got interested in motorcycles and what the future looks like.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 14
+  },
+  {
+    "company_domain": "voteriders.org",
+    "company_name": "@voteriders.bsky.social - We\u2019re excited to launch a \u2728NEW resource\u2728 for voters across the country! Our self-service center offers clear, step-by-step guides for gettin",
+    "website": "https://voteriders.org/guides",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@voteriders.org",
+        "confidence": "medium",
+        "source_url": "https://voteriders.org/guides",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "press@voteriders.org",
+        "confidence": "medium",
+        "source_url": "https://voteriders.org/guides/contact",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@voteriders.org",
+      "press@voteriders.org"
+    ],
+    "email_candidates": [
+      {
+        "address": "carolina@voteriders.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "North Carolina",
+        "person_title": "Ceo",
+        "source_url": "https://voteriders.org/staff/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kunis@voteriders.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lauren Kunis",
+        "person_title": "Ceo",
+        "source_url": "https://voteriders.org/staff/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "l.kunis@voteriders.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lauren Kunis",
+        "person_title": "Ceo",
+        "source_url": "https://voteriders.org/staff/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "lauren.kunis@voteriders.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lauren Kunis",
+        "person_title": "Ceo",
+        "source_url": "https://voteriders.org/staff/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "lauren@voteriders.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lauren Kunis",
+        "person_title": "Ceo",
+        "source_url": "https://voteriders.org/staff/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "lauren_kunis@voteriders.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lauren Kunis",
+        "person_title": "Ceo",
+        "source_url": "https://voteriders.org/staff/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "laurenk@voteriders.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lauren Kunis",
+        "person_title": "Ceo",
+        "source_url": "https://voteriders.org/staff/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "leadership@voteriders.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Staff Leadership",
+        "person_title": "Ceo",
+        "source_url": "https://voteriders.org/staff/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "n.carolina@voteriders.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "North Carolina",
+        "person_title": "Ceo",
+        "source_url": "https://voteriders.org/staff/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "north.carolina@voteriders.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "North Carolina",
+        "person_title": "Ceo",
+        "source_url": "https://voteriders.org/staff/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "north@voteriders.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "North Carolina",
+        "person_title": "Ceo",
+        "source_url": "https://voteriders.org/staff/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "north_carolina@voteriders.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "North Carolina",
+        "person_title": "Ceo",
+        "source_url": "https://voteriders.org/staff/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "northc@voteriders.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "North Carolina",
+        "person_title": "Ceo",
+        "source_url": "https://voteriders.org/staff/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.leadership@voteriders.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Staff Leadership",
+        "person_title": "Ceo",
+        "source_url": "https://voteriders.org/staff/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "staff.leadership@voteriders.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Staff Leadership",
+        "person_title": "Ceo",
+        "source_url": "https://voteriders.org/staff/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "staff@voteriders.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Staff Leadership",
+        "person_title": "Ceo",
+        "source_url": "https://voteriders.org/staff/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "staff_leadership@voteriders.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Staff Leadership",
+        "person_title": "Ceo",
+        "source_url": "https://voteriders.org/staff/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "staffl@voteriders.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Staff Leadership",
+        "person_title": "Ceo",
+        "source_url": "https://voteriders.org/staff/",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://voteriders.org/guides",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://voteriders.org/guides/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://voteriders.org/guides/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://voteriders.org/guides/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://voteriders.org/guides/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://voteriders.org/about/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://voteriders.org/news/press-statement/",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://voteriders.org/staff/",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Eliminating barriers to voting",
+    "source_urls": [
+      "https://voteriders.org/guides",
+      "https://voteriders.org/guides/contact",
+      "https://voteriders.org/guides/contact-us",
+      "https://voteriders.org/guides/about",
+      "https://voteriders.org/guides/team",
+      "https://voteriders.org/about/",
+      "https://voteriders.org/news/press-statement/",
+      "https://voteriders.org/staff/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "guildsofwow.com",
+    "company_name": "@toastgamingwow.bsky.social - We got a new post up on our Guilds of WoW page! Come check it out while enjoying a slice of toast! guildsofwow.com/toastguild/p...",
+    "website": "https://guildsofwow.com/toastguild/post/17199/your-weekly-slice-of-toast",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "challenge_page",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "loops.video",
+    "company_name": "@docpop.mastodon.social.ap.brid.gy - @dansup @loops update, it worked this morning. I left the window open overnight so I could retry it later. I hit the post button and it was ",
+    "website": "https://loops.video/ap/users/79166405735485440",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "challenge_page",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "pomf.tv",
+    "company_name": "@ceilyurei.bsky.social - pomf.tv/stream/CeilY... joystick.tv/u/CeilYurei Lewdtubing soon with Pokemon Legends: Arceus",
+    "website": "https://pomf.tv/stream/CeilYurei",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "http_404",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "gldracing.com",
+    "company_name": "@gldracing.com - Urawa Racing (2026-10-20) GLD Speed Figures & Pace Map Preview is live on GLD Racing. Early R1 GLD Ratings leaders: #4 KORO DEAR (GLD 42) an",
+    "website": "https://www.gldracing.com/ja/articles/2026-10-20-urawa-early-favorites-audit",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Johnny Burke",
+        "title": "Founder",
+        "email": "johnny.burke@gldracing.com",
+        "source_url": "https://www.gldracing.com/ja/articles/2026-10-20-urawa-early-favorites-audit"
+      }
+    ],
+    "people": [
+      {
+        "name": "Johnny Burke",
+        "title": "Founder",
+        "email": "johnny.burke@gldracing.com",
+        "source_url": "https://www.gldracing.com/ja/articles/2026-10-20-urawa-early-favorites-audit"
+      }
+    ],
+    "emails": [
+      {
+        "address": "johnny.burke@gldracing.com",
+        "confidence": "highest",
+        "source_url": "https://www.gldracing.com/ja/articles/2026-10-20-urawa-early-favorites-audit",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ibe. As always, good luck! Johnny Burke Founder, GLD Racing johnny.burke@gldracing.com \u2197 Audit Race 1 Free \u2192 Explore Class Par Benchmarks Ready t"
+      },
+      {
+        "address": "support@gldracing.com",
+        "confidence": "highest",
+        "source_url": "https://www.gldracing.com/ja/articles/2026-10-20-urawa-early-favorites-audit",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "(\u5927\u4e95 /tracks/ohi) /llms.txt Customer Support & Inquiries: support@gldracing.com Hong Kong Jockey Club (HKJC), Japan Racing Association (JRA"
+      }
+    ],
+    "role_emails": [
+      "support@gldracing.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.gldracing.com/ja/articles/2026-10-20-urawa-early-favorites-audit",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.gldracing.com/ja/articles/2026-10-20-urawa-early-favorites-audit/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.gldracing.com/ja/articles/2026-10-20-urawa-early-favorites-audit/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.gldracing.com/ja/articles/2026-10-20-urawa-early-favorites-audit/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.gldracing.com/ja/articles/2026-10-20-urawa-early-favorites-audit/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.gldracing.com/ja/articles/2026-10-20-urawa-early-favorites-audit/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.gldracing.com/ja/articles/2026-10-20-urawa-early-favorites-audit/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Access standardized GLD speed figures, dynamic pace maps, and past performances for Hong Kong, Japan, and Korea. Try Race 1 free on every card.",
+    "source_urls": [
+      "https://www.gldracing.com/ja/articles/2026-10-20-urawa-early-favorites-audit",
+      "https://www.gldracing.com/ja/articles/2026-10-20-urawa-early-favorites-audit/contact",
+      "https://www.gldracing.com/ja/articles/2026-10-20-urawa-early-favorites-audit/contact-us",
+      "https://www.gldracing.com/ja/articles/2026-10-20-urawa-early-favorites-audit/contactus",
+      "https://www.gldracing.com/ja/articles/2026-10-20-urawa-early-favorites-audit/about",
+      "https://www.gldracing.com/ja/articles/2026-10-20-urawa-early-favorites-audit/about-us",
+      "https://www.gldracing.com/ja/articles/2026-10-20-urawa-early-favorites-audit/team"
+    ],
+    "reason": null,
+    "pages_fetched": 7
+  },
+  {
+    "company_domain": "odagawa.com",
+    "company_name": "@truevaultescapades.bsky.social - Artwork by the amazing Ryan Odagawa odagawa.com/index.html?u...",
+    "website": "https://odagawa.com/index.html?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAdGRleAVDFT1leHRuA2FlbQIxMQBwZG9mAmZkaWQWUQmMGIoTwfu5sMiDTm8G8N-VPxuHJ3NydGMGYXBwX2lkDzEyNDAyNDU3NDI4NzQxNAABp6H_JetP9E2afuKVGPLCeG0avoeplQ9tzX3vFJpVsqtWwb4VNCcbQC2lg8AD_aem_WZkSKndX22yOog8flf-1sQ#/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "ryan@odagawa.com",
+        "confidence": "medium",
+        "source_url": "https://odagawa.com/index.html?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAdGRleAVDFT1leHRuA2FlbQIxMQBwZG9mAmZkaWQWUQmMGIoTwfu5sMiDTm8G8N-VPxuHJ3NydGMGYXBwX2lkDzEyNDAyNDU3NDI4NzQxNAABp6H_JetP9E2afuKVGPLCeG0avoeplQ9tzX3vFJpVsqtWwb4VNCcbQC2lg8AD_aem_WZkSKndX22yOog8flf-1sQ#/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "ryan@odagawa.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://odagawa.com/index.html?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAdGRleAVDFT1leHRuA2FlbQIxMQBwZG9mAmZkaWQWUQmMGIoTwfu5sMiDTm8G8N-VPxuHJ3NydGMGYXBwX2lkDzEyNDAyNDU3NDI4NzQxNAABp6H_JetP9E2afuKVGPLCeG0avoeplQ9tzX3vFJpVsqtWwb4VNCcbQC2lg8AD_aem_WZkSKndX22yOog8flf-1sQ#/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://odagawa.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://odagawa.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://odagawa.com/about.html",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://odagawa.com/contact.html",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "ANNOUNCEMENT! I'm excited to announce that TDArt is now my art rep for my Original Art, Commissions, and Sketch Cards. \u2060 For all Art Commission availability, please go here: TDart Commissions For...",
+    "source_urls": [
+      "https://odagawa.com/index.html?utm_source=ig&utm_medium=social&utm_content=link_in_bio&fbclid=PAdGRleAVDFT1leHRuA2FlbQIxMQBwZG9mAmZkaWQWUQmMGIoTwfu5sMiDTm8G8N-VPxuHJ3NydGMGYXBwX2lkDzEyNDAyNDU3NDI4NzQxNAABp6H_JetP9E2afuKVGPLCeG0avoeplQ9tzX3vFJpVsqtWwb4VNCcbQC2lg8AD_aem_WZkSKndX22yOog8flf-1sQ#/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "talkingupscotlandtwo.com",
+    "company_name": "@talking-upscotland.bsky.social - talkingupscotlandtwo.com/2026/10/19/e...",
+    "website": "https://talkingupscotlandtwo.com/2026/10/19/even-with-hands-tied-scotland-fights-the-housing-crisis-better-than-most/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "government@talkingupscotlandtwo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Scottish Government",
+        "person_title": "Owner",
+        "source_url": "https://talkingupscotlandtwo.com/2026/09/11/massive-increases-in-completed-and-started-affordable-housing-as-private-sector-alone-is-responsible-for-the-crisis-that-media-direct-at-snp-government/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "r.scotland@talkingupscotlandtwo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Reporting Scotland",
+        "person_title": "Owner",
+        "source_url": "https://talkingupscotlandtwo.com/2026/10/19/even-with-hands-tied-scotland-fights-the-housing-crisis-better-than-most/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "reporting.scotland@talkingupscotlandtwo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Reporting Scotland",
+        "person_title": "Owner",
+        "source_url": "https://talkingupscotlandtwo.com/2026/10/19/even-with-hands-tied-scotland-fights-the-housing-crisis-better-than-most/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "reporting@talkingupscotlandtwo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Reporting Scotland",
+        "person_title": "Owner",
+        "source_url": "https://talkingupscotlandtwo.com/2026/10/19/even-with-hands-tied-scotland-fights-the-housing-crisis-better-than-most/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "reporting_scotland@talkingupscotlandtwo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Reporting Scotland",
+        "person_title": "Owner",
+        "source_url": "https://talkingupscotlandtwo.com/2026/10/19/even-with-hands-tied-scotland-fights-the-housing-crisis-better-than-most/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "reportings@talkingupscotlandtwo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Reporting Scotland",
+        "person_title": "Owner",
+        "source_url": "https://talkingupscotlandtwo.com/2026/10/19/even-with-hands-tied-scotland-fights-the-housing-crisis-better-than-most/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.government@talkingupscotlandtwo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Scottish Government",
+        "person_title": "Owner",
+        "source_url": "https://talkingupscotlandtwo.com/2026/09/11/massive-increases-in-completed-and-started-affordable-housing-as-private-sector-alone-is-responsible-for-the-crisis-that-media-direct-at-snp-government/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "scotland@talkingupscotlandtwo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Reporting Scotland",
+        "person_title": "Owner",
+        "source_url": "https://talkingupscotlandtwo.com/2026/10/19/even-with-hands-tied-scotland-fights-the-housing-crisis-better-than-most/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "scottish.government@talkingupscotlandtwo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Scottish Government",
+        "person_title": "Owner",
+        "source_url": "https://talkingupscotlandtwo.com/2026/09/11/massive-increases-in-completed-and-started-affordable-housing-as-private-sector-alone-is-responsible-for-the-crisis-that-media-direct-at-snp-government/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "scottish@talkingupscotlandtwo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Scottish Government",
+        "person_title": "Owner",
+        "source_url": "https://talkingupscotlandtwo.com/2026/09/11/massive-increases-in-completed-and-started-affordable-housing-as-private-sector-alone-is-responsible-for-the-crisis-that-media-direct-at-snp-government/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "scottish_government@talkingupscotlandtwo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Scottish Government",
+        "person_title": "Owner",
+        "source_url": "https://talkingupscotlandtwo.com/2026/09/11/massive-increases-in-completed-and-started-affordable-housing-as-private-sector-alone-is-responsible-for-the-crisis-that-media-direct-at-snp-government/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "scottishg@talkingupscotlandtwo.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Scottish Government",
+        "person_title": "Owner",
+        "source_url": "https://talkingupscotlandtwo.com/2026/09/11/massive-increases-in-completed-and-started-affordable-housing-as-private-sector-alone-is-responsible-for-the-crisis-that-media-direct-at-snp-government/",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://talkingupscotlandtwo.com/2026/10/19/even-with-hands-tied-scotland-fights-the-housing-crisis-better-than-most/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://talkingupscotlandtwo.com/2026/10/19/even-with-hands-tied-scotland-fights-the-housing-crisis-better-than-most/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://talkingupscotlandtwo.com/2026/10/19/even-with-hands-tied-scotland-fights-the-housing-crisis-better-than-most/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://talkingupscotlandtwo.com/2026/09/11/massive-increases-in-completed-and-started-affordable-housing-as-private-sector-alone-is-responsible-for-the-crisis-that-media-direct-at-snp-government/",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://talkingupscotlandtwo.com/2026/10/19/even-with-hands-tied-scotland-fights-the-housing-crisis-better-than-most/",
+        "action": "https://talkingupscotlandtwo.com/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://talkingupscotlandtwo.com/2026/10/19/even-with-hands-tied-scotland-fights-the-housing-crisis-better-than-most/",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://talkingupscotlandtwo.com/2026/10/19/even-with-hands-tied-scotland-fights-the-housing-crisis-better-than-most/contact",
+        "action": "https://talkingupscotlandtwo.com/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://talkingupscotlandtwo.com/2026/10/19/even-with-hands-tied-scotland-fights-the-housing-crisis-better-than-most/contact",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://talkingupscotlandtwo.com/2026/10/19/even-with-hands-tied-scotland-fights-the-housing-crisis-better-than-most/about",
+        "action": "https://talkingupscotlandtwo.com/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://talkingupscotlandtwo.com/2026/10/19/even-with-hands-tied-scotland-fights-the-housing-crisis-better-than-most/about",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://talkingupscotlandtwo.com/2026/09/11/massive-increases-in-completed-and-started-affordable-housing-as-private-sector-alone-is-responsible-for-the-crisis-that-media-direct-at-snp-government/",
+        "action": "https://talkingupscotlandtwo.com/wp-comments-post.php",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      },
+      {
+        "page_url": "https://talkingupscotlandtwo.com/2026/09/11/massive-increases-in-completed-and-started-affordable-housing-as-private-sector-alone-is-responsible-for-the-crisis-that-media-direct-at-snp-government/",
+        "action": "",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "https://www.gov.scot/publications/?cat=filter&page=5&sort=date From the Guardian today: The housing crisis is now global. It shows just how undemocratic our nations have become. When we can\u2019t even afford to rent or buy somewhere to live, we have to ask: did we give the financial sector too much powe",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "ovid.com",
+    "company_name": "@oligoclonalband.medsky.social - I am so excited to finally announce the publication of this paper in Neurology. Researching and writing this was an absolute obsession. I'll",
+    "website": "https://www.ovid.com/jnls/neurology/abstract/10.1212/wnl.0000000000218630~more-than-a-daughter-margaret-a-lennox-buchthal-19132001",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.ovid.com/jnls/neurology/abstract/10.1212/wnl.0000000000218630~more-than-a-daughter-margaret-a-lennox-buchthal-19132001",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ovid.com/jnls/neurology/abstract/10.1212/wnl.0000000000218630~more-than-a-daughter-margaret-a-lennox-buchthal-19132001/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ovid.com/jnls/neurology/abstract/10.1212/wnl.0000000000218630~more-than-a-daughter-margaret-a-lennox-buchthal-19132001/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ovid.com/jnls/neurology/abstract/10.1212/wnl.0000000000218630~more-than-a-daughter-margaret-a-lennox-buchthal-19132001/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ovid.com/jnls/neurology/abstract/10.1212/wnl.0000000000218630~more-than-a-daughter-margaret-a-lennox-buchthal-19132001/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ovid.com/jnls/neurology/abstract/10.1212/wnl.0000000000218630~more-than-a-daughter-margaret-a-lennox-buchthal-19132001/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ovid.com/jnls/neurology/abstract/10.1212/wnl.0000000000218630~more-than-a-daughter-margaret-a-lennox-buchthal-19132001/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "In a 2010 book chapter on the pioneering encephalographer Mary A.B. Brazier, PhD (1904\u20131995), a photo of a smiling woman is labeled \u201cMargaret...",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "apnews.com",
+    "company_name": "@nomorex61.bsky.social - Trump has always been Putin\u2019s Trojan Horse. And the GOP just let him do it! #Sheshed apnews.com/article/russ...",
+    "website": "https://apnews.com/article/russia-ukraine-war-kyiv-attack-b041f78e5d037a0f3377b7108eac1dc7",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "http_403",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "gta6fans.xyz",
+    "company_name": "@marcodz77.bsky.social - gta6fans.xyz?r=ClyJ9abi",
+    "website": "https://gta6fans.xyz/?r=ClyJ9abi",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_content_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "carlosalmagro.eu",
+    "company_name": "@carlosalmagro.bsky.social - My professional website is now live: https://carlosalmagro.eu International luxury hotel leadership, pre-openings, operations and consulting",
+    "website": "https://carlosalmagro.eu",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Contact Me",
+        "title": null,
+        "email": "carlosalmagro@carlosalmagro.eu",
+        "source_url": "https://carlosalmagro.eu"
+      }
+    ],
+    "people": [
+      {
+        "name": "Contact Me",
+        "title": null,
+        "email": "carlosalmagro@carlosalmagro.eu",
+        "source_url": "https://carlosalmagro.eu"
+      }
+    ],
+    "emails": [
+      {
+        "address": "carlosalmagro@carlosalmagro.eu",
+        "confidence": "highest",
+        "source_url": "https://carlosalmagro.eu",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "development@carlosalmagro.eu",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "International Development",
+        "person_title": "Business Development",
+        "source_url": "https://carlosalmagro.eu",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "general@carlosalmagro.eu",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Luxury Hotel General",
+        "person_title": "Business Development",
+        "source_url": "https://carlosalmagro.eu",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "i.development@carlosalmagro.eu",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "International Development",
+        "person_title": "Business Development",
+        "source_url": "https://carlosalmagro.eu",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "i.leadership@carlosalmagro.eu",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "International Hotel Leadership",
+        "person_title": "Business Development",
+        "source_url": "https://carlosalmagro.eu",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "international.development@carlosalmagro.eu",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "International Development",
+        "person_title": "Business Development",
+        "source_url": "https://carlosalmagro.eu",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "international.leadership@carlosalmagro.eu",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "International Hotel Leadership",
+        "person_title": "Business Development",
+        "source_url": "https://carlosalmagro.eu",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "international@carlosalmagro.eu",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "International Hotel Leadership",
+        "person_title": "Business Development",
+        "source_url": "https://carlosalmagro.eu",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "international_development@carlosalmagro.eu",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "International Development",
+        "person_title": "Business Development",
+        "source_url": "https://carlosalmagro.eu",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "international_leadership@carlosalmagro.eu",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "International Hotel Leadership",
+        "person_title": "Business Development",
+        "source_url": "https://carlosalmagro.eu",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "internationald@carlosalmagro.eu",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "International Development",
+        "person_title": "Business Development",
+        "source_url": "https://carlosalmagro.eu",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "internationall@carlosalmagro.eu",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "International Hotel Leadership",
+        "person_title": "Business Development",
+        "source_url": "https://carlosalmagro.eu",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "l.general@carlosalmagro.eu",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Luxury Hotel General",
+        "person_title": "Business Development",
+        "source_url": "https://carlosalmagro.eu",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "leadership@carlosalmagro.eu",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "International Hotel Leadership",
+        "person_title": "Business Development",
+        "source_url": "https://carlosalmagro.eu",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "luxury.general@carlosalmagro.eu",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Luxury Hotel General",
+        "person_title": "Business Development",
+        "source_url": "https://carlosalmagro.eu",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "luxury@carlosalmagro.eu",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Luxury Hotel General",
+        "person_title": "Business Development",
+        "source_url": "https://carlosalmagro.eu",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "luxury_general@carlosalmagro.eu",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Luxury Hotel General",
+        "person_title": "Business Development",
+        "source_url": "https://carlosalmagro.eu",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "luxuryg@carlosalmagro.eu",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Luxury Hotel General",
+        "person_title": "Business Development",
+        "source_url": "https://carlosalmagro.eu",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://carlosalmagro.eu",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://carlosalmagro.eu/press-room/",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://carlosalmagro.eu/salle-de-presse/",
+        "page_type": "press",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://carlosalmagro.eu/ai-hospitality-operational-leadership/",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://carlosalmagro.eu/petit-palace-madrid-hotel-openings-leadership/",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Carlos Almagro is a Luxury Hotel General Manager and hospitality consultant specialising in hotel operations, pre-openings and international development",
+    "source_urls": [
+      "https://carlosalmagro.eu"
+    ],
+    "reason": null,
+    "pages_fetched": 11
+  }
+]
