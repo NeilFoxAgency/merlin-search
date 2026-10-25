@@ -1,0 +1,2982 @@
+[
+  {
+    "company_domain": "desperatejournalist.co.uk",
+    "company_name": "@craigatcof.bsky.social - From @despjournalist.bsky.social: Come see us live this year. We're playing headline shows in Brighton, Birmingham, Nottingham, Manchester, ",
+    "website": "https://desperatejournalist.co.uk/#tour",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://desperatejournalist.co.uk/#tour",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://desperatejournalist.co.uk/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://desperatejournalist.co.uk/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://desperatejournalist.co.uk/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://desperatejournalist.co.uk/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://desperatejournalist.co.uk/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://desperatejournalist.co.uk/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Post-punk band from London. New album No Hero out now.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "npr.org",
+    "company_name": "@thetonearm.com - \u201cYou could go to the record store, and if you saw the logo, you\u2019d pick it up, and probably buy the record without even listening to what was",
+    "website": "https://www.npr.org/2026/10/16/nx-s1-6005264/stones-throw-30th-oral-history?ref=thetonearm.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "area@npr.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Bay Area",
+        "person_title": "President",
+        "source_url": "https://www.npr.org/2026/10/16/nx-s1-6005264/stones-throw-30th-oral-history?ref=thetonearm.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "b.area@npr.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Bay Area",
+        "person_title": "President",
+        "source_url": "https://www.npr.org/2026/10/16/nx-s1-6005264/stones-throw-30th-oral-history?ref=thetonearm.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "bay.area@npr.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Bay Area",
+        "person_title": "President",
+        "source_url": "https://www.npr.org/2026/10/16/nx-s1-6005264/stones-throw-30th-oral-history?ref=thetonearm.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "bay@npr.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Bay Area",
+        "person_title": "President",
+        "source_url": "https://www.npr.org/2026/10/16/nx-s1-6005264/stones-throw-30th-oral-history?ref=thetonearm.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "bay_area@npr.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Bay Area",
+        "person_title": "President",
+        "source_url": "https://www.npr.org/2026/10/16/nx-s1-6005264/stones-throw-30th-oral-history?ref=thetonearm.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "baya@npr.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Bay Area",
+        "person_title": "President",
+        "source_url": "https://www.npr.org/2026/10/16/nx-s1-6005264/stones-throw-30th-oral-history?ref=thetonearm.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "p.wolf@npr.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Peanut Butter Wolf",
+        "person_title": "Founder",
+        "source_url": "https://www.npr.org/2026/10/16/nx-s1-6005264/stones-throw-30th-oral-history?ref=thetonearm.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "peanut.wolf@npr.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Peanut Butter Wolf",
+        "person_title": "Founder",
+        "source_url": "https://www.npr.org/2026/10/16/nx-s1-6005264/stones-throw-30th-oral-history?ref=thetonearm.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "peanut@npr.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Peanut Butter Wolf",
+        "person_title": "Founder",
+        "source_url": "https://www.npr.org/2026/10/16/nx-s1-6005264/stones-throw-30th-oral-history?ref=thetonearm.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "peanut_wolf@npr.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Peanut Butter Wolf",
+        "person_title": "Founder",
+        "source_url": "https://www.npr.org/2026/10/16/nx-s1-6005264/stones-throw-30th-oral-history?ref=thetonearm.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "peanutw@npr.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Peanut Butter Wolf",
+        "person_title": "Founder",
+        "source_url": "https://www.npr.org/2026/10/16/nx-s1-6005264/stones-throw-30th-oral-history?ref=thetonearm.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "pearce@npr.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sheldon Pearce",
+        "person_title": null,
+        "source_url": "https://www.npr.org/2026/10/16/nx-s1-6005264/stones-throw-30th-oral-history?ref=thetonearm.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "s.pearce@npr.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sheldon Pearce",
+        "person_title": null,
+        "source_url": "https://www.npr.org/2026/10/16/nx-s1-6005264/stones-throw-30th-oral-history?ref=thetonearm.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sheldon.pearce@npr.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sheldon Pearce",
+        "person_title": null,
+        "source_url": "https://www.npr.org/2026/10/16/nx-s1-6005264/stones-throw-30th-oral-history?ref=thetonearm.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sheldon@npr.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sheldon Pearce",
+        "person_title": null,
+        "source_url": "https://www.npr.org/2026/10/16/nx-s1-6005264/stones-throw-30th-oral-history?ref=thetonearm.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sheldon_pearce@npr.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sheldon Pearce",
+        "person_title": null,
+        "source_url": "https://www.npr.org/2026/10/16/nx-s1-6005264/stones-throw-30th-oral-history?ref=thetonearm.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sheldonp@npr.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Sheldon Pearce",
+        "person_title": null,
+        "source_url": "https://www.npr.org/2026/10/16/nx-s1-6005264/stones-throw-30th-oral-history?ref=thetonearm.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "wolf@npr.org",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Peanut Butter Wolf",
+        "person_title": "Founder",
+        "source_url": "https://www.npr.org/2026/10/16/nx-s1-6005264/stones-throw-30th-oral-history?ref=thetonearm.com",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.npr.org/2026/10/16/nx-s1-6005264/stones-throw-30th-oral-history?ref=thetonearm.com",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.npr.org/2026/10/16/nx-s1-6005264/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.npr.org/2026/10/16/nx-s1-6005264/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.npr.org/2026/10/16/nx-s1-6005264/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.npr.org/2026/10/16/nx-s1-6005264/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.npr.org/2026/10/16/nx-s1-6005264/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.npr.org/2026/10/16/nx-s1-6005264/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.npr.org/about/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "From generational classics like J Dilla's Donuts to the star turns of Sudan Archives and Anderson .Paak, one small LA label has made history for 30 years \u2014 without losing its roots.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "ksby.com",
+    "company_name": "@bigearthdata.ai - Common Murres washing up on Central Coast shores in record numbers - KSBY ->KSBY News | More on \"Common murres mass die-off event\" at BigEar",
+    "website": "https://www.ksby.com/grover-beach/common-murres-washing-up-on-central-coast-shores-in-record-numbers",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Lisa Moore",
+        "title": null,
+        "email": "lisa.moore@ksby.com",
+        "source_url": "https://www.ksby.com/about/contact-us"
+      }
+    ],
+    "people": [
+      {
+        "name": "Lisa Moore",
+        "title": null,
+        "email": "lisa.moore@ksby.com",
+        "source_url": "https://www.ksby.com/about/contact-us"
+      }
+    ],
+    "emails": [
+      {
+        "address": "captioning@ksby.com",
+        "confidence": "highest",
+        "source_url": "https://www.ksby.com/about/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "4 hours or one business day. Phone: (805) 597-8457 E-mail: captioning@ksby.com Written closed captioning complaints should be directed to"
+      },
+      {
+        "address": "feedback@ksby.com",
+        "confidence": "highest",
+        "source_url": "https://www.ksby.com/about/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "1772 Calle Joaquin San Luis Obispo, CA 93405 news@ksby.com feedback@ksby.com Regional General Manager: Lisa Moore Regional News Directo"
+      },
+      {
+        "address": "lisa.moore@ksby.com",
+        "confidence": "highest",
+        "source_url": "https://www.ksby.com/about/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "a Moore Regional Sales Director Phone: 805-541-6666 Email: lisa.moore@ksby.com Closed Captioning Information For closed captioning concern"
+      },
+      {
+        "address": "news@ksby.com",
+        "confidence": "highest",
+        "source_url": "https://www.ksby.com/about/contact-us",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "OBISPO STUDIO 1772 Calle Joaquin San Luis Obispo, CA 93405 news@ksby.com feedback@ksby.com Regional General Manager: Lisa Moore Reg"
+      },
+      {
+        "address": "makayla.richardson@ksby.com",
+        "confidence": "high",
+        "source_url": "https://www.ksby.com/grover-beach/common-murres-washing-up-on-central-coast-shores-in-record-numbers",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "captioning@ksby.com",
+      "feedback@ksby.com",
+      "makayla.richardson@ksby.com",
+      "news@ksby.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "i.september@ksby.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "In September",
+        "person_title": "Owner",
+        "source_url": "https://www.ksby.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "in.september@ksby.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "In September",
+        "person_title": "Owner",
+        "source_url": "https://www.ksby.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "in@ksby.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "In September",
+        "person_title": "Owner",
+        "source_url": "https://www.ksby.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "in_september@ksby.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "In September",
+        "person_title": "Owner",
+        "source_url": "https://www.ksby.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ins@ksby.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "In September",
+        "person_title": "Owner",
+        "source_url": "https://www.ksby.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "june@ksby.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "On June",
+        "person_title": "Founder",
+        "source_url": "https://www.ksby.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "o.june@ksby.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "On June",
+        "person_title": "Founder",
+        "source_url": "https://www.ksby.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "on.june@ksby.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "On June",
+        "person_title": "Founder",
+        "source_url": "https://www.ksby.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "on@ksby.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "On June",
+        "person_title": "Founder",
+        "source_url": "https://www.ksby.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "on_june@ksby.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "On June",
+        "person_title": "Founder",
+        "source_url": "https://www.ksby.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "onj@ksby.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "On June",
+        "person_title": "Founder",
+        "source_url": "https://www.ksby.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "september@ksby.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "In September",
+        "person_title": "Owner",
+        "source_url": "https://www.ksby.com/about-us",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.ksby.com/grover-beach/common-murres-washing-up-on-central-coast-shores-in-record-numbers",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ksby.com/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ksby.com/about/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ksby.com/about-us/news-team",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ksby.com/about-us/ksby-apps",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ksby.com/about-us/advertise-with-ksby",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ksby.com/public-file-contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ksby.com/closed-captioning-contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "A few weeks ago, we told you about birds dying and washing ashore around Morro Bay. Now, we're hearing from more people finding the birds farther south, including in Grover Beach.",
+    "source_urls": [
+      "https://www.ksby.com/grover-beach/common-murres-washing-up-on-central-coast-shores-in-record-numbers",
+      "https://www.ksby.com/about-us",
+      "https://www.ksby.com/about/contact-us",
+      "https://www.ksby.com/about-us/news-team",
+      "https://www.ksby.com/about-us/ksby-apps",
+      "https://www.ksby.com/about-us/advertise-with-ksby",
+      "https://www.ksby.com/public-file-contact-us",
+      "https://www.ksby.com/closed-captioning-contact"
+    ],
+    "reason": null,
+    "pages_fetched": 14
+  },
+  {
+    "company_domain": "ridetothepoll.com",
+    "company_name": "@faircount.bsky.social - Do you live outside of metro Atlanta and need a ride to vote during in-person early voting (Oct 13-30) or on Election Day (Nov 3)? \ud83d\ude99 REQUEST",
+    "website": "https://www.ridetothepoll.com/request_ride.php",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.ridetothepoll.com/request_ride.php",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ridetothepoll.com/request_ride.php/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ridetothepoll.com/request_ride.php/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ridetothepoll.com/request_ride.php/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ridetothepoll.com/request_ride.php/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ridetothepoll.com/request_ride.php/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.ridetothepoll.com/request_ride.php/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://www.ridetothepoll.com/request_ride.php",
+        "action": "request_ride.php?mode=add",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.ridetothepoll.com/request_ride.php/contact",
+        "action": "request_ride.php?mode=add",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.ridetothepoll.com/request_ride.php/contact-us",
+        "action": "request_ride.php?mode=add",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.ridetothepoll.com/request_ride.php/contactus",
+        "action": "request_ride.php?mode=add",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.ridetothepoll.com/request_ride.php/about",
+        "action": "request_ride.php?mode=add",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.ridetothepoll.com/request_ride.php/about-us",
+        "action": "request_ride.php?mode=add",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://www.ridetothepoll.com/request_ride.php/team",
+        "action": "request_ride.php?mode=add",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "If you give an email, we will send you a message when your request is received and another when a driver accepts it.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "jtevans.net",
+    "company_name": "@milehicon.bsky.social - MileHiCon is proud to announce that J.T. Evans will be a participant and have a table in Author's Row at this year's convention. jtevans.net",
+    "website": "https://jtevans.net",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [
+      {
+        "address": "r.shack@jtevans.net",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Radio Shack",
+        "person_title": "Business Development",
+        "source_url": "https://jtevans.net",
+        "source_type": "archived",
+        "snapshot_date": "2026-02-24"
+      },
+      {
+        "address": "radio.shack@jtevans.net",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Radio Shack",
+        "person_title": "Business Development",
+        "source_url": "https://jtevans.net",
+        "source_type": "archived",
+        "snapshot_date": "2026-02-24"
+      },
+      {
+        "address": "radio@jtevans.net",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Radio Shack",
+        "person_title": "Business Development",
+        "source_url": "https://jtevans.net",
+        "source_type": "archived",
+        "snapshot_date": "2026-02-24"
+      },
+      {
+        "address": "radio_shack@jtevans.net",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Radio Shack",
+        "person_title": "Business Development",
+        "source_url": "https://jtevans.net",
+        "source_type": "archived",
+        "snapshot_date": "2026-02-24"
+      },
+      {
+        "address": "radios@jtevans.net",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Radio Shack",
+        "person_title": "Business Development",
+        "source_url": "https://jtevans.net",
+        "source_type": "archived",
+        "snapshot_date": "2026-02-24"
+      },
+      {
+        "address": "shack@jtevans.net",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Radio Shack",
+        "person_title": "Business Development",
+        "source_url": "https://jtevans.net",
+        "source_type": "archived",
+        "snapshot_date": "2026-02-24"
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://jtevans.net",
+        "page_type": "home",
+        "source_type": "archived",
+        "snapshot_date": "2026-02-24"
+      },
+      {
+        "url": "https://jtevans.net/contact",
+        "page_type": "contact",
+        "source_type": "archived",
+        "snapshot_date": "2013-05-22"
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://jtevans.net/contact",
+        "action": "/contact/#wpcf7-f184-p50-o1",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "Author's Web Site",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 3
+  },
+  {
+    "company_domain": "feralfandom.com",
+    "company_name": "@feralfandom.bsky.social - WE'RE LIVE, YOU BEAUTIFUL WEIRDOS! \ud83d\udc9a\ud83d\udc9c Feral Fandom is officially open! \ud83c\udfa8 Original, hand-drawn character art. \ud83d\udc79 Fandom-inspired merch. \ud83d\udd25 Unap",
+    "website": "https://feralfandom.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://feralfandom.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://feralfandom.com/pages/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://feralfandom.com/pages/contact",
+        "action": "/contact#ContactForm-AdlVteFZObmJSYy9oY__contact_form_UwiCkQ",
+        "method": "POST",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": false
+      }
+    ],
+    "company_summary": "Feral Fandom",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "amsterdamnews.com",
+    "company_name": "@nyamnews.bsky.social - The Amsterdam News is proud to announce the launch of our new #HBCU Football hub! Scores, polls, homecomings and classics schedule, highligh",
+    "website": "https://amsterdamnews.com/hbcufootballl",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "http_403",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "playlist.megaphone.fm",
+    "company_name": "@starstriderpods.bsky.social - Our thirty-sixth episode of Dracula: 2004 is out now! playlist.megaphone.fm?e=FAFO705061... Mina and Dr. Van Helsing encounter three monster",
+    "website": "https://playlist.megaphone.fm/?e=FAFO7050610317",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://playlist.megaphone.fm/?e=FAFO7050610317",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "indivisiblewhidbey.org",
+    "company_name": "@indivisiblewhidbey.org - We have a brand new PHOTO UPLOAD PORTAL on our website-- if you want to share your #NoKingsVoteEarly photos from our rally, we'd love to see",
+    "website": "https://www.indivisiblewhidbey.org/share-photos.html",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "info@indivisiblewhidbey.org",
+        "confidence": "medium",
+        "source_url": "https://www.indivisiblewhidbey.org/share-photos.html",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "info@indivisiblewhidbey.org"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://www.indivisiblewhidbey.org/share-photos.html",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Indivisible Whidbey",
+    "source_urls": [
+      "https://www.indivisiblewhidbey.org/share-photos.html"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 7
+  },
+  {
+    "company_domain": "trlfootball.com",
+    "company_name": "@trlsports.bsky.social - The GumpStream for Bama/Tennessee is live\u2026follow along and drop comments. #RollTide https://trlfootball.com/third-gumpstream-in-october/",
+    "website": "https://trlfootball.com/third-gumpstream-in-october/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "erik@trlfootball.com",
+        "confidence": "high",
+        "source_url": "https://trlfootball.com/third-gumpstream-in-october/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "CONTACT Call Us: +1 901 302 0328 Email Us: erik@trlfootball.com Location: TRL Sports 4318 31st Ave East, Tuscaloosa AL 35"
+      }
+    ],
+    "role_emails": [
+      "erik@trlfootball.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://trlfootball.com/third-gumpstream-in-october/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Why stick with your traditional hate for everything Tennessee, when you can now join us in real time! This is the GumpStream\u2026 a mullet of football glory. Business up top, party down below.",
+    "source_urls": [
+      "https://trlfootball.com/third-gumpstream-in-october/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 7
+  },
+  {
+    "company_domain": "wessuis.com",
+    "company_name": "@wessuis.bsky.social - Wow, okay. So after 1-2 days of trying to make a website and messing it up very badly, it's up now, and we are proud of it. It was kind of i",
+    "website": "https://wessuis.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://wessuis.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://wessuis.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Music by Wessuis. Listen to Promises and Fencing catalogs.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  },
+  {
+    "company_domain": "indystar.com",
+    "company_name": "@zachosterman.bsky.social - No. 5 Ohio State 19, No. 4 Indiana 7, 12:46 remaining 4Q. IU backed up against the wall now in a way it hasn't been all year: www.indystar.c",
+    "website": "https://www.indystar.com/story/sports/college/indiana/2026/10/17/indiana-football-score-ohio-state-game-radio-what-channel-fox-indiana-schedule-stats-osu-football--live/92289594007/",
+    "status": "found",
+    "contacts": [
+      {
+        "name": "Chris Sims",
+        "title": null,
+        "email": "chris.sims@indystar.com",
+        "source_url": "https://www.indystar.com/staff/2648142001/chris-sims/"
+      },
+      {
+        "name": "Scott Horner",
+        "title": null,
+        "email": "scott.horner@indystar.com",
+        "source_url": "https://www.indystar.com/staff/2646413001/scott-horner/"
+      },
+      {
+        "name": "Zach Osterman",
+        "title": null,
+        "email": "zach.osterman@indystar.com",
+        "source_url": "https://www.indystar.com/staff/2646051001/zach-osterman/"
+      }
+    ],
+    "people": [
+      {
+        "name": "Chris Sims",
+        "title": null,
+        "email": "chris.sims@indystar.com",
+        "source_url": "https://www.indystar.com/staff/2648142001/chris-sims/"
+      },
+      {
+        "name": "Scott Horner",
+        "title": null,
+        "email": "scott.horner@indystar.com",
+        "source_url": "https://www.indystar.com/staff/2646413001/scott-horner/"
+      },
+      {
+        "name": "Zach Osterman",
+        "title": null,
+        "email": "zach.osterman@indystar.com",
+        "source_url": "https://www.indystar.com/staff/2646051001/zach-osterman/"
+      }
+    ],
+    "emails": [
+      {
+        "address": "aburris@indystar.com",
+        "confidence": "highest",
+        "source_url": "https://www.indystar.com/contact/staff/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "aferguson@indystar.com",
+        "confidence": "highest",
+        "source_url": "https://www.indystar.com/staff/77838486007/aaron-ferguson/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "alysa.guffey@indystar.com",
+        "confidence": "highest",
+        "source_url": "https://www.indystar.com/contact/staff/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "amwright@indystar.com",
+        "confidence": "highest",
+        "source_url": "https://www.indystar.com/contact/staff/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "andrew.insley@indystar.com",
+        "confidence": "highest",
+        "source_url": "https://www.indystar.com/contact/staff/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "bhaenchen@indystar.com",
+        "confidence": "highest",
+        "source_url": "https://www.indystar.com/contact/staff/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "bhohulin@indystar.com",
+        "confidence": "highest",
+        "source_url": "https://www.indystar.com/contact/staff/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "cameron.cocquyt@indystar.com",
+        "confidence": "highest",
+        "source_url": "https://www.indystar.com/contact/staff/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "ccharron@indystar.com",
+        "confidence": "highest",
+        "source_url": "https://www.indystar.com/contact/staff/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "cheryl.jackson@indystar.com",
+        "confidence": "highest",
+        "source_url": "https://www.indystar.com/contact/staff/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "chloe.peterson@indystar.com",
+        "confidence": "highest",
+        "source_url": "https://www.indystar.com/contact/staff/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "chris.sims@indystar.com",
+        "confidence": "highest",
+        "source_url": "https://www.indystar.com/staff/2648142001/chris-sims/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "christine.tannous@indystar.com",
+        "confidence": "highest",
+        "source_url": "https://www.indystar.com/contact/staff/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "clark.wade@indystar.com",
+        "confidence": "highest",
+        "source_url": "https://www.indystar.com/contact/staff/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "d.bongiovanni@indystar.com",
+        "confidence": "highest",
+        "source_url": "https://www.indystar.com/contact/staff/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "dbenbow@indystar.com",
+        "confidence": "highest",
+        "source_url": "https://www.indystar.com/contact/staff/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "ddopirak@indystar.com",
+        "confidence": "highest",
+        "source_url": "https://www.indystar.com/contact/staff/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "evan.frank@indystar.com",
+        "confidence": "highest",
+        "source_url": "https://www.indystar.com/contact/staff/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "grace.hollars@indystar.com",
+        "confidence": "highest",
+        "source_url": "https://www.indystar.com/contact/staff/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "grace.smith@indystar.com",
+        "confidence": "highest",
+        "source_url": "https://www.indystar.com/contact/staff/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "gregg.doyel@indystar.com",
+        "confidence": "highest",
+        "source_url": "https://www.indystar.com/contact/staff/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "hbushman@indystar.com",
+        "confidence": "highest",
+        "source_url": "https://www.indystar.com/contact/staff/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "hcolombo@indystar.com",
+        "confidence": "highest",
+        "source_url": "https://www.indystar.com/contact/staff/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "jacob.stewart@indystar.com",
+        "confidence": "highest",
+        "source_url": "https://www.indystar.com/contact/staff/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "jake.allen@indystar.com",
+        "confidence": "highest",
+        "source_url": "https://www.indystar.com/contact/staff/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "james.briggs@indystar.com",
+        "confidence": "highest",
+        "source_url": "https://www.indystar.com/contact/staff/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "jerickson@indystar.com",
+        "confidence": "highest",
+        "source_url": "https://www.indystar.com/contact/staff/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "jguadarrama@indystar.com",
+        "confidence": "highest",
+        "source_url": "https://www.indystar.com/contact/staff/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "jmutascio@indystar.com",
+        "confidence": "highest",
+        "source_url": "https://www.indystar.com/contact/staff/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "john.tufts@indystar.com",
+        "confidence": "highest",
+        "source_url": "https://www.indystar.com/contact/staff/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "joshheron@indystar.com",
+        "confidence": "highest",
+        "source_url": "https://www.indystar.com/contact/staff/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "jtilley@indystar.com",
+        "confidence": "highest",
+        "source_url": "https://www.indystar.com/contact/staff/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "jtsmith@indystar.com",
+        "confidence": "highest",
+        "source_url": "https://www.indystar.com/contact/staff/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "kaitlin.lange@indystar.com",
+        "confidence": "highest",
+        "source_url": "https://www.indystar.com/contact/staff/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "karl.schneider@indystar.com",
+        "confidence": "highest",
+        "source_url": "https://www.indystar.com/contact/staff/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "kcollazo@indystar.com",
+        "confidence": "highest",
+        "source_url": "https://www.indystar.com/contact/staff/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "kdwyer@indystar.com",
+        "confidence": "highest",
+        "source_url": "https://www.indystar.com/contact/staff/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "kelly.wilkinson@indystar.com",
+        "confidence": "highest",
+        "source_url": "https://www.indystar.com/contact/staff/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "kim.mitchell@indystar.com",
+        "confidence": "highest",
+        "source_url": "https://www.indystar.com/contact/staff/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "kphillips@indystar.com",
+        "confidence": "highest",
+        "source_url": "https://www.indystar.com/contact/staff/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "kyle.neddenriep@indystar.com",
+        "confidence": "highest",
+        "source_url": "https://www.indystar.com/contact/staff/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "max.gersh@indystar.com",
+        "confidence": "highest",
+        "source_url": "https://www.indystar.com/contact/staff/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "mcrane@indystar.com",
+        "confidence": "highest",
+        "source_url": "https://www.indystar.com/contact/staff/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "michelle.pemberton@indystar.com",
+        "confidence": "highest",
+        "source_url": "https://www.indystar.com/contact/staff/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "mmeador@indystar.com",
+        "confidence": "highest",
+        "source_url": "https://www.indystar.com/contact/staff/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "mykal.mceldowney@indystar.com",
+        "confidence": "highest",
+        "source_url": "https://www.indystar.com/contact/staff/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "nat.newell@indystar.com",
+        "confidence": "highest",
+        "source_url": "https://www.indystar.com/contact/staff/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "nbaird@indystar.com",
+        "confidence": "highest",
+        "source_url": "https://www.indystar.com/contact/staff/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "nlbrown@indystar.com",
+        "confidence": "highest",
+        "source_url": "https://www.indystar.com/contact/staff/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "rhmurphy@indystar.com",
+        "confidence": "highest",
+        "source_url": "https://www.indystar.com/contact/staff/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "ryan.martin@indystar.com",
+        "confidence": "highest",
+        "source_url": "https://www.indystar.com/contact/staff/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "scott.horner@indystar.com",
+        "confidence": "highest",
+        "source_url": "https://www.indystar.com/staff/2646413001/scott-horner/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "sophie.hartley@indystar.com",
+        "confidence": "highest",
+        "source_url": "https://www.indystar.com/contact/staff/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "srudavsky@indystar.com",
+        "confidence": "highest",
+        "source_url": "https://www.indystar.com/contact/staff/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "stferrell@indystar.com",
+        "confidence": "highest",
+        "source_url": "https://www.indystar.com/contact/staff/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "tony.cook@indystar.com",
+        "confidence": "highest",
+        "source_url": "https://www.indystar.com/contact/staff/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "zach.osterman@indystar.com",
+        "confidence": "highest",
+        "source_url": "https://www.indystar.com/staff/2646051001/zach-osterman/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "zion.brown@indystar.com",
+        "confidence": "highest",
+        "source_url": "https://www.indystar.com/contact/staff/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "aburris@indystar.com",
+      "aferguson@indystar.com",
+      "alysa.guffey@indystar.com",
+      "amwright@indystar.com",
+      "andrew.insley@indystar.com",
+      "bhaenchen@indystar.com",
+      "bhohulin@indystar.com",
+      "cameron.cocquyt@indystar.com",
+      "ccharron@indystar.com",
+      "cheryl.jackson@indystar.com",
+      "chloe.peterson@indystar.com",
+      "chris.sims@indystar.com",
+      "christine.tannous@indystar.com",
+      "clark.wade@indystar.com",
+      "d.bongiovanni@indystar.com",
+      "dbenbow@indystar.com",
+      "ddopirak@indystar.com",
+      "evan.frank@indystar.com",
+      "grace.hollars@indystar.com",
+      "grace.smith@indystar.com",
+      "gregg.doyel@indystar.com",
+      "hbushman@indystar.com",
+      "hcolombo@indystar.com",
+      "jacob.stewart@indystar.com",
+      "jake.allen@indystar.com",
+      "james.briggs@indystar.com",
+      "jerickson@indystar.com",
+      "jguadarrama@indystar.com",
+      "jmutascio@indystar.com",
+      "john.tufts@indystar.com",
+      "joshheron@indystar.com",
+      "jtilley@indystar.com",
+      "jtsmith@indystar.com",
+      "kaitlin.lange@indystar.com",
+      "karl.schneider@indystar.com",
+      "kcollazo@indystar.com",
+      "kdwyer@indystar.com",
+      "kelly.wilkinson@indystar.com",
+      "kim.mitchell@indystar.com",
+      "kphillips@indystar.com",
+      "kyle.neddenriep@indystar.com",
+      "max.gersh@indystar.com",
+      "mcrane@indystar.com",
+      "michelle.pemberton@indystar.com",
+      "mmeador@indystar.com",
+      "mykal.mceldowney@indystar.com",
+      "nat.newell@indystar.com",
+      "nbaird@indystar.com",
+      "nlbrown@indystar.com",
+      "rhmurphy@indystar.com",
+      "ryan.martin@indystar.com",
+      "scott.horner@indystar.com",
+      "sophie.hartley@indystar.com",
+      "srudavsky@indystar.com",
+      "stferrell@indystar.com",
+      "tony.cook@indystar.com",
+      "zach.osterman@indystar.com",
+      "zion.brown@indystar.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "a.ferguson@indystar.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Aaron Ferguson",
+        "person_title": null,
+        "source_url": "https://www.indystar.com/staff/77838486007/aaron-ferguson/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "aaron.ferguson@indystar.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Aaron Ferguson",
+        "person_title": null,
+        "source_url": "https://www.indystar.com/staff/77838486007/aaron-ferguson/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "aaron@indystar.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Aaron Ferguson",
+        "person_title": null,
+        "source_url": "https://www.indystar.com/staff/77838486007/aaron-ferguson/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "aaron_ferguson@indystar.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Aaron Ferguson",
+        "person_title": null,
+        "source_url": "https://www.indystar.com/staff/77838486007/aaron-ferguson/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "aaronf@indystar.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Aaron Ferguson",
+        "person_title": null,
+        "source_url": "https://www.indystar.com/staff/77838486007/aaron-ferguson/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "c.sims@indystar.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Chris Sims",
+        "person_title": null,
+        "source_url": "https://www.indystar.com/story/sports/college/indiana/2026/10/17/indiana-football-score-ohio-state-game-radio-what-channel-fox-indiana-schedule-stats-osu-football--live/92289594007/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "chris.sims@indystar.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Chris Sims",
+        "person_title": null,
+        "source_url": "https://www.indystar.com/story/sports/college/indiana/2026/10/17/indiana-football-score-ohio-state-game-radio-what-channel-fox-indiana-schedule-stats-osu-football--live/92289594007/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "chris@indystar.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Chris Sims",
+        "person_title": null,
+        "source_url": "https://www.indystar.com/story/sports/college/indiana/2026/10/17/indiana-football-score-ohio-state-game-radio-what-channel-fox-indiana-schedule-stats-osu-football--live/92289594007/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "chris_sims@indystar.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Chris Sims",
+        "person_title": null,
+        "source_url": "https://www.indystar.com/story/sports/college/indiana/2026/10/17/indiana-football-score-ohio-state-game-radio-what-channel-fox-indiana-schedule-stats-osu-football--live/92289594007/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "chriss@indystar.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Chris Sims",
+        "person_title": null,
+        "source_url": "https://www.indystar.com/story/sports/college/indiana/2026/10/17/indiana-football-score-ohio-state-game-radio-what-channel-fox-indiana-schedule-stats-osu-football--live/92289594007/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "collazo@indystar.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kurtcia Collazo",
+        "person_title": null,
+        "source_url": "https://www.indystar.com/story/news/local/about-indystar-indianapolis-news-colts-pacers-fever-entertainment-opinion-politics-breaking-news/86079426007/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "ferguson@indystar.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Aaron Ferguson",
+        "person_title": null,
+        "source_url": "https://www.indystar.com/staff/77838486007/aaron-ferguson/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "k.collazo@indystar.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kurtcia Collazo",
+        "person_title": null,
+        "source_url": "https://www.indystar.com/story/news/local/about-indystar-indianapolis-news-colts-pacers-fever-entertainment-opinion-politics-breaking-news/86079426007/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kurtcia.collazo@indystar.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kurtcia Collazo",
+        "person_title": null,
+        "source_url": "https://www.indystar.com/story/news/local/about-indystar-indianapolis-news-colts-pacers-fever-entertainment-opinion-politics-breaking-news/86079426007/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kurtcia@indystar.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kurtcia Collazo",
+        "person_title": null,
+        "source_url": "https://www.indystar.com/story/news/local/about-indystar-indianapolis-news-colts-pacers-fever-entertainment-opinion-politics-breaking-news/86079426007/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kurtcia_collazo@indystar.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kurtcia Collazo",
+        "person_title": null,
+        "source_url": "https://www.indystar.com/story/news/local/about-indystar-indianapolis-news-colts-pacers-fever-entertainment-opinion-politics-breaking-news/86079426007/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kurtciac@indystar.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Kurtcia Collazo",
+        "person_title": null,
+        "source_url": "https://www.indystar.com/story/news/local/about-indystar-indianapolis-news-colts-pacers-fever-entertainment-opinion-politics-breaking-news/86079426007/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "osterman@indystar.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Zach Osterman",
+        "person_title": null,
+        "source_url": "https://www.indystar.com/story/sports/college/indiana/2026/10/17/indiana-football-score-ohio-state-game-radio-what-channel-fox-indiana-schedule-stats-osu-football--live/92289594007/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "sims@indystar.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Chris Sims",
+        "person_title": null,
+        "source_url": "https://www.indystar.com/story/sports/college/indiana/2026/10/17/indiana-football-score-ohio-state-game-radio-what-channel-fox-indiana-schedule-stats-osu-football--live/92289594007/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "z.osterman@indystar.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Zach Osterman",
+        "person_title": null,
+        "source_url": "https://www.indystar.com/story/sports/college/indiana/2026/10/17/indiana-football-score-ohio-state-game-radio-what-channel-fox-indiana-schedule-stats-osu-football--live/92289594007/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "zach.osterman@indystar.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Zach Osterman",
+        "person_title": null,
+        "source_url": "https://www.indystar.com/story/sports/college/indiana/2026/10/17/indiana-football-score-ohio-state-game-radio-what-channel-fox-indiana-schedule-stats-osu-football--live/92289594007/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "zach@indystar.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Zach Osterman",
+        "person_title": null,
+        "source_url": "https://www.indystar.com/story/sports/college/indiana/2026/10/17/indiana-football-score-ohio-state-game-radio-what-channel-fox-indiana-schedule-stats-osu-football--live/92289594007/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "zach_osterman@indystar.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Zach Osterman",
+        "person_title": null,
+        "source_url": "https://www.indystar.com/story/sports/college/indiana/2026/10/17/indiana-football-score-ohio-state-game-radio-what-channel-fox-indiana-schedule-stats-osu-football--live/92289594007/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "zacho@indystar.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Zach Osterman",
+        "person_title": null,
+        "source_url": "https://www.indystar.com/story/sports/college/indiana/2026/10/17/indiana-football-score-ohio-state-game-radio-what-channel-fox-indiana-schedule-stats-osu-football--live/92289594007/",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.indystar.com/story/sports/college/indiana/2026/10/17/indiana-football-score-ohio-state-game-radio-what-channel-fox-indiana-schedule-stats-osu-football--live/92289594007/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.indystar.com/staff/77838486007/aaron-ferguson/",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.indystar.com/staff/2646051001/zach-osterman/",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.indystar.com/staff/2648142001/chris-sims/",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.indystar.com/staff/2646413001/scott-horner/",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.indystar.com/story/news/local/about-indystar-indianapolis-news-colts-pacers-fever-entertainment-opinion-politics-breaking-news/86079426007/",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.indystar.com/contact/staff/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "In the biggest game in Memorial Stadium history, it lived up to its billing. Though IU lost to Ohio State in a battle of top-5 teams. Postgame reaction:",
+    "source_urls": [
+      "https://www.indystar.com/staff/77838486007/aaron-ferguson/",
+      "https://www.indystar.com/staff/2646051001/zach-osterman/",
+      "https://www.indystar.com/staff/2648142001/chris-sims/",
+      "https://www.indystar.com/staff/2646413001/scott-horner/",
+      "https://www.indystar.com/contact/staff/"
+    ],
+    "reason": null,
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "lnk.dmsmusic.co",
+    "company_name": "@lilcoffeecupmusic.bsky.social - \"A Space For No One\" By C Dvon & Q The Beat Boy is now live!!! Expect a dark vibe, plenty of bass, hard hitting kick, steady melody, strateg",
+    "website": "https://lnk.dmsmusic.co/cdvonqthebeatboy_aspacefornoone",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://lnk.dmsmusic.co/cdvonqthebeatboy_aspacefornoone",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Powered by found.ee",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "frugaltree.net",
+    "company_name": "@frugaltree.net - \ud83d\udd25 KZYEE KM10 Power Circuit Probe Tester with Live Waveform Display & Component Act\u2026 \u2705 30% OFF \u2014 Now $69.99 (was $99.99) \ud83d\udcb0 You save $30.00! \ud83d\udc49",
+    "website": "https://frugaltree.net/deal/EPepVfYJLjxxHV5eVlyk",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_content_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "hiredpk.com",
+    "company_name": "@hiredpk.bsky.social - We just launched our Job listing website on called HiredPK which helps people find Government and Private jobs in Pakistan. It publishes new",
+    "website": "https://hiredpk.com/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@hiredpk.com",
+        "confidence": "high",
+        "source_url": "https://hiredpk.com/",
+        "source_type": "archived",
+        "snapshot_date": "2026-10-17",
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "hello@hiredpk.com"
+    ],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://hiredpk.com/",
+        "page_type": "home",
+        "source_type": "archived",
+        "snapshot_date": "2026-10-17"
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "269 verified government jobs and internships across Pakistan. Browse by department, city, qualification and BPS scale, with last dates and official sources.",
+    "source_urls": [
+      "https://hiredpk.com/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 12
+  },
+  {
+    "company_domain": "teaminverted.wordpress.com",
+    "company_name": "@teaminvertedgames.bsky.social - Hello! We have a new blog post up today from our lead designer Sam with a status update about Microbot, musings on Ace Combat 8: Wings of Th",
+    "website": "https://teaminverted.wordpress.com/2026/10/17/sams-space-vol-1/",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "tls_error",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "waterfront.co.uk",
+    "company_name": "@springsteenire.bsky.social - We\u2019re returning to Ulster Hall Belfast! SPR!NGSTEEN! SPECTACULAR live @ Ulster Hall! Tickets: www.waterfront.co.uk/what-s-on/sp... #springst",
+    "website": "https://www.waterfront.co.uk/what-s-on/sp..",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "http_404",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "llblackebooks.com",
+    "company_name": "@milehicon.bsky.social - MileHiCon is proud to announce that LL Blacke will have a table in Author's Row at this year's convention. llblackebooks.com",
+    "website": "https://llblackebooks.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://llblackebooks.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Explore L.L. Blacke Books for thrilling paranormal fiction, captivating urban fantasy, and gripping science fiction adventures.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 8
+  },
+  {
+    "company_domain": "dispatch.com",
+    "company_name": "@lorischmidt.dispatch.com - We're trying to be just as entertaining as a Curt Cignetti press conference. It's today's Ohio State-Indiana live blog. www.dispatch.com/sto",
+    "website": "https://www.dispatch.com/story/sports/college/football/2026/10/17/ohio-state-football-live-score-stats-highlights-analysis--live/92255168007/",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "abayo@dispatch.com",
+        "confidence": "highest",
+        "source_url": "https://www.dispatch.com/contact/staff/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "acairns@dispatch.com",
+        "confidence": "highest",
+        "source_url": "https://www.dispatch.com/contact/staff/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "ajardy@dispatch.com",
+        "confidence": "highest",
+        "source_url": "https://www.dispatch.com/contact/staff/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "ameliarobinson@dispatch.com",
+        "confidence": "highest",
+        "source_url": "https://www.dispatch.com/contact/staff/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "aresnik@dispatch.com",
+        "confidence": "highest",
+        "source_url": "https://www.dispatch.com/contact/staff/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "awinfrey@dispatch.com",
+        "confidence": "highest",
+        "source_url": "https://www.dispatch.com/contact/staff/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "bmackay@dispatch.com",
+        "confidence": "highest",
+        "source_url": "https://www.dispatch.com/staff/71658999007/brianna-mac-kay/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "bpaschal@dispatch.com",
+        "confidence": "highest",
+        "source_url": "https://www.dispatch.com/contact/staff/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "cbehrens@dispatch.com",
+        "confidence": "highest",
+        "source_url": "https://www.dispatch.com/contact/staff/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "dan_hughes@dispatch.com",
+        "confidence": "highest",
+        "source_url": "https://www.dispatch.com/contact/staff/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "daulbach@dispatch.com",
+        "confidence": "highest",
+        "source_url": "https://www.dispatch.com/staff/86045960007/dan-aulbach/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ". He also plays a lot of MLB The Show. He can be reached at daulbach@dispatch.com or on X @aulbachdan. Our journalists adhere to the USA TOD"
+      },
+      {
+        "address": "dchenoweth@dispatch.com",
+        "confidence": "highest",
+        "source_url": "https://www.dispatch.com/contact/staff/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "dpurpura@dispatch.com",
+        "confidence": "highest",
+        "source_url": "https://www.dispatch.com/contact/staff/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "ekennedy@dispatch.com",
+        "confidence": "highest",
+        "source_url": "https://www.dispatch.com/contact/staff/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "ewozniak@dispatch.com",
+        "confidence": "highest",
+        "source_url": "https://www.dispatch.com/contact/staff/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "fdirenna@dispatch.com",
+        "confidence": "highest",
+        "source_url": "https://www.dispatch.com/contact/staff/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "jkaufman@dispatch.com",
+        "confidence": "highest",
+        "source_url": "https://www.dispatch.com/staff/5494426002/joey-kaufman/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "jwilhelm@dispatch.com",
+        "confidence": "highest",
+        "source_url": "https://www.dispatch.com/contact/staff/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "kbourbeau@dispatch.com",
+        "confidence": "highest",
+        "source_url": "https://www.dispatch.com/contact/staff/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "krobertson@dispatch.com",
+        "confidence": "highest",
+        "source_url": "https://www.dispatch.com/contact/staff/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "ktucker@dispatch.com",
+        "confidence": "highest",
+        "source_url": "https://www.dispatch.com/contact/staff/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "lschmidt1@dispatch.com",
+        "confidence": "highest",
+        "source_url": "https://www.dispatch.com/staff/7714074002/lori-schmidt/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "mfilby@dispatch.com",
+        "confidence": "highest",
+        "source_url": "https://www.dispatch.com/contact/staff/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "mshearer@dispatch.com",
+        "confidence": "highest",
+        "source_url": "https://www.dispatch.com/contact/staff/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "nhart@dispatch.com",
+        "confidence": "highest",
+        "source_url": "https://www.dispatch.com/contact/staff/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "nshuda@dispatch.com",
+        "confidence": "highest",
+        "source_url": "https://www.dispatch.com/contact/staff/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "roller@dispatch.com",
+        "confidence": "highest",
+        "source_url": "https://www.dispatch.com/contact/staff/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "rrouan@dispatch.com",
+        "confidence": "highest",
+        "source_url": "https://www.dispatch.com/contact/staff/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "rvitale@dispatch.com",
+        "confidence": "highest",
+        "source_url": "https://www.dispatch.com/contact/staff/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "shendrickson@dispatch.com",
+        "confidence": "highest",
+        "source_url": "https://www.dispatch.com/contact/staff/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "shendrix@dispatch.com",
+        "confidence": "highest",
+        "source_url": "https://www.dispatch.com/contact/staff/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "skirk@dispatch.com",
+        "confidence": "highest",
+        "source_url": "https://www.dispatch.com/contact/staff/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      },
+      {
+        "address": "smeighan@dispatch.com",
+        "confidence": "highest",
+        "source_url": "https://www.dispatch.com/contact/staff/",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": ""
+      }
+    ],
+    "role_emails": [
+      "abayo@dispatch.com",
+      "acairns@dispatch.com",
+      "ajardy@dispatch.com",
+      "ameliarobinson@dispatch.com",
+      "aresnik@dispatch.com",
+      "awinfrey@dispatch.com",
+      "bmackay@dispatch.com",
+      "bpaschal@dispatch.com",
+      "cbehrens@dispatch.com",
+      "dan_hughes@dispatch.com",
+      "daulbach@dispatch.com",
+      "dchenoweth@dispatch.com",
+      "dpurpura@dispatch.com",
+      "ekennedy@dispatch.com",
+      "ewozniak@dispatch.com",
+      "fdirenna@dispatch.com",
+      "jkaufman@dispatch.com",
+      "jwilhelm@dispatch.com",
+      "kbourbeau@dispatch.com",
+      "krobertson@dispatch.com",
+      "ktucker@dispatch.com",
+      "lschmidt1@dispatch.com",
+      "mfilby@dispatch.com",
+      "mshearer@dispatch.com",
+      "nhart@dispatch.com",
+      "nshuda@dispatch.com",
+      "roller@dispatch.com",
+      "rrouan@dispatch.com",
+      "rvitale@dispatch.com",
+      "shendrickson@dispatch.com",
+      "shendrix@dispatch.com",
+      "skirk@dispatch.com",
+      "smeighan@dispatch.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "aulbach@dispatch.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dan Aulbach",
+        "person_title": null,
+        "source_url": "https://www.dispatch.com/story/sports/college/football/2026/10/17/ohio-state-football-live-score-stats-highlights-analysis--live/92255168007/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "b.kay@dispatch.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Brianna Mac Kay",
+        "person_title": null,
+        "source_url": "https://www.dispatch.com/story/sports/college/football/2026/10/17/ohio-state-football-live-score-stats-highlights-analysis--live/92255168007/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "brianna.kay@dispatch.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Brianna Mac Kay",
+        "person_title": null,
+        "source_url": "https://www.dispatch.com/story/sports/college/football/2026/10/17/ohio-state-football-live-score-stats-highlights-analysis--live/92255168007/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "brianna@dispatch.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Brianna Mac Kay",
+        "person_title": null,
+        "source_url": "https://www.dispatch.com/story/sports/college/football/2026/10/17/ohio-state-football-live-score-stats-highlights-analysis--live/92255168007/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "brianna_kay@dispatch.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Brianna Mac Kay",
+        "person_title": null,
+        "source_url": "https://www.dispatch.com/story/sports/college/football/2026/10/17/ohio-state-football-live-score-stats-highlights-analysis--live/92255168007/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "briannak@dispatch.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Brianna Mac Kay",
+        "person_title": null,
+        "source_url": "https://www.dispatch.com/story/sports/college/football/2026/10/17/ohio-state-football-live-score-stats-highlights-analysis--live/92255168007/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "d.aulbach@dispatch.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dan Aulbach",
+        "person_title": null,
+        "source_url": "https://www.dispatch.com/story/sports/college/football/2026/10/17/ohio-state-football-live-score-stats-highlights-analysis--live/92255168007/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "dan.aulbach@dispatch.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dan Aulbach",
+        "person_title": null,
+        "source_url": "https://www.dispatch.com/story/sports/college/football/2026/10/17/ohio-state-football-live-score-stats-highlights-analysis--live/92255168007/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "dan@dispatch.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dan Aulbach",
+        "person_title": null,
+        "source_url": "https://www.dispatch.com/story/sports/college/football/2026/10/17/ohio-state-football-live-score-stats-highlights-analysis--live/92255168007/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "dan_aulbach@dispatch.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dan Aulbach",
+        "person_title": null,
+        "source_url": "https://www.dispatch.com/story/sports/college/football/2026/10/17/ohio-state-football-live-score-stats-highlights-analysis--live/92255168007/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "dana@dispatch.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Dan Aulbach",
+        "person_title": null,
+        "source_url": "https://www.dispatch.com/story/sports/college/football/2026/10/17/ohio-state-football-live-score-stats-highlights-analysis--live/92255168007/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "j.kaufman@dispatch.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Joey Kaufman",
+        "person_title": null,
+        "source_url": "https://www.dispatch.com/story/sports/college/football/2026/10/17/ohio-state-football-live-score-stats-highlights-analysis--live/92255168007/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "joey.kaufman@dispatch.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Joey Kaufman",
+        "person_title": null,
+        "source_url": "https://www.dispatch.com/story/sports/college/football/2026/10/17/ohio-state-football-live-score-stats-highlights-analysis--live/92255168007/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "joey@dispatch.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Joey Kaufman",
+        "person_title": null,
+        "source_url": "https://www.dispatch.com/story/sports/college/football/2026/10/17/ohio-state-football-live-score-stats-highlights-analysis--live/92255168007/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "joey_kaufman@dispatch.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Joey Kaufman",
+        "person_title": null,
+        "source_url": "https://www.dispatch.com/story/sports/college/football/2026/10/17/ohio-state-football-live-score-stats-highlights-analysis--live/92255168007/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "joeyk@dispatch.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Joey Kaufman",
+        "person_title": null,
+        "source_url": "https://www.dispatch.com/story/sports/college/football/2026/10/17/ohio-state-football-live-score-stats-highlights-analysis--live/92255168007/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kaufman@dispatch.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Joey Kaufman",
+        "person_title": null,
+        "source_url": "https://www.dispatch.com/story/sports/college/football/2026/10/17/ohio-state-football-live-score-stats-highlights-analysis--live/92255168007/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "kay@dispatch.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Brianna Mac Kay",
+        "person_title": null,
+        "source_url": "https://www.dispatch.com/story/sports/college/football/2026/10/17/ohio-state-football-live-score-stats-highlights-analysis--live/92255168007/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "l.schmidt@dispatch.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lori Schmidt",
+        "person_title": null,
+        "source_url": "https://www.dispatch.com/story/sports/college/football/2026/10/17/ohio-state-football-live-score-stats-highlights-analysis--live/92255168007/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "lori.schmidt@dispatch.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lori Schmidt",
+        "person_title": null,
+        "source_url": "https://www.dispatch.com/story/sports/college/football/2026/10/17/ohio-state-football-live-score-stats-highlights-analysis--live/92255168007/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "lori@dispatch.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lori Schmidt",
+        "person_title": null,
+        "source_url": "https://www.dispatch.com/story/sports/college/football/2026/10/17/ohio-state-football-live-score-stats-highlights-analysis--live/92255168007/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "lori_schmidt@dispatch.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lori Schmidt",
+        "person_title": null,
+        "source_url": "https://www.dispatch.com/story/sports/college/football/2026/10/17/ohio-state-football-live-score-stats-highlights-analysis--live/92255168007/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "loris@dispatch.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lori Schmidt",
+        "person_title": null,
+        "source_url": "https://www.dispatch.com/story/sports/college/football/2026/10/17/ohio-state-football-live-score-stats-highlights-analysis--live/92255168007/",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "schmidt@dispatch.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Lori Schmidt",
+        "person_title": null,
+        "source_url": "https://www.dispatch.com/story/sports/college/football/2026/10/17/ohio-state-football-live-score-stats-highlights-analysis--live/92255168007/",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.dispatch.com/story/sports/college/football/2026/10/17/ohio-state-football-live-score-stats-highlights-analysis--live/92255168007/",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dispatch.com/staff/7714074002/lori-schmidt/",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dispatch.com/staff/86045960007/dan-aulbach/",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dispatch.com/staff/5494426002/joey-kaufman/",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dispatch.com/staff/71658999007/brianna-mac-kay/",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dispatch.com/story/news/local/about-us-columbus-dispatch-staff-awards-contact-newsletters/86150088007/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.dispatch.com/contact/staff/",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Ohio State takes on Indiana at Memorial Stadium. Follow live score updates, highlights, injury news, key plays and instant analysis.",
+    "source_urls": [
+      "https://www.dispatch.com/staff/7714074002/lori-schmidt/",
+      "https://www.dispatch.com/staff/86045960007/dan-aulbach/",
+      "https://www.dispatch.com/staff/5494426002/joey-kaufman/",
+      "https://www.dispatch.com/staff/71658999007/brianna-mac-kay/",
+      "https://www.dispatch.com/story/news/local/about-us-columbus-dispatch-staff-awards-contact-newsletters/86150088007/",
+      "https://www.dispatch.com/contact/staff/"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 13
+  },
+  {
+    "company_domain": "drivethrurpg.com",
+    "company_name": "@moongate.bsky.social - The WITCH digital is now $10.35 for Witchtober! Grab a copy while the sale is still live. 300 pages, 16 maps, and so much spooky fun! www.dr",
+    "website": "https://www.drivethrurpg.com/en/product/579372/witch-wicked-new-world",
+    "status": "error",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "http_403",
+    "pages_fetched": 2
+  },
+  {
+    "company_domain": "southtahoenow.com",
+    "company_name": "@vet-ingenting.bsky.social - southtahoenow.com/06/26/2023/m...",
+    "website": "https://southtahoenow.com/06/26/2023/millionaire-who-saved-lake-tahoe-living-history-steve-hale",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://southtahoenow.com/06/26/2023/millionaire-who-saved-lake-tahoe-living-history-steve-hale",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://southtahoenow.com/about-carson-now",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "SOUTH LAKE TAHOE, Calif. - Steve Hale will present a live Chautauqua reenactment of one of Tahoe\u2019s most memorable historic characters, George Whittell Jr., at Lake of the Sky Amphitheater at the Taylor Creek Visitor Center in South Lake Tahoe.  The July 7 show starts at 7 p.m. and admission is free.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "badhabitpublishing.com",
+    "company_name": "@milehicon.bsky.social - MileHiCon is excited to announce that W. Jade Young will be a participant at this year's convention. www.badhabitpublishing.com",
+    "website": "https://www.badhabitpublishing.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [
+      {
+        "address": "hello@badhabitpublishing.com",
+        "confidence": "highest",
+        "source_url": "https://www.badhabitpublishing.com",
+        "source_type": "live",
+        "snapshot_date": null,
+        "context_snippet": "ces Prices Connect Contact Calendar Etsy Shop hello@badhabitpublishing.com A small press, an editor's desk, and one writer"
+      }
+    ],
+    "role_emails": [
+      "hello@badhabitpublishing.com"
+    ],
+    "email_candidates": [
+      {
+        "address": "b.publishing@badhabitpublishing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Bad Habit Publishing",
+        "person_title": "Founder",
+        "source_url": "https://www.badhabitpublishing.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "bad.publishing@badhabitpublishing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Bad Habit Publishing",
+        "person_title": "Founder",
+        "source_url": "https://www.badhabitpublishing.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "bad@badhabitpublishing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Bad Habit Publishing",
+        "person_title": "Founder",
+        "source_url": "https://www.badhabitpublishing.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "bad_publishing@badhabitpublishing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Bad Habit Publishing",
+        "person_title": "Founder",
+        "source_url": "https://www.badhabitpublishing.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "badp@badhabitpublishing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Bad Habit Publishing",
+        "person_title": "Founder",
+        "source_url": "https://www.badhabitpublishing.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "j.young@badhabitpublishing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jade Young",
+        "person_title": "Founder",
+        "source_url": "https://www.badhabitpublishing.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jade.young@badhabitpublishing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jade Young",
+        "person_title": "Founder",
+        "source_url": "https://www.badhabitpublishing.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jade@badhabitpublishing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jade Young",
+        "person_title": "Founder",
+        "source_url": "https://www.badhabitpublishing.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jade_young@badhabitpublishing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jade Young",
+        "person_title": "Founder",
+        "source_url": "https://www.badhabitpublishing.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "jadey@badhabitpublishing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jade Young",
+        "person_title": "Founder",
+        "source_url": "https://www.badhabitpublishing.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "publishing@badhabitpublishing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Bad Habit Publishing",
+        "person_title": "Founder",
+        "source_url": "https://www.badhabitpublishing.com",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "address": "young@badhabitpublishing.com",
+        "confidence": "candidate",
+        "pattern_guessed": true,
+        "person_name": "Jade Young",
+        "person_title": "Founder",
+        "source_url": "https://www.badhabitpublishing.com/about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_pages": [
+      {
+        "url": "https://www.badhabitpublishing.com",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.badhabitpublishing.com/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://www.badhabitpublishing.com/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "Bad Habit Publishing offers book reviews, editorial services, and creative tools like the Rainbow Quill Deck for writers and storytellers. Explore our portfolio and get editing help.",
+    "source_urls": [
+      "https://www.badhabitpublishing.com",
+      "https://www.badhabitpublishing.com/contact",
+      "https://www.badhabitpublishing.com/about"
+    ],
+    "reason": "no_named_contacts",
+    "pages_fetched": 7
+  },
+  {
+    "company_domain": "joaquinbaldwin.com",
+    "company_name": "@joabaldwin.com - Pre-orders for ebooks and paperbacks are live on my site! Order one now so you can get it delivered before anyone else. Official release is ",
+    "website": "https://joaquinbaldwin.com/products/wings-of-the-wayfarers-ebook",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://joaquinbaldwin.com/products/wings-of-the-wayfarers-ebook",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://joaquinbaldwin.com/products/wings-of-the-wayfarers-ebook/contact",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://joaquinbaldwin.com/products/wings-of-the-wayfarers-ebook/contact-us",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://joaquinbaldwin.com/products/wings-of-the-wayfarers-ebook/contactus",
+        "page_type": "contact",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://joaquinbaldwin.com/products/wings-of-the-wayfarers-ebook/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://joaquinbaldwin.com/products/wings-of-the-wayfarers-ebook/about-us",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://joaquinbaldwin.com/products/wings-of-the-wayfarers-ebook/team",
+        "page_type": "team",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://joaquinbaldwin.com/pages/noss-locations",
+        "page_type": "other",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [
+      {
+        "page_url": "https://joaquinbaldwin.com/products/wings-of-the-wayfarers-ebook",
+        "action": "https://eomail1.com/form/0fada250-a8ab-11f0-a49c-fd7057594471",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://joaquinbaldwin.com/products/wings-of-the-wayfarers-ebook",
+        "action": "https://eomail1.com/form/dcc996ae-33c3-11ee-9eb9-b1a0c77f50b6",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://joaquinbaldwin.com/products/wings-of-the-wayfarers-ebook/contact",
+        "action": "https://eomail1.com/form/0fada250-a8ab-11f0-a49c-fd7057594471",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      },
+      {
+        "page_url": "https://joaquinbaldwin.com/products/wings-of-the-wayfarers-ebook/contact",
+        "action": "https://eomail1.com/form/dcc996ae-33c3-11ee-9eb9-b1a0c77f50b6",
+        "method": "GET",
+        "fields": [
+          "email",
+          "message",
+          "name"
+        ],
+        "captcha_protected": true
+      }
+    ],
+    "company_summary": "PRE-ORDER - Releasing Nov. 4 The ebook will be sent to you as soon as it releases at midnight on the 3rd. New alliances are forged on land, sea, and air.\u00a0 Deep within the dome of avians, the wayfarers encounter a tribe of fearless warriors who ride upon the backs of feathered giants. If they manage ",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 10
+  },
+  {
+    "company_domain": "braunhaven.com",
+    "company_name": "@greenwatermerc.bsky.social - The Braunhaven Halloween Sale is live NOW! Get 50% off on all Braunhaven PDF Titles through November 2nd! braunhaven.com",
+    "website": "https://braunhaven.com",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [],
+    "contact_forms": [],
+    "company_summary": null,
+    "source_urls": [],
+    "reason": "identity_content_mismatch",
+    "pages_fetched": 1
+  },
+  {
+    "company_domain": "skypoints.org",
+    "company_name": "@skypoints.org - IT'S OFFICIAL \u2014 THE SKYPOINTS WAITLIST IS LIVE! \ud83d\udccd Discover. Connect. Explore! Skypoints is building a new way to connect people, places, bus",
+    "website": "https://skypoints.org",
+    "status": "not_found",
+    "contacts": [],
+    "people": [],
+    "emails": [],
+    "role_emails": [],
+    "email_candidates": [],
+    "contact_pages": [
+      {
+        "url": "https://skypoints.org",
+        "page_type": "home",
+        "source_type": "live",
+        "snapshot_date": null
+      },
+      {
+        "url": "https://skypoints.org/about",
+        "page_type": "about",
+        "source_type": "live",
+        "snapshot_date": null
+      }
+    ],
+    "contact_forms": [],
+    "company_summary": "See where it happens.",
+    "source_urls": [],
+    "reason": "no_named_contacts",
+    "pages_fetched": 9
+  }
+]
