@@ -1,15 +1,78 @@
 {
-  "fetched_at": "2026-10-26T11:24:05.717598Z",
-  "count": 85,
+  "fetched_at": "2026-10-26T17:32:39.773364Z",
+  "count": 88,
   "campaigns": [
+    {
+      "source_id": "http://www.kicktraq.com/projects/azume/azume-one-turn-any-watch-into-a-health-tracker/",
+      "title": "Azume One: Turn Any Watch Into a Health Tracker",
+      "kicktraq_url": "http://www.kicktraq.com/projects/azume/azume-one-turn-any-watch-into-a-health-tracker/",
+      "campaign_category": "Technology",
+      "campaign_subcategory": null,
+      "description_text": "Invisible health tracking for the watch you already own. No screen, no new device on your wrist, No subscription. - [currently \u20ac3,129 (104%) of \u20ac3,000 goal]",
+      "percent_funded": 104.0
+    },
+    {
+      "source_id": "http://www.kicktraq.com/projects/makercircuit/hack-00/",
+      "title": "HacK_00: Your Pocket-Sized Wi-Fi Security Toolkit",
+      "kicktraq_url": "http://www.kicktraq.com/projects/makercircuit/hack-00/",
+      "campaign_category": "Technology",
+      "campaign_subcategory": null,
+      "description_text": "Explore wireless networks, analyze Wi-Fi activity, and learn security concepts with a compact device. - [currently \u00a3641 (80%) of \u00a3800 goal]",
+      "percent_funded": 80.0
+    },
+    {
+      "source_id": "http://www.kicktraq.com/projects/nedrowe/nedrowe-switchable-reciprocating-and-rotary-precision-sander/",
+      "title": "NEDROWE: Dual-Mode Precision Sander for Makers",
+      "kicktraq_url": "http://www.kicktraq.com/projects/nedrowe/nedrowe-switchable-reciprocating-and-rotary-precision-sander/",
+      "campaign_category": "Technology",
+      "campaign_subcategory": null,
+      "description_text": "Switch between reciprocating and rotary motion for precise sanding, shaping, grinding, and polishing\u2014all in one compact tool. - [currently $1,311 (66%) of $2,000 goal]",
+      "percent_funded": 66.0
+    },
+    {
+      "source_id": "http://www.kicktraq.com/projects/orionersx2/orioner-m-grip-palm-sized-aluminum-edc-magnetic-mount/",
+      "title": "ORIONER M-Grip: Palm-Sized Aluminum EDC Magnetic Mount",
+      "kicktraq_url": "http://www.kicktraq.com/projects/orionersx2/orioner-m-grip-palm-sized-aluminum-edc-magnetic-mount/",
+      "campaign_category": "Technology",
+      "campaign_subcategory": null,
+      "description_text": "Pocket-sized aluminum stand with dual magnets, 360\u00b0 rotation, tripod base, and 1/4\" threaded mount for hands-free creation - [currently HK$31,758 (244%) of HK$13,000 goal]",
+      "percent_funded": 244.0
+    },
+    {
+      "source_id": "http://www.kicktraq.com/projects/1336239571/vionelith-ai-smart-glasses-for-first-person-intelligence/",
+      "title": "Vionelith: AI Smart Glasses for First-Person Intelligence",
+      "kicktraq_url": "http://www.kicktraq.com/projects/1336239571/vionelith-ai-smart-glasses-for-first-person-intelligence/",
+      "campaign_category": "Technology",
+      "campaign_subcategory": null,
+      "description_text": "13MP Camera & 2K Video | First-Person Live | AI Assistant & Translation | Hands-Free Control | Open-Ear Audio | 32GB Offline Storage - [currently $2,554 (255%) of $1,000 goal]",
+      "percent_funded": 255.0
+    },
+    {
+      "source_id": "http://www.kicktraq.com/projects/picotronix/picotronix-a-modular-multisignal-instrument-for-makers/",
+      "title": "Picotronix: Modular Oscilloscope & Logic Analyzer for Makers",
+      "kicktraq_url": "http://www.kicktraq.com/projects/picotronix/picotronix-a-modular-multisignal-instrument-for-makers/",
+      "campaign_category": "Technology",
+      "campaign_subcategory": null,
+      "description_text": "A multisignal instrument powered by two Raspberry Pi Pico 2s (RP2350), expandable with plug-in picoPods, programmable in MicroPython. - [currently $3,883 (39%) of $10,000 goal]",
+      "percent_funded": 39.0
+    },
+    {
+      "source_id": "http://www.kicktraq.com/projects/1749142018/extruframe-modular-3d-printed-pc-cases/",
+      "title": "EXTRUFRAME \u00e2\u0080\u0094 Modular 3D-Printed PC Cases",
+      "kicktraq_url": "http://www.kicktraq.com/projects/1749142018/extruframe-modular-3d-printed-pc-cases/",
+      "campaign_category": "Technology",
+      "campaign_subcategory": null,
+      "description_text": "Three PETG-CF open-frame designs. Choose a DIY parts kit or installed inserts and an assembled main frame. Worldwide shipping included. - [currently \u20ac499 (5%) of \u20ac10,000 goal]",
+      "percent_funded": 5.0
+    },
     {
       "source_id": "http://www.kicktraq.com/projects/johnbura/the-complete-comptia-dataai-certification-with-practice-exam/",
       "title": "The Complete CompTIA DataAI Certification with Practice Exam",
       "kicktraq_url": "http://www.kicktraq.com/projects/johnbura/the-complete-comptia-dataai-certification-with-practice-exam/",
       "campaign_category": "Technology",
       "campaign_subcategory": null,
-      "description_text": "Data is only valuable when someone knows what to do with it. This course helps you become that person. - [currently $0 (0%) of $150 goal]",
-      "percent_funded": 0.0
+      "description_text": "Data is only valuable when someone knows what to do with it. This course helps you become that person. - [currently $1 (1%) of $150 goal]",
+      "percent_funded": 1.0
     },
     {
       "source_id": "http://www.kicktraq.com/projects/vnr/voicenotes-reminder/",
@@ -26,8 +89,8 @@
       "kicktraq_url": "http://www.kicktraq.com/projects/orcastudio1/3d-printable-home-organizers-35-stl-files-for-2-only/",
       "campaign_category": "Technology",
       "campaign_subcategory": null,
-      "description_text": "Welcome to OrcaStudio , Stylish, space\u00e2\u0080\u0091saving designs to print and organize your home. - [currently $35 (140%) of $25 goal]",
-      "percent_funded": 140.0
+      "description_text": "Welcome to OrcaStudio , Stylish, space\u00e2\u0080\u0091saving designs to print and organize your home. - [currently $69 (276%) of $25 goal]",
+      "percent_funded": 276.0
     },
     {
       "source_id": "http://www.kicktraq.com/projects/tonnenheld/tonnenheld-nie-wieder-die-mulltonne-vergessen/",
@@ -75,67 +138,22 @@
       "percent_funded": 0.0
     },
     {
-      "source_id": "http://www.kicktraq.com/projects/blackhaus-e-com/loopi-your-photos-and-messages-on-an-e-paper-display/",
-      "title": "Loopi: Your Photos & Messages on an E-Paper Display",
-      "kicktraq_url": "http://www.kicktraq.com/projects/blackhaus-e-com/loopi-your-photos-and-messages-on-an-e-paper-display/",
-      "campaign_category": "Technology",
-      "campaign_subcategory": null,
-      "description_text": "A personal E-Paper display for your photos, messages and ideas. Create your own designs with myLoopi. - [currently \u20ac657 (19%) of \u20ac3,500 goal]",
-      "percent_funded": 19.0
-    },
-    {
       "source_id": "http://www.kicktraq.com/projects/codecave/codecave-season-2-kids-learn-ai-by-building-it-themselves/",
       "title": "Codecave Season 2: Kids learn AI by building it themselves",
       "kicktraq_url": "http://www.kicktraq.com/projects/codecave/codecave-season-2-kids-learn-ai-by-building-it-themselves/",
       "campaign_category": "Technology",
-      "campaign_subcategory": null,
+      "campaign_subcategory": "Apps",
       "description_text": "Season 2: 45 new AI missions and 15 specials with Bix the robot guide, for kids 8 to 18. English, German, Spanish. Parent-controlled. - [currently \u20ac0 (0%) of \u20ac15,000 goal]",
       "percent_funded": 0.0
-    },
-    {
-      "source_id": "http://www.kicktraq.com/projects/tanis226/the-digital-cluster-reimagined/",
-      "title": "The Digital Cluster, Reimagined.",
-      "kicktraq_url": "http://www.kicktraq.com/projects/tanis226/the-digital-cluster-reimagined/",
-      "campaign_category": "Technology",
-      "campaign_subcategory": null,
-      "description_text": "A modern plug and play digital instrument cluster for the classic BMW E30. - [currently $68,075 (27%) of $250,000 goal]",
-      "percent_funded": 27.0
-    },
-    {
-      "source_id": "http://www.kicktraq.com/projects/224874662/reimagining-beauty-tools-haloflotm/",
-      "title": "Reimagining beauty tools: Haloflo\u00e2\u0084\u00a2",
-      "kicktraq_url": "http://www.kicktraq.com/projects/224874662/reimagining-beauty-tools-haloflotm/",
-      "campaign_category": "Technology",
-      "campaign_subcategory": null,
-      "description_text": "A patent pending hair dryer attachment that blurs the lines between innovation and beauty - [currently $837 (7%) of $12,000 goal]",
-      "percent_funded": 7.0
-    },
-    {
-      "source_id": "http://www.kicktraq.com/projects/tet-power-cooking/tet-portable-power-cooking-station/",
-      "title": "TET Portable Power Cooking Station",
-      "kicktraq_url": "http://www.kicktraq.com/projects/tet-power-cooking/tet-portable-power-cooking-station/",
-      "campaign_category": "Technology",
-      "campaign_subcategory": null,
-      "description_text": "A New Way to Cook & Power Anywhere. - [currently HK$9,400 (12%) of HK$78,400 goal]",
-      "percent_funded": 12.0
     },
     {
       "source_id": "http://www.kicktraq.com/projects/ascend99/ascend-fitness/",
       "title": "Ascend Fitness: Das RPG\u00e2\u0080\u0091Fitness\u00e2\u0080\u0091Erlebnis",
       "kicktraq_url": "http://www.kicktraq.com/projects/ascend99/ascend-fitness/",
       "campaign_category": "Technology",
-      "campaign_subcategory": null,
+      "campaign_subcategory": "Apps",
       "description_text": "\u201eEin episches Fitness\u00c3\u00a2\u00c2\u0080\u00c2\u0091Abenteuer mit RPG\u00c3\u00a2\u00c2\u0080\u00c2\u0091Elementen, Skilltrees und Boss\u00c3\u00a2\u00c2\u0080\u00c2\u0091Challenges \u2013 trainiere wie ein Held.\u201c - [currently \u20ac0 (0%) of \u20ac64,300 goal]",
       "percent_funded": 0.0
-    },
-    {
-      "source_id": "http://www.kicktraq.com/projects/424479178/aqualume-a-rainfall-bluetooth-speaker-that-sets-the-mood/",
-      "title": "Aqualume: A Rainfall Bluetooth Speaker That Sets the Mood",
-      "kicktraq_url": "http://www.kicktraq.com/projects/424479178/aqualume-a-rainfall-bluetooth-speaker-that-sets-the-mood/",
-      "campaign_category": "Technology",
-      "campaign_subcategory": null,
-      "description_text": "Dynamic raindrops, glowing mountain scenery, music, nature sounds, and aromatherapy\u2014your own little desktop escape. - [currently $2,135 (107%) of $2,000 goal]",
-      "percent_funded": 107.0
     },
     {
       "source_id": "http://www.kicktraq.com/projects/449886204/bake-a-plan-sourdough-timelines-made-simple/",
@@ -161,7 +179,7 @@
       "kicktraq_url": "http://www.kicktraq.com/projects/tribela/break-the-feed-the-connection-book-by-tribela/",
       "campaign_category": "Technology",
       "campaign_subcategory": "Apps",
-      "description_text": "A hardcover First Edition for keeping the people who matter close. The offline edition of Tribela, by Vancouver founder Natalie Boll. - [currently $282 (1%) of $26,000 goal]",
+      "description_text": "A hardcover First Edition for keeping the people who matter close. The offline edition of Tribela, by Vancouver founder Natalie Boll. - [currently $286 (1%) of $26,000 goal]",
       "percent_funded": 1.0
     },
     {
@@ -377,7 +395,7 @@
       "kicktraq_url": "http://www.kicktraq.com/projects/lufthardt/petronus-care-for-a-rescue-pet-even-if-you-cant-adopt/",
       "campaign_category": "Technology",
       "campaign_subcategory": "Web",
-      "description_text": "Help launch a web app for transparent monthly support for rescue animals. Follow their journey and see your impact. - [currently \u20ac0 (0%) of \u20ac12,000 goal]",
+      "description_text": "Help launch a web app for transparent monthly support for rescue animals. Follow their journey and see your impact. - [currently \u20ac20 (0%) of \u20ac12,000 goal]",
       "percent_funded": 0.0
     },
     {
@@ -489,6 +507,24 @@
       "percent_funded": 9.0
     },
     {
+      "source_id": "http://www.kicktraq.com/projects/tanis226/the-digital-cluster-reimagined/",
+      "title": "The Digital Cluster, Reimagined.",
+      "kicktraq_url": "http://www.kicktraq.com/projects/tanis226/the-digital-cluster-reimagined/",
+      "campaign_category": "Technology",
+      "campaign_subcategory": "Hardware",
+      "description_text": "A modern plug and play digital instrument cluster for the classic BMW E30. - [currently $69,424 (28%) of $250,000 goal]",
+      "percent_funded": 28.0
+    },
+    {
+      "source_id": "http://www.kicktraq.com/projects/tet-power-cooking/tet-portable-power-cooking-station/",
+      "title": "TET Portable Power Cooking Station",
+      "kicktraq_url": "http://www.kicktraq.com/projects/tet-power-cooking/tet-portable-power-cooking-station/",
+      "campaign_category": "Technology",
+      "campaign_subcategory": "Hardware",
+      "description_text": "A New Way to Cook & Power Anywhere. - [currently HK$9,400 (12%) of HK$78,400 goal]",
+      "percent_funded": 12.0
+    },
+    {
       "source_id": "http://www.kicktraq.com/projects/1514190952/aesisense-reconnect-with-your-bodys-natural-rhythm/",
       "title": "AESISENSE | Reconnect with your body's natural rhythm",
       "kicktraq_url": "http://www.kicktraq.com/projects/1514190952/aesisense-reconnect-with-your-bodys-natural-rhythm/",
@@ -512,8 +548,8 @@
       "kicktraq_url": "http://www.kicktraq.com/projects/2030358954/customizable-smart-desktop-display-for-global-markets-etc/",
       "campaign_category": "Technology",
       "campaign_subcategory": "Hardware",
-      "description_text": "A customizable desktop display for time, weather, global markets, timers, alarms and animated scenes\u2014controlled by one physical knot. - [currently $30,768 (615%) of $5,000 goal]",
-      "percent_funded": 615.0
+      "description_text": "A customizable desktop display for time, weather, global markets, timers, alarms and animated scenes\u2014controlled by one physical knot. - [currently $32,167 (643%) of $5,000 goal]",
+      "percent_funded": 643.0
     },
     {
       "source_id": "http://www.kicktraq.com/projects/facepawdoor/facepaw-the-ai-powered-pet-door-that-knows-your-pet-face/",
@@ -530,8 +566,8 @@
       "kicktraq_url": "http://www.kicktraq.com/projects/taco-ai/the-natively-built-ai-voice-typing-remote/",
       "campaign_category": "Technology",
       "campaign_subcategory": "Hardware",
-      "description_text": "Speak naturally. TACO turns your words into clear, polished writing in the apps you use & keeps the next action within reach. - [currently \u00a319,073 (636%) of \u00a33,000 goal]",
-      "percent_funded": 636.0
+      "description_text": "Speak naturally. TACO turns your words into clear, polished writing in the apps you use & keeps the next action within reach. - [currently \u00a319,238 (641%) of \u00a33,000 goal]",
+      "percent_funded": 641.0
     },
     {
       "source_id": "http://www.kicktraq.com/projects/preion/preion-early-warning-for-lithium-battery-fires/",
@@ -548,8 +584,8 @@
       "kicktraq_url": "http://www.kicktraq.com/projects/744045479/cephalon-ondevice-ai-with-a-selfevolving-ecosystem/",
       "campaign_category": "Technology",
       "campaign_subcategory": "Hardware",
-      "description_text": "A quiet, always-on AI workstation for Codex, Claude Code, Hermes, and selected local models. - [currently HK$914,642 (9146%) of HK$10,000 goal]",
-      "percent_funded": 9146.0
+      "description_text": "A quiet, always-on AI workstation for Codex, Claude Code, Hermes, and selected local models. - [currently HK$944,457 (9445%) of HK$10,000 goal]",
+      "percent_funded": 9445.0
     },
     {
       "source_id": "http://www.kicktraq.com/projects/home-harvest/home-harvest/",
@@ -557,8 +593,8 @@
       "kicktraq_url": "http://www.kicktraq.com/projects/home-harvest/home-harvest/",
       "campaign_category": "Technology",
       "campaign_subcategory": "Hardware",
-      "description_text": "The world's smartest farm. In your home. - [currently \u00a3161,897 (3238%) of \u00a35,000 goal]",
-      "percent_funded": 3238.0
+      "description_text": "The world's smartest farm. In your home. - [currently \u00a3166,115 (3322%) of \u00a35,000 goal]",
+      "percent_funded": 3322.0
     },
     {
       "source_id": "http://www.kicktraq.com/projects/334020914/redragon-tri-mode-gasket-mounted-mechanical-keyboard/",
@@ -566,7 +602,7 @@
       "kicktraq_url": "http://www.kicktraq.com/projects/334020914/redragon-tri-mode-gasket-mounted-mechanical-keyboard/",
       "campaign_category": "Technology",
       "campaign_subcategory": "Hardware",
-      "description_text": "Aluminum Alloy | Modular Custom Screen | High Polling Rate | Long\u00e2\u0080\u0091Lasting Battery |All\u00e2\u0080\u0091Scenario Tri\u00e2\u0080\u0091Mode Magnetic\u00e2\u0080\u0091Switch - [currently HK$45,958 (460%) of HK$10,000 goal]",
+      "description_text": "Aluminum Alloy | Modular Custom Screen | High Polling Rate | Long\u00e2\u0080\u0091Lasting Battery |All\u00e2\u0080\u0091Scenario Tri\u00e2\u0080\u0091Mode Magnetic\u00e2\u0080\u0091Switch - [currently HK$46,013 (460%) of HK$10,000 goal]",
       "percent_funded": 460.0
     },
     {
@@ -588,13 +624,13 @@
       "percent_funded": 1.0
     },
     {
-      "source_id": "http://www.kicktraq.com/projects/walkerindustries/the-vector-gear/",
-      "title": "The Vector Gear - Standalone, Open Headset In One Design",
-      "kicktraq_url": "http://www.kicktraq.com/projects/walkerindustries/the-vector-gear/",
-      "campaign_category": "Technology",
-      "campaign_subcategory": "Hardware",
-      "description_text": "A Standalone Virtual Reality Headset Combining High Performance, Inside Out and Face Tracking Within A Community Friendly Design - [currently $35,820 (24%) of $150,000 goal]",
-      "percent_funded": 24.0
+      "source_id": "http://www.kicktraq.com/projects/sumok-slider/sumok-slider-easier-ski-boot-entry/",
+      "title": "Sumok Slider: Easier Ski Boot Entry",
+      "kicktraq_url": "http://www.kicktraq.com/projects/sumok-slider/sumok-slider-easier-ski-boot-entry/",
+      "campaign_category": "Design",
+      "campaign_subcategory": "Product Design",
+      "description_text": "A compact glide sheet and holder designed to make getting into ski boots easier\u2014then pull out and roll up for storage. - [currently $0 (0%) of $8,680 goal]",
+      "percent_funded": 0.0
     },
     {
       "source_id": "http://www.kicktraq.com/projects/835158802/heart-shaped-box/",
@@ -611,8 +647,8 @@
       "kicktraq_url": "http://www.kicktraq.com/projects/670456803/compression-suitcase-that-packs-more-without-getting-bigger/",
       "campaign_category": "Design",
       "campaign_subcategory": "Product Design",
-      "description_text": "2\u00d7 Packing Capacity | 12 Puffer Jackets | 45-Second Compression | 100,000 RPM Motor | 4420D Reinforced Compression Bag | 50% Thicker - [currently $688 (14%) of $5,000 goal]",
-      "percent_funded": 14.0
+      "description_text": "2\u00d7 Packing Capacity | 12 Puffer Jackets | 45-Second Compression | 100,000 RPM Motor | 4420D Reinforced Compression Bag | 50% Thicker - [currently $8,590 (172%) of $5,000 goal]",
+      "percent_funded": 172.0
     },
     {
       "source_id": "http://www.kicktraq.com/projects/aquakara/aquakara-shower-phone-case-with-bluetooth-speaker/",
@@ -620,8 +656,8 @@
       "kicktraq_url": "http://www.kicktraq.com/projects/aquakara/aquakara-shower-phone-case-with-bluetooth-speaker/",
       "campaign_category": "Design",
       "campaign_subcategory": "Product Design",
-      "description_text": "Videos, music, socials, chats \u2014 life goes on, even in the shower. - [currently $484 (3%) of $17,650 goal]",
-      "percent_funded": 3.0
+      "description_text": "Videos, music, socials, chats \u2014 life goes on, even in the shower. - [currently $1,325 (8%) of $17,650 goal]",
+      "percent_funded": 8.0
     },
     {
       "source_id": "http://www.kicktraq.com/projects/379352518/aurafill-the-all-in-one-outdoor-power-and-ignition-tool/",
@@ -647,8 +683,8 @@
       "kicktraq_url": "http://www.kicktraq.com/projects/bernywatches/berny-automatic-diver-watch-domed-two-tone-ceramic-bezel/",
       "campaign_category": "Design",
       "campaign_subcategory": "Product Design",
-      "description_text": "Two colors. Two sides of you. Distinctive ceramic design, sapphire crystal, and 200 m water resistance for everyday wear. - [currently HK$98,820 (198%) of HK$50,000 goal]",
-      "percent_funded": 198.0
+      "description_text": "Two colors. Two sides of you. Distinctive ceramic design, sapphire crystal, and 200 m water resistance for everyday wear. - [currently HK$105,020 (210%) of HK$50,000 goal]",
+      "percent_funded": 210.0
     },
     {
       "source_id": "http://www.kicktraq.com/projects/cantdoitall/petra-1-e-moto-kit-for-mountain-bikes/",
@@ -665,8 +701,8 @@
       "kicktraq_url": "http://www.kicktraq.com/projects/lumastool/lumastool-the-collapsible-light-up-mushroom-stool/",
       "campaign_category": "Design",
       "campaign_subcategory": "Product Design",
-      "description_text": "Finally, a comfy seat anywhere! It's cushioned, it lights up, and it packs into a matching bag for festivals, shows, and late nights. - [currently $859 (17%) of $5,000 goal]",
-      "percent_funded": 17.0
+      "description_text": "Finally, a comfy seat anywhere! It's cushioned, it lights up, and it packs into a matching bag for festivals, shows, and late nights. - [currently $2,879 (58%) of $5,000 goal]",
+      "percent_funded": 58.0
     },
     {
       "source_id": "http://www.kicktraq.com/projects/1902464305/ocean-fantasy-larimar-the-incomparable-blue/",
@@ -692,8 +728,8 @@
       "kicktraq_url": "http://www.kicktraq.com/projects/laqi/la-boreale-by-laqi-modular-light-that-follows-the-sun/",
       "campaign_category": "Design",
       "campaign_subcategory": "Product Design",
-      "description_text": "Sunlight to wake you up. Firelight to let you sleep. Magnetic, flexible and made for any wall: indoor light that syncs with your body. - [currently \u20ac42,686 (285%) of \u20ac15,000 goal]",
-      "percent_funded": 285.0
+      "description_text": "Sunlight to wake you up. Firelight to let you sleep. Magnetic, flexible and made for any wall: indoor light that syncs with your body. - [currently \u20ac42,927 (286%) of \u20ac15,000 goal]",
+      "percent_funded": 286.0
     },
     {
       "source_id": "http://www.kicktraq.com/projects/1811898042/bonesong-resonant-haptic-edc-slider/",
@@ -701,8 +737,8 @@
       "kicktraq_url": "http://www.kicktraq.com/projects/1811898042/bonesong-resonant-haptic-edc-slider/",
       "campaign_category": "Design",
       "campaign_subcategory": "Product Design",
-      "description_text": "A pocket-sized fidget combining smooth magnetic movement, tactile feedback, and the crisp sound of brass tuning forks. - [currently HK$7,907 (264%) of HK$3,000 goal]",
-      "percent_funded": 264.0
+      "description_text": "A pocket-sized fidget combining smooth magnetic movement, tactile feedback, and the crisp sound of brass tuning forks. - [currently HK$8,901 (297%) of HK$3,000 goal]",
+      "percent_funded": 297.0
     },
     {
       "source_id": "http://www.kicktraq.com/projects/stowey/stoweytm-one-hook-endless-possibilities/",
@@ -710,8 +746,8 @@
       "kicktraq_url": "http://www.kicktraq.com/projects/stowey/stoweytm-one-hook-endless-possibilities/",
       "campaign_category": "Design",
       "campaign_subcategory": "Product Design",
-      "description_text": "Hang Anywhere \u00b7 Hang Anything \u00b7 Made in Germany \u00b7 10 Year Guarantee \u00b7 Holds up to 10kg/22lbs \u00b7 100% Recyclable - [currently \u20ac13,367 (297%) of \u20ac4,500 goal]",
-      "percent_funded": 297.0
+      "description_text": "Hang Anywhere \u00b7 Hang Anything \u00b7 Made in Germany \u00b7 10 Year Guarantee \u00b7 Holds up to 10kg/22lbs \u00b7 100% Recyclable - [currently \u20ac13,910 (309%) of \u20ac4,500 goal]",
+      "percent_funded": 309.0
     },
     {
       "source_id": "http://www.kicktraq.com/projects/1029291211/idma-smart-digital-notebook-with-ai-real-time-transcription/",
@@ -720,15 +756,6 @@
       "campaign_category": "Design",
       "campaign_subcategory": "Product Design",
       "description_text": "Capture handwritten notes instantly. Sync, transcribe and organize your ideas with built-in AI, anywhere - [currently \u00a3184 (2%) of \u00a310,000 goal]",
-      "percent_funded": 2.0
-    },
-    {
-      "source_id": "http://www.kicktraq.com/projects/438958139/nexart-muse/",
-      "title": "NEXART MUSE",
-      "kicktraq_url": "http://www.kicktraq.com/projects/438958139/nexart-muse/",
-      "campaign_category": "Design",
-      "campaign_subcategory": "Product Design",
-      "description_text": "Twenty-nine masterworks on solid European oak. Choose. Present. Listen. One hundred numbered collections, made in Antwerp. - [currently \u20ac478 (2%) of \u20ac20,000 goal]",
       "percent_funded": 2.0
     },
     {
