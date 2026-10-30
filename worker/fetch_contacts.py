@@ -174,13 +174,15 @@ MAX_PAGES = 8
 
 # Per-site wall-clock budget. The workflow kills the whole batch at 120
 # min, and a handful of slow JS-heavy sites can burn that entire budget
-# Lowered 240 -> 200 on 2026-10-29: 25 sites x 200s = ~83 min + overhead,
-# safely under the 120-min wall, so a slow batch completes and drains
-# instead of being cancelled at the wall and re-grabbed (loop seen Oct 28-29).
-# with no result for anyone (seen 2026-10-09: two consecutive
-# cancellations of the same 25-lead batch). Once a site exceeds this,
+# Lowered 200 -> 100 on 2026-10-30: the 200s cut did NOT break the
+# loop (batch T021025 still hit the 120-min wall). The budget gates pages,
+# not tiers: one page can cost ~135s (3 retries + render + Wayback),
+# so slow sites ran ~287s each regardless of a 135-270s budget. At 100s a
+# slow site is capped near homepage + fallback (~183s worst), so 25 sites
+# land near ~76 min + setup, under the wall. Fast sites (<100s) unaffected.
+# Once a site exceeds this,
 # fetching stops and the site keeps whatever pages were gathered.
-SITE_BUDGET_S = 200.0
+SITE_BUDGET_S = 100.0
 
 # Common contact endpoints probed directly, crawled early in page order
 # (Fox addition: /about, /team, /contact, /press first; iteration-1 added
