@@ -1,7 +1,16 @@
 {
-  "fetched_at": "2026-11-01T01:29:54.421140Z",
+  "fetched_at": "2026-11-01T08:03:33.020095Z",
   "count": 81,
   "campaigns": [
+    {
+      "source_id": "http://www.kicktraq.com/projects/955416523/desktop-micro-climate-station/",
+      "title": "Desktop Micro-Climate Station",
+      "kicktraq_url": "http://www.kicktraq.com/projects/955416523/desktop-micro-climate-station/",
+      "campaign_category": "Technology",
+      "campaign_subcategory": null,
+      "description_text": "Water-circulation cooling and warming for your desktop contact area. An initial batch of 20 complete sets. - [currently $0 (0%) of $3,180 goal]",
+      "percent_funded": 0.0
+    },
     {
       "source_id": "http://www.kicktraq.com/projects/aussie-think-tank/phishing-trust-initiative-know-who-really-sent-that-email/",
       "title": "Phishing Trust Initiative \u00e2\u0080\u0094 Know Who Really Sent That Email",
@@ -26,8 +35,8 @@
       "kicktraq_url": "http://www.kicktraq.com/projects/jollynet/jollynet-ai-powered-3d-video-projection-light/",
       "campaign_category": "Technology",
       "campaign_subcategory": null,
-      "description_text": "Create with AI, explore 200+ ready-to-use visual worlds, and transform any room with immersive 3D-style projection. - [currently HK$14,905 (38%) of HK$39,000 goal]",
-      "percent_funded": 38.0
+      "description_text": "Create with AI, explore 200+ ready-to-use visual worlds, and transform any room with immersive 3D-style projection. - [currently HK$27,925 (72%) of HK$39,000 goal]",
+      "percent_funded": 72.0
     },
     {
       "source_id": "http://www.kicktraq.com/projects/reazenable/reazenable-a300-real-3d-light-for-your-home/",
@@ -35,8 +44,8 @@
       "kicktraq_url": "http://www.kicktraq.com/projects/reazenable/reazenable-a300-real-3d-light-for-your-home/",
       "campaign_category": "Technology",
       "campaign_subcategory": null,
-      "description_text": "A sculptural plasma light that responds to your touch. Handcrafted glass, noble gases, and three ways to explore living light. - [currently HK$68,791 (529%) of HK$13,000 goal]",
-      "percent_funded": 529.0
+      "description_text": "A sculptural plasma light that responds to your touch. Handcrafted glass, noble gases, and three ways to explore living light. - [currently HK$81,950 (630%) of HK$13,000 goal]",
+      "percent_funded": 630.0
     },
     {
       "source_id": "http://www.kicktraq.com/projects/varbanostudio/wonnly-the-global-creator-performance-index/",
@@ -98,8 +107,8 @@
       "kicktraq_url": "http://www.kicktraq.com/projects/sharvexo/sharvexo-s1-the-pocket-sized-multi-tool-sharpener/",
       "campaign_category": "Technology",
       "campaign_subcategory": null,
-      "description_text": "20\u00b0 Fixed-Angle Sharpening | Coarse + Fine | Ceramic Serrations | Fishhook Groove | Knives, Hatchets & Outdoor Tools - [currently $1,194 (119%) of $1,000 goal]",
-      "percent_funded": 119.0
+      "description_text": "20\u00b0 Fixed-Angle Sharpening | Coarse + Fine | Ceramic Serrations | Fishhook Groove | Knives, Hatchets & Outdoor Tools - [currently $1,299 (130%) of $1,000 goal]",
+      "percent_funded": 130.0
     },
     {
       "source_id": "http://www.kicktraq.com/projects/vigeos/vigeos-care-for-your-elderly-loved-ones-simply/",
@@ -127,15 +136,6 @@
       "campaign_subcategory": null,
       "description_text": "A Personalized Smart Finder Combining Dual Ecosystem Tracking and Custom E-Ink Display - [currently $1,225 (102%) of $1,200 goal]",
       "percent_funded": 102.0
-    },
-    {
-      "source_id": "http://www.kicktraq.com/projects/1856980546/partybattls-the-partyvolution/",
-      "title": "PartyBattls \u00e2\u0080\u0093 The Partyvolution",
-      "kicktraq_url": "http://www.kicktraq.com/projects/1856980546/partybattls-the-partyvolution/",
-      "campaign_category": "Technology",
-      "campaign_subcategory": null,
-      "description_text": "An interactive multiplayer party game for up to 8 players, featuring 100+ minigames and connected gaming hardware. - [currently \u20ac727 (1%) of \u20ac55,000 goal]",
-      "percent_funded": 1.0
     },
     {
       "source_id": "http://www.kicktraq.com/projects/1416409927/i-ching-wisdom-app-daily-guidance-from-ancient-philosophy/",
@@ -242,8 +242,8 @@
       "kicktraq_url": "http://www.kicktraq.com/projects/aivacare/know-moms-okay-even-when-you-cant-be-there/",
       "campaign_category": "Technology",
       "campaign_subcategory": "Apps",
-      "description_text": "A home wellness hub for families caring for aging parents - [currently $599 (10%) of $6,000 goal]",
-      "percent_funded": 10.0
+      "description_text": "A home wellness hub for families caring for aging parents - [currently $849 (14%) of $6,000 goal]",
+      "percent_funded": 14.0
     },
     {
       "source_id": "http://www.kicktraq.com/projects/debtzero/debt-zero-see-your-debt-free-date-the-plan-to-get-there/",
@@ -480,6 +480,15 @@
       "percent_funded": 0.0
     },
     {
+      "source_id": "http://www.kicktraq.com/projects/1856980546/partybattls-the-partyvolution/",
+      "title": "PartyBattls \u00e2\u0080\u0093 The Partyvolution",
+      "kicktraq_url": "http://www.kicktraq.com/projects/1856980546/partybattls-the-partyvolution/",
+      "campaign_category": "Technology",
+      "campaign_subcategory": "Hardware",
+      "description_text": "An interactive multiplayer party game for up to 8 players, featuring 100+ minigames and connected gaming hardware. - [currently \u20ac727 (1%) of \u20ac55,000 goal]",
+      "percent_funded": 1.0
+    },
+    {
       "source_id": "http://www.kicktraq.com/projects/1103742946/rinse-and-see-nasal-rinsing-with-a-live-camera-view/",
       "title": "Rinse & See: Nasal Rinsing with a Live Camera View",
       "kicktraq_url": "http://www.kicktraq.com/projects/1103742946/rinse-and-see-nasal-rinsing-with-a-live-camera-view/",
@@ -521,8 +530,8 @@
       "kicktraq_url": "http://www.kicktraq.com/projects/lpcore/synkor-smart-wellness-device-motion-and-media-sync/",
       "campaign_category": "Technology",
       "campaign_subcategory": "Hardware",
-      "description_text": "IPX7 Waterproof Design | Local Media & In-App Web Sync | 5 Motion Modes | Powerful Brushless-Motor Drive | Dual-Grip Design - [currently HK$69,761 (178%) of HK$39,223 goal]",
-      "percent_funded": 178.0
+      "description_text": "IPX7 Waterproof Design | Local Media & In-App Web Sync | 5 Motion Modes | Powerful Brushless-Motor Drive | Dual-Grip Design - [currently HK$68,632 (175%) of HK$39,223 goal]",
+      "percent_funded": 175.0
     },
     {
       "source_id": "http://www.kicktraq.com/projects/equora/equora-rc1-ai-powered-non-contact-horse-stall-monitor/",
@@ -552,13 +561,31 @@
       "percent_funded": 265.0
     },
     {
-      "source_id": "http://www.kicktraq.com/projects/tryx/vestra-vision-magnetic-keyboard-with-under-switch-oled/",
-      "title": "VESTRA VISION: Magnetic Keyboard with Under-Switch OLED",
-      "kicktraq_url": "http://www.kicktraq.com/projects/tryx/vestra-vision-magnetic-keyboard-with-under-switch-oled/",
-      "campaign_category": "Technology",
-      "campaign_subcategory": "Hardware",
-      "description_text": "5.48-inch OLED Under Switches | Touch-Ready Top Display | 0.01 mm RT Precision | 3 Layer CNC Aluminum | Transparent Magnetic Switches - [currently $113,449 (1134%) of $10,000 goal]",
-      "percent_funded": 1134.0
+      "source_id": "http://www.kicktraq.com/projects/laffystudios/anbruch-debutscale-anime-figureby-laffy-studios/",
+      "title": "ANBRUCH - Debut\u00f0\u009f\u008c\u00b6\u00ef\u00b8\u008fscale anime figure\u00f0\u009f\u008c\u00b6\u00ef\u00b8\u008fby LAFFY STUDIOS",
+      "kicktraq_url": "http://www.kicktraq.com/projects/laffystudios/anbruch-debutscale-anime-figureby-laffy-studios/",
+      "campaign_category": "Design",
+      "campaign_subcategory": "Product Design",
+      "description_text": "The defining moment that changes everything for Laura Laffy \u2014 immortalized in our stunning high-quality 1/7 scale figure! - [currently \u20ac0 (0%) of \u20ac40,000 goal]",
+      "percent_funded": 0.0
+    },
+    {
+      "source_id": "http://www.kicktraq.com/projects/708278958/one-lamp-every-color-any-mood-fenlo-fantasy-color/",
+      "title": "One Lamp, Every Color, Any Mood - FENLO Fantasy Color",
+      "kicktraq_url": "http://www.kicktraq.com/projects/708278958/one-lamp-every-color-any-mood-fenlo-fantasy-color/",
+      "campaign_category": "Design",
+      "campaign_subcategory": "Product Design",
+      "description_text": "A glass display shelf and floor lamp with smooth light: warm yellow to cool white, RGB color, and adjustable brightness. - [currently $0 (0%) of $10,000 goal]",
+      "percent_funded": 0.0
+    },
+    {
+      "source_id": "http://www.kicktraq.com/projects/cloudin/cloudin-elevate-your-everyday-comfort/",
+      "title": "Cloudin - Elevate Your Everyday Comfort",
+      "kicktraq_url": "http://www.kicktraq.com/projects/cloudin/cloudin-elevate-your-everyday-comfort/",
+      "campaign_category": "Design",
+      "campaign_subcategory": "Product Design",
+      "description_text": "Our cloud-like towels and robes wrap you in cozy comfort, making every day feel a little softer and more relaxing. - [currently $0 (0%) of $10,000 goal]",
+      "percent_funded": 0.0
     },
     {
       "source_id": "http://www.kicktraq.com/projects/flatrak1/ultra-slim-flatpack-camp-set-quick-set-foldable-tableandchair/",
@@ -575,8 +602,8 @@
       "kicktraq_url": "http://www.kicktraq.com/projects/650917607/multivac-30000pa-all-in-oneportable-cordless-vacuum-cleaner/",
       "campaign_category": "Design",
       "campaign_subcategory": "Product Design",
-      "description_text": "30,000Pa Powerful Suction | All-in-One Cordless Vacuum | 10,000mAh Battery | Lightweight & Portable | Home, Car & Outdoor Cleaning - [currently $941 (94%) of $1,000 goal]",
-      "percent_funded": 94.0
+      "description_text": "30,000Pa Powerful Suction | All-in-One Cordless Vacuum | 10,000mAh Battery | Lightweight & Portable | Home, Car & Outdoor Cleaning - [currently $1,147 (115%) of $1,000 goal]",
+      "percent_funded": 115.0
     },
     {
       "source_id": "http://www.kicktraq.com/projects/thegirlinthefandom/zodiac-butterfly-pins/",
@@ -593,8 +620,8 @@
       "kicktraq_url": "http://www.kicktraq.com/projects/duzuwarthog/duzu-warthog-forged-in-thunder/",
       "campaign_category": "Design",
       "campaign_subcategory": "Product Design",
-      "description_text": "The engineering soul of an aviation legend, reimagined for the wrist. - [currently $31,705 (53%) of $60,000 goal]",
-      "percent_funded": 53.0
+      "description_text": "The engineering soul of an aviation legend, reimagined for the wrist. - [currently $32,895 (55%) of $60,000 goal]",
+      "percent_funded": 55.0
     },
     {
       "source_id": "http://www.kicktraq.com/projects/2019902272/go-as-they-grow-waterer-feeder-for-ducklings-and-ducks/",
@@ -611,8 +638,8 @@
       "kicktraq_url": "http://www.kicktraq.com/projects/1426262890/the-world-of-tanks-of-world-war-ii-new-crew/",
       "campaign_category": "Design",
       "campaign_subcategory": "Product Design",
-      "description_text": "3D models for 3d printing in STL format/28mm For board games, role-playing games, RPG or wargames - Germany, USSR, USA, Italy - [currently \u20ac640 (229%) of \u20ac279 goal]",
-      "percent_funded": 229.0
+      "description_text": "3D models for 3d printing in STL format/28mm For board games, role-playing games, RPG or wargames - Germany, USSR, USA, Italy - [currently \u20ac591 (212%) of \u20ac279 goal]",
+      "percent_funded": 212.0
     },
     {
       "source_id": "http://www.kicktraq.com/projects/theshowcaseapp/bagchecky-never-forget-your-hockey-gear-again/",
@@ -638,8 +665,8 @@
       "kicktraq_url": "http://www.kicktraq.com/projects/umw/experiment-the-unconventional-titanium-digital-watch/",
       "campaign_category": "Design",
       "campaign_subcategory": "Product Design",
-      "description_text": "High visibility with Hidromod System | Grade 2 Titanium case | Sapphire crystal | Steel button | Multiple strap option - [currently \u20ac22,255 (742%) of \u20ac3,000 goal]",
-      "percent_funded": 742.0
+      "description_text": "High visibility with Hidromod System | Grade 2 Titanium case | Sapphire crystal | Steel button | Multiple strap option - [currently \u20ac21,936 (731%) of \u20ac3,000 goal]",
+      "percent_funded": 731.0
     },
     {
       "source_id": "http://www.kicktraq.com/projects/overdesigned/versa-uniq-a-multifunctional-backpack/",
@@ -667,33 +694,6 @@
       "campaign_subcategory": "Product Design",
       "description_text": "A fashion-first luxury crossbody case with a dual-lock system \u2014 lock the case, loop the strap, walk away. Working prototype shown. - [currently $5,611 (20%) of $28,000 goal]",
       "percent_funded": 20.0
-    },
-    {
-      "source_id": "http://www.kicktraq.com/projects/1898992953/noxti-tri-heirloom-triple-core-tritium-edc-keychain-pendant/",
-      "title": "NoxTi TRI: Ti Tritium Keychain\u00e2\u0080\u0094New Glow. Outshine the Night.",
-      "kicktraq_url": "http://www.kicktraq.com/projects/1898992953/noxti-tri-heirloom-triple-core-tritium-edc-keychain-pendant/",
-      "campaign_category": "Design",
-      "campaign_subcategory": "Product Design",
-      "description_text": "47mm / 15.8g | Gr5 Titanium EDC Glow Lantern | Single or 120\u00b0 Triple | Pick Your Glow | Shock-Cushioned | Quartz Shield | Glass Breaker - [currently HK$538,800 (4490%) of HK$12,000 goal]",
-      "percent_funded": 4490.0
-    },
-    {
-      "source_id": "http://www.kicktraq.com/projects/631952656/dwstn-whale-song-ti-edc-folding-knife-with-4-tuning-forks/",
-      "title": "DWSTN Whale Song: Ti EDC Folding Knife with 4 Tuning Forks",
-      "kicktraq_url": "http://www.kicktraq.com/projects/631952656/dwstn-whale-song-ti-edc-folding-knife-with-4-tuning-forks/",
-      "campaign_category": "Design",
-      "campaign_subcategory": "Product Design",
-      "description_text": "Open it up \u2014 It Sings. \u00c3\u00b0\u00c2\u009f\u00c2\u0094\u00c2\u0094Dang\u00c3\u00af\u00c2\u00bd\u00c2\u009eDang\u00c3\u00af\u00c2\u00bd\u00c2\u009eDang\u00c3\u00af\u00c2\u00bd\u00c2\u009eFour Tuning Forks in One Knife | M390 Steel | TC4 Titanium | 110g - [currently HK$33,528 (168%) of HK$20,000 goal]",
-      "percent_funded": 168.0
-    },
-    {
-      "source_id": "http://www.kicktraq.com/projects/fetoshk/raven-t-precision-machined-titanium-edc-knife-built-to-last/",
-      "title": "RAVEN-T: Precision-Machined Titanium EDC Knife-Built to Last",
-      "kicktraq_url": "http://www.kicktraq.com/projects/fetoshk/raven-t-precision-machined-titanium-edc-knife-built-to-last/",
-      "campaign_category": "Design",
-      "campaign_subcategory": "Product Design",
-      "description_text": "A Precision-Engineered Titanium EDC Knife\u2014M390/VG10 Steel, Nested Liner Lock, Smooth Flipper Action& Distinctive Asymmetric CNC Inlays. - [currently HK$117,230 (301%) of HK$39,000 goal]",
-      "percent_funded": 301.0
     },
     {
       "source_id": "http://www.kicktraq.com/projects/vvt/visionary-ventures-tarot/",
