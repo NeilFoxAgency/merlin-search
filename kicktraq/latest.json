@@ -1,15 +1,42 @@
 {
-  "fetched_at": "2026-11-18T23:31:08.946195Z",
-  "count": 84,
+  "fetched_at": "2026-11-19T04:31:42.139732Z",
+  "count": 85,
   "campaigns": [
+    {
+      "source_id": "http://www.kicktraq.com/projects/mattbechberger/kuvo-affordable-automated-film-developing/",
+      "title": "KUVO: Affordable Automated Film Developing",
+      "kicktraq_url": "http://www.kicktraq.com/projects/mattbechberger/kuvo-affordable-automated-film-developing/",
+      "campaign_category": "Technology",
+      "campaign_subcategory": null,
+      "description_text": "Go from dry film and cold chemicals to ready-to-hang film with the press of a button - [currently $26,112 (46%) of $57,000 goal]",
+      "percent_funded": 46.0
+    },
+    {
+      "source_id": "http://www.kicktraq.com/projects/retroline/retroline-a-landline-phone-paired-to-your-smartphone/",
+      "title": "RetroLine: A Landline Phone, Paired to Your Smartphone",
+      "kicktraq_url": "http://www.kicktraq.com/projects/retroline/retroline-a-landline-phone-paired-to-your-smartphone/",
+      "campaign_category": "Technology",
+      "campaign_subcategory": null,
+      "description_text": "Genuine dial tones & ringing with caller ID, call recording, hold music, PBX, API support, AI voice agent and so much more. - [currently $480 (1%) of $36,000 goal]",
+      "percent_funded": 1.0
+    },
+    {
+      "source_id": "http://www.kicktraq.com/projects/productility/productility-your-all-in-one-fitness-app/",
+      "title": "Productility - Your all in one fitness app.",
+      "kicktraq_url": "http://www.kicktraq.com/projects/productility/productility-your-all-in-one-fitness-app/",
+      "campaign_category": "Technology",
+      "campaign_subcategory": null,
+      "description_text": "Productility serves to combine Food, Gym, Notes, and recipe Importing into one functional application. - [currently $0 (0%) of $10,000 goal]",
+      "percent_funded": 0.0
+    },
     {
       "source_id": "http://www.kicktraq.com/projects/numo-health/numo-one-app-for-fitness-nutrition-and-health/",
       "title": "Numo: One App for Fitness, Nutrition & Health",
       "kicktraq_url": "http://www.kicktraq.com/projects/numo-health/numo-one-app-for-fitness-nutrition-and-health/",
       "campaign_category": "Technology",
       "campaign_subcategory": null,
-      "description_text": "One app for workouts, nutrition and recovery. Plan meals from what\u2019s in your fridge and save on every shop. - [currently \u20ac500 (1%) of \u20ac100,000 goal]",
-      "percent_funded": 1.0
+      "description_text": "One app for workouts, nutrition and recovery. Plan meals from what\u2019s in your fridge and save on every shop. - [currently \u20ac0 (0%) of \u20ac100,000 goal]",
+      "percent_funded": 0.0
     },
     {
       "source_id": "http://www.kicktraq.com/projects/470832575/lumina-smart-dawn-wake-mask-for-darker-mornings/",
@@ -26,8 +53,8 @@
       "kicktraq_url": "http://www.kicktraq.com/projects/wanaichef/wan-aichef-ultra-the-worlds-first-5-in-1-ai-cooking-chef/",
       "campaign_category": "Technology",
       "campaign_subcategory": null,
-      "description_text": "AI Auto-Cooking | AI Food Recognition | 1,000+ Recipes | \u00b13.2\u00b0F Precision | 12MP AI Vision | NVIDIA Jetson Orin Nano | 35L Capacity - [currently $10,224 (102%) of $10,000 goal]",
-      "percent_funded": 102.0
+      "description_text": "AI Auto-Cooking | AI Food Recognition | 1,000+ Recipes | \u00b13.2\u00b0F Precision | 12MP AI Vision | NVIDIA Jetson Orin Nano | 35L Capacity - [currently $12,252 (123%) of $10,000 goal]",
+      "percent_funded": 123.0
     },
     {
       "source_id": "http://www.kicktraq.com/projects/coziobot/cozio-pet-companion-robot/",
@@ -44,8 +71,8 @@
       "kicktraq_url": "http://www.kicktraq.com/projects/revopoint3d/revopoint-miraco-2-standalone-3d-scanner/",
       "campaign_category": "Technology",
       "campaign_subcategory": null,
-      "description_text": "Industrial-Grade Accuracy | 10M Points/s | 6 Scan Modes| Standalone & PC | Scan-to-CAD & Inspection | Photogrammetry | Agentic Workflow - [currently $767,497 (1279%) of $60,000 goal]",
-      "percent_funded": 1279.0
+      "description_text": "Industrial-Grade Accuracy | 10M Points/s | 6 Scan Modes| Standalone & PC | Scan-to-CAD & Inspection | Photogrammetry | Agentic Workflow - [currently $814,359 (1357%) of $60,000 goal]",
+      "percent_funded": 1357.0
     },
     {
       "source_id": "http://www.kicktraq.com/projects/evernear/every-couple-every-moment-closer-together/",
@@ -53,7 +80,7 @@
       "kicktraq_url": "http://www.kicktraq.com/projects/evernear/every-couple-every-moment-closer-together/",
       "campaign_category": "Technology",
       "campaign_subcategory": null,
-      "description_text": "Help us continue developing EverNear \u2014 an innovative couples app designed to bring people closer through shared memories, meaningful co - [currently \u00a31 (0%) of \u00a318,500 goal]",
+      "description_text": "Help us continue developing EverNear \u2014 an innovative couples app designed to bring people closer through shared memories, meaningful co - [currently \u00a30 (0%) of \u00a318,500 goal]",
       "percent_funded": 0.0
     },
     {
@@ -62,8 +89,8 @@
       "kicktraq_url": "http://www.kicktraq.com/projects/holoforgecad/holo-forge-parametric-cad-inside-the-godot-editor/",
       "campaign_category": "Technology",
       "campaign_subcategory": null,
-      "description_text": "Sketch, model, sculpt and assemble 3D parts right in Godot, then bake them straight into your game. Free and open source. - [currently $250 (10%) of $2,500 goal]",
-      "percent_funded": 10.0
+      "description_text": "Sketch, model, sculpt and assemble 3D parts right in Godot, then bake them straight into your game. Free and open source. - [currently $35 (1%) of $2,500 goal]",
+      "percent_funded": 1.0
     },
     {
       "source_id": "http://www.kicktraq.com/projects/tadcalo/tadcalo-g4-ultra-compact-20gbps-bi-directional-usb-c-switch/",
@@ -71,8 +98,8 @@
       "kicktraq_url": "http://www.kicktraq.com/projects/tadcalo/tadcalo-g4-ultra-compact-20gbps-bi-directional-usb-c-switch/",
       "campaign_category": "Technology",
       "campaign_subcategory": null,
-      "description_text": "One-Click Switching | 20Gbps | 8K@30Hz | 140W PD | Built-In Cables | Wide Compatibility | Dual switching modes | Ultra-Compact Design - [currently HK$36,132 (361%) of HK$10,000 goal]",
-      "percent_funded": 361.0
+      "description_text": "One-Click Switching | 20Gbps | 8K@30Hz | 140W PD | Built-In Cables | Wide Compatibility | Dual switching modes | Ultra-Compact Design - [currently HK$39,623 (396%) of HK$10,000 goal]",
+      "percent_funded": 396.0
     },
     {
       "source_id": "http://www.kicktraq.com/projects/breakeronenine/talkie-simple-push-to-talk/",
@@ -107,35 +134,8 @@
       "kicktraq_url": "http://www.kicktraq.com/projects/again-battery/again-the-power-bank-worth-keeping/",
       "campaign_category": "Technology",
       "campaign_subcategory": null,
-      "description_text": "Mirror-chrome aluminum. Tested second-life cells you can look up by serial number. Built to be kept, not replaced. - [currently $10,755 (538%) of $2,000 goal]",
-      "percent_funded": 538.0
-    },
-    {
-      "source_id": "http://www.kicktraq.com/projects/386979317/feedthefloof/",
-      "title": "FeedTheFloof",
-      "kicktraq_url": "http://www.kicktraq.com/projects/386979317/feedthefloof/",
-      "campaign_category": "Technology",
-      "campaign_subcategory": null,
-      "description_text": "Shelter staff are overworked. Manual feeding takes hours, and keeping track of specific diets for sick or recovering animals. - [currently \u00a30 (0%) of \u00a310,000 goal]",
-      "percent_funded": 0.0
-    },
-    {
-      "source_id": "http://www.kicktraq.com/projects/kallipolisllc/kp-commons-a-privacy-first-community/",
-      "title": "KP Commons, a \"privacy first\" community",
-      "kicktraq_url": "http://www.kicktraq.com/projects/kallipolisllc/kp-commons-a-privacy-first-community/",
-      "campaign_category": "Technology",
-      "campaign_subcategory": null,
-      "description_text": "A social network built around connection, conversation, privacy, and user choice. - [currently $100 (0%) of $21,000 goal]",
-      "percent_funded": 0.0
-    },
-    {
-      "source_id": "http://www.kicktraq.com/projects/tamno/tempo-by-tamno/",
-      "title": "Tempo by TAMNO | Repairable Gaming Mouse",
-      "kicktraq_url": "http://www.kicktraq.com/projects/tamno/tempo-by-tamno/",
-      "campaign_category": "Technology",
-      "campaign_subcategory": null,
-      "description_text": "Built for control. Built for tomorrow. Built for you. - [currently $15,498 (39%) of $40,000 goal]",
-      "percent_funded": 39.0
+      "description_text": "Mirror-chrome aluminum. Tested second-life cells you can look up by serial number. Built to be kept, not replaced. - [currently $10,835 (542%) of $2,000 goal]",
+      "percent_funded": 542.0
     },
     {
       "source_id": "http://www.kicktraq.com/projects/razieh/maneno/",
@@ -235,15 +235,6 @@
       "campaign_subcategory": "Apps",
       "description_text": "Not sure what to cook? CookScout looks at what you already have at home and shows you the meals and desserts you can make right now. - [currently $0 (0%) of $1,150 goal]",
       "percent_funded": 0.0
-    },
-    {
-      "source_id": "http://www.kicktraq.com/projects/gridly/gridlycasa-your-off-line-house-management-system-pay-once/",
-      "title": "Gridly.casa your off-line house management system- pay once!",
-      "kicktraq_url": "http://www.kicktraq.com/projects/gridly/gridlycasa-your-off-line-house-management-system-pay-once/",
-      "campaign_category": "Technology",
-      "campaign_subcategory": "Apps",
-      "description_text": "Draw your floor plan, label every shelf and box with a QR code, and find anything in seconds. One file, no account, no cloud. - [currently \u20ac40 (1%) of \u20ac5,000 goal]",
-      "percent_funded": 1.0
     },
     {
       "source_id": "http://www.kicktraq.com/projects/archerkelley/urentz-share-more-spend-less/",
@@ -363,12 +354,21 @@
       "percent_funded": 8.0
     },
     {
+      "source_id": "http://www.kicktraq.com/projects/kallipolisllc/kp-commons-a-privacy-first-community/",
+      "title": "KP Commons, a \"privacy first\" community",
+      "kicktraq_url": "http://www.kicktraq.com/projects/kallipolisllc/kp-commons-a-privacy-first-community/",
+      "campaign_category": "Technology",
+      "campaign_subcategory": "Web",
+      "description_text": "A social network built around connection, conversation, privacy, and user choice. - [currently $100 (0%) of $21,000 goal]",
+      "percent_funded": 0.0
+    },
+    {
       "source_id": "http://www.kicktraq.com/projects/pinionvote/civic-engagement/",
       "title": "The Ultimate Civic Engagement Platform",
       "kicktraq_url": "http://www.kicktraq.com/projects/pinionvote/civic-engagement/",
       "campaign_category": "Technology",
       "campaign_subcategory": "Web",
-      "description_text": "PINION is a NONPARTISAN platform that allows you to find, vote on, and track legislation that matters. GET ENGAGED! - [currently $2,950 (10%) of $30,000 goal]",
+      "description_text": "PINION is a NONPARTISAN platform that allows you to find, vote on, and track legislation that matters. GET ENGAGED! - [currently $2,975 (10%) of $30,000 goal]",
       "percent_funded": 10.0
     },
     {
@@ -489,13 +489,22 @@
       "percent_funded": 0.0
     },
     {
+      "source_id": "http://www.kicktraq.com/projects/tamno/tempo-by-tamno/",
+      "title": "Tempo by TAMNO | Repairable Gaming Mouse",
+      "kicktraq_url": "http://www.kicktraq.com/projects/tamno/tempo-by-tamno/",
+      "campaign_category": "Technology",
+      "campaign_subcategory": "Hardware",
+      "description_text": "Built for control. Built for tomorrow. Built for you. - [currently $15,687 (39%) of $40,000 goal]",
+      "percent_funded": 39.0
+    },
+    {
       "source_id": "http://www.kicktraq.com/projects/chasingcanfishf2/chasing-canfish-f2-the-worlds-first-3-in-1-fishing-scout/",
       "title": "CHASING CanFish F2: The World's First 3-in-1 Fishing Scout",
       "kicktraq_url": "http://www.kicktraq.com/projects/chasingcanfishf2/chasing-canfish-f2-the-worlds-first-3-in-1-fishing-scout/",
       "campaign_category": "Technology",
       "campaign_subcategory": "Hardware",
-      "description_text": "Pan-Tilt HD Camera: 320\u00b0 Pan \u00b7 30 m Adjustable Depth | Dual-Frequency Sonar: 110 kHz \u00b7 310 kHz | AI Auto Cruise: Up to 50 \u00d7 50 m - [currently $83,101 (831%) of $10,000 goal]",
-      "percent_funded": 831.0
+      "description_text": "Pan-Tilt HD Camera: 320\u00b0 Pan \u00b7 30 m Adjustable Depth | Dual-Frequency Sonar: 110 kHz \u00b7 310 kHz | AI Auto Cruise: Up to 50 \u00d7 50 m - [currently $85,499 (855%) of $10,000 goal]",
+      "percent_funded": 855.0
     },
     {
       "source_id": "http://www.kicktraq.com/projects/keeb/rainy75v2/",
@@ -503,8 +512,8 @@
       "kicktraq_url": "http://www.kicktraq.com/projects/keeb/rainy75v2/",
       "campaign_category": "Technology",
       "campaign_subcategory": "Hardware",
-      "description_text": "Best-sounding wireless mechanical keyboard for work & gaming: 10000 mAh battery, 17.4mm front height and 8kHz wired & wireless polling. - [currently $347,458 (3475%) of $10,000 goal]",
-      "percent_funded": 3475.0
+      "description_text": "Best-sounding wireless mechanical keyboard for work & gaming: 10000 mAh battery, 17.4mm front height and 8kHz wired & wireless polling. - [currently $357,700 (3577%) of $10,000 goal]",
+      "percent_funded": 3577.0
     },
     {
       "source_id": "http://www.kicktraq.com/projects/airseekers/aranix-the-worlds-first-4wd-4ws-all-terrain-robotic-mower/",
@@ -512,8 +521,8 @@
       "kicktraq_url": "http://www.kicktraq.com/projects/airseekers/aranix-the-worlds-first-4wd-4ws-all-terrain-robotic-mower/",
       "campaign_category": "Technology",
       "campaign_subcategory": "Hardware",
-      "description_text": "4WD+4WS | 0-Radius Turning | 40\u00b0 Slope Capability | FlowCut 2.0 | Edge-Cutting Module | Tri-Fusion Position | AI Obstacle Avoidance - [currently HK$7,741,568 (1973%) of HK$392,305 goal]",
-      "percent_funded": 1973.0
+      "description_text": "4WD+4WS | 0-Radius Turning | 40\u00b0 Slope Capability | FlowCut 2.0 | Edge-Cutting Module | Tri-Fusion Position | AI Obstacle Avoidance - [currently HK$8,009,115 (2042%) of HK$392,305 goal]",
+      "percent_funded": 2042.0
     },
     {
       "source_id": "http://www.kicktraq.com/projects/futuriztatech/hydra-led-140w-the-smart-cable-that-charges-two-laptops/",
@@ -521,8 +530,8 @@
       "kicktraq_url": "http://www.kicktraq.com/projects/futuriztatech/hydra-led-140w-the-smart-cable-that-charges-two-laptops/",
       "campaign_category": "Technology",
       "campaign_subcategory": "Hardware",
-      "description_text": "One charger, three devices. Up to 140W from a single port, shared automatically between three USB-C devices, with every watt on screen. - [currently $77,835 (778%) of $10,000 goal]",
-      "percent_funded": 778.0
+      "description_text": "One charger, three devices. Up to 140W from a single port, shared automatically between three USB-C devices, with every watt on screen. - [currently $82,345 (823%) of $10,000 goal]",
+      "percent_funded": 823.0
     },
     {
       "source_id": "http://www.kicktraq.com/projects/sonomer/sonomer-the-worlds-first-2-in-1-home-ultrasonic-marinator/",
@@ -530,8 +539,8 @@
       "kicktraq_url": "http://www.kicktraq.com/projects/sonomer/sonomer-the-worlds-first-2-in-1-home-ultrasonic-marinator/",
       "campaign_category": "Technology",
       "campaign_subcategory": "Hardware",
-      "description_text": "Quick Marination | Meat Tenderizing | Rapid Thawing | Prep meat faster | For Air Fryer, Oven, Pan & BBQ | Easy to Use | Eco-Friendly - [currently HK$45,298 (151%) of HK$30,000 goal]",
-      "percent_funded": 151.0
+      "description_text": "Quick Marination | Meat Tenderizing | Rapid Thawing | Prep meat faster | For Air Fryer, Oven, Pan & BBQ | Easy to Use | Eco-Friendly - [currently HK$46,860 (156%) of HK$30,000 goal]",
+      "percent_funded": 156.0
     },
     {
       "source_id": "http://www.kicktraq.com/projects/detyl100/dts-39t/",
@@ -548,8 +557,8 @@
       "kicktraq_url": "http://www.kicktraq.com/projects/inkelva/inkelva-full-color-a4-and-letter-printing-made-portable/",
       "campaign_category": "Technology",
       "campaign_subcategory": "Hardware",
-      "description_text": "A compact inkjet printer for documents and photos, with battery power and direct Wi-Fi. Print from your phone at home or on the go. - [currently $16,629 (416%) of $4,000 goal]",
-      "percent_funded": 416.0
+      "description_text": "A compact inkjet printer for documents and photos, with battery power and direct Wi-Fi. Print from your phone at home or on the go. - [currently $16,787 (420%) of $4,000 goal]",
+      "percent_funded": 420.0
     },
     {
       "source_id": "http://www.kicktraq.com/projects/1090054499/warmtal-hvac-systems/",
@@ -602,8 +611,8 @@
       "kicktraq_url": "http://www.kicktraq.com/projects/minaal/carry-on-daily-4-0-bags/",
       "campaign_category": "Design",
       "campaign_subcategory": "Product Design",
-      "description_text": "13 years, thousands of users, millions of miles: an everyday bag and travel backpack that just don\u2019t stop. Because neither do you. - [currently $84,849 (48%) of $175,000 goal]",
-      "percent_funded": 48.0
+      "description_text": "13 years, thousands of users, millions of miles: an everyday bag and travel backpack that just don\u2019t stop. Because neither do you. - [currently $98,284 (56%) of $175,000 goal]",
+      "percent_funded": 56.0
     },
     {
       "source_id": "http://www.kicktraq.com/projects/normo/u-stand/",
@@ -611,8 +620,8 @@
       "kicktraq_url": "http://www.kicktraq.com/projects/normo/u-stand/",
       "campaign_category": "Design",
       "campaign_subcategory": "Product Design",
-      "description_text": "An elegant and functional silicone iPhone stand that works with the official Apple MagSafe Charger. - [currently \u00a371 (36%) of \u00a3200 goal]",
-      "percent_funded": 36.0
+      "description_text": "An elegant and functional silicone iPhone stand that works with the official Apple MagSafe Charger. - [currently \u00a390 (45%) of \u00a3200 goal]",
+      "percent_funded": 45.0
     },
     {
       "source_id": "http://www.kicktraq.com/projects/lavayoo/lava-lovies-your-warmable-weighted-friend-for-big-feelings/",
@@ -620,7 +629,7 @@
       "kicktraq_url": "http://www.kicktraq.com/projects/lavayoo/lava-lovies-your-warmable-weighted-friend-for-big-feelings/",
       "campaign_category": "Design",
       "campaign_subcategory": "Product Design",
-      "description_text": "5 lb weighted plushies you can warm or chill. Meet your new emotional support friends the Lava & Ice Dragons, Capybara, Axolotl & more. - [currently $891 (1%) of $59,900 goal]",
+      "description_text": "5 lb weighted plushies you can warm or chill. Meet your new emotional support friends the Lava & Ice Dragons, Capybara, Axolotl & more. - [currently $815 (1%) of $59,900 goal]",
       "percent_funded": 1.0
     },
     {
@@ -638,8 +647,8 @@
       "kicktraq_url": "http://www.kicktraq.com/projects/eversttti/azure-titan-beautifully-blue-built-for-everyday-cooking/",
       "campaign_category": "Design",
       "campaign_subcategory": "Product Design",
-      "description_text": "GR1 Pure Titanium | Super Nonstick Cooking Surface | One Pan for Everyday Cooking | No Chemical Coatings | Lightweight - [currently $10,357 (173%) of $6,000 goal]",
-      "percent_funded": 173.0
+      "description_text": "GR1 Pure Titanium | Super Nonstick Cooking Surface | One Pan for Everyday Cooking | No Chemical Coatings | Lightweight - [currently $11,360 (189%) of $6,000 goal]",
+      "percent_funded": 189.0
     },
     {
       "source_id": "http://www.kicktraq.com/projects/keytron/keychron-orca-echo-split-keyboard-with-built-in-trackball/",
@@ -647,8 +656,8 @@
       "kicktraq_url": "http://www.kicktraq.com/projects/keytron/keychron-orca-echo-split-keyboard-with-built-in-trackball/",
       "campaign_category": "Design",
       "campaign_subcategory": "Product Design",
-      "description_text": "Split Keyboard | Built-In Trackball, Scroll Wheel & Scroll Pads | Tri-Mode Connectivity | ZMK - [currently $710,618 (2369%) of $30,000 goal]",
-      "percent_funded": 2369.0
+      "description_text": "Split Keyboard | Built-In Trackball, Scroll Wheel & Scroll Pads | Tri-Mode Connectivity | ZMK - [currently $763,197 (2544%) of $30,000 goal]",
+      "percent_funded": 2544.0
     },
     {
       "source_id": "http://www.kicktraq.com/projects/210085665/kikoryu-kkr-27a-100w-power-bank-with-wireless-charging/",
@@ -656,8 +665,8 @@
       "kicktraq_url": "http://www.kicktraq.com/projects/210085665/kikoryu-kkr-27a-100w-power-bank-with-wireless-charging/",
       "campaign_category": "Design",
       "campaign_subcategory": "Product Design",
-      "description_text": "100W fast charging, multi-device output, wireless charging, and a smart display\u2014all in one portable power solution. - [currently $474 (47%) of $1,000 goal]",
-      "percent_funded": 47.0
+      "description_text": "100W fast charging, multi-device output, wireless charging, and a smart display\u2014all in one portable power solution. - [currently $543 (54%) of $1,000 goal]",
+      "percent_funded": 54.0
     },
     {
       "source_id": "http://www.kicktraq.com/projects/tanguu/tanguu-worlds-1st-no-charge-insulin-cooler-with-smart-temp/",
@@ -665,8 +674,8 @@
       "kicktraq_url": "http://www.kicktraq.com/projects/tanguu/tanguu-worlds-1st-no-charge-insulin-cooler-with-smart-temp/",
       "campaign_category": "Design",
       "campaign_subcategory": "Product Design",
-      "description_text": "No Power Needed | 20\u00d7 Thermal Insulation Enhancement| 60% Lighter | Visible Temperature Control | Smart Temperature Alerts Always - [currently HK$17,810 (45%) of HK$39,231 goal]",
-      "percent_funded": 45.0
+      "description_text": "No Power Needed | 20\u00d7 Thermal Insulation Enhancement| 60% Lighter | Visible Temperature Control | Smart Temperature Alerts Always - [currently HK$29,504 (75%) of HK$39,231 goal]",
+      "percent_funded": 75.0
     },
     {
       "source_id": "http://www.kicktraq.com/projects/moroxknife/pulsar-folding-knife-zircuti-damascus-and-m390-edc-by-morox/",
@@ -674,8 +683,8 @@
       "kicktraq_url": "http://www.kicktraq.com/projects/moroxknife/pulsar-folding-knife-zircuti-damascus-and-m390-edc-by-morox/",
       "campaign_category": "Design",
       "campaign_subcategory": "Product Design",
-      "description_text": "Two Collector Editions | Zirconium Damascus Handle | Bohler M390 | Early Bird Limited to 34 Units| RIHE Design - [currently HK$30,779 (616%) of HK$5,000 goal]",
-      "percent_funded": 616.0
+      "description_text": "Two Collector Editions | Zirconium Damascus Handle | Bohler M390 | Early Bird Limited to 34 Units| RIHE Design - [currently HK$36,549 (731%) of HK$5,000 goal]",
+      "percent_funded": 731.0
     },
     {
       "source_id": "http://www.kicktraq.com/projects/getwisecases/getwise-bible-case/",
@@ -683,8 +692,8 @@
       "kicktraq_url": "http://www.kicktraq.com/projects/getwisecases/getwise-bible-case/",
       "campaign_category": "Design",
       "campaign_subcategory": "Product Design",
-      "description_text": "A Leather Bible Case \u2014 Designed to Protect What Matters - [currently $2,594 (26%) of $10,000 goal]",
-      "percent_funded": 26.0
+      "description_text": "A Leather Bible Case \u2014 Designed to Protect What Matters - [currently $3,029 (30%) of $10,000 goal]",
+      "percent_funded": 30.0
     },
     {
       "source_id": "http://www.kicktraq.com/projects/376376594/the-bumper-style-for-raw-cards/",
@@ -692,8 +701,8 @@
       "kicktraq_url": "http://www.kicktraq.com/projects/376376594/the-bumper-style-for-raw-cards/",
       "campaign_category": "Design",
       "campaign_subcategory": "Product Design",
-      "description_text": "Silicone Guards for Toploaders. - [currently $1,734 (102%) of $1,700 goal]",
-      "percent_funded": 102.0
+      "description_text": "Silicone Guards for Toploaders. - [currently $2,162 (127%) of $1,700 goal]",
+      "percent_funded": 127.0
     },
     {
       "source_id": "http://www.kicktraq.com/projects/cyber-ht/cyber-ht-pocket-orbital-fidget-with-a-sealed-track/",
@@ -719,8 +728,8 @@
       "kicktraq_url": "http://www.kicktraq.com/projects/etops/ufo-the-front-rotor-skeleton-automatic-watch/",
       "campaign_category": "Design",
       "campaign_subcategory": "Product Design",
-      "description_text": "A New Perspective on Mechanical Time|Japan Movement|Sapphire Case|Mechanical Watch|Creative Design - [currently HK$54,180 (36%) of HK$150,000 goal]",
-      "percent_funded": 36.0
+      "description_text": "A New Perspective on Mechanical Time|Japan Movement|Sapphire Case|Mechanical Watch|Creative Design - [currently HK$56,760 (38%) of HK$150,000 goal]",
+      "percent_funded": 38.0
     },
     {
       "source_id": "http://www.kicktraq.com/projects/maoyingliang/lightweight-microwave-safe-titanium-food-containers/",
@@ -737,8 +746,8 @@
       "kicktraq_url": "http://www.kicktraq.com/projects/firiczky/the-minimalists-wall-calendar-visualize-your-2027/",
       "campaign_category": "Design",
       "campaign_subcategory": "Graphic Design",
-      "description_text": "Minimalist, forgiving, and beautiful. A wall calendar designed to make 2027 feel like a breath of fresh air. - [currently $6,692 (446%) of $1,500 goal]",
-      "percent_funded": 446.0
+      "description_text": "Minimalist, forgiving, and beautiful. A wall calendar designed to make 2027 feel like a breath of fresh air. - [currently $7,080 (472%) of $1,500 goal]",
+      "percent_funded": 472.0
     },
     {
       "source_id": "http://www.kicktraq.com/projects/cosmicshards/stargazing-flashcards-105-solar-system-objects-and-events/",
@@ -746,8 +755,8 @@
       "kicktraq_url": "http://www.kicktraq.com/projects/cosmicshards/stargazing-flashcards-105-solar-system-objects-and-events/",
       "campaign_category": "Design",
       "campaign_subcategory": "Graphic Design",
-      "description_text": "Explore the ever-changing day and night sky: planets, comets, eclipses, meteor showers, and much more \u2013 all in one beautiful set. - [currently $15,081 (302%) of $5,000 goal]",
-      "percent_funded": 302.0
+      "description_text": "Explore the ever-changing day and night sky: planets, comets, eclipses, meteor showers, and much more \u2013 all in one beautiful set. - [currently $15,525 (311%) of $5,000 goal]",
+      "percent_funded": 311.0
     },
     {
       "source_id": "http://www.kicktraq.com/projects/hologrambonsai/hologram-bonsai-the-bonsai-that-never-fades/",
